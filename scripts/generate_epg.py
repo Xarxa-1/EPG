@@ -1,69 +1,83 @@
 import json
 import xml.etree.ElementTree as ET
-from xml.dom import minidrom
-from datetime import datetime
+from xml.dom import minidom
 import requests
 from dateutil import parser
 
-# URL de l'API de 3Cat
 URL = "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat"
 
 def fetch_data():
-    response = requests.get(URL)
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    response = requests.get(URL, headers=headers)
     response.raise_for_status()
     return response.json()
 
 def format_xmltv_date(date_str):
-    """Converteix dates ISO/string al format XMLTV: YYYYMMDDHHMMSS +0000"""
-    dt = parser.parse(date_str)
-    return dt.strftime("%Y%m%d%H%M%S %z")
+    if not date_str:
+        return ""
+    try:
+        dt = parser.parse(date_str)
+        return dt.strftime("%Y%m%d%H%M%S %z")
+    except Exception:
+        return ""
 
 def create_epg_xml(data):
     tv = ET.Element("tv", generator_info_name="3Cat EPG Generator")
     
-    # 1. Definir Canals (s'extreuen o es creen dinàmicament)
-    channels_added = set()
-    
-    # Recórrer programes per registrar canals i emissions
-    # Ajusta les claus JSON segons l'estructura exacta de la resposta de l'API
-    items = data.get("resposta", {}).get("item", []) if isinstance(data, dict) else []
+    # Canal per defecte
+    channel_el = ET.SubElement(tv, "channel", id="3cat")
+    display_el = ET.SubElement(channel_el, "display-name")
+    display_el.text = "3Cat"
+
+    # L'API sol retornar la llista a resposta.items o directament una llista
+    items = []
+    if isinstance(data, dict):
+        resposta = data.get("resposta", {})
+        items = resposta.get("item", []) if isinstance(resposta, dict) else []
+    elif isinstance(data, list):
+        items = data
 
     for item in items:
-        channel_id = item.get("cadena_id", "3cat.cat")
-        channel_name = item.get("cadena_nom", "3Cat")
-        
-        if channel_id not in channels_added:
-            channel_el = ET.SubElement(tv, "channel", id=str(channel_id))
-            display_el = ET.SubElement(channel_el, "display-name")
-            display_el.text = channel_name
-            channels_added.add(channel_id)
+        if not isinstance(item, dict):
+            continue
 
-        # 2. Afegir Programació (programme)
-        start_time = format_xmltv_date(item.get("data_ini"))
-        end_time = format_xmltv_date(item.get("data_fi"))
+        # Cerquem les claus de dates típiques de l'API de 3Cat
+        start_raw = item.get("data_emissio") or item.get("data_ini") or item.get("data")
+        end_raw = item.get("data_fi")
         
-        programme = ET.SubElement(tv, "programme", {
-            "start": start_time,
-            "stop": end_time,
-            "channel": str(channel_id)
-        })
+        start_time = format_xmltv_date(start_raw)
+        end_time = format_xmltv_date(end_raw)
+
+        # Si no hi ha data d'inici, saltem l'element
+        if not start_time:
+            continue
+
+        prog_attr = {"start": start_time, "channel": "3cat"}
+        if end_time:
+            prog_attr["stop"] = end_time
+
+        programme = ET.SubElement(tv, "programme", prog_attr)
         
-        # Títol del programa
+        title_text = item.get("titol") or item.get("nom") or "Sense títol"
         title = ET.SubElement(programme, "title", lang="ca")
-        title.text = item.get("titol", "Sense títol")
+        title.text = str(title_text)
         
-        # Descripció (si existeix)
-        if item.get("descripcio"):
+        desc_text = item.get("descripcio") or item.get("sinopsi")
+        if desc_text:
             desc = ET.SubElement(programme, "desc", lang="ca")
-            desc.text = item.get("descripcio")
+            desc.text = str(desc_text)
 
-    # Format de text XML net
     xml_str = minidom.parseString(ET.tostring(tv, encoding="utf-8")).toprettyxml(indent="  ")
     return xml_str
 
 if __name__ == "__main__":
-    raw_data = fetch_data()
-    xml_content = create_epg_xml(raw_data)
-    
-    with open("epg.xml", "w", encoding="utf-8") as f:
-        f.write(xml_content)
+    try:
+        raw_data = fetch_data()
+        xml_content = create_epg_xml(raw_data)
+        
+        with open("epg.xml", "w", encoding="utf-8") as f:
+            f.write(xml_content)
+        print("EPG generat amb èxit!")
+    except Exception as e:
+        print(f"Error generant l'EPG: {e}")
+        raise e
