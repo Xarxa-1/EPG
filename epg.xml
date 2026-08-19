@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<tv generator_info_name="3Cat EPG Generator">
+  <channel id="3cat">
+    <display-name>3Cat</display-name>
+  </channel>
+</tv>
