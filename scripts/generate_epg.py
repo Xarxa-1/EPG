@@ -5,13 +5,39 @@ from datetime import datetime, timedelta
 import requests
 from dateutil import parser
 
-URL = "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat"
+# Diccionari amb tots els canals de 3Cat i les seves URLs de la graella
+CHANNELS = {
+    "tv3": {
+        "name": "TV3",
+        "url": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat"
+    },
+    "324": {
+        "name": "3/24",
+        "url": "https://dinamics.3cat.cat/wsarafem/arafem/324/profile/noimage/geo/cat"
+    },
+    "sx3": {
+        "name": "SX3 / 33",
+        "url": "https://dinamics.3cat.cat/wsarafem/arafem/33/profile/noimage/geo/cat"
+    },
+    "esport3": {
+        "name": "Esport3",
+        "url": "https://dinamics.3cat.cat/wsarafem/arafem/es3/profile/noimage/geo/cat"
+    },
+    "tv3cat": {
+        "name": "TV3Cat",
+        "url": "https://dinamics.3cat.cat/wsarafem/arafem/tvi/profile/noimage/geo/cat"
+    }
+}
 
-def fetch_data():
+def fetch_channel_data(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    response = requests.get(URL, headers=headers)
-    response.raise_for_status()
-    return response.json()
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        return response.json()
+    except Exception as e:
+        print(f"Error descarregant {url}: {e}")
+        return None
 
 def parse_iso_date(date_str):
     if not date_str:
@@ -22,7 +48,6 @@ def parse_iso_date(date_str):
         return None
 
 def extract_all_dicts(obj):
-    """Extreu tots els objectes/diccionaris del JSON de forma recursiva"""
     dicts = []
     if isinstance(obj, dict):
         dicts.append(obj)
@@ -33,53 +58,43 @@ def extract_all_dicts(obj):
             dicts.extend(extract_all_dicts(item))
     return dicts
 
-def create_epg_xml(data):
-    tv = ET.Element("tv", generator_info_name="3Cat EPG Generator")
+def create_epg_xml():
+    tv = ET.Element("tv", generator_info_name="3Cat Multi-Channel EPG Generator")
     
-    all_nodes = extract_all_dicts(data)
-    channels_dict = {} # Guarda id: nom del canal
-    programmes = []
+    # 1. Definir tots els canals a l'XML
+    for ch_id, ch_info in CHANNELS.items():
+        ch_el = ET.SubElement(tv, "channel", id=ch_id)
+        disp_el = ET.SubElement(ch_el, "display-name")
+        disp_el.text = ch_info["name"]
 
-    for node in all_nodes:
-        # Cerquem el títol del programa
-        titol = None
-        for k in ["titol", "titol_programa", "nom", "title"]:
-            if k in node and isinstance(node[k], str) and len(node[k].strip()) > 1:
-                titol = node[k].strip()
-                break
-        
-        # Només processem si hem trobat un títol de programa
-        if titol:
-            # 1. Identificar el canal real
-            codi_canal = "3cat"
-            nom_canal = "3Cat"
-            
-            # Cerca de claus de canal habituals de 3Cat
-            for k in ["codi_canal", "cadena_id", "canal_id", "channel_id", "canal"]:
-                if k in node and node[k]:
-                    codi_canal = str(node[k]).lower().replace(" ", "")
+    # 2. Descarregar i afegir la programació de cada canal
+    for ch_id, ch_info in CHANNELS.items():
+        print(f"Processant canal: {ch_info['name']}...")
+        data = fetch_channel_data(ch_info["url"])
+        if not data:
+            continue
+
+        all_nodes = extract_all_dicts(data)
+
+        for node in all_nodes:
+            titol = None
+            for k in ["titol", "titol_programa", "nom", "title"]:
+                if k in node and isinstance(node[k], str) and len(node[k].strip()) > 1:
+                    titol = node[k].strip()
                     break
 
-            for k in ["nom_canal", "cadena_nom", "canal_nom", "channel_name", "cadena"]:
-                if k in node and node[k]:
-                    nom_canal = str(node[k]).strip()
-                    break
+            if not titol:
+                continue
 
-            # Si tenim el nom del canal però el codi és genèric, creem un id a partir del nom
-            if codi_canal == "3cat" and nom_canal != "3Cat":
-                codi_canal = nom_canal.lower().replace(" ", "").replace("à","a").replace("é","e")
-
-            channels_dict[codi_canal] = nom_canal
-
-            # 2. Extracció de dates (inici i fi)
+            # Extracció de dates
             data_ini_raw = None
-            for k in ["data_ini", "hora_inici", "data_emissio", "start_time", "data", "hora_ini"]:
+            for k in ["data_ini", "hora_inici", "data_emissio", "start_time", "data"]:
                 if k in node and node[k]:
                     data_ini_raw = str(node[k])
                     break
 
             data_fi_raw = None
-            for k in ["data_fi", "hora_fi", "stop_time", "end_time", "hora_fi"]:
+            for k in ["data_fi", "hora_fi", "stop_time", "end_time"]:
                 if k in node and node[k]:
                     data_fi_raw = str(node[k])
                     break
@@ -93,14 +108,13 @@ def create_epg_xml(data):
             dt_start = parse_iso_date(data_ini_raw)
             dt_end = parse_iso_date(data_fi_raw)
 
-            # Calcular hora de fi si no ve expressada
             if dt_start and not dt_end and durada:
                 try:
                     dt_end = dt_start + timedelta(minutes=int(durada))
                 except ValueError:
                     pass
 
-            # 3. Altres camps
+            # Subtítol i sinopsi
             titol_cap = None
             for k in ["titol_capitol", "capitol", "subtitol", "subtitle"]:
                 if k in node and node[k] and str(node[k]) != titol:
@@ -108,67 +122,44 @@ def create_epg_xml(data):
                     break
 
             sinopsi = None
-            for k in ["sinopsi", "descripcio", "desc", "description"]:
+            for k in ["sinopsi", "descripcio", "desc"]:
                 if k in node and node[k]:
                     sinopsi = str(node[k]).strip()
                     break
 
-            programmes.append({
-                "channel_id": codi_canal,
-                "start": dt_start,
-                "end": dt_end,
-                "title": titol,
-                "subtitle": titol_cap,
-                "desc": sinopsi,
-                "duration": durada
-            })
+            # Crear element <programme>
+            start_str = dt_start.strftime("%Y%m%d%H%M%S +0000") if dt_start else datetime.utcnow().strftime("%Y%m%d%H%M%S +0000")
+            
+            attr = {"start": start_str, "channel": ch_id}
+            if dt_end:
+                attr["stop"] = dt_end.strftime("%Y%m%d%H%M%S +0000")
 
-    # Construcció de les etiquetes <channel>
-    if not channels_dict:
-        channels_dict["3cat"] = "3Cat"
+            p_el = ET.SubElement(tv, "programme", attr)
 
-    for c_id, c_name in channels_dict.items():
-        ch_el = ET.SubElement(tv, "channel", id=c_id)
-        disp_el = ET.SubElement(ch_el, "display-name")
-        disp_el.text = c_name
+            t_el = ET.SubElement(p_el, "title", lang="ca")
+            t_el.text = titol
 
-    # Construcció de les etiquetes <programme>
-    for prog in programmes:
-        # Format XMLTV: YYYYMMDDHHMMSS +0000
-        start_str = prog["start"].strftime("%Y%m%d%H%M%S +0000") if prog["start"] else datetime.utcnow().strftime("%Y%m%d%H%M%S +0000")
-        
-        attr = {"start": start_str, "channel": prog["channel_id"]}
-        if prog["end"]:
-            attr["stop"] = prog["end"].strftime("%Y%m%d%H%M%S +0000")
+            if titol_cap:
+                s_el = ET.SubElement(p_el, "sub-title", lang="ca")
+                s_el.text = titol_cap
 
-        p_el = ET.SubElement(tv, "programme", attr)
+            if sinopsi:
+                d_el = ET.SubElement(p_el, "desc", lang="ca")
+                d_el.text = sinopsi
 
-        t_el = ET.SubElement(p_el, "title", lang="ca")
-        t_el.text = prog["title"]
-
-        if prog["subtitle"]:
-            s_el = ET.SubElement(p_el, "sub-title", lang="ca")
-            s_el.text = prog["subtitle"]
-
-        if prog["desc"]:
-            d_el = ET.SubElement(p_el, "desc", lang="ca")
-            d_el.text = prog["desc"]
-
-        if prog["duration"]:
-            l_el = ET.SubElement(p_el, "length", units="minutes")
-            l_el.text = prog["duration"]
+            if durada:
+                l_el = ET.SubElement(p_el, "length", units="minutes")
+                l_el.text = durada
 
     xml_str = minidom.parseString(ET.tostring(tv, encoding="utf-8")).toprettyxml(indent="  ")
     return xml_str
 
 if __name__ == "__main__":
     try:
-        raw_data = fetch_data()
-        xml_content = create_epg_xml(raw_data)
-        
+        xml_content = create_epg_xml()
         with open("epg.xml", "w", encoding="utf-8") as f:
             f.write(xml_content)
-        print("Fitxer epg.xml generat correctament amb tots els canals!")
+        print("Fitxer epg.xml generat correctament amb TOTS els canals de 3Cat!")
     except Exception as e:
         print(f"Error generant l'EPG: {e}")
         raise e
