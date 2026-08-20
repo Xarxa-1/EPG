@@ -1,6 +1,6 @@
 import json
 import xml.etree.ElementTree as ET
-from xml.dom import minidrom
+from xml.dom import minidom
 from datetime import datetime, timedelta
 import requests
 from dateutil import parser
@@ -27,7 +27,6 @@ def find_all_programmes(data):
     
     def search_recursive(node):
         if isinstance(node, dict):
-            # Comprovem si aquest diccionari és un programa
             has_title = any(k in node for k in ["titol", "titol_programa", "nom", "titol_emissio"])
             has_date = any(k in node for k in ["data_ini", "hora_inici", "data_emissio", "data", "hora_ini"])
             
@@ -53,12 +52,10 @@ def create_epg_xml(data):
     parsed_programmes = []
 
     for item in raw_programmes:
-        # 1. Extracció del títol
         titol = item.get("titol_programa") or item.get("titol") or item.get("nom") or item.get("titol_emissio")
         if not titol or not str(titol).strip():
             continue
 
-        # 2. Extracció i normalització del canal
         codi_canal = str(
             item.get("codi_canal") or 
             item.get("cadena_id") or 
@@ -77,7 +74,6 @@ def create_epg_xml(data):
 
         channels_dict[codi_canal] = nom_canal
 
-        # 3. Dates i durada
         start_raw = item.get("data_ini") or item.get("hora_inici") or item.get("data_emissio") or item.get("data")
         end_raw = item.get("data_fi") or item.get("hora_fi")
         durada = item.get("durada") or item.get("duracio")
@@ -91,7 +87,6 @@ def create_epg_xml(data):
             except ValueError:
                 pass
 
-        # Subtítol i sinopsi
         titol_cap = item.get("titol_capitol") or item.get("capitol") or item.get("subtitol")
         sinopsi = item.get("sinopsi") or item.get("descripcio") or item.get("desc")
 
@@ -105,17 +100,14 @@ def create_epg_xml(data):
             "duration": str(durada) if durada else None
         })
 
-    # Si no s'ha trobat cap canal, en creem un per defecte
     if not channels_dict:
         channels_dict["tv3"] = "3Cat / TV3"
 
-    # Generar capçaleres <channel>
     for c_id, c_name in channels_dict.items():
         ch_el = ET.SubElement(tv, "channel", id=c_id)
         disp_el = ET.SubElement(ch_el, "display-name")
         disp_el.text = c_name
 
-    # Generar tots els blocs <programme>
     for prog in parsed_programmes:
         start_str = prog["start"].strftime("%Y%m%d%H%M%S +0000") if prog["start"] else datetime.utcnow().strftime("%Y%m%d%H%M%S +0000")
         
