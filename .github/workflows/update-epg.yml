@@ -2,13 +2,15 @@ name: Actualitza EPG
 
 on:
   schedule:
-    # S'executa automàticament cada 6 hores (a les 00:00, 06:00, 12:00 i 18:00 UTC)
+    # S'executa cada 6 hores automàticament
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Permet executar el workflow manualment des de la pestanya Actions
+  workflow_dispatch: # Permet l'execució manual des de GitHub Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permís necessari per poder fer el git push
 
     steps:
     - name: Baixar el repositori
@@ -27,10 +29,10 @@ jobs:
     - name: Generar EPG
       run: python scripts/generate_epg.py
 
-    - - name: Desar canvis a GitHub
+    - name: Desar canvis a GitHub
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add -A
-        git commit -m "Auto-update EPG i debug JSON" || exit 0
+        git commit -m "Auto-update EPG data" || exit 0
         git push
