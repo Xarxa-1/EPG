@@ -1,2 +1,55 @@
 <?xml version="1.0" ?>
-<tv generator_info_name="3Cat EPG Generator"/>
+<tv generator_info_name="3Cat EPG Generator">
+  <channel id="3cat">
+    <display-name>3Cat</display-name>
+  </channel>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10951</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10951</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10951</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10952</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">Cultura de l'aigua</sub-title>
+    <desc lang="ca">L'aigua és la font de la vida i és present en molts dels nostres rituals. A la Pobla de Segur, Ferran Torrent perd una aposta i Araceli Segarra li ho fa pagar baixant pels ràpids del Noguera Pallaresa, en la Festa dels Raiers. A les aigües plàcides de l'Albufera de València, Ferran tindrà la seva revenja particular, i junts embarcaran per conèixer els secrets de la vela llatina, un dels sistemes de navegació més antics. Acabarem en companyia d'Elisabet Carnicé al barri del Serrallo de Tarragona, on serem testimonis de la processó marítima del Carme, una de les més genuïnes.</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Seguint el curs de la xisqueta</sub-title>
+    <desc lang="ca">El Marc seguirà el rastre de la xisqueta, l'ovella típica d'aquesta zona del Pirineu, a través d'un viatge que va del pla de Corts a la Vall d'Àssua, i que descobreix alguns dels indrets més espectaculars del Baix Pallars.La ruta que seguirà comença a l'estany de Montcortés i passa per Peramea, Gerri de la Sal, el congost de Collegats, Baro, Montardit de Baix, Sort, Rialp, Altron, Caregue i acaba a Llessui.Durant el trajecte aprendrem com es tenyeix la llana amb tints naturals, farem barranquisme al barranc de l'Infern, descobrirem en què consisteix l'Escola de Pastors, pujarem en bici per la vall d'Àssua, cuinarem pollastre de corral a Casa Bellera i coneixerem una pastora poc convencional que ens portarà al Triador, la baixada de 4.000 ovelles després de passar tot l'estiu dalt de la muntanya.</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Super Georgette</sub-title>
+    <desc lang="ca">Els pares se'n van fora a passar el cap de setmana i la senyora Georgette, la veïna, s'ofereix a fer de cangur de les nenes. La Marine i la Wendy, empipades amb la decisió dels seus pares, estan disposades a fer-li veure'n de tots colors. Però la senyora Georgette havia sigut vigilant d'un internat de noies i és un os dur de rosegar...</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">L'amiga invisible</sub-title>
+    <desc lang="ca">A les Sisters, les han tornat a castigar sense sortir de casa i s'inventen l'existència d'una amiga imaginària que es diu Barbara que sap fer de tot. Farà classes d'anglès a la Wendy i de ioga a la Marine. La Barbara és l'excusa perfecta per sortir de casa. Però les coses es compliquen quan els pares volen conèixer aquesta noia superdotada.</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Persona Infiltrada</title>
+    <sub-title lang="ca">Cristina Brondo - família Batista Llanas</sub-title>
+    <desc lang="ca">La Cristina Brondo és la famosa que aquesta setmana compartirà un dia amb una família de Vilanova i la Geltrú. L'actriu i presentadora coneixerà una família dedicada en cos i ànima a la rica vida ociosa i festiva de la localitat. Amb ells passarà un dia ple de jocs, música, castells, vermuts i passejos pels indrets més característics de la ciutat. Però haurà de vigilar que tanta festa no la distregui del seu objectiu principal: trobar la persona infiltrada. Per això també haurà d'investigar la casa familiar, interrogar els seus membres i esquivar les petites trampes que li pararan. Al final de la jornada, la Cristina s'haurà de mullar i assenyalar un membre de la família. Si ho encerta, un espectador s'endurà els 5.000&amp;euro; per sorteig. Si la família aconsegueix enredar-la, seran ells i la persona infiltrada els qui es quedaran el premi del programa.</desc>
+  </programme>
+  <programme start="20260101000000 +0000" channel="3cat">
+    <title lang="ca">Tot o res</title>
+    <sub-title lang="ca">Tot o res</sub-title>
+  </programme>
+</tv>
