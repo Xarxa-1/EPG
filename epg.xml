@@ -1,66 +1,66 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3cat">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260820220503 +0000" channel="tv3" stop="20260820223416 +0000">
+  <programme start="20260820220503 +0000" channel="tvi" stop="20260820223416 +0000">
     <title lang="ca">Vinagreta</title>
     <sub-title lang="ca">Hot Yoga</sub-title>
     <desc lang="ca">La Rosalia té un remei contra els gasos. El Yeral fa una classe d'alt voltatge. A l'escola Montessori, la Carme té una altra reunió confusa. El Marçal posa a prova la paciència de l'Elsa.</desc>
     <length units="minutes">00:29:13</length>
   </programme>
-  <programme start="20260820223416 +0000" channel="tv3" stop="20260820231140 +0000">
+  <programme start="20260820223416 +0000" channel="tvi" stop="20260820231140 +0000">
     <title lang="ca">Vinagreta</title>
     <sub-title lang="ca">Qui parla paga</sub-title>
     <desc lang="ca">La Yeni i l'Eli s'inventen un servei nou. A hisenda puja la tensió per culpa d'una multa a la zona blava. L'Àfrica posa el Yeral al seu lloc. Al tanatori, la vídua enterra un marit molt especial.</desc>
     <length units="minutes">00:37:24</length>
   </programme>
-  <programme start="20260820210000 +0000" channel="tv3" stop="20260820230000 +0000">
+  <programme start="20260820210000 +0000" channel="324" stop="20260820230000 +0000">
     <title lang="ca">Telenotícies vespre</title>
     <sub-title lang="ca">7302</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260820230000 +0000" channel="tv3" stop="20260821003000 +0000">
+  <programme start="20260820230000 +0000" channel="324" stop="20260821003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">10957</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260820221207 +0000" channel="tv3" stop="20260820230000 +0000">
+  <programme start="20260820221207 +0000" channel="esport3" stop="20260820230000 +0000">
     <title lang="ca">Tot Costa</title>
     <sub-title lang="ca">Cancelo, presentat</sub-title>
     <desc lang="ca">El lateral portuguès ja ha signat amb el Barça. Analitzem la seva incorporació, i parlem sobre les opcions que té el Barça de fitxar un davanter centre</desc>
     <length units="minutes">00:47:53</length>
   </programme>
-  <programme start="20260820230000 +0000" channel="tv3" stop="20260821003114 +0000">
+  <programme start="20260820230000 +0000" channel="esport3" stop="20260821003114 +0000">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">El compte enrere de Deco; qui serà el 9 contra l'Elx; Mayola i Sergi Ferrer</sub-title>
     <desc lang="ca">Fem tertúlia amb Juvenal Edjogo, Jordi Martí, Irati Vidal i Toni Freixa. Parlem de la missió contrarellotge de Deco, que ha de trobar un davanter centre abans del final del mercat. També analitzem qui pot ser el '9' del Barça per al debut de la lliga, Marc Mayola ens parla de Hamza i de Lautaro i acabem amb les seccions de Sergi Ferrer i Òscar Nin.</desc>
     <length units="minutes">01:31:14</length>
   </programme>
-  <programme start="20260820220208 +0000" channel="tv3" stop="20260820222616 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El famós detectiu acorralat: el cas dels dos grans assassinats en sèrie (1a part)</sub-title>
-    <desc lang="ca">En Kogoro rep la visita de la Nanae Tsukumo perquè esbrini la causa real de la mort del seu home, el famós mag Motoyasu Tsukumo que, segons la policia, es va suïcidar ingerint un verí. En Kogoro, la Ran i en Conan van a la mansió dels Tsukumo i coneixen els tres deixebles del mag que, juntament amb l'esposa, van trobar-ne el cadàver. Dos naips enganxats donaran una pista a en Conan.</desc>
-    <length units="minutes">00:24:08</length>
-  </programme>
-  <programme start="20260820222616 +0000" channel="tv3" stop="20260820224929 +0000">
+  <programme start="20260820222616 +0000" channel="sx3" stop="20260820224930 +0000">
     <title lang="ca">El detectiu Conan</title>
     <sub-title lang="ca">El famós detectiu acorralat: el cas dels dos grans assassinats en sèrie (2a part))</sub-title>
     <desc lang="ca">En Conan desxifra què volen dir els números que va marcar el senyor Tsukumo i descobreix qui el va enverinar. Un cop resolt el cas, la Ran li etziba que sap que és en Shinichi. Afortunadament, apareix la mare d'en Shinichi, la Yukiko, i el cobreix. L'endemà, se l'endú a visitar una amiga que li ha demanat un favor: esbrinar si el seu oncle és un impostor que vol cobrar una herència.</desc>
-    <length units="minutes">00:23:13</length>
+    <length units="minutes">00:23:14</length>
+  </programme>
+  <programme start="20260820224930 +0000" channel="sx3" stop="20260820231200 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El famós detectiu acorralat: el cas dels dos grans assassinats en sèrie (3a part)</sub-title>
+    <desc lang="ca">L'oncle Yoshifusa explica que va rebre una amenaça de mort i va venir des del Brasil a la lectura del testament del seu germà per desemmascarar-ne l'autor. La Yukiko s'interessa pel pou del jardí, on va morir la primera dona del senyor Yoshioka quinze anys enrere. Al vespre, troben un altre cadàver al pou. L'endemà, durant la lectura del testament, hi ha un altre intent d'assassinat. En Conan comença a lligar caps.</desc>
+    <length units="minutes">00:22:30</length>
   </programme>
   <programme start="20260820220152 +0000" channel="tv3" stop="20260820224811 +0000">
     <title lang="ca">La Renaixença</title>
