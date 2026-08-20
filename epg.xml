@@ -1,18 +1,6 @@
 <?xml version="1.0" ?>
-<tv generator_info_name="3Cat Multi-Channel EPG Generator">
+<tv generator_info_name="3Cat EPG Generator">
   <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tv3cat">
-    <display-name>TV3Cat</display-name>
+    <display-name>3Cat / TV3</display-name>
   </channel>
 </tv>
