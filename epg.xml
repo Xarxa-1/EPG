@@ -6,72 +6,73 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260820220503 +0000" channel="tvi" stop="20260820223416 +0000">
-    <title lang="ca">Vinagreta</title>
-    <sub-title lang="ca">Hot Yoga</sub-title>
-    <desc lang="ca">La Rosalia té un remei contra els gasos. El Yeral fa una classe d'alt voltatge. A l'escola Montessori, la Carme té una altra reunió confusa. El Marçal posa a prova la paciència de l'Elsa.</desc>
-    <length units="minutes">00:29:13</length>
-  </programme>
-  <programme start="20260820223416 +0000" channel="tvi" stop="20260820231140 +0000">
-    <title lang="ca">Vinagreta</title>
-    <sub-title lang="ca">Qui parla paga</sub-title>
-    <desc lang="ca">La Yeni i l'Eli s'inventen un servei nou. A hisenda puja la tensió per culpa d'una multa a la zona blava. L'Àfrica posa el Yeral al seu lloc. Al tanatori, la vídua enterra un marit molt especial.</desc>
-    <length units="minutes">00:37:24</length>
-  </programme>
-  <programme start="20260820210000 +0000" channel="324" stop="20260820230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7302</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260820230000 +0000" channel="324" stop="20260821003000 +0000">
+  <programme start="20260821010125 +0000" channel="tvi" stop="20260821040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10957</sub-title>
+    <sub-title lang="ca">10958</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">02:58:35</length>
   </programme>
-  <programme start="20260820221207 +0000" channel="esport3" stop="20260820230000 +0000">
+  <programme start="20260821040000 +0000" channel="tvi" stop="20260821044536 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Joan Sanmartí 'Quatre Elements'</sub-title>
+    <desc lang="ca">El guitarrista barceloní ens presenta Quatre Elements; formació en què, acompanyat de tres músics magnífics, proposa una col·lecció de composicions originals, amb el nom de 'Cruïlles'. En aquest projecte Sanmarti es concentra gairebé exclusivament en la utilització de la guitarra acústica. Els Quatre Elements són: Oriol Roca al contrabaix, Guillem Arnedo a la bateria, Marc Miralta al vibrafon i Joan Sanmartí a les guitarres.</desc>
+    <length units="minutes">00:45:36</length>
+  </programme>
+  <programme start="20260821010000 +0000" channel="324" stop="20260821060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10958</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260821060000 +0000" channel="324" stop="20260821070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10958</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260821021902 +0000" channel="esport3" stop="20260821023654 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5484</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:17:52</length>
+  </programme>
+  <programme start="20260821023654 +0000" channel="esport3" stop="20260821040746 +0000">
     <title lang="ca">Tot Costa</title>
     <sub-title lang="ca">Cancelo, presentat</sub-title>
     <desc lang="ca">El lateral portuguès ja ha signat amb el Barça. Analitzem la seva incorporació, i parlem sobre les opcions que té el Barça de fitxar un davanter centre</desc>
-    <length units="minutes">00:47:53</length>
+    <length units="minutes">01:30:52</length>
   </programme>
-  <programme start="20260820230000 +0000" channel="esport3" stop="20260821003114 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El compte enrere de Deco; qui serà el 9 contra l'Elx; Mayola i Sergi Ferrer</sub-title>
-    <desc lang="ca">Fem tertúlia amb Juvenal Edjogo, Jordi Martí, Irati Vidal i Toni Freixa. Parlem de la missió contrarellotge de Deco, que ha de trobar un davanter centre abans del final del mercat. També analitzem qui pot ser el '9' del Barça per al debut de la lliga, Marc Mayola ens parla de Hamza i de Lautaro i acabem amb les seccions de Sergi Ferrer i Òscar Nin.</desc>
-    <length units="minutes">01:31:14</length>
+  <programme start="20260821023207 +0000" channel="sx3" stop="20260821025203 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">La mateixa lluna, ara i per sempre!</sub-title>
+    <desc lang="ca">Els nostres herois estan ben tranquils fent una migdiada, però la cosa acaba molt malament perquè el Team Rocket llança una xarxa contra l'Ash i el Pikachu! L'Ash aconsegueix fer enlairar el Team Rocket, però el Pikachu, enganxat a la xarxa, se'n va amb ells! Poc després, el Pikachu i el Meowth es troben en una situació perillosa i han d'unir forces per buscar els seus amics. Mentrestant, l'Ash, la Misty i el Brock s'han d'enfrontar a un estol de Spearow i a un grup de Venipede, i ho han de fer amb l'Ash ben trist perquè ha perdut el seu company. La Jessie i el James també estan tristos perquè han perdut el Meowth. Per sort, al final l'Ash es retroba amb el Pikachu i al cap de poc el Team Rocket, que arriba amb globus, recull el Mewoth!</desc>
+    <length units="minutes">00:19:56</length>
   </programme>
-  <programme start="20260820222616 +0000" channel="sx3" stop="20260820224930 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El famós detectiu acorralat: el cas dels dos grans assassinats en sèrie (2a part))</sub-title>
-    <desc lang="ca">En Conan desxifra què volen dir els números que va marcar el senyor Tsukumo i descobreix qui el va enverinar. Un cop resolt el cas, la Ran li etziba que sap que és en Shinichi. Afortunadament, apareix la mare d'en Shinichi, la Yukiko, i el cobreix. L'endemà, se l'endú a visitar una amiga que li ha demanat un favor: esbrinar si el seu oncle és un impostor que vol cobrar una herència.</desc>
-    <length units="minutes">00:23:14</length>
+  <programme start="20260821025203 +0000" channel="sx3" stop="20260821031311 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Fornèrix</sub-title>
+    <desc lang="ca">Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.</desc>
+    <length units="minutes">00:21:08</length>
   </programme>
-  <programme start="20260820224930 +0000" channel="sx3" stop="20260820231200 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El famós detectiu acorralat: el cas dels dos grans assassinats en sèrie (3a part)</sub-title>
-    <desc lang="ca">L'oncle Yoshifusa explica que va rebre una amenaça de mort i va venir des del Brasil a la lectura del testament del seu germà per desemmascarar-ne l'autor. La Yukiko s'interessa pel pou del jardí, on va morir la primera dona del senyor Yoshioka quinze anys enrere. Al vespre, troben un altre cadàver al pou. L'endemà, durant la lectura del testament, hi ha un altre intent d'assassinat. En Conan comença a lligar caps.</desc>
-    <length units="minutes">00:22:30</length>
+  <programme start="20260821023229 +0000" channel="tv3" stop="20260821030151 +0000">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Sant Andreu de la Barca amb Jordi Cruz</sub-title>
+    <desc lang="ca">Productes de proximitat, innovació i art defineixen aquest capítol de La Sobretaula, que visita Sant Andreu de la Barca. Ho fem acompanyats del polifacètic Jordi Cruz, amb qui descobrim un municipi creatiu, inquiet i connectat amb el territori.</desc>
+    <length units="minutes">00:29:22</length>
   </programme>
-  <programme start="20260820220152 +0000" channel="tv3" stop="20260820224811 +0000">
+  <programme start="20260821030151 +0000" channel="tv3" stop="20260821034817 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 35</sub-title>
-    <desc lang="ca">Aquesta setmana hem tingut la celebració dels I Jocs Florals de 'La Renaixença' i hem rebut la visita del guanyador. Hem descobert anècdotes i curiositats sobre la pròtesi, el cistell, el piolet i la ploma estilogràfica. I hem xerrat amb l'Espartac Peran, l'Albert Sánchez Piñol, la Judit Neddermann i en Methkal Khalawi. En aquest programa sempre passen coses inesperades, i sempre ens agrada poder-les compartir amb vosaltres.</desc>
-    <length units="minutes">00:46:19</length>
-  </programme>
-  <programme start="20260820224811 +0000" channel="tv3" stop="20260820233639 +0000">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Caçadors i caçats</sub-title>
-    <desc lang="ca">Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.</desc>
-    <length units="minutes">00:48:28</length>
+    <sub-title lang="ca">La guardiola</sub-title>
+    <desc lang="ca">Tots hem tingut una guardiola amb forma de porquet i heu de saber que té aquesta forma per una confusió lingüística: a Anglaterra s'anomenava 'pygg' un tipus d'argila i algú va entendre 'pig' (porc en anglès). 'Apreneu idiomes', deien. I així es va confondre tota la humanitat. Ens visita la Maria Nicolau, que esmorza tres tasses de cafè. Potser això té molt a veure amb l'energia que porta a sobre sempre la que veiem. Sortim a passejar en Winter, un gos d'Irlanda, per l'accident de la plataforma Byford Dolphin, el novembre del 1983.</desc>
+    <length units="minutes">00:46:26</length>
   </programme>
 </tv>
