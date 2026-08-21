@@ -1,78 +1,74 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20260821070000 +0000" channel="tvi" stop="20260821095956 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10959</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:59:56</length>
+  <programme start="20260821135948 +0000" channel="tvi" stop="20260821143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7018</sub-title>
+    <length units="minutes">00:30:12</length>
   </programme>
-  <programme start="20260821095956 +0000" channel="tvi" stop="20260821115535 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10960</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:39</length>
+  <programme start="20260821143000 +0000" channel="tvi" stop="20260821153306 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7304</sub-title>
+    <length units="minutes">01:03:06</length>
   </programme>
-  <programme start="20260821070000 +0000" channel="324" stop="20260821100000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10959</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+  <programme start="20260821140000 +0000" channel="324" stop="20260821143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7018</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260821100000 +0000" channel="324" stop="20260821120000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10960</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260821143000 +0000" channel="324" stop="20260821163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7304</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260821070945 +0000" channel="esport3" stop="20260821083959 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El compte enrere de Deco; qui serà el 9 contra l'Elx; Mayola i Sergi Ferrer</sub-title>
-    <desc lang="ca">Fem tertúlia amb Juvenal Edjogo, Jordi Martí, Irati Vidal i Toni Freixa. Parlem de la missió contrarellotge de Deco, que ha de trobar un davanter centre abans del final del mercat. També analitzem qui pot ser el '9' del Barça per al debut de la lliga, Marc Mayola ens parla de Hamza i de Lautaro i acabem amb les seccions de Sergi Ferrer i Òscar Nin.</desc>
-    <length units="minutes">01:30:14</length>
+  <programme start="20260821150330 +0000" channel="esport3" stop="20260821153001 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">La frontera imaginària</sub-title>
+    <desc lang="ca">De Torre Baró a la Vall d'Hebron (passant per Nou Barris i Horta). 6 km.Recorrerem la frontera imaginària que separa la ciutat de la muntanya, o el que és el mateix, la separació urbana entre Collserola i els districtes de Nous Barris i Horta. Començarem per l'Ateneu de Nou Barris, un dels centres de referència en l'ensenyament de circ. D'aquí tirarem cap a Horta, on recorrerem les seves antigues masies i en coneixerem una en particular, la Masia de Can Travi, on cuinarem un plat tradicional amb ínfules d'avantguarda: 'la vedella que volia ser tòfona'. Acabarem a la Vall d'Hebron, a les pistes on es va jugar el tennis durant els JJOO, amb el Jordi Arrese, medalla de plata al 92 i amb qui jugarem un partidet de pàdel.</desc>
+    <length units="minutes">00:26:31</length>
   </programme>
-  <programme start="20260821083959 +0000" channel="esport3" stop="20260821092645 +0000">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">Plana d'Urgell, amb Manu Guix</sub-title>
-    <desc lang="ca">El cantant i compositor Manu Guix serà el protagonista principal del capítol que dedicarem a la Plana d'Urgell. Entre concert i concert en Manu busca temps per anar a córrer. En aquesta ocasió ho farà al costat de la Núria al voltant de l'estany d'Ivars. Posteriorment l'atleta i el music es tornaran a trobar a Barcelona per tocar el piano.</desc>
-    <length units="minutes">00:46:46</length>
+  <programme start="20260821153001 +0000" channel="esport3" stop="20260821162154 +0000">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">La comarca de Nantes</sub-title>
+    <desc lang="ca">En aquest episodi, la Julie visita la regió de Nantes, ciutat natal de Jules Verne. Primer, amb la Christine, preparar unes vieires a l'estil de Nantes. Després, en un poble de pescadors, la Françoise li ensenya a fer un pastís amb rom típic de Nantes. Tot seguit, amb l'Alain, que és pescador del Loira, cuina una pasta de full amb lucioperca.</desc>
+    <length units="minutes">00:51:53</length>
   </programme>
-  <programme start="20260821081625 +0000" channel="sx3" stop="20260821082709 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió amb ocells exòtics</sub-title>
-    <desc lang="ca">Avui anirem d'excursió amb la Tat i en Titó a un parc d'ocells exòtics. Jugarem a buscar un tucà, un guacamai i una gura. I en John C ens portarà de sorpresa un ocell australià: una nimfa!</desc>
-    <length units="minutes">00:10:44</length>
+  <programme start="20260821141013 +0000" channel="sx3" stop="20260821143355 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El record del primer amor (1a part)</sub-title>
+    <desc lang="ca">Mentre la Ran, la Sonoko i en Conan netegen la casa d'en Shinichi, hi arriba l'Asami Uchida, el primer amor d'en Shinichi. La noia els convida a celebrar el seu aniversari en una casa a la muntanya amb uns amics. En Kogoro s'hi apunta per vigilar-los. Just abans de bufar les espelmes del pastís, l'Asami s'adorm al sofà. En absència dels amics, es cala foc a la casa amb la jove a dins.</desc>
+    <length units="minutes">00:23:42</length>
   </programme>
-  <programme start="20260821082709 +0000" channel="sx3" stop="20260821083651 +0000">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar a cantar</sub-title>
-    <desc lang="ca">Qui guanyarà el concurs de millor cantant del parc? Serà en Titó? L'Os Bru? L'Oca de l'Empordà? El Tritó del Montseny? El Ruquicorn? O la Tat? Sí, avui també veurem la Tat!!!</desc>
-    <length units="minutes">00:09:42</length>
+  <programme start="20260821143355 +0000" channel="sx3" stop="20260821145612 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Demà serà massa tard. Un atac desesperat de Déu</sub-title>
+    <desc lang="ca">En Krilin i en Cor Petit, que havien enganyat el fill d'en Gàrlic fent veure que els havia afectat la boira negra, ho han aprofitat per alliberar el senyor Popo i el Totpoderós, que posarà en risc la seva vida per aconseguir l'aigua sagrada. El fill d'en Gàrlic es comença a transformar per augmentar la seva força gràcies a l'energia del planeta endimoniat.</desc>
+    <length units="minutes">00:22:17</length>
   </programme>
-  <programme start="20260821073855 +0000" channel="tv3" stop="20260821083047 +0000">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Gósol</sub-title>
-    <desc lang="ca">Un programa d'humor en què un monologuista ambulant recorre Catalunya a la recerca del paisatge humà dels pobles de menys de mil habitants. Cada capítol, un poble diferent. I a cada poble, un repte: fer un monòleg a mida dels seus habitants.Quim Masferrer arriba a cada poble atent a les sorpreses, sense xarxa, amb la vista i l'oïda a punt per detectar moments irrepetibles, disposat a deixar-se portar pels veïns i descobrir els racons inèdits, els costums locals, els somnis particulars i sobretot el seu sentit de l'humor. Per fer-ho, disposa només de 48 hores.I després reuneix tots els veïns al teatre del poble i exposa la seva visió particular del que ha descobert. Tots hi són presents i tots poden aparèixer en qualsevol moment al monòleg. Durant uns quants segons poden ser el centre d'atenció. El resultat: un programa d'humor on els veïns són, al mateix temps, públic i protagonistes, i amb un format que combina els moments de monòleg amb les entrevistes i recerca dels personatges més entranyables, curiosos, savis, divertits o peculiars.El programa és una oportunitat per conèixer el territori i els costums de la Catalunya rural. Cada poble és una reproducció a escala del país.Una producció de TV3 amb la col·laboració de Brutal Media.'El Foraster' és l'adaptació per a TV3 del format danès 'Comedy on the edge', que des de fa dues temporades triomfa al canal DR1 de Dinamarca.</desc>
-    <length units="minutes">00:51:52</length>
+  <programme start="20260821133707 +0000" channel="tv3" stop="20260821143752 +0000">
+    <title lang="ca">Gàdor i els taurons</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics.</desc>
+    <length units="minutes">01:00:45</length>
   </programme>
-  <programme start="20260821083047 +0000" channel="tv3" stop="20260821091722 +0000">
+  <programme start="20260821143752 +0000" channel="tv3" stop="20260821152532 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 11</sub-title>
-    <desc lang="ca">Aquests últims programes han passat per 'La Renaixença' l'Empar Moliner, l'Enric Aurich, en Xarim Aresté i la Bruna Dinarès. Bojos coneguts i savis per conèixer amb qui hem compartit exclusives, confidències i sobretot rialles. Us deixem amb alguns dels moments més destacats de les entrevistes perquè les pugueu recordar. També hem parlat sobre objectes que ens acompanyen des de fa mil·lennis. Alguns que ja no es fan servir, com la cabina telefònica; d'altres que no deixarem mai, com la navalla i el botó; i encara d'altres que voldríem que deixessin d'existir, com la flauta dolça.</desc>
-    <length units="minutes">00:46:35</length>
+    <sub-title lang="ca">El mocador de roba</sub-title>
+    <desc lang="ca">A favor o en contra dels mocadors de roba per mocar-se? Dediquem aquest capítol de 'La Renaixença' a aquesta peça de roba. Hi ha gent que prefereix mocar-se directament amb el dit. Alguns fins i tot poden arribar al cervell. Ens visita en Miquel Grandio, que ha vingut directament des de Dubai, on treballa com a creador de contingut des de fa un temps. I ens descobreix quins impostos paguen els autònoms en aquest país. Anem amb en Foc fins al primer accident aeri de la història, a París, el 1785.</desc>
+    <length units="minutes">00:47:40</length>
   </programme>
 </tv>
