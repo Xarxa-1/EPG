@@ -6,69 +6,79 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260821135948 +0000" channel="tvi" stop="20260821143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7018</sub-title>
-    <length units="minutes">00:30:12</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260821191912 +0000" channel="tvi" stop="20260821203706 +0000">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Compàs de silenci. Jean Marie del Moral i Miquel Barceló</sub-title>
+    <desc lang="ca">'Compàs de silenci. Jean Marie del Moral &amp; Miquel Barceló' (2024), una producció de Allegra Films &amp; la Perifèrica produccions en coproducció amb 3Cat e IB3, i el suport de l'ICIB i l'ICEC. El fotògraf Jean Marie del Moral entra per primera vegada a l'estudi de l'artista Miquel Barceló els anys vuitanta. Amb aquell primer retrat comença una relació que ja fa quatre dècades que dura. Un diàleg en què la imatge pren el protagonisme per damunt de les paraules i que documenta l'evolució del pintor de Felanitx, Mallorca. Les estacions nodals d'aquest viatge suggestiu i singular passen pels estudis de l'artista a París, Mali, Mallorca, Palermo, Vietri, Gao, Nàpols o Barcelona, espais lligats intrínsecament a l'evolució de Barceló, recollits per la càmera de Del Moral. Silenciosa, pausada i &amp;mdash;també&amp;mdash;en desenvolupament constant.Equip:Direcció, guió i realització: Cesc Mulet Producció: Mayca Sanz, Montse Rodríguez Director fotografia: Jaume Caldentey Muntatge: Jordi Pol Director de producció: Núria Cano Música: Joana Gomila &amp; Laia Vallès Lingüista: David Arnau Grafisme: Luis Ozonas</desc>
+    <length units="minutes">01:17:54</length>
   </programme>
-  <programme start="20260821143000 +0000" channel="tvi" stop="20260821153306 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7304</sub-title>
-    <length units="minutes">01:03:06</length>
+  <programme start="20260821203706 +0000" channel="tvi" stop="20260821213326 +0000">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Pilar Aymerich. La mirada felina</sub-title>
+    <desc lang="ca">'Pilar Aymerich. La mirada felina' (2020), una producció de Wonka Films / Good Company Productions en coproducció amb TVC i RTVE i amb la col·laboració de l'ICECLes seves fotografies de la Barcelona de les dècades de 1970 i 1980 i els seus centenars de retrats de personatges del món de la cultura han convertit Pilar Aymerich en una de les fotògrafes catalanes indispensables de la segona meitat del segle XX. Pilar Aymerich, la mirada felina repassa més de cinquanta anys de trajectòria d'una fotògrafa que continua en actiu, i mostra la seva metòdica manera de treballar fent el seguiment d'una sessió de fotos a l'actor Sergi López.Direcció i guió: Jordi PortalsRealització: Benet RománDirectora de producció: Carolina TrujilloProductor executiu TVC: Jordi AmbrósDirectora de continguts: Montse ArmengouProductor delegat TVC: Daniel BareaDirector fotografia: Benet RomanMuntatge: Silbila Estruch</desc>
+    <length units="minutes">00:56:20</length>
   </programme>
-  <programme start="20260821140000 +0000" channel="324" stop="20260821143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7018</sub-title>
-    <length units="minutes">00:30:00</length>
-  </programme>
-  <programme start="20260821143000 +0000" channel="324" stop="20260821163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7304</sub-title>
+  <programme start="20260821200000 +0000" channel="324" stop="20260821220000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10965</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260821150330 +0000" channel="esport3" stop="20260821153001 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">La frontera imaginària</sub-title>
-    <desc lang="ca">De Torre Baró a la Vall d'Hebron (passant per Nou Barris i Horta). 6 km.Recorrerem la frontera imaginària que separa la ciutat de la muntanya, o el que és el mateix, la separació urbana entre Collserola i els districtes de Nous Barris i Horta. Començarem per l'Ateneu de Nou Barris, un dels centres de referència en l'ensenyament de circ. D'aquí tirarem cap a Horta, on recorrerem les seves antigues masies i en coneixerem una en particular, la Masia de Can Travi, on cuinarem un plat tradicional amb ínfules d'avantguarda: 'la vedella que volia ser tòfona'. Acabarem a la Vall d'Hebron, a les pistes on es va jugar el tennis durant els JJOO, amb el Jordi Arrese, medalla de plata al 92 i amb qui jugarem un partidet de pàdel.</desc>
-    <length units="minutes">00:26:31</length>
+  <programme start="20260821220000 +0000" channel="324" stop="20260822003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10966</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260821153001 +0000" channel="esport3" stop="20260821162154 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La comarca de Nantes</sub-title>
-    <desc lang="ca">En aquest episodi, la Julie visita la regió de Nantes, ciutat natal de Jules Verne. Primer, amb la Christine, preparar unes vieires a l'estil de Nantes. Després, en un poble de pescadors, la Françoise li ensenya a fer un pastís amb rom típic de Nantes. Tot seguit, amb l'Alain, que és pescador del Loira, cuina una pasta de full amb lucioperca.</desc>
-    <length units="minutes">00:51:53</length>
+  <programme start="20260821185953 +0000" channel="esport3" stop="20260821203151 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Barça busca un 9</sub-title>
+    <desc lang="ca">Després de la negativa de l'Atlètic de Madrid per traspassar Julián, el club blaugrana analitza opcions per fitxar un davanter centre. A més, seguim la presentació del femení i el Gamper contra el Brighton</desc>
+    <length units="minutes">01:31:58</length>
   </programme>
-  <programme start="20260821141013 +0000" channel="sx3" stop="20260821143355 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El record del primer amor (1a part)</sub-title>
-    <desc lang="ca">Mentre la Ran, la Sonoko i en Conan netegen la casa d'en Shinichi, hi arriba l'Asami Uchida, el primer amor d'en Shinichi. La noia els convida a celebrar el seu aniversari en una casa a la muntanya amb uns amics. En Kogoro s'hi apunta per vigilar-los. Just abans de bufar les espelmes del pastís, l'Asami s'adorm al sofà. En absència dels amics, es cala foc a la casa amb la jove a dins.</desc>
-    <length units="minutes">00:23:42</length>
+  <programme start="20260821203151 +0000" channel="esport3" stop="20260821204840 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Manolo González / Prèvia Espanyol-R.Madrid / J2</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:16:49</length>
   </programme>
-  <programme start="20260821143355 +0000" channel="sx3" stop="20260821145612 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Demà serà massa tard. Un atac desesperat de Déu</sub-title>
-    <desc lang="ca">En Krilin i en Cor Petit, que havien enganyat el fill d'en Gàrlic fent veure que els havia afectat la boira negra, ho han aprofitat per alliberar el senyor Popo i el Totpoderós, que posarà en risc la seva vida per aconseguir l'aigua sagrada. El fill d'en Gàrlic es comença a transformar per augmentar la seva força gràcies a l'energia del planeta endimoniat.</desc>
-    <length units="minutes">00:22:17</length>
+  <programme start="20260821201615 +0000" channel="sx3" stop="20260821203915 +0000">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Danger i Thunder (Part 2)</sub-title>
+    <desc lang="ca">En Henry, en Ray i la Phoebe s'infiltren en la reunió de malvats liderada pel Nadó mentre en Max complica la situació amb els seus propis plans.</desc>
+    <length units="minutes">00:23:00</length>
   </programme>
-  <programme start="20260821133707 +0000" channel="tv3" stop="20260821143752 +0000">
-    <title lang="ca">Gàdor i els taurons</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics.</desc>
-    <length units="minutes">01:00:45</length>
+  <programme start="20260821203915 +0000" channel="sx3" stop="20260821210007 +0000">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">En Henry i en Henry</sub-title>
+    <desc lang="ca">En Henry, en Ray, la Charlotte i el Schwoz creen un doble d'en Henry per evitar un sopar amb l'oncle Mark mentre tot es complica quan el robot comença a actuar pel seu compte.</desc>
+    <length units="minutes">00:20:52</length>
   </programme>
-  <programme start="20260821143752 +0000" channel="tv3" stop="20260821152532 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El mocador de roba</sub-title>
-    <desc lang="ca">A favor o en contra dels mocadors de roba per mocar-se? Dediquem aquest capítol de 'La Renaixença' a aquesta peça de roba. Hi ha gent que prefereix mocar-se directament amb el dit. Alguns fins i tot poden arribar al cervell. Ens visita en Miquel Grandio, que ha vingut directament des de Dubai, on treballa com a creador de contingut des de fa un temps. I ens descobreix quins impostos paguen els autònoms en aquest país. Anem amb en Foc fins al primer accident aeri de la història, a París, el 1785.</desc>
-    <length units="minutes">00:47:40</length>
+  <programme start="20260821201300 +0000" channel="tv3" stop="20260821205943 +0000">
+    <title lang="ca">Martin Clunes: Island of America</title>
+    <sub-title lang="ca">Washington, Califòrnia i Louisiana</sub-title>
+    <desc lang="ca">En aquest episodi, Martin Clunes viatjarà cap al sud, a les illes San Juan, a l'estat de Washington, on visitarà una granja molt especial i celebrarà el Dia de la Independència. Després continuarà baixant per la costa oest per visitar les illes del Canal, conegudes com les Galápagos dels Estats Units. I, finalment, creuarà el país fins a Louisiana, on veurà com es fabrica la salsa Tabasco i serà testimoni dels efectes destructors dels huracans.</desc>
+    <length units="minutes">00:46:43</length>
+  </programme>
+  <programme start="20260821205943 +0000" channel="tv3" stop="20260821210054 +0000">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <sub-title lang="ca">0</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:01:11</length>
+  </programme>
+  <programme start="20260821185900 +0000" channel="tv3" stop="20260821203000 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">992</sub-title>
+    <desc lang="ca">Després de la negativa de l'Atlètic de Madrid per traspassar Julián, el club blaugrana analitza opcions per fitxar un davanter centre. A més, seguim la presentació del femení i el Gamper contra el Brighton</desc>
+    <length units="minutes">01:31:00</length>
   </programme>
 </tv>
