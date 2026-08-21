@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -15,64 +15,64 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260821010125 +0000" channel="tvi" stop="20260821040000 +0000">
+  <programme start="20260821070000 +0000" channel="tvi" stop="20260821095956 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10958</sub-title>
+    <sub-title lang="ca">10959</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:58:35</length>
+    <length units="minutes">02:59:56</length>
   </programme>
-  <programme start="20260821040000 +0000" channel="tvi" stop="20260821044536 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Joan Sanmartí 'Quatre Elements'</sub-title>
-    <desc lang="ca">El guitarrista barceloní ens presenta Quatre Elements; formació en què, acompanyat de tres músics magnífics, proposa una col·lecció de composicions originals, amb el nom de 'Cruïlles'. En aquest projecte Sanmarti es concentra gairebé exclusivament en la utilització de la guitarra acústica. Els Quatre Elements són: Oriol Roca al contrabaix, Guillem Arnedo a la bateria, Marc Miralta al vibrafon i Joan Sanmartí a les guitarres.</desc>
-    <length units="minutes">00:45:36</length>
-  </programme>
-  <programme start="20260821010000 +0000" channel="324" stop="20260821060000 +0000">
+  <programme start="20260821095956 +0000" channel="tvi" stop="20260821115535 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10958</sub-title>
+    <sub-title lang="ca">10960</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:39</length>
   </programme>
-  <programme start="20260821060000 +0000" channel="324" stop="20260821070000 +0000">
+  <programme start="20260821070000 +0000" channel="324" stop="20260821100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10958</sub-title>
+    <sub-title lang="ca">10959</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260821021902 +0000" channel="esport3" stop="20260821023654 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5484</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:17:52</length>
+  <programme start="20260821100000 +0000" channel="324" stop="20260821120000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10960</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260821023654 +0000" channel="esport3" stop="20260821040746 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Cancelo, presentat</sub-title>
-    <desc lang="ca">El lateral portuguès ja ha signat amb el Barça. Analitzem la seva incorporació, i parlem sobre les opcions que té el Barça de fitxar un davanter centre</desc>
-    <length units="minutes">01:30:52</length>
+  <programme start="20260821070945 +0000" channel="esport3" stop="20260821083959 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El compte enrere de Deco; qui serà el 9 contra l'Elx; Mayola i Sergi Ferrer</sub-title>
+    <desc lang="ca">Fem tertúlia amb Juvenal Edjogo, Jordi Martí, Irati Vidal i Toni Freixa. Parlem de la missió contrarellotge de Deco, que ha de trobar un davanter centre abans del final del mercat. També analitzem qui pot ser el '9' del Barça per al debut de la lliga, Marc Mayola ens parla de Hamza i de Lautaro i acabem amb les seccions de Sergi Ferrer i Òscar Nin.</desc>
+    <length units="minutes">01:30:14</length>
   </programme>
-  <programme start="20260821023207 +0000" channel="sx3" stop="20260821025203 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">La mateixa lluna, ara i per sempre!</sub-title>
-    <desc lang="ca">Els nostres herois estan ben tranquils fent una migdiada, però la cosa acaba molt malament perquè el Team Rocket llança una xarxa contra l'Ash i el Pikachu! L'Ash aconsegueix fer enlairar el Team Rocket, però el Pikachu, enganxat a la xarxa, se'n va amb ells! Poc després, el Pikachu i el Meowth es troben en una situació perillosa i han d'unir forces per buscar els seus amics. Mentrestant, l'Ash, la Misty i el Brock s'han d'enfrontar a un estol de Spearow i a un grup de Venipede, i ho han de fer amb l'Ash ben trist perquè ha perdut el seu company. La Jessie i el James també estan tristos perquè han perdut el Meowth. Per sort, al final l'Ash es retroba amb el Pikachu i al cap de poc el Team Rocket, que arriba amb globus, recull el Mewoth!</desc>
-    <length units="minutes">00:19:56</length>
+  <programme start="20260821083959 +0000" channel="esport3" stop="20260821092645 +0000">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Plana d'Urgell, amb Manu Guix</sub-title>
+    <desc lang="ca">El cantant i compositor Manu Guix serà el protagonista principal del capítol que dedicarem a la Plana d'Urgell. Entre concert i concert en Manu busca temps per anar a córrer. En aquesta ocasió ho farà al costat de la Núria al voltant de l'estany d'Ivars. Posteriorment l'atleta i el music es tornaran a trobar a Barcelona per tocar el piano.</desc>
+    <length units="minutes">00:46:46</length>
   </programme>
-  <programme start="20260821025203 +0000" channel="sx3" stop="20260821031311 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Fornèrix</sub-title>
-    <desc lang="ca">Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.</desc>
-    <length units="minutes">00:21:08</length>
+  <programme start="20260821081625 +0000" channel="sx3" stop="20260821082709 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb ocells exòtics</sub-title>
+    <desc lang="ca">Avui anirem d'excursió amb la Tat i en Titó a un parc d'ocells exòtics. Jugarem a buscar un tucà, un guacamai i una gura. I en John C ens portarà de sorpresa un ocell australià: una nimfa!</desc>
+    <length units="minutes">00:10:44</length>
   </programme>
-  <programme start="20260821023229 +0000" channel="tv3" stop="20260821030151 +0000">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Sant Andreu de la Barca amb Jordi Cruz</sub-title>
-    <desc lang="ca">Productes de proximitat, innovació i art defineixen aquest capítol de La Sobretaula, que visita Sant Andreu de la Barca. Ho fem acompanyats del polifacètic Jordi Cruz, amb qui descobrim un municipi creatiu, inquiet i connectat amb el territori.</desc>
-    <length units="minutes">00:29:22</length>
+  <programme start="20260821082709 +0000" channel="sx3" stop="20260821083651 +0000">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar a cantar</sub-title>
+    <desc lang="ca">Qui guanyarà el concurs de millor cantant del parc? Serà en Titó? L'Os Bru? L'Oca de l'Empordà? El Tritó del Montseny? El Ruquicorn? O la Tat? Sí, avui també veurem la Tat!!!</desc>
+    <length units="minutes">00:09:42</length>
   </programme>
-  <programme start="20260821030151 +0000" channel="tv3" stop="20260821034817 +0000">
+  <programme start="20260821073855 +0000" channel="tv3" stop="20260821083047 +0000">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">Gósol</sub-title>
+    <desc lang="ca">Un programa d'humor en què un monologuista ambulant recorre Catalunya a la recerca del paisatge humà dels pobles de menys de mil habitants. Cada capítol, un poble diferent. I a cada poble, un repte: fer un monòleg a mida dels seus habitants.Quim Masferrer arriba a cada poble atent a les sorpreses, sense xarxa, amb la vista i l'oïda a punt per detectar moments irrepetibles, disposat a deixar-se portar pels veïns i descobrir els racons inèdits, els costums locals, els somnis particulars i sobretot el seu sentit de l'humor. Per fer-ho, disposa només de 48 hores.I després reuneix tots els veïns al teatre del poble i exposa la seva visió particular del que ha descobert. Tots hi són presents i tots poden aparèixer en qualsevol moment al monòleg. Durant uns quants segons poden ser el centre d'atenció. El resultat: un programa d'humor on els veïns són, al mateix temps, públic i protagonistes, i amb un format que combina els moments de monòleg amb les entrevistes i recerca dels personatges més entranyables, curiosos, savis, divertits o peculiars.El programa és una oportunitat per conèixer el territori i els costums de la Catalunya rural. Cada poble és una reproducció a escala del país.Una producció de TV3 amb la col·laboració de Brutal Media.'El Foraster' és l'adaptació per a TV3 del format danès 'Comedy on the edge', que des de fa dues temporades triomfa al canal DR1 de Dinamarca.</desc>
+    <length units="minutes">00:51:52</length>
+  </programme>
+  <programme start="20260821083047 +0000" channel="tv3" stop="20260821091722 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La guardiola</sub-title>
-    <desc lang="ca">Tots hem tingut una guardiola amb forma de porquet i heu de saber que té aquesta forma per una confusió lingüística: a Anglaterra s'anomenava 'pygg' un tipus d'argila i algú va entendre 'pig' (porc en anglès). 'Apreneu idiomes', deien. I així es va confondre tota la humanitat. Ens visita la Maria Nicolau, que esmorza tres tasses de cafè. Potser això té molt a veure amb l'energia que porta a sobre sempre la que veiem. Sortim a passejar en Winter, un gos d'Irlanda, per l'accident de la plataforma Byford Dolphin, el novembre del 1983.</desc>
-    <length units="minutes">00:46:26</length>
+    <sub-title lang="ca">Millors moments - setmana 11</sub-title>
+    <desc lang="ca">Aquests últims programes han passat per 'La Renaixença' l'Empar Moliner, l'Enric Aurich, en Xarim Aresté i la Bruna Dinarès. Bojos coneguts i savis per conèixer amb qui hem compartit exclusives, confidències i sobretot rialles. Us deixem amb alguns dels moments més destacats de les entrevistes perquè les pugueu recordar. També hem parlat sobre objectes que ens acompanyen des de fa mil·lennis. Alguns que ja no es fan servir, com la cabina telefònica; d'altres que no deixarem mai, com la navalla i el botó; i encara d'altres que voldríem que deixessin d'existir, com la flauta dolça.</desc>
+    <length units="minutes">00:46:35</length>
   </programme>
 </tv>
