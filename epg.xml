@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -12,65 +12,60 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260822120000 +0000" channel="tvi" stop="20260822143000 +0000">
+  <programme start="20260822200640 +0000" channel="tvi" stop="20260822202350 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Estimats oblidats</sub-title>
+    <desc lang="ca">'Estimats oblidats' reivindica atenció i inversions per a les Terres de l'Ebre, sempre les 'oblidades' dins del mapa territorial. Els cantautors Josep Bordes, líder del grup Pepet i Marieta, i Montse Castellà expliquen el seu paper a la societat ebrenca, que consisteix a fer servir el poder de la música per lluitar en favor dels interessos col·lectius. Bordes i Castellà han fet cançons en defensa de la terra o dels trens dignes i en contra del transvasament del riu Ebre o de la plataforma de gas Castor. La fotògrafa Paula Artés exposa al Centre d'Art de les Terres de l'Ebre, Lo Pati, un treball que denuncia els abusos de poder d'algunes empreses, que, avalades pels governs, aconsegueixen beneficis milionaris pagats pels contribuents. 'Energia submergida', que es podrà veure fins al 5 de maig, se centra en el cas de la plataforma Castor, un dipòsit de gas instal·lat enmig del mar davant de la costa de la Ràpita i Vinaròs, que ha quedat en desús perquè l'inici de la injecció de gas va provocar més de mil terratrèmols a la zona el 2013. El reportatge també dona veu al grup musical Gambardella i al poeta Martí Sales, que junts han posat en marxa el projecte 'Tot paisatge és una mentida' amb què, mitjançant música i poesia en directe i imatges i sons gravats a les Terres de l'Ebre, pretenen cridar l'atenció sobre una de les zones més empobrides de Catalunya. El projecte es podrà veure el 16 d'abril a l'espai IDEAL de Barcelona.</desc>
+    <length units="minutes">00:17:10</length>
+  </programme>
+  <programme start="20260822200000 +0000" channel="324" stop="20260822210000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10970</sub-title>
+    <sub-title lang="ca">10973</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260822143000 +0000" channel="tvi" stop="20260822153226 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7305</sub-title>
-    <length units="minutes">01:02:26</length>
-  </programme>
-  <programme start="20260822120000 +0000" channel="324" stop="20260822143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10970</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20260822143000 +0000" channel="324" stop="20260822163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7305</sub-title>
+  <programme start="20260822210000 +0000" channel="324" stop="20260822230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7304</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260822141251 +0000" channel="esport3" stop="20260822144440 +0000">
-    <title lang="ca">Crackòvia</title>
-    <sub-title lang="ca">236</sub-title>
-    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
-    <length units="minutes">00:31:49</length>
+  <programme start="20260822195559 +0000" channel="esport3" stop="20260822202925 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?</sub-title>
+    <desc lang="ca">Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.</desc>
+    <length units="minutes">00:33:26</length>
   </programme>
-  <programme start="20260822144440 +0000" channel="esport3" stop="20260822153628 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">L'home més fort del món 5</sub-title>
-    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
-    <length units="minutes">00:51:48</length>
+  <programme start="20260822202925 +0000" channel="esport3" stop="20260822212500 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">00:55:35</length>
   </programme>
-  <programme start="20260822134702 +0000" channel="sx3" stop="20260822141552 +0000">
-    <title lang="ca">Manduka family</title>
-    <sub-title lang="ca">Llenties estofades</sub-title>
-    <desc lang="ca">Quan comença a fer fred, la Paula té molt clar que els millors plats són els que es mengen amb cullera. Per això, proposarà a l'Arlet, la Matilde, la Nur i la Montse que cuinin unes llenties estofades. Algun ingredient inesperat caurà a la recepta d'una d'elles i descobrirem maneres molt originals de decorar les verdures!</desc>
-    <length units="minutes">00:28:50</length>
+  <programme start="20260822195453 +0000" channel="sx3" stop="20260822201746 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">Una novel·la juvenil que fa olor de crim</sub-title>
+    <desc lang="ca">Un escriptor de novel·les juvenils que rebia amenaces de mort apareix assassinat al seu apartament. Quan en Kogoro, que havia rebut un encàrrec de la víctima per investigar el passat d'un difunt, troba el cos, també és atacat i acaba traslladat a l'hospital.</desc>
+    <length units="minutes">00:22:53</length>
   </programme>
-  <programme start="20260822141552 +0000" channel="sx3" stop="20260822144625 +0000">
-    <title lang="ca">Manduka family</title>
-    <sub-title lang="ca">Espaguetis a la carbonara</sub-title>
-    <desc lang="ca">A la Paula li encanta la pasta i avui vol que els concursants cuinin uns espaguetis a la carbonara amb la recepta tradicional: fent servir ou en lloc de la popular crema de llet. Tot i que al llarg del cuinat hauran de passar algunes proves una mica peludes, l'Arlet, la Rosa, la Mar i la Pilar cuinaran uns plats espectaculars!</desc>
-    <length units="minutes">00:30:33</length>
+  <programme start="20260822201746 +0000" channel="sx3" stop="20260822203853 +0000">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">En Brad, l'invisible</sub-title>
+    <desc lang="ca">En Brad es torna invisible i provoca el caos fins que en Henry i el Capità Man l'han d'aturar.</desc>
+    <length units="minutes">00:21:07</length>
   </programme>
-  <programme start="20260822140420 +0000" channel="tv3" stop="20260822143503 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Confiar en la moneda</sub-title>
-    <desc lang="ca">Com vam passar del bescanvi a la moneda? És el mateix moneda que diner? Què són el bitcoin i el blockchain? I la divisa? El crèdit genera diners? Quin paper juga la moneda en la inflació? Té sentit crear monedes locals?Sal, or o bitcoin, el diner ha estat sempre l'expressió del crèdit que mereix el seu posseïdor. Fem un viatge numismàtic per la història, entenem l'origen monetari de la inflació i desvelem la tecnologia criptogràfica del blockchain.Bitcoin, la moneda i la tecnologia Amb l'arribada de l'era digital, els diners s'han estès pel ciberespai. Targetes de crèdit i de dèbit, transferències i traspassos, o Paypal són sistemes de pagament àmpliament utilitzats. Tant, que de fet la major part dels diners que circulen pel món no s'arriben ni tan sols a fabricar físicament, són simples assentaments bancaris. Però la digitalització de la moneda ha tingut un cost: qualsevol transacció s'ha d'efectuar amb intermediaris com VISA o la banca, entitats que, a més, treballen amb sistemes informàtics incompatibles. El resultat és un alentiment de les operacions i un sobrecost en comissions. Per superar aquestes limitacions ha calgut crear una moneda nativa digital, és a dir, nascuda i dissenyada específicament per a internet. És el bitcoin, literalment la moneda de bits. Es representa com una moneda daurada amb una icona semblant al dòlar, perquè inconscientment l'associem a un objecte valuós. Creat pel mític i desconegut Satoshi Nakamoto l'any 2009, bitcoin és una plataforma de codi obert, gestionada per mitjà de criptografia avançada. Es pot enviar a través d'internet, d'una persona a una altra sense intermediaris. Això significa que les comissions són molt més baixes. És global, i el compte no pot ser congelat, ni limitat per cap contracte. És, doncs, un veritable desafiament al sistema financer actual. L'enginyer Miquel Oliver, de la Universitat Popeu Fabra, n'explica el funcionament, basat en un protocol informàtic anomenat blockchain, o ca</desc>
-    <length units="minutes">00:30:43</length>
+  <programme start="20260822192313 +0000" channel="tv3" stop="20260822201639 +0000">
+    <title lang="ca">Planeta dinàmic</title>
+    <sub-title lang="ca">Gel</sub-title>
+    <desc lang="ca">El planeta s'escalfa i el gel dels tres pols -l'Àrtic, l'Antàrtida i l'Himàlaia- es desfà tan de pressa que té unes conseqüències transcendentals. Les extraordinàries persones que viuen i treballen en aquests indrets ens revelen com la ciència, la natura i els coneixements tradicionals ens poden preparar per a un futur que canvia ràpidament.</desc>
+    <length units="minutes">00:53:26</length>
   </programme>
-  <programme start="20260822143503 +0000" channel="tv3" stop="20260822150636 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Xufla, molt més que orxata</sub-title>
-    <desc lang="ca">La xufla és un tresor gastronòmic i de salut, fins al punt que aquest tubercle podria ser triat per fer-lo créixer a Mart. Viurem la collita, sabrem com podem fer orxata a casa, i també pastissos o un gintònic. A més, sabrem si és afrodisíaca.Coincidint amb la temporada de collita de la xufla, la Fina Brunet va a l'Horta Nord de València, l'única zona d'Europa on es conrea aquest petit tubercle mil·lenari.'Mai havia menjat una xufla acabada de collir, és una experiència deliciosa', assegura la reportera convertida aquesta vegada en llauradora a les terres de la xufla.Si, com diu la dita: 'Al pot petit hi ha la bona confitura' la xufla n'és la demostració, perquè aquest tubercle, que no arriba a fer 8 mil·límetres, té gairebé totes les vitamines essencials, propietats diürètiques i fins i tot vasodilatadores. La propietats nutritives, energètiques, gastronòmiques, medicinals, vitamíniques i greixos no saturats de la xufla, les ha recollit en un llibre José Miguel Soriano del Castillo, director del Gastrolab, a la Universitat de València. Segons Soriano hi ha possibilitats reals que la xufla es pugui plantar al planeta Mart. La NASA ho està estudiant. A Orxateria Daniel, una de les més tradicionals d'Alboraia, hem elaborat orxata i suculentes postres amb la xufla com a protagonista.I la sorpresa final, que ens va deixar bocabadats: es pot fer gin tònic de xufla i orxata. 'És una explosió de gustos al paladar i un volcà en erupció a la copa' assegura la Fina després de tastar aquesta sorprenent combinació de ginebra, tònica, xufla i orxata.</desc>
-    <length units="minutes">00:31:33</length>
+  <programme start="20260822201639 +0000" channel="tv3" stop="20260822205950 +0000">
+    <title lang="ca">Els rius navegables d'Europa</title>
+    <sub-title lang="ca">De la badia de Gdansk al districte dels llacs de Masúria</sub-title>
+    <desc lang="ca">Explorant Polònia per les vies fluvials d'Europa: començant des de la península de Hel, el viatge recorre el mar Bàltic fins a la ciutat hanseàtica de Gdansk, després continua pel Vístula i el canal d'Elblag fins al districte dels llacs de Masúria.La península de Hel, amb les seves platges de sorra blanca i boscos de pins d'un verd intens, acull un institut de recerca que estudia la vida al mar Bàltic, i un centre de cria de foques. A l'altra banda de la badia es troba la ciutat hanseàtica de Gdansk. Naveguem entre drassanes i antics edificis d'oficines, continuem pel Vístula i el canal d'Oberland cap a les muntanyes Rollberge, on els vaixells avancen per terra en vies de ferrocarril, en una obra històrica d'enginyeria.A la universitat d'Olstyn, la capital de Masúria, la Renata Augustyniak investiga amb èxit nous mètodes per recuperar els llacs contaminats. El viatge continua cap a l'est i arriba al riu més net del país, el Krutynia. Aquí hi ha un centre de rehabilitació per cigonyes, l'animal heràldic del país. Amb el guardabosc i fotògraf de la natura Waldemar Bzura descobrirem la rica vida salvatge de Masúria i les illes flotants de la reserva natural de Zakret, precioses amb la boira del matí.A la vora del llac Beldany, Moussa Bah, un veterinari de Mali, cria els cavalls salvatges 'Koniks', per encàrrec de l'Acadèmia Polonesa de Ciències. La seva companya, la cuidadora d'animals Marlena Boron, s'encarrega de la cria de castors al centre. Amb un veler, el viatge continua, passant per Mikolaiky, fins al canal de Masúria.Uns quilòmetres abans de la frontera russa, coneixem la pescadora Marta Gottwald, campiona del món de la seva disciplina, mentre s'entrena. El recorregut acaba en una gran resclosa de l'època nazi, convertida en una instal·lació d'escalada iaventura, per a atletes amb ganes de passar-s'ho bé i sense vertigen.</desc>
+    <length units="minutes">00:43:11</length>
   </programme>
 </tv>
