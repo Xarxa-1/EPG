@@ -6,79 +6,73 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260821191912 +0000" channel="tvi" stop="20260821203706 +0000">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Compàs de silenci. Jean Marie del Moral i Miquel Barceló</sub-title>
-    <desc lang="ca">'Compàs de silenci. Jean Marie del Moral &amp; Miquel Barceló' (2024), una producció de Allegra Films &amp; la Perifèrica produccions en coproducció amb 3Cat e IB3, i el suport de l'ICIB i l'ICEC. El fotògraf Jean Marie del Moral entra per primera vegada a l'estudi de l'artista Miquel Barceló els anys vuitanta. Amb aquell primer retrat comença una relació que ja fa quatre dècades que dura. Un diàleg en què la imatge pren el protagonisme per damunt de les paraules i que documenta l'evolució del pintor de Felanitx, Mallorca. Les estacions nodals d'aquest viatge suggestiu i singular passen pels estudis de l'artista a París, Mali, Mallorca, Palermo, Vietri, Gao, Nàpols o Barcelona, espais lligats intrínsecament a l'evolució de Barceló, recollits per la càmera de Del Moral. Silenciosa, pausada i &amp;mdash;també&amp;mdash;en desenvolupament constant.Equip:Direcció, guió i realització: Cesc Mulet Producció: Mayca Sanz, Montse Rodríguez Director fotografia: Jaume Caldentey Muntatge: Jordi Pol Director de producció: Núria Cano Música: Joana Gomila &amp; Laia Vallès Lingüista: David Arnau Grafisme: Luis Ozonas</desc>
-    <length units="minutes">01:17:54</length>
-  </programme>
-  <programme start="20260821203706 +0000" channel="tvi" stop="20260821213326 +0000">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Pilar Aymerich. La mirada felina</sub-title>
-    <desc lang="ca">'Pilar Aymerich. La mirada felina' (2020), una producció de Wonka Films / Good Company Productions en coproducció amb TVC i RTVE i amb la col·laboració de l'ICECLes seves fotografies de la Barcelona de les dècades de 1970 i 1980 i els seus centenars de retrats de personatges del món de la cultura han convertit Pilar Aymerich en una de les fotògrafes catalanes indispensables de la segona meitat del segle XX. Pilar Aymerich, la mirada felina repassa més de cinquanta anys de trajectòria d'una fotògrafa que continua en actiu, i mostra la seva metòdica manera de treballar fent el seguiment d'una sessió de fotos a l'actor Sergi López.Direcció i guió: Jordi PortalsRealització: Benet RománDirectora de producció: Carolina TrujilloProductor executiu TVC: Jordi AmbrósDirectora de continguts: Montse ArmengouProductor delegat TVC: Daniel BareaDirector fotografia: Benet RomanMuntatge: Silbila Estruch</desc>
-    <length units="minutes">00:56:20</length>
-  </programme>
-  <programme start="20260821200000 +0000" channel="324" stop="20260821220000 +0000">
+  <programme start="20260822020000 +0000" channel="tvi" stop="20260822040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10965</sub-title>
+    <sub-title lang="ca">10967</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260821220000 +0000" channel="324" stop="20260822003000 +0000">
+  <programme start="20260822040000 +0000" channel="tvi" stop="20260822044503 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Tiziana</sub-title>
+    <desc lang="ca">Un grup format per músics de llarga trajectòria i de diferents bagatges musicals, entre ells el jazz, la música clàssica, les músiques d'arrel mediterrània, de l'Orient Mitjà i altres músiques tradicionals del món.Tiziana són: Alex Tobías, a la bateria i percussió; Pau Figueres, a la guitarra; Miquel Àngel Cordero, al contrabaix, i Judit Neddermann, a la veu.</desc>
+    <length units="minutes">00:45:03</length>
+  </programme>
+  <programme start="20260822010000 +0000" channel="324" stop="20260822060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10966</sub-title>
+    <sub-title lang="ca">10967</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260821185953 +0000" channel="esport3" stop="20260821203151 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">El Barça busca un 9</sub-title>
-    <desc lang="ca">Després de la negativa de l'Atlètic de Madrid per traspassar Julián, el club blaugrana analitza opcions per fitxar un davanter centre. A més, seguim la presentació del femení i el Gamper contra el Brighton</desc>
-    <length units="minutes">01:31:58</length>
+  <programme start="20260822060000 +0000" channel="324" stop="20260822070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10967</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260821203151 +0000" channel="esport3" stop="20260821204840 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Manolo González / Prèvia Espanyol-R.Madrid / J2</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:16:49</length>
+  <programme start="20260822022711 +0000" channel="esport3" stop="20260822024804 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5485</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:53</length>
   </programme>
-  <programme start="20260821201615 +0000" channel="sx3" stop="20260821203915 +0000">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Danger i Thunder (Part 2)</sub-title>
-    <desc lang="ca">En Henry, en Ray i la Phoebe s'infiltren en la reunió de malvats liderada pel Nadó mentre en Max complica la situació amb els seus propis plans.</desc>
-    <length units="minutes">00:23:00</length>
+  <programme start="20260822024804 +0000" channel="esport3" stop="20260822042712 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Trofeu Joan Gamper: FC Barcelona-Brighton &amp; Hove Albion Women FC</sub-title>
+    <desc lang="ca">Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.</desc>
+    <length units="minutes">01:39:08</length>
   </programme>
-  <programme start="20260821203915 +0000" channel="sx3" stop="20260821210007 +0000">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">En Henry i en Henry</sub-title>
-    <desc lang="ca">En Henry, en Ray, la Charlotte i el Schwoz creen un doble d'en Henry per evitar un sopar amb l'oncle Mark mentre tot es complica quan el robot comença a actuar pel seu compte.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20260822022406 +0000" channel="sx3" stop="20260822024402 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Els Rocket venjadors!</sub-title>
+    <desc lang="ca">La Jessie, el James, el Meowth i el Wobbuffet tenen una bona sorpresa quan arriba el Delibird del quarter general del Team Rocket per entregar els seus amics Pokémon. Després de l'agradable retrobada, elaboren un astut pla per robar el Pikachu. Fent veure que fuig del Team Rocket, el Mime Jr del James enganya l'Ash, la Misty i el Brock, però el Pikachu no se'n fia. Els altres Pokémon del Team Rocket aconsegueixen separar els nostres herois i que el Pikachu es quedi sol, però l'Ash i els amics arriben just a temps, i la Latias també. Els ajuda a derrotar el Team Rocket i després mostra als nostres herois una visió del Latios en perill. Mentrestant, els Pokémon del Team Rocket comencen a entrar en pànic i la Jessie, el James i el Meowth se separen ben enfadats.</desc>
+    <length units="minutes">00:19:56</length>
   </programme>
-  <programme start="20260821201300 +0000" channel="tv3" stop="20260821205943 +0000">
-    <title lang="ca">Martin Clunes: Island of America</title>
-    <sub-title lang="ca">Washington, Califòrnia i Louisiana</sub-title>
-    <desc lang="ca">En aquest episodi, Martin Clunes viatjarà cap al sud, a les illes San Juan, a l'estat de Washington, on visitarà una granja molt especial i celebrarà el Dia de la Independència. Després continuarà baixant per la costa oest per visitar les illes del Canal, conegudes com les Galápagos dels Estats Units. I, finalment, creuarà el país fins a Louisiana, on veurà com es fabrica la salsa Tabasco i serà testimoni dels efectes destructors dels huracans.</desc>
-    <length units="minutes">00:46:43</length>
+  <programme start="20260822024402 +0000" channel="sx3" stop="20260822030509 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">L'Oni-Chan</sub-title>
+    <desc lang="ca">La Lila és una alumna molt mentidera, que està avesada a aconseguir tot el que vol, i ara s'ha encapritxat de l'Adrien. Quan la Kagami, la companya d'esgrima de l'Adrien, se n'assabenta, s'enfada molt i té un atac de gelosia. L'Esfinx aprofita aquesta ràbia i gelosia per akumatitzar-la i convertir-la en l'Oni-Chan, una malvada que perseguirà la Lila allà on vagi.</desc>
+    <length units="minutes">00:21:07</length>
   </programme>
-  <programme start="20260821205943 +0000" channel="tv3" stop="20260821210054 +0000">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <sub-title lang="ca">0</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:01:11</length>
+  <programme start="20260822015908 +0000" channel="tv3" stop="20260822025020 +0000">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Volcans sagrats</sub-title>
+    <desc lang="ca">En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.</desc>
+    <length units="minutes">00:51:12</length>
   </programme>
-  <programme start="20260821185900 +0000" channel="tv3" stop="20260821203000 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">992</sub-title>
-    <desc lang="ca">Després de la negativa de l'Atlètic de Madrid per traspassar Julián, el club blaugrana analitza opcions per fitxar un davanter centre. A més, seguim la presentació del femení i el Gamper contra el Brighton</desc>
-    <length units="minutes">01:31:00</length>
+  <programme start="20260822025020 +0000" channel="tv3" stop="20260822033743 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El radar</sub-title>
+    <desc lang="ca">En un rànquing d''objectes més odiats del món', el radar segurament estaria dins del TOP5, clarament. Seguretat? Sí. Emprenyada quan t'arriba la multa? De les més grosses. Avui dediquem el capítol al radar. Necessitem desfogar-nos. Pugen a l'escenari de 'La Renaixença' i xerrem des de l'escó amb la P.A.W.N. Gang. Es feia trap al segle XIX? Segurament, no, però al nostre escenari, sí. Sortim a passejar amb en Chök, un brac alemany de Gurb, pel duel de Carabanchel, el 1870.</desc>
+    <length units="minutes">00:47:23</length>
   </programme>
 </tv>
