@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -9,70 +9,68 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260822070000 +0000" channel="tvi" stop="20260822100001 +0000">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260822120000 +0000" channel="tvi" stop="20260822143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10968</sub-title>
+    <sub-title lang="ca">10970</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:01</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260822100001 +0000" channel="tvi" stop="20260822120000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10969</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:59:59</length>
+  <programme start="20260822143000 +0000" channel="tvi" stop="20260822153226 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7305</sub-title>
+    <length units="minutes">01:02:26</length>
   </programme>
-  <programme start="20260822070000 +0000" channel="324" stop="20260822100000 +0000">
+  <programme start="20260822120000 +0000" channel="324" stop="20260822143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10968</sub-title>
+    <sub-title lang="ca">10970</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260822100000 +0000" channel="324" stop="20260822120000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10969</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260822143000 +0000" channel="324" stop="20260822163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7305</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260822071319 +0000" channel="esport3" stop="20260822084639 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Julián Álvarez, engarjolat</sub-title>
-    <desc lang="ca">'Atlètic de Madrid ha reiterat que no traspassarà el davanter argentí al Barça. Busquem la reacció des de la capital espanyola amb David Sánchez i, des del plató, hi diuen la seva Juli Garcia, Laia Cervelló, David Ibañez i Santi Ovalle. Marc Cornet condueix un Onze que també ha comptat amb la Clau Delmàs, el Colegiado Joan Fàbregas i l'Òscar Nin.</desc>
-    <length units="minutes">01:33:20</length>
+  <programme start="20260822141251 +0000" channel="esport3" stop="20260822144440 +0000">
+    <title lang="ca">Crackòvia</title>
+    <sub-title lang="ca">236</sub-title>
+    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
+    <length units="minutes">00:31:49</length>
   </programme>
-  <programme start="20260822084639 +0000" channel="esport3" stop="20260822091854 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Eloi Vila s'arrisca a endevinar l'inenarrable</sub-title>
-    <desc lang="ca">Eloi Vila pren part en el concurs 'Això acaba...', on haurà d'endevinar com acaben tres vídeos sorprenents. Mentrestant, el DJ Frande tornarà a demostrar que és capaç de convertir qualsevol moment del programa en una festa... a la seva manera.</desc>
-    <length units="minutes">00:32:15</length>
+  <programme start="20260822144440 +0000" channel="esport3" stop="20260822153628 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">L'home més fort del món 5</sub-title>
+    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
+    <length units="minutes">00:51:48</length>
   </programme>
-  <programme start="20260822081839 +0000" channel="sx3" stop="20260822083137 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió amb excavadores</sub-title>
-    <desc lang="ca">Avui anem d'excursió a veure màquines de construcció: excavadores, dúmpers, buldòzers, compactadores...i en John C ens farà riure fent d'operari!</desc>
-    <length units="minutes">00:12:58</length>
+  <programme start="20260822134702 +0000" channel="sx3" stop="20260822141552 +0000">
+    <title lang="ca">Manduka family</title>
+    <sub-title lang="ca">Llenties estofades</sub-title>
+    <desc lang="ca">Quan comença a fer fred, la Paula té molt clar que els millors plats són els que es mengen amb cullera. Per això, proposarà a l'Arlet, la Matilde, la Nur i la Montse que cuinin unes llenties estofades. Algun ingredient inesperat caurà a la recepta d'una d'elles i descobrirem maneres molt originals de decorar les verdures!</desc>
+    <length units="minutes">00:28:50</length>
   </programme>
-  <programme start="20260822083137 +0000" channel="sx3" stop="20260822084314 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió al campanar</sub-title>
-    <desc lang="ca">Avui pujarem mooolt amunt. Anirem d'excursió a dalt de tot d'un campanar. Descobrirem que les campanes parlen! Segons com toquen, volen dir una cosa o una altra. Voleu que les fem sonar plegats?</desc>
-    <length units="minutes">00:11:37</length>
+  <programme start="20260822141552 +0000" channel="sx3" stop="20260822144625 +0000">
+    <title lang="ca">Manduka family</title>
+    <sub-title lang="ca">Espaguetis a la carbonara</sub-title>
+    <desc lang="ca">A la Paula li encanta la pasta i avui vol que els concursants cuinin uns espaguetis a la carbonara amb la recepta tradicional: fent servir ou en lloc de la popular crema de llet. Tot i que al llarg del cuinat hauran de passar algunes proves una mica peludes, l'Arlet, la Rosa, la Mar i la Pilar cuinaran uns plats espectaculars!</desc>
+    <length units="minutes">00:30:33</length>
   </programme>
-  <programme start="20260822080005 +0000" channel="tv3" stop="20260822082840 +0000">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un pilot dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">Zigzaguejar a 200 quilòmetres per hora entre els pics de la serralada dels Pirineus, esmunyir-se entre els núvols i la boira, portar càrregues de centenars de quilos fins a més de 2.000 metres d'altitud, fer viure l'economia de la muntanya... Heus aquí algunes de les activitats que porta a terme diàriament aquest home excepcional.Jean Brosset és tota una figura a la seva feina. Té 55 anys, és pilot professional d'helicòpter i treballa en una de les millors empreses de la regió de Pau.En Jean és el pilot a qui sempre es recorre quan cal fer alguna intervenció complicada. Les missions no s'assemblen mai les unes amb les altres, de vegades cal fer pujar algú a l'helicòpter hissant-lo o transportar des de passatgers fins a una rulot, o barrils de quitrà. En Jean no sap mai de quina mena acabaran sent les operacions que li encarreguen. A més, als Pirineus, la meteorologia i les estacions fan la seva feina tan apassionant com perillosa.</desc>
-    <length units="minutes">00:28:35</length>
+  <programme start="20260822140420 +0000" channel="tv3" stop="20260822143503 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Confiar en la moneda</sub-title>
+    <desc lang="ca">Com vam passar del bescanvi a la moneda? És el mateix moneda que diner? Què són el bitcoin i el blockchain? I la divisa? El crèdit genera diners? Quin paper juga la moneda en la inflació? Té sentit crear monedes locals?Sal, or o bitcoin, el diner ha estat sempre l'expressió del crèdit que mereix el seu posseïdor. Fem un viatge numismàtic per la història, entenem l'origen monetari de la inflació i desvelem la tecnologia criptogràfica del blockchain.Bitcoin, la moneda i la tecnologia Amb l'arribada de l'era digital, els diners s'han estès pel ciberespai. Targetes de crèdit i de dèbit, transferències i traspassos, o Paypal són sistemes de pagament àmpliament utilitzats. Tant, que de fet la major part dels diners que circulen pel món no s'arriben ni tan sols a fabricar físicament, són simples assentaments bancaris. Però la digitalització de la moneda ha tingut un cost: qualsevol transacció s'ha d'efectuar amb intermediaris com VISA o la banca, entitats que, a més, treballen amb sistemes informàtics incompatibles. El resultat és un alentiment de les operacions i un sobrecost en comissions. Per superar aquestes limitacions ha calgut crear una moneda nativa digital, és a dir, nascuda i dissenyada específicament per a internet. És el bitcoin, literalment la moneda de bits. Es representa com una moneda daurada amb una icona semblant al dòlar, perquè inconscientment l'associem a un objecte valuós. Creat pel mític i desconegut Satoshi Nakamoto l'any 2009, bitcoin és una plataforma de codi obert, gestionada per mitjà de criptografia avançada. Es pot enviar a través d'internet, d'una persona a una altra sense intermediaris. Això significa que les comissions són molt més baixes. És global, i el compte no pot ser congelat, ni limitat per cap contracte. És, doncs, un veritable desafiament al sistema financer actual. L'enginyer Miquel Oliver, de la Universitat Popeu Fabra, n'explica el funcionament, basat en un protocol informàtic anomenat blockchain, o ca</desc>
+    <length units="minutes">00:30:43</length>
   </programme>
-  <programme start="20260822082840 +0000" channel="tv3" stop="20260822085134 +0000">
-    <title lang="ca">Riu avall</title>
-    <sub-title lang="ca">Besòs</sub-title>
-    <desc lang="ca">Format per la confluència del Mogent i el Congost a Montmeló, el riu Besòs té un curt recorregut, però les seves aigües venen de molt més amunt, de Collsuspina (Osona). Descobrim la sorprenent recuperació d'aquest riu, fins fa poc una claveguera a l'aire lliure, on els peixos tornen a saltar i fins i tot es pot veure la Llúdriga.</desc>
-    <length units="minutes">00:22:54</length>
+  <programme start="20260822143503 +0000" channel="tv3" stop="20260822150636 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Xufla, molt més que orxata</sub-title>
+    <desc lang="ca">La xufla és un tresor gastronòmic i de salut, fins al punt que aquest tubercle podria ser triat per fer-lo créixer a Mart. Viurem la collita, sabrem com podem fer orxata a casa, i també pastissos o un gintònic. A més, sabrem si és afrodisíaca.Coincidint amb la temporada de collita de la xufla, la Fina Brunet va a l'Horta Nord de València, l'única zona d'Europa on es conrea aquest petit tubercle mil·lenari.'Mai havia menjat una xufla acabada de collir, és una experiència deliciosa', assegura la reportera convertida aquesta vegada en llauradora a les terres de la xufla.Si, com diu la dita: 'Al pot petit hi ha la bona confitura' la xufla n'és la demostració, perquè aquest tubercle, que no arriba a fer 8 mil·límetres, té gairebé totes les vitamines essencials, propietats diürètiques i fins i tot vasodilatadores. La propietats nutritives, energètiques, gastronòmiques, medicinals, vitamíniques i greixos no saturats de la xufla, les ha recollit en un llibre José Miguel Soriano del Castillo, director del Gastrolab, a la Universitat de València. Segons Soriano hi ha possibilitats reals que la xufla es pugui plantar al planeta Mart. La NASA ho està estudiant. A Orxateria Daniel, una de les més tradicionals d'Alboraia, hem elaborat orxata i suculentes postres amb la xufla com a protagonista.I la sorpresa final, que ens va deixar bocabadats: es pot fer gin tònic de xufla i orxata. 'És una explosió de gustos al paladar i un volcà en erupció a la copa' assegura la Fina després de tastar aquesta sorprenent combinació de ginebra, tònica, xufla i orxata.</desc>
+    <length units="minutes">00:31:33</length>
   </programme>
 </tv>
