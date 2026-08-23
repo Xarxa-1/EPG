@@ -1,11 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
@@ -15,57 +9,70 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260822200640 +0000" channel="tvi" stop="20260822202350 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Estimats oblidats</sub-title>
-    <desc lang="ca">'Estimats oblidats' reivindica atenció i inversions per a les Terres de l'Ebre, sempre les 'oblidades' dins del mapa territorial. Els cantautors Josep Bordes, líder del grup Pepet i Marieta, i Montse Castellà expliquen el seu paper a la societat ebrenca, que consisteix a fer servir el poder de la música per lluitar en favor dels interessos col·lectius. Bordes i Castellà han fet cançons en defensa de la terra o dels trens dignes i en contra del transvasament del riu Ebre o de la plataforma de gas Castor. La fotògrafa Paula Artés exposa al Centre d'Art de les Terres de l'Ebre, Lo Pati, un treball que denuncia els abusos de poder d'algunes empreses, que, avalades pels governs, aconsegueixen beneficis milionaris pagats pels contribuents. 'Energia submergida', que es podrà veure fins al 5 de maig, se centra en el cas de la plataforma Castor, un dipòsit de gas instal·lat enmig del mar davant de la costa de la Ràpita i Vinaròs, que ha quedat en desús perquè l'inici de la injecció de gas va provocar més de mil terratrèmols a la zona el 2013. El reportatge també dona veu al grup musical Gambardella i al poeta Martí Sales, que junts han posat en marxa el projecte 'Tot paisatge és una mentida' amb què, mitjançant música i poesia en directe i imatges i sons gravats a les Terres de l'Ebre, pretenen cridar l'atenció sobre una de les zones més empobrides de Catalunya. El projecte es podrà veure el 16 d'abril a l'espai IDEAL de Barcelona.</desc>
-    <length units="minutes">00:17:10</length>
-  </programme>
-  <programme start="20260822200000 +0000" channel="324" stop="20260822210000 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260823003000 +0000" channel="tvi" stop="20260823043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10973</sub-title>
+    <sub-title lang="ca">10975</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">04:00:00</length>
+  </programme>
+  <programme start="20260823043000 +0000" channel="tvi" stop="20260823051607 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Mar Serra Grup</sub-title>
+    <desc lang="ca">El quartet ens presenta el seu projecte Opus: un petit i particular viatge per la història de la música. A cavall entre el jazz fusió i la música contemporània, Mar Serra ens va endinsant en l'esperit mediterrani a partir de sonoritats com el flamenc o la música tradicional. El poder evocador del violí de Lluna Aragón, el motor del contrabaix de Franco Molinari, la bateria de Joan Vidal i la força del piano de Mar Serra ens descobreixen un llenguatge propi.</desc>
+    <length units="minutes">00:46:07</length>
+  </programme>
+  <programme start="20260823010000 +0000" channel="324" stop="20260823060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10975</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260823060000 +0000" channel="324" stop="20260823070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10975</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260822210000 +0000" channel="324" stop="20260822230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7304</sub-title>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260823011721 +0000" channel="esport3" stop="20260823025240 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post Espanyol-R. Madrid / J2</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:35:19</length>
   </programme>
-  <programme start="20260822195559 +0000" channel="esport3" stop="20260822202925 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?</sub-title>
-    <desc lang="ca">Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.</desc>
-    <length units="minutes">00:33:26</length>
+  <programme start="20260823025240 +0000" channel="esport3" stop="20260823030644 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5486</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:14:04</length>
   </programme>
-  <programme start="20260822202925 +0000" channel="esport3" stop="20260822212500 +0000">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">00:55:35</length>
+  <programme start="20260823022643 +0000" channel="sx3" stop="20260823023646 +0000">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Ciberinsecte</sub-title>
+    <desc lang="ca">Ja tenim un equip de cinc superherois creats pel Will Sliney per defensar la Terra de la invasió alienígena dirigida del malvat Crònica. I de moment només coneixíem un dels superdolents que ha creat el Crònica per neutralitzar-los. En aquest episodi sabrem qui és el segon membre d'aquest temible exèrcit invasor, el Ciberinsecte, una bestiola amb el poder d'introduir-se a les xarxes informàtiques per crear el caos.</desc>
+    <length units="minutes">00:10:03</length>
   </programme>
-  <programme start="20260822195453 +0000" channel="sx3" stop="20260822201746 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Una novel·la juvenil que fa olor de crim</sub-title>
-    <desc lang="ca">Un escriptor de novel·les juvenils que rebia amenaces de mort apareix assassinat al seu apartament. Quan en Kogoro, que havia rebut un encàrrec de la víctima per investigar el passat d'un difunt, troba el cos, també és atacat i acaba traslladat a l'hospital.</desc>
-    <length units="minutes">00:22:53</length>
+  <programme start="20260823023646 +0000" channel="sx3" stop="20260823024642 +0000">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Ogret</sub-title>
+    <desc lang="ca">En aquest nou episodi continua la presentació dels superdolents creats pel malvat Crònica perquè siguin l'antítesi dels superherois que prèviament havien creat el Will i l'Ogam per salvar la Terra. Avui arriba el torn de l'Ogret, que tot i el seu aspecte bufó, perquè està dibuixat amb l'estil japonès chibi, és l'arxienemic de la Guspireta i el seu objectiu des de fa centenars d'anys és acabar amb ella.</desc>
+    <length units="minutes">00:09:56</length>
   </programme>
-  <programme start="20260822201746 +0000" channel="sx3" stop="20260822203853 +0000">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">En Brad, l'invisible</sub-title>
-    <desc lang="ca">En Brad es torna invisible i provoca el caos fins que en Henry i el Capità Man l'han d'aturar.</desc>
-    <length units="minutes">00:21:07</length>
+  <programme start="20260823022300 +0000" channel="tv3" stop="20260823030741 +0000">
+    <title lang="ca">Martin Clunes: Island of America</title>
+    <sub-title lang="ca">Nova York, Massachusetts i Maine</sub-title>
+    <desc lang="ca">En l'últim episodi de la sèrie, Martin Clunes viatjarà a l'illa de Manhattan, un dels llocs més densament poblats del planeta. Després pujarà per la costa est dels Estats Units fins a Cape Cod, per seguir el rastre dels taurons blancs que neden per les seves platges. Més cap al nord, visitarà un parell d'illes de l'estat de Maine, per entendre què fa que la gent s'entesti a viure en uns indrets tan remots.</desc>
+    <length units="minutes">00:44:41</length>
   </programme>
-  <programme start="20260822192313 +0000" channel="tv3" stop="20260822201639 +0000">
-    <title lang="ca">Planeta dinàmic</title>
-    <sub-title lang="ca">Gel</sub-title>
-    <desc lang="ca">El planeta s'escalfa i el gel dels tres pols -l'Àrtic, l'Antàrtida i l'Himàlaia- es desfà tan de pressa que té unes conseqüències transcendentals. Les extraordinàries persones que viuen i treballen en aquests indrets ens revelen com la ciència, la natura i els coneixements tradicionals ens poden preparar per a un futur que canvia ràpidament.</desc>
-    <length units="minutes">00:53:26</length>
-  </programme>
-  <programme start="20260822201639 +0000" channel="tv3" stop="20260822205950 +0000">
-    <title lang="ca">Els rius navegables d'Europa</title>
-    <sub-title lang="ca">De la badia de Gdansk al districte dels llacs de Masúria</sub-title>
-    <desc lang="ca">Explorant Polònia per les vies fluvials d'Europa: començant des de la península de Hel, el viatge recorre el mar Bàltic fins a la ciutat hanseàtica de Gdansk, després continua pel Vístula i el canal d'Elblag fins al districte dels llacs de Masúria.La península de Hel, amb les seves platges de sorra blanca i boscos de pins d'un verd intens, acull un institut de recerca que estudia la vida al mar Bàltic, i un centre de cria de foques. A l'altra banda de la badia es troba la ciutat hanseàtica de Gdansk. Naveguem entre drassanes i antics edificis d'oficines, continuem pel Vístula i el canal d'Oberland cap a les muntanyes Rollberge, on els vaixells avancen per terra en vies de ferrocarril, en una obra històrica d'enginyeria.A la universitat d'Olstyn, la capital de Masúria, la Renata Augustyniak investiga amb èxit nous mètodes per recuperar els llacs contaminats. El viatge continua cap a l'est i arriba al riu més net del país, el Krutynia. Aquí hi ha un centre de rehabilitació per cigonyes, l'animal heràldic del país. Amb el guardabosc i fotògraf de la natura Waldemar Bzura descobrirem la rica vida salvatge de Masúria i les illes flotants de la reserva natural de Zakret, precioses amb la boira del matí.A la vora del llac Beldany, Moussa Bah, un veterinari de Mali, cria els cavalls salvatges 'Koniks', per encàrrec de l'Acadèmia Polonesa de Ciències. La seva companya, la cuidadora d'animals Marlena Boron, s'encarrega de la cria de castors al centre. Amb un veler, el viatge continua, passant per Mikolaiky, fins al canal de Masúria.Uns quilòmetres abans de la frontera russa, coneixem la pescadora Marta Gottwald, campiona del món de la seva disciplina, mentre s'entrena. El recorregut acaba en una gran resclosa de l'època nazi, convertida en una instal·lació d'escalada iaventura, per a atletes amb ganes de passar-s'ho bé i sense vertigen.</desc>
-    <length units="minutes">00:43:11</length>
+  <programme start="20260823030741 +0000" channel="tv3" stop="20260823040007 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Polònia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.</desc>
+    <length units="minutes">00:52:26</length>
   </programme>
 </tv>
