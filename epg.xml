@@ -1,10 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -12,66 +9,63 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260823070000 +0000" channel="tvi" stop="20260823100000 +0000">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20260823124454 +0000" channel="tvi" stop="20260823143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10976</sub-title>
+    <sub-title lang="ca">10978</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+    <length units="minutes">01:45:06</length>
   </programme>
-  <programme start="20260823100000 +0000" channel="tvi" stop="20260823120000 +0000">
+  <programme start="20260823120000 +0000" channel="324" stop="20260823143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10977</sub-title>
+    <sub-title lang="ca">10978</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:30:00</length>
+  </programme>
+  <programme start="20260823143000 +0000" channel="324" stop="20260823163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7306</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260823070000 +0000" channel="324" stop="20260823100000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10976</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+  <programme start="20260823141503 +0000" channel="esport3" stop="20260823144603 +0000">
+    <title lang="ca">Crackòvia</title>
+    <sub-title lang="ca">237</sub-title>
+    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
+    <length units="minutes">00:31:00</length>
   </programme>
-  <programme start="20260823100000 +0000" channel="324" stop="20260823120000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10977</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260823144603 +0000" channel="esport3" stop="20260823153419 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">L'home més fort del món Giants Live 3: The Strongman Classic</sub-title>
+    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
+    <length units="minutes">00:48:16</length>
   </programme>
-  <programme start="20260823065923 +0000" channel="esport3" stop="20260823083451 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Espanyol-R. Madrid / J2</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:35:28</length>
+  <programme start="20260823141509 +0000" channel="sx3" stop="20260823144244 +0000">
+    <title lang="ca">Manduka family</title>
+    <sub-title lang="ca">Croquetes</sub-title>
+    <desc lang="ca">El Ramon i el Roc pensen que les seves àvies Teresa i Elisenda fan les millors croquetes del món. Si ens fan dir qui fa les nostres croquetes preferides, segur que diem que les que fa algun familiar (àvia, mare, avi...). Per demostrar-ho, els quatre venen preparats per cuinar-ne mentre superen jocs com la cursa d'ous, dibuixen en farina o endrecen una pila de carmanyoles. Dos mandúkers i la xef del programa 'Cuines' Gessamí Caramés les tastaran a cegues i votaran quines creuen que són les millors.</desc>
+    <length units="minutes">00:27:35</length>
   </programme>
-  <programme start="20260823083451 +0000" channel="esport3" stop="20260823090714 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Gemma Mallorca, entre la intuïció i la casualitat</sub-title>
-    <desc lang="ca">La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.</desc>
-    <length units="minutes">00:32:23</length>
+  <programme start="20260823144244 +0000" channel="sx3" stop="20260823145430 +0000">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">La 'potocleosi'</sub-title>
+    <desc lang="ca">Avui la Wendy ha convidat el seu nòvio a mirar una pel·lícula a casa seva. Mentrestant la Marine mirarà el seu programa preferit a la tauleta de la seva germana. Mentre espera que comenci, veu un espot que avisa dels perills de la mononucleosi, una malaltia que es pot transmetre per la saliva. La Marine s'espanta: i si la seva germaneta agafa la malaltia fent-li un petó al Maxence?</desc>
+    <length units="minutes">00:11:46</length>
   </programme>
-  <programme start="20260823081922 +0000" channel="sx3" stop="20260823082926 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió al parc d'aventura</sub-title>
-    <desc lang="ca">Avui anem d'excursió a un parc d'aventura ples de xarxes i ponts. Farem volar la imaginació afegint-hi granotes, piranyes, aranyes i vent! Acabarem amb la sorpresa final que ens té preparada en JohnC: una tirolina enorme!</desc>
-    <length units="minutes">00:10:04</length>
+  <programme start="20260823140518 +0000" channel="tv3" stop="20260823143219 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Viure amb filosofía</sub-title>
+    <desc lang="ca">José María Erustes va néixer i créixer al Raval. Des que tenia 14 anys va treballar de soldador muntador. Amb una dona i dos fills es va quedar a l'atur i es va divorciar. Les desavinences familiars i l'alcohol el van fer marxar a viure al carrer. Va ser indigent prop de cinc anys, fins que La Fundació Arrels el va ajudar a recuperar la seva vida. La paraula 'política' deriva del grec 'polis', que designava les ciutats estat a l'antiga Grècia. Moià té prop de 6.000 habitants i és la capital de la comarca del Moianès. A partir d'aquests dos exemples el programa reflexiona sobre conceptes com felicitat, virtut, justícia, Estat o poder. Hi intervenen Norbert Bilbeny, catedràtic d'Ètica, UB; Núria Sara Miras, Dept. de Filosofia Moral i Política de la UB; Dionís Guiteras, alcalde de Moià; Antoni Arenas, cap Policia Local de Moià, i l'exindigent José María Erustes.</desc>
+    <length units="minutes">00:27:01</length>
   </programme>
-  <programme start="20260823082926 +0000" channel="sx3" stop="20260823084026 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió en miniatura</sub-title>
-    <desc lang="ca">Avui sembla que ens hàgim convertit en gegants, però és perquè hem anat d'excursió entre edificis en miniatura. Veurem maquetes de tot Catalunya: el poble de Rupit, el monestir de Santes Creus, la Seu Vella de Lleida, la catedral de Girona...</desc>
-    <length units="minutes">00:11:00</length>
-  </programme>
-  <programme start="20260823080342 +0000" channel="tv3" stop="20260823085749 +0000">
-    <title lang="ca">Viure als Pirineus- A banda i banda</title>
-    <sub-title lang="ca">Cinto Gabriel i Jean Hourticq - Primavera</sub-title>
-    <length units="minutes">00:54:07</length>
-  </programme>
-  <programme start="20260823085749 +0000" channel="tv3" stop="20260823092218 +0000">
-    <title lang="ca">Riu avall</title>
-    <sub-title lang="ca">Corb</sub-title>
-    <desc lang="ca">La vall del Corb és una entitat física a cavall entre l'Urgell i la Segarra amb un paisatge singular i una personalitat pròpia molt marcada. Coneixem la sorprenent natura d'aquest territori, poblat des d'antic, i el seu rellevant patrimoni històric, tot, acompanyats per un guia d'excepció: el periodista Lluís Foix, fill de la vall.</desc>
-    <length units="minutes">00:24:29</length>
+  <programme start="20260823143219 +0000" channel="tv3" stop="20260823152544 +0000">
+    <title lang="ca">Planeta dinàmic</title>
+    <sub-title lang="ca">Gel</sub-title>
+    <desc lang="ca">El planeta s'escalfa i el gel dels tres pols -l'Àrtic, l'Antàrtida i l'Himàlaia- es desfà tan de pressa que té unes conseqüències transcendentals. Les extraordinàries persones que viuen i treballen en aquests indrets ens revelen com la ciència, la natura i els coneixements tradicionals ens poden preparar per a un futur que canvia ràpidament.</desc>
+    <length units="minutes">00:53:25</length>
   </programme>
 </tv>
