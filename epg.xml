@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -15,64 +15,63 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260823003000 +0000" channel="tvi" stop="20260823043000 +0000">
+  <programme start="20260823070000 +0000" channel="tvi" stop="20260823100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10975</sub-title>
+    <sub-title lang="ca">10976</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">04:00:00</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260823043000 +0000" channel="tvi" stop="20260823051607 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Mar Serra Grup</sub-title>
-    <desc lang="ca">El quartet ens presenta el seu projecte Opus: un petit i particular viatge per la història de la música. A cavall entre el jazz fusió i la música contemporània, Mar Serra ens va endinsant en l'esperit mediterrani a partir de sonoritats com el flamenc o la música tradicional. El poder evocador del violí de Lluna Aragón, el motor del contrabaix de Franco Molinari, la bateria de Joan Vidal i la força del piano de Mar Serra ens descobreixen un llenguatge propi.</desc>
-    <length units="minutes">00:46:07</length>
-  </programme>
-  <programme start="20260823010000 +0000" channel="324" stop="20260823060000 +0000">
+  <programme start="20260823100000 +0000" channel="tvi" stop="20260823120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10975</sub-title>
+    <sub-title lang="ca">10977</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260823060000 +0000" channel="324" stop="20260823070000 +0000">
+  <programme start="20260823070000 +0000" channel="324" stop="20260823100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10975</sub-title>
+    <sub-title lang="ca">10976</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260823011721 +0000" channel="esport3" stop="20260823025240 +0000">
+  <programme start="20260823100000 +0000" channel="324" stop="20260823120000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10977</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260823065923 +0000" channel="esport3" stop="20260823083451 +0000">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Post Espanyol-R. Madrid / J2</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:35:19</length>
+    <length units="minutes">01:35:28</length>
   </programme>
-  <programme start="20260823025240 +0000" channel="esport3" stop="20260823030644 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5486</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:14:04</length>
+  <programme start="20260823083451 +0000" channel="esport3" stop="20260823090714 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Gemma Mallorca, entre la intuïció i la casualitat</sub-title>
+    <desc lang="ca">La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.</desc>
+    <length units="minutes">00:32:23</length>
   </programme>
-  <programme start="20260823022643 +0000" channel="sx3" stop="20260823023646 +0000">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Ciberinsecte</sub-title>
-    <desc lang="ca">Ja tenim un equip de cinc superherois creats pel Will Sliney per defensar la Terra de la invasió alienígena dirigida del malvat Crònica. I de moment només coneixíem un dels superdolents que ha creat el Crònica per neutralitzar-los. En aquest episodi sabrem qui és el segon membre d'aquest temible exèrcit invasor, el Ciberinsecte, una bestiola amb el poder d'introduir-se a les xarxes informàtiques per crear el caos.</desc>
-    <length units="minutes">00:10:03</length>
+  <programme start="20260823081922 +0000" channel="sx3" stop="20260823082926 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió al parc d'aventura</sub-title>
+    <desc lang="ca">Avui anem d'excursió a un parc d'aventura ples de xarxes i ponts. Farem volar la imaginació afegint-hi granotes, piranyes, aranyes i vent! Acabarem amb la sorpresa final que ens té preparada en JohnC: una tirolina enorme!</desc>
+    <length units="minutes">00:10:04</length>
   </programme>
-  <programme start="20260823023646 +0000" channel="sx3" stop="20260823024642 +0000">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Ogret</sub-title>
-    <desc lang="ca">En aquest nou episodi continua la presentació dels superdolents creats pel malvat Crònica perquè siguin l'antítesi dels superherois que prèviament havien creat el Will i l'Ogam per salvar la Terra. Avui arriba el torn de l'Ogret, que tot i el seu aspecte bufó, perquè està dibuixat amb l'estil japonès chibi, és l'arxienemic de la Guspireta i el seu objectiu des de fa centenars d'anys és acabar amb ella.</desc>
-    <length units="minutes">00:09:56</length>
+  <programme start="20260823082926 +0000" channel="sx3" stop="20260823084026 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió en miniatura</sub-title>
+    <desc lang="ca">Avui sembla que ens hàgim convertit en gegants, però és perquè hem anat d'excursió entre edificis en miniatura. Veurem maquetes de tot Catalunya: el poble de Rupit, el monestir de Santes Creus, la Seu Vella de Lleida, la catedral de Girona...</desc>
+    <length units="minutes">00:11:00</length>
   </programme>
-  <programme start="20260823022300 +0000" channel="tv3" stop="20260823030741 +0000">
-    <title lang="ca">Martin Clunes: Island of America</title>
-    <sub-title lang="ca">Nova York, Massachusetts i Maine</sub-title>
-    <desc lang="ca">En l'últim episodi de la sèrie, Martin Clunes viatjarà a l'illa de Manhattan, un dels llocs més densament poblats del planeta. Després pujarà per la costa est dels Estats Units fins a Cape Cod, per seguir el rastre dels taurons blancs que neden per les seves platges. Més cap al nord, visitarà un parell d'illes de l'estat de Maine, per entendre què fa que la gent s'entesti a viure en uns indrets tan remots.</desc>
-    <length units="minutes">00:44:41</length>
+  <programme start="20260823080342 +0000" channel="tv3" stop="20260823085749 +0000">
+    <title lang="ca">Viure als Pirineus- A banda i banda</title>
+    <sub-title lang="ca">Cinto Gabriel i Jean Hourticq - Primavera</sub-title>
+    <length units="minutes">00:54:07</length>
   </programme>
-  <programme start="20260823030741 +0000" channel="tv3" stop="20260823040007 +0000">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Polònia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.</desc>
-    <length units="minutes">00:52:26</length>
+  <programme start="20260823085749 +0000" channel="tv3" stop="20260823092218 +0000">
+    <title lang="ca">Riu avall</title>
+    <sub-title lang="ca">Corb</sub-title>
+    <desc lang="ca">La vall del Corb és una entitat física a cavall entre l'Urgell i la Segarra amb un paisatge singular i una personalitat pròpia molt marcada. Coneixem la sorprenent natura d'aquest territori, poblat des d'antic, i el seu rellevant patrimoni històric, tot, acompanyats per un guia d'excepció: el periodista Lluís Foix, fill de la vall.</desc>
+    <length units="minutes">00:24:29</length>
   </programme>
 </tv>
