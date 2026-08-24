@@ -1,8 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
@@ -15,60 +12,71 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260824135956 +0000" channel="tvi" stop="20260824143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7019</sub-title>
-    <length units="minutes">00:30:04</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260824195702 +0000" channel="tvi" stop="20260824210000 +0000">
+    <title lang="ca">Atrapa'm si pots, estiu</title>
+    <sub-title lang="ca">978</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:02:58</length>
   </programme>
-  <programme start="20260824143000 +0000" channel="tvi" stop="20260824153311 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7307</sub-title>
-    <length units="minutes">01:03:11</length>
+  <programme start="20260824210000 +0000" channel="tvi" stop="20260824220239 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7306</sub-title>
+    <length units="minutes">01:02:39</length>
   </programme>
-  <programme start="20260824140000 +0000" channel="324" stop="20260824143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7019</sub-title>
-    <length units="minutes">00:30:00</length>
+  <programme start="20260824200000 +0000" channel="324" stop="20260824210000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10990</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260824143000 +0000" channel="324" stop="20260824163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7307</sub-title>
+  <programme start="20260824210000 +0000" channel="324" stop="20260824230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7306</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260824135804 +0000" channel="esport3" stop="20260824142942 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">El Zapi està de morros... perquè no el van convidar al sopar de l'equip!</sub-title>
-    <desc lang="ca">En aquest programa, Pere Mas participa en el concurs i intentarà endevinar el final de tres vídeos virals per emportar-se els premis del 'Zona Zàping Club'. Però qui no comença gaire bé el programa és el Zapi, que està ben enfadat després de quedar-se sense invitació al sopar-pizza de l'equip. Aconseguiran animar-lo abans del ball final?</desc>
-    <length units="minutes">00:31:38</length>
+  <programme start="20260824202010 +0000" channel="esport3" stop="20260824221126 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-BM Granollers / Supercopa Catalunya masculina / Final</sub-title>
+    <desc lang="ca">Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.</desc>
+    <length units="minutes">01:51:16</length>
   </programme>
-  <programme start="20260824142942 +0000" channel="esport3" stop="20260824145444 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / Anaheim 2 / 2</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
-    <length units="minutes">00:25:02</length>
+  <programme start="20260824221126 +0000" channel="esport3" stop="20260824230000 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">La idea del Barça en l'última setmana de mercat</sub-title>
+    <desc lang="ca">Quan falten pocs dies perquè tanqui el mercat de fitxatges, amb la Laia Tudel repassem la idea del club blaugrana. Els de Hansi Flick van debutar amb golejada, 0 a 5 a Elx, en el debut de Gordon i Adeyemi a la Lliga. A més, repassem l'inici de l'Espanyol, del Madrid i també del Sabadell i el Girona a segona.</desc>
+    <length units="minutes">00:48:34</length>
   </programme>
-  <programme start="20260824140518 +0000" channel="sx3" stop="20260824142811 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de la mansió misteriosa de la banda de malfactors (1a part)</sub-title>
-    <desc lang="ca">El Kogoro rep una carta en què el conviden a anar a una mansió a investigar uns fets estranys. Els dos germans que viuen a la casa la van heretar del seu avi, el reputat rellotger Monjiro, que va acumular una enorme col·lecció de rellotges amb figures d'animals. A les onze del matí, sonen les alarmes de tots els rellotges digitals. Els germans, a més, diuen que se senten observats.</desc>
-    <length units="minutes">00:22:53</length>
+  <programme start="20260824201631 +0000" channel="sx3" stop="20260824203739 +0000">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Danger a la tomba</sub-title>
+    <desc lang="ca">En Ray comença a patir fenòmens estranys i en Henry i la Charlotte sospiten que en Brad, l'invisible, podria tenir-hi alguna cosa a veure.</desc>
+    <length units="minutes">00:21:08</length>
   </programme>
-  <programme start="20260824142811 +0000" channel="sx3" stop="20260824145029 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Una bona oportunitat de disparar contra el planeta endimoniat</sub-title>
-    <desc lang="ca">Encegat per la ràbia que sent i desesperat per derrotar els seus enemics, el fill d'en Gàrlic obre una Zona Morta molt perillosa. Ara, amb en Cor Petit i en Krilin fora de joc, l'únic que el pot aturar és en Son Gohan. Però, serà capaç de parar-li els peus i de salvar la Terra, encara que per aconseguir-ho hagi de sacrificar els seus amics?</desc>
-    <length units="minutes">00:22:18</length>
+  <programme start="20260824203739 +0000" channel="sx3" stop="20260824210006 +0000">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">La varicel·la bovina</sub-title>
+    <desc lang="ca">La Piper menja accidentalment una galeta contaminada i en Henry, en Ray, la Charlotte i en Schwoz busquen una manera desesperada de curar-la.</desc>
+    <length units="minutes">00:22:27</length>
   </programme>
-  <programme start="20260824134715 +0000" channel="tv3" stop="20260824144222 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Trevor i Cori</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.</desc>
-    <length units="minutes">00:55:07</length>
+  <programme start="20260824201117 +0000" channel="tv3" stop="20260824205942 +0000">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Els habitants de les profunditats</sub-title>
+    <desc lang="ca">Mitjançant tècniques de parada de càmera desenvolupades especialment per fer seguiments en un entorn submarí, 'Life' emprèn un viatge als racons més inexplorats de l'oceà. És aquí on s'estan realitzant nous descobriments, on viuen les criatures més estranyes, des d'aranyes de mar gegants que s'apleguen a milers tot buscant la seguretat de la bandada quan muden la carcassa que les protegeix, fins al calamar gegant 'transvestit'. Ens afegirem a un grup de 250 calamars gegants del corrent de Humboldt en una expedició de caça, contemplarem el sacrifici desesperat d'un pop gegant del Pacífic mare que mor de gana per atendre la seva cria i ens submergirem sota el gel permanent de l'Antàrtida per observar una estora bellugadissa d'estrelles de mar mentre devoren el cos d'una cria de foca.</desc>
+    <length units="minutes">00:48:25</length>
   </programme>
-  <programme start="20260824144222 +0000" channel="tv3" stop="20260824152944 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La targeta sanitària</sub-title>
-    <desc lang="ca">Heu de saber que el DNI us dirà qui sou, però la targeta sanitària és l'única que us serà útil en cas d'emergència mèdica urgent. És a dir, el DNI es pot cremar si no us agrada el que hi posa, però la targeta sanitària MAI. Rebem la visita d'en Ramon Mirabet, que puja a l'escenari del nostre local per interpretar 'Per sempre més', juntament amb l'Arnau Tordera i la Laia Glück. A 'Històries per passejar el gos' anem amb en Blat pel gran incendi de Chicago el 8 d'octubre del 1871.</desc>
-    <length units="minutes">00:47:22</length>
+  <programme start="20260824205942 +0000" channel="tv3" stop="20260824210006 +0000">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <sub-title lang="ca">0</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:00:24</length>
+  </programme>
+  <programme start="20260824190000 +0000" channel="tv3" stop="20260824203100 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">993</sub-title>
+    <desc lang="ca">Quan falten pocs dies perquè tanqui el mercat de fitxatges, amb la Laia Tudel repassem la idea del club blaugrana. Els de Hansi Flick van debutar amb golejada, 0 a 5 a Elx, en el debut de Gordon i Adeyemi a la Lliga. A més, repassem l'inici de l'Espanyol, del Madrid i també del Sabadell i el Girona a segona.</desc>
+    <length units="minutes">01:31:00</length>
   </programme>
 </tv>
