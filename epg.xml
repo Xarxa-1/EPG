@@ -6,73 +6,73 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260824005728 +0000" channel="tvi" stop="20260824043000 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260824070000 +0000" channel="tvi" stop="20260824100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10983</sub-title>
+    <sub-title lang="ca">10984</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:32:32</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260824043000 +0000" channel="tvi" stop="20260824051436 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Ivó Oller Quintet</sub-title>
-    <desc lang="ca">El trompetista ens presenta el seu Quintet amb un repertori en el qual la tradició del jazz modern adquireix nous matisos i es vesteix de singularitat. El treball d'anys amb la mateixa formació i una visió introspectiva fan que l'aproximació d'Oller al bebop es converteixi en una proposta ben personal. Marc Sort, al saxo, Martí Ventura, al piano, Dick Them, al contrabaix, Pinyu Martí, a la bateria, i el mateix Ivó Oller, a la trompeta.</desc>
-    <length units="minutes">00:44:36</length>
-  </programme>
-  <programme start="20260824010000 +0000" channel="324" stop="20260824060000 +0000">
+  <programme start="20260824100000 +0000" channel="tvi" stop="20260824120005 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10983</sub-title>
+    <sub-title lang="ca">10985</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:00:05</length>
   </programme>
-  <programme start="20260824060000 +0000" channel="324" stop="20260824070000 +0000">
+  <programme start="20260824070000 +0000" channel="324" stop="20260824100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10983</sub-title>
+    <sub-title lang="ca">10984</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260824011217 +0000" channel="esport3" stop="20260824023949 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Elx-Barça / J2</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:27:32</length>
+  <programme start="20260824100000 +0000" channel="324" stop="20260824120000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10985</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260824023949 +0000" channel="esport3" stop="20260824025705 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5487</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:17:16</length>
+  <programme start="20260824082653 +0000" channel="esport3" stop="20260824091113 +0000">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Tramuntana, amb Pepa Plana</sub-title>
+    <desc lang="ca">En el programa que dedicarem al nord de la Costa Brava ens va acompanyar Pepa Plana que es va trobar una Núria Picas entrevistadora amb nas de pallassa. Totes dues van saltar tastant l'Aire més lliure d'Empuriabrava. L'atleta gironí Marc Pinsach ens va mostrar els trams més atractius dels famosos Camins de Ronda.</desc>
+    <length units="minutes">00:44:20</length>
   </programme>
-  <programme start="20260824022837 +0000" channel="sx3" stop="20260824023841 +0000">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Els dolents s’uneixen</sub-title>
-    <desc lang="ca">Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
-    <length units="minutes">00:10:04</length>
+  <programme start="20260824091113 +0000" channel="esport3" stop="20260824095702 +0000">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Ebre, amb Peyu</sub-title>
+    <desc lang="ca">La majoria de les modalitats esportives que farem a les terres de l'Ebre son aquàtiques i com no podia ser d'una altra manera guarden gran relació amb el riu. En aquest episodi Núria Picas aprendrà la tècnica per practicar, riu avall: pàdel surf, rem i piragüisme. El convidat al sud de Catalunya serà l'humorista Peyu, gran aficionat a la BTT.</desc>
+    <length units="minutes">00:45:49</length>
   </programme>
-  <programme start="20260824023841 +0000" channel="sx3" stop="20260824024835 +0000">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Comença la gran batalla</sub-title>
-    <desc lang="ca">Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
-    <length units="minutes">00:09:54</length>
+  <programme start="20260824082757 +0000" channel="sx3" stop="20260824083906 +0000">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb sirenes</sub-title>
+    <desc lang="ca">En Titó i els Fa La La exploren el fons marí quan… unes sirenes els demanen ajuda! Un amic seu ha quedat atrapat dins d'una petxina. Podran alliberar-lo? Uns calamars malvats ho complicaran tot!</desc>
+    <length units="minutes">00:11:09</length>
   </programme>
-  <programme start="20260824022247 +0000" channel="tv3" stop="20260824031115 +0000">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Caçadors i caçats</sub-title>
-    <desc lang="ca">Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.</desc>
-    <length units="minutes">00:48:28</length>
+  <programme start="20260824083906 +0000" channel="sx3" stop="20260824084951 +0000">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic fa de ratolí</sub-title>
+    <desc lang="ca">Ben amagat, darrere una capsa de cartró, el Mic fa de ratolí. Cada vegada que treu la poteta per un forat, en Cincsegons li dona una crispeta</desc>
+    <length units="minutes">00:10:45</length>
   </programme>
-  <programme start="20260824031115 +0000" channel="tv3" stop="20260824035908 +0000">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Els habitants de les profunditats</sub-title>
-    <desc lang="ca">Mitjançant tècniques de parada de càmera desenvolupades especialment per fer seguiments en un entorn submarí, 'Life' emprèn un viatge als racons més inexplorats de l'oceà. És aquí on s'estan realitzant nous descobriments, on viuen les criatures més estranyes, des d'aranyes de mar gegants que s'apleguen a milers tot buscant la seguretat de la bandada quan muden la carcassa que les protegeix, fins al calamar gegant 'transvestit'. Ens afegirem a un grup de 250 calamars gegants del corrent de Humboldt en una expedició de caça, contemplarem el sacrifici desesperat d'un pop gegant del Pacífic mare que mor de gana per atendre la seva cria i ens submergirem sota el gel permanent de l'Antàrtida per observar una estora bellugadissa d'estrelles de mar mentre devoren el cos d'una cria de foca.</desc>
-    <length units="minutes">00:47:53</length>
+  <programme start="20260824074736 +0000" channel="tv3" stop="20260824083937 +0000">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">Horta de Sant Joan</sub-title>
+    <desc lang="ca">Aquesta setmana, veurem El Foraster més passat per aigua de tots. Quim Masferrer coneixerà Horta de Sant Joan –comarca de la Terra Alta, 993 habitants- entre xàfecs, tempestes i una tromba d'aigua que deixarà la pick-up embarrancada enmig dels boscos d'Horta, a tocar del Parc Natural dels Ports. Veurem si El Foraster se'n surt sol o necessita l'ajuda dels hortolans que ha conegut. Tots ells, personatges que El Foraster no oblidarà mai. Com l'Aila, que es dedica a fer rituals sioux per demanar que s'acabi l'època de sequera a Horta; la Piti, una dona que inunda el poble de pregons; o l'Eduardo –atenció a l'Eduardo-, un antic músic de l'Orquestra Esmeralda, que va perdre la il·lusió per tocar el saxo. 30 anys després, El Foraster intentarà que la recuperi. Perquè a Horta, després de la pluja, tot rebrota.</desc>
+    <length units="minutes">00:52:01</length>
+  </programme>
+  <programme start="20260824083937 +0000" channel="tv3" stop="20260824092653 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La rajola catalana</sub-title>
+    <desc lang="ca">'Aquí hi viu un català', 'Ca la Pepeta', 'Cal Guarda'... Quantes rajoles catalanes donen la benvinguda a les portes de les cases i fan companyia a sobre les llars de foc? No volem que aquesta tradició es perdi, així que dediquem aquest capítol a la rajola catalana. Parlem amb Iván Morales, actor, director, dramaturg... Ha sortit en sèries tan nostrades com 'Poble Nou' i 'El cor de la ciutat'. I dirigeix pel·lícules i obres de teatre premiades arreu. Sortim a passejar la Maia pel 1952, el dia que un autobús va saltar el pont de Londres.</desc>
+    <length units="minutes">00:47:16</length>
   </programme>
 </tv>
