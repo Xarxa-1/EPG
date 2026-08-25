@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -9,70 +9,70 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20260825011309 +0000" channel="tvi" stop="20260825043000 +0000">
+  <programme start="20260825070000 +0000" channel="tvi" stop="20260825100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10992</sub-title>
+    <sub-title lang="ca">10993</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:16:51</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260825043000 +0000" channel="tvi" stop="20260825050954 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Martí Ventura Trio</sub-title>
-    <desc lang="ca">Martí Ventura Trio presenta el seu tercer treball discogràfic: 'Transicions'. La complicitat i el diàleg constant entre els membres del trio, fan que les composicions del pianista es converteixin en un joc musical d'allò més orgànic. Miquel Àngel Cordero al contrabaix, Lluís Ribalta a la bateria i Martí Ventura al piano.</desc>
-    <length units="minutes">00:39:54</length>
-  </programme>
-  <programme start="20260825010000 +0000" channel="324" stop="20260825060000 +0000">
+  <programme start="20260825100000 +0000" channel="tvi" stop="20260825115527 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10992</sub-title>
+    <sub-title lang="ca">10994</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:27</length>
   </programme>
-  <programme start="20260825060000 +0000" channel="324" stop="20260825070000 +0000">
+  <programme start="20260825070000 +0000" channel="324" stop="20260825100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10992</sub-title>
+    <sub-title lang="ca">10993</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260825022111 +0000" channel="esport3" stop="20260825023528 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5488</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:14:17</length>
+  <programme start="20260825100000 +0000" channel="324" stop="20260825133000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">10994</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:30:00</length>
   </programme>
-  <programme start="20260825023528 +0000" channel="esport3" stop="20260825040821 +0000">
+  <programme start="20260825065542 +0000" channel="esport3" stop="20260825082914 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin</sub-title>
+    <desc lang="ca">Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.</desc>
+    <length units="minutes">01:33:32</length>
+  </programme>
+  <programme start="20260825082914 +0000" channel="esport3" stop="20260825100152 +0000">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Barça-BM Granollers / Supercopa Catalunya masculina / Final</sub-title>
     <desc lang="ca">Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.</desc>
-    <length units="minutes">01:32:53</length>
+    <length units="minutes">01:32:38</length>
   </programme>
-  <programme start="20260825021849 +0000" channel="sx3" stop="20260825023828 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">L'arc iris i el mestre Pokémon!</sub-title>
-    <desc lang="ca">Ha arribat el moment que l'Ash, la Misty i el Brock se separin i tornin a casa. Quan arriba a casa seva, l'Ash li explica a la Delia les aventures que ha viscut, i després ajuda a trobar un Charmander descontrolat. En plena la recerca, troba el Gary, que li pregunta si li falta gaire per ser mestre Pokémon. Més endavant, al Bosc Verd, el Team Rocket, que s'ha tornat a ajuntar, ataca.</desc>
-    <length units="minutes">00:19:39</length>
+  <programme start="20260825081727 +0000" channel="sx3" stop="20260825082950 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió a l'hort</sub-title>
+    <desc lang="ca">Avui anem d'excursió a l'hort. Ens hi acompanyaran dos burros, que ens ajudaran a carregar les hortalisses amb les seves alforges. Collirem enciams, cogombres i tomàquets. I en John C ens prepararà una sorpresa deliciosa!!!</desc>
+    <length units="minutes">00:12:23</length>
   </programme>
-  <programme start="20260825023828 +0000" channel="sx3" stop="20260825030012 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Un cel blau i distant!</sub-title>
-    <desc lang="ca">L'Ash queda amb la seva mare en un centre Pokémon que hi ha a prop d'on és ell per poder veure el seu pare, que també hi anirà. Pel camí, es fa amic d'un nen que l'acompanya a un lloc on hi ha moltes baies. Allà, hi ha una casa on viuen un home i una dona que es comporten d'una manera una mica estranya.</desc>
-    <length units="minutes">00:21:44</length>
+  <programme start="20260825082950 +0000" channel="sx3" stop="20260825083948 +0000">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar a pirates</sub-title>
+    <desc lang="ca">En Titó i els Fa La La troben al mar una ampolla amb un missatge de rescat! Aquest és l'inici d'una aventura pirata que portarà la tripulació del capità Os a enfrontar-se als temibles Crancs pirates. Qui guanyarà?</desc>
+    <length units="minutes">00:09:58</length>
   </programme>
-  <programme start="20260825023015 +0000" channel="tv3" stop="20260825032031 +0000">
-    <title lang="ca">El gran camí</title>
-    <sub-title lang="ca">El Camí Inca - Perú</sub-title>
-    <desc lang="ca">Aquest episodi ens duu fins al Perú, a Sud-amèrica, per atènyer a peu una de les set meravelles del món: el Machu Picchu. Els camins de l'Inca és una ruta que els inques van mantenir en secret durant segles, i que ara s'ha rescatat per visitar el Machu Picchu caminant a través dels boscos subtropicals andins en un viatge inoblidable.</desc>
-    <length units="minutes">00:50:16</length>
+  <programme start="20260825074721 +0000" channel="tv3" stop="20260825083942 +0000">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">Calella de Palafrugell</sub-title>
+    <desc lang="ca">Un programa d'humor en què un monologuista ambulant recorre Catalunya a la recerca del paisatge humà dels pobles de menys de mil habitants. Cada capítol, un poble diferent. I a cada poble, un repte: fer un monòleg a mida dels seus habitants.Quim Masferrer arriba a cada poble atent a les sorpreses, sense xarxa, amb la vista i l'oïda a punt per detectar moments irrepetibles, disposat a deixar-se portar pels veïns i descobrir els racons inèdits, els costums locals, els somnis particulars i sobretot el seu sentit de l'humor. Per fer-ho, disposa només de 48 hores.I després reuneix tots els veïns al teatre del poble i exposa la seva visió particular del que ha descobert. Tots hi són presents i tots poden aparèixer en qualsevol moment al monòleg. Durant uns quants segons poden ser el centre d'atenció. El resultat: un programa d'humor on els veïns són, al mateix temps, públic i protagonistes, i amb un format que combina els moments de monòleg amb les entrevistes i recerca dels personatges més entranyables, curiosos, savis, divertits o peculiars.El programa és una oportunitat per conèixer el territori i els costums de la Catalunya rural. Cada poble és una reproducció a escala del país.Una producció de TV3 amb la col·laboració de Brutal Media.'El Foraster' és l'adaptació per a TV3 del format danès 'Comedy on the edge', que des de fa dues temporades triomfa al canal DR1 de Dinamarca.</desc>
+    <length units="minutes">00:52:21</length>
   </programme>
-  <programme start="20260825032031 +0000" channel="tv3" stop="20260825034709 +0000">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un hoteler dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">En Cinto Gabriel és fill d'una nissaga d'hotelers que regenta l'hotel Cardós ajudat per la família. La seva feina és l'atenció als clients, però, en realitat, fa una mica de tot.En Cinto és un col·leccionista nat del qual se'n podria destacar la passió pels bolets, per les papallones o per la fotografia, entre moltes altres. Aficions totes inculcades per antics clients. Però on se sent realment lliure és a dalt de les muntanyes on gaudeix dels seus paisatges preferits, tant per tradició familiar com per la seva bellesa natural, com el pla de Nèqua, a 2.000 metres. Un lloc on els seus clients acostumen a anar-hi un any sí i l'altre també. Amb tot, la seva afició més gran és l'òpera. N'escolta cada dia i l'ha incorporat a tots els actes importants de la seva vida, i això l'ha portat a abocar-se també en la conservació activa del patrimoni històric de la vall de Cardós, participant en el teatre o fent de campaner.</desc>
-    <length units="minutes">00:26:38</length>
+  <programme start="20260825083942 +0000" channel="tv3" stop="20260825092611 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La matrícula</sub-title>
+    <desc lang="ca">Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.</desc>
+    <length units="minutes">00:46:29</length>
   </programme>
 </tv>
