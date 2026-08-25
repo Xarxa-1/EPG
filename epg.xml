@@ -1,7 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -9,70 +15,70 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20260825070000 +0000" channel="tvi" stop="20260825100000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10993</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+  <programme start="20260825135959 +0000" channel="tvi" stop="20260825143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7020</sub-title>
+    <length units="minutes">00:30:01</length>
   </programme>
-  <programme start="20260825100000 +0000" channel="tvi" stop="20260825115527 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10994</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:27</length>
+  <programme start="20260825143000 +0000" channel="tvi" stop="20260825153211 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7308</sub-title>
+    <length units="minutes">01:02:11</length>
   </programme>
-  <programme start="20260825070000 +0000" channel="324" stop="20260825100000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10993</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+  <programme start="20260825140000 +0000" channel="324" stop="20260825143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7020</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260825100000 +0000" channel="324" stop="20260825133000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10994</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:30:00</length>
+  <programme start="20260825143000 +0000" channel="324" stop="20260825163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7308</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260825065542 +0000" channel="esport3" stop="20260825082914 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin</sub-title>
-    <desc lang="ca">Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.</desc>
-    <length units="minutes">01:33:32</length>
+  <programme start="20260825140454 +0000" channel="esport3" stop="20260825143730 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Eloi Vila s'arrisca a endevinar l'inenarrable</sub-title>
+    <desc lang="ca">Eloi Vila pren part en el concurs 'Això acaba...', on haurà d'endevinar com acaben tres vídeos sorprenents. Mentrestant, el DJ Frande tornarà a demostrar que és capaç de convertir qualsevol moment del programa en una festa... a la seva manera.</desc>
+    <length units="minutes">00:32:36</length>
   </programme>
-  <programme start="20260825082914 +0000" channel="esport3" stop="20260825100152 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-BM Granollers / Supercopa Catalunya masculina / Final</sub-title>
-    <desc lang="ca">Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.</desc>
-    <length units="minutes">01:32:38</length>
+  <programme start="20260825143730 +0000" channel="esport3" stop="20260825150145 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / San Diego 2 / 4</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <length units="minutes">00:24:15</length>
   </programme>
-  <programme start="20260825081727 +0000" channel="sx3" stop="20260825082950 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió a l'hort</sub-title>
-    <desc lang="ca">Avui anem d'excursió a l'hort. Ens hi acompanyaran dos burros, que ens ajudaran a carregar les hortalisses amb les seves alforges. Collirem enciams, cogombres i tomàquets. I en John C ens prepararà una sorpresa deliciosa!!!</desc>
-    <length units="minutes">00:12:23</length>
+  <programme start="20260825141627 +0000" channel="sx3" stop="20260825143806 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas del misteri d'en Mogra l'extraterrestre (2a part)</sub-title>
+    <desc lang="ca">El senyor Koda enterra les joies robades en multitud de forats repartits pel jardí del senyor Watanuki. A continuació, truca a la policia i s'entrega. Com sospitava en Conan, en Koda pretén que la policia busqui les joies i, de passada, trobi el cadàver de la seva germana Sanae. Però els esforços de les autoritats són en va. Tanmateix, en Conan està convençut que en Watanuki sí que va assassinar-la.</desc>
+    <length units="minutes">00:21:39</length>
   </programme>
-  <programme start="20260825082950 +0000" channel="sx3" stop="20260825083948 +0000">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar a pirates</sub-title>
-    <desc lang="ca">En Titó i els Fa La La troben al mar una ampolla amb un missatge de rescat! Aquest és l'inici d'una aventura pirata que portarà la tripulació del capità Os a enfrontar-se als temibles Crancs pirates. Qui guanyarà?</desc>
-    <length units="minutes">00:09:58</length>
+  <programme start="20260825143806 +0000" channel="sx3" stop="20260825150023 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Guanyaré en Freezer. Un jove misteriós</sub-title>
+    <desc lang="ca">Quan encara falten tres hores perquè torni en Son Goku, la Terra s'enfronta a una de les pitjors crisis que ha viscut mai: l'amenaça d'en Freezer, acompanyat del seu pare. Però quan tot semblava perdut, del no res, apareix un jove misteriós que assegura que és capaç de plantar cara a en Freezer. Qui deu ser?</desc>
+    <length units="minutes">00:22:17</length>
   </programme>
-  <programme start="20260825074721 +0000" channel="tv3" stop="20260825083942 +0000">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Calella de Palafrugell</sub-title>
-    <desc lang="ca">Un programa d'humor en què un monologuista ambulant recorre Catalunya a la recerca del paisatge humà dels pobles de menys de mil habitants. Cada capítol, un poble diferent. I a cada poble, un repte: fer un monòleg a mida dels seus habitants.Quim Masferrer arriba a cada poble atent a les sorpreses, sense xarxa, amb la vista i l'oïda a punt per detectar moments irrepetibles, disposat a deixar-se portar pels veïns i descobrir els racons inèdits, els costums locals, els somnis particulars i sobretot el seu sentit de l'humor. Per fer-ho, disposa només de 48 hores.I després reuneix tots els veïns al teatre del poble i exposa la seva visió particular del que ha descobert. Tots hi són presents i tots poden aparèixer en qualsevol moment al monòleg. Durant uns quants segons poden ser el centre d'atenció. El resultat: un programa d'humor on els veïns són, al mateix temps, públic i protagonistes, i amb un format que combina els moments de monòleg amb les entrevistes i recerca dels personatges més entranyables, curiosos, savis, divertits o peculiars.El programa és una oportunitat per conèixer el territori i els costums de la Catalunya rural. Cada poble és una reproducció a escala del país.Una producció de TV3 amb la col·laboració de Brutal Media.'El Foraster' és l'adaptació per a TV3 del format danès 'Comedy on the edge', que des de fa dues temporades triomfa al canal DR1 de Dinamarca.</desc>
-    <length units="minutes">00:52:21</length>
+  <programme start="20260825134847 +0000" channel="tv3" stop="20260825144116 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Allan</sub-title>
+    <desc lang="ca">Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
+    <length units="minutes">00:52:29</length>
   </programme>
-  <programme start="20260825083942 +0000" channel="tv3" stop="20260825092611 +0000">
+  <programme start="20260825144116 +0000" channel="tv3" stop="20260825152702 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La matrícula</sub-title>
-    <desc lang="ca">Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.</desc>
-    <length units="minutes">00:46:29</length>
+    <sub-title lang="ca">El molí</sub-title>
+    <desc lang="ca">Molins de vent, molins d'aigua, molins eòlics, molinets de jardí... En teniu algun enganxat a una torratxa del balcó? Avui dediquem el capítol al molí, que les últimes setmanes deuen haver tingut feina amb ratxes de vent de gairebé 200?km/h. Ve a xerrar una estona la Tina Diedhiou, model de marques tan importants com Prada. Va venir del Senegal a Artés en plena pandèmia per amor. Li demanarem què en pensa d'Artés, que sempre ens fa gràcia parlar de nosaltres mateixos. Sortim a passejar amb en Ramon per la defensa de la Corunya del 1589.</desc>
+    <length units="minutes">00:45:46</length>
+  </programme>
+  <programme start="20260825134254 +0000" channel="tv3" stop="20260825154249 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
+    <sub-title lang="ca">4080</sub-title>
+    <length units="minutes">01:59:55</length>
+  </programme>
+  <programme start="20260825122732 +0000" channel="tv3" stop="20260825142727 +0000">
+    <title lang="ca">Compareixença al Congrés de la ministra de Defensa, Margarita Robles, per la crisi a Ceuta</title>
+    <sub-title lang="ca">4081</sub-title>
+    <length units="minutes">01:59:55</length>
   </programme>
 </tv>
