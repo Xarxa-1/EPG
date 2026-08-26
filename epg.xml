@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260826021019 +0000" channel="tvi" stop="20260826043000 +0000">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260826070000 +0000" channel="tvi" stop="20260826100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11001</sub-title>
+    <sub-title lang="ca">11002</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:19:41</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260826043000 +0000" channel="tvi" stop="20260826050909 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Xavi Maureta Animals Exòtics</sub-title>
-    <desc lang="ca">Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.</desc>
-    <length units="minutes">00:39:09</length>
-  </programme>
-  <programme start="20260826010000 +0000" channel="324" stop="20260826060000 +0000">
+  <programme start="20260826100000 +0000" channel="tvi" stop="20260826115423 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11001</sub-title>
+    <sub-title lang="ca">11003</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:54:23</length>
   </programme>
-  <programme start="20260826060000 +0000" channel="324" stop="20260826070000 +0000">
+  <programme start="20260826070000 +0000" channel="324" stop="20260826100000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11001</sub-title>
+    <sub-title lang="ca">11002</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20260826023248 +0000" channel="esport3" stop="20260826040341 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">La decisió amb el 9</sub-title>
-    <desc lang="ca">El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Giménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.</desc>
-    <length units="minutes">01:30:53</length>
+  <programme start="20260826100000 +0000" channel="324" stop="20260826120000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11003</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260826040341 +0000" channel="esport3" stop="20260826041810 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5489</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:14:29</length>
+  <programme start="20260826080855 +0000" channel="esport3" stop="20260826085428 +0000">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Ceretània, amb Judit Mascó</sub-title>
+    <desc lang="ca">Judit Mascó, absolutament enamorada de la Cerdanya , serà la convidada de Núria Picas en aquest capítol gravat a la comarca pirinenca. Les dues amazones faran un preciós recorregut a cavall pels voltants de Llívia. Però la Cerdanya més esportiva dona per molt: farem esquí alpí , esquí de fons i vol sense motor. I no marxarem sense aprendre a fer un bon trinxat.</desc>
+    <length units="minutes">00:45:33</length>
   </programme>
-  <programme start="20260826021903 +0000" channel="sx3" stop="20260826023923 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Llegenda? Endavant! Amics? Endavant!</sub-title>
-    <desc lang="ca">L'Ash assisteix a la inauguració del nou laboratori de recerca del professor Cirerer a Ciutat Carmí, però els esdeveniments fan un gir inesperat quan prop d'allà apareix un pokémon llegendari, un lugia! L'Ash corre a lluitar contra ell, però quan salta al llom de l'enorme pokémon s'adona que no està sol! Allà també hi ha un noi que es diu Goh, documentant tot el que pot sobre el lugia. El pokémon porta l'Ash i el Goh a viure una aventura increïble que el Goh grava amb la càmera. El professor Cirerer queda tan impressionat amb els resultats que proposa a l'Ash i el Goh que siguin investigadors becaris al seu laboratori, i tots dos ho accepten encantats!</desc>
-    <length units="minutes">00:20:20</length>
+  <programme start="20260826085428 +0000" channel="esport3" stop="20260826094034 +0000">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Terra de Volcans, amb Carme Ruscalleda</sub-title>
+    <desc lang="ca">Si hi ha una comarca atractiva per ser visitada en plena tardor, és, sense dubte, La Garrotxa. Núria Picas i Aire Lliure la van visitar en companyia de la cuinera Carme Ruscalleda que va gaudir d'una espectacular travessa en globus. També visitarem la fageda d'en Jordà i el volcà de St. Margarida</desc>
+    <length units="minutes">00:46:06</length>
   </programme>
-  <programme start="20260826023923 +0000" channel="sx3" stop="20260826025920 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">La torre misteriosa dels Ivysaur</sub-title>
-    <desc lang="ca">L'Ash i el Goh emprenen el seu primer dia sencer com a investigadors becaris del laboratori del professor Cirerer, i l'emoció comença de seguida. A Ciutat Carmí apareixen una multitud d'ivysaurs i bulbasaurs, i amb l'ajuda dels seus nous smartRotoms, els nostres herois surten a investigar. Resulta que els pokémons volen arribar a un lloc que era el seu preferit per prendre el sol, però ara el terreny està ocupat per les obres que hi fa un gimnàs. L'Ash i el Goh segueixen els pokémons grimpant per la torre del gimnàs, però l'Equip Rocket els persegueix. L'Ash, el Pikachu i els ivysaurs els faran fugir, i llavors els nostres herois podran contemplar admirats com un triomfant ivysaur evoluciona en venusaur.</desc>
-    <length units="minutes">00:19:57</length>
+  <programme start="20260826081810 +0000" channel="sx3" stop="20260826083148 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb la barca Xica</sub-title>
+    <desc lang="ca">Avui anem d'excursió a un antic poble de pescadors. En un bot trobarem un esclop de pescador i construirem una barca xica. Amb el mocador d'en JohnC farem la vela i acabarem cantant una havanera.</desc>
+    <length units="minutes">00:13:38</length>
   </programme>
-  <programme start="20260826021411 +0000" channel="tv3" stop="20260826031239 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Reykjavík</sub-title>
-    <desc lang="ca">En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.</desc>
-    <length units="minutes">00:58:28</length>
+  <programme start="20260826083148 +0000" channel="sx3" stop="20260826084302 +0000">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb la Capidzilla</sub-title>
+    <desc lang="ca">El Ruquicorn, sense voler, ha convertit una de les germanes capibares en una criatura gegant amb una fam insaciable de polos: la Capidzilla! En Titó i els Fa La La hauran d'aturar-la abans no ho arrasi tot. Però no serà fàcil!</desc>
+    <length units="minutes">00:11:14</length>
   </programme>
-  <programme start="20260826031239 +0000" channel="tv3" stop="20260826041125 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Bordeus</sub-title>
-    <desc lang="ca">En Rick visita Bordeus a l'època de la verema. Visita diferents restaurants on menja des d'un plat emblemàtic de la ciutat a un menú del dia en un modest restaurant de poble, passant per un menú sorpresa modern i innovador, una 'côte de bœuf' molt especial en una vinya, o un àpat de musclos a la vora del mar. Entre àpat i àpat, visita algunes vinyes del país, un mercat i fa un tast de vins.</desc>
-    <length units="minutes">00:58:46</length>
+  <programme start="20260826075506 +0000" channel="tv3" stop="20260826084149 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La canya de pescar</sub-title>
+    <desc lang="ca">És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.</desc>
+    <length units="minutes">00:46:43</length>
+  </programme>
+  <programme start="20260826084149 +0000" channel="tv3" stop="20260826091057 +0000">
+    <title lang="ca">L'ofici de viure</title>
+    <sub-title lang="ca">Benestar emocional</sub-title>
+    <desc lang="ca">El programa explica què és, exactament, el benestar emocional, i com aconseguir-lo. El benestar emocional no consisteix a estar bé cada dia, i és compatible amb els alts i baixos, maldecaps i fins i tot els tràngols. No sempre podem estar bé. Tanmateix, ¿a partir de quin moment hem de demanar ajut? ¿Com podem saber si tenim benestar emocional i psicològic, o no? Nosaltres i les persones del nostre entorn.</desc>
+    <length units="minutes">00:29:08</length>
   </programme>
 </tv>
