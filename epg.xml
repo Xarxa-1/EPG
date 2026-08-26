@@ -1,74 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260826135958 +0000" channel="tvi" stop="20260826143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7021</sub-title>
-    <length units="minutes">00:30:02</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260826210000 +0000" channel="tvi" stop="20260826220154 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7308</sub-title>
+    <length units="minutes">01:01:54</length>
   </programme>
-  <programme start="20260826143000 +0000" channel="tvi" stop="20260826153358 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7309</sub-title>
-    <length units="minutes">01:03:58</length>
+  <programme start="20260826215953 +0000" channel="tvi" stop="20260826222743 +0000">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Brokers</sub-title>
+    <desc lang="ca">Ja fa anys que el Calafell inverteix petites quantitats a la borsa,i guanyen per donar-se petits capricis. Quan els altres se n'assabenten i també decideixen jugar. La Rosa i la Joana comencen a guanyar diners a cabassos, i el Toni i la Maria, també a cabassos, els perden. Però la borsa dóna moltes voltes.</desc>
+    <length units="minutes">00:27:50</length>
   </programme>
-  <programme start="20260826140000 +0000" channel="324" stop="20260826143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7021</sub-title>
-    <length units="minutes">00:30:00</length>
-  </programme>
-  <programme start="20260826143000 +0000" channel="324" stop="20260826163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7309</sub-title>
+  <programme start="20260826210000 +0000" channel="324" stop="20260826230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7308</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260826142114 +0000" channel="esport3" stop="20260826144601 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / San Antonio / 6</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
-    <length units="minutes">00:24:47</length>
+  <programme start="20260826230000 +0000" channel="324" stop="20260827003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11009</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260826144601 +0000" channel="esport3" stop="20260826145120 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Plans de Sió</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:05:19</length>
+  <programme start="20260826212530 +0000" channel="esport3" stop="20260826215556 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">El Zapi està de morros... perquè no el van convidar al sopar de l'equip!</sub-title>
+    <desc lang="ca">En aquest programa, Pere Mas participa en el concurs i intentarà endevinar el final de tres vídeos virals per emportar-se els premis del 'Zona Zàping Club'. Però qui no comença gaire bé el programa és el Zapi, que està ben enfadat després de quedar-se sense invitació al sopar-pizza de l'equip. Aconseguiran animar-lo abans del ball final?</desc>
+    <length units="minutes">00:30:26</length>
   </programme>
-  <programme start="20260826141905 +0000" channel="sx3" stop="20260826144159 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas dels 7 misteris de l'escola Teitan</sub-title>
-    <desc lang="ca">A l'Escola de Primària Teitan passen unes coses inexplicables: bustos de pedra de la classe d'art que es mouen, un model anatòmic de la infermeria que cobra vida i un subdirector que ha desaparegut. Els membres de la Lliga de Detectius Júnior entren a l'escola de nit per mirar de desentranyar els misteris. En Conan haurà de buscar la lògica en uns fets que posen els pèls de punta als seus amics.</desc>
-    <length units="minutes">00:22:54</length>
+  <programme start="20260826215556 +0000" channel="esport3" stop="20260826222727 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Eloi Vila s'arrisca a endevinar l'inenarrable</sub-title>
+    <desc lang="ca">Eloi Vila pren part en el concurs 'Això acaba...', on haurà d'endevinar com acaben tres vídeos sorprenents. Mentrestant, el DJ Frande tornarà a demostrar que és capaç de convertir qualsevol moment del programa en una festa... a la seva manera.</desc>
+    <length units="minutes">00:31:31</length>
   </programme>
-  <programme start="20260826144159 +0000" channel="sx3" stop="20260826150416 +0000">
+  <programme start="20260826212232 +0000" channel="sx3" stop="20260826214153 +0000">
     <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El meu pare és en Vegeta</sub-title>
-    <desc lang="ca">Per fi queda resolt el gran enigma que envolta el jove superguerrer. Es tracta d'en Trunks, el fill d'en Vegeta i de la Bulma, que ha viatjat vint anys enrere per avisar en Son Goku d'una futura amenaça. D'aquí a tres anys el doctor Guero crearà dos androides amb una força increïble que mataran tots els guerrers que s'hi enfrontin.</desc>
-    <length units="minutes">00:22:17</length>
+    <sub-title lang="ca">El rei dels superguerrers. La cursa pel combat</sub-title>
+    <desc lang="ca">En Son Goku, en Cor Petit, en Son Gohan, en Vegeta i la resta de guerrers inicien una etapa molt dura d'entrenaments perquè el futur infernal que els va pintar en Trunks no arribi mai a fer-se realitat. En Vegeta, obsessionat a superar en Son Goku, s'entrena amb una gravetat que no pot aguantar i s'acaba fent mal.</desc>
+    <length units="minutes">00:19:21</length>
   </programme>
-  <programme start="20260826135514 +0000" channel="tv3" stop="20260826144138 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 27</sub-title>
-    <desc lang="ca">Aquesta setmana hem parlat de l'àncora, el mocador, la targeta sanitària i el molí. Són objectes prou curiosos i diversos, i ens hem quedat amb anècdotes que criden força l'atenció i que segur que no havíeu sentit mai. Hem petat la xerrada amb en Roger Escapa, en Miquel Grandio, en Ramon Mirabet i la Tina Diedhiou. Escolteu-los, que són savis i bojos interessants.</desc>
-    <length units="minutes">00:46:24</length>
+  <programme start="20260826214153 +0000" channel="sx3" stop="20260826220253 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Goku davant d'una altra prova</sub-title>
+    <desc lang="ca">Després d'haver-se enfrontat al poderós Freezer i d'haver salvat la Terra en més d'una ocasió, en Son Goku, acompanyat d'en Cor Petit, s'enfronta ara al repte més gran de la seva vida: treure's el carnet de conduir per no haver d'aguantar el mal geni de la Xixi! En Vegeta es continua entrenant cada cop amb una gravetat més alta.</desc>
+    <length units="minutes">00:21:00</length>
   </programme>
-  <programme start="20260826144138 +0000" channel="tv3" stop="20260826152919 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">L'estetoscopi</sub-title>
-    <desc lang="ca">L'estetoscopi té dos punts de vista: l'estri que porten els metges penjats al coll com qui porta un collaret o aquell aparell que et posen a l'esquena o a la panxa que et fa fotre un salt de tan fred que està. Ens visita Ypnosi, un grup que a les xarxes es descriu com a post eroski psycho funk. No sabem què és, però semblen simpàtics. Interpreten 'La història', amb Arnau Tordera i Laia Glück. A 'Històries per passejar el gos', portem la Lluna a l'incendi del circ de Niterói (el Brasil), el 1961.</desc>
-    <length units="minutes">00:47:41</length>
+  <programme start="20260826210832 +0000" channel="tv3" stop="20260826213537 +0000">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Tinc un mal rotllo (narrat)</sub-title>
+    <desc lang="ca">La Mercedes intenta parlar amb el Lopes d'un tema important, però aquest intenta evitar-la per por que li foti bronca.La Mercedes va a casa seva per esperar-lo i s'enrotlla amb el David, que queda penjat d'ella.</desc>
+    <length units="minutes">00:27:05</length>
+  </programme>
+  <programme start="20260826213537 +0000" channel="tv3" stop="20260826220031 +0000">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Tinc poder</sub-title>
+    <desc lang="ca">El Lopes és el nou director de ràdio Bofarull i fa una aposta molt personal per millorar la ràdio. D'altra banda, el Pol parla de la importància d'un llibre i el David es predisposa a llegir-lo.</desc>
+    <length units="minutes">00:24:54</length>
   </programme>
 </tv>
