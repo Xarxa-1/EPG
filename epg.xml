@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -15,68 +15,64 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260825195735 +0000" channel="tvi" stop="20260825210000 +0000">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <sub-title lang="ca">979</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:02:25</length>
-  </programme>
-  <programme start="20260825210000 +0000" channel="tvi" stop="20260825220502 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7307</sub-title>
-    <length units="minutes">01:05:02</length>
-  </programme>
-  <programme start="20260825200000 +0000" channel="324" stop="20260825210000 +0000">
+  <programme start="20260826021019 +0000" channel="tvi" stop="20260826043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">10999</sub-title>
+    <sub-title lang="ca">11001</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:19:41</length>
+  </programme>
+  <programme start="20260826043000 +0000" channel="tvi" stop="20260826050909 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Xavi Maureta Animals Exòtics</sub-title>
+    <desc lang="ca">Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.</desc>
+    <length units="minutes">00:39:09</length>
+  </programme>
+  <programme start="20260826010000 +0000" channel="324" stop="20260826060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11001</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260826060000 +0000" channel="324" stop="20260826070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11001</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260825210000 +0000" channel="324" stop="20260825230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7307</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260825185957 +0000" channel="esport3" stop="20260825203040 +0000">
+  <programme start="20260826023248 +0000" channel="esport3" stop="20260826040341 +0000">
     <title lang="ca">Tot Costa</title>
     <sub-title lang="ca">La decisió amb el 9</sub-title>
-    <desc lang="ca">El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Jiménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.</desc>
-    <length units="minutes">01:30:43</length>
+    <desc lang="ca">El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Giménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.</desc>
+    <length units="minutes">01:30:53</length>
   </programme>
-  <programme start="20260825203040 +0000" channel="esport3" stop="20260825210201 +0000">
-    <title lang="ca">Crackòvia</title>
-    <sub-title lang="ca">237</sub-title>
-    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
-    <length units="minutes">00:31:21</length>
+  <programme start="20260826040341 +0000" channel="esport3" stop="20260826041810 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5489</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:14:29</length>
   </programme>
-  <programme start="20260825201549 +0000" channel="sx3" stop="20260825203656 +0000">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Sé el teu secret</sub-title>
-    <desc lang="ca">En Henry rep una nota misteriosa d'algú que diu que coneix el seu secret, mentre la Piper munta un negoci improvisat de bronzejat a casa.</desc>
-    <length units="minutes">00:21:07</length>
+  <programme start="20260826021903 +0000" channel="sx3" stop="20260826023923 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Llegenda? Endavant! Amics? Endavant!</sub-title>
+    <desc lang="ca">L'Ash assisteix a la inauguració del nou laboratori de recerca del professor Cirerer a Ciutat Carmí, però els esdeveniments fan un gir inesperat quan prop d'allà apareix un pokémon llegendari, un lugia! L'Ash corre a lluitar contra ell, però quan salta al llom de l'enorme pokémon s'adona que no està sol! Allà també hi ha un noi que es diu Goh, documentant tot el que pot sobre el lugia. El pokémon porta l'Ash i el Goh a viure una aventura increïble que el Goh grava amb la càmera. El professor Cirerer queda tan impressionat amb els resultats que proposa a l'Ash i el Goh que siguin investigadors becaris al seu laboratori, i tots dos ho accepten encantats!</desc>
+    <length units="minutes">00:20:20</length>
   </programme>
-  <programme start="20260825203656 +0000" channel="sx3" stop="20260825210000 +0000">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Comença el perill (Part 1)</sub-title>
-    <desc lang="ca">Un adolescent normal, en Henry Hart, busca una feina i acaba descobrint que el seu nou cap és el superheroi Capità Man.Quan accepta convertir-se en el seu ajudant secret, neix Kid Danger i comença una doble vida plena d'aventures i perills.</desc>
-    <length units="minutes">00:23:04</length>
+  <programme start="20260826023923 +0000" channel="sx3" stop="20260826025920 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">La torre misteriosa dels Ivysaur</sub-title>
+    <desc lang="ca">L'Ash i el Goh emprenen el seu primer dia sencer com a investigadors becaris del laboratori del professor Cirerer, i l'emoció comença de seguida. A Ciutat Carmí apareixen una multitud d'ivysaurs i bulbasaurs, i amb l'ajuda dels seus nous smartRotoms, els nostres herois surten a investigar. Resulta que els pokémons volen arribar a un lloc que era el seu preferit per prendre el sol, però ara el terreny està ocupat per les obres que hi fa un gimnàs. L'Ash i el Goh segueixen els pokémons grimpant per la torre del gimnàs, però l'Equip Rocket els persegueix. L'Ash, el Pikachu i els ivysaurs els faran fugir, i llavors els nostres herois podran contemplar admirats com un triomfant ivysaur evoluciona en venusaur.</desc>
+    <length units="minutes">00:19:57</length>
   </programme>
-  <programme start="20260825200458 +0000" channel="tv3" stop="20260825203345 +0000">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Budir - Islàndia</sub-title>
-    <desc lang="ca">Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
-    <length units="minutes">00:28:47</length>
+  <programme start="20260826021411 +0000" channel="tv3" stop="20260826031239 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Reykjavík</sub-title>
+    <desc lang="ca">En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.</desc>
+    <length units="minutes">00:58:28</length>
   </programme>
-  <programme start="20260825203345 +0000" channel="tv3" stop="20260825205948 +0000">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Qasr Al Sarab d'Anantara - Emirats Àrabs Units</sub-title>
-    <desc lang="ca">Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.</desc>
-    <length units="minutes">00:26:03</length>
-  </programme>
-  <programme start="20260825185930 +0000" channel="tv3" stop="20260825202925 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">994</sub-title>
-    <desc lang="ca">El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Jiménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.</desc>
-    <length units="minutes">01:29:55</length>
+  <programme start="20260826031239 +0000" channel="tv3" stop="20260826041125 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Bordeus</sub-title>
+    <desc lang="ca">En Rick visita Bordeus a l'època de la verema. Visita diferents restaurants on menja des d'un plat emblemàtic de la ciutat a un menú del dia en un modest restaurant de poble, passant per un menú sorpresa modern i innovador, una 'côte de bœuf' molt especial en una vinya, o un àpat de musclos a la vora del mar. Entre àpat i àpat, visita algunes vinyes del país, un mercat i fa un tast de vins.</desc>
+    <length units="minutes">00:58:46</length>
   </programme>
 </tv>
