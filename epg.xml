@@ -6,73 +6,69 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20260826070000 +0000" channel="tvi" stop="20260826100000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11002</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+  <programme start="20260826135958 +0000" channel="tvi" stop="20260826143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7021</sub-title>
+    <length units="minutes">00:30:02</length>
   </programme>
-  <programme start="20260826100000 +0000" channel="tvi" stop="20260826115423 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11003</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:54:23</length>
+  <programme start="20260826143000 +0000" channel="tvi" stop="20260826153358 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7309</sub-title>
+    <length units="minutes">01:03:58</length>
   </programme>
-  <programme start="20260826070000 +0000" channel="324" stop="20260826100000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11002</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+  <programme start="20260826140000 +0000" channel="324" stop="20260826143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7021</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260826100000 +0000" channel="324" stop="20260826120000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11003</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260826143000 +0000" channel="324" stop="20260826163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7309</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260826080855 +0000" channel="esport3" stop="20260826085428 +0000">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">Ceretània, amb Judit Mascó</sub-title>
-    <desc lang="ca">Judit Mascó, absolutament enamorada de la Cerdanya , serà la convidada de Núria Picas en aquest capítol gravat a la comarca pirinenca. Les dues amazones faran un preciós recorregut a cavall pels voltants de Llívia. Però la Cerdanya més esportiva dona per molt: farem esquí alpí , esquí de fons i vol sense motor. I no marxarem sense aprendre a fer un bon trinxat.</desc>
-    <length units="minutes">00:45:33</length>
+  <programme start="20260826142114 +0000" channel="esport3" stop="20260826144601 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / San Antonio / 6</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <length units="minutes">00:24:47</length>
   </programme>
-  <programme start="20260826085428 +0000" channel="esport3" stop="20260826094034 +0000">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">Terra de Volcans, amb Carme Ruscalleda</sub-title>
-    <desc lang="ca">Si hi ha una comarca atractiva per ser visitada en plena tardor, és, sense dubte, La Garrotxa. Núria Picas i Aire Lliure la van visitar en companyia de la cuinera Carme Ruscalleda que va gaudir d'una espectacular travessa en globus. També visitarem la fageda d'en Jordà i el volcà de St. Margarida</desc>
-    <length units="minutes">00:46:06</length>
+  <programme start="20260826144601 +0000" channel="esport3" stop="20260826145120 +0000">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Plans de Sió</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="minutes">00:05:19</length>
   </programme>
-  <programme start="20260826081810 +0000" channel="sx3" stop="20260826083148 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió amb la barca Xica</sub-title>
-    <desc lang="ca">Avui anem d'excursió a un antic poble de pescadors. En un bot trobarem un esclop de pescador i construirem una barca xica. Amb el mocador d'en JohnC farem la vela i acabarem cantant una havanera.</desc>
-    <length units="minutes">00:13:38</length>
+  <programme start="20260826141905 +0000" channel="sx3" stop="20260826144159 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas dels 7 misteris de l'escola Teitan</sub-title>
+    <desc lang="ca">A l'Escola de Primària Teitan passen unes coses inexplicables: bustos de pedra de la classe d'art que es mouen, un model anatòmic de la infermeria que cobra vida i un subdirector que ha desaparegut. Els membres de la Lliga de Detectius Júnior entren a l'escola de nit per mirar de desentranyar els misteris. En Conan haurà de buscar la lògica en uns fets que posen els pèls de punta als seus amics.</desc>
+    <length units="minutes">00:22:54</length>
   </programme>
-  <programme start="20260826083148 +0000" channel="sx3" stop="20260826084302 +0000">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar amb la Capidzilla</sub-title>
-    <desc lang="ca">El Ruquicorn, sense voler, ha convertit una de les germanes capibares en una criatura gegant amb una fam insaciable de polos: la Capidzilla! En Titó i els Fa La La hauran d'aturar-la abans no ho arrasi tot. Però no serà fàcil!</desc>
-    <length units="minutes">00:11:14</length>
+  <programme start="20260826144159 +0000" channel="sx3" stop="20260826150416 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El meu pare és en Vegeta</sub-title>
+    <desc lang="ca">Per fi queda resolt el gran enigma que envolta el jove superguerrer. Es tracta d'en Trunks, el fill d'en Vegeta i de la Bulma, que ha viatjat vint anys enrere per avisar en Son Goku d'una futura amenaça. D'aquí a tres anys el doctor Guero crearà dos androides amb una força increïble que mataran tots els guerrers que s'hi enfrontin.</desc>
+    <length units="minutes">00:22:17</length>
   </programme>
-  <programme start="20260826075506 +0000" channel="tv3" stop="20260826084149 +0000">
+  <programme start="20260826135514 +0000" channel="tv3" stop="20260826144138 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La canya de pescar</sub-title>
-    <desc lang="ca">És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.</desc>
-    <length units="minutes">00:46:43</length>
+    <sub-title lang="ca">Millors moments - setmana 27</sub-title>
+    <desc lang="ca">Aquesta setmana hem parlat de l'àncora, el mocador, la targeta sanitària i el molí. Són objectes prou curiosos i diversos, i ens hem quedat amb anècdotes que criden força l'atenció i que segur que no havíeu sentit mai. Hem petat la xerrada amb en Roger Escapa, en Miquel Grandio, en Ramon Mirabet i la Tina Diedhiou. Escolteu-los, que són savis i bojos interessants.</desc>
+    <length units="minutes">00:46:24</length>
   </programme>
-  <programme start="20260826084149 +0000" channel="tv3" stop="20260826091057 +0000">
-    <title lang="ca">L'ofici de viure</title>
-    <sub-title lang="ca">Benestar emocional</sub-title>
-    <desc lang="ca">El programa explica què és, exactament, el benestar emocional, i com aconseguir-lo. El benestar emocional no consisteix a estar bé cada dia, i és compatible amb els alts i baixos, maldecaps i fins i tot els tràngols. No sempre podem estar bé. Tanmateix, ¿a partir de quin moment hem de demanar ajut? ¿Com podem saber si tenim benestar emocional i psicològic, o no? Nosaltres i les persones del nostre entorn.</desc>
-    <length units="minutes">00:29:08</length>
+  <programme start="20260826144138 +0000" channel="tv3" stop="20260826152919 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">L'estetoscopi</sub-title>
+    <desc lang="ca">L'estetoscopi té dos punts de vista: l'estri que porten els metges penjats al coll com qui porta un collaret o aquell aparell que et posen a l'esquena o a la panxa que et fa fotre un salt de tan fred que està. Ens visita Ypnosi, un grup que a les xarxes es descriu com a post eroski psycho funk. No sabem què és, però semblen simpàtics. Interpreten 'La història', amb Arnau Tordera i Laia Glück. A 'Històries per passejar el gos', portem la Lluna a l'incendi del circ de Niterói (el Brasil), el 1961.</desc>
+    <length units="minutes">00:47:41</length>
   </programme>
 </tv>
