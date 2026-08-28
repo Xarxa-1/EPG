@@ -3,82 +3,76 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260827181327 +0000" channel="tvi" stop="20260827185856 +0000">
-    <title lang="ca">Sang Vienesa</title>
-    <sub-title lang="ca">Creix la tenebra. Segona part</sub-title>
-    <desc lang="ca">Fent-se passar per monjo, el Max investiga l'assassinat del germà Stanislav a l'abadia de Heiligenkron. Sembla que la mort està relacionada amb una relíquia guardada a la sagristia del convent: la llança que van clavar al costat de Jesús quan ja era a la creu. Tots els indicis apunten un jueu com a autor del crim, però el Max i l'Oskar no se'n refien, sobretot quan apareix mort un altre monjo del monestir.</desc>
-    <length units="minutes">00:45:29</length>
-  </programme>
-  <programme start="20260827185856 +0000" channel="tvi" stop="20260827195217 +0000">
-    <title lang="ca">Moments APM?</title>
-    <sub-title lang="ca">0</sub-title>
-    <desc lang="ca">Estàs de vacances i se't possa cara de pastanaga bullida només de pensar que hauràs d'aguantar dos mesos sense el teu programa preferit? Arriba 'APM?, el Multivers de l'estiu'. Durant juliol i agost TV3 emetrà un recull dels millors moments que s'han emès aquesta última temporada. Al loro! No et perdis els vídeos més divertits de la vint-i-unena temporada amb Nerea Sanfe, Joel Díaz, i tots els teus personatges preferits de l''APM?' #APM3CAT</desc>
-    <length units="minutes">00:53:21</length>
-  </programme>
-  <programme start="20260827183000 +0000" channel="324" stop="20260827200000 +0000">
+  <programme start="20260828011745 +0000" channel="tvi" stop="20260828043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11016</sub-title>
+    <sub-title lang="ca">11019</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">03:12:15</length>
   </programme>
-  <programme start="20260827200000 +0000" channel="324" stop="20260827210000 +0000">
+  <programme start="20260828043000 +0000" channel="tvi" stop="20260828050851 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Clara Luna</sub-title>
+    <desc lang="ca">Clara Luna presenta 'Viajes', el primer disc de composicions originals. En aquesta nova proposta Luna ens mostra el seu vessant més de cantautora, en un repertori inspirat en els seus viatges arreu del món.Podrem sentir-la cantant rumbes, tanguillos, chacareras, tangos i un jazz que es barreja amb el rock i el pop sense complexos. L'acompanyen Matías Miguez al baix, Gustavo Rocha a la guitarra, Salvador Toscano a la bateria, i Fernando Tejero, al piano.</desc>
+    <length units="minutes">00:38:51</length>
+  </programme>
+  <programme start="20260828010000 +0000" channel="324" stop="20260828060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11017</sub-title>
+    <sub-title lang="ca">11019</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260828060000 +0000" channel="324" stop="20260828070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11019</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260827175516 +0000" channel="esport3" stop="20260827190037 +0000">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Sorteig fase grups</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="minutes">01:05:21</length>
+  <programme start="20260828024122 +0000" channel="esport3" stop="20260828041417 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-BM Granollers / Supercopa Catalunya masculina / Final</sub-title>
+    <desc lang="ca">Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.</desc>
+    <length units="minutes">01:32:55</length>
   </programme>
-  <programme start="20260827190037 +0000" channel="esport3" stop="20260827200109 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">996</sub-title>
-    <desc lang="ca">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <length units="minutes">01:00:32</length>
+  <programme start="20260828041417 +0000" channel="esport3" stop="20260828043248 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5491</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:18:31</length>
   </programme>
-  <programme start="20260827185826 +0000" channel="sx3" stop="20260827190938 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva uns gatets que s’escapen</sub-title>
-    <desc lang="ca">En Rubble veu que si s'embruta prou, podrà anar a fer un bany de bombolles al saló de la Katie, però la cosa s'embolica quan l'alcalde Humdinger també hi porta els seus gatets.</desc>
-    <length units="minutes">00:11:12</length>
+  <programme start="20260828033811 +0000" channel="sx3" stop="20260828035853 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Sentibombollaire</sub-title>
+    <desc lang="ca">L'Esfinx Fosc ha descobert que l'Alya és la Guineu Roja. La Marinette ho sap i li fa por que faci servir aquesta informació contra la seva millor amiga. Sobretot ara que li ha confiat el prodigi de la guineu de manera permanent. I si s'ha equivocat? La Marinette se'n va corrents a casa de l'Alya per explicar-li els seus temors, i mentrestant l'Esfinx Fosc crea un sentimonstre que empresona tots els éssers estimats de l'Alya en bombolles que floten al cel de París. I només els alliberarà si la Guineu Roja traeix Ladybug i el Gat Noir. Aconseguirà impedir que el seu malson es faci realitat, la Marinette?</desc>
+    <length units="minutes">00:20:42</length>
   </programme>
-  <programme start="20260827190938 +0000" channel="sx3" stop="20260827192011 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva en mini-Marshal</sub-title>
-    <desc lang="ca">En Marshall no pot arribar a la pilota quan cau dins d'un forat i per això somia que es fa petit amb un raig empetitidor.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20260828035853 +0000" channel="sx3" stop="20260828041958 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Glaciator 2</sub-title>
+    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
+    <length units="minutes">00:21:05</length>
   </programme>
-  <programme start="20260827183823 +0000" channel="tv3" stop="20260827193140 +0000">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Polònia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.</desc>
-    <length units="minutes">00:53:17</length>
+  <programme start="20260828025909 +0000" channel="tv3" stop="20260828035240 +0000">
+    <title lang="ca">Planeta dinàmic</title>
+    <sub-title lang="ca">Terra</sub-title>
+    <desc lang="ca">El clima de la Terra canvia i els sistemes naturals que abans eren estables i dels quals depenem es desequilibren perillosament. Científics intrèpids, tribus locals i megafauna gegant, de l'Àrtic a l'Amazònia, ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.</desc>
+    <length units="minutes">00:53:31</length>
   </programme>
-  <programme start="20260827193140 +0000" channel="tv3" stop="20260827201436 +0000">
-    <title lang="ca">Els rius navegables d'Europa</title>
-    <sub-title lang="ca">De Rotterdam a les Ardenes belgues</sub-title>
-    <desc lang="ca">Sempre aigües amunt, el viatge d'avui ens porta als Països Baixos i a Bèlgica. Des del Mar del Nord i la ciutat portuària de Rotterdam viatgem al llarg del Mosa. Passant per Venlo, Maastricht i Lieja, la ruta segueix el riu Ourthe fins a les Àrdenes belgues.Rotterdam i el seu imponent port marítim, el més gran d'Europa. La seva proximitat al mar és alhora una maledicció i una benedicció. Els holandesos han arrabassat terra al mar durant segles, són experts en fer front a l'augment del nivell de l'aigua i són pioners en noves idees. L'arquitecte Koen Olthuis només construeix cases damunt l'aigua. La seva visió de construir barris sencers d'edificis flotants ha creat un gran interès internacional, en aquests temps de canvi climàtic.Des de Rotterdam el viatge continua al llarg del Mosa cap a l'est. Els terrenys agrícoles estan protegits per dics, però en els darrers anys els Països Baixos han començat a replantejar aquestes mesures. El 'Programa Delta', a nivell nacional, se centra en els dics baixos i les zones d'inundació controlada. La propietat del granger Nol Hooijmaaijers vaser reconstruïda d'acord amb aquests principis, igual que una gran zona del municipi d'Oojen-Wanssum.La ruta al llarg del Mosa passa per la històrica estació de bombeig a vapor De Tuut, que en el passat es va utilitzar per drenar aquesta zona. No gaire lluny d'aquí, uns voluntaris recullen escombraries les ribes del riu: és el Dia Mundial de la Neteja. Grans quantitats de plàstic provinents de tot el continent s'acumulen als rius d'Holanda.Arribem a Bèlgica passant per Venlo, Roermond i Maastricht. Mentre la pesca al carrer s'està convertint en tendència a Lieja, els científics de les Àrdenes belgues s'encarreguen de la reintroducció del salmó. La migració d'aquests peixos són un clar exemple clar de com la natura està connectada a través de fronteres i del fet que els enfocaments transnacionals són necessaris per protegir el medi ambient.</desc>
-    <length units="minutes">00:42:56</length>
-  </programme>
-  <programme start="20260827185430 +0000" channel="tv3" stop="20260827200030 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">996</sub-title>
-    <desc lang="ca">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <length units="minutes">01:01:00</length>
+  <programme start="20260828035240 +0000" channel="tv3" stop="20260828041822 +0000">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un guia dels Pirineus (Tardor - Hivern)</sub-title>
+    <desc lang="ca">Xavier Llongueras és un guia d'alta muntanya, però a qui no sempre li es fàcil guanyar-se la vida. Ara està content, ja que durant una setmana té unes noves clientes canadenques. Enguany hi ha poca neu i en Xavi es dedica a fer exemplars del calendari de la Cerdanya, ja que a les botigues l'estan exhaurint. El calendari l'elabora ell íntegrament i aconsegueix vendre'n dos mil, ja que s'ha convertit en un clàssic a les dues bandes de la frontera. Com que els clients continuen escassejant, en Xavi ho aprofita per practicar l'escalada. Sense la responsabilitat de guiar clients se sent lliure i viu l'emoció intensa dels que coronen cims. Però com que la neu es fa esperar i ha perdut dies de feina, decideix convocar la família i els amics per trencar la solitud amb bona companyia. I, alhora, munta el seu estand a la Fira de Bellver per aconseguir nous clients. Tot esperant la neu, en Xavi continua el seu dia a dia i esgarrapa temps per fer les fotos d'un nou reportatge per a la revista 'Cadí-Pedraforca'. N'és el fotògraf oficial. Finalment ha nevat i en Xavi té un client. Està content de poder continuar fent la feina que s'ha buscat i que l'apassiona.</desc>
+    <length units="minutes">00:25:42</length>
   </programme>
 </tv>
