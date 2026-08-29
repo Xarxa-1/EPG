@@ -1,13 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -15,76 +12,66 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260829170920 +0000" channel="tvi" stop="20260829180351 +0000">
-    <title lang="ca">Infidels</title>
-    <sub-title lang="ca">5</sub-title>
-    <desc lang="ca">L'Arlet no entén com la seva mare encara continua cuidant-se del seu marit després de tot el mal que li va fer. La Joana està convençuda que el Francesc l'enganya. La Cruz i la Lídia volen ajudar-la a treure'n l'entrellat. La Paula continua trucant al Marc, el seu amant, però ell no li respon. La noia té la primera al·lucinació i comença a sentir veus. La Lídia li deixa clar que això només és el principi. El Jesús torna a insinuar-se a la Cruz. El Toni descobreix l'historial de la seva germana.</desc>
-    <length units="minutes">00:54:31</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260829220229 +0000" channel="tvi" stop="20260829222753 +0000">
+    <title lang="ca">Emocionari Il·lustrat</title>
+    <sub-title lang="ca">La tristesa</sub-title>
+    <desc lang="ca">Al capítol sobre la tristesa de l''Emocionari Il·lustrat', l'artista Lily Brick visitarà l'estudi d'un dels noms més importants del muralisme a tot el món: Octavi Arrizabalaga, conegut com a Aryz. Junts conversaran sobre l'ús del color per transmetre emocions. Seguirem estirant el fil de la tristesa amb Marc Torices, autor del còmic 'La alegre vida del triste perro Cornelius' i veurem com dibuixa una de les seves tires. Per acabar, la Lily aprendrà a dissenyar un personatge de videojoc de la mà d'un dels millors: Conrad Roset, guanyador del Premi Nacional de Cultura 2024. Amb ell descobrirem el viatge emocional de les protagonistes del seu últim èxit, 'Neva'.</desc>
+    <length units="minutes">00:25:24</length>
   </programme>
-  <programme start="20260829180351 +0000" channel="tvi" stop="20260829182946 +0000">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">CONFESSIONS</sub-title>
-    <desc lang="ca">La Sílvia, la Mariona, l' Esther, la Carla i també la Diana es preparen per un sopar. Fa 1 any que viuen juntes i han decidit celebrar-ho. Com qui no vol la cosa, es comencen a dir les veritats i a confessar els secrets. La nit acabarà malament.</desc>
-    <length units="minutes">00:25:55</length>
+  <programme start="20260829222753 +0000" channel="tvi" stop="20260829231319 +0000">
+    <title lang="ca">Celebrem!</title>
+    <sub-title lang="ca">El dia de la calma</sub-title>
+    <desc lang="ca">En aquest episodi, hi ha la voluntat que l'atmosfera del programa s'impregni d'aquest estat en què no hi ha agitació ni presses i tot té un ritme tranquil. Per fer-ho s'ha convidat l'actor Enric Auquer, la cantautora Gemma Humet, l'actor i humorista David Fernández i la companyia de titelles Zero en Conducta. El joc habitual serà per veure quin dels convidats és el més tranquil i, després d'aquest moment de pau, n'arribarà un de més agitat, amb el repte d'endevinar qui s'amaga sota la disfressa del convidat de l'Adriana Fuertes.</desc>
+    <length units="minutes">00:45:26</length>
   </programme>
-  <programme start="20260829163000 +0000" channel="324" stop="20260829183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11032</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260829210000 +0000" channel="324" stop="20260829230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7311</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260829183000 +0000" channel="324" stop="20260829200000 +0000">
+  <programme start="20260829230000 +0000" channel="324" stop="20260830003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11033</sub-title>
+    <sub-title lang="ca">11035</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260829173828 +0000" channel="esport3" stop="20260829182000 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Mourinho / Prèvia R. Madrid-Màlaga / J3</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:41:32</length>
-  </programme>
-  <programme start="20260829182000 +0000" channel="esport3" stop="20260829203824 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Copa Catalunya masculina / Final</sub-title>
-    <desc lang="ca">Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet.</desc>
-    <length units="minutes">02:18:24</length>
-  </programme>
-  <programme start="20260829174817 +0000" channel="sx3" stop="20260829175512 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Discoteca La Gran Muralla</sub-title>
-    <desc lang="ca">En Grizzy sent gelosia pel nou joc dels Lèmmings: una catifa de ball interactiva connectada al televisor, en què han de saltar i realitzar seqüències de ball. Mentre es barallen per la catifa, en Grizzy i els Lèmmings descobreixen un mecanisme ocult en una de les torres de vigilància de la Gran Muralla xinesa. El mecanisme activa un joc similar al de la catifa interactiva, però aquest cop molt més gran, perquè utilitza les pedres de la muralla. Tothom a les marques, llestos? A ballar!</desc>
-    <length units="minutes">00:06:55</length>
-  </programme>
-  <programme start="20260829175512 +0000" channel="sx3" stop="20260829180141 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Fes l'amor, no la guerra</sub-title>
-    <desc lang="ca">Els lèmmings aconsegueixen una arma secreta de l'exèrcit canadenc que permet reduir els nivells de violència de tot aquell a qui es dispara, i de seguida la fan servir per transformar en Grizzy en un angelet contra la seva voluntat. Però... tal faràs tal trobaràs! Tan bon punt se li presenta l'ocasió, en Grizzy s'hi torna i converteix els lèmmings en una colla de bestioles meselles.</desc>
-    <length units="minutes">00:06:29</length>
-  </programme>
-  <programme start="20260829173816 +0000" channel="tv3" stop="20260829183043 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La Droma provençal</sub-title>
-    <desc lang="ca">A la Droma provençal, l'Odile conrea moltes varietats d'espígol i en fa tisanes. La Isabelle fa un plat de pasta gratinada. La Frédérique, l'Arnaud i la Sophie són els darrers fabricants de cofins, uns cabassos d'espart per a premsar les olives. En Joël rosteix una pintada farcida d'olives negres i assaonada amb una salsa feta d'olives negres. L'Hervé conrea ametllers i la Virginie fa carquinyolis. En Jean-Luc fa confitura de nous verdes.</desc>
-    <length units="minutes">00:52:27</length>
-  </programme>
-  <programme start="20260829183043 +0000" channel="tv3" stop="20260829192245 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La badia de Saint-Brieuc</sub-title>
-    <desc lang="ca">En aquest episodi, la Julie visita la badia de de Saint-Brieuc, a les Costes d'Armor, a Brentanya. Amb en Jean prepara unes mongetes de Paimpol amb tres peixos. L'Alain, un pescador jubilat, li ensenya a fer unes cloïsses a la marinera. Finalment, amb la Yveline cuina un farz, un pastís bretó típic, amb prunes seques.</desc>
-    <length units="minutes">00:52:02</length>
-  </programme>
-  <programme start="20260829165800 +0000" channel="tv3" stop="20260829185755 +0000">
-    <title lang="ca">Futbol femení</title>
-    <sub-title lang="ca">- SD Eibar-RCD Espanyol / Lliga F / J1</sub-title>
+  <programme start="20260829220141 +0000" channel="esport3" stop="20260829233000 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">SD Eibar-RCD Espanyol / Lliga F / J1</sub-title>
     <desc lang="ca">Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.</desc>
-    <length units="minutes">01:59:55</length>
+    <length units="minutes">01:28:19</length>
   </programme>
-  <programme start="20260829122508 +0000" channel="tv3" stop="20260829180003 +0000">
-    <title lang="ca">Curses de Muntanya</title>
-    <sub-title lang="ca">- UTMB Mont Blanc</sub-title>
-    <desc lang="ca">Arribades a les curses finals de les UTMB World Series que es disputen al Mont Blanc. És la prova ultra de trail running més important del calendari mundial. Amb la narració de Miquel Ribas.</desc>
-    <length units="minutes">05:34:55</length>
+  <programme start="20260829233000 +0000" channel="esport3" stop="20260830003108 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J3 / Dissabte</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:01:08</length>
+  </programme>
+  <programme start="20260829220325 +0000" channel="sx3" stop="20260829221420 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Música!</sub-title>
+    <desc lang="ca">L'Ondine ha decidit organitzar un concert al terrat de l'edifici de casa seva amb la Béa i el Mehdi i ha anunciat que el retransmetrà en directe per internet per tots els seus seguidors. L'únic problema és que desafina tant quan canta que els seus companys d'institut la deixen penjada per no haver de tocar amb ella i haurà de demanar a la seva família que actuïn amb ella.</desc>
+    <length units="minutes">00:10:55</length>
+  </programme>
+  <programme start="20260829221420 +0000" channel="sx3" stop="20260829222450 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">El Nadal sorpresa</sub-title>
+    <desc lang="ca">Aquest any, les noies han de passar les vacances de Nadal amb les seves mares respectives, però una tempesta de neu deixa aïllada la ciutat i les obliga a passar les festes al pis amb el Dad... que, com que havia d'estar sol, no havia previst res. Les noies s'hauran d'afanyar per trobar un regal pel seu pare, i el Dad, per fer un sopar digne d'un dia tan assenyalat.</desc>
+    <length units="minutes">00:10:30</length>
+  </programme>
+  <programme start="20260829211651 +0000" channel="tv3" stop="20260829220849 +0000">
+    <title lang="ca">Gent de món</title>
+    <sub-title lang="ca">Venècia i mar Adriàtic</sub-title>
+    <desc lang="ca">Us heu enfilat mai a una muntanya seguint els passos dels apòstols? Heu contemplat una ciutat flotant mentre es perd en l'horitzó? No?Això és perquè no heu fet mai la travessa dels tres mars: l'Adriàtic, el Jònic i l'Egeu. Un viatge que ens durà des de Venècia fins a Atenes passant per Ravenna i la ciutat de Kotor, a Montenegro.Una ruta pel Mediterrani oriental on trobarem el rastre d'antigues civilitzacions desaparegudes, d'imperis caiguts, de ciutats i edificis universals, de fortaleses inexpugnables i de tombes de poetes immortals. Avui farem un viatge pels tres mars que van veure néixer Europa!</desc>
+    <length units="minutes">00:51:58</length>
+  </programme>
+  <programme start="20260829220849 +0000" channel="tv3" stop="20260829230712 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Berlín</sub-title>
+    <desc lang="ca">En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.</desc>
+    <length units="minutes">00:58:23</length>
   </programme>
 </tv>
