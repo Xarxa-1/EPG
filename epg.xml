@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -15,64 +15,63 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260829011919 +0000" channel="tvi" stop="20260829043000 +0000">
+  <programme start="20260829123759 +0000" channel="tvi" stop="20260829143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11028</sub-title>
+    <sub-title lang="ca">11031</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:10:41</length>
+    <length units="minutes">01:52:01</length>
   </programme>
-  <programme start="20260829043000 +0000" channel="tvi" stop="20260829051057 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Matías Míguez</sub-title>
-    <desc lang="ca">Matías Miguez ens presenta el seu nou repertori, on explora la diversitat. La malenconia del tango amb la llibertat del jazz. El ritme d'anada i tornada entre el Mediterrani i la música afroamericana. Amb aquesta formació, en la veu del bandoneó ens explica històries urbanes en el marc escaient d'un so contemporàni. L'acompanyen Xavier Tribolet, als teclats; Gustavo Rocha, a la guitarra; Marcelo Mercadante, al bandoneó, i Alberto Pérez, a la percussió.</desc>
-    <length units="minutes">00:40:57</length>
-  </programme>
-  <programme start="20260829010000 +0000" channel="324" stop="20260829060000 +0000">
+  <programme start="20260829120000 +0000" channel="324" stop="20260829143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11028</sub-title>
+    <sub-title lang="ca">11031</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260829060000 +0000" channel="324" stop="20260829070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11028</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260829143000 +0000" channel="324" stop="20260829163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7312</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260829024551 +0000" channel="esport3" stop="20260829040508 +0000">
+  <programme start="20260829122508 +0000" channel="esport3" stop="20260829155500 +0000">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">UTMB Mont Blanc</sub-title>
+    <desc lang="ca">Arribades a les curses finals de les UTMB World Series que es disputen al Mont Blanc. És la prova ultra de trail running més important del calendari mundial. Amb la narració de Miquel Ribas.</desc>
+    <length units="minutes">03:29:52</length>
+  </programme>
+  <programme start="20260829155500 +0000" channel="esport3" stop="20260829174840 +0000">
     <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Sala 5 Martorell-Barça / Copa Catalunya / 2a semifinal</sub-title>
-    <desc lang="ca">El guanyador d'aquest partit serà el segon finalista de la Supercopa de Catalunya masculina de futbol sala que s'està disputant a Santa Coloma de Gramenet.</desc>
-    <length units="minutes">01:19:17</length>
+    <sub-title lang="ca">Lainco Esportiu Rubí FS-AE Les Corts UBAE / Copa Catalunya femenina / Final</sub-title>
+    <desc lang="ca">Final femenina de la Supercopa de Catalunya de futbol sala que es disputa a Santa Coloma de Gramenet.</desc>
+    <length units="minutes">01:53:40</length>
   </programme>
-  <programme start="20260829040508 +0000" channel="esport3" stop="20260829053131 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Esportiu Rubí FS-Catgas Energia Santa Coloma / Copa Catalunya / 1a semifinal</sub-title>
-    <desc lang="ca">Primera semifinal de la Supercopa de Catalunya masculina de futbol sala que es disputa a Santa Coloma de Gramenet.</desc>
-    <length units="minutes">01:26:23</length>
+  <programme start="20260829133848 +0000" channel="sx3" stop="20260829140540 +0000">
+    <title lang="ca">Manduka family</title>
+    <sub-title lang="ca">Llibrets de llom</sub-title>
+    <desc lang="ca">El Iago i la Greta, juntament amb l'Elsa i el Jep, els seus avis, cuinen llibrets de llom. Descarats, divertits, riallers, trapelles, i sobretot, molt juganers. Així son el Iago i la Greta, que juntament amb l'Elsa i el Jep, els seus avis, ens ho faran passar molt bé mentre cuinen uns dels plats estrella dels més petits: els llibrets de llom. Les cartes guanyades en els jocs previs els atorgaran comodins com cuinar amb una samarreta doble per avi i net, deixar l'equip contrari aturat dos minuts... La mediàtica xef Mireia Carbó, juntament amb dos mandúkers, escolliran a cegues.</desc>
+    <length units="minutes">00:26:52</length>
   </programme>
-  <programme start="20260829025806 +0000" channel="sx3" stop="20260829031934 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Llàgrima letal</sub-title>
-    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
-    <length units="minutes">00:21:28</length>
+  <programme start="20260829140540 +0000" channel="sx3" stop="20260829143555 +0000">
+    <title lang="ca">Manduka family</title>
+    <sub-title lang="ca">Macarrons</sub-title>
+    <desc lang="ca">La pasta és sens dubte un dels ingredients favorits dels més petits. Quina àvia la fa millor? Hi ha una gran rivalitat entre macarrons i espaguetis com als preferits dels infants. Però hi ha una idea comuna que comparteixen tots ells: la versió de l'àvia o l'avi és la millor. La Martina i l'Ariadna també ho pensen, i ens volen demostrar entre jocs i rialles que les seves àvies Maika i Montse fan els millors macarrons del món!!!</desc>
+    <length units="minutes">00:30:15</length>
   </programme>
-  <programme start="20260829031934 +0000" channel="sx3" stop="20260829034028 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Complidor</sub-title>
-    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
-    <length units="minutes">00:20:54</length>
+  <programme start="20260829134010 +0000" channel="tv3" stop="20260829140736 +0000">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">El Torridon - Escòcia</sub-title>
+    <desc lang="ca">Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
+    <length units="minutes">00:27:26</length>
   </programme>
-  <programme start="20260829030504 +0000" channel="tv3" stop="20260829035647 +0000">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Volcans destructius</sub-title>
-    <desc lang="ca">Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
-    <length units="minutes">00:51:43</length>
+  <programme start="20260829140736 +0000" channel="tv3" stop="20260829145353 +0000">
+    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">En la primera etapa de la seva volta a Austràlia saltant d'illa en illa, Martin Clunes visita l'illa de Lord Howe i l'illa Norfolk, petits trossos de paradís perduts enmig del Pacífic on encara és viu el record de la colonització feta amb presos deportats de la Gran Bretanya. Després visita un Robinson modern que viu sol a l'illa de la Restauració, i salta cap a les illes de l'estret de Torres, on es barregen moltes cultures.</desc>
+    <length units="minutes">00:46:17</length>
   </programme>
-  <programme start="20260829035647 +0000" channel="tv3" stop="20260829042349 +0000">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Uns pastors dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">Cédric Lacraberie i Yann Brianti tenen tots dos quaranta anys i són pastors. Aquests dos amics de la infantesa han decidit compartir la seva vida i la seva passió al cor de les muntanyes dels Pirineus, a 1.000 metres d'alçada, on fan de pagesos i s'ocupen d'un ramat d'unes 200 ovelles.Amb el desig de compartir les seves experiències, en Cédric i en Yann van crear, fa 10 anys, 'Vie d'estive', una masia que domina la vall de Campan, davant mateix del Pic del Migdia de Bigorre. Es tracta d'una masia oberta al turisme rural que proposa als visitants la possibilitat de compartir el dia a dia de la vida de pastor. En qualsevol estació de l'any, tothom pot participar en les feines del camp.Originaris d'aquesta mateixa regió, aquests dos enamorats de la naturalesa i de la seva terra han pres la decisió de seguir les tècniques més tradicionals dels pastors, compartint el seu estil de vida i mirant de trencar la imatge rústega i solitària que habitualment comporta aquesta mena de vida. A la masia, els visitants poden participar en les activitats de la transhumància a l'alta muntanya (2.300 metres), en les cures que cal fer a les bèsties i en la sega de l'herba, però també hi poden descobrir tot un seguit de productes tradicionals i uns paisatges impressionants, que canvien d'estació en estació.</desc>
-    <length units="minutes">00:27:02</length>
+  <programme start="20260829122508 +0000" channel="tv3" stop="20260829180003 +0000">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">- UTMB Mont Blanc</sub-title>
+    <desc lang="ca">Arribades a les curses finals de les UTMB World Series que es disputen al Mont Blanc. És la prova ultra de trail running més important del calendari mundial. Amb la narració de Miquel Ribas.</desc>
+    <length units="minutes">05:34:55</length>
   </programme>
 </tv>
