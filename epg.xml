@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -12,73 +12,67 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20260828190906 +0000" channel="tvi" stop="20260828195703 +0000">
-    <title lang="ca">Moments APM?</title>
-    <sub-title lang="ca">0</sub-title>
-    <desc lang="ca">Estàs de vacances i se't possa cara de pastanaga bullida només de pensar que hauràs d'aguantar dos mesos sense el teu programa preferit? Arriba 'APM?, el Multivers de l'estiu'. Durant juliol i agost TV3 emetrà un recull dels millors moments que s'han emès aquesta última temporada. Al loro! No et perdis els vídeos més divertits de la vint-i-unena temporada amb Nerea Sanfe, Joel Díaz, i tots els teus personatges preferits de l''APM?' #APM3CAT</desc>
-    <length units="minutes">00:47:57</length>
-  </programme>
-  <programme start="20260828195703 +0000" channel="tvi" stop="20260828210000 +0000">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <sub-title lang="ca">982</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:02:57</length>
-  </programme>
-  <programme start="20260828183000 +0000" channel="324" stop="20260828200000 +0000">
+  <programme start="20260829011919 +0000" channel="tvi" stop="20260829043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11025</sub-title>
+    <sub-title lang="ca">11028</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">03:10:41</length>
   </programme>
-  <programme start="20260828200000 +0000" channel="324" stop="20260828210000 +0000">
+  <programme start="20260829043000 +0000" channel="tvi" stop="20260829051057 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Matías Míguez</sub-title>
+    <desc lang="ca">Matías Miguez ens presenta el seu nou repertori, on explora la diversitat. La malenconia del tango amb la llibertat del jazz. El ritme d'anada i tornada entre el Mediterrani i la música afroamericana. Amb aquesta formació, en la veu del bandoneó ens explica històries urbanes en el marc escaient d'un so contemporàni. L'acompanyen Xavier Tribolet, als teclats; Gustavo Rocha, a la guitarra; Marcelo Mercadante, al bandoneó, i Alberto Pérez, a la percussió.</desc>
+    <length units="minutes">00:40:57</length>
+  </programme>
+  <programme start="20260829010000 +0000" channel="324" stop="20260829060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11026</sub-title>
+    <sub-title lang="ca">11028</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260829060000 +0000" channel="324" stop="20260829070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11028</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260828193931 +0000" channel="esport3" stop="20260828202552 +0000">
+  <programme start="20260829024551 +0000" channel="esport3" stop="20260829040508 +0000">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Sala 5 Martorell-Barça / Copa Catalunya / 2a semifinal</sub-title>
+    <desc lang="ca">El guanyador d'aquest partit serà el segon finalista de la Supercopa de Catalunya masculina de futbol sala que s'està disputant a Santa Coloma de Gramenet.</desc>
+    <length units="minutes">01:19:17</length>
+  </programme>
+  <programme start="20260829040508 +0000" channel="esport3" stop="20260829053131 +0000">
     <title lang="ca">Futbol sala</title>
     <sub-title lang="ca">Esportiu Rubí FS-Catgas Energia Santa Coloma / Copa Catalunya / 1a semifinal</sub-title>
     <desc lang="ca">Primera semifinal de la Supercopa de Catalunya masculina de futbol sala que es disputa a Santa Coloma de Gramenet.</desc>
-    <length units="minutes">00:46:21</length>
+    <length units="minutes">01:26:23</length>
   </programme>
-  <programme start="20260828202552 +0000" channel="esport3" stop="20260828205500 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Raphinha, el nou de Flick</sub-title>
-    <desc lang="ca">Després de dues jornades el brasiler suma 3 gols a la Lliga. Davant la negativa de l'Atlètic de Madrid amb Julián Álvarez, el brasiler és el davanter escollit per Hansi Flick. Fem la prèvia de l'estrena de la Lliga F i dels catalans a Primera i Segona. Amb la Mireia Vera i el Sergi Solé.</desc>
-    <length units="minutes">00:29:08</length>
+  <programme start="20260829025806 +0000" channel="sx3" stop="20260829031934 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Llàgrima letal</sub-title>
+    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
+    <length units="minutes">00:21:28</length>
   </programme>
-  <programme start="20260828194303 +0000" channel="sx3" stop="20260828195512 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un surfista del cel</sub-title>
-    <desc lang="ca">Avui fa molt de vent, però en Danny l'Audaç X s'ha entossudit a fer surf. Val més que vagi amb compte, perquè tot plegat pot sortir molt malament!</desc>
-    <length units="minutes">00:12:09</length>
+  <programme start="20260829031934 +0000" channel="sx3" stop="20260829034028 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Complidor</sub-title>
+    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
+    <length units="minutes">00:20:54</length>
   </programme>
-  <programme start="20260828195512 +0000" channel="sx3" stop="20260828201712 +0000">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Tancades a l’espai</sub-title>
-    <desc lang="ca">La WOOHP acusa les tres espies d'haver robat un microxip i les envia a la presó espacial. En Jerry, en Toby i la Zerlina creuen en la seva innocència, però el consell de la WOOHP està convençut que han estat elles. Un cop a la presó, en Toby les ajuda a fugir perquè puguin investigar qui s'amaga darrere del robatori del microxip. Tanmateix, la Sam, l'Alex i la Clover no fugen soles.</desc>
-    <length units="minutes">00:22:00</length>
+  <programme start="20260829030504 +0000" channel="tv3" stop="20260829035647 +0000">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Volcans destructius</sub-title>
+    <desc lang="ca">Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
+    <length units="minutes">00:51:43</length>
   </programme>
-  <programme start="20260828192619 +0000" channel="tv3" stop="20260828201302 +0000">
-    <title lang="ca">Martin Clunes: Island of America</title>
-    <sub-title lang="ca">Puerto Rico, Geòrgia, Carolina del Nord i Virgínia</sub-title>
-    <desc lang="ca">Martin Clunes viatjarà fins a l'illa de Puerto Rico, on aprendrà a ballar salsa i visitarà una destil·leria de rom. Després pujarà per la costa est dels Estats Units fins a unes illes on els descendents dels esclaus encara mantenen vives les seves tradicions ancestrals. I, per acabar, visitarà unes illes de la costa de Virgínia, on cada any una manada de cavalls nedadors fa una travessa aquàtica única al món.</desc>
-    <length units="minutes">00:46:43</length>
-  </programme>
-  <programme start="20260828201302 +0000" channel="tv3" stop="20260828205945 +0000">
-    <title lang="ca">Martin Clunes: Island of America</title>
-    <sub-title lang="ca">Nova York, Massachusetts i Maine</sub-title>
-    <desc lang="ca">En l'últim episodi de la sèrie, Martin Clunes viatjarà a l'illa de Manhattan, un dels llocs més densament poblats del planeta. Després pujarà per la costa est dels Estats Units fins a Cape Cod, per seguir el rastre dels taurons blancs que neden per les seves platges. Més cap al nord, visitarà un parell d'illes de l'estat de Maine, per entendre què fa que la gent s'entesti a viure en uns indrets tan remots.</desc>
-    <length units="minutes">00:46:43</length>
-  </programme>
-  <programme start="20260828190000 +0000" channel="tv3" stop="20260828202955 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">997</sub-title>
-    <desc lang="ca">Després de dues jornades el brasiler suma 3 gols a la Lliga. Davant la negativa de l'Atlètic de Madrid amb Julián Álvarez, el brasiler és el davanter escollit per Hansi Flick. Fem la prèvia de l'estrena de la Lliga F i dels catalans a Primera i Segona. Amb la Mireia Vera i el Sergi Solé.</desc>
-    <length units="minutes">01:29:55</length>
+  <programme start="20260829035647 +0000" channel="tv3" stop="20260829042349 +0000">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Uns pastors dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc lang="ca">Cédric Lacraberie i Yann Brianti tenen tots dos quaranta anys i són pastors. Aquests dos amics de la infantesa han decidit compartir la seva vida i la seva passió al cor de les muntanyes dels Pirineus, a 1.000 metres d'alçada, on fan de pagesos i s'ocupen d'un ramat d'unes 200 ovelles.Amb el desig de compartir les seves experiències, en Cédric i en Yann van crear, fa 10 anys, 'Vie d'estive', una masia que domina la vall de Campan, davant mateix del Pic del Migdia de Bigorre. Es tracta d'una masia oberta al turisme rural que proposa als visitants la possibilitat de compartir el dia a dia de la vida de pastor. En qualsevol estació de l'any, tothom pot participar en les feines del camp.Originaris d'aquesta mateixa regió, aquests dos enamorats de la naturalesa i de la seva terra han pres la decisió de seguir les tècniques més tradicionals dels pastors, compartint el seu estil de vida i mirant de trencar la imatge rústega i solitària que habitualment comporta aquesta mena de vida. A la masia, els visitants poden participar en les activitats de la transhumància a l'alta muntanya (2.300 metres), en les cures que cal fer a les bèsties i en la sega de l'herba, però també hi poden descobrir tot un seguit de productes tradicionals i uns paisatges impressionants, que canvien d'estació en estació.</desc>
+    <length units="minutes">00:27:02</length>
   </programme>
 </tv>
