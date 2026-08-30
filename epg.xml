@@ -1,7 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -9,69 +15,64 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20260829220229 +0000" channel="tvi" stop="20260829222753 +0000">
-    <title lang="ca">Emocionari Il·lustrat</title>
-    <sub-title lang="ca">La tristesa</sub-title>
-    <desc lang="ca">Al capítol sobre la tristesa de l''Emocionari Il·lustrat', l'artista Lily Brick visitarà l'estudi d'un dels noms més importants del muralisme a tot el món: Octavi Arrizabalaga, conegut com a Aryz. Junts conversaran sobre l'ús del color per transmetre emocions. Seguirem estirant el fil de la tristesa amb Marc Torices, autor del còmic 'La alegre vida del triste perro Cornelius' i veurem com dibuixa una de les seves tires. Per acabar, la Lily aprendrà a dissenyar un personatge de videojoc de la mà d'un dels millors: Conrad Roset, guanyador del Premi Nacional de Cultura 2024. Amb ell descobrirem el viatge emocional de les protagonistes del seu últim èxit, 'Neva'.</desc>
-    <length units="minutes">00:25:24</length>
-  </programme>
-  <programme start="20260829222753 +0000" channel="tvi" stop="20260829231319 +0000">
-    <title lang="ca">Celebrem!</title>
-    <sub-title lang="ca">El dia de la calma</sub-title>
-    <desc lang="ca">En aquest episodi, hi ha la voluntat que l'atmosfera del programa s'impregni d'aquest estat en què no hi ha agitació ni presses i tot té un ritme tranquil. Per fer-ho s'ha convidat l'actor Enric Auquer, la cantautora Gemma Humet, l'actor i humorista David Fernández i la companyia de titelles Zero en Conducta. El joc habitual serà per veure quin dels convidats és el més tranquil i, després d'aquest moment de pau, n'arribarà un de més agitat, amb el repte d'endevinar qui s'amaga sota la disfressa del convidat de l'Adriana Fuertes.</desc>
-    <length units="minutes">00:45:26</length>
-  </programme>
-  <programme start="20260829210000 +0000" channel="324" stop="20260829230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7311</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260829230000 +0000" channel="324" stop="20260830003000 +0000">
+  <programme start="20260830022135 +0000" channel="tvi" stop="20260830043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11035</sub-title>
+    <sub-title lang="ca">11036</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">02:08:25</length>
   </programme>
-  <programme start="20260829220141 +0000" channel="esport3" stop="20260829233000 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">SD Eibar-RCD Espanyol / Lliga F / J1</sub-title>
-    <desc lang="ca">Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.</desc>
-    <length units="minutes">01:28:19</length>
+  <programme start="20260830043000 +0000" channel="tvi" stop="20260830050805 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Zona Wells</sub-title>
+    <desc lang="ca">Zona Wells és una formació que viu a cavall entre Barcelona i Lima. Tot i tenir els seus fonaments en el jazz és un amalgama de diferents estils musicals, com el reggae, el folk, la bossa, el hip hop i música electrònica. És en aquest punt de trobada on els múltiples estils es troben i es fusionen per explorar la relació entre ells i esdevenir un llenguatge mestís. Saphie Wells a la veu, Dinguisman a la veu, guitarra i caixó, Toni Pagés a la bateria, Josep Lluí Guart al piano i Joan Subirats l saxo.</desc>
+    <length units="minutes">00:38:05</length>
   </programme>
-  <programme start="20260829233000 +0000" channel="esport3" stop="20260830003108 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J3 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:01:08</length>
+  <programme start="20260830010000 +0000" channel="324" stop="20260830060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11036</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260829220325 +0000" channel="sx3" stop="20260829221420 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Música!</sub-title>
-    <desc lang="ca">L'Ondine ha decidit organitzar un concert al terrat de l'edifici de casa seva amb la Béa i el Mehdi i ha anunciat que el retransmetrà en directe per internet per tots els seus seguidors. L'únic problema és que desafina tant quan canta que els seus companys d'institut la deixen penjada per no haver de tocar amb ella i haurà de demanar a la seva família que actuïn amb ella.</desc>
-    <length units="minutes">00:10:55</length>
+  <programme start="20260830060000 +0000" channel="324" stop="20260830070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11036</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260829221420 +0000" channel="sx3" stop="20260829222450 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">El Nadal sorpresa</sub-title>
-    <desc lang="ca">Aquest any, les noies han de passar les vacances de Nadal amb les seves mares respectives, però una tempesta de neu deixa aïllada la ciutat i les obliga a passar les festes al pis amb el Dad... que, com que havia d'estar sol, no havia previst res. Les noies s'hauran d'afanyar per trobar un regal pel seu pare, i el Dad, per fer un sopar digne d'un dia tan assenyalat.</desc>
-    <length units="minutes">00:10:30</length>
+  <programme start="20260830024634 +0000" channel="esport3" stop="20260830041858 +0000">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Catgas Energia Santa Coloma-Barça / Copa Catalunya masculina / Final</sub-title>
+    <desc lang="ca">Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet.</desc>
+    <length units="minutes">01:32:24</length>
   </programme>
-  <programme start="20260829211651 +0000" channel="tv3" stop="20260829220849 +0000">
-    <title lang="ca">Gent de món</title>
-    <sub-title lang="ca">Venècia i mar Adriàtic</sub-title>
-    <desc lang="ca">Us heu enfilat mai a una muntanya seguint els passos dels apòstols? Heu contemplat una ciutat flotant mentre es perd en l'horitzó? No?Això és perquè no heu fet mai la travessa dels tres mars: l'Adriàtic, el Jònic i l'Egeu. Un viatge que ens durà des de Venècia fins a Atenes passant per Ravenna i la ciutat de Kotor, a Montenegro.Una ruta pel Mediterrani oriental on trobarem el rastre d'antigues civilitzacions desaparegudes, d'imperis caiguts, de ciutats i edificis universals, de fortaleses inexpugnables i de tombes de poetes immortals. Avui farem un viatge pels tres mars que van veure néixer Europa!</desc>
-    <length units="minutes">00:51:58</length>
+  <programme start="20260830041858 +0000" channel="esport3" stop="20260830044050 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5493</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:21:52</length>
   </programme>
-  <programme start="20260829220849 +0000" channel="tv3" stop="20260829230712 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Berlín</sub-title>
-    <desc lang="ca">En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.</desc>
-    <length units="minutes">00:58:23</length>
+  <programme start="20260830040149 +0000" channel="sx3" stop="20260830041149 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">La reina Mae-Mae</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, la Mae-Mae fa de reina per un dia, però es pren el paper gaire seriosament. Serà capaç de restablir l'harmonia al regne de Pop, la Ciutat de Paper?</desc>
+    <length units="minutes">00:10:00</length>
+  </programme>
+  <programme start="20260830041149 +0000" channel="sx3" stop="20260830042154 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Fem un safari</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, els amics fan un safari! Però, quan la situació s'enfangui, serà capaç de salvar l'aventura, la Mae-Mae?</desc>
+    <length units="minutes">00:10:05</length>
+  </programme>
+  <programme start="20260830031825 +0000" channel="tv3" stop="20260830041106 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
+    <length units="minutes">00:52:41</length>
+  </programme>
+  <programme start="20260830041106 +0000" channel="tv3" stop="20260830043327 +0000">
+    <title lang="ca">Salut i muntanyes</title>
+    <sub-title lang="ca">Peramola</sub-title>
+    <desc lang="ca">La reportera Eva Clausó Estival ens descobrirà algunes curiositats del poble de Peramola a l'Alt Urgell. Aquí dels donuts en diuen Mola, ens explicarà perquè i se'n lleparà els dits. Són irresistibles al paladar. Amb la Maria anirà a passejar entre corders, li ensenyarà el Roc de Rumbau cita obligada de l'escalada a nivell internacional i la portarà a visitar la casa on va néixer a Tragó que amaga la història de la seva família. També descobrirà un petit taller de motxilles i bosses vegades. La seva propietària, l'Helena, ha conseguit amb els seus dissenys passejar el Pirineu i el poble de Paramola per tot el món.</desc>
+    <length units="minutes">00:22:21</length>
   </programme>
 </tv>
