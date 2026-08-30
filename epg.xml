@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -9,63 +9,70 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260830123002 +0000" channel="tvi" stop="20260830143342 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11039</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:03:40</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20260830171039 +0000" channel="tvi" stop="20260830185455 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Els secrets de Finisterre</sub-title>
+    <desc lang="ca">ELS SECRETS DE FINISTERRE 'Les Secrets du Finistère'Direcció: François Basset, Anne PéjeanGuió: Emmanuelle Rey-Magnan, Pascal FontanilleProducció: Fontaram Productions, France TV, AT-Production, RTBF (Télévision Belge), TV5 MondeAny: 2023Durada: 92País: FrançaMúsica: François StaalFotografia: Dominique BouilleretIntèrprets: Evelyne Bouix, Jeremy Banster, Myriam Bourguignon, Yanig Samot, Nathalie Besancon, Martine Chevallier, David Brécourt, Jérôme Bertin, Céline Vitcoq De tornada a la seva Bretanya natal, la Morgane Ledantec, capitana de la gendarmeria, s'enfronta al descobriment d'uns ossos humans enterrats al peu d'un roure sagrat que ha caigut durant una tempesta. La víctima era una adepta del druïdisme, una pràctica en la qual la Morgane havia estat introduïda per la seva amiga Katell quan era adolescent. La Morgane, dotada d'una sensibilitat especial, a vegades desconcertant i que sempre ha intentat ocultar, haurà de retrobar-se amb una antiga amiga que sembla que li amaga alguna cosa.</desc>
+    <length units="minutes">01:44:16</length>
   </programme>
-  <programme start="20260830120000 +0000" channel="324" stop="20260830143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11039</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+  <programme start="20260830185352 +0000" channel="tvi" stop="20260830195630 +0000">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">Destins</sub-title>
+    <desc lang="ca">Les radionovel·les disfressen la realitat quotidiana. La que tothom va vivint com pot mentre, d'alguna manera, progressa. Però de vegades, a algú, la vida li dóna una segona oportunitat. I en Llorenç es retroba amb el món de l'arquitectura. El món que va abandonar per fer-se càrrec de la fàbrica. Altres, com en Joaquim, estan convençuts que les seves oportunitats s'han acabat. La Victòria descobrirà la raó del canvi d'actitud del seu fill.</desc>
+    <length units="minutes">01:02:38</length>
   </programme>
-  <programme start="20260830143000 +0000" channel="324" stop="20260830163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7313</sub-title>
+  <programme start="20260830163000 +0000" channel="324" stop="20260830183000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11040</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260830115500 +0000" channel="esport3" stop="20260830135800 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Athletic Club-FC Badalona Women / Lliga F / J1</sub-title>
-    <desc lang="ca">Després d'acabar desenes a l'últim campionat, les badalonines s'estrenen al nou curs a Lezama. Amb la narració de Gemma Mallorca i l'anàlisi de Juli Garcia.</desc>
-    <length units="minutes">02:03:00</length>
+  <programme start="20260830183000 +0000" channel="324" stop="20260830200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11041</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260830135800 +0000" channel="esport3" stop="20260830154915 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">SD Eibar-RCD Espanyol / Lliga F / J1</sub-title>
-    <desc lang="ca">Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.</desc>
-    <length units="minutes">01:51:15</length>
+  <programme start="20260830165554 +0000" channel="esport3" stop="20260830180013 +0000">
+    <title lang="ca">Núñez</title>
+    <sub-title lang="ca">Del malson al dream team</sub-title>
+    <desc lang="ca">El somni de la final de Sevilla esdevé un malson. El trauma de perdre la final de la Copa d'Europa a casa, contra un rival desconegut, i sense haver estat capaç de marcar ni un sol gol a la tanda de penals s'arrossega durant dos anys, fins a esclatar en la rebel·lió de la plantilla contra el president en el conegut com a Motí de l'Hesperia, avivat també pels problemes dels contractes amb Hisenda. Després de deu anys, a Núñez només li queda una carta abans de deixar el càrrec: apostar per una carta guanyadora, Johann Cruyff. Salvant tota mena d'obstacles, amb ell viurà els millors moments de la seva història com a president, però també els inicis d'una rivalitat que esquinçarà el club en el futur. Com a conseqüència d'aquesta rivalitat, tres dies abans del dia més important de la història del Barça, la final de Wembley, Núñez anuncia una decisió inesperada.</desc>
+    <length units="minutes">01:04:19</length>
   </programme>
-  <programme start="20260830124448 +0000" channel="sx3" stop="20260830125207 +0000">
+  <programme start="20260830180013 +0000" channel="esport3" stop="20260830190343 +0000">
+    <title lang="ca">Núñez</title>
+    <sub-title lang="ca">L'home que volia ser estimat</sub-title>
+    <desc lang="ca">Coincidint amb l'eufòria dels Jocs Olímpics de Barcelona, Núñez aconsegueix per fi el que havia promès: el Barça és l'equip més gran d'Europa. El 'Dream team', que deu el seu nom precisament a l'equip de bàsquet dels Estats Units durant els Jocs, és admirat per tothom. Però, coincidint amb una altra final de Copa d'Europa, el somni es trenca i esdevé un malson que conduirà a una de les rodes de premsa més famoses i grotesques de la història: la de la destitució de Johann Cruyff. L'intent de Núñez de reconstruir el seu projecte i unir el barcelonisme tindrà alts i baixos, però coincidint amb les primeres informacions dels suborns de l'empresa Núñez i Navarro a inspectors d'Hisenda, abandonarà la presidència del club. Han estat vint-i-dos anys de mandat, plens de llums i obres, d'èxits i de fracassos, emmirallats en vint-i-tres anys de la presidència d'un altre símbol: Jordi Pujol. El final és irònicament similar per a tots dos. És el final d'una etapa del Barça i de Catalunya.</desc>
+    <length units="minutes">01:03:30</length>
+  </programme>
+  <programme start="20260830173620 +0000" channel="sx3" stop="20260830174706 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">Lutècia des del cel</sub-title>
+    <desc lang="ca">L'arquitecte Semblangròpius ha inventat una màquina de volar. Per fer el vol de prova ha capturat en Devòrix, i els seus amics Irreductibles el volen salvar. Però l'atzar ha volgut que l'Ideafix i la Monalisa volin plegats a bord de l'aparell. Per salvar-se d'aquest destret, els dos enemics hauran de cooperar!</desc>
+    <length units="minutes">00:10:46</length>
+  </programme>
+  <programme start="20260830174706 +0000" channel="sx3" stop="20260830175401 +0000">
     <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Esperits llaminers</sub-title>
-    <desc lang="ca">En Grizzy persegueix els Lèmmings per tot el castell per recuperar les postres de gelatina que li han robat. En un cul-de-sac, l'os es topa amb un fantasma, però quan li passa l'ensurt, s'adona que són els Lèmmings disfressats amb un llençol. En Grizzy recupera les seves postres i tanca els rosegadors dins un bagul. Allà, els Lèmmings troben l'estatueta d'un fantasma que els converteix en esperits. Llavors surten del bagul i decideixen turmentar l'os per treure-li la gelatina.</desc>
-    <length units="minutes">00:07:19</length>
+    <sub-title lang="ca">Xocolata de 24 quirats</sub-title>
+    <desc lang="ca">En Grizzy descobreix un ceptre amb forma de mà, adornat amb una palleta, que cobreix amb or tot allò que toca. L'os l'utilitza per cobrir amb or els Lèmmings i així robar-los la xocolata. Llavors els rosegadors fan servir com a armadures les closques daurades de les quals acaben de sortir per recuperar la seva xocolata. Durant la disputa, substitueixen sense voler la palleta d'or per un bocí de xocolata: ara el ceptre cobreix amb xocolata tot allò que toca. Els Lèmmings s'apoderen del ceptre i aconsegueixen fugir.</desc>
+    <length units="minutes">00:06:55</length>
   </programme>
-  <programme start="20260830125207 +0000" channel="sx3" stop="20260830131437 +0000">
-    <title lang="ca">Dracs: els nou regnes</title>
-    <sub-title lang="ca">Investigació clandestina</sub-title>
-    <desc lang="ca">La Jun vol convèncer la seva mare que l'estudi dels mites els pot ajudar a comprendre el món dels dracs, però la directora Wong està massa enfeinada. Aleshores, la doctora Sledkin aprofita per acostar-se a la Jun i convèncer-la que l'acompanyi a explorar el Món Ocult. Mentrestant, en Tom i els seus amics descobreixen que l'Sledkin està robant dragonsita d'amagat.</desc>
-    <length units="minutes">00:22:30</length>
+  <programme start="20260830172741 +0000" channel="tv3" stop="20260830182107 +0000">
+    <title lang="ca">Planeta dinàmic</title>
+    <sub-title lang="ca">Foc</sub-title>
+    <desc lang="ca">A mesura que pugen les temperatures, els incendis forestals cremen amb virulència, s'intensifiquen les sequeres i els conflictes entre els humans i els animals, i es desestabilitzen els sistemes. Les persones que viuen i treballen a primera línia dels canvis ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.</desc>
+    <length units="minutes">00:53:26</length>
   </programme>
-  <programme start="20260830120615 +0000" channel="tv3" stop="20260830125909 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Corno</sub-title>
-    <desc lang="ca">Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
-    <length units="minutes">00:52:54</length>
-  </programme>
-  <programme start="20260830125909 +0000" channel="tv3" stop="20260830134640 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El mirall</sub-title>
-    <desc lang="ca">Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
-    <length units="minutes">00:47:31</length>
+  <programme start="20260830182107 +0000" channel="tv3" stop="20260830191431 +0000">
+    <title lang="ca">Planeta dinàmic</title>
+    <sub-title lang="ca">Aigua</sub-title>
+    <desc lang="ca">Els nostres oceans canvien a mesura que el planeta s'escalfa, amb conseqüències de gran abast. Un extraordinari grup d'experts marins de l'Antàrtida a Austràlia, de Florida a Nova Zelanda, n'examinen l'impacte i revelen com la ciència, la natura i la saviesa tradicional ens pot preparar per un futur que canvia molt de pressa.</desc>
+    <length units="minutes">00:53:24</length>
   </programme>
 </tv>
