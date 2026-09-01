@@ -1,5 +1,8 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
@@ -12,67 +15,71 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20260901033000 +0000" channel="tvi" stop="20260901043000 +0000">
+  <programme start="20260901120000 +0000" channel="tvi" stop="20260901125619 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">143</sub-title>
+    <length units="minutes">00:56:19</length>
+  </programme>
+  <programme start="20260901125619 +0000" channel="tvi" stop="20260901132010 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Pessic de nous i ratafia</sub-title>
+    <desc lang="ca">Amb nous i ratafia, en Marc Ribas cuina un pessic molt esponjós, ideal tant per postres com per berenar.</desc>
+    <length units="minutes">00:23:51</length>
+  </programme>
+  <programme start="20260901100000 +0000" channel="324" stop="20260901130000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11053</sub-title>
+    <sub-title lang="ca">11055</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:00:00</length>
+  </programme>
+  <programme start="20260901130000 +0000" channel="324" stop="20260901140000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11056</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260901043000 +0000" channel="tvi" stop="20260901050955 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Genny Barry Quartet</sub-title>
-    <desc lang="ca">Genny Barry és, sens dubte, un dels millors vibrafonistes de l'estat. El deixeble de Tete Montoliu i Bobby Hutcherson ens presenta un repertori que bascula entre el jazz de fusió i el hard-bop. Avui ens visita molt ben acompanyat per Joan Monné, al piano; Jordi Gaspar, al contrabaix, i David Gómez, a la bateria.</desc>
-    <length units="minutes">00:39:55</length>
+  <programme start="20260901114439 +0000" channel="esport3" stop="20260901130000 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post Barça-Rayo / J3</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:15:21</length>
   </programme>
-  <programme start="20260901010000 +0000" channel="324" stop="20260901060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11053</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20260901130000 +0000" channel="esport3" stop="20260901140058 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3230</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:00:58</length>
   </programme>
-  <programme start="20260901060000 +0000" channel="324" stop="20260901070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11053</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260901122308 +0000" channel="sx3" stop="20260901124453 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El viatge del Papalloner XT</sub-title>
+    <desc lang="ca">L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20260901041456 +0000" channel="esport3" stop="20260901044411 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Aina Cerdà intenta veure més enllà del fotograma</sub-title>
-    <desc lang="ca">El vídeo s'atura en el moment més inoportú. Serà capaç d'endevinar què passa després i convèncer el Zapi? No us perdeu la ballaruga final: TOP!!</desc>
-    <length units="minutes">00:29:15</length>
+  <programme start="20260901124453 +0000" channel="sx3" stop="20260901130708 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els buscadors de mel</sub-title>
+    <desc lang="ca">Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
+    <length units="minutes">00:22:15</length>
   </programme>
-  <programme start="20260901044411 +0000" channel="esport3" stop="20260901051658 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
-    <desc lang="ca">El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
-    <length units="minutes">00:32:47</length>
+  <programme start="20260901120605 +0000" channel="tv3" stop="20260901124138 +0000">
+    <title lang="ca">Tot o res</title>
+    <sub-title lang="ca">22</sub-title>
+    <length units="minutes">00:35:33</length>
   </programme>
-  <programme start="20260901040221 +0000" channel="sx3" stop="20260901042358 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Exaltació</sub-title>
-    <desc lang="ca">Quan Ladybug persegueix el Gat Noir, ell l'esquiva. Quan l'Adrien persegueix la Marinette, ella l'esquiva a ell. La Tikki i l'Alya cada vegada estan més amoïnades pel comportament de la Marinette. Està buscant una altra excusa per no reconèixer el que sent per l'Adrien o s'està enamorant d'un altre noi de veritat? Quan la Marinette i el Gat Noir troben l'André, el gelater que ven gelats màgics que coneixen tots els secrets de l'amor, descobriran una cosa que els deixarà glaçats.</desc>
-    <length units="minutes">00:21:37</length>
+  <programme start="20260901124138 +0000" channel="tv3" stop="20260901134130 +0000">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
+    <length units="minutes">00:59:52</length>
   </programme>
-  <programme start="20260901042358 +0000" channel="sx3" stop="20260901044601 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Traspàs, la decisió dels kwamis (1a part)</sub-title>
-    <desc lang="ca">Sempre passa el mateix. Ja sigui com a Marinette i Adrien o com a Ladybug i Gat Noir, les identitats secretes dels nostres protagonistes sempre els impedeixen encetar una relació amorosa. A la Tikki i el Plagg els hi sap molt greu veure que els seus portadors han de renunciar als seus sentiments, i per això prenen una decisió dràstica que farà canviar moltes coses a París.</desc>
-    <length units="minutes">00:22:03</length>
+  <programme start="20260901120732 +0000" channel="tv3" stop="20260901150727 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">4092</sub-title>
+    <length units="minutes">02:59:55</length>
   </programme>
-  <programme start="20260901040243 +0000" channel="tv3" stop="20260901044148 +0000">
-    <title lang="ca">Això no és Suècia</title>
-    <sub-title lang="ca">El canvi</sub-title>
-    <desc lang="ca">La Mariana i el Samuel no poden estar més feliços d'haver-se traslladat amb els seus fills a un nou barri, on troben una comunitat afí, i un model a seguir en la seva admirable veïna sueca. Fins i tot han organitzat una teràpia de pares... Incapaços d'imaginar el que està a punt de caure'ls a sobre.</desc>
-    <length units="minutes">00:39:05</length>
-  </programme>
-  <programme start="20260901044148 +0000" channel="tv3" stop="20260901051649 +0000">
-    <title lang="ca">Això no és Suècia</title>
-    <sub-title lang="ca">La por</sub-title>
-    <desc lang="ca">Commocionada per les incògnites sobre el que va passar a casa de l'Annika, i amb afany de controlar la vida escolar de la Lia, la Mariana remou cel i terra per treure els arbres caiguts del pati de l'escola i s'involucra a l'AFA, mentre en Samuel gestiona la criança amb mètodes més...'tradicionals'?</desc>
-    <length units="minutes">00:35:01</length>
+  <programme start="20260901122500 +0000" channel="tv3" stop="20260901152955 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
+    <sub-title lang="ca">4093</sub-title>
+    <length units="minutes">02:59:55</length>
   </programme>
 </tv>
