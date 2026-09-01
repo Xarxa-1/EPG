@@ -1,78 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260901174052 +0000" channel="tvi" stop="20260901183525 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Especialistes d'acció, Nao Albet i Marcel Borràs, Kelly Isaiah, Miquel Serra</sub-title>
-    <desc lang="ca">Mastegots, explosions i caigudes al buit. Entrem a In Extremis, a Barberà del Vallès, una agència d'efectes especials i un centre de referència mundial en l'entrenament i formació d'especialistes d'acció. Ells són els protagonistes de l'última gamberrada teatral de Nao Albet i Marcel Borràs, que ara s'atreveixen amb una òpera al Teatre Lliure, 'Els estunmen'. L'hi expliquen tot a Andrea Gumes, que també conversa amb el músic Kelly Isaiah, exvocalista de Koers i pioner de l'afrobeat en català. Acabem el programa amb el directe de Miquel Serra, gravat a Can Lliro, a Manacor, Mallorca.</desc>
-    <length units="minutes">00:54:33</length>
+  <programme start="20260901220731 +0000" channel="tvi" stop="20260901232420 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">L'Àliga vola</sub-title>
+    <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
+    <length units="minutes">01:16:49</length>
   </programme>
-  <programme start="20260901183525 +0000" channel="tvi" stop="20260901190512 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Escapada al balneari</sub-title>
-    <desc lang="ca">S'acosta Sant Jordi i, com l'any passat, Marcians proposa una fugida a quatre escriptors i escriptores que en són protagonistes. Es reuniran en un balneari per gaudir de la tranquil·litat del seu ambient, del confort de les aigües termals, i del plaer de compartir les seves històries amb col·legues de professió. Són Míriam Cano, que enguany ha presentat 'Metamorfosi' (Ed. L'Avenç), un viatge a Grècia guiat per la voluntat de mirar cap endins. Jordi Masó, escriptor i músic, ha escrit 'Jo això ja no ho veuré' (Ed. Males Herbes), una novel·la amb què s'ha divertit molt imaginant un futur apocalíptic que espera que no vivim. Coia Valls ha fet la Sagrada Família protagonista d''El somni de Gaudí' (Ed. Rosa dels Vents); i a 'Aquest serà el nostre pou' (Ed. EmpúriesEmpúries), Marc Artigau ha imaginat històries de gent que lluita: contra el món, contra la ciutat, contra el veïnat. Aquest conjunt de relats li han valgut el premi Mercè Rodoreda d'enguany. Al balneari, els autors seran observats per milers de mussols que els posaran a mercè de la seva sort.</desc>
-    <length units="minutes">00:29:47</length>
+  <programme start="20260901232004 +0000" channel="tvi" stop="20260902001947 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">265 dies sense onades</sub-title>
+    <desc lang="ca">'265 dies sense onades', (2022) una coproducció de Glassy Films, Elemental Komunika i Kalapa Studio, amb la participació de TV3 i Agència Rider.El documental mostra com l'evolució del surf ha anat en paral·lel al desenvolupament socioeconòmic de Barcelona i les poblacions properes des dels anys 60 fins avui. Entre els seus protagonistes, apassionats i intrèpids, descobrim els pioners que es van atrevir a trencar mites, i també les noves generacions que viuen el surf d'una manera del tot diferent. Fitxa tècnica:Direcció: Julie Gómez Guió: Rebeca Arnal Productor: Yago de la Sotilla Producció executiva TV3: Jordi Ambròs Hortensi Edició continguts TV3: Montse Armengou Martín Realització TV3: Ricard Belis García Producció delegada TV3: Daniel Barea Delgado Director fotografia: Bruno Amaral Muntatge: Jorge Sales Director de producció: Mariona Gea Música: Ultim Cavall Lingüista: Jordi Espinet Grafisme: Palouzié Studio</desc>
+    <length units="minutes">00:59:43</length>
   </programme>
-  <programme start="20260901170000 +0000" channel="324" stop="20260901183000 +0000">
+  <programme start="20260901210000 +0000" channel="324" stop="20260901230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7314</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260901230000 +0000" channel="324" stop="20260902000000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11058</sub-title>
+    <sub-title lang="ca">11061</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260901183000 +0000" channel="324" stop="20260901200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11059</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260901213454 +0000" channel="esport3" stop="20260901224442 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Final de mercat tranquil al Barça</sub-title>
+    <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
+    <length units="minutes">01:09:48</length>
   </programme>
-  <programme start="20260901173652 +0000" channel="esport3" stop="20260901174350 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">L''Albera</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:06:58</length>
+  <programme start="20260901224442 +0000" channel="esport3" stop="20260901230000 +0000">
+    <title lang="ca">Presentació Gabriel Jesus</title>
+    <sub-title lang="ca">0</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:15:18</length>
   </programme>
-  <programme start="20260901174350 +0000" channel="esport3" stop="20260901184435 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Rayo-Barça, Gabriel Jesus i lligues catalanes de bàsquet</sub-title>
-    <desc lang="ca">Analitzem el Rayo-Barça amb el microscopi de l'Àlex Delmàs. Estem pendents de la presentació de Gabriel Jesus, prevista per a aquesta tarda. Ja s'han presentat les lligues catalanes de bàsquet, que es jugaran a Tarragona i a Reus. A la tertúlia ens acompanyen Iris Miquel, Raúl Fuentes i Joan Poquí.</desc>
-    <length units="minutes">01:00:45</length>
+  <programme start="20260901220141 +0000" channel="sx3" stop="20260901222417 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas de l'assassinat del franctirador misteriós (1a part)</sub-title>
+    <desc lang="ca">En una festa en honor a un campió de sumo, la Yukiko Tanaka, secretària de l'empresari Saijo Ishimoto, contacta amb en Kogoro perquè el seu cap ha rebut una carta amenaçant-lo de mort. Durant la festa, algú dispara contra l'Ishimoto, però falla i mata el diputat Takada. En Conan sospita d'un individu que es comportava d'una manera estranya. Al cap d'unes hores, però, aquest home apareix mort en un edifici abandonat.</desc>
+    <length units="minutes">00:22:36</length>
   </programme>
-  <programme start="20260901171952 +0000" channel="sx3" stop="20260901174148 +0000">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">El col·legueta</sub-title>
-    <desc lang="ca">La WHOOP ha detectat una sèrie de fenòmens estranys en alguns dels paratges naturals més valuosos del planeta. El Grand Canyon i el Mont Everest, per exemple, han aparegut asfaltats de dalt a baix. Les Espies aviat descobriran que hi ha un friqui de l'skate que està intentant transformar el món sencer en un parc immens per patinar. La pròxima parada és a les Cascades Victòria!</desc>
-    <length units="minutes">00:21:56</length>
+  <programme start="20260901222417 +0000" channel="sx3" stop="20260901224403 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas de l'assassinat del franctirador misteriós (2a part)</sub-title>
+    <desc lang="ca">El president Ishimoto reconeix que en Shiro Hiraoka el va amenaçar de revelar secrets que enfonsarien l'empresa, però que es va negar a pagar-li un milió de iens. Sembla, doncs, que en Hiraoka va voler complir la seva amenaça d'assassinar-lo, però que va errar el tret i va matar el diputat Takada. En Conan, tanmateix, sap que la mort d'en Hiraoka no ha estat un accident, sinó un assassinat per fer-lo callar.</desc>
+    <length units="minutes">00:19:46</length>
   </programme>
-  <programme start="20260901174148 +0000" channel="sx3" stop="20260901175146 +0000">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Trens amunt i avall</sub-title>
-    <desc lang="ca">En Cincsegons busca un pot per fer el soroll del tren, la Mosca i el Cargol fan un tren de sabates lligades i el Mic juga que la bicicleta és un tren. Avui hi ha molts trens amunt i avall.</desc>
-    <length units="minutes">00:09:58</length>
+  <programme start="20260901215851 +0000" channel="tv3" stop="20260901225024 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La radiografia</sub-title>
+    <desc lang="ca">Ens ha sorprès saber que actualment els metges ja no donen radiografies. Segur que la decisió té algun sentit, però sap greu saber que ja no et pots fer el fatxenda ensenyant les radiografies dels ossos que t'has trencat. Doncs això, que dediquem el programa a la radiografia. També ens visita una sardanista, la Nàdia Cordón. Una visita molt adient. I passegem el gos pel dia del llamp de Brescia, quan es va evidenciar que cal instal·lar parallamps a les esglésies. El motiu que els porta a prendre aquesta decisió no us l'imagineu pas.</desc>
+    <length units="minutes">00:51:33</length>
   </programme>
-  <programme start="20260901171709 +0000" channel="tv3" stop="20260901174324 +0000">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">La selva humida</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="minutes">00:26:15</length>
-  </programme>
-  <programme start="20260901174324 +0000" channel="tv3" stop="20260901183535 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">El Borbonès</sub-title>
-    <desc lang="ca">En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.</desc>
-    <length units="minutes">00:52:11</length>
+  <programme start="20260901225024 +0000" channel="tv3" stop="20260902010755 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">El pianista</sub-title>
+    <desc lang="ca">EL PIANISTA (The Pianist)Idiomes versió original: anglès, alemany i rusProducció: Agencja Produkcji Fimowej, Le Studio Canal +, Film FernsehFonds Bayern, 2002 (Polònia, França, Gran Bretanya, Alemanya i Holanda)Direcció: Roman PolanskiDurada: 144 minutsGuió: Ronald Harwood, basat en el llibre de memòries de Wladyslaw SzpilmanFotografia: Pawel Edelman (color)Música: Wojciech KilarIntèrprets: Adrien Brody (Wladyslaw Szpilman), Thomas Kretschmann (capità Wilm Hosenfeld), Frank Finlay (pare), Maureen Lipman (mare), Ed Stoppard (Henryk), Emilia Fox (Dorota)Història verídica del brillant pianista polonès Wladyslaw Szpilman. Davant la invasió nazi de Varsòvia, l'actitud de Wladyslaw evoluciona des del distanciament fins al paper de víctima, primer humiliada i finalment assetjada. La sort i l'ajuda desinteressada dels seus amics, un d'ells alemany, faran que aconsegueixi sobreviure.</desc>
+    <length units="minutes">02:17:31</length>
   </programme>
 </tv>
