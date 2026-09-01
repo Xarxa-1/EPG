@@ -3,74 +3,76 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260831195712 +0000" channel="tvi" stop="20260831210000 +0000">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <sub-title lang="ca">983</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:02:48</length>
-  </programme>
-  <programme start="20260831210000 +0000" channel="tvi" stop="20260831220437 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7313</sub-title>
-    <length units="minutes">01:04:37</length>
-  </programme>
-  <programme start="20260831200000 +0000" channel="324" stop="20260831210000 +0000">
+  <programme start="20260901033000 +0000" channel="tvi" stop="20260901043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11051</sub-title>
+    <sub-title lang="ca">11053</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260831210000 +0000" channel="324" stop="20260831230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7313</sub-title>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260901043000 +0000" channel="tvi" stop="20260901050955 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Genny Barry Quartet</sub-title>
+    <desc lang="ca">Genny Barry és, sens dubte, un dels millors vibrafonistes de l'estat. El deixeble de Tete Montoliu i Bobby Hutcherson ens presenta un repertori que bascula entre el jazz de fusió i el hard-bop. Avui ens visita molt ben acompanyat per Joan Monné, al piano; Jordi Gaspar, al contrabaix, i David Gómez, a la bateria.</desc>
+    <length units="minutes">00:39:55</length>
   </programme>
-  <programme start="20260831203053 +0000" channel="esport3" stop="20260831212647 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Prèvia Barça-Rayo / J3</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">00:55:54</length>
+  <programme start="20260901010000 +0000" channel="324" stop="20260901060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11053</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260831212647 +0000" channel="esport3" stop="20260831232859 +0000">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Barça-Rayo</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="minutes">02:02:12</length>
+  <programme start="20260901060000 +0000" channel="324" stop="20260901070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11053</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260831203826 +0000" channel="sx3" stop="20260831210000 +0000">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Daltabaix a la festa d'aniversari</sub-title>
-    <desc lang="ca">En Henry investiga qui va provocar l'accident a la festa de la Debbie per demostrar que ell és innocent.</desc>
-    <length units="minutes">00:21:34</length>
+  <programme start="20260901041456 +0000" channel="esport3" stop="20260901044411 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Aina Cerdà intenta veure més enllà del fotograma</sub-title>
+    <desc lang="ca">El vídeo s'atura en el moment més inoportú. Serà capaç d'endevinar què passa després i convèncer el Zapi? No us perdeu la ballaruga final: TOP!!</desc>
+    <length units="minutes">00:29:15</length>
   </programme>
-  <programme start="20260831210000 +0000" channel="sx3" stop="20260831212217 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Seguint el doctor Guero, s'arriba al seu laboratori</sub-title>
-    <desc lang="ca">Ara que en Trunks ha revelat que l'A-19 és el doctor Guero i que els androides que converteixen el futur en un infern són l'A-17 i l'A-18, és més important que mai trobar el laboratori secret del científic abans que ell, perquè no pugui tornar a activar els dos androides assassins. Les indicacions de la Bulma seran vitals per trobar el laboratori, però podrien no arribar-hi a temps.</desc>
-    <length units="minutes">00:22:17</length>
+  <programme start="20260901044411 +0000" channel="esport3" stop="20260901051658 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
+    <desc lang="ca">El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
+    <length units="minutes">00:32:47</length>
   </programme>
-  <programme start="20260831201431 +0000" channel="tv3" stop="20260831205942 +0000">
-    <title lang="ca">La Gran Barrera de Corall</title>
-    <sub-title lang="ca">4</sub-title>
-    <desc lang="ca">A la costa oriental d'Austràlia s'estén la Gran Barrera de Corall, un ecosistema únic amb la major diversitat de vida marina del món. Damunt la superfície dels esculls coral·lins trobem una zona d'aigües anomenada mar del Corall on conviuen moltes espècies, tant les que es passen tota la vida als esculls, com les morenes o les sípies, com grans animals migratoris com els rorquals geperuts que hi venen a criar cada hivern. Entre tots ells es creen relacions simbiòtiques i reparadores que es repeteixen en cicles infinits des de fa milers d'anys.</desc>
-    <length units="minutes">00:45:11</length>
+  <programme start="20260901040221 +0000" channel="sx3" stop="20260901042358 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Exaltació</sub-title>
+    <desc lang="ca">Quan Ladybug persegueix el Gat Noir, ell l'esquiva. Quan l'Adrien persegueix la Marinette, ella l'esquiva a ell. La Tikki i l'Alya cada vegada estan més amoïnades pel comportament de la Marinette. Està buscant una altra excusa per no reconèixer el que sent per l'Adrien o s'està enamorant d'un altre noi de veritat? Quan la Marinette i el Gat Noir troben l'André, el gelater que ven gelats màgics que coneixen tots els secrets de l'amor, descobriran una cosa que els deixarà glaçats.</desc>
+    <length units="minutes">00:21:37</length>
   </programme>
-  <programme start="20260831205942 +0000" channel="tv3" stop="20260831210051 +0000">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <sub-title lang="ca">0</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:01:09</length>
+  <programme start="20260901042358 +0000" channel="sx3" stop="20260901044601 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Traspàs, la decisió dels kwamis (1a part)</sub-title>
+    <desc lang="ca">Sempre passa el mateix. Ja sigui com a Marinette i Adrien o com a Ladybug i Gat Noir, les identitats secretes dels nostres protagonistes sempre els impedeixen encetar una relació amorosa. A la Tikki i el Plagg els hi sap molt greu veure que els seus portadors han de renunciar als seus sentiments, i per això prenen una decisió dràstica que farà canviar moltes coses a París.</desc>
+    <length units="minutes">00:22:03</length>
+  </programme>
+  <programme start="20260901040243 +0000" channel="tv3" stop="20260901044148 +0000">
+    <title lang="ca">Això no és Suècia</title>
+    <sub-title lang="ca">El canvi</sub-title>
+    <desc lang="ca">La Mariana i el Samuel no poden estar més feliços d'haver-se traslladat amb els seus fills a un nou barri, on troben una comunitat afí, i un model a seguir en la seva admirable veïna sueca. Fins i tot han organitzat una teràpia de pares... Incapaços d'imaginar el que està a punt de caure'ls a sobre.</desc>
+    <length units="minutes">00:39:05</length>
+  </programme>
+  <programme start="20260901044148 +0000" channel="tv3" stop="20260901051649 +0000">
+    <title lang="ca">Això no és Suècia</title>
+    <sub-title lang="ca">La por</sub-title>
+    <desc lang="ca">Commocionada per les incògnites sobre el que va passar a casa de l'Annika, i amb afany de controlar la vida escolar de la Lia, la Mariana remou cel i terra per treure els arbres caiguts del pati de l'escola i s'involucra a l'AFA, mentre en Samuel gestiona la criança amb mètodes més...'tradicionals'?</desc>
+    <length units="minutes">00:35:01</length>
   </programme>
 </tv>
