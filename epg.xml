@@ -1,85 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260901120000 +0000" channel="tvi" stop="20260901125619 +0000">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <sub-title lang="ca">143</sub-title>
-    <length units="minutes">00:56:19</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20260901174052 +0000" channel="tvi" stop="20260901183525 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Especialistes d'acció, Nao Albet i Marcel Borràs, Kelly Isaiah, Miquel Serra</sub-title>
+    <desc lang="ca">Mastegots, explosions i caigudes al buit. Entrem a In Extremis, a Barberà del Vallès, una agència d'efectes especials i un centre de referència mundial en l'entrenament i formació d'especialistes d'acció. Ells són els protagonistes de l'última gamberrada teatral de Nao Albet i Marcel Borràs, que ara s'atreveixen amb una òpera al Teatre Lliure, 'Els estunmen'. L'hi expliquen tot a Andrea Gumes, que també conversa amb el músic Kelly Isaiah, exvocalista de Koers i pioner de l'afrobeat en català. Acabem el programa amb el directe de Miquel Serra, gravat a Can Lliro, a Manacor, Mallorca.</desc>
+    <length units="minutes">00:54:33</length>
   </programme>
-  <programme start="20260901125619 +0000" channel="tvi" stop="20260901132010 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Pessic de nous i ratafia</sub-title>
-    <desc lang="ca">Amb nous i ratafia, en Marc Ribas cuina un pessic molt esponjós, ideal tant per postres com per berenar.</desc>
-    <length units="minutes">00:23:51</length>
+  <programme start="20260901183525 +0000" channel="tvi" stop="20260901190512 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Escapada al balneari</sub-title>
+    <desc lang="ca">S'acosta Sant Jordi i, com l'any passat, Marcians proposa una fugida a quatre escriptors i escriptores que en són protagonistes. Es reuniran en un balneari per gaudir de la tranquil·litat del seu ambient, del confort de les aigües termals, i del plaer de compartir les seves històries amb col·legues de professió. Són Míriam Cano, que enguany ha presentat 'Metamorfosi' (Ed. L'Avenç), un viatge a Grècia guiat per la voluntat de mirar cap endins. Jordi Masó, escriptor i músic, ha escrit 'Jo això ja no ho veuré' (Ed. Males Herbes), una novel·la amb què s'ha divertit molt imaginant un futur apocalíptic que espera que no vivim. Coia Valls ha fet la Sagrada Família protagonista d''El somni de Gaudí' (Ed. Rosa dels Vents); i a 'Aquest serà el nostre pou' (Ed. EmpúriesEmpúries), Marc Artigau ha imaginat històries de gent que lluita: contra el món, contra la ciutat, contra el veïnat. Aquest conjunt de relats li han valgut el premi Mercè Rodoreda d'enguany. Al balneari, els autors seran observats per milers de mussols que els posaran a mercè de la seva sort.</desc>
+    <length units="minutes">00:29:47</length>
   </programme>
-  <programme start="20260901100000 +0000" channel="324" stop="20260901130000 +0000">
+  <programme start="20260901170000 +0000" channel="324" stop="20260901183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11055</sub-title>
+    <sub-title lang="ca">11058</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260901130000 +0000" channel="324" stop="20260901140000 +0000">
+  <programme start="20260901183000 +0000" channel="324" stop="20260901200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11056</sub-title>
+    <sub-title lang="ca">11059</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260901114439 +0000" channel="esport3" stop="20260901130000 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Barça-Rayo / J3</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:15:21</length>
+  <programme start="20260901173652 +0000" channel="esport3" stop="20260901174350 +0000">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">L''Albera</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="minutes">00:06:58</length>
   </programme>
-  <programme start="20260901130000 +0000" channel="esport3" stop="20260901140058 +0000">
+  <programme start="20260901174350 +0000" channel="esport3" stop="20260901184435 +0000">
     <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3230</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:00:58</length>
+    <sub-title lang="ca">Rayo-Barça, Gabriel Jesus i lligues catalanes de bàsquet</sub-title>
+    <desc lang="ca">Analitzem el Rayo-Barça amb el microscopi de l'Àlex Delmàs. Estem pendents de la presentació de Gabriel Jesus, prevista per a aquesta tarda. Ja s'han presentat les lligues catalanes de bàsquet, que es jugaran a Tarragona i a Reus. A la tertúlia ens acompanyen Iris Miquel, Raúl Fuentes i Joan Poquí.</desc>
+    <length units="minutes">01:00:45</length>
   </programme>
-  <programme start="20260901122308 +0000" channel="sx3" stop="20260901124453 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El viatge del Papalloner XT</sub-title>
-    <desc lang="ca">L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!</desc>
-    <length units="minutes">00:21:45</length>
+  <programme start="20260901171952 +0000" channel="sx3" stop="20260901174148 +0000">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">El col·legueta</sub-title>
+    <desc lang="ca">La WHOOP ha detectat una sèrie de fenòmens estranys en alguns dels paratges naturals més valuosos del planeta. El Grand Canyon i el Mont Everest, per exemple, han aparegut asfaltats de dalt a baix. Les Espies aviat descobriran que hi ha un friqui de l'skate que està intentant transformar el món sencer en un parc immens per patinar. La pròxima parada és a les Cascades Victòria!</desc>
+    <length units="minutes">00:21:56</length>
   </programme>
-  <programme start="20260901124453 +0000" channel="sx3" stop="20260901130708 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els buscadors de mel</sub-title>
-    <desc lang="ca">Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
-    <length units="minutes">00:22:15</length>
+  <programme start="20260901174148 +0000" channel="sx3" stop="20260901175146 +0000">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">Trens amunt i avall</sub-title>
+    <desc lang="ca">En Cincsegons busca un pot per fer el soroll del tren, la Mosca i el Cargol fan un tren de sabates lligades i el Mic juga que la bicicleta és un tren. Avui hi ha molts trens amunt i avall.</desc>
+    <length units="minutes">00:09:58</length>
   </programme>
-  <programme start="20260901120605 +0000" channel="tv3" stop="20260901124138 +0000">
-    <title lang="ca">Tot o res</title>
-    <sub-title lang="ca">22</sub-title>
-    <length units="minutes">00:35:33</length>
+  <programme start="20260901171709 +0000" channel="tv3" stop="20260901174324 +0000">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">La selva humida</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="minutes">00:26:15</length>
   </programme>
-  <programme start="20260901124138 +0000" channel="tv3" stop="20260901134130 +0000">
-    <title lang="ca">Atrapa'm si pots - Especials</title>
-    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
-    <length units="minutes">00:59:52</length>
-  </programme>
-  <programme start="20260901120732 +0000" channel="tv3" stop="20260901150727 +0000">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <sub-title lang="ca">4092</sub-title>
-    <length units="minutes">02:59:55</length>
-  </programme>
-  <programme start="20260901122500 +0000" channel="tv3" stop="20260901152955 +0000">
-    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
-    <sub-title lang="ca">4093</sub-title>
-    <length units="minutes">02:59:55</length>
+  <programme start="20260901174324 +0000" channel="tv3" stop="20260901183535 +0000">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">El Borbonès</sub-title>
+    <desc lang="ca">En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.</desc>
+    <length units="minutes">00:52:11</length>
   </programme>
 </tv>
