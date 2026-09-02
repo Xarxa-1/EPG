@@ -1,77 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20260901220731 +0000" channel="tvi" stop="20260901232420 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">L'Àliga vola</sub-title>
-    <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
-    <length units="minutes">01:16:49</length>
-  </programme>
-  <programme start="20260901232004 +0000" channel="tvi" stop="20260902001947 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">265 dies sense onades</sub-title>
-    <desc lang="ca">'265 dies sense onades', (2022) una coproducció de Glassy Films, Elemental Komunika i Kalapa Studio, amb la participació de TV3 i Agència Rider.El documental mostra com l'evolució del surf ha anat en paral·lel al desenvolupament socioeconòmic de Barcelona i les poblacions properes des dels anys 60 fins avui. Entre els seus protagonistes, apassionats i intrèpids, descobrim els pioners que es van atrevir a trencar mites, i també les noves generacions que viuen el surf d'una manera del tot diferent. Fitxa tècnica:Direcció: Julie Gómez Guió: Rebeca Arnal Productor: Yago de la Sotilla Producció executiva TV3: Jordi Ambròs Hortensi Edició continguts TV3: Montse Armengou Martín Realització TV3: Ricard Belis García Producció delegada TV3: Daniel Barea Delgado Director fotografia: Bruno Amaral Muntatge: Jorge Sales Director de producció: Mariona Gea Música: Ultim Cavall Lingüista: Jordi Espinet Grafisme: Palouzié Studio</desc>
-    <length units="minutes">00:59:43</length>
-  </programme>
-  <programme start="20260901210000 +0000" channel="324" stop="20260901230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7314</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260901230000 +0000" channel="324" stop="20260902000000 +0000">
+  <programme start="20260902011509 +0000" channel="tvi" stop="20260902043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11061</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:14:51</length>
+  </programme>
+  <programme start="20260902043000 +0000" channel="tvi" stop="20260902050842 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Andreu Zaragoza Quartet</sub-title>
+    <desc lang="ca">Andreu Zaragoza presenta el seu nou disc 'Quatriometry'. Vuit composicions que aprofiten la versatilitat de l'orgue Hammond, en contrapunt al saxo i a la personal guitarra de Zaragoza. El jazz contemporani amb arrels i la complicitat entre els solistes atrapen el públic. L'acompanyen Vicenç Macián al saxo tenor, Ramon Prats a la bateria i Abel Boquera a l'orgue.</desc>
+    <length units="minutes">00:38:42</length>
+  </programme>
+  <programme start="20260902010000 +0000" channel="324" stop="20260902060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11062</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260902060000 +0000" channel="324" stop="20260902070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11062</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260901213454 +0000" channel="esport3" stop="20260901224442 +0000">
+  <programme start="20260902023842 +0000" channel="esport3" stop="20260902041015 +0000">
     <title lang="ca">Tot Costa</title>
     <sub-title lang="ca">Final de mercat tranquil al Barça</sub-title>
     <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
-    <length units="minutes">01:09:48</length>
+    <length units="minutes">01:31:33</length>
   </programme>
-  <programme start="20260901224442 +0000" channel="esport3" stop="20260901230000 +0000">
-    <title lang="ca">Presentació Gabriel Jesus</title>
-    <sub-title lang="ca">0</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:15:18</length>
+  <programme start="20260902041015 +0000" channel="esport3" stop="20260902042557 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5496</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:15:42</length>
   </programme>
-  <programme start="20260901220141 +0000" channel="sx3" stop="20260901222417 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'assassinat del franctirador misteriós (1a part)</sub-title>
-    <desc lang="ca">En una festa en honor a un campió de sumo, la Yukiko Tanaka, secretària de l'empresari Saijo Ishimoto, contacta amb en Kogoro perquè el seu cap ha rebut una carta amenaçant-lo de mort. Durant la festa, algú dispara contra l'Ishimoto, però falla i mata el diputat Takada. En Conan sospita d'un individu que es comportava d'una manera estranya. Al cap d'unes hores, però, aquest home apareix mort en un edifici abandonat.</desc>
-    <length units="minutes">00:22:36</length>
+  <programme start="20260902034138 +0000" channel="sx3" stop="20260902040251 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Migració</sub-title>
+    <desc lang="ca">El Luka és moltes coses. A banda de ser el germà bessó de la Juleka, també és com un germà gran per tots els seus amics, inclosos la Marinette i l'Adrien. A tots dos els hi agrada demanar-li consell, perquè en el Luca sempre hi troben paraules reconfortants. A més, el Luka és el guitarrista del grup Kitty Section i és fill d'un famós. Precisament això atraurà l'interès de l'empresari discogràfic Bob Roth, que està disposat a qualsevol cosa per fer diners. Però el Bob Roth subestima el Luka, que està disposat a qualsevol cosa per defensar els seus amics i els seus valors.</desc>
+    <length units="minutes">00:21:13</length>
   </programme>
-  <programme start="20260901222417 +0000" channel="sx3" stop="20260901224403 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'assassinat del franctirador misteriós (2a part)</sub-title>
-    <desc lang="ca">El president Ishimoto reconeix que en Shiro Hiraoka el va amenaçar de revelar secrets que enfonsarien l'empresa, però que es va negar a pagar-li un milió de iens. Sembla, doncs, que en Hiraoka va voler complir la seva amenaça d'assassinar-lo, però que va errar el tret i va matar el diputat Takada. En Conan, tanmateix, sap que la mort d'en Hiraoka no ha estat un accident, sinó un assassinat per fer-lo callar.</desc>
-    <length units="minutes">00:19:46</length>
+  <programme start="20260902040251 +0000" channel="sx3" stop="20260902042418 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Burla</sub-title>
+    <desc lang="ca">Quan per fi sembla que la Marinette està a punt de tenir una cita normal amb l'Adrien, comença a patir uns atacs de pànic molt estranys. No entén per què li passa. A més, comença a posar en perill la relació amb el noi que estima. El seu malestar emocional la podria convertir en l'objectiu perfecte pel Monarca. I si l'explicació del que li passa es trobés en el seu propi passat? Quan la Marinette encara no era la Marinette que coneixem avui dia?</desc>
+    <length units="minutes">00:21:27</length>
   </programme>
-  <programme start="20260901215851 +0000" channel="tv3" stop="20260901225024 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La radiografia</sub-title>
-    <desc lang="ca">Ens ha sorprès saber que actualment els metges ja no donen radiografies. Segur que la decisió té algun sentit, però sap greu saber que ja no et pots fer el fatxenda ensenyant les radiografies dels ossos que t'has trencat. Doncs això, que dediquem el programa a la radiografia. També ens visita una sardanista, la Nàdia Cordón. Una visita molt adient. I passegem el gos pel dia del llamp de Brescia, quan es va evidenciar que cal instal·lar parallamps a les esglésies. El motiu que els porta a prendre aquesta decisió no us l'imagineu pas.</desc>
-    <length units="minutes">00:51:33</length>
+  <programme start="20260902032952 +0000" channel="tv3" stop="20260902040826 +0000">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">Palandriu</sub-title>
+    <desc lang="ca">L'escamarlà és el producte estrella de la confraria de Llançà i, durant els mesos d'estiu, és una de les confraries de Catalunya que més treballa amb aquesta espècie. En aquest capítol, en Quim Casellas viurà una autèntica jornada de pesca d'escamarlans a bord del Palandriu amb el seu patró i armador, en Xavi Roquer. Sens dubte, els escamarlans seran els protagonistes de la proposta culinària d'en Quim, que serà original i amb un toc asiàtic: shabu shabu d'escamarlans i rap amb verdures de primavera.</desc>
+    <length units="minutes">00:38:34</length>
   </programme>
-  <programme start="20260901225024 +0000" channel="tv3" stop="20260902010755 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">El pianista</sub-title>
-    <desc lang="ca">EL PIANISTA (The Pianist)Idiomes versió original: anglès, alemany i rusProducció: Agencja Produkcji Fimowej, Le Studio Canal +, Film FernsehFonds Bayern, 2002 (Polònia, França, Gran Bretanya, Alemanya i Holanda)Direcció: Roman PolanskiDurada: 144 minutsGuió: Ronald Harwood, basat en el llibre de memòries de Wladyslaw SzpilmanFotografia: Pawel Edelman (color)Música: Wojciech KilarIntèrprets: Adrien Brody (Wladyslaw Szpilman), Thomas Kretschmann (capità Wilm Hosenfeld), Frank Finlay (pare), Maureen Lipman (mare), Ed Stoppard (Henryk), Emilia Fox (Dorota)Història verídica del brillant pianista polonès Wladyslaw Szpilman. Davant la invasió nazi de Varsòvia, l'actitud de Wladyslaw evoluciona des del distanciament fins al paper de víctima, primer humiliada i finalment assetjada. La sort i l'ajuda desinteressada dels seus amics, un d'ells alemany, faran que aconsegueixi sobreviure.</desc>
-    <length units="minutes">02:17:31</length>
+  <programme start="20260902040826 +0000" channel="tv3" stop="20260902044444 +0000">
+    <title lang="ca">Això no és Suècia</title>
+    <sub-title lang="ca">Els límits</sub-title>
+    <desc lang="ca">La Mariana redobla els seus esforços per millorar l'escola per a la Lia, però sembla que només aconsegueix empitjorar la relació amb ella. En Sam sent que la Mariana no li dedica l'atenció que es mereix, i tracta de reviure momentàniament la vida que tenia abans de convertir-se en amo de casa.</desc>
+    <length units="minutes">00:36:18</length>
   </programme>
 </tv>
