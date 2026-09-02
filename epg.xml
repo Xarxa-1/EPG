@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20260902011509 +0000" channel="tvi" stop="20260902043000 +0000">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260902120000 +0000" channel="tvi" stop="20260902125915 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11061</sub-title>
+    <sub-title lang="ca">11065</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:14:51</length>
+    <length units="minutes">00:59:15</length>
   </programme>
-  <programme start="20260902043000 +0000" channel="tvi" stop="20260902050842 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Andreu Zaragoza Quartet</sub-title>
-    <desc lang="ca">Andreu Zaragoza presenta el seu nou disc 'Quatriometry'. Vuit composicions que aprofiten la versatilitat de l'orgue Hammond, en contrapunt al saxo i a la personal guitarra de Zaragoza. El jazz contemporani amb arrels i la complicitat entre els solistes atrapen el públic. L'acompanyen Vicenç Macián al saxo tenor, Ramon Prats a la bateria i Abel Boquera a l'orgue.</desc>
-    <length units="minutes">00:38:42</length>
+  <programme start="20260902125915 +0000" channel="tvi" stop="20260902132030 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Coca de bolets, formatge i mel</sub-title>
+    <desc lang="ca">Sabeu què és una coca semidolça? Doncs una que té una base dolça, tendra i esponjosa, com la d'una coca de Sant Joan, i que per sobre porta ingredients salats com bolets, bull o formatge. El contrast de sabors entre el dolç i el salat us sorprendrà.</desc>
+    <length units="minutes">00:21:15</length>
   </programme>
-  <programme start="20260902010000 +0000" channel="324" stop="20260902060000 +0000">
+  <programme start="20260902120000 +0000" channel="324" stop="20260902140000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11062</sub-title>
+    <sub-title lang="ca">11065</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260902060000 +0000" channel="324" stop="20260902070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11062</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260902140000 +0000" channel="324" stop="20260902143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7026</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260902023842 +0000" channel="esport3" stop="20260902041015 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Final de mercat tranquil al Barça</sub-title>
-    <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
-    <length units="minutes">01:31:33</length>
+  <programme start="20260902112709 +0000" channel="esport3" stop="20260902130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Tancament mercat; Gabriel Jesus culer i 'El colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <length units="minutes">01:32:51</length>
   </programme>
-  <programme start="20260902041015 +0000" channel="esport3" stop="20260902042557 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5496</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:15:42</length>
+  <programme start="20260902130000 +0000" channel="esport3" stop="20260902140104 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3231</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:04</length>
   </programme>
-  <programme start="20260902034138 +0000" channel="sx3" stop="20260902040251 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Migració</sub-title>
-    <desc lang="ca">El Luka és moltes coses. A banda de ser el germà bessó de la Juleka, també és com un germà gran per tots els seus amics, inclosos la Marinette i l'Adrien. A tots dos els hi agrada demanar-li consell, perquè en el Luca sempre hi troben paraules reconfortants. A més, el Luka és el guitarrista del grup Kitty Section i és fill d'un famós. Precisament això atraurà l'interès de l'empresari discogràfic Bob Roth, que està disposat a qualsevol cosa per fer diners. Però el Bob Roth subestima el Luka, que està disposat a qualsevol cosa per defensar els seus amics i els seus valors.</desc>
-    <length units="minutes">00:21:13</length>
+  <programme start="20260902115406 +0000" channel="sx3" stop="20260902120640 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">157</sub-title>
+    <desc lang="ca">En Jonas va a la presó a veure el líder de la banda de la Serp d'Or perquè vol obligar-lo a confessar què tenen preparat. Al final es confirmen les seves sospites: en Vince té a punt un últim cop. Vol venjar-se de la Mila de la mateixa manera que va fer amb l'Helena, que va morir enverinada dalt l'escenari. Quan en Jonas arriba al teatre, li queda molt poc temps per salvar la vida a la Mila.</desc>
+    <length units="minutes">00:12:34</length>
   </programme>
-  <programme start="20260902040251 +0000" channel="sx3" stop="20260902042418 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Burla</sub-title>
-    <desc lang="ca">Quan per fi sembla que la Marinette està a punt de tenir una cita normal amb l'Adrien, comença a patir uns atacs de pànic molt estranys. No entén per què li passa. A més, comença a posar en perill la relació amb el noi que estima. El seu malestar emocional la podria convertir en l'objectiu perfecte pel Monarca. I si l'explicació del que li passa es trobés en el seu propi passat? Quan la Marinette encara no era la Marinette que coneixem avui dia?</desc>
-    <length units="minutes">00:21:27</length>
+  <programme start="20260902120640 +0000" channel="sx3" stop="20260902121821 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">158</sub-title>
+    <desc lang="ca">Comença l'últim curs de l'acadèmia per als membres dels Ghost Rockers, que durant l'estiu han rebut un munt de cartes dels fans. Mentrestant, aquest any els alumnes de quart hauran de preparar una actuació per parelles formades per un músic i un ballarí. Entre les cartes i els dibuixos dels fans, la Charlie hi troba un naip amb un missatge misteriós. Al principi, la colla no se'l pren seriosament, fins que s'adonen que al soterrani hi ha entrat algú.</desc>
+    <length units="minutes">00:11:41</length>
   </programme>
-  <programme start="20260902032952 +0000" channel="tv3" stop="20260902040826 +0000">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">Palandriu</sub-title>
-    <desc lang="ca">L'escamarlà és el producte estrella de la confraria de Llançà i, durant els mesos d'estiu, és una de les confraries de Catalunya que més treballa amb aquesta espècie. En aquest capítol, en Quim Casellas viurà una autèntica jornada de pesca d'escamarlans a bord del Palandriu amb el seu patró i armador, en Xavi Roquer. Sens dubte, els escamarlans seran els protagonistes de la proposta culinària d'en Quim, que serà original i amb un toc asiàtic: shabu shabu d'escamarlans i rap amb verdures de primavera.</desc>
-    <length units="minutes">00:38:34</length>
+  <programme start="20260902115148 +0000" channel="tv3" stop="20260902125215 +0000">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
+    <length units="minutes">01:00:27</length>
   </programme>
-  <programme start="20260902040826 +0000" channel="tv3" stop="20260902044444 +0000">
-    <title lang="ca">Això no és Suècia</title>
-    <sub-title lang="ca">Els límits</sub-title>
-    <desc lang="ca">La Mariana redobla els seus esforços per millorar l'escola per a la Lia, però sembla que només aconsegueix empitjorar la relació amb ella. En Sam sent que la Mariana no li dedica l'atenció que es mereix, i tracta de reviure momentàniament la vida que tenia abans de convertir-se en amo de casa.</desc>
-    <length units="minutes">00:36:18</length>
+  <programme start="20260902125215 +0000" channel="tv3" stop="20260902134515 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Corno</sub-title>
+    <desc lang="ca">Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
+    <length units="minutes">00:53:00</length>
   </programme>
 </tv>
