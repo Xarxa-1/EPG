@@ -1,76 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260902120000 +0000" channel="tvi" stop="20260902125915 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11065</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:59:15</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260902170316 +0000" channel="tvi" stop="20260902173926 +0000">
+    <title lang="ca">La Riera</title>
+    <sub-title lang="ca">121</sub-title>
+    <desc lang="ca">En Lluís s'endurà un bon disgust en veure que ha tornat algú a qui no esperava tornar a veure. Mentrestant, es va fent públic que la Mercè i l'Ignasi tornen a estar junts, i mossèn Esteve no ho pot digerir. La Sònia, per la seva banda, es posa en marxa per saber què representen les fotos que ha trobat a l'Àngel. En Sergi no sap què fer després de la confessió de la Valeria, i en Nil vol ser el substitut d'en Marc.</desc>
+    <length units="minutes">00:36:10</length>
   </programme>
-  <programme start="20260902125915 +0000" channel="tvi" stop="20260902132030 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Coca de bolets, formatge i mel</sub-title>
-    <desc lang="ca">Sabeu què és una coca semidolça? Doncs una que té una base dolça, tendra i esponjosa, com la d'una coca de Sant Joan, i que per sobre porta ingredients salats com bolets, bull o formatge. El contrast de sabors entre el dolç i el salat us sorprendrà.</desc>
-    <length units="minutes">00:21:15</length>
+  <programme start="20260902173926 +0000" channel="tvi" stop="20260902182326 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Sara Torres, Alba Sarraute i la Fira Trapezi, seqüeles innecessàries, Júlia Colom</sub-title>
+    <desc lang="ca">Una de les plomes més afinades sobre el desig contemporani, la poeta i escriptora Sara Torres, conversa amb Andrea Gumes sobre el seu últim llibre, 'El pensamiento erótico'. Jacint Casademont repassa les seqüeles cinematogràfiques més innecessàries, i algunes de més reeixides, amb motiu de l'estrena d''El diablo viste de Prada 2'. L'artista de circ Alba Sarraute tria els imperdibles de la Fira Trapezi de Reus, que fa 30 anys, i del festival Circ d'Ara Mateix, al Mercat de les Flors. Tanca el programa l'actuació de la cantant i compositora Júlia Colom.</desc>
+    <length units="minutes">00:44:00</length>
   </programme>
-  <programme start="20260902120000 +0000" channel="324" stop="20260902140000 +0000">
+  <programme start="20260902163000 +0000" channel="324" stop="20260902183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11065</sub-title>
+    <sub-title lang="ca">11066</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260902140000 +0000" channel="324" stop="20260902143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7026</sub-title>
-    <length units="minutes">00:30:00</length>
+  <programme start="20260902183000 +0000" channel="324" stop="20260902200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11067</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260902112709 +0000" channel="esport3" stop="20260902130000 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Tancament mercat; Gabriel Jesus culer i 'El colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">01:32:51</length>
+  <programme start="20260902172655 +0000" channel="esport3" stop="20260902175915 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?</sub-title>
+    <desc lang="ca">Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.</desc>
+    <length units="minutes">00:32:20</length>
   </programme>
-  <programme start="20260902130000 +0000" channel="esport3" stop="20260902140104 +0000">
+  <programme start="20260902175915 +0000" channel="esport3" stop="20260902190000 +0000">
     <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3231</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:04</length>
+    <sub-title lang="ca">Tancament del mercat de fitxatges i tertúlia</sub-title>
+    <desc lang="ca">Ja s'ha tancat el mercat de fitxatges d'estiu. Julián Álvarez s'ha quedat a l'Atlètic de Madrid. Marc Casadó ha marxat cedit al Dépor i l'Espanyol ha incorporat Gorosabel. En parlem amb Laura Brugués i Juli García. Avui, Sabadell-Barça Atlètic, la final de la Copa Catalunya, per Esport3 (20.30). A la tertúlia ens acompanyen Arancha Rodríguez, Màrius Carol i Dani Senabre.</desc>
+    <length units="minutes">01:00:45</length>
   </programme>
-  <programme start="20260902115406 +0000" channel="sx3" stop="20260902120640 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">157</sub-title>
-    <desc lang="ca">En Jonas va a la presó a veure el líder de la banda de la Serp d'Or perquè vol obligar-lo a confessar què tenen preparat. Al final es confirmen les seves sospites: en Vince té a punt un últim cop. Vol venjar-se de la Mila de la mateixa manera que va fer amb l'Helena, que va morir enverinada dalt l'escenari. Quan en Jonas arriba al teatre, li queda molt poc temps per salvar la vida a la Mila.</desc>
-    <length units="minutes">00:12:34</length>
+  <programme start="20260902172728 +0000" channel="sx3" stop="20260902174931 +0000">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Els dolents van amb zepelí</sub-title>
+    <desc lang="ca">En Jerry ha encarregat a les Espies la missió de portar tres delinqüents molt perillosos a l'illa de la WHOOP, on hi ha la presó dels dolents més dolents de tots els dolents! Ho faran amb el zepelí de la WHOOP i els presoners són l'Yves MontBlanc, en Manny Wong i l'excèntrica Violet Vanderfleet. T'imagines què passaria si hi hagués un motí a bord?!</desc>
+    <length units="minutes">00:22:03</length>
   </programme>
-  <programme start="20260902120640 +0000" channel="sx3" stop="20260902121821 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">158</sub-title>
-    <desc lang="ca">Comença l'últim curs de l'acadèmia per als membres dels Ghost Rockers, que durant l'estiu han rebut un munt de cartes dels fans. Mentrestant, aquest any els alumnes de quart hauran de preparar una actuació per parelles formades per un músic i un ballarí. Entre les cartes i els dibuixos dels fans, la Charlie hi troba un naip amb un missatge misteriós. Al principi, la colla no se'l pren seriosament, fins que s'adonen que al soterrani hi ha entrat algú.</desc>
-    <length units="minutes">00:11:41</length>
+  <programme start="20260902174931 +0000" channel="sx3" stop="20260902180016 +0000">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">Endevinalla del pollet</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="minutes">00:10:45</length>
   </programme>
-  <programme start="20260902115148 +0000" channel="tv3" stop="20260902125215 +0000">
-    <title lang="ca">Atrapa'm si pots - Especials</title>
-    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
-    <length units="minutes">01:00:27</length>
+  <programme start="20260902165632 +0000" channel="tv3" stop="20260902174604 +0000">
+    <title lang="ca">Terreny personal</title>
+    <sub-title lang="ca">Santa Coloma de Gramenet</sub-title>
+    <desc lang="ca">Aquest capítol ens porta a un paisatge urbà, a una ciutat densa, complexa i plena de vida.De Fondo a Singuerlín i de Can Franquesa fins al Besòs s'estén una gran ciutat amb ànima de poble: Santa Coloma de Gramenet. Els protagonistes ens mostren els seus barris i ens expliquen la història d'una ciutat que han fet entre tots... i que avui continuen construint.Rodolfo del Hoyo, fill de pare manxec i mare andalusa, va arribar a Santa Coloma quan tenia un any i mig i ara és un escriptor premiat en llengua catalana. M. Teresa Castellví ha viscut a Fondo tota la vida i no canviaria de barri per res del món. Chenchiao Xiang va arribar a Santa Coloma fa quatre anys sense entendre ni una paraula de català i ara és la primera noia xinesa del seu institut que ha arribat a 2n de Batxillerat. I Pedro Cano porta l'empresa que organitza els grans concerts que se celebren a tot l'Estat, com la gira de Bruce Springsteen o el Festival Primavera Sound, i ho fa des del barri de Singuerlín, de Santa Coloma.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola les Palmeres, que, a través de fotos fetes per ells mateixos, ens descobreixen quins són els seus racons preferits. L'escriptor Jordi Valls ens explica com escriu els seus poemes a l'interior del metro de la ciutat i Muchachito Bombo Infierno interpreta una cançó inèdita als carrers de Santa Coloma de Gramenet.</desc>
+    <length units="minutes">00:49:32</length>
   </programme>
-  <programme start="20260902125215 +0000" channel="tv3" stop="20260902134515 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Corno</sub-title>
-    <desc lang="ca">Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
-    <length units="minutes">00:53:00</length>
+  <programme start="20260902174604 +0000" channel="tv3" stop="20260902183151 +0000">
+    <title lang="ca">Globus Sonda</title>
+    <sub-title lang="ca">Òscar Fernàndez - Delta de l'Ebre</sub-title>
+    <desc lang="ca">El periodista Òscar Fernández és un home d'emocions controlades. Això no obstant, en un vol en globus sobre l'espectacular paisatge del delta de l'Ebre potser se li descontrolaran les emocions, jo ho veurem. El periodista lidera un dels programes insígnia de Catalunya Ràdio, el 'Catalunya Migdia'. Parlarem del secret de l'èxit del programa en un vol diferent i en un clima molt especial com és el de les Terres de l'Ebre -d'això ens parlarà el Francesc Mauri-, i amb una convidada sorpresa molt bellugadissa, que acompanya la Candela Figueras des del cotxe de seguiment.</desc>
+    <length units="minutes">00:45:47</length>
   </programme>
 </tv>
