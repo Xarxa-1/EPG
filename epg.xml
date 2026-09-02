@@ -1,78 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260902170316 +0000" channel="tvi" stop="20260902173926 +0000">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">121</sub-title>
-    <desc lang="ca">En Lluís s'endurà un bon disgust en veure que ha tornat algú a qui no esperava tornar a veure. Mentrestant, es va fent públic que la Mercè i l'Ignasi tornen a estar junts, i mossèn Esteve no ho pot digerir. La Sònia, per la seva banda, es posa en marxa per saber què representen les fotos que ha trobat a l'Àngel. En Sergi no sap què fer després de la confessió de la Valeria, i en Nil vol ser el substitut d'en Marc.</desc>
-    <length units="minutes">00:36:10</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20260902220257 +0000" channel="tvi" stop="20260902224042 +0000">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Ruta  koala</sub-title>
+    <desc lang="ca">El Toni és nomenat jurat d'un concurs de redaccions escolars patrocinat per la popular beguda refrescant Koala Kola. Ell està profundament emocionat per la responsabilitat que això suposa, però el que no s'imagina són les pressions que rebrà des del primer moment per tal d'influir en la seva decisió a l'hora de triar l'alumne guanyador.</desc>
+    <length units="minutes">00:37:45</length>
   </programme>
-  <programme start="20260902173926 +0000" channel="tvi" stop="20260902182326 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Sara Torres, Alba Sarraute i la Fira Trapezi, seqüeles innecessàries, Júlia Colom</sub-title>
-    <desc lang="ca">Una de les plomes més afinades sobre el desig contemporani, la poeta i escriptora Sara Torres, conversa amb Andrea Gumes sobre el seu últim llibre, 'El pensamiento erótico'. Jacint Casademont repassa les seqüeles cinematogràfiques més innecessàries, i algunes de més reeixides, amb motiu de l'estrena d''El diablo viste de Prada 2'. L'artista de circ Alba Sarraute tria els imperdibles de la Fira Trapezi de Reus, que fa 30 anys, i del festival Circ d'Ara Mateix, al Mercat de les Flors. Tanca el programa l'actuació de la cantant i compositora Júlia Colom.</desc>
-    <length units="minutes">00:44:00</length>
+  <programme start="20260902224042 +0000" channel="tvi" stop="20260902231619 +0000">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Hem mort el llop</sub-title>
+    <desc lang="ca">Com cada Festa Major, el Toni, la Rosa, el Poppins, la Joana, el Calafell i la Maria participen en la representació de Terra Baixa que es fa a Horta. La Rosa és la directora, però aquest any hi ha una sorpresa, el director serà el LLuis Pasqual. La seva arribada provoca tants canvis en el repartiment i la forma d'assajar, que s'haurà d'afrontar a una revolta comandada per la pròpia Rosa.</desc>
+    <length units="minutes">00:35:37</length>
   </programme>
-  <programme start="20260902163000 +0000" channel="324" stop="20260902183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11066</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260902210000 +0000" channel="324" stop="20260902230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7315</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260902183000 +0000" channel="324" stop="20260902200000 +0000">
+  <programme start="20260902230000 +0000" channel="324" stop="20260903003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11067</sub-title>
+    <sub-title lang="ca">11069</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260902172655 +0000" channel="esport3" stop="20260902175915 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?</sub-title>
-    <desc lang="ca">Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.</desc>
-    <length units="minutes">00:32:20</length>
+  <programme start="20260902202000 +0000" channel="esport3" stop="20260902222921 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Barça Atlètic-CE Sabadell / Copa Catalunya / Final</sub-title>
+    <desc lang="ca">Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.</desc>
+    <length units="minutes">02:09:21</length>
   </programme>
-  <programme start="20260902175915 +0000" channel="esport3" stop="20260902190000 +0000">
+  <programme start="20260902222921 +0000" channel="esport3" stop="20260902230000 +0000">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Tancament del mercat de fitxatges i tertúlia</sub-title>
     <desc lang="ca">Ja s'ha tancat el mercat de fitxatges d'estiu. Julián Álvarez s'ha quedat a l'Atlètic de Madrid. Marc Casadó ha marxat cedit al Dépor i l'Espanyol ha incorporat Gorosabel. En parlem amb Laura Brugués i Juli García. Avui, Sabadell-Barça Atlètic, la final de la Copa Catalunya, per Esport3 (20.30). A la tertúlia ens acompanyen Arancha Rodríguez, Màrius Carol i Dani Senabre.</desc>
-    <length units="minutes">01:00:45</length>
+    <length units="minutes">00:30:39</length>
   </programme>
-  <programme start="20260902172728 +0000" channel="sx3" stop="20260902174931 +0000">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Els dolents van amb zepelí</sub-title>
-    <desc lang="ca">En Jerry ha encarregat a les Espies la missió de portar tres delinqüents molt perillosos a l'illa de la WHOOP, on hi ha la presó dels dolents més dolents de tots els dolents! Ho faran amb el zepelí de la WHOOP i els presoners són l'Yves MontBlanc, en Manny Wong i l'excèntrica Violet Vanderfleet. T'imagines què passaria si hi hagués un motí a bord?!</desc>
-    <length units="minutes">00:22:03</length>
+  <programme start="20260902220340 +0000" channel="sx3" stop="20260902222616 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas del robatori de 10 milions de iens de l'organització dels homes de negre</sub-title>
+    <desc lang="ca">En Conan presencia l'atracament a un furgó blindat a l'exterior d'un banc. Dos atracadors neutralitzen dos vigilants, n'amenacen un altre i fugen en cotxe amb un gran botí. La policia troba el vehicle abandonat: a dins hi ha un passamuntanyes tacat de pintallavis rosa. Aquella nit, un dels atracadors i el vigilant que els ha obert el furgó són assassinats. La principal sospitosa és una treballadora del banc. En Conan ho dubta.</desc>
+    <length units="minutes">00:22:36</length>
   </programme>
-  <programme start="20260902174931 +0000" channel="sx3" stop="20260902180016 +0000">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Endevinalla del pollet</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="minutes">00:10:45</length>
+  <programme start="20260902222616 +0000" channel="sx3" stop="20260902224553 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El número del ventríloc (1a part)</sub-title>
+    <desc lang="ca">En Riichi Tengan, un famós ventríloc, demana ajuda a en Kogoro perquè creu que pateix un trastorn de personalitat múltiple que el pot empènyer a matar la seva dona, la Kazuko. El ventríloc està convençut que el seu ninot l'ha posseït i no para d'animar-lo a assassinar la Kazuko, després que aquesta i en Haruomi Togawa, representant i alumne d'en Riichi, hagin mantingut una relació il·lícita. Finalment, quan la Kazuko apareix assassinada a casa seva, el mateix Riichi se'n declara culpable, però el descobriment de certes pistes assenyala com a responsable en Haruomi.</desc>
+    <length units="minutes">00:19:37</length>
   </programme>
-  <programme start="20260902165632 +0000" channel="tv3" stop="20260902174604 +0000">
-    <title lang="ca">Terreny personal</title>
-    <sub-title lang="ca">Santa Coloma de Gramenet</sub-title>
-    <desc lang="ca">Aquest capítol ens porta a un paisatge urbà, a una ciutat densa, complexa i plena de vida.De Fondo a Singuerlín i de Can Franquesa fins al Besòs s'estén una gran ciutat amb ànima de poble: Santa Coloma de Gramenet. Els protagonistes ens mostren els seus barris i ens expliquen la història d'una ciutat que han fet entre tots... i que avui continuen construint.Rodolfo del Hoyo, fill de pare manxec i mare andalusa, va arribar a Santa Coloma quan tenia un any i mig i ara és un escriptor premiat en llengua catalana. M. Teresa Castellví ha viscut a Fondo tota la vida i no canviaria de barri per res del món. Chenchiao Xiang va arribar a Santa Coloma fa quatre anys sense entendre ni una paraula de català i ara és la primera noia xinesa del seu institut que ha arribat a 2n de Batxillerat. I Pedro Cano porta l'empresa que organitza els grans concerts que se celebren a tot l'Estat, com la gira de Bruce Springsteen o el Festival Primavera Sound, i ho fa des del barri de Singuerlín, de Santa Coloma.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola les Palmeres, que, a través de fotos fetes per ells mateixos, ens descobreixen quins són els seus racons preferits. L'escriptor Jordi Valls ens explica com escriu els seus poemes a l'interior del metro de la ciutat i Muchachito Bombo Infierno interpreta una cançó inèdita als carrers de Santa Coloma de Gramenet.</desc>
-    <length units="minutes">00:49:32</length>
+  <programme start="20260902215922 +0000" channel="tv3" stop="20260902225121 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El tallagespa</sub-title>
+    <desc lang="ca">El tallagespa és un objecte com Déu mana, però, compte, no sigueu gamarussos, que més d'un ha perdut els dits intentant desencallar la gespa compactada de sota la màquina. Abans de manipular-lo, assegureu-vos que estigui parat, que ara en fan de molt silenciosos! També parlem amb l'Ernest Villegas, un tros d'actor amb una veu de tro que fot goig de sentir. Per acabar, gafem una gossa anomenada Taga i ens tanquem a la presó de la Model, la que ja està tancada, i amb raó, perquè allò era un cau de merda.</desc>
+    <length units="minutes">00:51:59</length>
   </programme>
-  <programme start="20260902174604 +0000" channel="tv3" stop="20260902183151 +0000">
-    <title lang="ca">Globus Sonda</title>
-    <sub-title lang="ca">Òscar Fernàndez - Delta de l'Ebre</sub-title>
-    <desc lang="ca">El periodista Òscar Fernández és un home d'emocions controlades. Això no obstant, en un vol en globus sobre l'espectacular paisatge del delta de l'Ebre potser se li descontrolaran les emocions, jo ho veurem. El periodista lidera un dels programes insígnia de Catalunya Ràdio, el 'Catalunya Migdia'. Parlarem del secret de l'èxit del programa en un vol diferent i en un clima molt especial com és el de les Terres de l'Ebre -d'això ens parlarà el Francesc Mauri-, i amb una convidada sorpresa molt bellugadissa, que acompanya la Candela Figueras des del cotxe de seguiment.</desc>
-    <length units="minutes">00:45:47</length>
+  <programme start="20260902225121 +0000" channel="tv3" stop="20260903012104 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">El pacient anglès</sub-title>
+    <desc lang="ca">EL PACIENT ANGLÈS (The English patient)Al final de la Segona Guerra Mundial, a les ruïnes d'una vil·la de la Toscana, es reuneixen quatre personatges. Un home amb el cos cremat i un passat enigmàtic, una infermera que s'ocupa del pacient, un supervivent cínic i amic del pare de la noia, i un sapador sikh, especialista a desactivar explosius. A través d'una sèrie de records es revelarà una història d'amor i gelosia.Idioma versió original: anglèsProducció: Saul Zaentz per a Miramax International, 1996 (Estats Units)Direcció: Anthony MinghellaDurada: 154 minutsGuió: Anthony Minghella, basat en la novel·la de Michael OndaatjeFotografia: John Seale (color)Música: Gabriel YaredIntèrprets: Ralph Fiennes (Almásy), Juliette Binoche (Hana), Kristin Scott-Thomas (Katharine Clifton), Willem Dafoe (Caravaggio), Naveen Andrews (Kip), Colin Firth (Geoffrey Clifton)</desc>
+    <length units="minutes">02:29:43</length>
   </programme>
 </tv>
