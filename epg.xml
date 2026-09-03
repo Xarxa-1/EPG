@@ -1,85 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260903120023 +0000" channel="tvi" stop="20260903130405 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260903170312 +0000" channel="tvi" stop="20260903174057 +0000">
+    <title lang="ca">La Riera</title>
+    <sub-title lang="ca">123</sub-title>
+    <desc lang="ca">La Lídia està decidida a aturar la Sònia i demana ajuda al seu pare. En Sergi paga el mal humor de la Maribel i reacciona desproporcionadament. L'Ignasi parla amb en Mauri i descobrirem que hi ha un passat fosc que comparteixen d'alguna manera. I en Lluís té unes enormes ganes de venjar-se de qui el va enganyar, però serà complicat.</desc>
+    <length units="minutes">00:37:45</length>
+  </programme>
+  <programme start="20260903174057 +0000" channel="tvi" stop="20260903183107 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Moha Amazian, Festival Grec, 'Whatchmen', còmic europeu,  Dan Peralbo i El Comboi</sub-title>
+    <desc lang="ca">Andrea Gumes entrevista l'actor vigatà Moha Amazian, que compatibilitza l'èxit sobre els escenaris i a la televisió amb un doctorat en química. Celebrem els 50 anys del Festival Grec amb la seva directora, Leticia Martín Ruiz, que ens ajuda a triar entre una programació extensíssima. Reivindiquem un dels còmics més influents de tots el temps, 'Whatchmen', d'Alan Moore y Dave Gibbons, mentre que Jacint Casademont repassa el bo i millor del còmic europeu contemporani. Acabem amb el directe del quartet de Torelló Dan Peralbo i El Comboi.</desc>
+    <length units="minutes">00:50:10</length>
+  </programme>
+  <programme start="20260903170000 +0000" channel="324" stop="20260903183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11073</sub-title>
+    <sub-title lang="ca">11075</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:03:42</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260903130405 +0000" channel="tvi" stop="20260903140000 +0000">
+  <programme start="20260903183000 +0000" channel="324" stop="20260903200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11072</sub-title>
+    <sub-title lang="ca">11076</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:55:55</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260903120000 +0000" channel="324" stop="20260903140000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11073</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260903165845 +0000" channel="esport3" stop="20260903172432 +0000">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Horitzons esteparis</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="minutes">00:25:47</length>
   </programme>
-  <programme start="20260903140000 +0000" channel="324" stop="20260903143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7027</sub-title>
-    <length units="minutes">00:30:00</length>
+  <programme start="20260903172432 +0000" channel="esport3" stop="20260903173503 +0000">
+    <title lang="ca">Zona UFEC</title>
+    <sub-title lang="ca">703</sub-title>
+    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
+    <length units="minutes">00:10:31</length>
   </programme>
-  <programme start="20260903112930 +0000" channel="esport3" stop="20260903130000 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Posem nota a Deco; Casadó al Depor i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Sique Rodriguez, Irati Vidal i Joan Poquí posen nota a la gestió del director esportiu del Barça en el mercat d'estiu. L'Òscar Pérez-Dolz predica la fe del bon culer.</desc>
-    <length units="minutes">01:30:30</length>
+  <programme start="20260903170701 +0000" channel="sx3" stop="20260903172741 +0000">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Espies en solitari</sub-title>
+    <desc lang="ca">La notícia d'en Jerry ha caigut com un gerro d'aigua freda: a partir d'ara les Espies ja no treballaran en equip, sinó que ho faran en solitari. La primera missió serà investigar la desaparició de tot d'agents de la WHOOP arreu del món. Ho faran per separat i totes tres també acabaran segrestades a mans de la Col·leccionista, una fanàtica de tot el que té a veure amb l'espionatge!</desc>
+    <length units="minutes">00:20:40</length>
   </programme>
-  <programme start="20260903130000 +0000" channel="esport3" stop="20260903140032 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3232</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:00:32</length>
+  <programme start="20260903172741 +0000" channel="sx3" stop="20260903174937 +0000">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Un superviatge a Versalles (1a part)</sub-title>
+    <desc lang="ca">La classe de les Espies van presentar un treball en un concurs internacional de disseny i han guanyat un viatge a França amb totes les despeses pagades. L'objectiu principal serà anar a Versalles per assistir a un acte importantíssim del món de la moda on s'exposaran els vestits de Maria Antonieta, però aviat començaran els entrebancs i apareixerà una clau misteriosa.</desc>
+    <length units="minutes">00:21:56</length>
   </programme>
-  <programme start="20260903121017 +0000" channel="sx3" stop="20260903122150 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">159</sub-title>
-    <desc lang="ca">La misteriosa reina de trèvols desafia els Ghost Rockers a jugar a un joc. Tenen vint-i-quatre hores per trobar una cosa; si no, desapareixerà un peó del tauler de joc. La Charlie es pensa que la reina li ha assignat el peó a ella. D'entrada, la Mila no vol deixar-se intimidar, però li ha semblat que la vigilava algú. I també rep una carta amb un missatge que li confirma aquesta sospita.</desc>
-    <length units="minutes">00:11:33</length>
+  <programme start="20260903164830 +0000" channel="tv3" stop="20260903171440 +0000">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Pelegrins de l'aigua</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="minutes">00:26:10</length>
   </programme>
-  <programme start="20260903122150 +0000" channel="sx3" stop="20260903123351 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">160</sub-title>
-    <desc lang="ca">La Mila no està gaire motivada amb el treball per parelles i l'Alex tampoc, però per uns motius diferents. Per la seva banda, en Jonas continua buscant parella per a l'actuació. Mentrestant, cada un dels membres dels Ghost Rockers ha rebut una carta i una peça d'escacs de la misteriosa reina de trèvols. Per esbrinar de què va el joc, demanen ajuda als Free Birds.</desc>
-    <length units="minutes">00:12:01</length>
-  </programme>
-  <programme start="20260903120412 +0000" channel="tv3" stop="20260903123837 +0000">
-    <title lang="ca">Tot o res</title>
-    <sub-title lang="ca">24</sub-title>
-    <length units="minutes">00:34:25</length>
-  </programme>
-  <programme start="20260903123837 +0000" channel="tv3" stop="20260903133852 +0000">
-    <title lang="ca">Atrapa'm si pots - Especials</title>
-    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
-    <length units="minutes">01:00:15</length>
-  </programme>
-  <programme start="20260903090000 +0000" channel="tv3" stop="20260903145955 +0000">
-    <title lang="ca">Sánchez compareix per la crisi de Ceuta</title>
-    <sub-title lang="ca">4094</sub-title>
-    <length units="minutes">05:59:55</length>
-  </programme>
-  <programme start="20260903112500 +0000" channel="tv3" stop="20260903115955 +0000">
-    <title lang="ca">Ustec parla després de reunir-se amb la consellera per la vaga a l'inici de curs</title>
-    <sub-title lang="ca">4095</sub-title>
-    <length units="minutes">00:29:55</length>
+  <programme start="20260903171440 +0000" channel="tv3" stop="20260903174047 +0000">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">L'empremta volcànica</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="minutes">00:26:07</length>
   </programme>
 </tv>
