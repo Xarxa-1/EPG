@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -15,63 +15,64 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260902220257 +0000" channel="tvi" stop="20260902224042 +0000">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Ruta  koala</sub-title>
-    <desc lang="ca">El Toni és nomenat jurat d'un concurs de redaccions escolars patrocinat per la popular beguda refrescant Koala Kola. Ell està profundament emocionat per la responsabilitat que això suposa, però el que no s'imagina són les pressions que rebrà des del primer moment per tal d'influir en la seva decisió a l'hora de triar l'alumne guanyador.</desc>
-    <length units="minutes">00:37:45</length>
-  </programme>
-  <programme start="20260902224042 +0000" channel="tvi" stop="20260902231619 +0000">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Hem mort el llop</sub-title>
-    <desc lang="ca">Com cada Festa Major, el Toni, la Rosa, el Poppins, la Joana, el Calafell i la Maria participen en la representació de Terra Baixa que es fa a Horta. La Rosa és la directora, però aquest any hi ha una sorpresa, el director serà el LLuis Pasqual. La seva arribada provoca tants canvis en el repartiment i la forma d'assajar, que s'haurà d'afrontar a una revolta comandada per la pròpia Rosa.</desc>
-    <length units="minutes">00:35:37</length>
-  </programme>
-  <programme start="20260902210000 +0000" channel="324" stop="20260902230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7315</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260902230000 +0000" channel="324" stop="20260903003000 +0000">
+  <programme start="20260903013339 +0000" channel="tvi" stop="20260903043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11069</sub-title>
+    <sub-title lang="ca">11070</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">02:56:21</length>
   </programme>
-  <programme start="20260902202000 +0000" channel="esport3" stop="20260902222921 +0000">
+  <programme start="20260903043000 +0000" channel="tvi" stop="20260903051526 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Gemini</sub-title>
+    <desc lang="ca">Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.</desc>
+    <length units="minutes">00:45:26</length>
+  </programme>
+  <programme start="20260903010000 +0000" channel="324" stop="20260903060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11070</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260903060000 +0000" channel="324" stop="20260903070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11070</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260903024055 +0000" channel="esport3" stop="20260903043409 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Barça Atlètic-CE Sabadell / Copa Catalunya / Final</sub-title>
     <desc lang="ca">Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.</desc>
-    <length units="minutes">02:09:21</length>
+    <length units="minutes">01:53:14</length>
   </programme>
-  <programme start="20260902222921 +0000" channel="esport3" stop="20260902230000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Tancament del mercat de fitxatges i tertúlia</sub-title>
-    <desc lang="ca">Ja s'ha tancat el mercat de fitxatges d'estiu. Julián Álvarez s'ha quedat a l'Atlètic de Madrid. Marc Casadó ha marxat cedit al Dépor i l'Espanyol ha incorporat Gorosabel. En parlem amb Laura Brugués i Juli García. Avui, Sabadell-Barça Atlètic, la final de la Copa Catalunya, per Esport3 (20.30). A la tertúlia ens acompanyen Arancha Rodríguez, Màrius Carol i Dani Senabre.</desc>
-    <length units="minutes">00:30:39</length>
+  <programme start="20260903043409 +0000" channel="esport3" stop="20260903061659 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Barça tanca el mercat</sub-title>
+    <desc lang="ca">Analitzem la feina de Deco al mercat d'estiu amb Gerard Autet i Gemma Mallorca. Amb Ramon Salmurri i Laia Tudel, expliquem els últims moviments i amb la 'Caçatalents', Andrea Orts, analitzem els moviments més destacats del mercat global. També entrevistem la primera capitana del Barça femení, Patri Guijarro.</desc>
+    <length units="minutes">01:42:50</length>
   </programme>
-  <programme start="20260902220340 +0000" channel="sx3" stop="20260902222616 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas del robatori de 10 milions de iens de l'organització dels homes de negre</sub-title>
-    <desc lang="ca">En Conan presencia l'atracament a un furgó blindat a l'exterior d'un banc. Dos atracadors neutralitzen dos vigilants, n'amenacen un altre i fugen en cotxe amb un gran botí. La policia troba el vehicle abandonat: a dins hi ha un passamuntanyes tacat de pintallavis rosa. Aquella nit, un dels atracadors i el vigilant que els ha obert el furgó són assassinats. La principal sospitosa és una treballadora del banc. En Conan ho dubta.</desc>
-    <length units="minutes">00:22:36</length>
+  <programme start="20260903034319 +0000" channel="sx3" stop="20260903040512 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Emoció</sub-title>
+    <desc lang="ca">L'Adrien ha d'assistir al Ball de Diamants que organitzen el seu pare i la senyora Tsurugi. Serà el Rei del Ball i farà parella amb la Kagami, que ha estat escollida per ser la reina d'aquest any. Ni l'Adrien ni la Kagami hi volen anar, però es veuen obligats a respectar la voluntat dels pares. Quan la Marinette descobreix que l'Adrien no s'ha atrevit a dir-li res del ball, decideix anar-hi, també. Però com podrà entrar en una festa privada on sembla que no l'hi volen?</desc>
+    <length units="minutes">00:21:53</length>
   </programme>
-  <programme start="20260902222616 +0000" channel="sx3" stop="20260902224553 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El número del ventríloc (1a part)</sub-title>
-    <desc lang="ca">En Riichi Tengan, un famós ventríloc, demana ajuda a en Kogoro perquè creu que pateix un trastorn de personalitat múltiple que el pot empènyer a matar la seva dona, la Kazuko. El ventríloc està convençut que el seu ninot l'ha posseït i no para d'animar-lo a assassinar la Kazuko, després que aquesta i en Haruomi Togawa, representant i alumne d'en Riichi, hagin mantingut una relació il·lícita. Finalment, quan la Kazuko apareix assassinada a casa seva, el mateix Riichi se'n declara culpable, però el descobriment de certes pistes assenyala com a responsable en Haruomi.</desc>
-    <length units="minutes">00:19:37</length>
+  <programme start="20260903040512 +0000" channel="sx3" stop="20260903042720 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Pretensió</sub-title>
+    <desc lang="ca">Convençuda que el Gabriel la tracta amb fredor per culpa d'un malentès, la Marinette decideix anar a parlar cara a cara amb el pare del noi de qui està enamorada. I el seu extraordinari coratge inspira la seva amiga Kagami. A ella també li agradaria sincerar-se amb la seva mare, que sempre li dona ordres. Però la conversa s'interromp quan un desconegut segresta la Kagami. Qui és aquest segrestador misteriós? Aconseguiran Ladybug i el Gat Noir salvar la Kagami? I la Marinette i l'Adrien, es podran estimar mai lliurement?</desc>
+    <length units="minutes">00:22:08</length>
   </programme>
-  <programme start="20260902215922 +0000" channel="tv3" stop="20260902225121 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El tallagespa</sub-title>
-    <desc lang="ca">El tallagespa és un objecte com Déu mana, però, compte, no sigueu gamarussos, que més d'un ha perdut els dits intentant desencallar la gespa compactada de sota la màquina. Abans de manipular-lo, assegureu-vos que estigui parat, que ara en fan de molt silenciosos! També parlem amb l'Ernest Villegas, un tros d'actor amb una veu de tro que fot goig de sentir. Per acabar, gafem una gossa anomenada Taga i ens tanquem a la presó de la Model, la que ja està tancada, i amb raó, perquè allò era un cau de merda.</desc>
-    <length units="minutes">00:51:59</length>
+  <programme start="20260903033621 +0000" channel="tv3" stop="20260903041308 +0000">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">Pare Trias</sub-title>
+    <desc lang="ca">Al port de Blanes, en Quim Casellas salparà amb en Lluís Trias, patró i armador del Pare Trias, que convidarà al presentador i xef a viure l'experiència de pescar sonsos i conèixer l'art de la sonsera. Coneixerà en 'Viñas, el dels nusos', un pescador jubilat que ha dedicat tota la seva vida a la pesca. També descobrirà la tasca de l'espai gastronòmic El Grenyal de Blanes, on aprofitarà per cuinar una truita de sonsos amb romesco suau.</desc>
+    <length units="minutes">00:36:47</length>
   </programme>
-  <programme start="20260902225121 +0000" channel="tv3" stop="20260903012104 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">El pacient anglès</sub-title>
-    <desc lang="ca">EL PACIENT ANGLÈS (The English patient)Al final de la Segona Guerra Mundial, a les ruïnes d'una vil·la de la Toscana, es reuneixen quatre personatges. Un home amb el cos cremat i un passat enigmàtic, una infermera que s'ocupa del pacient, un supervivent cínic i amic del pare de la noia, i un sapador sikh, especialista a desactivar explosius. A través d'una sèrie de records es revelarà una història d'amor i gelosia.Idioma versió original: anglèsProducció: Saul Zaentz per a Miramax International, 1996 (Estats Units)Direcció: Anthony MinghellaDurada: 154 minutsGuió: Anthony Minghella, basat en la novel·la de Michael OndaatjeFotografia: John Seale (color)Música: Gabriel YaredIntèrprets: Ralph Fiennes (Almásy), Juliette Binoche (Hana), Kristin Scott-Thomas (Katharine Clifton), Willem Dafoe (Caravaggio), Naveen Andrews (Kip), Colin Firth (Geoffrey Clifton)</desc>
-    <length units="minutes">02:29:43</length>
+  <programme start="20260903041308 +0000" channel="tv3" stop="20260903045308 +0000">
+    <title lang="ca">Això no és Suècia</title>
+    <sub-title lang="ca">La família</sub-title>
+    <desc lang="ca">Trasbalsada després de visitar per primer cop la casa de l'Annika, la Mariana s'endú la seva família al poble on va créixer, per visitar la seva mare. El viatge remou records d'una infància traumàtica, i li fa plantejar-se decisions dràstiques.</desc>
+    <length units="minutes">00:40:00</length>
   </programme>
 </tv>
