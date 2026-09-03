@@ -3,76 +3,75 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260903170312 +0000" channel="tvi" stop="20260903174057 +0000">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">123</sub-title>
-    <desc lang="ca">La Lídia està decidida a aturar la Sònia i demana ajuda al seu pare. En Sergi paga el mal humor de la Maribel i reacciona desproporcionadament. L'Ignasi parla amb en Mauri i descobrirem que hi ha un passat fosc que comparteixen d'alguna manera. I en Lluís té unes enormes ganes de venjar-se de qui el va enganyar, però serà complicat.</desc>
-    <length units="minutes">00:37:45</length>
+  <programme start="20260903220655 +0000" channel="tvi" stop="20260903223511 +0000">
+    <title lang="ca">Vinagreta</title>
+    <sub-title lang="ca">Atrinxerats a Llavaneres</sub-title>
+    <desc lang="ca">El 'pijo' s'atrinxera a Llavaneres amb el gos de l'Úrsula com a ostatge. El Morales, lesionat, acaba amb la paciència de la Rosalia. L'ayahuasca enterboleix la reunió a l'escola Montessori.</desc>
+    <length units="minutes">00:28:16</length>
   </programme>
-  <programme start="20260903174057 +0000" channel="tvi" stop="20260903183107 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Moha Amazian, Festival Grec, 'Whatchmen', còmic europeu,  Dan Peralbo i El Comboi</sub-title>
-    <desc lang="ca">Andrea Gumes entrevista l'actor vigatà Moha Amazian, que compatibilitza l'èxit sobre els escenaris i a la televisió amb un doctorat en química. Celebrem els 50 anys del Festival Grec amb la seva directora, Leticia Martín Ruiz, que ens ajuda a triar entre una programació extensíssima. Reivindiquem un dels còmics més influents de tots el temps, 'Whatchmen', d'Alan Moore y Dave Gibbons, mentre que Jacint Casademont repassa el bo i millor del còmic europeu contemporani. Acabem amb el directe del quartet de Torelló Dan Peralbo i El Comboi.</desc>
-    <length units="minutes">00:50:10</length>
+  <programme start="20260903223511 +0000" channel="tvi" stop="20260903231426 +0000">
+    <title lang="ca">Vinagreta</title>
+    <sub-title lang="ca">Follia final (qui corre es crema)</sub-title>
+    <desc lang="ca">La Yeni i l'Eli atenen uns clients molt famosos. El culebrot dels 'pijos' acaba en tragèdia. En Marçal lliura el Gaudí d'Honor a un actor molt perdut. Els vells de Cadaqués han de decidir el seu destí final.</desc>
+    <length units="minutes">00:39:15</length>
   </programme>
-  <programme start="20260903170000 +0000" channel="324" stop="20260903183000 +0000">
+  <programme start="20260903210000 +0000" channel="324" stop="20260903230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7316</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260903230000 +0000" channel="324" stop="20260904003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11075</sub-title>
+    <sub-title lang="ca">11078</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260903183000 +0000" channel="324" stop="20260903200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11076</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260903202500 +0000" channel="esport3" stop="20260903222649 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Kids&amp;Us Manresa / Torneig Sant Julià</sub-title>
+    <desc lang="ca">Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
+    <length units="minutes">02:01:49</length>
   </programme>
-  <programme start="20260903165845 +0000" channel="esport3" stop="20260903172432 +0000">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Horitzons esteparis</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="minutes">00:25:47</length>
+  <programme start="20260903222649 +0000" channel="esport3" stop="20260903230000 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà</sub-title>
+    <desc lang="ca">L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.</desc>
+    <length units="minutes">00:33:11</length>
   </programme>
-  <programme start="20260903172432 +0000" channel="esport3" stop="20260903173503 +0000">
-    <title lang="ca">Zona UFEC</title>
-    <sub-title lang="ca">703</sub-title>
-    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
-    <length units="minutes">00:10:31</length>
+  <programme start="20260903220141 +0000" channel="sx3" stop="20260903222257 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">L'hostal del Kamaitachi (2a part)</sub-title>
+    <desc lang="ca">El kamaitachi que els havia fet uns talls a la pell a en Heiji, en Kogoro i la periodista, sembla que també ha assassinat l'avi de l'hostal amb la dalla que hi havia al magatzem. Per arribar on era la víctima abans que en Conan i els altres, ha hagut de córrer per sobre de l'aigua d'una bassa i es diu que els kamaitachis són capaços de fer-ho. Però en Conan i en Heiji no s'ho empassen.</desc>
+    <length units="minutes">00:21:16</length>
   </programme>
-  <programme start="20260903170701 +0000" channel="sx3" stop="20260903172741 +0000">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Espies en solitari</sub-title>
-    <desc lang="ca">La notícia d'en Jerry ha caigut com un gerro d'aigua freda: a partir d'ara les Espies ja no treballaran en equip, sinó que ho faran en solitari. La primera missió serà investigar la desaparició de tot d'agents de la WHOOP arreu del món. Ho faran per separat i totes tres també acabaran segrestades a mans de la Col·leccionista, una fanàtica de tot el que té a veure amb l'espionatge!</desc>
-    <length units="minutes">00:20:40</length>
+  <programme start="20260903222257 +0000" channel="sx3" stop="20260903224233 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La foscor de la policia de la prefectura (1a part)</sub-title>
+    <desc lang="ca">La Ran, en Kogoro i en Conan han viatjat a Nagano i, un cop allà, en Conan creu que ha descobert la identitat d'en Rom, perquè l'inspector Yamato coincideix amb la descripció que n'hi va fer l'Ai. Mentre visiten el lloc històric on va tenir lloc la batalla de Kawanakajima descobreixen el cap decapitat d'una persona morta, un inspector de la policia, en Shigeru Takeda, un home per qui l'inspector Yamato sentia un gran ressentiment.</desc>
+    <length units="minutes">00:19:36</length>
   </programme>
-  <programme start="20260903172741 +0000" channel="sx3" stop="20260903174937 +0000">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Un superviatge a Versalles (1a part)</sub-title>
-    <desc lang="ca">La classe de les Espies van presentar un treball en un concurs internacional de disseny i han guanyat un viatge a França amb totes les despeses pagades. L'objectiu principal serà anar a Versalles per assistir a un acte importantíssim del món de la moda on s'exposaran els vestits de Maria Antonieta, però aviat començaran els entrebancs i apareixerà una clau misteriosa.</desc>
-    <length units="minutes">00:21:56</length>
+  <programme start="20260903215918 +0000" channel="tv3" stop="20260903224919 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El pinzell</sub-title>
+    <desc lang="ca">El pinzell: de traç fi o de pintor de parets? Un objecte que tant es pot servir per fer una obra d'art com per pintar aquelles línies vermelles del garatge. Ei, que fer-les rectes deu tenir el seu mèrit! Un altre ofici de mèrit és el d'esquilador d'ovelles, una feina que s'està perdent. Per això parlem amb l'Andreu Castellà és un jove que ha treballat d'esquilador d'ovelles a Nova Zelanda! Finalment, passejarem un gosset ben bufó per un episodi ben vergonyós de la història: la farsa de l'home de Piltdown.</desc>
+    <length units="minutes">00:50:01</length>
   </programme>
-  <programme start="20260903164830 +0000" channel="tv3" stop="20260903171440 +0000">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Pelegrins de l'aigua</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="minutes">00:26:10</length>
-  </programme>
-  <programme start="20260903171440 +0000" channel="tv3" stop="20260903174047 +0000">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">L'empremta volcànica</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="minutes">00:26:07</length>
+  <programme start="20260903224919 +0000" channel="tv3" stop="20260903234746 +0000">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Volcà</sub-title>
+    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
+    <length units="minutes">00:58:27</length>
   </programme>
 </tv>
