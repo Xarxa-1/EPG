@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -12,66 +15,64 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20260904120000 +0000" channel="tvi" stop="20260904125845 +0000">
+  <programme start="20260904170324 +0000" channel="tvi" stop="20260904172646 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Quan la vida travessa el circ.</sub-title>
+    <desc lang="ca">Com la vida canvia o afecta les circumstàncies en què treballen els artistes de circ? Com afecta el pas dels anys als veterans Bet Miralta i Jordi Aspa (Escarlata), com la maternitat va condicionar les finlandeses Lotta &amp; Stina o com el compromís polític ha afectat el jove Alexandre Duran? Tots ells han estat protagonistes de la Fira Trapezi de Reus, que enguany ha bufat 30 espelmes. En el cas d'Alexandre Duran, anar a una manifestació en favor de Palestina li va costar una agressió policial amb el resultat d'un braç trencat i l'impediment d'estrenar el seu primer muntatge en solitari quan ho tenia previst. 'Ínsula', que parla de la solitud de l'ésser humà, s'ha estrenat al Trapezi de Reus i es podrà veure també al Festival Grec.Bet Miralta i Jordi Aspa, els Escarlata, també han viscut molts canvis en la seva vida que han afectat la forma en què fan circ. Amb el pas dels anys han deixat de banda la doma d'animals i les acrobàcies i han passat a fer creacions on interactuen més amb el públic i on destaca per damunt de tot la relació humana. El seu últim espectacle, 'Ròdols i cigrons', també ha passat pel Trapezi.Lotta Paavilainen i Stina Kopra són dues artistes de circ finlandeses que viuen a Catalunya des del 2012 i són l'única parella femenina del món especialitzada en rola-bola (l'equilibri damunt d'una fusta que es belluga sobre un rodet de goma). En el seu espectacle '20 Years Later. Still Here!' repassen dues dècades d'amistat i treball juntes i tota una sèrie de circumstàncies que les han fet més fortes. L'espectacle és una autoficció en què expliquen detalls tan personals com l'embaràs de la Lotta i com va afectar aquesta circumstància els equilibris que implica la seva especialitat de circ.</desc>
+    <length units="minutes">00:23:22</length>
+  </programme>
+  <programme start="20260904172646 +0000" channel="tvi" stop="20260904173349 +0000">
+    <title lang="ca">Els últims artesans</title>
+    <sub-title lang="ca">Salvador Feliu - Mestre d'aixa</sub-title>
+    <desc lang="ca">Des de 1853 la família d'en Salvador es dedica a construir barques de fusta. En Salvador va començar a fer de mestre d'aixa als quinze anys, a l'Escala. Però l'ofici actualment s'està perdent a causa de les embarcacions de fibra de vidre i del retrocés de la pesca.</desc>
+    <length units="minutes">00:07:03</length>
+  </programme>
+  <programme start="20260904170000 +0000" channel="324" stop="20260904183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11082</sub-title>
+    <sub-title lang="ca">11084</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:58:45</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260904125845 +0000" channel="tvi" stop="20260904131942 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Pasta amb mini mandonguilles</sub-title>
-    <desc lang="ca">El 'Cuines' torna amb el rebost ple de receptes. Una temporada més, el programa obre fogons i esmola ganivets per compartir amb tota l'audiència les propostes d'en Marc Ribas i la Gessamí Caramés... i aquest any, també, de l'Arnau París. La família del 'Cuines' s'ha amplicat i el seu ventall de receptes, també. A la cuina amb rock'n'roll d'en Marc, i a la cuina dolça de la Gessa… s'hi afegeix la cuina pim-pam de l'Arnau. Un pim-pam que vol donar idees per a quan es té poc temps però es vol menjar bé. Això sí, tots tres tenen en comú les ganes de cuinar, d'entretenir i d'explicar tots els seus secrets a l'hora de preparar les elaboracions. Al 'Cuines' hi trobarem de tot: receptes de xup-xup, receptes pim-pam, receptes atrevides, clàssics tradicionals, clàssics reversionats… i tot elaborat, com sempre, amb productes de temporada. Ens mourem pel territori per posar en valor la figura d'agricultors, ramaders i productors. I ensenyarem d'on venen alguns productes sense els quals la cuina no seria possible.  El programa seguirà compartint-ho tot a les xarxes socials: Twitter, Facebook i Instagram. I la música que hi sona? Doncs a Spotify. I cada dia s'amplia receptari a la pàgina web del 'Cuines'. Totes les receptes, a cop de clic.</desc>
-    <length units="minutes">00:20:57</length>
-  </programme>
-  <programme start="20260904120000 +0000" channel="324" stop="20260904140000 +0000">
+  <programme start="20260904183000 +0000" channel="324" stop="20260904200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11082</sub-title>
+    <sub-title lang="ca">11085</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260904140000 +0000" channel="324" stop="20260904143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7028</sub-title>
-    <length units="minutes">00:30:00</length>
+  <programme start="20260904170501 +0000" channel="esport3" stop="20260904173017 +0000">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">La selva humida</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="minutes">00:25:16</length>
   </programme>
-  <programme start="20260904123010 +0000" channel="esport3" stop="20260904132025 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Sorteig fase lliga</sub-title>
-    <desc lang="ca">El Barça, campió vigent i guanyador de quatre títols en les sis últimes temporades, coneix les rivals d'aquest nou curs a la gran competició europea femenina de futbol.</desc>
-    <length units="minutes">00:50:15</length>
+  <programme start="20260904173017 +0000" channel="esport3" stop="20260904174000 +0000">
+    <title lang="ca">Capacitats</title>
+    <sub-title lang="ca">Pepi Benítez, amb el rumb clar</sub-title>
+    <desc lang="ca">Pepi Benítez és invident. Amb una energia i una positivitat que s'encomanen, ha participat en quatre Jocs Paralímpics, els dos primers en ciclisme i els dos últims en rem. I als seus 57 anys, no descarta el repte de participar a Los Angeles 2028.</desc>
+    <length units="minutes">00:09:43</length>
   </programme>
-  <programme start="20260904132025 +0000" channel="esport3" stop="20260904142637 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3233</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:06:12</length>
+  <programme start="20260904170429 +0000" channel="sx3" stop="20260904172509 +0000">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Viatge al futur</sub-title>
+    <desc lang="ca">Una 'petita' confusió amb la nova màquina del temps d'en Jerry ha portat les espies cap al futur. Saber la moda que hi haurà d'aquí vint-i-cinc anys no té preu! Aviat, però, s'adonen que la Mandy controla tots els mitjans de comunicació i que les té totes tres empresonades. A més, l'únic que les pot ajudar, en Jerry, s'ha fet congelar!</desc>
+    <length units="minutes">00:20:40</length>
   </programme>
-  <programme start="20260904115834 +0000" channel="sx3" stop="20260904121045 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">161</sub-title>
-    <desc lang="ca">En Brandon ha de tenir cura del seu nebot Samuel. La Mila vol acompanyar-los al parc, però abans ha de parlar amb la colla sobre la misteriosa reina de trèvols, que els ha amenaçat: si no segueixen les seves ordres, passarà alguna cosa dolenta. D'altra banda, l'Alex té dubtes i no està gens convençut d'haver triat bé l'itinerari; ni tan sols en Jules aconsegueix animar-lo.</desc>
-    <length units="minutes">00:12:11</length>
+  <programme start="20260904172509 +0000" channel="sx3" stop="20260904174657 +0000">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">No suporto els anys vuitanta!</sub-title>
+    <desc lang="ca">En Boogie Gus, ara un dels components de la LAMOS, ha decidit convertir tot Beverly Hills en un paradís dels vuitanta amb el seu últim enginy diabòlic. El retro torna a estar de moda! Fins i tot en Jerry va vestit dels anys vuitanta! La Sam, la Clover i l'Àlex han d'aturar en Gus abans que la moda retro envaeixi tot el seu entorn! És insuportable!</desc>
+    <length units="minutes">00:21:48</length>
   </programme>
-  <programme start="20260904121045 +0000" channel="sx3" stop="20260904121948 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">162</sub-title>
-    <desc lang="ca">La Mila té un mal pressentiment: creu que la misteriosa reina de trèvols ha segrestat el nebot d'en Brandon. Quan arriben al parc per buscar-hi en Samuel, la Mila vol avisar la policia, però en Jonas li recorda que a les cartes hi diu precisament que no en parlin amb ningú. En una nova carta del joc, els Ghost Rockers hi troben una pista que els porta fins a un arxiu bibliogràfic.</desc>
-    <length units="minutes">00:09:03</length>
+  <programme start="20260904164648 +0000" channel="tv3" stop="20260904172114 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Passat, present i futur</sub-title>
+    <desc lang="ca">El darrer capítol d''Arxipèlag blau' està dedicat als canvis que ha patit la nostra mar i a plantejar propostes per aturar la seva degradació, conservar les seves espècies i hàbitats. Miquel Salamanca ens presentarà el testimoni de pescadors que varen conèixer espècies avui desaparegudes, científics i experts que han estudiat els impactes al medi marí i plantegen propostes de recuperació. Enric Ballesteros, Xisco Riera, Lluís Cardona, Xisco Avellà, Miguel Ángel Mateo i Marta Sales ens parlaran de la desaparició dels taurons a les nostres aigües, dels impactes de l'activitat pesquera, la desaparició dels hàbitats d'aigües somes, l'extinció del vell marí, la introducció d'espècies invasores, l'alteració dels ecosistemes i l'amenaça global que suposa el canvi climàtic. Tot això amb una crida a l'esperança i la responsabilitat per aplicar mesures de conservació a la mar, les seves espècies i hàbitats i poder deixar així a les següents generacions el meravellós món marí del qual nosaltres hem pogut gaudir. La seva salut depèn de nosaltres i del que fem a partir d'ara.</desc>
+    <length units="minutes">00:34:26</length>
   </programme>
-  <programme start="20260904111407 +0000" channel="tv3" stop="20260904120130 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Gran germà</sub-title>
-    <desc lang="ca">L'aeroport és una gran ciutat on milers de persones treballen en paral·lel perquè tot vagi a l'hora. Aquest gran engranatge necessita molts ulls per orquestrar-lo. Hi ha milers de càmeres de vigilància que vetllen per la seguretat i pel bon funcionament de cada racó de l'aeroport. És el CGA, el centre de gestió aeroportuària des d'on es coordina tot.</desc>
-    <length units="minutes">00:47:23</length>
-  </programme>
-  <programme start="20260904120130 +0000" channel="tv3" stop="20260904123500 +0000">
-    <title lang="ca">Tot o res</title>
-    <sub-title lang="ca">25</sub-title>
-    <desc lang="ca">'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
-    <length units="minutes">00:33:30</length>
+  <programme start="20260904172114 +0000" channel="tv3" stop="20260904181029 +0000">
+    <title lang="ca">Terreny personal</title>
+    <sub-title lang="ca">Cerdanya</sub-title>
+    <desc lang="ca">Aquest capítol ens descobreix una de les valls més amples i assolellades de tot Europa: Cerdanya. Entre Meranges i el Coll de la Perxa i de Martinet a la Molina hi ha aquest terreny envoltat de muntanyes on la natura domina el paisatge. Coneixerem aquest territori de la mà de quatre protagonistes que hi viuen i se l'estimen. Albert Pons va estudiar econòmiques, va treballar a la banca i durant un breu període de temps va dirigir un camp de golf. Fins que, un dia, va deixar enrere la vida d'economista per fer realitat el seu somni: fer vi i formatge a Cerdanya. Octavi Galceran va néixer a Sant Cugat del Vallès, però la seva família era de Cerdanya. La neu és la seva passió. I l'esquí de muntanya, una afició que comparteix amb tota la família. Fa uns quants anys va demanar un trasllat a la feina que li permetés anar a viure a Cerdanya, tornar a començar i retrobar les seves arrels. Roser Bombardó és conscient que va contra corrent, però ella es resisteix a marxar del poble on ha viscut tota la vida i des d'on ara ha impulsat la seva pròpia empresa: una consultoria forestal. Pierre Campmajo és descendent de cerdans. Ell, però, va néixer a Perpinyà. Quan es va jubilar, es va instal·lar definitivament a Cerdanya i en aquest territori ha pogut centrar-se en una de les seves passions: l'arqueologia. Aquest capítol també compta amb les aportacions dels nens de l'Escola Alfons I, de Puigcerdà; amb la cantant Beth, que interpreta un tema propi a la Molina, i amb l'escriptor Rafael Vallbona, que ens llegeix un fragment de la seva obra a Puigcerdà.</desc>
+    <length units="minutes">00:49:15</length>
   </programme>
 </tv>
