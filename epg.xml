@@ -1,77 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260903220655 +0000" channel="tvi" stop="20260903223511 +0000">
-    <title lang="ca">Vinagreta</title>
-    <sub-title lang="ca">Atrinxerats a Llavaneres</sub-title>
-    <desc lang="ca">El 'pijo' s'atrinxera a Llavaneres amb el gos de l'Úrsula com a ostatge. El Morales, lesionat, acaba amb la paciència de la Rosalia. L'ayahuasca enterboleix la reunió a l'escola Montessori.</desc>
-    <length units="minutes">00:28:16</length>
-  </programme>
-  <programme start="20260903223511 +0000" channel="tvi" stop="20260903231426 +0000">
-    <title lang="ca">Vinagreta</title>
-    <sub-title lang="ca">Follia final (qui corre es crema)</sub-title>
-    <desc lang="ca">La Yeni i l'Eli atenen uns clients molt famosos. El culebrot dels 'pijos' acaba en tragèdia. En Marçal lliura el Gaudí d'Honor a un actor molt perdut. Els vells de Cadaqués han de decidir el seu destí final.</desc>
-    <length units="minutes">00:39:15</length>
-  </programme>
-  <programme start="20260903210000 +0000" channel="324" stop="20260903230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7316</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260903230000 +0000" channel="324" stop="20260904003000 +0000">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260904011336 +0000" channel="tvi" stop="20260904043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11078</sub-title>
+    <sub-title lang="ca">11079</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">03:16:24</length>
   </programme>
-  <programme start="20260903202500 +0000" channel="esport3" stop="20260903222649 +0000">
+  <programme start="20260904043000 +0000" channel="tvi" stop="20260904051447 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Edu Tancredi Sextet</sub-title>
+    <desc lang="ca">Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
+    <length units="minutes">00:44:47</length>
+  </programme>
+  <programme start="20260904010000 +0000" channel="324" stop="20260904060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11079</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260904060000 +0000" channel="324" stop="20260904070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11079</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260904023513 +0000" channel="esport3" stop="20260904042520 +0000">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Asisa Joventut-Kids&amp;Us Manresa / Torneig Sant Julià</sub-title>
     <desc lang="ca">Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="minutes">02:01:49</length>
+    <length units="minutes">01:50:07</length>
   </programme>
-  <programme start="20260903222649 +0000" channel="esport3" stop="20260903230000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà</sub-title>
-    <desc lang="ca">L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.</desc>
-    <length units="minutes">00:33:11</length>
+  <programme start="20260904042520 +0000" channel="esport3" stop="20260904055308 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Xavi Espart, titular?</sub-title>
+    <desc lang="ca">Analitzem el rol que pot tenir Xavi Espart en l'equip de Flick amb Santi Giménez, Mireia Vera i Jordi Grau. Amb Laia Tudel expliquem el perfil del jugador, Ramon Salmurri ens porta l'última hora de la junta del Barça i sentim Lautaro i Lewandowski. També truquem a Jean Marie Dongou. Passem per Madrid, amb David Sánchez, per analitzar les paraules de Mourinho en roda de premsa.</desc>
+    <length units="minutes">01:27:48</length>
   </programme>
-  <programme start="20260903220141 +0000" channel="sx3" stop="20260903222257 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L'hostal del Kamaitachi (2a part)</sub-title>
-    <desc lang="ca">El kamaitachi que els havia fet uns talls a la pell a en Heiji, en Kogoro i la periodista, sembla que també ha assassinat l'avi de l'hostal amb la dalla que hi havia al magatzem. Per arribar on era la víctima abans que en Conan i els altres, ha hagut de córrer per sobre de l'aigua d'una bassa i es diu que els kamaitachis són capaços de fer-ho. Però en Conan i en Heiji no s'ho empassen.</desc>
-    <length units="minutes">00:21:16</length>
+  <programme start="20260904034145 +0000" channel="sx3" stop="20260904040347 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Revolució</sub-title>
+    <desc lang="ca">La Chloé és més poderosa que mai i, gràcies a ella, el Monarca també. Ladybug i el Gat Noir exhibeixen els seus superpoders sense sospitar que acaben de caure en una trampa malvada. Pel que fa a la Marinette i l'Adrien, les seves vides estan a punt de canviar per sempre.</desc>
+    <length units="minutes">00:22:02</length>
   </programme>
-  <programme start="20260903222257 +0000" channel="sx3" stop="20260903224233 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La foscor de la policia de la prefectura (1a part)</sub-title>
-    <desc lang="ca">La Ran, en Kogoro i en Conan han viatjat a Nagano i, un cop allà, en Conan creu que ha descobert la identitat d'en Rom, perquè l'inspector Yamato coincideix amb la descripció que n'hi va fer l'Ai. Mentre visiten el lloc històric on va tenir lloc la batalla de Kawanakajima descobreixen el cap decapitat d'una persona morta, un inspector de la policia, en Shigeru Takeda, un home per qui l'inspector Yamato sentia un gran ressentiment.</desc>
-    <length units="minutes">00:19:36</length>
+  <programme start="20260904040347 +0000" channel="sx3" stop="20260904042516 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Representació</sub-title>
+    <desc lang="ca">Quan l'Adrien desobeeix el seu pare per anar a buscar la Marinette, el Gabriel s'akumatitza a si mateix per anar a buscar el seu fill. Mentrestant, la Marinette està convençuda que l'Adrien la busca. Pensant-se que persegueix el noi que estima, descobrirà un secret que no s'hauria pogut imaginar mai.</desc>
+    <length units="minutes">00:21:29</length>
   </programme>
-  <programme start="20260903215918 +0000" channel="tv3" stop="20260903224919 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El pinzell</sub-title>
-    <desc lang="ca">El pinzell: de traç fi o de pintor de parets? Un objecte que tant es pot servir per fer una obra d'art com per pintar aquelles línies vermelles del garatge. Ei, que fer-les rectes deu tenir el seu mèrit! Un altre ofici de mèrit és el d'esquilador d'ovelles, una feina que s'està perdent. Per això parlem amb l'Andreu Castellà és un jove que ha treballat d'esquilador d'ovelles a Nova Zelanda! Finalment, passejarem un gosset ben bufó per un episodi ben vergonyós de la història: la farsa de l'home de Piltdown.</desc>
-    <length units="minutes">00:50:01</length>
+  <programme start="20260904032616 +0000" channel="tv3" stop="20260904040520 +0000">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">Cala Galladera II</sub-title>
+    <desc lang="ca">La nansa és una tècnica de pesca artesanal, selectiva i molt sostenible, que s'utilitza per capturar pops i altres espècies similars. En aquest capítol, en Quim Casellas aprendrà aquesta tècnica a bord de la Cala Galladera II, amb en Guillermo Cornejo, el patró major del Port de la Selva. També parlarà amb la biòloga Marina Biel per conèixer de primera mà les gorgònies. I acabarà cuinant una recepta que tindrà el pop com ingredient principal: pop a la brasa amb cremós de patata, xips d'all i pebre dolç.</desc>
+    <length units="minutes">00:39:04</length>
   </programme>
-  <programme start="20260903224919 +0000" channel="tv3" stop="20260903234746 +0000">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Volcà</sub-title>
-    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
-    <length units="minutes">00:58:27</length>
+  <programme start="20260904040520 +0000" channel="tv3" stop="20260904044354 +0000">
+    <title lang="ca">Això no és Suècia</title>
+    <sub-title lang="ca">Autoconeixement</sub-title>
+    <desc lang="ca">Ha arribat el moment de parlar del que està succeint a la parella, però en Samuel i la Mariana resolen els seus problemes en fals. La Mariana comet un acte inconfessable, mentre en Samuel intenta mitigar el seu propi sentiment de culpa. Desatesa pels seus pares, la Lia dona un ensurt a la família.</desc>
+    <length units="minutes">00:38:34</length>
   </programme>
 </tv>
