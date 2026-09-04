@@ -3,76 +3,75 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260904011336 +0000" channel="tvi" stop="20260904043000 +0000">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260904120000 +0000" channel="tvi" stop="20260904125845 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11079</sub-title>
+    <sub-title lang="ca">11082</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:16:24</length>
+    <length units="minutes">00:58:45</length>
   </programme>
-  <programme start="20260904043000 +0000" channel="tvi" stop="20260904051447 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Edu Tancredi Sextet</sub-title>
-    <desc lang="ca">Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
-    <length units="minutes">00:44:47</length>
+  <programme start="20260904125845 +0000" channel="tvi" stop="20260904131942 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Pasta amb mini mandonguilles</sub-title>
+    <desc lang="ca">El 'Cuines' torna amb el rebost ple de receptes. Una temporada més, el programa obre fogons i esmola ganivets per compartir amb tota l'audiència les propostes d'en Marc Ribas i la Gessamí Caramés... i aquest any, també, de l'Arnau París. La família del 'Cuines' s'ha amplicat i el seu ventall de receptes, també. A la cuina amb rock'n'roll d'en Marc, i a la cuina dolça de la Gessa… s'hi afegeix la cuina pim-pam de l'Arnau. Un pim-pam que vol donar idees per a quan es té poc temps però es vol menjar bé. Això sí, tots tres tenen en comú les ganes de cuinar, d'entretenir i d'explicar tots els seus secrets a l'hora de preparar les elaboracions. Al 'Cuines' hi trobarem de tot: receptes de xup-xup, receptes pim-pam, receptes atrevides, clàssics tradicionals, clàssics reversionats… i tot elaborat, com sempre, amb productes de temporada. Ens mourem pel territori per posar en valor la figura d'agricultors, ramaders i productors. I ensenyarem d'on venen alguns productes sense els quals la cuina no seria possible.  El programa seguirà compartint-ho tot a les xarxes socials: Twitter, Facebook i Instagram. I la música que hi sona? Doncs a Spotify. I cada dia s'amplia receptari a la pàgina web del 'Cuines'. Totes les receptes, a cop de clic.</desc>
+    <length units="minutes">00:20:57</length>
   </programme>
-  <programme start="20260904010000 +0000" channel="324" stop="20260904060000 +0000">
+  <programme start="20260904120000 +0000" channel="324" stop="20260904140000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11079</sub-title>
+    <sub-title lang="ca">11082</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260904060000 +0000" channel="324" stop="20260904070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11079</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260904140000 +0000" channel="324" stop="20260904143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7028</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260904023513 +0000" channel="esport3" stop="20260904042520 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Kids&amp;Us Manresa / Torneig Sant Julià</sub-title>
-    <desc lang="ca">Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="minutes">01:50:07</length>
+  <programme start="20260904123010 +0000" channel="esport3" stop="20260904132025 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Sorteig fase lliga</sub-title>
+    <desc lang="ca">El Barça, campió vigent i guanyador de quatre títols en les sis últimes temporades, coneix les rivals d'aquest nou curs a la gran competició europea femenina de futbol.</desc>
+    <length units="minutes">00:50:15</length>
   </programme>
-  <programme start="20260904042520 +0000" channel="esport3" stop="20260904055308 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Xavi Espart, titular?</sub-title>
-    <desc lang="ca">Analitzem el rol que pot tenir Xavi Espart en l'equip de Flick amb Santi Giménez, Mireia Vera i Jordi Grau. Amb Laia Tudel expliquem el perfil del jugador, Ramon Salmurri ens porta l'última hora de la junta del Barça i sentim Lautaro i Lewandowski. També truquem a Jean Marie Dongou. Passem per Madrid, amb David Sánchez, per analitzar les paraules de Mourinho en roda de premsa.</desc>
-    <length units="minutes">01:27:48</length>
+  <programme start="20260904132025 +0000" channel="esport3" stop="20260904142637 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3233</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:06:12</length>
   </programme>
-  <programme start="20260904034145 +0000" channel="sx3" stop="20260904040347 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Revolució</sub-title>
-    <desc lang="ca">La Chloé és més poderosa que mai i, gràcies a ella, el Monarca també. Ladybug i el Gat Noir exhibeixen els seus superpoders sense sospitar que acaben de caure en una trampa malvada. Pel que fa a la Marinette i l'Adrien, les seves vides estan a punt de canviar per sempre.</desc>
-    <length units="minutes">00:22:02</length>
+  <programme start="20260904115834 +0000" channel="sx3" stop="20260904121045 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">161</sub-title>
+    <desc lang="ca">En Brandon ha de tenir cura del seu nebot Samuel. La Mila vol acompanyar-los al parc, però abans ha de parlar amb la colla sobre la misteriosa reina de trèvols, que els ha amenaçat: si no segueixen les seves ordres, passarà alguna cosa dolenta. D'altra banda, l'Alex té dubtes i no està gens convençut d'haver triat bé l'itinerari; ni tan sols en Jules aconsegueix animar-lo.</desc>
+    <length units="minutes">00:12:11</length>
   </programme>
-  <programme start="20260904040347 +0000" channel="sx3" stop="20260904042516 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Representació</sub-title>
-    <desc lang="ca">Quan l'Adrien desobeeix el seu pare per anar a buscar la Marinette, el Gabriel s'akumatitza a si mateix per anar a buscar el seu fill. Mentrestant, la Marinette està convençuda que l'Adrien la busca. Pensant-se que persegueix el noi que estima, descobrirà un secret que no s'hauria pogut imaginar mai.</desc>
-    <length units="minutes">00:21:29</length>
+  <programme start="20260904121045 +0000" channel="sx3" stop="20260904121948 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">162</sub-title>
+    <desc lang="ca">La Mila té un mal pressentiment: creu que la misteriosa reina de trèvols ha segrestat el nebot d'en Brandon. Quan arriben al parc per buscar-hi en Samuel, la Mila vol avisar la policia, però en Jonas li recorda que a les cartes hi diu precisament que no en parlin amb ningú. En una nova carta del joc, els Ghost Rockers hi troben una pista que els porta fins a un arxiu bibliogràfic.</desc>
+    <length units="minutes">00:09:03</length>
   </programme>
-  <programme start="20260904032616 +0000" channel="tv3" stop="20260904040520 +0000">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">Cala Galladera II</sub-title>
-    <desc lang="ca">La nansa és una tècnica de pesca artesanal, selectiva i molt sostenible, que s'utilitza per capturar pops i altres espècies similars. En aquest capítol, en Quim Casellas aprendrà aquesta tècnica a bord de la Cala Galladera II, amb en Guillermo Cornejo, el patró major del Port de la Selva. També parlarà amb la biòloga Marina Biel per conèixer de primera mà les gorgònies. I acabarà cuinant una recepta que tindrà el pop com ingredient principal: pop a la brasa amb cremós de patata, xips d'all i pebre dolç.</desc>
-    <length units="minutes">00:39:04</length>
+  <programme start="20260904111407 +0000" channel="tv3" stop="20260904120130 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Gran germà</sub-title>
+    <desc lang="ca">L'aeroport és una gran ciutat on milers de persones treballen en paral·lel perquè tot vagi a l'hora. Aquest gran engranatge necessita molts ulls per orquestrar-lo. Hi ha milers de càmeres de vigilància que vetllen per la seguretat i pel bon funcionament de cada racó de l'aeroport. És el CGA, el centre de gestió aeroportuària des d'on es coordina tot.</desc>
+    <length units="minutes">00:47:23</length>
   </programme>
-  <programme start="20260904040520 +0000" channel="tv3" stop="20260904044354 +0000">
-    <title lang="ca">Això no és Suècia</title>
-    <sub-title lang="ca">Autoconeixement</sub-title>
-    <desc lang="ca">Ha arribat el moment de parlar del que està succeint a la parella, però en Samuel i la Mariana resolen els seus problemes en fals. La Mariana comet un acte inconfessable, mentre en Samuel intenta mitigar el seu propi sentiment de culpa. Desatesa pels seus pares, la Lia dona un ensurt a la família.</desc>
-    <length units="minutes">00:38:34</length>
+  <programme start="20260904120130 +0000" channel="tv3" stop="20260904123500 +0000">
+    <title lang="ca">Tot o res</title>
+    <sub-title lang="ca">25</sub-title>
+    <desc lang="ca">'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <length units="minutes">00:33:30</length>
   </programme>
 </tv>
