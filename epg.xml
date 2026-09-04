@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -12,67 +15,62 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20260904170324 +0000" channel="tvi" stop="20260904172646 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Quan la vida travessa el circ.</sub-title>
-    <desc lang="ca">Com la vida canvia o afecta les circumstàncies en què treballen els artistes de circ? Com afecta el pas dels anys als veterans Bet Miralta i Jordi Aspa (Escarlata), com la maternitat va condicionar les finlandeses Lotta &amp; Stina o com el compromís polític ha afectat el jove Alexandre Duran? Tots ells han estat protagonistes de la Fira Trapezi de Reus, que enguany ha bufat 30 espelmes. En el cas d'Alexandre Duran, anar a una manifestació en favor de Palestina li va costar una agressió policial amb el resultat d'un braç trencat i l'impediment d'estrenar el seu primer muntatge en solitari quan ho tenia previst. 'Ínsula', que parla de la solitud de l'ésser humà, s'ha estrenat al Trapezi de Reus i es podrà veure també al Festival Grec.Bet Miralta i Jordi Aspa, els Escarlata, també han viscut molts canvis en la seva vida que han afectat la forma en què fan circ. Amb el pas dels anys han deixat de banda la doma d'animals i les acrobàcies i han passat a fer creacions on interactuen més amb el públic i on destaca per damunt de tot la relació humana. El seu últim espectacle, 'Ròdols i cigrons', també ha passat pel Trapezi.Lotta Paavilainen i Stina Kopra són dues artistes de circ finlandeses que viuen a Catalunya des del 2012 i són l'única parella femenina del món especialitzada en rola-bola (l'equilibri damunt d'una fusta que es belluga sobre un rodet de goma). En el seu espectacle '20 Years Later. Still Here!' repassen dues dècades d'amistat i treball juntes i tota una sèrie de circumstàncies que les han fet més fortes. L'espectacle és una autoficció en què expliquen detalls tan personals com l'embaràs de la Lotta i com va afectar aquesta circumstància els equilibris que implica la seva especialitat de circ.</desc>
-    <length units="minutes">00:23:22</length>
+  <programme start="20260904210000 +0000" channel="tvi" stop="20260904220543 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7317</sub-title>
+    <length units="minutes">01:05:43</length>
   </programme>
-  <programme start="20260904172646 +0000" channel="tvi" stop="20260904173349 +0000">
-    <title lang="ca">Els últims artesans</title>
-    <sub-title lang="ca">Salvador Feliu - Mestre d'aixa</sub-title>
-    <desc lang="ca">Des de 1853 la família d'en Salvador es dedica a construir barques de fusta. En Salvador va començar a fer de mestre d'aixa als quinze anys, a l'Escala. Però l'ofici actualment s'està perdent a causa de les embarcacions de fibra de vidre i del retrocés de la pesca.</desc>
-    <length units="minutes">00:07:03</length>
+  <programme start="20260904220038 +0000" channel="tvi" stop="20260904222509 +0000">
+    <title lang="ca">Després de tu</title>
+    <sub-title lang="ca">El wifi</sub-title>
+    <desc lang="ca">En Pau converteix la solució a un problema domèstic amb el wifi en una odissea, cosa que provarà que és un pare de família efectiu i capaç. Quan aconsegueix resoldre el problema, recupera l'autoestima i l'ànim, però llavors veu un vídeo familiar antic que fa que, per primera vegada, s'enfonsi emocionalment davant dels seus</desc>
+    <length units="minutes">00:24:31</length>
   </programme>
-  <programme start="20260904170000 +0000" channel="324" stop="20260904183000 +0000">
+  <programme start="20260904210000 +0000" channel="324" stop="20260904230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7317</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260904230000 +0000" channel="324" stop="20260905003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11084</sub-title>
+    <sub-title lang="ca">11087</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260904183000 +0000" channel="324" stop="20260904200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11085</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260904202500 +0000" channel="esport3" stop="20260904223709 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
+    <desc lang="ca">Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
+    <length units="minutes">02:12:09</length>
   </programme>
-  <programme start="20260904170501 +0000" channel="esport3" stop="20260904173017 +0000">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">La selva humida</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="minutes">00:25:16</length>
+  <programme start="20260904223709 +0000" channel="esport3" stop="20260904230000 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
+    <desc lang="ca">El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
+    <length units="minutes">00:22:51</length>
   </programme>
-  <programme start="20260904173017 +0000" channel="esport3" stop="20260904174000 +0000">
-    <title lang="ca">Capacitats</title>
-    <sub-title lang="ca">Pepi Benítez, amb el rumb clar</sub-title>
-    <desc lang="ca">Pepi Benítez és invident. Amb una energia i una positivitat que s'encomanen, ha participat en quatre Jocs Paralímpics, els dos primers en ciclisme i els dos últims en rem. I als seus 57 anys, no descarta el repte de participar a Los Angeles 2028.</desc>
-    <length units="minutes">00:09:43</length>
+  <programme start="20260904214104 +0000" channel="sx3" stop="20260904220338 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Goku es desperta. Podrà superar la força dels superguerrers?</sub-title>
+    <desc lang="ca">En Cèl·lula continua sembrant el pànic per allà on passa amb l'únic objectiu d'absorbir l'A-17 i l'A-18 per arribar a la seva forma perfecta. Mentrestant, en Son Goku es recupera de la seva malaltia i entén que l'única manera de resoldre aquesta crisi és entrenar-se fins al punt de superar la força dels superguerrers, igual que en Vegeta.</desc>
+    <length units="minutes">00:22:34</length>
   </programme>
-  <programme start="20260904170429 +0000" channel="sx3" stop="20260904172509 +0000">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Viatge al futur</sub-title>
-    <desc lang="ca">Una 'petita' confusió amb la nova màquina del temps d'en Jerry ha portat les espies cap al futur. Saber la moda que hi haurà d'aquí vint-i-cinc anys no té preu! Aviat, però, s'adonen que la Mandy controla tots els mitjans de comunicació i que les té totes tres empresonades. A més, l'únic que les pot ajudar, en Jerry, s'ha fet congelar!</desc>
-    <length units="minutes">00:20:40</length>
+  <programme start="20260904220338 +0000" channel="sx3" stop="20260904222318 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">L'ombra que s'acosta a en Toru Amuro</sub-title>
+    <desc lang="ca">Tot esmorzant al Cafè Poirot, en Conan observa un client que li sembla sospitós. De seguida s'adona que té un interès especial per en Toru Amuro. Els seus amics de la Lliga de Detectius Júnior l'ajuden a investigar-ho i en Conan l'hi acaba explicant a en Toru abans que el sospitós pugui passar a l'acció. Però en Toru demostrarà la seva generositat i la seva professionalitat a l'hora de fer la feina que li serveix de tapadora.</desc>
+    <length units="minutes">00:19:40</length>
   </programme>
-  <programme start="20260904172509 +0000" channel="sx3" stop="20260904174657 +0000">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">No suporto els anys vuitanta!</sub-title>
-    <desc lang="ca">En Boogie Gus, ara un dels components de la LAMOS, ha decidit convertir tot Beverly Hills en un paradís dels vuitanta amb el seu últim enginy diabòlic. El retro torna a estar de moda! Fins i tot en Jerry va vestit dels anys vuitanta! La Sam, la Clover i l'Àlex han d'aturar en Gus abans que la moda retro envaeixi tot el seu entorn! És insuportable!</desc>
-    <length units="minutes">00:21:48</length>
+  <programme start="20260904215807 +0000" channel="tv3" stop="20260904224941 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 1</sub-title>
+    <desc lang="ca">Aquesta setmana parlem de la xineta, de la radiografia, del tallagespa i del pinzell. És impossible dir-vos quin és el millor, de manera que haureu de veure tots els episodis i decidir segons el vostre criteri. També parlem amb un músic i poeta com és en Guillem Ramisa, una sardanista com és la Nàdia Cordó, un actor com és l'Ernest Villegas, i un esquilador d'ovelles com és l'Andreu Castellà. Com? Que un esquilador d'ovelles entre tant d'artista no us esperàveu? I qui us ha dit que esquilar una ovella no és un art, eh!</desc>
+    <length units="minutes">00:51:34</length>
   </programme>
-  <programme start="20260904164648 +0000" channel="tv3" stop="20260904172114 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Passat, present i futur</sub-title>
-    <desc lang="ca">El darrer capítol d''Arxipèlag blau' està dedicat als canvis que ha patit la nostra mar i a plantejar propostes per aturar la seva degradació, conservar les seves espècies i hàbitats. Miquel Salamanca ens presentarà el testimoni de pescadors que varen conèixer espècies avui desaparegudes, científics i experts que han estudiat els impactes al medi marí i plantegen propostes de recuperació. Enric Ballesteros, Xisco Riera, Lluís Cardona, Xisco Avellà, Miguel Ángel Mateo i Marta Sales ens parlaran de la desaparició dels taurons a les nostres aigües, dels impactes de l'activitat pesquera, la desaparició dels hàbitats d'aigües somes, l'extinció del vell marí, la introducció d'espècies invasores, l'alteració dels ecosistemes i l'amenaça global que suposa el canvi climàtic. Tot això amb una crida a l'esperança i la responsabilitat per aplicar mesures de conservació a la mar, les seves espècies i hàbitats i poder deixar així a les següents generacions el meravellós món marí del qual nosaltres hem pogut gaudir. La seva salut depèn de nosaltres i del que fem a partir d'ara.</desc>
-    <length units="minutes">00:34:26</length>
-  </programme>
-  <programme start="20260904172114 +0000" channel="tv3" stop="20260904181029 +0000">
-    <title lang="ca">Terreny personal</title>
-    <sub-title lang="ca">Cerdanya</sub-title>
-    <desc lang="ca">Aquest capítol ens descobreix una de les valls més amples i assolellades de tot Europa: Cerdanya. Entre Meranges i el Coll de la Perxa i de Martinet a la Molina hi ha aquest terreny envoltat de muntanyes on la natura domina el paisatge. Coneixerem aquest territori de la mà de quatre protagonistes que hi viuen i se l'estimen. Albert Pons va estudiar econòmiques, va treballar a la banca i durant un breu període de temps va dirigir un camp de golf. Fins que, un dia, va deixar enrere la vida d'economista per fer realitat el seu somni: fer vi i formatge a Cerdanya. Octavi Galceran va néixer a Sant Cugat del Vallès, però la seva família era de Cerdanya. La neu és la seva passió. I l'esquí de muntanya, una afició que comparteix amb tota la família. Fa uns quants anys va demanar un trasllat a la feina que li permetés anar a viure a Cerdanya, tornar a començar i retrobar les seves arrels. Roser Bombardó és conscient que va contra corrent, però ella es resisteix a marxar del poble on ha viscut tota la vida i des d'on ara ha impulsat la seva pròpia empresa: una consultoria forestal. Pierre Campmajo és descendent de cerdans. Ell, però, va néixer a Perpinyà. Quan es va jubilar, es va instal·lar definitivament a Cerdanya i en aquest territori ha pogut centrar-se en una de les seves passions: l'arqueologia. Aquest capítol també compta amb les aportacions dels nens de l'Escola Alfons I, de Puigcerdà; amb la cantant Beth, que interpreta un tema propi a la Molina, i amb l'escriptor Rafael Vallbona, que ens llegeix un fragment de la seva obra a Puigcerdà.</desc>
-    <length units="minutes">00:49:15</length>
+  <programme start="20260904224941 +0000" channel="tv3" stop="20260904233552 +0000">
+    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
+    <sub-title lang="ca">3</sub-title>
+    <desc lang="ca">En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
+    <length units="minutes">00:46:11</length>
   </programme>
 </tv>
