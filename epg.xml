@@ -3,6 +3,9 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
@@ -12,67 +15,64 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20260905015324 +0000" channel="tvi" stop="20260905043002 +0000">
+  <programme start="20260905100000 +0000" channel="tvi" stop="20260905115500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11088</sub-title>
+    <sub-title lang="ca">11090</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:36:38</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260905043002 +0000" channel="tvi" stop="20260905051459 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Djangologie</sub-title>
-    <desc lang="ca">Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
-    <length units="minutes">00:44:57</length>
-  </programme>
-  <programme start="20260905010000 +0000" channel="324" stop="20260905060000 +0000">
+  <programme start="20260905114922 +0000" channel="tvi" stop="20260905142957 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11088</sub-title>
+    <sub-title lang="ca">11091</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:40:35</length>
   </programme>
-  <programme start="20260905060000 +0000" channel="324" stop="20260905070000 +0000">
+  <programme start="20260905100000 +0000" channel="324" stop="20260905120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11088</sub-title>
+    <sub-title lang="ca">11090</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260905024351 +0000" channel="esport3" stop="20260905042346 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
-    <desc lang="ca">Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="minutes">01:39:55</length>
+  <programme start="20260905120000 +0000" channel="324" stop="20260905143000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11091</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260905042346 +0000" channel="esport3" stop="20260905055724 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-Porto / Supercopa Ibèrica / Semifinal</sub-title>
-    <desc lang="ca">Els blaugranes, campions a les quatre edicions disputades fins ara, s'enfronten amb el segon classificat de l'última lliga portuguesa. Des de Vigo, amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="minutes">01:33:38</length>
+  <programme start="20260905112236 +0000" channel="esport3" stop="20260905115513 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
+    <desc lang="ca">El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
+    <length units="minutes">00:32:37</length>
   </programme>
-  <programme start="20260905033850 +0000" channel="sx3" stop="20260905035928 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Climatika</sub-title>
-    <desc lang="ca">En aquest episodi, Ladybug s'haurà d'enfrontar amb els terrorífics fenòmens atmosfèrics que és capaç de generar la temible Climatika, una noia rabiosa per haver perdut el concurs de noia del temps de la televisió i que l'Esfinx reclutarà per dur a terme la seva venjança contra els nostres superherois.</desc>
-    <length units="minutes">00:20:38</length>
+  <programme start="20260905115513 +0000" channel="esport3" stop="20260905132500 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
+    <desc lang="ca">Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
+    <length units="minutes">01:29:47</length>
   </programme>
-  <programme start="20260905035928 +0000" channel="sx3" stop="20260905042006 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El Bombollador</sub-title>
-    <desc lang="ca">Aquesta vegada, l'Esfinx aprofita el ressentiment del Nino contra els adults per crear un personatge malvat a la seva mida, el Bombollador, capaç de tancar els seus enemics dins d'una bombolla i engegar-los cap al cel. Però un cop més, les habilitats de Ladybug i el Gat Negre salvaran els nens de la ciutat de París.</desc>
-    <length units="minutes">00:20:38</length>
+  <programme start="20260905113117 +0000" channel="sx3" stop="20260905115312 +0000">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Una lliçó de Física</sub-title>
+    <desc lang="ca">La desaparició de tot d'instruments d'alta tecnologia de laboratoris secrets ha disparat l'alarma. L'objectiu del misteriós lladre és anul·lar la força de la gravetat de tot el planeta per fer-se amo del món. Les nostres heroïnes ho tindran molt difícil per no perdre el nord...</desc>
+    <length units="minutes">00:21:55</length>
   </programme>
-  <programme start="20260905030719 +0000" channel="tv3" stop="20260905035940 +0000">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Laura-Jan / Tiago-Mimi</sub-title>
-    <desc lang="ca">A l'hotel W, la Laura i el Jan passen la nit de cap d'any junts després d'haver estat deixats per les seves parelles. Al matí següent, el Jan rep un missatge de la seva ex disposada a intentar arreglar les coses. Juntament amb la Laura, el Jan tractarà de decidir si ha de tornar o no amb ella. Durant el debat es posaran de manifest els problemes de la relació, la gelosia i les inseguretats.Aquella mateixa nit, el Tiago s'escapa de casa d'uns amics seus per veure's amb la Mimi, un 'match' de Tinder que viu en aquell mateix edifici. Al matí següent, tenen una discussió i ell marxa de males maneres, però no pot tornar a casa seva ja que es va deixar les seves coses al pis dels seus amics. No li queda mes remei que tornar a casa de la Mimi per demanar-li ajuda, però malgrat les reticències inicials, serà l'ocasió perfecta per conèixer-se millor.</desc>
-    <length units="minutes">00:52:21</length>
+  <programme start="20260905115312 +0000" channel="sx3" stop="20260905120007 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Caçar bolets</sub-title>
+    <desc lang="ca">Els lèmmings xalen a base de bé amb uns bolets botadors que han sortit al pati de davant de la cabana amb la pluja. Per posar fi al xivarri que fan els lèmmings, que no el deixen gaudir de la seva tranquil·litat, en Grizzy trepitja els bolets de la discòrdia, fins que s'adona que cada bolet aixafat allibera un núvol d'espores que creen instantàniament... un munt de bolets idèntics.</desc>
+    <length units="minutes">00:06:55</length>
   </programme>
-  <programme start="20260905035940 +0000" channel="tv3" stop="20260905044805 +0000">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Nico-Diana / Juanqui-Barbs</sub-title>
-    <desc lang="ca">El Nico mai ha tingut una relació estable. La Diana només ha tingut una cita en tota la seva vida i va ser amb el seu difunt marit. Tot i semblar dues persones molt diferents, la cita va sobre rodes fins que descobreixen que busquen coses molt diferents. El Nico vol construir una relació estable, la Diana només busca tenir una trobada sexual sense compromís i descobrir què es sent quan arribes a l'orgasme.El Juanqui i la Barbs també tenen una cita insòlita. Tot i que ell té 40 anys i la Barbs només 18, xerren relaxadament, gaudeixen d'uns tacos i comparteixen les seves experiències de vida i els somnis per complir. No obstant, un inesperat accident provoca que la trobada acabi a urgències. A partir d'aquest moment, la cita reflexiona sobre la diferència d'edat i la forma en què ens relacionem amb ella.</desc>
-    <length units="minutes">00:48:25</length>
+  <programme start="20260905103828 +0000" channel="tv3" stop="20260905113127 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Mash i Tassy</sub-title>
+    <desc lang="ca">En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.</desc>
+    <length units="minutes">00:52:59</length>
+  </programme>
+  <programme start="20260905113127 +0000" channel="tv3" stop="20260905122427 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Meruschka</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.</desc>
+    <length units="minutes">00:53:00</length>
   </programme>
 </tv>
