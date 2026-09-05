@@ -1,78 +1,83 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20260905100000 +0000" channel="tvi" stop="20260905115500 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11090</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260905153602 +0000" channel="tvi" stop="20260905170833 +0000">
+    <title lang="ca">La ratjada</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">LA RATJADAProducció: Televisió de Catalunya i Alter Ego Films, 2008Direcció: Miguel Garcia BordaGuió: Manel BonanyDirector de fotografia: Jordi TortMúsica: Florenci FerrerIntèrprets: Lluis Soler (Marc Estella), Marta Bayarri (Inspectora Blasco), Xavier Serrat (Sargent Viladot), Miquel Garcia Borda (Nico Estella), Vicenta Ndongo (Mia Canoves), Pere Molina (Albert Argems), Pep Torrens (Morrut), Francesc Albiol (Narcis Domènec), Nina (Vicky Hernandez) i Ricard Sales (Roger Argems) A un antic poble pesquer actualment bolcat al turisme, apareixen uns dits humans en un restaurant. La investigació policial porta a sospitar de Marc Estella, un ex-convicte que ha tornat al poble després de passar 20 anys a la presó per assassinat. Aquest fet desferma una cadena de sospites i posa al descobert amors secrets, drames familiars i trames professionals i delictives fins aleshores ocultes en la comunitat. Res no és el que sembla.</desc>
+    <length units="minutes">01:32:31</length>
   </programme>
-  <programme start="20260905114922 +0000" channel="tvi" stop="20260905142957 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11091</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:40:35</length>
+  <programme start="20260905170833 +0000" channel="tvi" stop="20260905180908 +0000">
+    <title lang="ca">Infidels</title>
+    <sub-title lang="ca">6</sub-title>
+    <desc lang="ca">La Paula diu al Marc, el seu amant, que se sent feliç d'haver trobat l'amor de la seva vida. Les amigues coneixen el Marc, que els fa entendre que s'estima molt la Paula. La Joana està feta pols pel que ha passat amb el Francesc, però és capaç de comportar-se amb enteresa davant les amigues. La dona reconeix la Cecília, però decideix no dir-li res. L'Arlet li recomana que expliqui als nens tota la veritat. El Jesús explica al Robert que es va embolicar amb la Cruz. La Lídia aconsegueix finalment que el Toni torni a entrar a la teràpia. La psiquiatra es retroba amb el Rubén, un antic amor. L'Arlet convida la Dani a un sopar íntim.</desc>
+    <length units="minutes">01:00:35</length>
   </programme>
-  <programme start="20260905100000 +0000" channel="324" stop="20260905120000 +0000">
+  <programme start="20260905143000 +0000" channel="324" stop="20260905163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7319</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260905163000 +0000" channel="324" stop="20260905183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11090</sub-title>
+    <sub-title lang="ca">11092</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260905120000 +0000" channel="324" stop="20260905143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11091</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+  <programme start="20260905160000 +0000" channel="esport3" stop="20260905174828 +0000">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Barça-Jaén FS / Supercopa d'Espanya / 2a semifinal</sub-title>
+    <desc lang="ca">Els blaugranes juguen a casa contra els andalusos la segona semifinal de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
+    <length units="minutes">01:48:28</length>
   </programme>
-  <programme start="20260905112236 +0000" channel="esport3" stop="20260905115513 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
-    <desc lang="ca">El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
-    <length units="minutes">00:32:37</length>
+  <programme start="20260905174828 +0000" channel="esport3" stop="20260905181000 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">00:21:32</length>
   </programme>
-  <programme start="20260905115513 +0000" channel="esport3" stop="20260905132500 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
-    <desc lang="ca">Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
-    <length units="minutes">01:29:47</length>
+  <programme start="20260905154940 +0000" channel="sx3" stop="20260905163209 +0000">
+    <title lang="ca">Doraemon: La gran evasió de la Formigonera</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">És el primer dia de classe després de les vacances d'estiu. Com que en Nobita no ha fet els deures, en Doraemon s'enfada amb ell. Fart que tothom el renyi, en Nobita decideix fer servir la cabina dels desitjos per crear un món on estigui prohibit renyar, cosa que portarà conseqüències inesperades en el futur. En Nobita i els seus amics hauran de viatjar al futur per alliberar en Doraemon d'una presó molt peculiar.</desc>
+    <length units="minutes">00:42:29</length>
   </programme>
-  <programme start="20260905113117 +0000" channel="sx3" stop="20260905115312 +0000">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Una lliçó de Física</sub-title>
-    <desc lang="ca">La desaparició de tot d'instruments d'alta tecnologia de laboratoris secrets ha disparat l'alarma. L'objectiu del misteriós lladre és anul·lar la força de la gravetat de tot el planeta per fer-se amo del món. Les nostres heroïnes ho tindran molt difícil per no perdre el nord...</desc>
-    <length units="minutes">00:21:55</length>
+  <programme start="20260905163209 +0000" channel="sx3" stop="20260905164305 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">La reina de les catacumbes</sub-title>
+    <desc lang="ca">Com que la legió canina és incapaç de trobar el cau dels Irreductibles, la Monalisa demana ajut al Reincidèntix, el cap de la banda de les catacumbes. Però aquest se sent desafiat i es baten en duel. La Monalisa, havent guanyat, esdevé la cap de la banda. Això posa encara més en perill el cau dels Irreductibles, que hauran de bregar per revertir la situació.</desc>
+    <length units="minutes">00:10:56</length>
   </programme>
-  <programme start="20260905115312 +0000" channel="sx3" stop="20260905120007 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Caçar bolets</sub-title>
-    <desc lang="ca">Els lèmmings xalen a base de bé amb uns bolets botadors que han sortit al pati de davant de la cabana amb la pluja. Per posar fi al xivarri que fan els lèmmings, que no el deixen gaudir de la seva tranquil·litat, en Grizzy trepitja els bolets de la discòrdia, fins que s'adona que cada bolet aixafat allibera un núvol d'espores que creen instantàniament... un munt de bolets idèntics.</desc>
-    <length units="minutes">00:06:55</length>
+  <programme start="20260905154005 +0000" channel="tv3" stop="20260905163908 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Viena</sub-title>
+    <desc lang="ca">En aquest episodi, en Rick Stein visita Viena, l'epicentre de l'Imperi austrohongarès i la ciutat que dóna nom a un dels plats més populars d'Europa, el 'wiener schnitzel'. En Rick també tastarà plats reconfortants com el 'tafelspitz' o el 'gulasch', s'endinsarà en la cultura dels cafès vienesos i es deixarà temptar per delícies dolces com el pastís 'sacher'. No es perdrà la pintura de Klimt ni tampoc la música en directe de Strauss. I, a Padstow, ens farà una amanida d'areng i patata, un 'strudel' de poma i un 'gulasch' deliciós.</desc>
+    <length units="minutes">00:59:03</length>
   </programme>
-  <programme start="20260905103828 +0000" channel="tv3" stop="20260905113127 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Mash i Tassy</sub-title>
-    <desc lang="ca">En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.</desc>
-    <length units="minutes">00:52:59</length>
+  <programme start="20260905163908 +0000" channel="tv3" stop="20260905173119 +0000">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">El Borbonès</sub-title>
+    <desc lang="ca">En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.</desc>
+    <length units="minutes">00:52:11</length>
   </programme>
-  <programme start="20260905113127 +0000" channel="tv3" stop="20260905122427 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Meruschka</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.</desc>
-    <length units="minutes">00:53:00</length>
+  <programme start="20260905153000 +0000" channel="tv3" stop="20260905160500 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">- Skate / Extreme Barcelona / Final femenina</sub-title>
+    <desc lang="ca">Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">00:35:00</length>
   </programme>
 </tv>
