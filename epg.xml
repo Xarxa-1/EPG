@@ -1,76 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260904210000 +0000" channel="tvi" stop="20260904220543 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7317</sub-title>
-    <length units="minutes">01:05:43</length>
-  </programme>
-  <programme start="20260904220038 +0000" channel="tvi" stop="20260904222509 +0000">
-    <title lang="ca">Després de tu</title>
-    <sub-title lang="ca">El wifi</sub-title>
-    <desc lang="ca">En Pau converteix la solució a un problema domèstic amb el wifi en una odissea, cosa que provarà que és un pare de família efectiu i capaç. Quan aconsegueix resoldre el problema, recupera l'autoestima i l'ànim, però llavors veu un vídeo familiar antic que fa que, per primera vegada, s'enfonsi emocionalment davant dels seus</desc>
-    <length units="minutes">00:24:31</length>
-  </programme>
-  <programme start="20260904210000 +0000" channel="324" stop="20260904230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7317</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260904230000 +0000" channel="324" stop="20260905003000 +0000">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260905015324 +0000" channel="tvi" stop="20260905043002 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11087</sub-title>
+    <sub-title lang="ca">11088</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">02:36:38</length>
   </programme>
-  <programme start="20260904202500 +0000" channel="esport3" stop="20260904223709 +0000">
+  <programme start="20260905043002 +0000" channel="tvi" stop="20260905051459 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Djangologie</sub-title>
+    <desc lang="ca">Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
+    <length units="minutes">00:44:57</length>
+  </programme>
+  <programme start="20260905010000 +0000" channel="324" stop="20260905060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11088</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260905060000 +0000" channel="324" stop="20260905070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11088</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260905024351 +0000" channel="esport3" stop="20260905042346 +0000">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
     <desc lang="ca">Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="minutes">02:12:09</length>
+    <length units="minutes">01:39:55</length>
   </programme>
-  <programme start="20260904223709 +0000" channel="esport3" stop="20260904230000 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
-    <desc lang="ca">El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
-    <length units="minutes">00:22:51</length>
+  <programme start="20260905042346 +0000" channel="esport3" stop="20260905055724 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-Porto / Supercopa Ibèrica / Semifinal</sub-title>
+    <desc lang="ca">Els blaugranes, campions a les quatre edicions disputades fins ara, s'enfronten amb el segon classificat de l'última lliga portuguesa. Des de Vigo, amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="minutes">01:33:38</length>
   </programme>
-  <programme start="20260904214104 +0000" channel="sx3" stop="20260904220338 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Goku es desperta. Podrà superar la força dels superguerrers?</sub-title>
-    <desc lang="ca">En Cèl·lula continua sembrant el pànic per allà on passa amb l'únic objectiu d'absorbir l'A-17 i l'A-18 per arribar a la seva forma perfecta. Mentrestant, en Son Goku es recupera de la seva malaltia i entén que l'única manera de resoldre aquesta crisi és entrenar-se fins al punt de superar la força dels superguerrers, igual que en Vegeta.</desc>
-    <length units="minutes">00:22:34</length>
+  <programme start="20260905033850 +0000" channel="sx3" stop="20260905035928 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Climatika</sub-title>
+    <desc lang="ca">En aquest episodi, Ladybug s'haurà d'enfrontar amb els terrorífics fenòmens atmosfèrics que és capaç de generar la temible Climatika, una noia rabiosa per haver perdut el concurs de noia del temps de la televisió i que l'Esfinx reclutarà per dur a terme la seva venjança contra els nostres superherois.</desc>
+    <length units="minutes">00:20:38</length>
   </programme>
-  <programme start="20260904220338 +0000" channel="sx3" stop="20260904222318 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L'ombra que s'acosta a en Toru Amuro</sub-title>
-    <desc lang="ca">Tot esmorzant al Cafè Poirot, en Conan observa un client que li sembla sospitós. De seguida s'adona que té un interès especial per en Toru Amuro. Els seus amics de la Lliga de Detectius Júnior l'ajuden a investigar-ho i en Conan l'hi acaba explicant a en Toru abans que el sospitós pugui passar a l'acció. Però en Toru demostrarà la seva generositat i la seva professionalitat a l'hora de fer la feina que li serveix de tapadora.</desc>
-    <length units="minutes">00:19:40</length>
+  <programme start="20260905035928 +0000" channel="sx3" stop="20260905042006 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Bombollador</sub-title>
+    <desc lang="ca">Aquesta vegada, l'Esfinx aprofita el ressentiment del Nino contra els adults per crear un personatge malvat a la seva mida, el Bombollador, capaç de tancar els seus enemics dins d'una bombolla i engegar-los cap al cel. Però un cop més, les habilitats de Ladybug i el Gat Negre salvaran els nens de la ciutat de París.</desc>
+    <length units="minutes">00:20:38</length>
   </programme>
-  <programme start="20260904215807 +0000" channel="tv3" stop="20260904224941 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 1</sub-title>
-    <desc lang="ca">Aquesta setmana parlem de la xineta, de la radiografia, del tallagespa i del pinzell. És impossible dir-vos quin és el millor, de manera que haureu de veure tots els episodis i decidir segons el vostre criteri. També parlem amb un músic i poeta com és en Guillem Ramisa, una sardanista com és la Nàdia Cordó, un actor com és l'Ernest Villegas, i un esquilador d'ovelles com és l'Andreu Castellà. Com? Que un esquilador d'ovelles entre tant d'artista no us esperàveu? I qui us ha dit que esquilar una ovella no és un art, eh!</desc>
-    <length units="minutes">00:51:34</length>
+  <programme start="20260905030719 +0000" channel="tv3" stop="20260905035940 +0000">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Laura-Jan / Tiago-Mimi</sub-title>
+    <desc lang="ca">A l'hotel W, la Laura i el Jan passen la nit de cap d'any junts després d'haver estat deixats per les seves parelles. Al matí següent, el Jan rep un missatge de la seva ex disposada a intentar arreglar les coses. Juntament amb la Laura, el Jan tractarà de decidir si ha de tornar o no amb ella. Durant el debat es posaran de manifest els problemes de la relació, la gelosia i les inseguretats.Aquella mateixa nit, el Tiago s'escapa de casa d'uns amics seus per veure's amb la Mimi, un 'match' de Tinder que viu en aquell mateix edifici. Al matí següent, tenen una discussió i ell marxa de males maneres, però no pot tornar a casa seva ja que es va deixar les seves coses al pis dels seus amics. No li queda mes remei que tornar a casa de la Mimi per demanar-li ajuda, però malgrat les reticències inicials, serà l'ocasió perfecta per conèixer-se millor.</desc>
+    <length units="minutes">00:52:21</length>
   </programme>
-  <programme start="20260904224941 +0000" channel="tv3" stop="20260904233552 +0000">
-    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
-    <sub-title lang="ca">3</sub-title>
-    <desc lang="ca">En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
-    <length units="minutes">00:46:11</length>
+  <programme start="20260905035940 +0000" channel="tv3" stop="20260905044805 +0000">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Nico-Diana / Juanqui-Barbs</sub-title>
+    <desc lang="ca">El Nico mai ha tingut una relació estable. La Diana només ha tingut una cita en tota la seva vida i va ser amb el seu difunt marit. Tot i semblar dues persones molt diferents, la cita va sobre rodes fins que descobreixen que busquen coses molt diferents. El Nico vol construir una relació estable, la Diana només busca tenir una trobada sexual sense compromís i descobrir què es sent quan arribes a l'orgasme.El Juanqui i la Barbs també tenen una cita insòlita. Tot i que ell té 40 anys i la Barbs només 18, xerren relaxadament, gaudeixen d'uns tacos i comparteixen les seves experiències de vida i els somnis per complir. No obstant, un inesperat accident provoca que la trobada acabi a urgències. A partir d'aquest moment, la cita reflexiona sobre la diferència d'edat i la forma en què ens relacionem amb ella.</desc>
+    <length units="minutes">00:48:25</length>
   </programme>
 </tv>
