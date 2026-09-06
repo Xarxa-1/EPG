@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260906153725 +0000" channel="tvi" stop="20260906171842 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Assassinat al pont del Diable</sub-title>
-    <desc lang="ca">ASSASSINAT AL PONT DEL DIABLE 'Le pont du diable'Direcció: Sylvie AymeGuió: Eric Delafosse, Sylvie Ayme.Producció: Endemol Fiction, BE-FILMS, RTBF, France Télévisions, Région Languedoc-Roussillon-Midi Pyrénées, CNC, RTS, 13ème Rue, Les Films du Printemps, FR 3Any: 2018Durada: 92País: FrançaMúsica: Jérôme LemonnierFotografia: Philippe LardonIntèrprets: Élodie Frenck, David Kammenos, Patrick D'Assumçao, Myriam Bourguignon, Pierre-Olivier Mornas, Anne Benoît, Nouritza Emmanuelian, Nina Bouffier, Christophe Truchi, Mama Prassinos, Pascal Turmo, Jean-François Malet, Thomas Trigeaud, Lounès Tazairt, Cecile Combredet, Dominique Ratonnat, Núria Lloansi, Mathieu Bonfils, Anne-Juliette Vassort, Florie Abras, Charles-Eric PetitAndré Savignac, alcalde de Sant Guilhem del Desert i productor d'oli d'oliva, apareix penjat al pont del Diable. En principi sembla un suïcidi, però l'autòpsia detecta un fàrmac a la sang de la víctima que indica que l'han assassinat. La capitana Marina Fazergues es fa càrrec de la investigació i descobreix que al mateix pont, 30 anys abans i a la mateixa data, també hi va aparèixer penjada una noia, Nora Allouache. La semblança és massa gran per ser una coincidència, i la investigació revelarà tota una trama de passions i enemistats antigues.</desc>
-    <length units="minutes">01:41:17</length>
+  <programme start="20260906210000 +0000" channel="tvi" stop="20260906220431 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7319</sub-title>
+    <length units="minutes">01:04:31</length>
   </programme>
-  <programme start="20260906171842 +0000" channel="tvi" stop="20260906185915 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Assassinats a Albi</sub-title>
-    <desc lang="ca">ASSASSINATS A ALBI 'Meurtres à Albi'Direcció: Delphine LemoineGuió: Delphine Chouraqui, Fabien Adda. Delphine ChouraquiProducció: Delante Productions, France TV, AT Production, RTBF (Télévision Belge), TV5 Monde, Radio Télévision Suisse (RTS), Région Languedoc-Roussillon-Midi Pyrénées, CNC.Any: 2020Durada: 92País: França Música: Alexandre LessertisseurIntèrprets: Léonie Simaga, Bruno Debrandt, Frédérique Kamatari, Hélène Vincent, Alain Doutey, Catherine Allégret, Amélie Robin, Daniel Njo Lobé, Angie Morvan-Dedieu, Simon Hormière-Marquié, Vanessa Liautey, Anne Violet, Léopold Pelagie, Martine Amisse, Loïc Varanguien de Villepin, Juliette DamiensDesprés de molts anys fora, l'Annabelle torna a Albi, la ciutat on va créixer, amb la seva filla de dotze anys, la Pauline. L'acaben de nomenar comissària i és la primera dona que es posa al capdavant de la comissaria. Això disgusta el Marc, que estava convençut que el càrrec seria per a ell. L'assassinat d'un vell pagès i, poc després, el d'una treballadora social, els endinsaran en una investigació que portarà l'Annabelle a descobrir els seus orígens.</desc>
-    <length units="minutes">01:40:33</length>
+  <programme start="20260906220024 +0000" channel="tvi" stop="20260906234354 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Coses a fer abans de morir</sub-title>
+    <desc lang="ca">COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.</desc>
+    <length units="minutes">01:43:30</length>
   </programme>
-  <programme start="20260906163000 +0000" channel="324" stop="20260906183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11100</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260906210000 +0000" channel="324" stop="20260906230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7319</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260906183000 +0000" channel="324" stop="20260906200000 +0000">
+  <programme start="20260906230000 +0000" channel="324" stop="20260907003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11101</sub-title>
+    <sub-title lang="ca">11103</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260906161325 +0000" channel="esport3" stop="20260906181500 +0000">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">València-Barça</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="minutes">02:01:35</length>
+  <programme start="20260906210133 +0000" channel="esport3" stop="20260906221601 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">01:14:28</length>
   </programme>
-  <programme start="20260906181500 +0000" channel="esport3" stop="20260906191100 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post València-Barça / J4</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">00:56:00</length>
+  <programme start="20260906221601 +0000" channel="esport3" stop="20260906230000 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">Scooter Park / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">00:43:59</length>
   </programme>
-  <programme start="20260906162303 +0000" channel="sx3" stop="20260906163417 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">La Monalisa, una amiga que et vol bé</sub-title>
-    <desc lang="ca">Com de costum, la nova poció del druida Voldenix no té l'efecte desitjat i fa que la gata Monalisa i l'Irreductible Devòrix perdin la memòria i es facin bons amics, davant la sorpresa de la banda de les catacumbes, de la legió canina i dels mateixos Irreductibles.</desc>
-    <length units="minutes">00:11:14</length>
+  <programme start="20260906214110 +0000" channel="sx3" stop="20260906220330 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El rescat del pangolí</sub-title>
+    <desc lang="ca">L'Aviva descobreix els pangolins i renya els germans Kratt perquè no li havien parlat mai d'aquest animal tan especial. Aleshores l'equip rep un avís de la Yi i el Duyi, uns companys de la Xina que els expliquen que algú està parant trampes per capturar pangolins. És el Gormand, que vol utilitzar les escates de l'animal per vendre-les com a aliment beneficiós per a la salut. La missió de l'equip consistirà a rescatar-los i també a impedir que el malvat enredi la gent amb un producte saludable fals.</desc>
+    <length units="minutes">00:22:20</length>
   </programme>
-  <programme start="20260906163417 +0000" channel="sx3" stop="20260906164452 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">Rumors romans</sub-title>
-    <desc lang="ca">Per tal que tots els animals de Lutècia es girin en contra de l'Ideafix, la gata Monalisa fa córrer el rumor que és un espia al servei dels romans. La gossa Polvorina li exigeix una demostració de lleialtat als gals: atacar el general Labiè juntament amb ella, cosa que ell creu contraproduent. Finalment, l'Ideafix combatrà la Monalisa amb les seves mateixes armes.</desc>
-    <length units="minutes">00:10:35</length>
+  <programme start="20260906220330 +0000" channel="sx3" stop="20260906221425 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Batussa fraternal</sub-title>
+    <desc lang="ca">La Panda i l'Ondine no paren de barallar-se, i converteixen la vida a la casa familiar en un infern, sobretot per la Roxane. A més, les dues germanes exigeixen a la gent de l'entorn que prengui partit per una de les dues. L'única solució per la Roxane és aconseguir reconciliar-les, i per fer-ho haurà de buscar alguna cosa que les dues tinguin en comú.</desc>
+    <length units="minutes">00:10:55</length>
   </programme>
-  <programme start="20260906162518 +0000" channel="tv3" stop="20260906171720 +0000">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Els guardians dels volcans</sub-title>
-    <desc lang="ca">Els volcans són una força de la natura. El seu poder indomable es desferma al nostre planeta des de fa milions d'anys, i amenaça cinc-cents milions de persones a tot el món. Davant d'aquest perill, un grup d'homes i dones apassionats s'han proposat la missió de comprendre i protegir. Són els guardians dels volcans, persones que, en col·laboració amb els científics, miren d'entendre aquests gegants de foc i preveure'n el comportament.</desc>
-    <length units="minutes">00:52:02</length>
+  <programme start="20260906211003 +0000" channel="tv3" stop="20260906215932 +0000">
+    <title lang="ca">Gent de món</title>
+    <sub-title lang="ca">Mediterrani Occidental (2a part)</sub-title>
+    <desc lang="ca">Avui comencem a Florència, una ciutat que, tot i que no té port, és una de les més visitades pels creueristes de tot el món. Reprenem un viatge que en aquest capítol ens durà per tot Itàlia, de nord a sud. Continuarem per Roma, que per a molts altres, que no són els d'abans, és també la més bonica ; i acabarem a Nàpols, que no és la més maca per a ningú, però potser és la més interessant.</desc>
+    <length units="minutes">00:49:29</length>
   </programme>
-  <programme start="20260906171720 +0000" channel="tv3" stop="20260906180942 +0000">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Els habitants dels extrems</sub-title>
-    <desc lang="ca">Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
-    <length units="minutes">00:52:22</length>
+  <programme start="20260906215932 +0000" channel="tv3" stop="20260906224511 +0000">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Japó I</sub-title>
+    <desc lang="ca">Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
+    <length units="minutes">00:45:39</length>
   </programme>
 </tv>
