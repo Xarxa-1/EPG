@@ -6,73 +6,73 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20260906020001 +0000" channel="tvi" stop="20260906043001 +0000">
+  <programme start="20260906114438 +0000" channel="tvi" stop="20260906123027 +0000">
+    <title lang="ca">Diumenge Concert</title>
+    <sub-title lang="ca">Concerts de l'OBC a L'Auditori: Wagner</sub-title>
+    <desc lang="ca">L'Orquestra Simfònica de Barcelona i Nacional de Catalunya (OBC) ens ofereix la suite (1874) de 'El crepuscle dels déus'; música de Wagner interpretada a L'Auditori, durant la temporada 2023-2024, amb la participació de les sopranos Sinéad Campbell-Wallace i Lauren Michelle, i el director Ludovic Morlot, titular de l'orquestra.Richard Wagner no la va definir mai com una òpera, sinó com un drama musical. Es tracta de la quarta i última 'jornada' de la tetralogia L'anell del nibelung, que tanca el relat de la lluita entre déus i humans –i algun monstre– per aconseguir l'anell que converteix en dominador del món qui el posseeix. L'obra de Wagner conté músiques tan impressionants com el descriptiu interludi 'Viatge de Siegfried pel Rin' o la colpidora 'Marxa fúnebre', que rendeix homenatge a la mort de l'heroi Siegfried</desc>
+    <length units="minutes">00:45:49</length>
+  </programme>
+  <programme start="20260906123025 +0000" channel="tvi" stop="20260906143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11096</sub-title>
+    <sub-title lang="ca">11099</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:59:35</length>
+  </programme>
+  <programme start="20260906100000 +0000" channel="324" stop="20260906120000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11098</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260906120000 +0000" channel="324" stop="20260906143000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11099</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260906043001 +0000" channel="tvi" stop="20260906051457 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Òscar Font &amp; The Swingones</sub-title>
-    <desc lang="ca">Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
-    <length units="minutes">00:44:56</length>
+  <programme start="20260906110602 +0000" channel="esport3" stop="20260906122500 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J4 / Dissabte</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:18:58</length>
   </programme>
-  <programme start="20260906010000 +0000" channel="324" stop="20260906060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11096</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20260906122500 +0000" channel="esport3" stop="20260906142319 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">MoraBanc Andorra-Barça / Amistós</sub-title>
+    <desc lang="ca">Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal.</desc>
+    <length units="minutes">01:58:19</length>
   </programme>
-  <programme start="20260906060000 +0000" channel="324" stop="20260906070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11096</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260906114250 +0000" channel="sx3" stop="20260906114945 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Superllana</sub-title>
+    <desc lang="ca">Els Lèmmings s'ho passen d'allò més bé saltant sobre la llana de les ovelles. Però el joc acaba abruptament quan, sense voler-ho, afaiten el cul d'en Grizzy i l'os es venja afaitant les ovelles amb què juguen els Lèmmings. Llavors, els rosegadors descobreixen una ovella amb la llana molt més tova i elàstica.</desc>
+    <length units="minutes">00:06:55</length>
   </programme>
-  <programme start="20260906022925 +0000" channel="esport3" stop="20260906035549 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Supercopa Ibèrica / Final</sub-title>
-    <desc lang="ca">Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="minutes">01:26:24</length>
+  <programme start="20260906114945 +0000" channel="sx3" stop="20260906115615 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Rajos lèmming</sub-title>
+    <desc lang="ca">Una cabina de rajos UVA acabada de desembalar ocupa el lloc d'honor enmig de la cabana del guardabosc. En Grizzy està convençut que un bon bronzejat l'ajudarà a atreure l'atenció de l'ossa de qui està enamorat. Quan obre la cabina per estirar-s'hi, tanmateix, descobreix que els lèmmings li han passat davant i ja s'estan bronzejant tots com si fossin a la platja. Remei? Aprofitar per abocar-los tots barranc avall!</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20260906035549 +0000" channel="esport3" stop="20260906042127 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5500</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:25:38</length>
+  <programme start="20260906112906 +0000" channel="tv3" stop="20260906122118 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Resum</sub-title>
+    <desc lang="ca">Tanquem la primera temporada amb un resum dels millors moments dels rodatges, tant davant com darrere de càmeres. A més, descobrim imatges exclusives d'aquests onze capítols.</desc>
+    <length units="minutes">00:52:12</length>
   </programme>
-  <programme start="20260906032840 +0000" channel="sx3" stop="20260906033910 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">El pastís del Hooper</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, els amics competeixen per veure qui fa el plat del dia del cafè de Pop, la ciutat de paper. El Hooper ha decidit fer, ajudat per la Fly, un pastís de gelatina espectacular, però el vol fer massa de pressa. Aguantarà bé, el pastís?</desc>
-    <length units="minutes">00:10:30</length>
-  </programme>
-  <programme start="20260906033910 +0000" channel="sx3" stop="20260906034910 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">La llista dels sís</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, és l'aniversari del Plom! Per celebrar-ho, els seus amics li han promès que faran realitat tot el que desitgi durant tot el dia. Però el Plom té unes expectatives una mica altes. Els amics podran fer-li la celebració que vol?</desc>
-    <length units="minutes">00:10:00</length>
-  </programme>
-  <programme start="20260906032644 +0000" channel="tv3" stop="20260906041819 +0000">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Paula-Sofia / Matilda-Samuel</sub-title>
-    <desc lang="ca">La Paula i la Sofia es retroben 7 anys després. L'atracció i la connexió segueixen sent la mateixa que el primer dia. La Paula ara és mare soltera, mentre que la Sofia viu a Guatemala, només està de pas i són les seves últimes hores a Barcelona. Amb el temps corrent en contra seva, han de decidir si estan disposades a arriscar-ho tot per estar juntes per fi, o si prendran camins diferents altre cop.Mentrestant, la Matilda, que no ha tingut un bon dia, ni una bona setmana, ni un bon mes, necessita follar immediatament per oblidar-se de tot. La seva sort sembla millorar quan fa 'match' amb el Samuel, un noi que sembla el germà guapo de Thor. La Matilda no vol perdre el temps, però al Samuel li agrada anar amb menys presses. La cita es converteix en un xoc de trens que no sembla que hagi d'acabar en bon port.</desc>
-    <length units="minutes">00:51:35</length>
-  </programme>
-  <programme start="20260906041819 +0000" channel="tv3" stop="20260906050251 +0000">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Alba-Josep / Dani-Javi</sub-title>
-    <desc lang="ca">El Dani està decidit a aconseguir que la seva germana Alba, una noia amb discapacitat intel·lectual, tingui la seva primera cita. Ella accepta amb una condició: que ell també en tingui una. Aquesta cita doble té lloc al mateix restaurant. En una taula, l'Alba coneix en Josep, un noi amb autisme que, com ella, té dificultats per interactuar socialment, especialment si es tracta d'una cita. A l'altra taula, el Dani coneix el Javi, que s'identifica com a arromàntic, és a dir, algú incapaç d'enamorar-se. El Dani encara està superant la seva recent ruptura sentimental, mentre que el Javi ha acudit a la cita per guanyar una aposta.A primera vista, sembla que cap de les dues cites té moltes possibilitats d'èxit, però a mesura que avança la nit, tots comencen a connectar a la seva manera.</desc>
-    <length units="minutes">00:44:32</length>
+  <programme start="20260906122118 +0000" channel="tv3" stop="20260906130824 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La perxa d'atletisme</sub-title>
+    <desc lang="ca">Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
+    <length units="minutes">00:47:06</length>
   </programme>
 </tv>
