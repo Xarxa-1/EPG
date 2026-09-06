@@ -1,76 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260905210000 +0000" channel="tvi" stop="20260905220339 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7318</sub-title>
-    <length units="minutes">01:03:39</length>
-  </programme>
-  <programme start="20260905220048 +0000" channel="tvi" stop="20260905222558 +0000">
-    <title lang="ca">Emocionari Il·lustrat</title>
-    <sub-title lang="ca">La por</sub-title>
-    <desc lang="ca">Al capítol 'La por' de l''Emocionari Il·lustrat', l'artista Lily Brick entrevistarà dos dels autors de literatura infantil més exitosos del moment: l'autora Meritxell Martí i l'il·lustrador Xavier Salomó. Descobrirem tots els secrets que amaguen llibres com 'Una casa de por' o 'La casa de l'avi'. A més, la il·lustradora dels crèdits de la sèrie 'Solo asesinatos en el edificio', Laura Pérez Granel, ens il·lustrarà la por amb un dels seus personatges enigmàtics. Per acabar, els germans Grangel, que han triomfat a Hollywood amb la creació de personatges icònics com els de 'La núvia cadàver' o 'Hotel Transsilvània', ensenyaran a la Lily com fer un monstre per a una pel·lícula d'animació, sense pintura ni colors: només amb cafè.</desc>
-    <length units="minutes">00:25:10</length>
-  </programme>
-  <programme start="20260905210000 +0000" channel="324" stop="20260905230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7318</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260905230000 +0000" channel="324" stop="20260906003000 +0000">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260906020001 +0000" channel="tvi" stop="20260906043001 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11095</sub-title>
+    <sub-title lang="ca">11096</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260905212906 +0000" channel="esport3" stop="20260905222201 +0000">
+  <programme start="20260906043001 +0000" channel="tvi" stop="20260906051457 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Òscar Font &amp; The Swingones</sub-title>
+    <desc lang="ca">Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
+    <length units="minutes">00:44:56</length>
+  </programme>
+  <programme start="20260906010000 +0000" channel="324" stop="20260906060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11096</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260906060000 +0000" channel="324" stop="20260906070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11096</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260906022925 +0000" channel="esport3" stop="20260906035549 +0000">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Supercopa Ibèrica / Final</sub-title>
     <desc lang="ca">Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="minutes">00:52:55</length>
+    <length units="minutes">01:26:24</length>
   </programme>
-  <programme start="20260905222201 +0000" channel="esport3" stop="20260905230000 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">Scooter Street / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">00:37:59</length>
+  <programme start="20260906035549 +0000" channel="esport3" stop="20260906042127 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5500</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:25:38</length>
   </programme>
-  <programme start="20260905212054 +0000" channel="sx3" stop="20260905214104 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Hèrcules, l'escarabat gegant</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt és a la selva pluvial de l'Amèrica Central per estudiar les característiques de l'escarabat hèrcules, l'escarabat més gros i més fort que hi ha. A causa d'un accident amb el miniaturitzador, un escarabat d'aquests es fa més gros i es transforma en un escarabat gegant que amenaça de destruir la selva i una ciutat que hi ha a prop. L'equip dels germans Kratt haurà de trobar la manera d'evitar-ho i de fer-lo tornar a la mida normal.</desc>
-    <length units="minutes">00:20:10</length>
+  <programme start="20260906032840 +0000" channel="sx3" stop="20260906033910 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">El pastís del Hooper</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, els amics competeixen per veure qui fa el plat del dia del cafè de Pop, la ciutat de paper. El Hooper ha decidit fer, ajudat per la Fly, un pastís de gelatina espectacular, però el vol fer massa de pressa. Aguantarà bé, el pastís?</desc>
+    <length units="minutes">00:10:30</length>
   </programme>
-  <programme start="20260905214104 +0000" channel="sx3" stop="20260905220359 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Liturgusa Krattorium</sub-title>
-    <desc lang="ca">L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.</desc>
-    <length units="minutes">00:22:55</length>
+  <programme start="20260906033910 +0000" channel="sx3" stop="20260906034910 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">La llista dels sís</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, és l'aniversari del Plom! Per celebrar-ho, els seus amics li han promès que faran realitat tot el que desitgi durant tot el dia. Però el Plom té unes expectatives una mica altes. Els amics podran fer-li la celebració que vol?</desc>
+    <length units="minutes">00:10:00</length>
   </programme>
-  <programme start="20260905211330 +0000" channel="tv3" stop="20260905220330 +0000">
-    <title lang="ca">Gent de món</title>
-    <sub-title lang="ca">Mediterrani Occidental (1a part)</sub-title>
-    <desc lang="ca">Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit.</desc>
-    <length units="minutes">00:50:00</length>
+  <programme start="20260906032644 +0000" channel="tv3" stop="20260906041819 +0000">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Paula-Sofia / Matilda-Samuel</sub-title>
+    <desc lang="ca">La Paula i la Sofia es retroben 7 anys després. L'atracció i la connexió segueixen sent la mateixa que el primer dia. La Paula ara és mare soltera, mentre que la Sofia viu a Guatemala, només està de pas i són les seves últimes hores a Barcelona. Amb el temps corrent en contra seva, han de decidir si estan disposades a arriscar-ho tot per estar juntes per fi, o si prendran camins diferents altre cop.Mentrestant, la Matilda, que no ha tingut un bon dia, ni una bona setmana, ni un bon mes, necessita follar immediatament per oblidar-se de tot. La seva sort sembla millorar quan fa 'match' amb el Samuel, un noi que sembla el germà guapo de Thor. La Matilda no vol perdre el temps, però al Samuel li agrada anar amb menys presses. La cita es converteix en un xoc de trens que no sembla que hagi d'acabar en bon port.</desc>
+    <length units="minutes">00:51:35</length>
   </programme>
-  <programme start="20260905220330 +0000" channel="tv3" stop="20260905230154 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Bolonya</sub-title>
-    <desc lang="ca">A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
-    <length units="minutes">00:58:24</length>
+  <programme start="20260906041819 +0000" channel="tv3" stop="20260906050251 +0000">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Alba-Josep / Dani-Javi</sub-title>
+    <desc lang="ca">El Dani està decidit a aconseguir que la seva germana Alba, una noia amb discapacitat intel·lectual, tingui la seva primera cita. Ella accepta amb una condició: que ell també en tingui una. Aquesta cita doble té lloc al mateix restaurant. En una taula, l'Alba coneix en Josep, un noi amb autisme que, com ella, té dificultats per interactuar socialment, especialment si es tracta d'una cita. A l'altra taula, el Dani coneix el Javi, que s'identifica com a arromàntic, és a dir, algú incapaç d'enamorar-se. El Dani encara està superant la seva recent ruptura sentimental, mentre que el Javi ha acudit a la cita per guanyar una aposta.A primera vista, sembla que cap de les dues cites té moltes possibilitats d'èxit, però a mesura que avança la nit, tots comencen a connectar a la seva manera.</desc>
+    <length units="minutes">00:44:32</length>
   </programme>
 </tv>
