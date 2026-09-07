@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260907172440 +0000" channel="tvi" stop="20260907191400 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">404</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:49:20</length>
+  <programme start="20260907221024 +0000" channel="tvi" stop="20260908021243 +0000">
+    <title lang="ca">Catalunya aixeca el teló</title>
+    <sub-title lang="ca">Catalunya aixeca el teló - Catalunya aixeca el teló (2026)</sub-title>
+    <desc lang="ca">La gala Catalunya Aixeca el Teló compleix 25 anys i torna a donar el tret de sortida a la temporada teatral. Aquest any ho fa amb un gran espectacle de teatre musical que repassa l'evolució de la societat catalana i del teatre a través de la història d'una família. El Gran Teatre del Liceu torna a acollir aquesta gran nit de les arts escèniques com compta amb un text carregat d'humor i emoció creat per Sergi Belbel, amb l'adaptació d'Edu Pericas, la direcció musical de Xavier Mestres i, tot plegat, sota la direcció artística de Joan Maria Segura.</desc>
+    <length units="minutes">04:02:19</length>
   </programme>
-  <programme start="20260907191400 +0000" channel="tvi" stop="20260907201500 +0000">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <sub-title lang="ca">988</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:01:00</length>
+  <programme start="20260908021243 +0000" channel="tvi" stop="20260908035829 +0000">
+    <title lang="ca">Teatre</title>
+    <sub-title lang="ca">Teatre - L'alegria que passa</sub-title>
+    <desc lang="ca">L'ALEGRIA QUE PASSAUn espectacle de Dagoll DagomA partir de l'obra de Santiago RusiñolText i direcció d'escena: Marc RosichMúsica i direcció musical: Andreu GallénDirecció coreogràfica: Ariadna PeyaDramatúrgia: Anna Rosa Cisquella, Andreu Gallén, Ariadna Peya i Marc RosichLletres: Marc Rosich i Andreu GallénLa companyia:Mariona CastilloJordi CollJúlia GenísEloi GómezÀngels GonyalonsPol GuimeràBasem NahnouhPau OliverDavid Pérez-BayonaSINOPSIUn poble gris, monòton i industrial veu trencada la seva rutina laborable amb l'arribada d'un gran espectacle musical.La companyia ha sigut contractada per l'alcalde del poble i propietari de l'única fàbrica en tota la població. Joan, el fill de l'alcalde que és a punt de casar-se amb la seva parella Lina, s'enamora de la gran estrella Zaira i vol fugir amb ella lluny del poble gris. Zaira, en canvi, està esgotada de la seva vida nòmada i desitjaria quedar-se a viure al poble i portar una vida amb tranquil·litat. Al seu costat Puck, l'agressiu mànager, la maltracta creient-la de la seva propietat i li exigeix que continuï. L'autoritari i fals demòcrata alcalde obliga el seu fill a desistir dels seus somnis.</desc>
+    <length units="minutes">01:45:46</length>
   </programme>
-  <programme start="20260907183000 +0000" channel="324" stop="20260907200000 +0000">
+  <programme start="20260907220500 +0000" channel="324" stop="20260908000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2154</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260908000000 +0000" channel="324" stop="20260908003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11109</sub-title>
+    <sub-title lang="ca">11111</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260907200000 +0000" channel="324" stop="20260907210000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11110</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20260907182638 +0000" channel="esport3" stop="20260907190000 +0000">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">174</sub-title>
-    <desc lang="ca">La família vendrellenca té més de 500 esportistes en 35 equips, i la secció de futbol és un referent a les comarques tarragonines. Fundat fa 113 anys, actualment viu un dels millors moments de la seva història. I a més a més de la visita al Vendrell, us oferim els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="minutes">00:33:22</length>
-  </programme>
-  <programme start="20260907190000 +0000" channel="esport3" stop="20260907203047 +0000">
+  <programme start="20260907213510 +0000" channel="esport3" stop="20260907230026 +0000">
     <title lang="ca">Tot Costa</title>
     <sub-title lang="ca">1003</sub-title>
     <desc lang="ca">El Barça té nou trident de moda. Qui marcarà més gols a final de temporada? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. També analitzarem al 'Torquelab', amb Ricard Torquemada, què canvia al Barça amb Rodri. Tancarem el programa amb entrevista a Àlex Palou i al president del CE Europa, Hector Ibar</desc>
-    <length units="minutes">01:30:47</length>
+    <length units="minutes">01:25:16</length>
   </programme>
-  <programme start="20260907183332 +0000" channel="sx3" stop="20260907184708 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió al menjador de l'escola</sub-title>
-    <desc lang="ca">Aquesta setmana tornem a l'escola! Potser alguns de vosaltres us hi quedareu a dinar, voleu que descobrim junts què ens podem trobar al menjador del col·le? Doncs, som-hi!</desc>
-    <length units="minutes">00:13:36</length>
+  <programme start="20260907230026 +0000" channel="esport3" stop="20260908003038 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1245</sub-title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="minutes">01:30:12</length>
   </programme>
-  <programme start="20260907184708 +0000" channel="sx3" stop="20260907185622 +0000">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar! Amb en Titó i els Fa la la - A jugar amb el cargol treu banya</sub-title>
-    <desc lang="ca">A l'hort, en Titó i els Fa La La coneixen un cargol molt trist perquè és l'únic cargol treu banya que no ha pujat mai cap muntanya. Per sort, el Tritó té la solució per aconseguir-ho: un superentrenament secret del Montseny!</desc>
-    <length units="minutes">00:09:14</length>
+  <programme start="20260907224254 +0000" channel="sx3" stop="20260907230229 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - La persecució furiosa d'en Kogoro (2a part)</sub-title>
+    <desc lang="ca">A l'inici del concert de la famosa estrella underground Risa Purple, la Ran, que va vestida igual que la Risa, és segrestada per equivocació. En Kogoro, desesperat perquè no sap si tornarà a veure viva la seva filla, envia un missatge per televisió al segrestador. El missatge, però, és una enginyosa trampa pensada per poder atrapar el veritable culpable del segrest i aconseguir, si és possible, rescatar la Ran amb vida.</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20260907183239 +0000" channel="tv3" stop="20260907200111 +0000">
-    <title lang="ca">L'últim iglú</title>
-    <sub-title lang="ca">L'últim iglú - L'últim iglú</sub-title>
-    <desc lang="ca">Documentar l'enginyós ofici de la construcció d'iglús abans que sigui massa tard; aquesta pel·lícula és una extraordinària i poètica immersió sensorial en un paisatge de gel i neu. L'últim iglú explica la història d'un dia a la vida d'un caçador inuit a Groenlàndia i l'iglú que construeix a la tundra gelada. Filmades per revelar la bellesa dels detalls del dia a dia del caçador i de la construcció d'iglús, les impressionants imatges es veuen millorades per un disseny sonor que captura cada tros de neu i gel, així com el paisatge sonor del desert àrtic. En el fons, aquesta pel·lícula és una celebració absorbent i meditativa d'una forma d'art juntament amb el seu entorn i un recordatori commovedor del que aviat pot desaparèixer.</desc>
-    <length units="minutes">01:28:32</length>
+  <programme start="20260907230229 +0000" channel="sx3" stop="20260907232320 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Les set persones de la sala d'espera</sub-title>
+    <desc lang="ca">Per culpa d'un tifó, la Ran, en Conan i en Kogoro es queden atrapats en una estació de tren aïllada amb set persones més. En Kogoro troba una nota a la butxaca on l'avisen que aquella mateixa nit es cometrà un assassinat. Al cap d'unes hores, mentre tothom dorm, una de les passatgeres mor assassinada d'un tret quan es disposava a marxar. Tots els passatgers amaguen alguna cosa i, per tant, tots són sospitosos.</desc>
+    <length units="minutes">00:20:51</length>
   </programme>
-  <programme start="20260907200111 +0000" channel="tv3" stop="20260907205944 +0000">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Un planeta perfecte - Volcà</sub-title>
-    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
-    <length units="minutes">00:58:33</length>
+  <programme start="20260907220116 +0000" channel="tv3" stop="20260907225446 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - L'escombra</sub-title>
+    <desc lang="ca">Sou dels que teniu l'escombra penjada darrere la porta de la cuina, dels que la guardeu en un armari o dels que la teniu tirada dins d'una habitació dedicada exclusivament a la bugaderia i la neteja? Avui dediquem el capítol a l'escombra, no als que teniu tants metres quadrats de casa que podeu tenir una habitació per la neteja. Ens visita l'Irene Minovas, humorista i actriu, de qui no només descobrim el seu futur, sinó també el seu passat. I sortim a passejar a la Sarnee per la mort de la família reial del Nepal.</desc>
+    <length units="minutes">00:53:30</length>
+  </programme>
+  <programme start="20260907225446 +0000" channel="tv3" stop="20260907232317 +0000">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">Tot torna - 1985</sub-title>
+    <desc lang="ca">Sinopsi global Tot torna</desc>
+    <length units="minutes">00:28:31</length>
   </programme>
 </tv>
