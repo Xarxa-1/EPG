@@ -3,74 +3,76 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20260906210000 +0000" channel="tvi" stop="20260906220431 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7319</sub-title>
-    <length units="minutes">01:04:31</length>
+  <programme start="20260907014908 +0000" channel="tvi" stop="20260907043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11104</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:40:52</length>
   </programme>
-  <programme start="20260906220024 +0000" channel="tvi" stop="20260906234354 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Coses a fer abans de morir</sub-title>
-    <desc lang="ca">COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.</desc>
-    <length units="minutes">01:43:30</length>
+  <programme start="20260907043000 +0000" channel="tvi" stop="20260907050938 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Gerard Nieto Quartet</sub-title>
+    <desc lang="ca">Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.</desc>
+    <length units="minutes">00:39:38</length>
   </programme>
-  <programme start="20260906210000 +0000" channel="324" stop="20260906230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7319</sub-title>
+  <programme start="20260907010000 +0000" channel="324" stop="20260907060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11104</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260907060000 +0000" channel="324" stop="20260907080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11104</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260906230000 +0000" channel="324" stop="20260907003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11103</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260907023325 +0000" channel="esport3" stop="20260907044233 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">MoraBanc Andorra-Barça / Amistós</sub-title>
+    <desc lang="ca">Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal.</desc>
+    <length units="minutes">02:09:08</length>
   </programme>
-  <programme start="20260906210133 +0000" channel="esport3" stop="20260906221601 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">01:14:28</length>
+  <programme start="20260907044233 +0000" channel="esport3" stop="20260907063230 +0000">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Múrcia FS-Barça / Supercopa d'Espanya / Final</sub-title>
+    <desc lang="ca">Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
+    <length units="minutes">01:49:57</length>
   </programme>
-  <programme start="20260906221601 +0000" channel="esport3" stop="20260906230000 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">Scooter Park / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">00:43:59</length>
+  <programme start="20260907032821 +0000" channel="sx3" stop="20260907033851 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">El gran esplaix del Zip</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, els amics van a un parc aquàtic! Després de banyar-se a la piscina gran, decideixen baixar pels tobogans, però el Zip es posa nerviós. El Plom decideix acompanyar-lo pel parc fins que arriben al tobogan més gran. S'atreviran a baixar-hi?</desc>
+    <length units="minutes">00:10:30</length>
   </programme>
-  <programme start="20260906214110 +0000" channel="sx3" stop="20260906220330 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El rescat del pangolí</sub-title>
-    <desc lang="ca">L'Aviva descobreix els pangolins i renya els germans Kratt perquè no li havien parlat mai d'aquest animal tan especial. Aleshores l'equip rep un avís de la Yi i el Duyi, uns companys de la Xina que els expliquen que algú està parant trampes per capturar pangolins. És el Gormand, que vol utilitzar les escates de l'animal per vendre-les com a aliment beneficiós per a la salut. La missió de l'equip consistirà a rescatar-los i també a impedir que el malvat enredi la gent amb un producte saludable fals.</desc>
-    <length units="minutes">00:22:20</length>
+  <programme start="20260907033851 +0000" channel="sx3" stop="20260907034851 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">La ruta sobre pop-rodes</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, la colla d'amics fan una ruta amb bicicleta i patins. Però la Phoebe cau amb la seva bicicleta nova i després li fa por tornar-hi a pujar. Aconseguirà fer tota la ruta amb els seus amics?</desc>
+    <length units="minutes">00:10:00</length>
   </programme>
-  <programme start="20260906220330 +0000" channel="sx3" stop="20260906221425 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Batussa fraternal</sub-title>
-    <desc lang="ca">La Panda i l'Ondine no paren de barallar-se, i converteixen la vida a la casa familiar en un infern, sobretot per la Roxane. A més, les dues germanes exigeixen a la gent de l'entorn que prengui partit per una de les dues. L'única solució per la Roxane és aconseguir reconciliar-les, i per fer-ho haurà de buscar alguna cosa que les dues tinguin en comú.</desc>
-    <length units="minutes">00:10:55</length>
+  <programme start="20260907032657 +0000" channel="tv3" stop="20260907041702 +0000">
+    <title lang="ca">Alaska salvatge</title>
+    <sub-title lang="ca">Primavera</sub-title>
+    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
+    <length units="minutes">00:50:05</length>
   </programme>
-  <programme start="20260906211003 +0000" channel="tv3" stop="20260906215932 +0000">
-    <title lang="ca">Gent de món</title>
-    <sub-title lang="ca">Mediterrani Occidental (2a part)</sub-title>
-    <desc lang="ca">Avui comencem a Florència, una ciutat que, tot i que no té port, és una de les més visitades pels creueristes de tot el món. Reprenem un viatge que en aquest capítol ens durà per tot Itàlia, de nord a sud. Continuarem per Roma, que per a molts altres, que no són els d'abans, és també la més bonica ; i acabarem a Nàpols, que no és la més maca per a ningú, però potser és la més interessant.</desc>
-    <length units="minutes">00:49:29</length>
-  </programme>
-  <programme start="20260906215932 +0000" channel="tv3" stop="20260906224511 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Japó I</sub-title>
-    <desc lang="ca">Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
-    <length units="minutes">00:45:39</length>
+  <programme start="20260907041702 +0000" channel="tv3" stop="20260907050620 +0000">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Claudia-Imanol</sub-title>
+    <desc lang="ca">La Claudia i l'Imanol es van conèixer l'estiu del 1988 a Valtueña, un poble de Sòria. Allà, es van enamorar i es van fer el seu primer petó. Des de llavors, no s'han tornat a veure, però la seva història d'amor és recordada pels habitants del poble amb molta tendresa.34 anys després, s'han retrobat a través de Tinder. L'Imanol creu que el seu retrobament no ha estat una casualitat i que el seu destí sempre ha estat estar junts. La Claudia pensa que el destí no és més que una invenció que la gent fa servir per donar sentit a les seves vides.A mesura que avança la cita, les diferències entre ells i la pressió de les expectatives que han generat a propòsit d'aquest retrobament posaran en perill el conte de fades.</desc>
+    <length units="minutes">00:49:18</length>
   </programme>
 </tv>
