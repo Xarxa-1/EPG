@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -15,64 +15,61 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260907014908 +0000" channel="tvi" stop="20260907043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11104</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:40:52</length>
+  <programme start="20260907105955 +0000" channel="tvi" stop="20260907140000 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1803</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:00:05</length>
   </programme>
-  <programme start="20260907043000 +0000" channel="tvi" stop="20260907050938 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Gerard Nieto Quartet</sub-title>
-    <desc lang="ca">Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.</desc>
-    <length units="minutes">00:39:38</length>
+  <programme start="20260907140000 +0000" channel="tvi" stop="20260907143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7029</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260907010000 +0000" channel="324" stop="20260907060000 +0000">
+  <programme start="20260907120000 +0000" channel="324" stop="20260907140000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11104</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20260907060000 +0000" channel="324" stop="20260907080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11104</sub-title>
+    <sub-title lang="ca">11106</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260907023325 +0000" channel="esport3" stop="20260907044233 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">MoraBanc Andorra-Barça / Amistós</sub-title>
-    <desc lang="ca">Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal.</desc>
-    <length units="minutes">02:09:08</length>
+  <programme start="20260907140000 +0000" channel="324" stop="20260907143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7029</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260907044233 +0000" channel="esport3" stop="20260907063230 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Múrcia FS-Barça / Supercopa d'Espanya / Final</sub-title>
-    <desc lang="ca">Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
-    <length units="minutes">01:49:57</length>
+  <programme start="20260907112630 +0000" channel="esport3" stop="20260907130000 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J4 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:33:30</length>
   </programme>
-  <programme start="20260907032821 +0000" channel="sx3" stop="20260907033851 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">El gran esplaix del Zip</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, els amics van a un parc aquàtic! Després de banyar-se a la piscina gran, decideixen baixar pels tobogans, però el Zip es posa nerviós. El Plom decideix acompanyar-lo pel parc fins que arriben al tobogan més gran. S'atreviran a baixar-hi?</desc>
-    <length units="minutes">00:10:30</length>
+  <programme start="20260907130000 +0000" channel="esport3" stop="20260907140048 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3234</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:00:48</length>
   </programme>
-  <programme start="20260907033851 +0000" channel="sx3" stop="20260907034851 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">La ruta sobre pop-rodes</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, la colla d'amics fan una ruta amb bicicleta i patins. Però la Phoebe cau amb la seva bicicleta nova i després li fa por tornar-hi a pujar. Aconseguirà fer tota la ruta amb els seus amics?</desc>
-    <length units="minutes">00:10:00</length>
+  <programme start="20260907125425 +0000" channel="sx3" stop="20260907131711 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - A la càrrega, rinoceronts!</sub-title>
+    <desc lang="ca">Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
+    <length units="minutes">00:22:46</length>
   </programme>
-  <programme start="20260907032657 +0000" channel="tv3" stop="20260907041702 +0000">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Primavera</sub-title>
-    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
-    <length units="minutes">00:50:05</length>
+  <programme start="20260907131711 +0000" channel="sx3" stop="20260907133823 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - La promesa desapareguda</sub-title>
+    <desc lang="ca">En Haruki Toriumi, futur hereu d'una rica família d'empresaris, li encarrega a en Kogoro que trobi la seva promesa, desapareguda des de fa tres dies. Tot un seguit de casualitats faran que en Kogoro i en Conan sospitin que la noia és morta i descobreixin de seguida els dos presumptes culpables, però en Conan creu que, darrere d'aquest cas aparentment tan senzill, s'hi amaga una història molt més complexa.</desc>
+    <length units="minutes">00:21:12</length>
   </programme>
-  <programme start="20260907041702 +0000" channel="tv3" stop="20260907050620 +0000">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Claudia-Imanol</sub-title>
-    <desc lang="ca">La Claudia i l'Imanol es van conèixer l'estiu del 1988 a Valtueña, un poble de Sòria. Allà, es van enamorar i es van fer el seu primer petó. Des de llavors, no s'han tornat a veure, però la seva història d'amor és recordada pels habitants del poble amb molta tendresa.34 anys després, s'han retrobat a través de Tinder. L'Imanol creu que el seu retrobament no ha estat una casualitat i que el seu destí sempre ha estat estar junts. La Claudia pensa que el destí no és més que una invenció que la gent fa servir per donar sentit a les seves vides.A mesura que avança la cita, les diferències entre ells i la pressió de les expectatives que han generat a propòsit d'aquest retrobament posaran en perill el conte de fades.</desc>
-    <length units="minutes">00:49:18</length>
+  <programme start="20260907122240 +0000" channel="tv3" stop="20260907132314 +0000">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
+    <length units="minutes">01:00:34</length>
+  </programme>
+  <programme start="20260907132314 +0000" channel="tv3" stop="20260907141535 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Família Toulat</sub-title>
+    <desc lang="ca">La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
+    <length units="minutes">00:52:21</length>
   </programme>
 </tv>
