@@ -1,78 +1,80 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260908030825 +0000" channel="tvi" stop="20260908043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11112</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:21:35</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20260908102957 +0000" channel="tvi" stop="20260908135457 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1804</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:25:00</length>
   </programme>
-  <programme start="20260908043000 +0000" channel="tvi" stop="20260908050934 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - PERE SOTO GYPSY PROJECT</sub-title>
-    <desc lang="ca">Pere Soto Gypsy Project, una formació que es basa en l'escola de gypsy jazz de Django Reinhart i, segons Soto, en l'època daurada del jazz: del swing al bebop. El guitarrista ens presenta el seu nou material amb aquest grup, en el qual inclou la bateria, que, juntament amb la guitarra rítmica, intenta aproximar-se a un so més dels anys 50, quan el gypsy swing s'obre a noves fronteres. Josep Traver, a la guitarra; Curro Gálvez, al contrabaix, i Salvador Toscano, a la bateria.</desc>
-    <length units="minutes">00:39:34</length>
+  <programme start="20260908135457 +0000" channel="tvi" stop="20260908142959 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7030</sub-title>
+    <length units="minutes">00:35:02</length>
   </programme>
-  <programme start="20260908010000 +0000" channel="324" stop="20260908060000 +0000">
+  <programme start="20260908103000 +0000" channel="324" stop="20260908123000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11112</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20260908060000 +0000" channel="324" stop="20260908080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11113</sub-title>
+    <sub-title lang="ca">11114</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260908024612 +0000" channel="esport3" stop="20260908042159 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">1003</sub-title>
-    <desc lang="ca">El Barça té nou trident de moda. Qui marcarà més gols a final de temporada? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. També analitzarem al 'Torquelab', amb Ricard Torquemada, què canvia al Barça amb Rodri. Tancarem el programa amb entrevista a Àlex Palou i al president del CE Europa, Hector Ibar</desc>
-    <length units="minutes">01:35:47</length>
+  <programme start="20260908123000 +0000" channel="324" stop="20260908133000 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">256</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260908042159 +0000" channel="esport3" stop="20260908045438 +0000">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Zona Zàping Club - Maria Bouabdellah accepta el desafiament del Zapi</sub-title>
-    <desc lang="ca">Tres vídeos, tres finals imprevisibles i una única oportunitat per endur-se la samarreta i el carnet oficial del club. Maria Bouabdellah accepta el repte i el DJ Frande sorprèn el plató amb una nova exhibició musical tan peculiar com memorable.</desc>
-    <length units="minutes">00:32:39</length>
+  <programme start="20260908112509 +0000" channel="esport3" stop="20260908125700 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1245</sub-title>
+    <desc lang="ca">Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <length units="minutes">01:31:51</length>
   </programme>
-  <programme start="20260908033834 +0000" channel="sx3" stop="20260908035942 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Vampigami</sub-title>
-    <desc lang="ca">A la Marinette li fa por que l'Adrien deixi d'estimar-la si no va al cine amb ell, i per això s'obliga a acompanyar-lo a veure una pel·lícula de terror, que és la pitjor fòbia de la Marinette. L'espera una sessió d'esgarrifances, angoixa i terror! Uh!</desc>
-    <length units="minutes">00:21:08</length>
+  <programme start="20260908125700 +0000" channel="esport3" stop="20260908140122 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3235</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:04:22</length>
   </programme>
-  <programme start="20260908035942 +0000" channel="sx3" stop="20260908042144 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - El senyor Agreste</sub-title>
-    <desc lang="ca">L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
-    <length units="minutes">00:22:02</length>
+  <programme start="20260908120615 +0000" channel="sx3" stop="20260908121632 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">169</sub-title>
+    <desc lang="ca">Seguint les indicacions de la lletra de la cançó dels Free Birds, la Charlie i en Jimmy troben una capsa misteriosa en una cabana ensorrada al bosc que envolta la casa d'en Valke. ¿Contindrà la pista definitiva per trobar el llibre que vol la reina de trèvols? D'altra banda, després del seu magnífic número per parelles, ha arribat l'hora dels adeus per a l'Alex i en Jules.</desc>
+    <length units="minutes">00:10:17</length>
   </programme>
-  <programme start="20260908024926 +0000" channel="tv3" stop="20260908041915 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - El mort de la platja</sub-title>
-    <desc lang="ca">EL MORT DE LA PLATJA 'Le mort de la plage'Direcció: Claude-Michel RomeGuió: Claude-Michel RomeProducció: Fit Productions, AT-Prod, RTBF (Télévision Belge), France Télévisions, Radio Télévision Suisse (RTS), TV5 Monde, CNCAny: 2018Durada: 90País: FrançaMúsica: Frédéric PorteFotografia: Alain DucoussetIntèrprets: Claire Borotra, Jean-François Balmer, Michel Jonasz, Claire Chazal, Pierre Deny, Frédéric Amico, Elisabeth Macocco, Damien Leconte, Coralie Audret, Sylviane Goudal, François RabetteLa capitana Eloïse Gentil, del departament d'investigació de la gendarmeria de Caen, i en Robert Gentil, el seu pare, historiador especialitzat en la Segona Guerra Mundial, fa vint anys que estan enfadats però es reuneixen per investigar la mort d'en James Crawley, de 93 anys, que ha estat trobat vestit amb el seu uniforme de l'exèrcit dels Estats Units i lligat en un pal com si hagués estat afusellat 'per donar exemple'.</desc>
-    <length units="minutes">01:29:49</length>
+  <programme start="20260908121632 +0000" channel="sx3" stop="20260908123817 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - La mare cocodril</sub-title>
+    <desc lang="ca">En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20260908041915 +0000" channel="tv3" stop="20260908045920 +0000">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">La Mar de Bé - Afra Uno</sub-title>
-    <desc lang="ca">Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.</desc>
-    <length units="minutes">00:40:05</length>
+  <programme start="20260908114943 +0000" channel="tv3" stop="20260908122416 +0000">
+    <title lang="ca">Tot o res</title>
+    <sub-title lang="ca">27</sub-title>
+    <desc lang="ca">'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <length units="minutes">00:34:33</length>
+  </programme>
+  <programme start="20260908122416 +0000" channel="tv3" stop="20260908132211 +0000">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
+    <length units="minutes">00:57:55</length>
+  </programme>
+  <programme start="20260908120904 +0000" channel="tv3" stop="20260908140859 +0000">
+    <title lang="ca">Compareixença de Niubó per l'inici de curs, marcat per la vaga</title>
+    <sub-title lang="ca">4105</sub-title>
+    <length units="minutes">01:59:55</length>
   </programme>
 </tv>
