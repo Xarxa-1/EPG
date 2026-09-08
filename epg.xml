@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260908172147 +0000" channel="tvi" stop="20260908180000 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">405</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">00:38:13</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260908220927 +0000" channel="tvi" stop="20260908232748 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - 17A: Lliçons apreses?</sub-title>
+    <desc lang="ca">'17A: Lliçons apreses?' té l'objectiu d'analitzar i comprendre els processos, els comportaments i els patrons de conducta que es donen en els atemptats terroristes jihadistes. El punt de partida és el 'No tinc por' dels atemptats de Barcelona i Cambrils del 17 d'agost del 2017. El documental intenta explicar com uns joves, que no han viscut en la marginació social, han canviat de manera tan radical el rumb de les seves vides sense que ningú se n'hagi adonat. Aquests joves, un cop reclutats i consolidats com a cèl·lula jihadista disposada a atemptar, tenen, en alguns aspectes, uns comportaments semblants a altres cèl·lules que han actuat a Europa; en canvi, en altres, trenquen els esquemes. Es recorden els fets tràgics del 17 d'agost i el seus preparatius amb l'objectiu d'analitzar cada pas, entendre a què responen uns determinats comportaments, i els 'modus operandi' de l'anomenada 'cèl·lula de Ripoll'. I dels molts aspectes que encara queden per saber, dos són essencials: les connexions internacionals (especialment amb França i Bèlgica) i els contactes d'Abdelbaki es Satty amb el Centre Nacional d'Intel·ligència.El documental compta amb la participació de testimonis que havien conegut i tractat aquests joves, i amb diversos experts en la matèria, com Dolores Delgado, fiscal coordinadora de Terrorisme Jihadista de l'Audiència Provincial; el politòleg i especialista en el món àrab Gilles Kepel, i Nuria Perpinyà, tècnica de Convivència i Participació Ciutadana de Ripoll, entre d'altres.</desc>
+    <length units="minutes">01:18:21</length>
   </programme>
-  <programme start="20260908180000 +0000" channel="tvi" stop="20260908190000 +0000">
-    <title lang="ca">Medalles d'or de la Generalitat</title>
-    <sub-title lang="ca">Medalles d'or de la Generalitat - Medalles d'Or de la Generalitat 2026</sub-title>
-    <desc lang="ca">Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260908232748 +0000" channel="tvi" stop="20260909011432 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - La fi d'ETA</sub-title>
+    <desc lang="ca">'LA FI D'ETA' (2016), una producció de Quality Media i JWProductions, en coproducció amb Prisa, CMM, RTP, Baleuko, la participació d'ETB, Canal Sur, IB3 i amb la col·laboració de Televisió de Catalunya i el govern basc.La pel·lícula narra la història de les negociacions secretes, explicades des de dins pels seus protagonistes, que van portar al final de la violència terrorista d'ETA a Euskadi. Els personatges principals són tres: Jesus Eguiguren, líder socialista basc; Arnaldo Otegi, líder abertzale, i Alfredo Pérez Rubalcaba, ministre de l'Interior en el govern de José Luis Rodríguez Zapatero. Des de l'any 2000, quan van començar les converses secretes en un 'caserío' a Guipúscoa, fins al 2011, quan ETA va anunciar el cessament definitiu de la lluita armada. Les escenes de les reunions passen per Suïssa, Noruega, el País Basc, hi apareixen els líders d'ETA Josu Ternera i Francisco Javier López Peña 'Thierry', mentre al seu voltant pugen i baixen les esperances, la violència esclata amb noves víctimes, la campanya antiterrorista i judicial es torna a intensificar i els mediadors internacionals intenten ajudar en el procés complex per arribar a la pau. La societat basca es mobilitza i els partits polítics bascos fan els últims i delicats passos que els porten al final esperat.Direcció: Justin WebsterGuió: José Mª Izquierdo i Luis R. AizpeoleaProductor: Javier ReyesProductor executiu TVC: Joan SalvatDirector fotografia: Kim HattesenMuntatge: Marc MartíDirector de producció: Gustavo Jaén i Sumpta AyusoMúsica: Laro Basterrechea</desc>
+    <length units="minutes">01:46:44</length>
   </programme>
-  <programme start="20260908170000 +0000" channel="324" stop="20260908180000 +0000">
+  <programme start="20260908220500 +0000" channel="324" stop="20260909000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2155</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260909000000 +0000" channel="324" stop="20260909003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11117</sub-title>
+    <sub-title lang="ca">11120</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260908180000 +0000" channel="324" stop="20260908190000 +0000">
-    <title lang="ca">Medalles d'or de la Generalitat</title>
-    <sub-title lang="ca">Medalles d'Or de la Generalitat 2026</sub-title>
-    <desc lang="ca">Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260908211445 +0000" channel="esport3" stop="20260908223225 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">E3D - SKATE / EXTREME BARCELONA / FINAL FEMENINA</sub-title>
+    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">01:17:40</length>
   </programme>
-  <programme start="20260908171850 +0000" channel="esport3" stop="20260908174620 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Top gols La Lliga - Jornada 4</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:27:30</length>
+  <programme start="20260908223225 +0000" channel="esport3" stop="20260908230000 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Barça-Feyenoord</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:27:35</length>
   </programme>
-  <programme start="20260908174620 +0000" channel="esport3" stop="20260908185945 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3235</sub-title>
-    <desc lang="ca">Lamine Yamal i Hansi Flick, en la prèvia del Barça-Feyenoord de la Champions. A la tertúlia ens acompanyen Iris Miquel, Joan Poquí i Edgar Fornós.</desc>
-    <length units="minutes">01:13:25</length>
+  <programme start="20260908222430 +0000" channel="sx3" stop="20260908224405 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Els sospitosos són una parella molt enamorada (1a part)</sub-title>
+    <desc lang="ca">L'Ai està molt trasbalsada per la notícia que en Ryusuke Higo, un futbolista que li agrada molt, ha començat a sortir amb la Yoko Okino, la gran estrella de la cançó. I quan en Kogoro descobreix que la Yoko té nòvio, una mica més i es desmaia. L'Ai i en Kogoro fan un pacte per espiar la parella. Els localitzen en un restaurant i hi van, però, quan hi són, l'amo del restaurant apareix mort.</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20260908172436 +0000" channel="sx3" stop="20260908173355 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió a respirar</sub-title>
-    <desc lang="ca">La tornada al cole ja és aquí i és normal que tots estiguem una mica nerviosos. Avui en Titó anirà d'excursió a respirar d'una manera molt especial que ens pot ajudar a calmar-nos. Inspirarem, espirarem... i farem bombolles de sabó amb en John C!</desc>
-    <length units="minutes">00:09:19</length>
+  <programme start="20260908224405 +0000" channel="sx3" stop="20260908230457 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Els sospitosos són una parella molt enamorada (2a part)</sub-title>
+    <desc lang="ca">Mentre en Kogoro i l'Ai sopen en un restaurant amb en Conan per investigar si la Yoko Okino surt amb el futbolista Ryusuke Higo, assassinen el propietari del restaurant, que era company d'institut d'en Ryusuke i la Yoko. D'entrada, sembla que els sospitosos són la parella de famosos, però comencen a sortir indicis que apunten cap als treballadors de l'establiment. L'obsessió amb la Yoko encega en Kogoro, però en Conan té el cap clar.</desc>
+    <length units="minutes">00:20:52</length>
   </programme>
-  <programme start="20260908173355 +0000" channel="sx3" stop="20260908174353 +0000">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar! Amb en Titó i els Fa la la - A jugar amb un robot</sub-title>
-    <desc lang="ca">L'Os Bru construeix un robot per endreçar les joguines i així tots poden continuar jugant sense haver de recollir res de res. Però quan el robot detecta que són ells els que ho desordenen tot, decideix atrapar-los! Aconseguiran escapar-se?</desc>
-    <length units="minutes">00:09:58</length>
+  <programme start="20260908220027 +0000" channel="tv3" stop="20260908225226 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El bisturí</sub-title>
+    <desc lang="ca">Sabeu que el bisturí antigament el feien servir els barbers? I sabeu que abans de l'anestèsia no es valorava la precisió del bisturí sinó la rapidesa del cirurgià a l'hora de fer-lo servir? Dediquem el capítol d'avui al bisturí. Rebem la visita d'en Bartomeu Rocabert, rellotger. I un rellotger important, perquè a càrrec seu corren les agulles dels rellotges més importants de Catalunya. A 'Històries per passejar el gos' anem amb en Dungui per l'enfonsament de l'MV Wilhelm Gustloff, el 30 de gener del 1945.</desc>
+    <length units="minutes">00:51:59</length>
   </programme>
-  <programme start="20260908165914 +0000" channel="tv3" stop="20260908174453 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Japó I</sub-title>
-    <desc lang="ca">Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
-    <length units="minutes">00:45:39</length>
-  </programme>
-  <programme start="20260908174453 +0000" channel="tv3" stop="20260908183455 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Japó II</sub-title>
-    <desc lang="ca">La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
-    <length units="minutes">00:50:02</length>
+  <programme start="20260908225226 +0000" channel="tv3" stop="20260909004610 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - La forma de l'aigua</sub-title>
+    <desc lang="ca">LA FORMA DE L'AIGUA 'The Shape of Water'Direcció: Guillermo del ToroGuió: Guillermo del Toro, Vanessa TaylorProducció: Bull Productions, Fox SearchlightAny: 2017Durada: 119País: Estats UnitsMúsica: Alexandre DesplatFotografia: Dan LaustsenIntèrprets: Sally Hawkins, Doug Jones, Michael Shannon, Octavia Spencer, Richard Jenkins, Michael Stuhlbarg, Lauren Lee Smith, David Hewlett, Nick Searcy, Morgan Kelly, Dru Viergever, Maxine Grossman, Amanda Smith, Cyndy Day, Dave ReachillLa forma de l'aigua és una història romàntica i fantàstica ambientada als Estats Units durant la Guerra Freda. L'Elisa, una dona muda que treballa com a personal de neteja en un laboratori governamental secret, porta una vida solitària i rutinària. Tot canvia quan descobreix una misteriosa criatura aquàtica capturada en una missió militar. Mentre els científics i els militars la consideren un espècimen perillós, l'Elisa hi estableix una connexió profunda basada en la comprensió i l'afecte. A mesura que la relació creix, decideix arriscar-ho tot per salvar-la d'un destí cruel. La pel·lícula combina fantasia, drama i romanticisme per parlar de la diferència, la llibertat i la necessitat d'estimar i ser estimat.</desc>
+    <length units="minutes">01:53:44</length>
   </programme>
 </tv>
