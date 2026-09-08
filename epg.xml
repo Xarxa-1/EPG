@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
-  <programme start="20260907221024 +0000" channel="tvi" stop="20260908021243 +0000">
-    <title lang="ca">Catalunya aixeca el teló</title>
-    <sub-title lang="ca">Catalunya aixeca el teló - Catalunya aixeca el teló (2026)</sub-title>
-    <desc lang="ca">La gala Catalunya Aixeca el Teló compleix 25 anys i torna a donar el tret de sortida a la temporada teatral. Aquest any ho fa amb un gran espectacle de teatre musical que repassa l'evolució de la societat catalana i del teatre a través de la història d'una família. El Gran Teatre del Liceu torna a acollir aquesta gran nit de les arts escèniques com compta amb un text carregat d'humor i emoció creat per Sergi Belbel, amb l'adaptació d'Edu Pericas, la direcció musical de Xavier Mestres i, tot plegat, sota la direcció artística de Joan Maria Segura.</desc>
-    <length units="minutes">04:02:19</length>
-  </programme>
-  <programme start="20260908021243 +0000" channel="tvi" stop="20260908035829 +0000">
-    <title lang="ca">Teatre</title>
-    <sub-title lang="ca">Teatre - L'alegria que passa</sub-title>
-    <desc lang="ca">L'ALEGRIA QUE PASSAUn espectacle de Dagoll DagomA partir de l'obra de Santiago RusiñolText i direcció d'escena: Marc RosichMúsica i direcció musical: Andreu GallénDirecció coreogràfica: Ariadna PeyaDramatúrgia: Anna Rosa Cisquella, Andreu Gallén, Ariadna Peya i Marc RosichLletres: Marc Rosich i Andreu GallénLa companyia:Mariona CastilloJordi CollJúlia GenísEloi GómezÀngels GonyalonsPol GuimeràBasem NahnouhPau OliverDavid Pérez-BayonaSINOPSIUn poble gris, monòton i industrial veu trencada la seva rutina laborable amb l'arribada d'un gran espectacle musical.La companyia ha sigut contractada per l'alcalde del poble i propietari de l'única fàbrica en tota la població. Joan, el fill de l'alcalde que és a punt de casar-se amb la seva parella Lina, s'enamora de la gran estrella Zaira i vol fugir amb ella lluny del poble gris. Zaira, en canvi, està esgotada de la seva vida nòmada i desitjaria quedar-se a viure al poble i portar una vida amb tranquil·litat. Al seu costat Puck, l'agressiu mànager, la maltracta creient-la de la seva propietat i li exigeix que continuï. L'autoritari i fals demòcrata alcalde obliga el seu fill a desistir dels seus somnis.</desc>
-    <length units="minutes">01:45:46</length>
-  </programme>
-  <programme start="20260907220500 +0000" channel="324" stop="20260908000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2154</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260908000000 +0000" channel="324" stop="20260908003000 +0000">
+  <programme start="20260908030825 +0000" channel="tvi" stop="20260908043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11111</sub-title>
+    <sub-title lang="ca">11112</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">01:21:35</length>
   </programme>
-  <programme start="20260907213510 +0000" channel="esport3" stop="20260907230026 +0000">
+  <programme start="20260908043000 +0000" channel="tvi" stop="20260908050934 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Fusió i swing a l'estudi - PERE SOTO GYPSY PROJECT</sub-title>
+    <desc lang="ca">Pere Soto Gypsy Project, una formació que es basa en l'escola de gypsy jazz de Django Reinhart i, segons Soto, en l'època daurada del jazz: del swing al bebop. El guitarrista ens presenta el seu nou material amb aquest grup, en el qual inclou la bateria, que, juntament amb la guitarra rítmica, intenta aproximar-se a un so més dels anys 50, quan el gypsy swing s'obre a noves fronteres. Josep Traver, a la guitarra; Curro Gálvez, al contrabaix, i Salvador Toscano, a la bateria.</desc>
+    <length units="minutes">00:39:34</length>
+  </programme>
+  <programme start="20260908010000 +0000" channel="324" stop="20260908060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11112</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260908060000 +0000" channel="324" stop="20260908080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11113</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260908024612 +0000" channel="esport3" stop="20260908042159 +0000">
     <title lang="ca">Tot Costa</title>
     <sub-title lang="ca">1003</sub-title>
     <desc lang="ca">El Barça té nou trident de moda. Qui marcarà més gols a final de temporada? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. També analitzarem al 'Torquelab', amb Ricard Torquemada, què canvia al Barça amb Rodri. Tancarem el programa amb entrevista a Àlex Palou i al president del CE Europa, Hector Ibar</desc>
-    <length units="minutes">01:25:16</length>
+    <length units="minutes">01:35:47</length>
   </programme>
-  <programme start="20260907230026 +0000" channel="esport3" stop="20260908003038 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">1245</sub-title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="minutes">01:30:12</length>
+  <programme start="20260908042159 +0000" channel="esport3" stop="20260908045438 +0000">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Zona Zàping Club - Maria Bouabdellah accepta el desafiament del Zapi</sub-title>
+    <desc lang="ca">Tres vídeos, tres finals imprevisibles i una única oportunitat per endur-se la samarreta i el carnet oficial del club. Maria Bouabdellah accepta el repte i el DJ Frande sorprèn el plató amb una nova exhibició musical tan peculiar com memorable.</desc>
+    <length units="minutes">00:32:39</length>
   </programme>
-  <programme start="20260907224254 +0000" channel="sx3" stop="20260907230229 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - La persecució furiosa d'en Kogoro (2a part)</sub-title>
-    <desc lang="ca">A l'inici del concert de la famosa estrella underground Risa Purple, la Ran, que va vestida igual que la Risa, és segrestada per equivocació. En Kogoro, desesperat perquè no sap si tornarà a veure viva la seva filla, envia un missatge per televisió al segrestador. El missatge, però, és una enginyosa trampa pensada per poder atrapar el veritable culpable del segrest i aconseguir, si és possible, rescatar la Ran amb vida.</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20260908033834 +0000" channel="sx3" stop="20260908035942 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Vampigami</sub-title>
+    <desc lang="ca">A la Marinette li fa por que l'Adrien deixi d'estimar-la si no va al cine amb ell, i per això s'obliga a acompanyar-lo a veure una pel·lícula de terror, que és la pitjor fòbia de la Marinette. L'espera una sessió d'esgarrifances, angoixa i terror! Uh!</desc>
+    <length units="minutes">00:21:08</length>
   </programme>
-  <programme start="20260907230229 +0000" channel="sx3" stop="20260907232320 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Les set persones de la sala d'espera</sub-title>
-    <desc lang="ca">Per culpa d'un tifó, la Ran, en Conan i en Kogoro es queden atrapats en una estació de tren aïllada amb set persones més. En Kogoro troba una nota a la butxaca on l'avisen que aquella mateixa nit es cometrà un assassinat. Al cap d'unes hores, mentre tothom dorm, una de les passatgeres mor assassinada d'un tret quan es disposava a marxar. Tots els passatgers amaguen alguna cosa i, per tant, tots són sospitosos.</desc>
-    <length units="minutes">00:20:51</length>
+  <programme start="20260908035942 +0000" channel="sx3" stop="20260908042144 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - El senyor Agreste</sub-title>
+    <desc lang="ca">L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
+    <length units="minutes">00:22:02</length>
   </programme>
-  <programme start="20260907220116 +0000" channel="tv3" stop="20260907225446 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - L'escombra</sub-title>
-    <desc lang="ca">Sou dels que teniu l'escombra penjada darrere la porta de la cuina, dels que la guardeu en un armari o dels que la teniu tirada dins d'una habitació dedicada exclusivament a la bugaderia i la neteja? Avui dediquem el capítol a l'escombra, no als que teniu tants metres quadrats de casa que podeu tenir una habitació per la neteja. Ens visita l'Irene Minovas, humorista i actriu, de qui no només descobrim el seu futur, sinó també el seu passat. I sortim a passejar a la Sarnee per la mort de la família reial del Nepal.</desc>
-    <length units="minutes">00:53:30</length>
+  <programme start="20260908024926 +0000" channel="tv3" stop="20260908041915 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - El mort de la platja</sub-title>
+    <desc lang="ca">EL MORT DE LA PLATJA 'Le mort de la plage'Direcció: Claude-Michel RomeGuió: Claude-Michel RomeProducció: Fit Productions, AT-Prod, RTBF (Télévision Belge), France Télévisions, Radio Télévision Suisse (RTS), TV5 Monde, CNCAny: 2018Durada: 90País: FrançaMúsica: Frédéric PorteFotografia: Alain DucoussetIntèrprets: Claire Borotra, Jean-François Balmer, Michel Jonasz, Claire Chazal, Pierre Deny, Frédéric Amico, Elisabeth Macocco, Damien Leconte, Coralie Audret, Sylviane Goudal, François RabetteLa capitana Eloïse Gentil, del departament d'investigació de la gendarmeria de Caen, i en Robert Gentil, el seu pare, historiador especialitzat en la Segona Guerra Mundial, fa vint anys que estan enfadats però es reuneixen per investigar la mort d'en James Crawley, de 93 anys, que ha estat trobat vestit amb el seu uniforme de l'exèrcit dels Estats Units i lligat en un pal com si hagués estat afusellat 'per donar exemple'.</desc>
+    <length units="minutes">01:29:49</length>
   </programme>
-  <programme start="20260907225446 +0000" channel="tv3" stop="20260907232317 +0000">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">Tot torna - 1985</sub-title>
-    <desc lang="ca">Sinopsi global Tot torna</desc>
-    <length units="minutes">00:28:31</length>
+  <programme start="20260908041915 +0000" channel="tv3" stop="20260908045920 +0000">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">La Mar de Bé - Afra Uno</sub-title>
+    <desc lang="ca">Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.</desc>
+    <length units="minutes">00:40:05</length>
   </programme>
 </tv>
