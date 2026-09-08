@@ -1,80 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260908102957 +0000" channel="tvi" stop="20260908135457 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1804</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:25:00</length>
+  <programme start="20260908172147 +0000" channel="tvi" stop="20260908180000 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">405</sub-title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="minutes">00:38:13</length>
   </programme>
-  <programme start="20260908135457 +0000" channel="tvi" stop="20260908142959 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7030</sub-title>
-    <length units="minutes">00:35:02</length>
-  </programme>
-  <programme start="20260908103000 +0000" channel="324" stop="20260908123000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11114</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260908123000 +0000" channel="324" stop="20260908133000 +0000">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <sub-title lang="ca">256</sub-title>
+  <programme start="20260908180000 +0000" channel="tvi" stop="20260908190000 +0000">
+    <title lang="ca">Medalles d'or de la Generalitat</title>
+    <sub-title lang="ca">Medalles d'or de la Generalitat - Medalles d'Or de la Generalitat 2026</sub-title>
+    <desc lang="ca">Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260908112509 +0000" channel="esport3" stop="20260908125700 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">1245</sub-title>
-    <desc lang="ca">Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">01:31:51</length>
+  <programme start="20260908170000 +0000" channel="324" stop="20260908180000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11117</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260908125700 +0000" channel="esport3" stop="20260908140122 +0000">
+  <programme start="20260908180000 +0000" channel="324" stop="20260908190000 +0000">
+    <title lang="ca">Medalles d'or de la Generalitat</title>
+    <sub-title lang="ca">Medalles d'Or de la Generalitat 2026</sub-title>
+    <desc lang="ca">Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260908171850 +0000" channel="esport3" stop="20260908174620 +0000">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Top gols La Lliga - Jornada 4</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="minutes">00:27:30</length>
+  </programme>
+  <programme start="20260908174620 +0000" channel="esport3" stop="20260908185945 +0000">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">3235</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:04:22</length>
+    <desc lang="ca">Lamine Yamal i Hansi Flick, en la prèvia del Barça-Feyenoord de la Champions. A la tertúlia ens acompanyen Iris Miquel, Joan Poquí i Edgar Fornós.</desc>
+    <length units="minutes">01:13:25</length>
   </programme>
-  <programme start="20260908120615 +0000" channel="sx3" stop="20260908121632 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">169</sub-title>
-    <desc lang="ca">Seguint les indicacions de la lletra de la cançó dels Free Birds, la Charlie i en Jimmy troben una capsa misteriosa en una cabana ensorrada al bosc que envolta la casa d'en Valke. ¿Contindrà la pista definitiva per trobar el llibre que vol la reina de trèvols? D'altra banda, després del seu magnífic número per parelles, ha arribat l'hora dels adeus per a l'Alex i en Jules.</desc>
-    <length units="minutes">00:10:17</length>
+  <programme start="20260908172436 +0000" channel="sx3" stop="20260908173355 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Titó - Excursió a respirar</sub-title>
+    <desc lang="ca">La tornada al cole ja és aquí i és normal que tots estiguem una mica nerviosos. Avui en Titó anirà d'excursió a respirar d'una manera molt especial que ens pot ajudar a calmar-nos. Inspirarem, espirarem... i farem bombolles de sabó amb en John C!</desc>
+    <length units="minutes">00:09:19</length>
   </programme>
-  <programme start="20260908121632 +0000" channel="sx3" stop="20260908123817 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - La mare cocodril</sub-title>
-    <desc lang="ca">En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!</desc>
-    <length units="minutes">00:21:45</length>
+  <programme start="20260908173355 +0000" channel="sx3" stop="20260908174353 +0000">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar! Amb en Titó i els Fa la la - A jugar amb un robot</sub-title>
+    <desc lang="ca">L'Os Bru construeix un robot per endreçar les joguines i així tots poden continuar jugant sense haver de recollir res de res. Però quan el robot detecta que són ells els que ho desordenen tot, decideix atrapar-los! Aconseguiran escapar-se?</desc>
+    <length units="minutes">00:09:58</length>
   </programme>
-  <programme start="20260908114943 +0000" channel="tv3" stop="20260908122416 +0000">
-    <title lang="ca">Tot o res</title>
-    <sub-title lang="ca">27</sub-title>
-    <desc lang="ca">'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
-    <length units="minutes">00:34:33</length>
+  <programme start="20260908165914 +0000" channel="tv3" stop="20260908174453 +0000">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Japó I</sub-title>
+    <desc lang="ca">Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
+    <length units="minutes">00:45:39</length>
   </programme>
-  <programme start="20260908122416 +0000" channel="tv3" stop="20260908132211 +0000">
-    <title lang="ca">Atrapa'm si pots - Especials</title>
-    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
-    <length units="minutes">00:57:55</length>
-  </programme>
-  <programme start="20260908120904 +0000" channel="tv3" stop="20260908140859 +0000">
-    <title lang="ca">Compareixença de Niubó per l'inici de curs, marcat per la vaga</title>
-    <sub-title lang="ca">4105</sub-title>
-    <length units="minutes">01:59:55</length>
+  <programme start="20260908174453 +0000" channel="tv3" stop="20260908183455 +0000">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Japó II</sub-title>
+    <desc lang="ca">La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
+    <length units="minutes">00:50:02</length>
   </programme>
 </tv>
