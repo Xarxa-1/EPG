@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260908220927 +0000" channel="tvi" stop="20260908232748 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Nits Sense ficció - 17A: Lliçons apreses?</sub-title>
-    <desc lang="ca">'17A: Lliçons apreses?' té l'objectiu d'analitzar i comprendre els processos, els comportaments i els patrons de conducta que es donen en els atemptats terroristes jihadistes. El punt de partida és el 'No tinc por' dels atemptats de Barcelona i Cambrils del 17 d'agost del 2017. El documental intenta explicar com uns joves, que no han viscut en la marginació social, han canviat de manera tan radical el rumb de les seves vides sense que ningú se n'hagi adonat. Aquests joves, un cop reclutats i consolidats com a cèl·lula jihadista disposada a atemptar, tenen, en alguns aspectes, uns comportaments semblants a altres cèl·lules que han actuat a Europa; en canvi, en altres, trenquen els esquemes. Es recorden els fets tràgics del 17 d'agost i el seus preparatius amb l'objectiu d'analitzar cada pas, entendre a què responen uns determinats comportaments, i els 'modus operandi' de l'anomenada 'cèl·lula de Ripoll'. I dels molts aspectes que encara queden per saber, dos són essencials: les connexions internacionals (especialment amb França i Bèlgica) i els contactes d'Abdelbaki es Satty amb el Centre Nacional d'Intel·ligència.El documental compta amb la participació de testimonis que havien conegut i tractat aquests joves, i amb diversos experts en la matèria, com Dolores Delgado, fiscal coordinadora de Terrorisme Jihadista de l'Audiència Provincial; el politòleg i especialista en el món àrab Gilles Kepel, i Nuria Perpinyà, tècnica de Convivència i Participació Ciutadana de Ripoll, entre d'altres.</desc>
-    <length units="minutes">01:18:21</length>
-  </programme>
-  <programme start="20260908232748 +0000" channel="tvi" stop="20260909011432 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Nits Sense ficció - La fi d'ETA</sub-title>
-    <desc lang="ca">'LA FI D'ETA' (2016), una producció de Quality Media i JWProductions, en coproducció amb Prisa, CMM, RTP, Baleuko, la participació d'ETB, Canal Sur, IB3 i amb la col·laboració de Televisió de Catalunya i el govern basc.La pel·lícula narra la història de les negociacions secretes, explicades des de dins pels seus protagonistes, que van portar al final de la violència terrorista d'ETA a Euskadi. Els personatges principals són tres: Jesus Eguiguren, líder socialista basc; Arnaldo Otegi, líder abertzale, i Alfredo Pérez Rubalcaba, ministre de l'Interior en el govern de José Luis Rodríguez Zapatero. Des de l'any 2000, quan van començar les converses secretes en un 'caserío' a Guipúscoa, fins al 2011, quan ETA va anunciar el cessament definitiu de la lluita armada. Les escenes de les reunions passen per Suïssa, Noruega, el País Basc, hi apareixen els líders d'ETA Josu Ternera i Francisco Javier López Peña 'Thierry', mentre al seu voltant pugen i baixen les esperances, la violència esclata amb noves víctimes, la campanya antiterrorista i judicial es torna a intensificar i els mediadors internacionals intenten ajudar en el procés complex per arribar a la pau. La societat basca es mobilitza i els partits polítics bascos fan els últims i delicats passos que els porten al final esperat.Direcció: Justin WebsterGuió: José Mª Izquierdo i Luis R. AizpeoleaProductor: Javier ReyesProductor executiu TVC: Joan SalvatDirector fotografia: Kim HattesenMuntatge: Marc MartíDirector de producció: Gustavo Jaén i Sumpta AyusoMúsica: Laro Basterrechea</desc>
-    <length units="minutes">01:46:44</length>
-  </programme>
-  <programme start="20260908220500 +0000" channel="324" stop="20260909000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2155</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260909000000 +0000" channel="324" stop="20260909003000 +0000">
+  <programme start="20260909032355 +0000" channel="tvi" stop="20260909043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11120</sub-title>
+    <sub-title lang="ca">11121</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">01:06:05</length>
   </programme>
-  <programme start="20260908211445 +0000" channel="esport3" stop="20260908223225 +0000">
+  <programme start="20260909043000 +0000" channel="tvi" stop="20260909051051 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Fusió i swing a l'estudi - CASARES NEW ORLEANS QUARTET</sub-title>
+    <desc lang="ca">Casares New Orleans Quartet és una formació ben peculiar, que neix fruit de la convivència familiar: un pare i dos fills que conviuen amb el jazz dia i nit. Acompanyats per Josemi Moraleda, els Casares han arribat al jazz a través de les seves arrels: la música de Nova Orleans. Sense perdre-les, han creat un repertori propi. Lluc Casares, al saxo tenor; Joan Casares, a la bateria; Josemi Moraleda, al contrabaix, i Pau Casares, al clarinet.</desc>
+    <length units="minutes">00:40:51</length>
+  </programme>
+  <programme start="20260909010000 +0000" channel="324" stop="20260909060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11121</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260909060000 +0000" channel="324" stop="20260909080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11122</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260909025036 +0000" channel="esport3" stop="20260909040956 +0000">
     <title lang="ca">E3D</title>
-    <sub-title lang="ca">E3D - SKATE / EXTREME BARCELONA / FINAL FEMENINA</sub-title>
-    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">01:17:40</length>
+    <sub-title lang="ca">E3D - Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">01:19:20</length>
   </programme>
-  <programme start="20260908223225 +0000" channel="esport3" stop="20260908230000 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Barça-Feyenoord</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:27:35</length>
+  <programme start="20260909040956 +0000" channel="esport3" stop="20260909045824 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">E3 - L'home més fort del món Giants Live 1: Britain's Strongest Man</sub-title>
+    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
+    <length units="minutes">00:48:28</length>
   </programme>
-  <programme start="20260908222430 +0000" channel="sx3" stop="20260908224405 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Els sospitosos són una parella molt enamorada (1a part)</sub-title>
-    <desc lang="ca">L'Ai està molt trasbalsada per la notícia que en Ryusuke Higo, un futbolista que li agrada molt, ha començat a sortir amb la Yoko Okino, la gran estrella de la cançó. I quan en Kogoro descobreix que la Yoko té nòvio, una mica més i es desmaia. L'Ai i en Kogoro fan un pacte per espiar la parella. Els localitzen en un restaurant i hi van, però, quan hi són, l'amo del restaurant apareix mort.</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20260909034404 +0000" channel="sx3" stop="20260909040528 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Els titans encadenats</sub-title>
+    <desc lang="ca">Pensant que la parella Marinette-Adrien està en perill, en Nino proposa a l'Alya convertir-los en els suplents del Cuirassa i la Guineu Roja: convertir-se en superherois els ajudarà a reforçar els vincles que els uneixen i consolidar el seu amor. Si més no, això és el que ell espera. Però l'arribada de dos supermalvats suposarà un problema per la Marinette i l'Adrien: com poden ser suplents dels seus amics i Ladybug i el Gat Noir alhora?</desc>
+    <length units="minutes">00:21:24</length>
   </programme>
-  <programme start="20260908224405 +0000" channel="sx3" stop="20260908230457 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Els sospitosos són una parella molt enamorada (2a part)</sub-title>
-    <desc lang="ca">Mentre en Kogoro i l'Ai sopen en un restaurant amb en Conan per investigar si la Yoko Okino surt amb el futbolista Ryusuke Higo, assassinen el propietari del restaurant, que era company d'institut d'en Ryusuke i la Yoko. D'entrada, sembla que els sospitosos són la parella de famosos, però comencen a sortir indicis que apunten cap als treballadors de l'establiment. L'obsessió amb la Yoko encega en Kogoro, però en Conan té el cap clar.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20260909040528 +0000" channel="sx3" stop="20260909042728 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Lady Caos</sub-title>
+    <desc lang="ca">L'Adrien decideix fer un documental sobre el seu pare, Gabriel Agreste, i demana ajuda al Nino i la Marinette. L'objectiu és entrevistar les persones que el van conèixer bé, com la Nathalie o la senyora Tsurugi. La Marinette intenta protegir els seus secrets convençuda que, d'aquesta manera, protegeix els sentiments del seu amor.</desc>
+    <length units="minutes">00:22:00</length>
   </programme>
-  <programme start="20260908220027 +0000" channel="tv3" stop="20260908225226 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El bisturí</sub-title>
-    <desc lang="ca">Sabeu que el bisturí antigament el feien servir els barbers? I sabeu que abans de l'anestèsia no es valorava la precisió del bisturí sinó la rapidesa del cirurgià a l'hora de fer-lo servir? Dediquem el capítol d'avui al bisturí. Rebem la visita d'en Bartomeu Rocabert, rellotger. I un rellotger important, perquè a càrrec seu corren les agulles dels rellotges més importants de Catalunya. A 'Històries per passejar el gos' anem amb en Dungui per l'enfonsament de l'MV Wilhelm Gustloff, el 30 de gener del 1945.</desc>
-    <length units="minutes">00:51:59</length>
+  <programme start="20260909034523 +0000" channel="tv3" stop="20260909042618 +0000">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">La Mar de Bé - Felicitat</sub-title>
+    <desc lang="ca">Felicitat és el nom de la barca de l'Isca García, però també és el que es respira al Parc Natural del Cap de Creus: tranquil·litat, peix fresc, paisatge, mar, tradició… En Quim Casellas recorrerà els indrets més bonics d'aquesta zona. A Portlligat, l'Isca li mostrarà la visió més tradicional i propera de l'ofici de pescador. A Cadaqués, la filla de l'Isca li descobrirà els secrets de la cultura pesquera. L'escriptor i historiador, Arnald Plujà, l'esperarà al Cap de Creus per ensenyar-li el caràcter mediterrani del territori i, finalment, acabarà a l'aula gastronòmica de Roses cuinant uns filets d'escórpora amb crema de carbassa especiada i sal de sèsam.</desc>
+    <length units="minutes">00:40:55</length>
   </programme>
-  <programme start="20260908225226 +0000" channel="tv3" stop="20260909004610 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - La forma de l'aigua</sub-title>
-    <desc lang="ca">LA FORMA DE L'AIGUA 'The Shape of Water'Direcció: Guillermo del ToroGuió: Guillermo del Toro, Vanessa TaylorProducció: Bull Productions, Fox SearchlightAny: 2017Durada: 119País: Estats UnitsMúsica: Alexandre DesplatFotografia: Dan LaustsenIntèrprets: Sally Hawkins, Doug Jones, Michael Shannon, Octavia Spencer, Richard Jenkins, Michael Stuhlbarg, Lauren Lee Smith, David Hewlett, Nick Searcy, Morgan Kelly, Dru Viergever, Maxine Grossman, Amanda Smith, Cyndy Day, Dave ReachillLa forma de l'aigua és una història romàntica i fantàstica ambientada als Estats Units durant la Guerra Freda. L'Elisa, una dona muda que treballa com a personal de neteja en un laboratori governamental secret, porta una vida solitària i rutinària. Tot canvia quan descobreix una misteriosa criatura aquàtica capturada en una missió militar. Mentre els científics i els militars la consideren un espècimen perillós, l'Elisa hi estableix una connexió profunda basada en la comprensió i l'afecte. A mesura que la relació creix, decideix arriscar-ho tot per salvar-la d'un destí cruel. La pel·lícula combina fantasia, drama i romanticisme per parlar de la diferència, la llibertat i la necessitat d'estimar i ser estimat.</desc>
-    <length units="minutes">01:53:44</length>
+  <programme start="20260909042618 +0000" channel="tv3" stop="20260909045625 +0000">
+    <title lang="ca">El Negre de Banyoles</title>
+    <sub-title lang="ca">El Negre de Banyoles - Mercè Rodoreda</sub-title>
+    <desc lang="ca">Mercè Rodoreda és la nostra autora més llegida a l'estranger i ho és per les seves novel·les. Per això nosaltres hem decidit abocar una espurna de llum a la seva poesia.Parlarem de plantes i olors, de drames i pèrdues, d'anades i retorns, i, com no, d'exili i desamor. I recordeu: passi el que passi, Rodoreda sempre estarà acompanyada de misteri.En aquest capítol en Daura Mangara visitarà la casa on va viure Mercè Rodoreda en tornar de l'exili, a Romanyà de la Selva, i tindrem la sort de visitar la torre que es va fer construir i que només va poder gaudir durant els últims 3 anys de vida i que sempre s'ha mantingut tancada al públic. A més, també coneixerem l'Albert Espadamala, pagès singular, molt seguit a les xarxes socials i que va publicant el seu dia a dia a la granja. Si Mercè Rodoreda sempre va buscar un paradís on retirar-se, l'Espadamala ha decidit viure tot sol en una masia a Torelló on té un ramat molt especial.</desc>
+    <length units="minutes">00:30:07</length>
   </programme>
 </tv>
