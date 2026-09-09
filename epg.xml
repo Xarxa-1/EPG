@@ -1,78 +1,75 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20260909032355 +0000" channel="tvi" stop="20260909043000 +0000">
+  <programme start="20260909103032 +0000" channel="tvi" stop="20260909135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1805</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:28</length>
+  </programme>
+  <programme start="20260909135500 +0000" channel="tvi" stop="20260909143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7031</sub-title>
+    <length units="minutes">00:35:00</length>
+  </programme>
+  <programme start="20260909120000 +0000" channel="324" stop="20260909135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11121</sub-title>
+    <sub-title lang="ca">11124</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:06:05</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260909043000 +0000" channel="tvi" stop="20260909051051 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - CASARES NEW ORLEANS QUARTET</sub-title>
-    <desc lang="ca">Casares New Orleans Quartet és una formació ben peculiar, que neix fruit de la convivència familiar: un pare i dos fills que conviuen amb el jazz dia i nit. Acompanyats per Josemi Moraleda, els Casares han arribat al jazz a través de les seves arrels: la música de Nova Orleans. Sense perdre-les, han creat un repertori propi. Lluc Casares, al saxo tenor; Joan Casares, a la bateria; Josemi Moraleda, al contrabaix, i Pau Casares, al clarinet.</desc>
-    <length units="minutes">00:40:51</length>
+  <programme start="20260909135500 +0000" channel="324" stop="20260909143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7031</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260909010000 +0000" channel="324" stop="20260909060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11121</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20260909112947 +0000" channel="esport3" stop="20260909130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1246</sub-title>
+    <desc lang="ca">Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <length units="minutes">01:30:13</length>
   </programme>
-  <programme start="20260909060000 +0000" channel="324" stop="20260909080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11122</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260909130000 +0000" channel="esport3" stop="20260909140048 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3236</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:00:48</length>
   </programme>
-  <programme start="20260909025036 +0000" channel="esport3" stop="20260909040956 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">E3D - Skate / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">01:19:20</length>
+  <programme start="20260909120649 +0000" channel="sx3" stop="20260909121816 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">171</sub-title>
+    <desc lang="ca">En Rocco, penedit de tot el que ha passat, li demana a en Brandon que tornin a viure junts. L'Alex està convençut que el nou adjunt de direcció, en Rutger Ballinc, és la reina de trèvols. Després que la reina amenaci directament la Mila perquè li porti el llibre, els Ghost Rockers s'han de posar les piles: cal trobar la ferreria per veure si hi ha cap pista clara que els indiqui l'amagatall del llibre.</desc>
+    <length units="minutes">00:11:27</length>
   </programme>
-  <programme start="20260909040956 +0000" channel="esport3" stop="20260909045824 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">E3 - L'home més fort del món Giants Live 1: Britain's Strongest Man</sub-title>
-    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
-    <length units="minutes">00:48:28</length>
+  <programme start="20260909121816 +0000" channel="sx3" stop="20260909123033 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">172</sub-title>
+    <desc lang="ca">Sota l'escultura de l'enclusa, els Ghosts Rockers troben un estrany objecte que, aparentment, no els duu enlloc. Però la reina de trèvols convoca la Mila a una nau abandonada perquè li entregui el llibre. Abans de la trobada, la noia accepta la invitació d'en Brandon per anar a dinar a casa seva amb en Rocco. Mentrestant, en Jimmy traça una estratègia per no deixar sola la Mila amb la reina.</desc>
+    <length units="minutes">00:12:17</length>
   </programme>
-  <programme start="20260909034404 +0000" channel="sx3" stop="20260909040528 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Els titans encadenats</sub-title>
-    <desc lang="ca">Pensant que la parella Marinette-Adrien està en perill, en Nino proposa a l'Alya convertir-los en els suplents del Cuirassa i la Guineu Roja: convertir-se en superherois els ajudarà a reforçar els vincles que els uneixen i consolidar el seu amor. Si més no, això és el que ell espera. Però l'arribada de dos supermalvats suposarà un problema per la Marinette i l'Adrien: com poden ser suplents dels seus amics i Ladybug i el Gat Noir alhora?</desc>
-    <length units="minutes">00:21:24</length>
+  <programme start="20260909114650 +0000" channel="tv3" stop="20260909121953 +0000">
+    <title lang="ca">Tot o res</title>
+    <sub-title lang="ca">28</sub-title>
+    <desc lang="ca">'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <length units="minutes">00:33:03</length>
   </programme>
-  <programme start="20260909040528 +0000" channel="sx3" stop="20260909042728 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Lady Caos</sub-title>
-    <desc lang="ca">L'Adrien decideix fer un documental sobre el seu pare, Gabriel Agreste, i demana ajuda al Nino i la Marinette. L'objectiu és entrevistar les persones que el van conèixer bé, com la Nathalie o la senyora Tsurugi. La Marinette intenta protegir els seus secrets convençuda que, d'aquesta manera, protegeix els sentiments del seu amor.</desc>
-    <length units="minutes">00:22:00</length>
-  </programme>
-  <programme start="20260909034523 +0000" channel="tv3" stop="20260909042618 +0000">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">La Mar de Bé - Felicitat</sub-title>
-    <desc lang="ca">Felicitat és el nom de la barca de l'Isca García, però també és el que es respira al Parc Natural del Cap de Creus: tranquil·litat, peix fresc, paisatge, mar, tradició… En Quim Casellas recorrerà els indrets més bonics d'aquesta zona. A Portlligat, l'Isca li mostrarà la visió més tradicional i propera de l'ofici de pescador. A Cadaqués, la filla de l'Isca li descobrirà els secrets de la cultura pesquera. L'escriptor i historiador, Arnald Plujà, l'esperarà al Cap de Creus per ensenyar-li el caràcter mediterrani del territori i, finalment, acabarà a l'aula gastronòmica de Roses cuinant uns filets d'escórpora amb crema de carbassa especiada i sal de sèsam.</desc>
-    <length units="minutes">00:40:55</length>
-  </programme>
-  <programme start="20260909042618 +0000" channel="tv3" stop="20260909045625 +0000">
-    <title lang="ca">El Negre de Banyoles</title>
-    <sub-title lang="ca">El Negre de Banyoles - Mercè Rodoreda</sub-title>
-    <desc lang="ca">Mercè Rodoreda és la nostra autora més llegida a l'estranger i ho és per les seves novel·les. Per això nosaltres hem decidit abocar una espurna de llum a la seva poesia.Parlarem de plantes i olors, de drames i pèrdues, d'anades i retorns, i, com no, d'exili i desamor. I recordeu: passi el que passi, Rodoreda sempre estarà acompanyada de misteri.En aquest capítol en Daura Mangara visitarà la casa on va viure Mercè Rodoreda en tornar de l'exili, a Romanyà de la Selva, i tindrem la sort de visitar la torre que es va fer construir i que només va poder gaudir durant els últims 3 anys de vida i que sempre s'ha mantingut tancada al públic. A més, també coneixerem l'Albert Espadamala, pagès singular, molt seguit a les xarxes socials i que va publicant el seu dia a dia a la granja. Si Mercè Rodoreda sempre va buscar un paradís on retirar-se, l'Espadamala ha decidit viure tot sol en una masia a Torelló on té un ramat molt especial.</desc>
-    <length units="minutes">00:30:07</length>
+  <programme start="20260909121953 +0000" channel="tv3" stop="20260909132005 +0000">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
+    <length units="minutes">01:00:12</length>
   </programme>
 </tv>
