@@ -3,76 +3,78 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260910023854 +0000" channel="tvi" stop="20260910043000 +0000">
+  <programme start="20260910103004 +0000" channel="tvi" stop="20260910135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1806</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:56</length>
+  </programme>
+  <programme start="20260910135500 +0000" channel="tvi" stop="20260910142959 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7032</sub-title>
+    <length units="minutes">00:34:59</length>
+  </programme>
+  <programme start="20260910120000 +0000" channel="324" stop="20260910135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11130</sub-title>
+    <sub-title lang="ca">11133</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:51:06</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260910043000 +0000" channel="tvi" stop="20260910051018 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - BARCELONA SWING SERENADERS</sub-title>
-    <desc lang="ca">Barcelona Swing Serenaders són quatre músics que toquen junts des de 1999 i que practiquen el swing i el primer jazz de New Orleans. El bon ambient que es creava entre ells i el públic va dur-los a constituir-se com a formació estable l'any 2000. Des d'aleshores no han parat de tocar en locals com, des d'obscures caves de jazz, al Palau de la Música. Oriol Romaní al clarinet, Oscar Font, al trombó i la veu, Albert Romaní, a la guitarra, i Queralt Camps, al contrabaix.</desc>
-    <length units="minutes">00:40:18</length>
+  <programme start="20260910135500 +0000" channel="324" stop="20260910143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7032</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260910010000 +0000" channel="324" stop="20260910060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11130</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20260910114453 +0000" channel="esport3" stop="20260910130000 +0000">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Zona Champions - Anàlisi de la jornada / J1</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="minutes">01:15:07</length>
   </programme>
-  <programme start="20260910060000 +0000" channel="324" stop="20260910080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11131</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260910130000 +0000" channel="esport3" stop="20260910140111 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3237</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:11</length>
   </programme>
-  <programme start="20260910022646 +0000" channel="esport3" stop="20260910041836 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1</sub-title>
-    <desc lang="ca">Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">01:51:50</length>
+  <programme start="20260910120448 +0000" channel="sx3" stop="20260910121558 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">174</sub-title>
+    <desc lang="ca">En Jonas aconsegueix entrar a la sala des d'on la Mila li demanava ajuda, però descobreix que ha desaparegut. Al cap de poc, rep una trucada de la noia en què els comunica que la reina de trèvols els dona deu minuts per demostrar que estan compromesos en la recerca del llibre. Mentrestant, l'Alex continua buscant pistes dins del despatx del senyor Ballinc, i el que hi troba és molt enigmàtic.</desc>
+    <length units="minutes">00:11:10</length>
   </programme>
-  <programme start="20260910041836 +0000" channel="esport3" stop="20260910060606 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
-    <desc lang="ca">Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">01:47:30</length>
+  <programme start="20260910121558 +0000" channel="sx3" stop="20260910122739 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">175</sub-title>
+    <desc lang="ca">Els Ghost Rockers tenen l'última oportunitat per descobrir on és el llibre misteriós que vol la reina de trèvols. Per tal de seguir avançant, demanen ajuda als Free Birds. Gràcies a la cançó, en Jimmy fa un descobriment important relacionat amb la targeta descodificadora. D'altra banda, en Jonas coneix l'Eva, una cantant que s'apunta al taller de lletristes, i en Brandon i la Mila passen una forta crisi.</desc>
+    <length units="minutes">00:11:41</length>
   </programme>
-  <programme start="20260910034630 +0000" channel="sx3" stop="20260910040932 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La Princesa Fragància</sub-title>
-    <desc lang="ca">La Rose, una companya de classe de la Marinette, és una fervent admiradora del príncep Ali, del regne de Kowar, que està de visita a París, i intenta posar-se en contacte amb ell. Però, com és habitual, la Chloé s'interposa i acapara tot el protagonisme. L'Esfinx aprofitarà el desengany i la ràbia de la Rose per aconseguir els prodigis de Ladybug i Gat Noir.</desc>
-    <length units="minutes">00:23:02</length>
+  <programme start="20260910114225 +0000" channel="tv3" stop="20260910121636 +0000">
+    <title lang="ca">Tot o res</title>
+    <sub-title lang="ca">29</sub-title>
+    <desc lang="ca">'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <length units="minutes">00:34:11</length>
   </programme>
-  <programme start="20260910040932 +0000" channel="sx3" stop="20260910042127 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - La castanya màgica</sub-title>
-    <desc lang="ca">La Trufa troba una pedra molt brillant a la vora del riu. Quan l'ensenya a en Pinxo, ell es queda fascinat i la vol costi el que costi. Al final aconsegueix enredar la seva germana petita i l'hi canvia per una 'castanya màgica', que, segons ell, li concedirà tots els desitjos. Però la Trufa de seguida s'adona que la castanya no en té res, de màgica.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20260910121636 +0000" channel="tv3" stop="20260910131932 +0000">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
+    <length units="minutes">01:02:56</length>
   </programme>
-  <programme start="20260910023405 +0000" channel="tv3" stop="20260910040249 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinat a Vaubona</sub-title>
-    <desc lang="ca">ASSASSINAT A VAUBONA 'Mémoires à vif'Direcció: Julie GaliGuió: Fabien Adda, Delphine ChouraquiProducció: Alef One, BE-FILMSAny: 2023Durada: 90País: FrançaMúsica: Jean-Pierre TaiegFotografia: Philippe GuilbertIntèrprets: Anthony Colette, Valérie Decobert-Koretzky, Liv del Estal, Stéphane Freiss, Isalinde Giovangigli, Salim Kissari, Martin Lamotte, Rabah Loucif, Samy Naceri, Meena Rayann, Blanche Raynal, Liliane Rovère, Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis, els algerians que van combatre al bàndol francès a la guerra d'Algèria, apareix mort al seu domicili el tinent d'alcalde de Vaubona, Fabrice Da Costa. Els comandants de policia Leila Belhassen i Cédric Bonfanti s'encarreguen del cas, que remou les rancúnies i els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</desc>
-    <length units="minutes">01:28:44</length>
-  </programme>
-  <programme start="20260910040249 +0000" channel="tv3" stop="20260910044114 +0000">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">La Mar de Bé - Mèdan</sub-title>
-    <desc lang="ca">Les embarcacions d'arrossegament del port de Roses esperen, ben alineades, que siguin les 7 del matí per sortir i arribar les primeres als caladors. Una experiència molt emocionant que en Quim viurà a bord de la Mèdan juntament amb el seu patró i armador, en Cisco. Parlarà amb l'Antoni Falcó, un pescador jubilat, per conèixer la història del Gloriamar Dos, un vaixell museu amarrat al port pesquer de Roses. I acabarà a la cuina per elaborar un tronc de lluç amb velouté marina i aire de tàpera.</desc>
-    <length units="minutes">00:38:25</length>
+  <programme start="20260910120258 +0000" channel="tv3" stop="20260910130253 +0000">
+    <title lang="ca">Obertura de l'any judicial, marcada per l'aplicació de l'amnisia</title>
+    <sub-title lang="ca">4112</sub-title>
+    <length units="minutes">00:59:55</length>
   </programme>
 </tv>
