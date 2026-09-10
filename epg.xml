@@ -1,5 +1,11 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
@@ -9,82 +15,64 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20260909220230 +0000" channel="tvi" stop="20260909223734 +0000">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'un per l'altre - Sense pèls a la llengua</sub-title>
-    <desc lang="ca">El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.</desc>
-    <length units="minutes">00:35:04</length>
-  </programme>
-  <programme start="20260909223734 +0000" channel="tvi" stop="20260909230527 +0000">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'un per l'altre - Les anàlisis</sub-title>
-    <desc lang="ca">La Rosa i la Maria posen a règim els seus marits perquè han descobert que el colesterol els surt per les orelles. El Toni i el Poppins fan tol el que poden per saltar-se'l</desc>
-    <length units="minutes">00:27:53</length>
-  </programme>
-  <programme start="20260909220500 +0000" channel="324" stop="20260910000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2156</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260910000000 +0000" channel="324" stop="20260910003000 +0000">
+  <programme start="20260910023854 +0000" channel="tvi" stop="20260910043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11129</sub-title>
+    <sub-title lang="ca">11130</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">01:51:06</length>
   </programme>
-  <programme start="20260909213939 +0000" channel="esport3" stop="20260909223134 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Handbol - Barça-Aarhus / EHF Champions / J1</sub-title>
-    <desc lang="ca">Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
-    <length units="minutes">00:51:55</length>
+  <programme start="20260910043000 +0000" channel="tvi" stop="20260910051018 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Fusió i swing a l'estudi - BARCELONA SWING SERENADERS</sub-title>
+    <desc lang="ca">Barcelona Swing Serenaders són quatre músics que toquen junts des de 1999 i que practiquen el swing i el primer jazz de New Orleans. El bon ambient que es creava entre ells i el públic va dur-los a constituir-se com a formació estable l'any 2000. Des d'aleshores no han parat de tocar en locals com, des d'obscures caves de jazz, al Palau de la Música. Oriol Romaní al clarinet, Oscar Font, al trombó i la veu, Albert Romaní, a la guitarra, i Queralt Camps, al contrabaix.</desc>
+    <length units="minutes">00:40:18</length>
   </programme>
-  <programme start="20260909223134 +0000" channel="esport3" stop="20260909230000 +0000">
+  <programme start="20260910010000 +0000" channel="324" stop="20260910060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11130</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260910060000 +0000" channel="324" stop="20260910080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11131</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260910022646 +0000" channel="esport3" stop="20260910041836 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1</sub-title>
+    <desc lang="ca">Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="minutes">01:51:50</length>
+  </programme>
+  <programme start="20260910041836 +0000" channel="esport3" stop="20260910060606 +0000">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet - MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
     <desc lang="ca">Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">00:28:26</length>
+    <length units="minutes">01:47:30</length>
   </programme>
-  <programme start="20260909220151 +0000" channel="sx3" stop="20260909222304 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Els detectius júnior es resguarden de la pluja</sub-title>
-    <desc lang="ca">Mentre estan d'acampada, un fort ruixat sorprèn en Conan i la seva colla i truquen a la porta d'una mansió aïllada per aixoplugar-se de la pluja i perquè en Genta pugui anar al lavabo. Els obren dos homes misteriosos que al final resulta que són uns lladres que havien entrat a robar. Quan els nens estan a punt de marxar, una dona crida demanant ajuda des del pis de dalt.</desc>
-    <length units="minutes">00:21:13</length>
+  <programme start="20260910034630 +0000" channel="sx3" stop="20260910040932 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La Princesa Fragància</sub-title>
+    <desc lang="ca">La Rose, una companya de classe de la Marinette, és una fervent admiradora del príncep Ali, del regne de Kowar, que està de visita a París, i intenta posar-se en contacte amb ell. Però, com és habitual, la Chloé s'interposa i acapara tot el protagonisme. L'Esfinx aprofitarà el desengany i la ràbia de la Rose per aconseguir els prodigis de Ladybug i Gat Noir.</desc>
+    <length units="minutes">00:23:02</length>
   </programme>
-  <programme start="20260909222304 +0000" channel="sx3" stop="20260909224239 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - El cas de les marees inverses al parc</sub-title>
-    <desc lang="ca">En Conan, la Ran i en Kogoro visiten un parc que té un llac molt bonic connectat amb el mar. Però just quan contemplen embadalits la retirada de la marea, en Conan veu el cos d'un home sota l'aigua. La investigació de la seva mort de seguida porta a interrogar la dona de la víctima i el seu germà. Però en Conan troba una altra peça que farà encaixar totes les pistes.</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20260910040932 +0000" channel="sx3" stop="20260910042127 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - La castanya màgica</sub-title>
+    <desc lang="ca">La Trufa troba una pedra molt brillant a la vora del riu. Quan l'ensenya a en Pinxo, ell es queda fascinat i la vol costi el que costi. Al final aconsegueix enredar la seva germana petita i l'hi canvia per una 'castanya màgica', que, segons ell, li concedirà tots els desitjos. Però la Trufa de seguida s'adona que la castanya no en té res, de màgica.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20260909215939 +0000" channel="tv3" stop="20260909225201 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El microones</sub-title>
-    <desc lang="ca">Els inicis del microones van ser culpa d'un tros de xocolata dins d'una butxaca. Imagineu-vos tot el bé que ha fet la xocolata per les vides dels que no ens agrada cuinar. Dediquem el capítol al microones. Ens visita la Clara Viñals, cantant i membre del grup 'Renaldo &amp; Clara'. Està cansada de respondre a la mateixa pregunta, però nosaltres no som més originals que la resta i també li farem.A 'Històries per passejar el gos' portem a en Django a la construcció del pont de Brooklyn, el 1870.</desc>
-    <length units="minutes">00:52:22</length>
-  </programme>
-  <programme start="20260909225201 +0000" channel="tv3" stop="20260910005359 +0000">
+  <programme start="20260910023405 +0000" channel="tv3" stop="20260910040249 +0000">
     <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Licorice pizza</sub-title>
-    <desc lang="ca">LICORICE PIZZA Licorice PizzaDirecció: Paul Thomas AndersonGuió: Paul Thomas AndersonProducció: Ghoulardi Film Company, Bron Studios, Focus Features, Metro-Goldwyn-Mayer (MGM)Any: 2021Durada: 133País: Estats UnitsMúsica: Jonny GreenwoodFotografia: Paul Thomas Anderson, Michael BaumanIntèrprets: Alana Haim, Cooper Hoffman, Sean Penn, Bradley Cooper, Tom Waits, Ben Safdie, Joseph Cross, Skyler Gisondo, Mary Elizabeth Ellis, Ryan Heffington, Nate Mann, John Michael Higgins, Harriet Sansom Harris, Christine Ebersole, Emily Althaus, Danielle Haim, Este Haim, Maya Rudolph, Destry Allyn Spielberg, George DiCaprio, Iyana Halley, Ray Ray Chase, Emma Dumont, Jon BeaversLa Vall de San Fernando, 1973. L'Alana Kane, una noia de 25 anys atrapada en una feina que no li agrada, queda desconcertada quan en Gary Valentine, un actor adolescent ple d'energia i d'una maduresa sorprenent, es fixa en ella durant una sessió de fotos de l'institut i la convida a sopar. El que comença com una amistat improbable es converteix en una complicitat especial que els porta a embarcar-se en tota mena d'aventures i negocis temeraris mentre intenten trobar el seu lloc en un món canviant i caòtic. La pel·lícula explora la muntanya russa de les emocions que provoca un primer amor.</desc>
-    <length units="minutes">02:01:58</length>
+    <sub-title lang="ca">Pel·lícula - Assassinat a Vaubona</sub-title>
+    <desc lang="ca">ASSASSINAT A VAUBONA 'Mémoires à vif'Direcció: Julie GaliGuió: Fabien Adda, Delphine ChouraquiProducció: Alef One, BE-FILMSAny: 2023Durada: 90País: FrançaMúsica: Jean-Pierre TaiegFotografia: Philippe GuilbertIntèrprets: Anthony Colette, Valérie Decobert-Koretzky, Liv del Estal, Stéphane Freiss, Isalinde Giovangigli, Salim Kissari, Martin Lamotte, Rabah Loucif, Samy Naceri, Meena Rayann, Blanche Raynal, Liliane Rovère, Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis, els algerians que van combatre al bàndol francès a la guerra d'Algèria, apareix mort al seu domicili el tinent d'alcalde de Vaubona, Fabrice Da Costa. Els comandants de policia Leila Belhassen i Cédric Bonfanti s'encarreguen del cas, que remou les rancúnies i els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</desc>
+    <length units="minutes">01:28:44</length>
   </programme>
-  <programme start="20260909203003 +0000" channel="tv3" stop="20260909222958 +0000">
-    <title lang="ca">Handbol: EHF Champions</title>
-    <sub-title lang="ca">- Barça-Aarhus / EHF Champions / J1</sub-title>
-    <desc lang="ca">Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
-    <length units="minutes">01:59:55</length>
-  </programme>
-  <programme start="20260909205001 +0000" channel="tv3" stop="20260909225956 +0000">
-    <title lang="ca">Bàsquet : Federació Catalana</title>
-    <sub-title lang="ca">- MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
-    <desc lang="ca">Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">02:09:55</length>
+  <programme start="20260910040249 +0000" channel="tv3" stop="20260910044114 +0000">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">La Mar de Bé - Mèdan</sub-title>
+    <desc lang="ca">Les embarcacions d'arrossegament del port de Roses esperen, ben alineades, que siguin les 7 del matí per sortir i arribar les primeres als caladors. Una experiència molt emocionant que en Quim viurà a bord de la Mèdan juntament amb el seu patró i armador, en Cisco. Parlarà amb l'Antoni Falcó, un pescador jubilat, per conèixer la història del Gloriamar Dos, un vaixell museu amarrat al port pesquer de Roses. I acabarà a la cuina per elaborar un tronc de lluç amb velouté marina i aire de tàpera.</desc>
+    <length units="minutes">00:38:25</length>
   </programme>
 </tv>
