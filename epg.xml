@@ -1,72 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260910172206 +0000" channel="tvi" stop="20260910173110 +0000">
-    <title lang="ca">CUINES CATALUNYA</title>
-    <sub-title lang="ca">CUINES CATALUNYA - Entrepà de pollastre i maionesa de codonyat</sub-title>
-    <desc lang="ca">Ens podem fer un entrepà clàssic de formatge i pernil o, amb una mica d'imaginació, preparar-nos-en un carregat de contrastos i colors. Un berenar gurmet!</desc>
-    <length units="minutes">00:09:04</length>
+  <programme start="20260910221100 +0000" channel="tvi" stop="20260910232038 +0000">
+    <title lang="ca">Lo Cartanyà</title>
+    <sub-title lang="ca">Lo Cartanyà - Finisterre (part 1 i part 2)</sub-title>
+    <desc lang="ca">En aquest especial, descobrirem què els ha passat als protagonistes de 'Lo Cartanyà' en aquests 20 anys que fa que els hem perdut de vista. Descobrirem les ventures i desventures que han viscut a 'lo poble' aquests habitants tan peculiars amb una marcada tendència cap al desastre. Com porten el pas del temps tots i cadascun d'ells? Hi ha canvis significatius en les seves vides? Estan satisfets amb el que han aconseguit? Tenen expectatives de futur? Lo Cartanyà és veritablement calb? El seu fill -que ara té 18 anys- té alguna cosa a veure amb ell? Avancem només una coseta... Lo Cartanyà i el seu fill tenen una passió comuna. La resta ens l'explicaran els mateixos personatges de viva veu, amb flashbacks intercalats amb els que anirem recordant seqüències de la sèrie original. Només una coseta més, va... Cauen llamps i trons. I fins aquí...</desc>
+    <length units="minutes">01:09:38</length>
   </programme>
-  <programme start="20260910170000 +0000" channel="324" stop="20260910183000 +0000">
+  <programme start="20260910232038 +0000" channel="tvi" stop="20260910234916 +0000">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">Tot torna - 1997</sub-title>
+    <desc lang="ca">Repassem el 1997, l'any que Pasqual Maragall abandona l'alcaldia de Barcelona i el Negre de Banyoles, el Museu Darder. Tanca El Molino, es casen els ducs de Palma i hi ha 'drama' a la inauguració del TNC.</desc>
+    <length units="minutes">00:28:38</length>
+  </programme>
+  <programme start="20260910220500 +0000" channel="324" stop="20260911000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2157</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260911000000 +0000" channel="324" stop="20260911003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11135</sub-title>
+    <sub-title lang="ca">11138</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260910183000 +0000" channel="324" stop="20260910200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11136</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20260910171827 +0000" channel="esport3" stop="20260910182000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3237</sub-title>
-    <desc lang="ca">El Barça goleja al Feyenoord (5-1) en la seva estrena a la Champions. Analitzem el partit amb la lupa de l'Albert Blaya. Entrevistem al pilot Àlex Palou, campió de la IndyCar. L'NBA amb Jordi de Mas i tertúlia. Avui ens acompanyen Marc Cornet, Irati Vidal, Martí Molina i Joanjo Pallàs.</desc>
-    <length units="minutes">01:01:33</length>
-  </programme>
-  <programme start="20260910182000 +0000" channel="esport3" stop="20260910203933 +0000">
+  <programme start="20260910204613 +0000" channel="esport3" stop="20260910230000 +0000">
     <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
-    <desc lang="ca">Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">02:19:33</length>
+    <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
+    <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="minutes">02:13:47</length>
   </programme>
-  <programme start="20260910171148 +0000" channel="sx3" stop="20260910172444 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió a l'escola</sub-title>
-    <desc lang="ca">D'aquí res ja comença l'escola! En teniu ganes? Avui anirem d'excursió per veure com és una classe d'infantil. Farem el 'bon dia', jugarem amb plastilina, sortirem al pati i... sabeu qui serà el nostre mestre de psico? En John C!</desc>
-    <length units="minutes">00:12:56</length>
+  <programme start="20260910230000 +0000" channel="esport3" stop="20260911003108 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1247</sub-title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="minutes">01:31:08</length>
   </programme>
-  <programme start="20260910172444 +0000" channel="sx3" stop="20260910173403 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió a respirar</sub-title>
-    <desc lang="ca">La tornada al cole ja és aquí i és normal que tots estiguem una mica nerviosos. Avui en Titó anirà d'excursió a respirar d'una manera molt especial que ens pot ajudar a calmar-nos. Inspirarem, espirarem... i farem bombolles de sabó amb en John C!</desc>
-    <length units="minutes">00:09:19</length>
+  <programme start="20260910220234 +0000" channel="sx3" stop="20260910222347 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Uns fideus tan bons que maten (1a part)</sub-title>
+    <desc lang="ca">La Ran, la Masumi i la Sonoko decideixen anar amb en Conan a sopar al restaurant de fideus preferit de la Masumi. Però després de gaudir d'aquest deliciós plat descobreixen que alguns dels clients que han sopat amb ells aquell vespre són sospitosos de l'assassinat d'una dona que vivia a prop i que, pel que sembla, va ser víctima d'un robatori que va acabar malament. Però potser hi ha algun sospitós més.</desc>
+    <length units="minutes">00:21:13</length>
   </programme>
-  <programme start="20260910163427 +0000" channel="tv3" stop="20260910172517 +0000">
-    <title lang="ca">Terreny personal</title>
-    <sub-title lang="ca">Terreny personal - El Maresme</sub-title>
-    <desc lang="ca">En aquest capítol descobrirem una comarca estreta i allargada, un terreny de platges llargues i muntanyes de boscos, marcat per les rieres i les viles de pescadors: és el Maresme.Els protagonistes d'aquest programa tenen una relació molt especial amb el Maresme i s'estimen el seu territori de maneres molt diferents. Ells ens mostren els racons de la comarca que formen part de les seves vides. El Ramon Tarridas és un pescador artesanal que té un important lligam familiar amb el mar i amb la platja de Sant Pol. El seu dia a dia passa per defensar un model de pesca més sostenible. La Georgina Blanch és de Mataró i té molt clar que, per a ella, 'Mataró és el millor lloc del món'. Treballa a molts llocs diferents, però tots estan relacionats amb la música i, molt especialment, amb el gospel. Té ganes de viatjar i de veure món, però té clar que Mataró sempre serà el centre del seu univers. El Miquel Riera és pagès. Va néixer i créixer a Mataró, però l'especulació urbanística va fer que hagués de marxar de la seva ciutat per poder treballar la seva pròpia terra. Va recórrer el Maresme buscant el lloc més adient i, finalment, es va instal·lar amb la seva dona, la Sílvia, a Palafolls. Ara ja s'hi sent com a casa. El Pep Quintana és d'Arenys de Mar. Es considera l'home dels mil oficis i, a la vila, és un personatge il·lustre, membre de totes les tertúlies, i un gran especialista en Salvador Espriu. Se'l coneix sobretot per les seves rutes literàries al cementiri de Sinera. En aquest capítol també hi intervenen els nens de l'Escola Joan Maragall, d'Arenys de Mar, que ens expliquen els racons més especials de casa seva. L'escriptora Care Santos, mataronina, llegeix un fragment del seu llibre Habitacions tancades, i els Pastora interpreten la cançó Una altra galàxia a la casa familiar de Tiana.</desc>
-    <length units="minutes">00:50:50</length>
+  <programme start="20260910222347 +0000" channel="sx3" stop="20260910224323 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Uns fideus tan bons que maten (2a part)</sub-title>
+    <desc lang="ca">La setmana anterior, després de cometre un assassinat, l'assassí va entrar al restaurant de fideus Ogura. La policia té tres sospitosos, tots ells clients habituals del local. Mentre perseguia l'assassí, la Yumi es va trobar el seu exnòvio, en Shukichi Haneda. Quan li truca per tornar a parlar amb ell, en Shukichi li diu que recorda haver sentit un soroll estrany cada vegada que l'assassí feia un pas. Quan sent aquesta explicació, en Conan s'adona d'una cosa.</desc>
+    <length units="minutes">00:19:36</length>
   </programme>
-  <programme start="20260910172517 +0000" channel="tv3" stop="20260910181114 +0000">
-    <title lang="ca">Globus Sonda</title>
-    <sub-title lang="ca">Globus Sonda - Sergi Ferrer-Salat - Monestir de Poblet</sub-title>
-    <desc lang="ca">En el 'Globus sonda' d'avui volarem amb un dels empresaris més potents del país, Sergi Ferrer-Salat. Del sector farmacèutic, és president del grup Ferrer, membre del Consell Assessor per al Desenvolupament Sostenible, president de la Fundació de Música Ferrer-Salat, de la Fundació Ferrer d'Investigació Biomèdica, cofundador i copropietari de les bodegues Ferrer Bobet i fundador i propietari de Monvínic. Quasi res... Però, sobretot parlarem amb ell de la seva sensibilitat pel medi ambient.Per si no fos prou, el globus s'enlairarà des d'un marc incomparable des d'on fins avui no s'havia enlairat mai un globus: el monestir de Poblet.Parlarem amb Ferrer-Salat volant per sobre de la Conca de Barberà, i com sempre la Candela Figueras ens seguirà des del terra, ben acompanyada per algú important en la vida del nostre convidat.Des del monestir de Poblet, alcem el vol...</desc>
-    <length units="minutes">00:45:57</length>
+  <programme start="20260910215704 +0000" channel="tv3" stop="20260910224943 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El desembussador de ventosa</sub-title>
+    <desc lang="ca">L'objecte al qual dediquem aquest capítol és d'aquells que es van inventar tan bé que no s'han modificat des de la seva creació. I no podia ser cap altre que el desembossador de ventosa. Pot ser més fastigós el què surt de dins d'aquells forats? Ens ha vingut a veure en Jaume Tribó, l'apuntador del Liceu. Té intenció de viure fins més enllà dels 100 anys, o sigui que el Liceu pot estar tranquil. I sortim a passejar amb en Murri pel dia de l'automutilació de Van Gogh, el 23 de desembre de 1888.</desc>
+    <length units="minutes">00:52:39</length>
+  </programme>
+  <programme start="20260910224943 +0000" channel="tv3" stop="20260910234704 +0000">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Un planeta perfecte - El Sol</sub-title>
+    <desc lang="ca">L'energia que la Terra rep del Sol és imprescindible per a la vida. Totes les regions del nostre planeta reben la mateixa quantitat d'hores de sol al llarg de l'any, però la inclinació de l'eix sobre el qual gira la Terra fa que el repartiment de les hores de llum i de foscor sigui desigual a tot arreu excepte a l'equador. Ara bé, els éssers vius sempre han sabut adaptar-se als efectes de les diferències d'insolació.</desc>
+    <length units="minutes">00:57:21</length>
   </programme>
 </tv>
