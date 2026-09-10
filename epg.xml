@@ -3,11 +3,11 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -15,66 +15,58 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260910103004 +0000" channel="tvi" stop="20260910135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1806</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:56</length>
+  <programme start="20260910172206 +0000" channel="tvi" stop="20260910173110 +0000">
+    <title lang="ca">CUINES CATALUNYA</title>
+    <sub-title lang="ca">CUINES CATALUNYA - Entrepà de pollastre i maionesa de codonyat</sub-title>
+    <desc lang="ca">Ens podem fer un entrepà clàssic de formatge i pernil o, amb una mica d'imaginació, preparar-nos-en un carregat de contrastos i colors. Un berenar gurmet!</desc>
+    <length units="minutes">00:09:04</length>
   </programme>
-  <programme start="20260910135500 +0000" channel="tvi" stop="20260910142959 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7032</sub-title>
-    <length units="minutes">00:34:59</length>
-  </programme>
-  <programme start="20260910120000 +0000" channel="324" stop="20260910135500 +0000">
+  <programme start="20260910170000 +0000" channel="324" stop="20260910183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11133</sub-title>
+    <sub-title lang="ca">11135</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260910135500 +0000" channel="324" stop="20260910143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7032</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20260910183000 +0000" channel="324" stop="20260910200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11136</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260910114453 +0000" channel="esport3" stop="20260910130000 +0000">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Zona Champions - Anàlisi de la jornada / J1</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="minutes">01:15:07</length>
-  </programme>
-  <programme start="20260910130000 +0000" channel="esport3" stop="20260910140111 +0000">
+  <programme start="20260910171827 +0000" channel="esport3" stop="20260910182000 +0000">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">3237</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:11</length>
+    <desc lang="ca">El Barça goleja al Feyenoord (5-1) en la seva estrena a la Champions. Analitzem el partit amb la lupa de l'Albert Blaya. Entrevistem al pilot Àlex Palou, campió de la IndyCar. L'NBA amb Jordi de Mas i tertúlia. Avui ens acompanyen Marc Cornet, Irati Vidal, Martí Molina i Joanjo Pallàs.</desc>
+    <length units="minutes">01:01:33</length>
   </programme>
-  <programme start="20260910120448 +0000" channel="sx3" stop="20260910121558 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">174</sub-title>
-    <desc lang="ca">En Jonas aconsegueix entrar a la sala des d'on la Mila li demanava ajuda, però descobreix que ha desaparegut. Al cap de poc, rep una trucada de la noia en què els comunica que la reina de trèvols els dona deu minuts per demostrar que estan compromesos en la recerca del llibre. Mentrestant, l'Alex continua buscant pistes dins del despatx del senyor Ballinc, i el que hi troba és molt enigmàtic.</desc>
-    <length units="minutes">00:11:10</length>
+  <programme start="20260910182000 +0000" channel="esport3" stop="20260910203933 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
+    <desc lang="ca">Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="minutes">02:19:33</length>
   </programme>
-  <programme start="20260910121558 +0000" channel="sx3" stop="20260910122739 +0000">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">175</sub-title>
-    <desc lang="ca">Els Ghost Rockers tenen l'última oportunitat per descobrir on és el llibre misteriós que vol la reina de trèvols. Per tal de seguir avançant, demanen ajuda als Free Birds. Gràcies a la cançó, en Jimmy fa un descobriment important relacionat amb la targeta descodificadora. D'altra banda, en Jonas coneix l'Eva, una cantant que s'apunta al taller de lletristes, i en Brandon i la Mila passen una forta crisi.</desc>
-    <length units="minutes">00:11:41</length>
+  <programme start="20260910171148 +0000" channel="sx3" stop="20260910172444 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Titó - Excursió a l'escola</sub-title>
+    <desc lang="ca">D'aquí res ja comença l'escola! En teniu ganes? Avui anirem d'excursió per veure com és una classe d'infantil. Farem el 'bon dia', jugarem amb plastilina, sortirem al pati i... sabeu qui serà el nostre mestre de psico? En John C!</desc>
+    <length units="minutes">00:12:56</length>
   </programme>
-  <programme start="20260910114225 +0000" channel="tv3" stop="20260910121636 +0000">
-    <title lang="ca">Tot o res</title>
-    <sub-title lang="ca">29</sub-title>
-    <desc lang="ca">'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
-    <length units="minutes">00:34:11</length>
+  <programme start="20260910172444 +0000" channel="sx3" stop="20260910173403 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Titó - Excursió a respirar</sub-title>
+    <desc lang="ca">La tornada al cole ja és aquí i és normal que tots estiguem una mica nerviosos. Avui en Titó anirà d'excursió a respirar d'una manera molt especial que ens pot ajudar a calmar-nos. Inspirarem, espirarem... i farem bombolles de sabó amb en John C!</desc>
+    <length units="minutes">00:09:19</length>
   </programme>
-  <programme start="20260910121636 +0000" channel="tv3" stop="20260910131932 +0000">
-    <title lang="ca">Atrapa'm si pots - Especials</title>
-    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
-    <length units="minutes">01:02:56</length>
+  <programme start="20260910163427 +0000" channel="tv3" stop="20260910172517 +0000">
+    <title lang="ca">Terreny personal</title>
+    <sub-title lang="ca">Terreny personal - El Maresme</sub-title>
+    <desc lang="ca">En aquest capítol descobrirem una comarca estreta i allargada, un terreny de platges llargues i muntanyes de boscos, marcat per les rieres i les viles de pescadors: és el Maresme.Els protagonistes d'aquest programa tenen una relació molt especial amb el Maresme i s'estimen el seu territori de maneres molt diferents. Ells ens mostren els racons de la comarca que formen part de les seves vides. El Ramon Tarridas és un pescador artesanal que té un important lligam familiar amb el mar i amb la platja de Sant Pol. El seu dia a dia passa per defensar un model de pesca més sostenible. La Georgina Blanch és de Mataró i té molt clar que, per a ella, 'Mataró és el millor lloc del món'. Treballa a molts llocs diferents, però tots estan relacionats amb la música i, molt especialment, amb el gospel. Té ganes de viatjar i de veure món, però té clar que Mataró sempre serà el centre del seu univers. El Miquel Riera és pagès. Va néixer i créixer a Mataró, però l'especulació urbanística va fer que hagués de marxar de la seva ciutat per poder treballar la seva pròpia terra. Va recórrer el Maresme buscant el lloc més adient i, finalment, es va instal·lar amb la seva dona, la Sílvia, a Palafolls. Ara ja s'hi sent com a casa. El Pep Quintana és d'Arenys de Mar. Es considera l'home dels mil oficis i, a la vila, és un personatge il·lustre, membre de totes les tertúlies, i un gran especialista en Salvador Espriu. Se'l coneix sobretot per les seves rutes literàries al cementiri de Sinera. En aquest capítol també hi intervenen els nens de l'Escola Joan Maragall, d'Arenys de Mar, que ens expliquen els racons més especials de casa seva. L'escriptora Care Santos, mataronina, llegeix un fragment del seu llibre Habitacions tancades, i els Pastora interpreten la cançó Una altra galàxia a la casa familiar de Tiana.</desc>
+    <length units="minutes">00:50:50</length>
   </programme>
-  <programme start="20260910120258 +0000" channel="tv3" stop="20260910130253 +0000">
-    <title lang="ca">Obertura de l'any judicial, marcada per l'aplicació de l'amnisia</title>
-    <sub-title lang="ca">4112</sub-title>
-    <length units="minutes">00:59:55</length>
+  <programme start="20260910172517 +0000" channel="tv3" stop="20260910181114 +0000">
+    <title lang="ca">Globus Sonda</title>
+    <sub-title lang="ca">Globus Sonda - Sergi Ferrer-Salat - Monestir de Poblet</sub-title>
+    <desc lang="ca">En el 'Globus sonda' d'avui volarem amb un dels empresaris més potents del país, Sergi Ferrer-Salat. Del sector farmacèutic, és president del grup Ferrer, membre del Consell Assessor per al Desenvolupament Sostenible, president de la Fundació de Música Ferrer-Salat, de la Fundació Ferrer d'Investigació Biomèdica, cofundador i copropietari de les bodegues Ferrer Bobet i fundador i propietari de Monvínic. Quasi res... Però, sobretot parlarem amb ell de la seva sensibilitat pel medi ambient.Per si no fos prou, el globus s'enlairarà des d'un marc incomparable des d'on fins avui no s'havia enlairat mai un globus: el monestir de Poblet.Parlarem amb Ferrer-Salat volant per sobre de la Conca de Barberà, i com sempre la Candela Figueras ens seguirà des del terra, ben acompanyada per algú important en la vida del nostre convidat.Des del monestir de Poblet, alcem el vol...</desc>
+    <length units="minutes">00:45:57</length>
   </programme>
 </tv>
