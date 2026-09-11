@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260910221100 +0000" channel="tvi" stop="20260910232038 +0000">
-    <title lang="ca">Lo Cartanyà</title>
-    <sub-title lang="ca">Lo Cartanyà - Finisterre (part 1 i part 2)</sub-title>
-    <desc lang="ca">En aquest especial, descobrirem què els ha passat als protagonistes de 'Lo Cartanyà' en aquests 20 anys que fa que els hem perdut de vista. Descobrirem les ventures i desventures que han viscut a 'lo poble' aquests habitants tan peculiars amb una marcada tendència cap al desastre. Com porten el pas del temps tots i cadascun d'ells? Hi ha canvis significatius en les seves vides? Estan satisfets amb el que han aconseguit? Tenen expectatives de futur? Lo Cartanyà és veritablement calb? El seu fill -que ara té 18 anys- té alguna cosa a veure amb ell? Avancem només una coseta... Lo Cartanyà i el seu fill tenen una passió comuna. La resta ens l'explicaran els mateixos personatges de viva veu, amb flashbacks intercalats amb els que anirem recordant seqüències de la sèrie original. Només una coseta més, va... Cauen llamps i trons. I fins aquí...</desc>
-    <length units="minutes">01:09:38</length>
-  </programme>
-  <programme start="20260910232038 +0000" channel="tvi" stop="20260910234916 +0000">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">Tot torna - 1997</sub-title>
-    <desc lang="ca">Repassem el 1997, l'any que Pasqual Maragall abandona l'alcaldia de Barcelona i el Negre de Banyoles, el Museu Darder. Tanca El Molino, es casen els ducs de Palma i hi ha 'drama' a la inauguració del TNC.</desc>
-    <length units="minutes">00:28:38</length>
-  </programme>
-  <programme start="20260910220500 +0000" channel="324" stop="20260911000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2157</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260911000000 +0000" channel="324" stop="20260911003000 +0000">
+  <programme start="20260911020907 +0000" channel="tvi" stop="20260911043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11138</sub-title>
+    <sub-title lang="ca">11139</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">02:20:53</length>
   </programme>
-  <programme start="20260910204613 +0000" channel="esport3" stop="20260910230000 +0000">
+  <programme start="20260911043000 +0000" channel="tvi" stop="20260911051608 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Fusió i swing a l'estudi - LA VELLA DIXIELAND</sub-title>
+    <desc lang="ca">Amb més de 30 anys dalt de l'escenari, La Vella Dixieland és un cas inèdit en el panorama jazzístic nacional, i amb la seva persistència s'ha convertit en grup de referència. En els seus concerts es submergeixen en les essències del jazz: música calenta, ritmes encomanadissos i complicitat amb el públic. Pep Gol a la trompeta; Xavi Manau, al trombó; Pau Casares, al clarinet; Gerard Nieto, al piano; Josemi Moraleda, al contrabaix, i Pinyu Martí, a la bateria.</desc>
+    <length units="minutes">00:46:08</length>
+  </programme>
+  <programme start="20260911010000 +0000" channel="324" stop="20260911060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11139</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260911060000 +0000" channel="324" stop="20260911070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11140</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260911022100 +0000" channel="esport3" stop="20260911040720 +0000">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
     <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">02:13:47</length>
+    <length units="minutes">01:46:20</length>
   </programme>
-  <programme start="20260910230000 +0000" channel="esport3" stop="20260911003108 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">1247</sub-title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="minutes">01:31:08</length>
+  <programme start="20260911040720 +0000" channel="esport3" stop="20260911060336 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
+    <desc lang="ca">Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="minutes">01:56:16</length>
   </programme>
-  <programme start="20260910220234 +0000" channel="sx3" stop="20260910222347 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Uns fideus tan bons que maten (1a part)</sub-title>
-    <desc lang="ca">La Ran, la Masumi i la Sonoko decideixen anar amb en Conan a sopar al restaurant de fideus preferit de la Masumi. Però després de gaudir d'aquest deliciós plat descobreixen que alguns dels clients que han sopat amb ells aquell vespre són sospitosos de l'assassinat d'una dona que vivia a prop i que, pel que sembla, va ser víctima d'un robatori que va acabar malament. Però potser hi ha algun sospitós més.</desc>
-    <length units="minutes">00:21:13</length>
+  <programme start="20260911034620 +0000" channel="sx3" stop="20260911040727 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - El Cavaller Negre</sub-title>
+    <desc lang="ca">L'Armand d'Argencourt perd les eleccions municipals davant del senyor Bourgeois. Aprofitant el disgust del perdedor, l'Esfinx l'akumatitza en el Cavaller Negre, un avantpassat seu que havia governat París amb mà de ferro i que vol reclutar un exèrcit de cavallers. Mentrestant a l'institut han d'elegir el delegat de classe, que des de fa molts cursos és la Chloé, que s'aferra al càrrec.</desc>
+    <length units="minutes">00:21:07</length>
   </programme>
-  <programme start="20260910222347 +0000" channel="sx3" stop="20260910224323 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Uns fideus tan bons que maten (2a part)</sub-title>
-    <desc lang="ca">La setmana anterior, després de cometre un assassinat, l'assassí va entrar al restaurant de fideus Ogura. La policia té tres sospitosos, tots ells clients habituals del local. Mentre perseguia l'assassí, la Yumi es va trobar el seu exnòvio, en Shukichi Haneda. Quan li truca per tornar a parlar amb ell, en Shukichi li diu que recorda haver sentit un soroll estrany cada vegada que l'assassí feia un pas. Quan sent aquesta explicació, en Conan s'adona d'una cosa.</desc>
-    <length units="minutes">00:19:36</length>
+  <programme start="20260911040727 +0000" channel="sx3" stop="20260911041921 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - En Timbal, el campió</sub-title>
+    <desc lang="ca">Per primera vegada la Guineta li guanya una cursa al seu pare. I ell li regala un collaret de campiona, del qual n'està molt orgullosa. Per posar-se a prova contra en Pinxo, deixa el collaret sota la vigilància d'en Timbal. Però mentre en Timbal fa una becaina, els gats del poble li roben el preuat collaret.</desc>
+    <length units="minutes">00:11:54</length>
   </programme>
-  <programme start="20260910215704 +0000" channel="tv3" stop="20260910224943 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El desembussador de ventosa</sub-title>
-    <desc lang="ca">L'objecte al qual dediquem aquest capítol és d'aquells que es van inventar tan bé que no s'han modificat des de la seva creació. I no podia ser cap altre que el desembossador de ventosa. Pot ser més fastigós el què surt de dins d'aquells forats? Ens ha vingut a veure en Jaume Tribó, l'apuntador del Liceu. Té intenció de viure fins més enllà dels 100 anys, o sigui que el Liceu pot estar tranquil. I sortim a passejar amb en Murri pel dia de l'automutilació de Van Gogh, el 23 de desembre de 1888.</desc>
-    <length units="minutes">00:52:39</length>
+  <programme start="20260911025858 +0000" channel="tv3" stop="20260911042948 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Assassinats a La Ciutat</sub-title>
+    <desc lang="ca">ASSASSINATS A LA CIUTAT 'Meurtres à La Ciotat'Direcció: Dominique LadogeGuió: Elsa ChabrolProducció: Neutra Production, Klim Production, AT Production, RTBF, France Télévisions, TV5 Monde, France 3 (FR 3), Radio Télévision Suisse (RTS)Any: 2016Durada: 92País: França Música: Nicolas JorelleIntèrprets: Élodie Varlet, Philippe Bas, Olivier Pagès, Julie Boulanger, Denis Braccini, Moussa Maaskri, Géraldine Loup, François Cottrelle, Jean-Marc Michelangeli, Didier Bourguignon, Isalinde Giovangigli, Anne-Marie Ponsot, Joan Titus, Christine Cardeur, Anita Sarxian, Jean-Marc Ravera, Georges Neri, Roland Munter, Hervé Bonzom, Jean Nehr, Martin Kamoun.Han trobat el cos d'un home penjat a una nau de les drassanes de La Ciutat. Aquesta troballa porta la jove comissària Anne Sauvaire al moll de l'os d'una història enterrada en el passat dels habitants de La Ciutat i els antics treballadors de les drassanes.El periodista Batti Vergniot l'acompanyarà en aquesta investigació complexa amb un rerefons d'antics conflictes socials i silencis, sense imaginar les conseqüències de la seva investigació.La recerca personal i discreta de l'Anne sobre el passat del seu pare toparà amb una investigació difícil, en una ciutat desapareguda i discreta, on la llei del silenci no és un mite... El passat és passat.Quan es produeix una segona mort, la investigació s'enfonsa...</desc>
+    <length units="minutes">01:30:50</length>
   </programme>
-  <programme start="20260910224943 +0000" channel="tv3" stop="20260910234704 +0000">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Un planeta perfecte - El Sol</sub-title>
-    <desc lang="ca">L'energia que la Terra rep del Sol és imprescindible per a la vida. Totes les regions del nostre planeta reben la mateixa quantitat d'hores de sol al llarg de l'any, però la inclinació de l'eix sobre el qual gira la Terra fa que el repartiment de les hores de llum i de foscor sigui desigual a tot arreu excepte a l'equador. Ara bé, els éssers vius sempre han sabut adaptar-se als efectes de les diferències d'insolació.</desc>
-    <length units="minutes">00:57:21</length>
+  <programme start="20260911042948 +0000" channel="tv3" stop="20260911051000 +0000">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">La Mar de Bé - Liris</sub-title>
+    <desc lang="ca">Barraca de pescadors Liris, Cala Tamariu, Palafrugell. En aquest capítol, els pescadors seran els convidats d'en Quim Casellas, que els prepararà un arròs socarrat com a agraïment per haver-lo acollit a les seves embarcacions. Serà un dia especial i únic, que servirà per compartir històries i anècdotes de la mar, i que acabarà amb una sorpresa musical per als pescadors. Abans, però, en Quim descobrirà, amb l'Àngela Martí, un dels llocs on antigament es reunien els pescadors i on la gastronomia i la música també eren protagonistes: les barraques de pescadors.</desc>
+    <length units="minutes">00:40:12</length>
   </programme>
 </tv>
