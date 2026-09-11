@@ -3,76 +3,73 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260911020907 +0000" channel="tvi" stop="20260911043000 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260911120000 +0000" channel="tvi" stop="20260911142930 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11139</sub-title>
+    <sub-title lang="ca">11143</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:20:53</length>
+    <length units="minutes">02:29:30</length>
   </programme>
-  <programme start="20260911043000 +0000" channel="tvi" stop="20260911051608 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - LA VELLA DIXIELAND</sub-title>
-    <desc lang="ca">Amb més de 30 anys dalt de l'escenari, La Vella Dixieland és un cas inèdit en el panorama jazzístic nacional, i amb la seva persistència s'ha convertit en grup de referència. En els seus concerts es submergeixen en les essències del jazz: música calenta, ritmes encomanadissos i complicitat amb el públic. Pep Gol a la trompeta; Xavi Manau, al trombó; Pau Casares, al clarinet; Gerard Nieto, al piano; Josemi Moraleda, al contrabaix, i Pinyu Martí, a la bateria.</desc>
-    <length units="minutes">00:46:08</length>
+  <programme start="20260911142930 +0000" channel="tvi" stop="20260911153441 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7325</sub-title>
+    <length units="minutes">01:05:11</length>
   </programme>
-  <programme start="20260911010000 +0000" channel="324" stop="20260911060000 +0000">
+  <programme start="20260911120000 +0000" channel="324" stop="20260911143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11139</sub-title>
+    <sub-title lang="ca">11143</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260911060000 +0000" channel="324" stop="20260911070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11140</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260911143000 +0000" channel="324" stop="20260911163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7325</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260911022100 +0000" channel="esport3" stop="20260911040720 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
-    <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">01:46:20</length>
+  <programme start="20260911114019 +0000" channel="esport3" stop="20260911124046 +0000">
+    <title lang="ca">Núñez</title>
+    <sub-title lang="ca">Núñez - El patrimoni no fa la felicitat</sub-title>
+    <desc lang="ca">Impulsat per l'èxit de Basilea, Núñez intenta fer del Barça el millor club d'Europa. Però malgrat els grans fitxatges d'estrelles com Schuster, Maradona i Quini i la quantitat astronòmica de diners invertits, sempre trobarà un impediment o altre que s'interposarà en el camí cap al seu somni. El segrest de Quini, el caràcter problemàtic de Schuster, l'hepatitis de Maradona i la seva posterior lesió, els problemes del vestidor amb les drogues... Fins que decideix prendre una decisió impopular, vendre al crack argentí, que al cap i a la fi el conduirà contra pronòstic a conquerir l'any següent la seva primera Lliga. Ara, només queda un pas per fer realitat el Barça triomfant que va prometre a les eleccions: guanyar la copa d'Europa en una final a Sevilla, contra un rival desconegut i amb la grada plena d'aficionats del Barça. El somni de Núñez, i de tot el barcelonisme, és més a tocar que mai.</desc>
+    <length units="minutes">01:00:27</length>
   </programme>
-  <programme start="20260911040720 +0000" channel="esport3" stop="20260911060336 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
-    <desc lang="ca">Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">01:56:16</length>
+  <programme start="20260911124046 +0000" channel="esport3" stop="20260911141036 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1247</sub-title>
+    <desc lang="ca">Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:29:50</length>
   </programme>
-  <programme start="20260911034620 +0000" channel="sx3" stop="20260911040727 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - El Cavaller Negre</sub-title>
-    <desc lang="ca">L'Armand d'Argencourt perd les eleccions municipals davant del senyor Bourgeois. Aprofitant el disgust del perdedor, l'Esfinx l'akumatitza en el Cavaller Negre, un avantpassat seu que havia governat París amb mà de ferro i que vol reclutar un exèrcit de cavallers. Mentrestant a l'institut han d'elegir el delegat de classe, que des de fa molts cursos és la Chloé, que s'aferra al càrrec.</desc>
-    <length units="minutes">00:21:07</length>
+  <programme start="20260911113656 +0000" channel="sx3" stop="20260911123452 +0000">
+    <title lang="ca">Tintín i l'afer Tornassol</title>
+    <sub-title lang="ca">Tintín i l'afer Tornassol - Tintín i l'afer Tornassol</sub-title>
+    <desc lang="ca">TINTÍN I L'AFER TORNASSOL (Tintin et l'affair Tournesol)El profesor Tornassol tot just acaba de deixar a punt una nova i terrible arma d'ultrasons. De viatge a Suïssa per assistir a un congrés, és segrestat pels que volen apoderar-se del seu invent. Tintín i el capità Haddock es reuneixen per rescatar-lo. Quan estan a punt d'alliberar-lo, torna a ser segrestat, aquesta vegada per uns altres espies. Amb l'ajuda de la Castafiore, Tintín obté uns documents del general Sponsz, cap de la policia, que els permeten alliberar Tornassol. Aconseguit això i després de la fugida a través de la frontera, arriben de nou a casa. Destruirà Tornassol els seus plànols?Idioma versió original: francèsProducció: Belvision, 1961 (Bèlgica)Direcció: Ray GossensDurada: 57 minutsGuió: HergéPel·lícula de dibuixos animats</desc>
+    <length units="minutes">00:57:56</length>
   </programme>
-  <programme start="20260911040727 +0000" channel="sx3" stop="20260911041921 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - En Timbal, el campió</sub-title>
-    <desc lang="ca">Per primera vegada la Guineta li guanya una cursa al seu pare. I ell li regala un collaret de campiona, del qual n'està molt orgullosa. Per posar-se a prova contra en Pinxo, deixa el collaret sota la vigilància d'en Timbal. Però mentre en Timbal fa una becaina, els gats del poble li roben el preuat collaret.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20260911123452 +0000" channel="sx3" stop="20260911124638 +0000">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - El meu tresor</sub-title>
+    <desc lang="ca">Remenant pel garatge les germanes troben un vell mapa d'un tresor en una capsa. La Wendy creu que no és autèntic, però la Marine surt disparada a buscar el tresor pels carrers de Pom-les-Bains. Però la Wendy té els seus dubtes i no es pot estar de seguir la seva germana a distància.</desc>
+    <length units="minutes">00:11:46</length>
   </programme>
-  <programme start="20260911025858 +0000" channel="tv3" stop="20260911042948 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinats a La Ciutat</sub-title>
-    <desc lang="ca">ASSASSINATS A LA CIUTAT 'Meurtres à La Ciotat'Direcció: Dominique LadogeGuió: Elsa ChabrolProducció: Neutra Production, Klim Production, AT Production, RTBF, France Télévisions, TV5 Monde, France 3 (FR 3), Radio Télévision Suisse (RTS)Any: 2016Durada: 92País: França Música: Nicolas JorelleIntèrprets: Élodie Varlet, Philippe Bas, Olivier Pagès, Julie Boulanger, Denis Braccini, Moussa Maaskri, Géraldine Loup, François Cottrelle, Jean-Marc Michelangeli, Didier Bourguignon, Isalinde Giovangigli, Anne-Marie Ponsot, Joan Titus, Christine Cardeur, Anita Sarxian, Jean-Marc Ravera, Georges Neri, Roland Munter, Hervé Bonzom, Jean Nehr, Martin Kamoun.Han trobat el cos d'un home penjat a una nau de les drassanes de La Ciutat. Aquesta troballa porta la jove comissària Anne Sauvaire al moll de l'os d'una història enterrada en el passat dels habitants de La Ciutat i els antics treballadors de les drassanes.El periodista Batti Vergniot l'acompanyarà en aquesta investigació complexa amb un rerefons d'antics conflictes socials i silencis, sense imaginar les conseqüències de la seva investigació.La recerca personal i discreta de l'Anne sobre el passat del seu pare toparà amb una investigació difícil, en una ciutat desapareguda i discreta, on la llei del silenci no és un mite... El passat és passat.Quan es produeix una segona mort, la investigació s'enfonsa...</desc>
-    <length units="minutes">01:30:50</length>
+  <programme start="20260911113017 +0000" channel="tv3" stop="20260911120433 +0000">
+    <title lang="ca">Tot o res</title>
+    <sub-title lang="ca">30</sub-title>
+    <desc lang="ca">'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <length units="minutes">00:34:16</length>
   </programme>
-  <programme start="20260911042948 +0000" channel="tv3" stop="20260911051000 +0000">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">La Mar de Bé - Liris</sub-title>
-    <desc lang="ca">Barraca de pescadors Liris, Cala Tamariu, Palafrugell. En aquest capítol, els pescadors seran els convidats d'en Quim Casellas, que els prepararà un arròs socarrat com a agraïment per haver-lo acollit a les seves embarcacions. Serà un dia especial i únic, que servirà per compartir històries i anècdotes de la mar, i que acabarà amb una sorpresa musical per als pescadors. Abans, però, en Quim descobrirà, amb l'Àngela Martí, un dels llocs on antigament es reunien els pescadors i on la gastronomia i la música també eren protagonistes: les barraques de pescadors.</desc>
-    <length units="minutes">00:40:12</length>
+  <programme start="20260911120433 +0000" channel="tv3" stop="20260911130446 +0000">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
+    <length units="minutes">01:00:13</length>
   </programme>
 </tv>
