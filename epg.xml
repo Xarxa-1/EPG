@@ -3,76 +3,79 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260911170004 +0000" channel="tvi" stop="20260911173006 +0000">
-    <title lang="ca">Especial informatiu: Manifestació 11 S</title>
-    <sub-title lang="ca">Especial informatiu: Manifestació 11 S - 11S Diada Nacional de Catalunya</sub-title>
-    <desc lang="ca">Seguiment de les manifestacions per la independència convocades a Barcelona, Girona i Amposta i tota l'actualitat de la Diada Nacional de Catalunya, amb connexions en directe, taula d'analistes i entrevistes als protagonistes de la jornada.</desc>
-    <length units="minutes">00:30:02</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20260911220101 +0000" channel="tvi" stop="20260912004830 +0000">
+    <title lang="ca">Teatre</title>
+    <sub-title lang="ca">Teatre - L'amor venia amb taxi</sub-title>
+    <length units="minutes">02:47:29</length>
   </programme>
-  <programme start="20260911173006 +0000" channel="tvi" stop="20260911181900 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - El rastre del llop</sub-title>
-    <desc lang="ca">Directora: Ángeles HernándezGuionistes: Ángeles Hernández i Xénia PuigrósDirector de fotografia: Mariano SuarezCompositora de música: Mariana Ortega Intèrprets: Elisabet Casanovas (Sofia), Andrés Herrera (Gabriel), Carles Francino (Marti), Elena Gadel (Carol) i Micky Nuñez (Jaume)En ser mare i arran de la mort del seu germà, la Sofia torna a casa seva 10 anys després d'haver-ne marxat: l'única casa del poble que genera vida gràcies al seu pou d'aigua, que permet mantenir l'hort i el bestiar. Allà es retroba amb el seu pare, en Gabriel, que està malalt i a punt de morir a causa d'una vacuna inoculada fa 25 anys. I no és l'únic, n'hi ha molts com ell, a qui a causa de la crisi climàtica i la superpoblació, un govern feixista que impulsa la política del fill únic condemna a una mort programada (injectant-li la vacuna 'Saturn25'). Però en Gabriel no va poder escollir: la malaltia del seu fill gran, en Xavier, els va portar a ell i a la seva dona (que va morir en el segon part) a engendrar una criatura, la Sofia, que pogués salvar la vida del primogènit. Justament quan fa 25 anys de la vacunació, els anomenats 'herois del sistema' (els vacunats) comencen a tenir múltiples efectes secundaris i dolor molt agut per la degradació del seu cos. En aquesta distopia, la Sofia es debat entre el passat, el present i el futur. Però lluita per fer-se amb un dels antídots que el nou govern ha posat en marxa per aturar els efectes del verí. A mesura que passen els dies, en Gabriel va degenerant el seu estat de salut i obre incògnites sobre el passat de la seva família, mentre la població es rebel·la per la manca d'aigua.</desc>
-    <length units="minutes">00:48:54</length>
+  <programme start="20260912004830 +0000" channel="tvi" stop="20260912022121 +0000">
+    <title lang="ca">Concert</title>
+    <sub-title lang="ca">Concert - Mishima al Mercat de Música Viva de Vic 2025</sub-title>
+    <desc lang="ca">Mishima ha trepitjat l'escenari de la plaça Major de Vic fent un desplegament de gran part del seu repertori. El concert, que ha posat punt final al Mercat de Música Viva de Vic de 2025, també ha servit per retre homenatge al desaparegut Marc Lloret, integrant del grup i director del MMVV des del 2010.</desc>
+    <length units="minutes">01:32:51</length>
   </programme>
-  <programme start="20260911170000 +0000" channel="324" stop="20260911190000 +0000">
-    <title lang="ca">Especial informatiu: Manifestació 11 S</title>
-    <sub-title lang="ca">11S Diada Nacional de Catalunya</sub-title>
-    <desc lang="ca">Seguiment de les manifestacions per la independència convocades a Barcelona, Girona i Amposta i tota l'actualitat de la Diada Nacional de Catalunya, amb connexions en directe, taula d'analistes i entrevistes als protagonistes de la jornada.</desc>
+  <programme start="20260911210000 +0000" channel="324" stop="20260911230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7324</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260911190000 +0000" channel="324" stop="20260911200000 +0000">
+  <programme start="20260911230000 +0000" channel="324" stop="20260912000000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11145</sub-title>
+    <sub-title lang="ca">11146</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260911163012 +0000" channel="esport3" stop="20260911175924 +0000">
-    <title lang="ca">Piragüisme</title>
-    <sub-title lang="ca">Piragüisme - Copa del Món ICF / Finals caiac eslàlom</sub-title>
-    <desc lang="ca">Finals, masculina i femenina, de caiac eslàlom a la Copa del Món ICF de piragüisme que es fa al Parc Olímpic del Segre de La Seu d'Urgell. Amb la narració de Miquel Ribas.</desc>
-    <length units="minutes">01:29:12</length>
+  <programme start="20260911220927 +0000" channel="esport3" stop="20260911230600 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
+    <desc lang="ca">Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="minutes">00:56:33</length>
   </programme>
-  <programme start="20260911175924 +0000" channel="esport3" stop="20260911182000 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Mourinho / Prèvia R. Madrid-Rayo / J5</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:20:36</length>
+  <programme start="20260911230600 +0000" channel="esport3" stop="20260912002320 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
+    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="minutes">01:17:20</length>
   </programme>
-  <programme start="20260911163923 +0000" channel="sx3" stop="20260911180049 +0000">
-    <title lang="ca">Viu el Super3</title>
-    <sub-title lang="ca">Viu el Super3 - Espectacle Super3 a 3Cat en viu</sub-title>
-    <desc lang="ca">Tot l'univers del Super3 en un espectacle únic! El Mic, en Titó, la Tat, en John C, els Beta i els personatges de 'Fuet' posen ritme a l'escenari del '3Cat en viu'. Una gran ocasió per estrenar 'Tots som súpers' amb les veus d'en Titó, la Tat i els Beta.</desc>
-    <length units="minutes">01:21:26</length>
+  <programme start="20260911220413 +0000" channel="sx3" stop="20260911222526 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Una mansió envoltada de zombis (1a part)</sub-title>
+    <desc lang="ca">En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.</desc>
+    <length units="minutes">00:21:13</length>
   </programme>
-  <programme start="20260911180049 +0000" channel="sx3" stop="20260911181317 +0000">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Els barrufets (3D) - El barrufet extraterrestre</sub-title>
-    <desc lang="ca">Un extraterrestre anomenat Glee-go arriba al poble Barrufet. Gràcies a un aparell que du sempre a sobre, copia l'aspecte d'un barrufet i es barreja amb els altres per tal de fer amics. Quan els barrufets no li segueixen la veta, els hipnotitza amb l'aparell perquè juguin amb ell. De mica en mica, tot el poble cau sota el seu influx... menys la Barrufeta, que buscarà ajuda al poble de les noies.</desc>
-    <length units="minutes">00:12:28</length>
+  <programme start="20260911222526 +0000" channel="sx3" stop="20260911224502 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Una mansió envoltada de zombis (2a part)</sub-title>
+    <desc lang="ca">Els misteris se succeeixen a la mansió on un equip de rodatge d'un club de cinema de terror s'havia reunit per gravar la seqüela d'una pel·lícula. Després de comprovar que la mansió sí que està envoltada de zombis, apareix un segon cadàver que encara afegeix més enigmes a tota la situació. Algú està gravant els assassinats amb un mòbil per deixar pistes, però també pot ser que ho faci per afegir-hi més suspens!</desc>
+    <length units="minutes">00:19:36</length>
   </programme>
-  <programme start="20260911163136 +0000" channel="tv3" stop="20260911172703 +0000">
-    <title lang="ca">300</title>
-    <sub-title lang="ca">300 - La política</sub-title>
-    <desc lang="ca">L'encaix de Catalunya a Espanya, el problema territorial, la qüestió catalana... Aquest tema, amb diferents noms, ha dominat la història política dels últims 300 anys. En aquest episodi de la sèrie '300' veurem com les relacions polítiques entre Catalunya i Espanya han tingut moments d'enfrontament i moments d'acord. Però en tres segles no hi ha hagut manera de trobar solucions estables i duradores per encaixar l'especificitat catalana en el marc espanyol. Aquest episodi comença amb els representants dels territoris de l'Antiga Corona d'Aragó que, a mitjans del segle XVIII, viatgen a Madrid per presentar al rei Carles III el primer 'Memorial de Greuges'. És la primera vegada que els sectors dirigents de la societat catalana s'atreveixen a alçar la veu per reclamar la singularitat catalana.En la segona història, un vaixell s'endú a bord els diputats catalans que van cap a les Corts Constituents de Cadis, el 1812. Aquesta constitució representa tota una revolució, perquè és la primera constitució liberal espanyola. Però els diputats catalans no aconsegueixen fer entendre la seva idea de reconèixer la plurinacionalitat d'Espanya.Durant el segle XIX, la industrialització converteix Catalunya en un país molt diferent de la resta de l'estat i amb unes necessitats molt diferents. Les protestes contra el govern són contínues. L'any 1842 les protestes són tan generals que fins i tot els fabricants, descontents amb la política econòmica, s'hi apunten. Tot s'acaba amb el bombardeig que el regent Espartero ordena sobre Barcelona.Espanya fa un nou canvi: la revolució de la Gloriosa fa marxar la reina Isabel i es proclama la Primera República. És l'oportunitat de canviar les coses. En sis anys hi haurà fins a tres caps de govern catalans. El personatge clau és l'economista barceloní Laureano Figuerola, que va ser ministre d'Hisenda durant aquells anys i va crear la pesseta.És molt interessant comparar la política catalana i espanyola d'aquells anys de</desc>
-    <length units="minutes">00:55:27</length>
+  <programme start="20260911215839 +0000" channel="tv3" stop="20260911235654 +0000">
+    <title lang="ca">102 minuts que van canviar Amèrica</title>
+    <sub-title lang="ca">102 minuts que van canviar Amèrica - 102 minuts que van canviar Amèrica</sub-title>
+    <desc lang="ca">Dimarts, onze de setembre de 2001. Nova York, 8.46 h. A mesura que els esdeveniments s'anaven succeint al llarg del matí, uns testimonis presencials quedaven estupefactes pel xoc, uns altres decidien ajudar els qui demanaven auxili i uns altres buscaven un lloc segur mentre el món, astorat, mirava d'entendre i assumir el que passava. Molts novaiorquesos van agafar les seves càmeres abans de fugir per gravar la Història en el mateix moment en què s'escrivia. A pesar del caos i el perill molts van continuar gravant enmig d'aquella catàstrofe durant els 102 minuts que van passar des que el primer avió es va estavellar contra la primera de les Torres Bessones fins que tots dos edificis es van esfondrar. La pel·lícula integra centenars de peces de gravacions i constitueix un testimoni històric perfecte i esgarrifós. És el documental definitiu sobre els atemptats de l'onze de setembre de 2011 a Manhattan.</desc>
+    <length units="minutes">01:58:15</length>
   </programme>
-  <programme start="20260911172703 +0000" channel="tv3" stop="20260911182240 +0000">
-    <title lang="ca">300</title>
-    <sub-title lang="ca">300 - La gent</sub-title>
-    <desc lang="ca">En els últims 300 anys, la població de Catalunya s'ha multiplicat per quinze i ha crescut més del doble que la mitjana europea. I, en bona part, aquest augment ha estat gràcies a les migracions, primer des d'Espanya, i més recentment, des de tot el món. Com ha afectat aquesta arribada de gent d'altres llengües i cultures? Avui, a '300', investiguem la gent d'aquest país.L'explosió demogràfica catalana va començar al segle XVIII. La fi de les grans epidèmies, un llarg període de pau i la millora de l'alimentació i la higiene va provocar un creixement natural de la població. En alguns llocs, la població es va triplicar, com a Salàs de Pallars. I això va fer que el poble volgués créixer i estendre's més enllà de la muralla medieval. I no sense problemes.Al segle XIX Catalunya es va industrialitzar i feia falta molta gent per treballar a les noves fàbriques. Per això van començar a venir gent de fora: primer valencians i aragonesos, després murcians. Expliquem el cas de Chiprana, una població de la franja aragonesa; a finals del segle XIX la gent d'aquest poble va emigrar en massa cap a Sant Martí de Provençals, a Barcelona, per treballar a les farineres del Poblenou.És molt curiós comparar el model de creixement català amb d'altres països europeus. A Finlàndia, per exemple, hi havia una estructura agrícola molt semblant al camp català. I també hi havia la institució de l'hereu. Però, en canvi, al revés que Catalunya, al segle XIX Finlàndia es va convertir en una terra exportadora de gent. Veurem per què.A Catalunya, durant la segona part de segle XX, la vinguda de nous immigrants va doblar la població. I això va provocar canvis profunds en la societat catalana. Com es van integrar, aquests nouvinguts? Ha funcionat, l'ascensor social? L'Antònia Martínez i la seva família, del barri de la Torrassa de l'Hospitalet, en són un exemple.</desc>
-    <length units="minutes">00:55:37</length>
+  <programme start="20260911235654 +0000" channel="tv3" stop="20260912011215 +0000">
+    <title lang="ca">El cas dels catalans</title>
+    <sub-title lang="ca">El cas dels catalans - El cas dels catalans</sub-title>
+    <length units="minutes">01:15:21</length>
+  </programme>
+  <programme start="20260911205643 +0000" channel="tv3" stop="20260911230138 +0000">
+    <title lang="ca">Rugbi 13 : Superleague</title>
+    <sub-title lang="ca">- Wigan Warriors-Dracs Catalans / Super League / J27</sub-title>
+    <desc lang="ca">El conjunt de Perpinyà tanca la seva participació a la fase regular amb una sortida molt difícil al camp del líder. Els Warriors, que es van imposar al Gilbert Brutus per 16 a 40, sumen 21 victòries contra les 10 dels Dracs. Amb la narració de Sebastià Girard.</desc>
+    <length units="minutes">02:04:55</length>
   </programme>
 </tv>
