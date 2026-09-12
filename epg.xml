@@ -1,81 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260911220101 +0000" channel="tvi" stop="20260912004830 +0000">
-    <title lang="ca">Teatre</title>
-    <sub-title lang="ca">Teatre - L'amor venia amb taxi</sub-title>
-    <length units="minutes">02:47:29</length>
-  </programme>
-  <programme start="20260912004830 +0000" channel="tvi" stop="20260912022121 +0000">
-    <title lang="ca">Concert</title>
-    <sub-title lang="ca">Concert - Mishima al Mercat de Música Viva de Vic 2025</sub-title>
-    <desc lang="ca">Mishima ha trepitjat l'escenari de la plaça Major de Vic fent un desplegament de gran part del seu repertori. El concert, que ha posat punt final al Mercat de Música Viva de Vic de 2025, també ha servit per retre homenatge al desaparegut Marc Lloret, integrant del grup i director del MMVV des del 2010.</desc>
-    <length units="minutes">01:32:51</length>
-  </programme>
-  <programme start="20260911210000 +0000" channel="324" stop="20260911230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7324</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260911230000 +0000" channel="324" stop="20260912000000 +0000">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20260912022004 +0000" channel="tvi" stop="20260912043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11146</sub-title>
+    <sub-title lang="ca">11148</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:09:56</length>
+  </programme>
+  <programme start="20260912043000 +0000" channel="tvi" stop="20260912051544 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Fusió i swing a l'estudi - VALENTÍ MOYA TRIO</sub-title>
+    <desc lang="ca">Valentí Moya Trio: un grup format el 2010 i que aplega músics de llarga trajectòria en l'escena del gipsy jazz a Catalunya. Moya, sempre respectuós amb el llenguatge del 'manouche', aporta la seva visió personal, amb la complicitat dels seus companys. Graci Pedro a la guitarra rítmica; Oriol González, al contrabaix, i Valentí Moya, a la guitarra solista.</desc>
+    <length units="minutes">00:45:44</length>
+  </programme>
+  <programme start="20260912010000 +0000" channel="324" stop="20260912060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11148</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260912060000 +0000" channel="324" stop="20260912070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11148</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260911220927 +0000" channel="esport3" stop="20260911230600 +0000">
+  <programme start="20260912024347 +0000" channel="esport3" stop="20260912043023 +0000">
     <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
-    <desc lang="ca">Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">00:56:33</length>
+    <sub-title lang="ca">Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
+    <desc lang="ca">Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="minutes">01:46:36</length>
   </programme>
-  <programme start="20260911230600 +0000" channel="esport3" stop="20260912002320 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
-    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="minutes">01:17:20</length>
-  </programme>
-  <programme start="20260911220413 +0000" channel="sx3" stop="20260911222526 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Una mansió envoltada de zombis (1a part)</sub-title>
-    <desc lang="ca">En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.</desc>
-    <length units="minutes">00:21:13</length>
-  </programme>
-  <programme start="20260911222526 +0000" channel="sx3" stop="20260911224502 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Una mansió envoltada de zombis (2a part)</sub-title>
-    <desc lang="ca">Els misteris se succeeixen a la mansió on un equip de rodatge d'un club de cinema de terror s'havia reunit per gravar la seqüela d'una pel·lícula. Després de comprovar que la mansió sí que està envoltada de zombis, apareix un segon cadàver que encara afegeix més enigmes a tota la situació. Algú està gravant els assassinats amb un mòbil per deixar pistes, però també pot ser que ho faci per afegir-hi més suspens!</desc>
-    <length units="minutes">00:19:36</length>
-  </programme>
-  <programme start="20260911215839 +0000" channel="tv3" stop="20260911235654 +0000">
-    <title lang="ca">102 minuts que van canviar Amèrica</title>
-    <sub-title lang="ca">102 minuts que van canviar Amèrica - 102 minuts que van canviar Amèrica</sub-title>
-    <desc lang="ca">Dimarts, onze de setembre de 2001. Nova York, 8.46 h. A mesura que els esdeveniments s'anaven succeint al llarg del matí, uns testimonis presencials quedaven estupefactes pel xoc, uns altres decidien ajudar els qui demanaven auxili i uns altres buscaven un lloc segur mentre el món, astorat, mirava d'entendre i assumir el que passava. Molts novaiorquesos van agafar les seves càmeres abans de fugir per gravar la Història en el mateix moment en què s'escrivia. A pesar del caos i el perill molts van continuar gravant enmig d'aquella catàstrofe durant els 102 minuts que van passar des que el primer avió es va estavellar contra la primera de les Torres Bessones fins que tots dos edificis es van esfondrar. La pel·lícula integra centenars de peces de gravacions i constitueix un testimoni històric perfecte i esgarrifós. És el documental definitiu sobre els atemptats de l'onze de setembre de 2011 a Manhattan.</desc>
-    <length units="minutes">01:58:15</length>
-  </programme>
-  <programme start="20260911235654 +0000" channel="tv3" stop="20260912011215 +0000">
-    <title lang="ca">El cas dels catalans</title>
-    <sub-title lang="ca">El cas dels catalans - El cas dels catalans</sub-title>
-    <length units="minutes">01:15:21</length>
-  </programme>
-  <programme start="20260911205643 +0000" channel="tv3" stop="20260911230138 +0000">
-    <title lang="ca">Rugbi 13 : Superleague</title>
-    <sub-title lang="ca">- Wigan Warriors-Dracs Catalans / Super League / J27</sub-title>
+  <programme start="20260912043023 +0000" channel="esport3" stop="20260912060657 +0000">
+    <title lang="ca">Rugbi</title>
+    <sub-title lang="ca">Rugbi - Wigan Warriors-Dracs Catalans / Super League / J27</sub-title>
     <desc lang="ca">El conjunt de Perpinyà tanca la seva participació a la fase regular amb una sortida molt difícil al camp del líder. Els Warriors, que es van imposar al Gilbert Brutus per 16 a 40, sumen 21 victòries contra les 10 dels Dracs. Amb la narració de Sebastià Girard.</desc>
-    <length units="minutes">02:04:55</length>
+    <length units="minutes">01:36:34</length>
+  </programme>
+  <programme start="20260912034827 +0000" channel="sx3" stop="20260912040926 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Antibug</sub-title>
+    <desc lang="ca">Després d'haver salvat la Sabrina, que s'havia convertit en la Invisible, Ladybug tracta la Chloé de mentidera, una crítica que la filla de l'alcalde encaixa molt malament. L'Esfinx aprofita el disgust i la ràbia de la Chloé per akumatizar-la i convertir-la en l'Antibug. Ladybug s'haurà d'enfrontar a una adversària que té els mateixos poders que ella. Se'n sortirà?</desc>
+    <length units="minutes">00:20:59</length>
+  </programme>
+  <programme start="20260912040926 +0000" channel="sx3" stop="20260912042121 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - El ball del bosc</sub-title>
+    <desc lang="ca">Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.</desc>
+    <length units="minutes">00:11:55</length>
+  </programme>
+  <programme start="20260912033833 +0000" channel="tv3" stop="20260912041756 +0000">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Cites Barcelona - Sara-Buba / Aitana-Hugo</sub-title>
+    <desc lang="ca">L'Aitana, estudiant de literatura comparada, accepta sortir amb l'Hugo, un professor de spinning amb un somriure radiant i uns abdominals esculpits que posaran a prova els seus prejudicis. Al mateix temps, la Sara finalment es troba amb el Buba després de mesos de converses a Tinder, però la cita es complica quan descobreix que ell està molt més prim que a les seves fotos de perfil.</desc>
+    <length units="minutes">00:39:23</length>
+  </programme>
+  <programme start="20260912041756 +0000" channel="tv3" stop="20260912050349 +0000">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Cites Barcelona - Alejandro-Joana / Marina-Joel</sub-title>
+    <desc lang="ca">Dues cites marcades per la música. La Marina, després de posar a la venda un piano a Wallapop, rep la visita del Joel. Un duet improvisat revelarà una connexió especial entre tots dos. D'altra banda, la Joana i l'Alejandro comparteixen una vetllada tensa que sembla destinada al fracàs, però tot canvia quan una melodia de tango els envolta i, sense dir ni una paraula, comencen a ballar.</desc>
+    <length units="minutes">00:45:53</length>
   </programme>
 </tv>
