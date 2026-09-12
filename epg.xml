@@ -1,10 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -12,67 +9,76 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260912112627 +0000" channel="tvi" stop="20260912120000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11150</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:33:33</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260912153143 +0000" channel="tvi" stop="20260912165757 +0000">
+    <title lang="ca">Habitacions tancades</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">HABITACIONS TANCADESProducció: Televisió de Catalunya, Diagonal Televisió i Televisión Española, 2015Director: Lluís M. GüellProducció executiva TVC : Susanna Jiménez i Elisa PlazaProducció executiva Diagonal Televisió: Albert SagalésProducció executiva TVE: Maite PisoneroAdaptació i guió: Pere RieraDirector de fotografia: Raimon LordaMúsica original: Francesc GenerIntèrprets: Adriana Ugarte (Teresa Brusés), Alex García (Amadeu Lax), Bea Segura (Violeta Lax), Rosa Boladeras (Maria del Roser Golorons), Diana Gómez (Conxita), Raúl Peña (Joan Lax), Francesc Orella (Rodolf Lax), Ramon Madaula (Modest Lax), Jan Cornet (Octavi Conde), Toni Sevilla (Soler), Marc Cartes (Ricard Selvas), Laia Costa (Montserrat Espelleta) i Pep Antón Muñoz (Mossèn Eudald)Amadeu Lax va ser un dels més afanats pintors espanyols de principis del segle XX. La seva obra segueix, avui dia, sent reconeguda universalment i el seu talent roman indiscutible, però la descoberta, vuitanta anys després de la seva mort, d'un cadàver sepultat en una petita habitació de la seva antiga residència, fa saltar totes les alarmes. Va ser l'Amadeu Lax un artista genial o un assassí brutal? La seva néta Violeta serà l'encarregada d'esclarir tots els secrets que amaga, no només el passat insigne del seu avi, sinó el de tota la família.D'aquesta manera, serem testimonis del procés que seguirà l'Amadeu des de la seva infància fins a convertir-se en un adult que enfrontarà de manera tortuosa totes les seves relacions. Especialment aquelles que mantindrà amb cada una de les dones que apareixeran a la seva vida: la seva mare, la seva dida, les seves amants i, finalment, aquella que marcarà per sempre el seu destí, Teresa Brusés, el seu gran amor.</desc>
+    <length units="minutes">01:26:14</length>
   </programme>
-  <programme start="20260912120000 +0000" channel="tvi" stop="20260912142909 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11151</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:29:09</length>
+  <programme start="20260912165757 +0000" channel="tvi" stop="20260912175202 +0000">
+    <title lang="ca">Infidels</title>
+    <sub-title lang="ca">7</sub-title>
+    <desc lang="ca">La Cruz i la Joana són al banc quan entra un atracador i les amenaça. La Lídia no té cap més remei que reconèixer a l'Albert que viu una història d'amor amb un altre, però li amaga amb qui la viu. Gràcies al Toni, la Lídia descobreix el despatx secret del Lluís. La Paula i el Marc es casaran d'aquí dos dies. El fill d'ell, l'Adrià, arribarà avui mateix. La Joana es preocupa per la Marina. L'advocat del Francesc li truca per avisar-la que avui firmaran els papers de la separació. El Robert espera la Cruz per brindar pel seu nomenament, però ella rebutja el cava. L'Arlet descobreix que la Dani ha dormit al vestuari de la piscina perquè té el pis inundat. La noia no té ningú a qui demanar ajuda, de manera que l'Arlet li ofereix casa seva.</desc>
+    <length units="minutes">00:54:05</length>
   </programme>
-  <programme start="20260912100000 +0000" channel="324" stop="20260912120000 +0000">
+  <programme start="20260912163000 +0000" channel="324" stop="20260912183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11150</sub-title>
+    <sub-title lang="ca">11152</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260912120000 +0000" channel="324" stop="20260912143000 +0000">
+  <programme start="20260912183000 +0000" channel="324" stop="20260912200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11151</sub-title>
+    <sub-title lang="ca">11153</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260912103618 +0000" channel="esport3" stop="20260912115500 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
-    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="minutes">01:18:42</length>
-  </programme>
-  <programme start="20260912115500 +0000" channel="esport3" stop="20260912124921 +0000">
+  <programme start="20260912162500 +0000" channel="esport3" stop="20260912172119 +0000">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Athletic Club-RCD Espanyol / Lliga F / J3</sub-title>
-    <desc lang="ca">Sortida complicada per a les blanc-i-blaves que, després de dues derrotes, necessiten sumar els primers punts al campionat. El conjunt basc ha guanyat els dos primers partits i es vol mantenir al capdavant de la classificació. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.</desc>
-    <length units="minutes">00:54:21</length>
+    <sub-title lang="ca">Futbol - CE Europa-Hèrcules CF / Primera Federació / J3</sub-title>
+    <desc lang="ca">Els graciencs, 1 derrota i 1 empat, volen la primera victòria de la temporada. Els alacantins, que encara no han puntuat, també hi arriben amb la necessitat de sumar. Amb la narració de Jordi Sunyer i l'anàlisi de Santi Triguero.</desc>
+    <length units="minutes">00:56:19</length>
   </programme>
-  <programme start="20260912112712 +0000" channel="sx3" stop="20260912114842 +0000">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">El carreró del misteri - L'aviari encantat</sub-title>
-    <desc lang="ca">Segons l'Alfred, el colom, l'antic aviari del palau de Buckingham està embruixat: una gàrgola pren vida i espanta els ocells que s'hi acosten. I segons l'Espavilada, l'Alfred podria ser un somiador, però les pistes que aporta ell no enganyen.</desc>
-    <length units="minutes">00:21:30</length>
+  <programme start="20260912172119 +0000" channel="esport3" stop="20260912172947 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club Cap de Setmana - Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">00:08:28</length>
   </programme>
-  <programme start="20260912114842 +0000" channel="sx3" stop="20260912121012 +0000">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">El carreró del misteri - L'esmunyedís Robin dels animals</sub-title>
-    <desc lang="ca">L'inspector McFlaire i el seu equip toleren el famós Robin dels animals, un ésser misteriós que roba el menjar que no consumeixen els humans per distribuir-lo, des d'un globus aerostàtic, als animals del carrer. Un dia, però, envia un missatge en què amenaça la reina, i el McFlaire diu prou.</desc>
-    <length units="minutes">00:21:30</length>
+  <programme start="20260912154953 +0000" channel="sx3" stop="20260912170129 +0000">
+    <title lang="ca">Tintín i el llac dels taurons</title>
+    <sub-title lang="ca">Tintín i el llac dels taurons - Tintín i el llac dels taurons</sub-title>
+    <desc lang="ca">TINTÍN I EL LLAC DELS TAURONS (Tintin et le lac aux requins)En Tintín i els seus amics van a passar unes vacances a casa el professor Tornassol, però allí topen amb el vell conegut Rastapopoulus, que vol robar una màquina per duplicar objectes que ha inventat en Tornassol. En Tintín i els seus amics, acompanyats per en Niko i la Nuxka, intentaran impedir-ho.Pel·lícula de dibuixos animatsIdioma versió original: francèsProducció: Raymond Leblanc, Belvision i Dargaud, 1972 (Bèlgica)Director: Raymond LeblancGuió: HergéDurada : 73 minuts</desc>
+    <length units="minutes">01:11:36</length>
   </programme>
-  <programme start="20260912105621 +0000" channel="tv3" stop="20260912114913 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Germans Green</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <length units="minutes">00:52:52</length>
+  <programme start="20260912170129 +0000" channel="sx3" stop="20260912171245 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">Ideafix i els irreductibles - Sense cau fix</sub-title>
+    <desc lang="ca">La legió canina ha trobat el cau dels Irreductibles! Enmig de les batusses entre gals i romans, els uns i els altres pateixen els efectes d'una poció del Voldenix que els teletransporta constantment d'aquí cap allà, sense saber mai on aniran a parar. Com s'ho faran l'Ideafix, el Devòrix i la Turbina per escapolir-se de l'Arcabús i els seus esbirros, i salvar el cau?</desc>
+    <length units="minutes">00:11:16</length>
   </programme>
-  <programme start="20260912114913 +0000" channel="tv3" stop="20260912124151 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Jota i Daniela</sub-title>
-    <desc lang="ca">La Daniela i el Jota, uns joves viatgers argentins, descobreixen el Lluçanès, la Cerdanya i l'Alt Urgell. Abans d'acabar el viatge, però, la Ivana Miño també els acompanya a conèixer els llocs més típics de Barcelona.</desc>
-    <length units="minutes">00:52:38</length>
+  <programme start="20260912155945 +0000" channel="tv3" stop="20260912165848 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Lisboa</sub-title>
+    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
+    <length units="minutes">00:59:03</length>
+  </programme>
+  <programme start="20260912165848 +0000" channel="tv3" stop="20260912174959 +0000">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">Els quaderns de cuina de la Julie - La ribera del Marne</sub-title>
+    <desc lang="ca">La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.</desc>
+    <length units="minutes">00:51:11</length>
+  </programme>
+  <programme start="20260912160018 +0000" channel="tv3" stop="20260912173013 +0000">
+    <title lang="ca">Piragüisme</title>
+    <sub-title lang="ca">- Copa del Món ICF / Finals canoa</sub-title>
+    <desc lang="ca">Finals, masculina i femenina, de Canoa C1 a la Copa del Món ICF de piragüisme que es fa al Parc Olímpic del Segre de La Seu d'Urgell. Amb la narració de Miquel Ribas.</desc>
+    <length units="minutes">01:29:55</length>
   </programme>
 </tv>
