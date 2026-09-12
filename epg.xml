@@ -1,7 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -9,70 +15,64 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20260912022004 +0000" channel="tvi" stop="20260912043000 +0000">
+  <programme start="20260912112627 +0000" channel="tvi" stop="20260912120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11148</sub-title>
+    <sub-title lang="ca">11150</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:09:56</length>
+    <length units="minutes">00:33:33</length>
   </programme>
-  <programme start="20260912043000 +0000" channel="tvi" stop="20260912051544 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - VALENTÍ MOYA TRIO</sub-title>
-    <desc lang="ca">Valentí Moya Trio: un grup format el 2010 i que aplega músics de llarga trajectòria en l'escena del gipsy jazz a Catalunya. Moya, sempre respectuós amb el llenguatge del 'manouche', aporta la seva visió personal, amb la complicitat dels seus companys. Graci Pedro a la guitarra rítmica; Oriol González, al contrabaix, i Valentí Moya, a la guitarra solista.</desc>
-    <length units="minutes">00:45:44</length>
-  </programme>
-  <programme start="20260912010000 +0000" channel="324" stop="20260912060000 +0000">
+  <programme start="20260912120000 +0000" channel="tvi" stop="20260912142909 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11148</sub-title>
+    <sub-title lang="ca">11151</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:29:09</length>
   </programme>
-  <programme start="20260912060000 +0000" channel="324" stop="20260912070000 +0000">
+  <programme start="20260912100000 +0000" channel="324" stop="20260912120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11148</sub-title>
+    <sub-title lang="ca">11150</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260912024347 +0000" channel="esport3" stop="20260912043023 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
-    <desc lang="ca">Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">01:46:36</length>
+  <programme start="20260912120000 +0000" channel="324" stop="20260912143000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11151</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260912043023 +0000" channel="esport3" stop="20260912060657 +0000">
-    <title lang="ca">Rugbi</title>
-    <sub-title lang="ca">Rugbi - Wigan Warriors-Dracs Catalans / Super League / J27</sub-title>
-    <desc lang="ca">El conjunt de Perpinyà tanca la seva participació a la fase regular amb una sortida molt difícil al camp del líder. Els Warriors, que es van imposar al Gilbert Brutus per 16 a 40, sumen 21 victòries contra les 10 dels Dracs. Amb la narració de Sebastià Girard.</desc>
-    <length units="minutes">01:36:34</length>
+  <programme start="20260912103618 +0000" channel="esport3" stop="20260912115500 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
+    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="minutes">01:18:42</length>
   </programme>
-  <programme start="20260912034827 +0000" channel="sx3" stop="20260912040926 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Antibug</sub-title>
-    <desc lang="ca">Després d'haver salvat la Sabrina, que s'havia convertit en la Invisible, Ladybug tracta la Chloé de mentidera, una crítica que la filla de l'alcalde encaixa molt malament. L'Esfinx aprofita el disgust i la ràbia de la Chloé per akumatizar-la i convertir-la en l'Antibug. Ladybug s'haurà d'enfrontar a una adversària que té els mateixos poders que ella. Se'n sortirà?</desc>
-    <length units="minutes">00:20:59</length>
+  <programme start="20260912115500 +0000" channel="esport3" stop="20260912124921 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - Athletic Club-RCD Espanyol / Lliga F / J3</sub-title>
+    <desc lang="ca">Sortida complicada per a les blanc-i-blaves que, després de dues derrotes, necessiten sumar els primers punts al campionat. El conjunt basc ha guanyat els dos primers partits i es vol mantenir al capdavant de la classificació. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.</desc>
+    <length units="minutes">00:54:21</length>
   </programme>
-  <programme start="20260912040926 +0000" channel="sx3" stop="20260912042121 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - El ball del bosc</sub-title>
-    <desc lang="ca">Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20260912112712 +0000" channel="sx3" stop="20260912114842 +0000">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">El carreró del misteri - L'aviari encantat</sub-title>
+    <desc lang="ca">Segons l'Alfred, el colom, l'antic aviari del palau de Buckingham està embruixat: una gàrgola pren vida i espanta els ocells que s'hi acosten. I segons l'Espavilada, l'Alfred podria ser un somiador, però les pistes que aporta ell no enganyen.</desc>
+    <length units="minutes">00:21:30</length>
   </programme>
-  <programme start="20260912033833 +0000" channel="tv3" stop="20260912041756 +0000">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Cites Barcelona - Sara-Buba / Aitana-Hugo</sub-title>
-    <desc lang="ca">L'Aitana, estudiant de literatura comparada, accepta sortir amb l'Hugo, un professor de spinning amb un somriure radiant i uns abdominals esculpits que posaran a prova els seus prejudicis. Al mateix temps, la Sara finalment es troba amb el Buba després de mesos de converses a Tinder, però la cita es complica quan descobreix que ell està molt més prim que a les seves fotos de perfil.</desc>
-    <length units="minutes">00:39:23</length>
+  <programme start="20260912114842 +0000" channel="sx3" stop="20260912121012 +0000">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">El carreró del misteri - L'esmunyedís Robin dels animals</sub-title>
+    <desc lang="ca">L'inspector McFlaire i el seu equip toleren el famós Robin dels animals, un ésser misteriós que roba el menjar que no consumeixen els humans per distribuir-lo, des d'un globus aerostàtic, als animals del carrer. Un dia, però, envia un missatge en què amenaça la reina, i el McFlaire diu prou.</desc>
+    <length units="minutes">00:21:30</length>
   </programme>
-  <programme start="20260912041756 +0000" channel="tv3" stop="20260912050349 +0000">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Cites Barcelona - Alejandro-Joana / Marina-Joel</sub-title>
-    <desc lang="ca">Dues cites marcades per la música. La Marina, després de posar a la venda un piano a Wallapop, rep la visita del Joel. Un duet improvisat revelarà una connexió especial entre tots dos. D'altra banda, la Joana i l'Alejandro comparteixen una vetllada tensa que sembla destinada al fracàs, però tot canvia quan una melodia de tango els envolta i, sense dir ni una paraula, comencen a ballar.</desc>
-    <length units="minutes">00:45:53</length>
+  <programme start="20260912105621 +0000" channel="tv3" stop="20260912114913 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Germans Green</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
+    <length units="minutes">00:52:52</length>
+  </programme>
+  <programme start="20260912114913 +0000" channel="tv3" stop="20260912124151 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Jota i Daniela</sub-title>
+    <desc lang="ca">La Daniela i el Jota, uns joves viatgers argentins, descobreixen el Lluçanès, la Cerdanya i l'Alt Urgell. Abans d'acabar el viatge, però, la Ivana Miño també els acompanya a conèixer els llocs més típics de Barcelona.</desc>
+    <length units="minutes">00:52:38</length>
   </programme>
 </tv>
