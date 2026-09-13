@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -9,70 +9,69 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260913025758 +0000" channel="tvi" stop="20260913051609 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - LE BBT 48er PROJECT</sub-title>
-    <desc lang="ca">Le BBT 48er Project és un grup que es caracteritza per les carreres consolidades en solitari dels seus membres. Tots ells són grans coneixedors del jazz manoche, un estil creat o iniciat per Django Reinhart. Biel Ballester a la guitarra solista, Leo Hipaucha al contrabaix, Graci Pedro a la guitarra rítmica, Jerome Etxeberry a la trompeta, i Paul Chéron, al saxo.</desc>
-    <length units="minutes">02:18:11</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260913114457 +0000" channel="tvi" stop="20260913131639 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Lliga Catalana / Final</sub-title>
+    <desc lang="ca">Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="minutes">01:31:42</length>
   </programme>
-  <programme start="20260913051609 +0000" channel="tvi" stop="20260913060001 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Cava de Blues - Big Dani Pérez Organic Trio</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:43:52</length>
+  <programme start="20260913131639 +0000" channel="tvi" stop="20260913143000 +0000">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">1079</sub-title>
+    <desc lang="ca">El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
+    <length units="minutes">01:13:21</length>
   </programme>
-  <programme start="20260913010000 +0000" channel="324" stop="20260913060000 +0000">
+  <programme start="20260913120000 +0000" channel="324" stop="20260913143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11156</sub-title>
+    <sub-title lang="ca">11159</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260913060000 +0000" channel="324" stop="20260913070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11156</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260913143000 +0000" channel="324" stop="20260913154000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7327</sub-title>
+    <length units="minutes">01:10:00</length>
   </programme>
-  <programme start="20260913025700 +0000" channel="esport3" stop="20260913041032 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
-    <desc lang="ca">Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
-    <length units="minutes">01:13:32</length>
-  </programme>
-  <programme start="20260913041032 +0000" channel="esport3" stop="20260913061123 +0000">
+  <programme start="20260913115507 +0000" channel="esport3" stop="20260913140019 +0000">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - CE Europa-Hèrcules CF / Primera Federació / J3</sub-title>
-    <desc lang="ca">Els graciencs, 1 derrota i 1 empat, volen la primera victòria de la temporada. Els alacantins, que encara no han puntuat, també hi arriben amb la necessitat de sumar. Amb la narració de Jordi Sunyer i l'anàlisi de Santi Triguero.</desc>
-    <length units="minutes">02:00:51</length>
+    <sub-title lang="ca">Futbol - UD Logronyès B-Barça Atlètic / Segona Federació / J2</sub-title>
+    <desc lang="ca">El filial blaugrana va debutar amb una golejada, 5-1 contra el Náxara, i es vol mantenir al capdavant de la classificació. Amb la narració de Lluís Cervelló i l'anàlisi d'Alberto Manga.</desc>
+    <length units="minutes">02:05:12</length>
   </programme>
-  <programme start="20260913034156 +0000" channel="sx3" stop="20260913035156 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Pop, la ciutat de paper - Ei, què hi ha, Hooper?</sub-title>
-    <desc lang="ca">A l'aventura d'avui, el Hooper explica un conte de cowboys als amics! Ells, llavors, volen que el Hooper sigui el xèrif de Pop, la ciutat de paper, i fan una manualitat d'un cavall i l'hi regalen. El Hooper es posa molt content, però quan comença a fer de xèrif, espatlla el cavall sense voler i, llavors, li fa por explicar el que ha passat. Mentre la resta de la colla li prepara un gran ball a l'estil cowboy, el Hooper haurà de pensar si explica la veritat.</desc>
-    <length units="minutes">00:10:00</length>
+  <programme start="20260913140019 +0000" channel="esport3" stop="20260913143700 +0000">
+    <title lang="ca">Crackòvia</title>
+    <sub-title lang="ca">242</sub-title>
+    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
+    <length units="minutes">00:36:41</length>
   </programme>
-  <programme start="20260913035156 +0000" channel="sx3" stop="20260913040201 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Pop, la ciutat de paper - Pop juràssic</sub-title>
-    <desc lang="ca">A l'aventura d'avui, s'inaugura el Museu Pop Ciutat de Paper. El Zip i els seus amics busquen un fòssil per exposar-lo al museu, però com que no en troben cap, decideixen fer un dinosaure de paper. Al Zip li fa una mica de por el dinosaure, però quan veu que els plans de la colla no acaben de sortir, haurà de mirar de solucionar-ho. Serà capaç d'afrontar la por i salvar la inauguració del museu?</desc>
-    <length units="minutes">00:10:05</length>
+  <programme start="20260913102202 +0000" channel="sx3" stop="20260913130409 +0000">
+    <title lang="ca">Projecte Beta</title>
+    <sub-title lang="ca">Projecte Beta - 10a temporada sencera 'Projecte Beta'</sub-title>
+    <desc lang="ca">Un asteroide trastoca la vida dels Beta. El Grau s'obsessiona a trobar vida alienígena mentre la Kai es prepara per ser astronauta. Al Jan li caurà l'amor del cel, i la Lola, que sembla que s'hagi donat un cop al cap, prova una personalitat diferent cada dia.</desc>
+    <length units="minutes">02:42:07</length>
   </programme>
-  <programme start="20260913031855 +0000" channel="tv3" stop="20260913045132 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinats a Pont L'Évêque</sub-title>
-    <desc lang="ca">ASSASSINATS A PONT L'EVÊQUE 'Meurtres à Pont-L'Évêque'Direcció: Thierry BinistiGuió: Camille Guichard, David CrozierProducció: Nilaya Productions, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), TV5 MondeAny: 2020Durada: 93País: França Música: Thierry WestermeyerFotografia: Jako RaybautIntèrprets: Arnaud Binard, Elodie Frenck, Antoine Hamel, Loona Piquery, Geneviève Casile, François Dunoyer, Hélène Babu, Christophe Perez, Philippe Bombled, Pierre Richards, Philippe Jouan. Als anys cinquanta, la presó de Pont-l'Évêque es coneixia amb el nom d'Alegre Presó. En aquella època, s'havia convertit en una mena de presó popular dirigida per un cap de seguretat que preferia que els seus reclusos l'apreciessin en lloc de tenir-li por. Per commemorar aquesta història, s'organitza una festa a l'antiga presó de Pont-l'Évêque. Però en plena festa troben un home amb l'antic uniforme de reclús penjat a la cripta de la presó. La víctima és el jutge Daniel, hereu d'una gran família... Dos germans, que no amaguen les seves diferències, s'ocupen de la investigació.</desc>
-    <length units="minutes">01:32:37</length>
+  <programme start="20260913130409 +0000" channel="sx3" stop="20260913132555 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - L'odissea dels mussols</sub-title>
+    <desc lang="ca">Els germans Kratt, l'Aviva i la Koki tenen un accident amb la càpsula i van a parar a un lloc remot, des d'allà hauran de viure tota una odissea per tornar a casa. Pel camí descobreixen un munt d'espècies de la família dels mussols, amb unes quantes característiques comunes però cada espècie amb les seves singularitats. Això inspira l'Aviva per fer un vestit de poder animal per tornar a casa.</desc>
+    <length units="minutes">00:21:46</length>
   </programme>
-  <programme start="20260913045132 +0000" channel="tv3" stop="20260913051747 +0000">
-    <title lang="ca">La pell dels murs</title>
-    <sub-title lang="ca">La pell dels murs - Rock Blackblock-Xavier Artigas</sub-title>
-    <desc lang="ca">Aquest episodi de La Pell dels Murs està centrat en un mural que l'artista Roc Blackblock va fer a l'Ateneu Popular de Nou Barris. El documental ha estat dirigit per Xavier Artigas.L'episodi arrenca amb una reunió entre el muralista i un grup de veïns de Nou Barris que intercanvien experiències i opinions sobre la importància de mantenir viva la memòria històrica del barri i dels seus pobladors. Després d'escoltar els seus comentaris, Roc Blackblock duu a terme un treball de recerca i documentació a l'Arxiu Històric de Roquetes per seleccionar tres imatges, de les quals, finalment, la gent va triar-ne la guanyadora: una fotografia de Kim Manresa realitzada a les antigues barraques de Santa Engràcia (actual Plaça Àngel Pestaña, de Barcelona). En aquesta imatge, s'hi pot veure un grup de veïnes i criatures davant les seves barraques poc després que un promotor fes una estafa immobiliària que va deixar diverses famílies sense els diners ni el pis que els havia promès.El documental segueix la feina de Blackblock amb una atenció especial al paper del mural com a mitjà per mantenir viu el record d'experiències socials traumàtiques i per transmetre missatges reivindicatius de caràcter polític. El mural es pot veure a la façana de la torre escènica, l'edifici més alt de l'Ateneu Popular de Nou Barris, i ha comptat amb la col·laboració del propi Ateneu i de Montana Colors.La sèrie documental sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
-    <length units="minutes">00:26:15</length>
+  <programme start="20260913121341 +0000" channel="tv3" stop="20260913130640 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Gareth</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.</desc>
+    <length units="minutes">00:52:59</length>
+  </programme>
+  <programme start="20260913130640 +0000" channel="tv3" stop="20260913135246 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - Millors moments - setmana 13</sub-title>
+    <desc lang="ca">Aquí hi trobaràs un resum dels quatre últims capítols: parlem del mirall, el pintallavis, la perxa d'atletisme i la caravana. També han vingut la Regina Rodríguez Sirvent, autora de 'Les calces al sol'; Impro Side Story, companyia de teatre musical improvisat; en Max Codinach, del grup Gavina.mp3, i en Lluís Bassaganya, responsable de l'exposició 'La retirada', de Camprodon. Després podeu veure els capítols sencers, on trobareu molts més moments igual d'interessants.</desc>
+    <length units="minutes">00:46:06</length>
   </programme>
 </tv>
