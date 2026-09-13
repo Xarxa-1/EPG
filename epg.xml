@@ -1,75 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260912210000 +0000" channel="tvi" stop="20260912220352 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7325</sub-title>
-    <length units="minutes">01:03:52</length>
+  <programme start="20260913025758 +0000" channel="tvi" stop="20260913051609 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Fusió i swing a l'estudi - LE BBT 48er PROJECT</sub-title>
+    <desc lang="ca">Le BBT 48er Project és un grup que es caracteritza per les carreres consolidades en solitari dels seus membres. Tots ells són grans coneixedors del jazz manoche, un estil creat o iniciat per Django Reinhart. Biel Ballester a la guitarra solista, Leo Hipaucha al contrabaix, Graci Pedro a la guitarra rítmica, Jerome Etxeberry a la trompeta, i Paul Chéron, al saxo.</desc>
+    <length units="minutes">02:18:11</length>
   </programme>
-  <programme start="20260912220154 +0000" channel="tvi" stop="20260912222809 +0000">
-    <title lang="ca">Emocionari Il·lustrat</title>
-    <sub-title lang="ca">Emocionari Il·lustrat - L'amor</sub-title>
-    <desc lang="ca">Al capítol sobre l'amor de l''Emocionari Il·lustrat', l'artista Lily Brick tindrà una conversa reveladora amb la il·lustradora Flavita Banana, la persona que millor ha retratat l'amor a les seves vinyetes i tires còmiques. Viatjarem fins a Roquetes, on l'artista Ignasi Blanch ens dibuixarà l'amor cap a la seva terra i la família. Per acabar, la Lily aprendrà a dibuixar manga amb la Míriam Bonastre, autora de la trilogia de còmics 'Hooky', que han estat un èxit aclaparador als Estats Units entre joves i nens. Juntes faran un retrat de la Lily amb uns ulls ben brillants .</desc>
-    <length units="minutes">00:26:15</length>
+  <programme start="20260913051609 +0000" channel="tvi" stop="20260913060001 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Cava de Blues - Big Dani Pérez Organic Trio</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:43:52</length>
   </programme>
-  <programme start="20260912210000 +0000" channel="324" stop="20260912220200 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7325</sub-title>
-    <length units="minutes">01:02:00</length>
+  <programme start="20260913010000 +0000" channel="324" stop="20260913060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11156</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260912220200 +0000" channel="324" stop="20260912230000 +0000">
-    <title lang="ca">Telenotícies vespre (reemissió)</title>
-    <sub-title lang="ca">7325</sub-title>
-    <length units="minutes">00:58:00</length>
+  <programme start="20260913060000 +0000" channel="324" stop="20260913070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11156</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260912211137 +0000" channel="esport3" stop="20260912223443 +0000">
+  <programme start="20260913025700 +0000" channel="esport3" stop="20260913041032 +0000">
     <title lang="ca">Futbol sala</title>
     <sub-title lang="ca">Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
     <desc lang="ca">Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
-    <length units="minutes">01:23:06</length>
+    <length units="minutes">01:13:32</length>
   </programme>
-  <programme start="20260912223443 +0000" channel="esport3" stop="20260912225500 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:20:17</length>
+  <programme start="20260913041032 +0000" channel="esport3" stop="20260913061123 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - CE Europa-Hèrcules CF / Primera Federació / J3</sub-title>
+    <desc lang="ca">Els graciencs, 1 derrota i 1 empat, volen la primera victòria de la temporada. Els alacantins, que encara no han puntuat, també hi arriben amb la necessitat de sumar. Amb la narració de Jordi Sunyer i l'anàlisi de Santi Triguero.</desc>
+    <length units="minutes">02:00:51</length>
   </programme>
-  <programme start="20260912214113 +0000" channel="sx3" stop="20260912220151 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - El fraret rescatador</sub-title>
-    <desc lang="ca">Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?</desc>
-    <length units="minutes">00:20:38</length>
+  <programme start="20260913034156 +0000" channel="sx3" stop="20260913035156 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Pop, la ciutat de paper - Ei, què hi ha, Hooper?</sub-title>
+    <desc lang="ca">A l'aventura d'avui, el Hooper explica un conte de cowboys als amics! Ells, llavors, volen que el Hooper sigui el xèrif de Pop, la ciutat de paper, i fan una manualitat d'un cavall i l'hi regalen. El Hooper es posa molt content, però quan comença a fer de xèrif, espatlla el cavall sense voler i, llavors, li fa por explicar el que ha passat. Mentre la resta de la colla li prepara un gran ball a l'estil cowboy, el Hooper haurà de pensar si explica la veritat.</desc>
+    <length units="minutes">00:10:00</length>
   </programme>
-  <programme start="20260912220151 +0000" channel="sx3" stop="20260912221246 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Les filles del Dad - Veïns okupes</sub-title>
-    <desc lang="ca">Els veïns Lapraline fan obres a casa i demanen al Dad si es poden instal·lar al pis mentre les acaben. Per poder-los fer lloc, la Panda i l'Ondine hauran de compartir habitació, cosa que no els fa cap gràcia. Per mirar de guanyar-se-les, el Jérôme li ofereix a la Panda de fer pràctiques laborals treballant per ell i la Ludivine ensabona l'Ondine perquè l'ajudi a restaurar un moble.</desc>
-    <length units="minutes">00:10:55</length>
+  <programme start="20260913035156 +0000" channel="sx3" stop="20260913040201 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Pop, la ciutat de paper - Pop juràssic</sub-title>
+    <desc lang="ca">A l'aventura d'avui, s'inaugura el Museu Pop Ciutat de Paper. El Zip i els seus amics busquen un fòssil per exposar-lo al museu, però com que no en troben cap, decideixen fer un dinosaure de paper. Al Zip li fa una mica de por el dinosaure, però quan veu que els plans de la colla no acaben de sortir, haurà de mirar de solucionar-ho. Serà capaç d'afrontar la por i salvar la inauguració del museu?</desc>
+    <length units="minutes">00:10:05</length>
   </programme>
-  <programme start="20260912211118 +0000" channel="tv3" stop="20260912220630 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Trevor i Cori</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.</desc>
-    <length units="minutes">00:55:12</length>
+  <programme start="20260913031855 +0000" channel="tv3" stop="20260913045132 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Assassinats a Pont L'Évêque</sub-title>
+    <desc lang="ca">ASSASSINATS A PONT L'EVÊQUE 'Meurtres à Pont-L'Évêque'Direcció: Thierry BinistiGuió: Camille Guichard, David CrozierProducció: Nilaya Productions, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), TV5 MondeAny: 2020Durada: 93País: França Música: Thierry WestermeyerFotografia: Jako RaybautIntèrprets: Arnaud Binard, Elodie Frenck, Antoine Hamel, Loona Piquery, Geneviève Casile, François Dunoyer, Hélène Babu, Christophe Perez, Philippe Bombled, Pierre Richards, Philippe Jouan. Als anys cinquanta, la presó de Pont-l'Évêque es coneixia amb el nom d'Alegre Presó. En aquella època, s'havia convertit en una mena de presó popular dirigida per un cap de seguretat que preferia que els seus reclusos l'apreciessin en lloc de tenir-li por. Per commemorar aquesta història, s'organitza una festa a l'antiga presó de Pont-l'Évêque. Però en plena festa troben un home amb l'antic uniforme de reclús penjat a la cripta de la presó. La víctima és el jutge Daniel, hereu d'una gran família... Dos germans, que no amaguen les seves diferències, s'ocupen de la investigació.</desc>
+    <length units="minutes">01:32:37</length>
   </programme>
-  <programme start="20260912220630 +0000" channel="tv3" stop="20260912230453 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Copenhaguen</sub-title>
-    <desc lang="ca">A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.</desc>
-    <length units="minutes">00:58:23</length>
+  <programme start="20260913045132 +0000" channel="tv3" stop="20260913051747 +0000">
+    <title lang="ca">La pell dels murs</title>
+    <sub-title lang="ca">La pell dels murs - Rock Blackblock-Xavier Artigas</sub-title>
+    <desc lang="ca">Aquest episodi de La Pell dels Murs està centrat en un mural que l'artista Roc Blackblock va fer a l'Ateneu Popular de Nou Barris. El documental ha estat dirigit per Xavier Artigas.L'episodi arrenca amb una reunió entre el muralista i un grup de veïns de Nou Barris que intercanvien experiències i opinions sobre la importància de mantenir viva la memòria històrica del barri i dels seus pobladors. Després d'escoltar els seus comentaris, Roc Blackblock duu a terme un treball de recerca i documentació a l'Arxiu Històric de Roquetes per seleccionar tres imatges, de les quals, finalment, la gent va triar-ne la guanyadora: una fotografia de Kim Manresa realitzada a les antigues barraques de Santa Engràcia (actual Plaça Àngel Pestaña, de Barcelona). En aquesta imatge, s'hi pot veure un grup de veïnes i criatures davant les seves barraques poc després que un promotor fes una estafa immobiliària que va deixar diverses famílies sense els diners ni el pis que els havia promès.El documental segueix la feina de Blackblock amb una atenció especial al paper del mural com a mitjà per mantenir viu el record d'experiències socials traumàtiques i per transmetre missatges reivindicatius de caràcter polític. El mural es pot veure a la façana de la torre escènica, l'edifici més alt de l'Ateneu Popular de Nou Barris, i ha comptat amb la col·laboració del propi Ateneu i de Montana Colors.La sèrie documental sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
+    <length units="minutes">00:26:15</length>
   </programme>
 </tv>
