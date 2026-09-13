@@ -1,8 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
@@ -15,64 +12,64 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260913153450 +0000" channel="tvi" stop="20260913171407 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Tarda de cine - Assassinats a Montalban</sub-title>
-    <desc lang="ca">ASSASSINATS A MONTALBAN 'Meurtres à Montauban'Direcció: Muriel AubinGuió: François Grillères, Aymeric NoguéProducció: BE-FILMSAny: 2024Durada: 90País: FrançaMúsica: David SalkinFotografia: Sébastien BuchmannIntèrprets: Hubert Delattre, Déborah Krey, Lionnel Astier, Riton Liebman, Juliette Petiot, Zelda Rittner, Jérémy Barrière, Jean-Piere Bauredon, Armelle Abibou, Erick Deshors, Pierre-Olivier Bellec, Fabien Rasplus, Harrison Arevalo, Karine Monneau, Régis Lux, Corinne Mariotto Patrick Delmas, exjugador de rugbi professional, és assassinat a la festa dels 400 cops de Montalban i un vel de misteri plana sobre la capital. El comandant Martin Delacroix, acabat d'arribar de la policia judicial de París, s'encarrega del cas, juntament amb la jove tinenta Cyrielle Laborie. La jove, que acaba de perdre la seva mare, no veu amb bons ulls l'arribada d'aquest policia, massa segur de si mateix. El que no sap és que el Martin ha vingut a Montalban buscant la seva família biològica. Per afrontar amb serenitat la seva propera paternitat, necessita conèixer el motiu pel qual la seva mare el va abandonar.</desc>
-    <length units="minutes">01:39:17</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260913210000 +0000" channel="tvi" stop="20260913220551 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7326</sub-title>
+    <length units="minutes">01:05:51</length>
   </programme>
-  <programme start="20260913171407 +0000" channel="tvi" stop="20260913185739 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Tarda de cine - Assassinat a Dinard</sub-title>
-    <desc lang="ca">ASSASSINAT A DINARD 'Lame de fond'Direcció: Bruno GarciaGuió: Fabienne Lesieur, Victor PavyProducció: France Télévisions, BE FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Film &amp; Picture, France 2 (FR 2)Any: 2023Durada: 93País: FrançaMúsica: Fabien CahenFotografia: Marc FalchierIntèrprets: Pauline Bression, Éléonore Bernheim, Antoine Hamel, Stéphane Freiss, Franz Rudolf Lang, Florence Muller, William Nadylam, Guillaume Dolmans, Anne Hélène Orvelin, Arnaud Stéphan, Lola BurbailLa localitat costanera de Dinard es prepara per a un festival de cinema britànic quan es descobreix el cos sense vida d'un jove director anglès flotant a la platja. Però l'home no s'ha ofegat, sinó que l'han assassinat. Vint anys abans havia estat víctima d'un naufragi amb un veler en què la seva germana va resultar morta. Tenen cap relació les dues morts?</desc>
-    <length units="minutes">01:43:32</length>
+  <programme start="20260913220551 +0000" channel="tvi" stop="20260913224312 +0000">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">30 minuts - Ceuta, ciutat ostatge</sub-title>
+    <desc lang="ca">Ceuta s'ha convertit en ostatge d'una guerra híbrida, on els migrants són utilitzats com a peons d'un tauler global. La crisi humanitària, social i política continua sacsejant la ciutat autònoma.</desc>
+    <length units="minutes">00:37:21</length>
   </programme>
-  <programme start="20260913163000 +0000" channel="324" stop="20260913183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11160</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260913210000 +0000" channel="324" stop="20260913220200 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7326</sub-title>
+    <length units="minutes">01:02:00</length>
   </programme>
-  <programme start="20260913183000 +0000" channel="324" stop="20260913200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11161</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260913220200 +0000" channel="324" stop="20260913230000 +0000">
+    <title lang="ca">Telenotícies vespre (reemissió)</title>
+    <sub-title lang="ca">7326</sub-title>
+    <length units="minutes">00:58:00</length>
   </programme>
-  <programme start="20260913161115 +0000" channel="esport3" stop="20260913180933 +0000">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Un dia de partit - Llevant-Barça</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="minutes">01:58:18</length>
+  <programme start="20260913215356 +0000" channel="esport3" stop="20260913224900 +0000">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">Motor a fons - GP de San Marino</sub-title>
+    <desc lang="ca">Catorzena prova del Campionat del Món de Motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="minutes">00:55:04</length>
   </programme>
-  <programme start="20260913180933 +0000" channel="esport3" stop="20260913192500 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Gol a gol - Post Llevant-Barça / J5</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:15:27</length>
+  <programme start="20260913224900 +0000" channel="esport3" stop="20260913230000 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Post Llevant-Barça / J5</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:11:00</length>
   </programme>
-  <programme start="20260913170945 +0000" channel="sx3" stop="20260913172110 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">Ideafix i els irreductibles - Cap goig sense en Camulogen</sub-title>
-    <desc lang="ca">Diuen que Camulogen ha tornat a Lutècia! Els Irreductibles volen saber-ho del cert i descobreixen un fals Camulogen en un espectacle on el general Labiè i el legionari Mutus ridiculitzen la imatge del capitost dels gals. Però l'escàndol és majúscul per a la Polvorina, que està disposada a venjar la memòria del seu amo.</desc>
-    <length units="minutes">00:11:25</length>
+  <programme start="20260913214104 +0000" channel="sx3" stop="20260913220143 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - L'home-rinopitec daurat</sub-title>
+    <desc lang="ca">Els germans Kratt van a les muntanyes de l'Himàlaia per mirar de trobar uns micos molt especials que viuen en un hàbitat hivernal molt dur: els bonics rinopitecs daurats, de pèl taronjós i daurat i cara d'un blau brillant. Mentrestant, al Zach se li acut la idea de capturar el Ieti i dur-lo a la civilització per mostrar-lo al públic a canvi de molts diners i així fer-se ric. Els camins de tots dos s'acaben trobant d'una manera ben curiosa.</desc>
+    <length units="minutes">00:20:39</length>
   </programme>
-  <programme start="20260913172110 +0000" channel="sx3" stop="20260913173204 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">Ideafix i els irreductibles - La quissamixa</sub-title>
-    <desc lang="ca">El general Labiè ordena al fidel Semblangròpius que elimini tots els coloms de Lutècia perquè li fan la vida impossible, a ell i a la seva gata Monalisa. En Semblangròpius farà encolar tot el Gran Colomar amb brea de bedoll perquè tots els coloms s'hi quedin enganxats, però resulta que aquesta substància no hi deixa enganxats tan sols els coloms...</desc>
-    <length units="minutes">00:10:54</length>
+  <programme start="20260913220143 +0000" channel="sx3" stop="20260913221238 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Les filles del Dad - La balada de la Bébérénice</sub-title>
+    <desc lang="ca">Avui, la Bébérénice està molt capritxosa! L'única persona que aconsegueix calmar-la amb tacte i delicadesa és el Dad, però li truquen urgentment del súper per fer un anunci de salsitxes. Com que és final de mes, accepta la feina i busca una cangur per la Bébérénice. Les seves altres tres filles li diuen que no, així que ha de recórrer als seus pares, però només s'hi presenta el Michel. El pobre avi viurà un dia difícil amb la seva neta petita, mentre la Roxane, l'Ondine i la Panda, que creuen que ha desaparegut, la busquen per la ciutat...</desc>
+    <length units="minutes">00:10:55</length>
   </programme>
-  <programme start="20260913170306 +0000" channel="tv3" stop="20260913175308 +0000">
+  <programme start="20260913210758 +0000" channel="tv3" stop="20260913220032 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Allan</sub-title>
+    <desc lang="ca">Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
+    <length units="minutes">00:52:34</length>
+  </programme>
+  <programme start="20260913220032 +0000" channel="tv3" stop="20260913224605 +0000">
     <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Japó II</sub-title>
-    <desc lang="ca">La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
-    <length units="minutes">00:50:02</length>
-  </programme>
-  <programme start="20260913175308 +0000" channel="tv3" stop="20260913183453 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Últims dies al Japó</sub-title>
-    <desc lang="ca">Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
-    <length units="minutes">00:41:45</length>
+    <sub-title lang="ca">Viatges insòlits - Londres</sub-title>
+    <desc lang="ca">Amb una població d'entre 12 i 14 milions d'habitants, l'àrea metropolitana de Londres no és només la ciutat més gran d'Europa occidental, sinó que també és un pol d'atracció per a gent d'arreu del món. I això fa que Londres sigui una de les ciutats més cosmopolites del món. L'àrea de joc ideal per a en Tom, que explora les diferents facetes, nacionals i internacionals, d'aquesta ciutat. En Tom acaba fent un curs d''English Manners' (Etiqueta britànica) i visitant la fan número ú de la reialesa, però també gaudeix d'una vetllada única amb els jamaicans del districte de Brixton i amb boxejadors sense guants a l'est de Londres.</desc>
+    <length units="minutes">00:45:33</length>
   </programme>
 </tv>
