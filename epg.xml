@@ -1,77 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260913114457 +0000" channel="tvi" stop="20260913131639 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Lliga Catalana / Final</sub-title>
-    <desc lang="ca">Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">01:31:42</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20260913153450 +0000" channel="tvi" stop="20260913171407 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Tarda de cine - Assassinats a Montalban</sub-title>
+    <desc lang="ca">ASSASSINATS A MONTALBAN 'Meurtres à Montauban'Direcció: Muriel AubinGuió: François Grillères, Aymeric NoguéProducció: BE-FILMSAny: 2024Durada: 90País: FrançaMúsica: David SalkinFotografia: Sébastien BuchmannIntèrprets: Hubert Delattre, Déborah Krey, Lionnel Astier, Riton Liebman, Juliette Petiot, Zelda Rittner, Jérémy Barrière, Jean-Piere Bauredon, Armelle Abibou, Erick Deshors, Pierre-Olivier Bellec, Fabien Rasplus, Harrison Arevalo, Karine Monneau, Régis Lux, Corinne Mariotto Patrick Delmas, exjugador de rugbi professional, és assassinat a la festa dels 400 cops de Montalban i un vel de misteri plana sobre la capital. El comandant Martin Delacroix, acabat d'arribar de la policia judicial de París, s'encarrega del cas, juntament amb la jove tinenta Cyrielle Laborie. La jove, que acaba de perdre la seva mare, no veu amb bons ulls l'arribada d'aquest policia, massa segur de si mateix. El que no sap és que el Martin ha vingut a Montalban buscant la seva família biològica. Per afrontar amb serenitat la seva propera paternitat, necessita conèixer el motiu pel qual la seva mare el va abandonar.</desc>
+    <length units="minutes">01:39:17</length>
   </programme>
-  <programme start="20260913131639 +0000" channel="tvi" stop="20260913143000 +0000">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">1079</sub-title>
-    <desc lang="ca">El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
-    <length units="minutes">01:13:21</length>
+  <programme start="20260913171407 +0000" channel="tvi" stop="20260913185739 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Tarda de cine - Assassinat a Dinard</sub-title>
+    <desc lang="ca">ASSASSINAT A DINARD 'Lame de fond'Direcció: Bruno GarciaGuió: Fabienne Lesieur, Victor PavyProducció: France Télévisions, BE FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Film &amp; Picture, France 2 (FR 2)Any: 2023Durada: 93País: FrançaMúsica: Fabien CahenFotografia: Marc FalchierIntèrprets: Pauline Bression, Éléonore Bernheim, Antoine Hamel, Stéphane Freiss, Franz Rudolf Lang, Florence Muller, William Nadylam, Guillaume Dolmans, Anne Hélène Orvelin, Arnaud Stéphan, Lola BurbailLa localitat costanera de Dinard es prepara per a un festival de cinema britànic quan es descobreix el cos sense vida d'un jove director anglès flotant a la platja. Però l'home no s'ha ofegat, sinó que l'han assassinat. Vint anys abans havia estat víctima d'un naufragi amb un veler en què la seva germana va resultar morta. Tenen cap relació les dues morts?</desc>
+    <length units="minutes">01:43:32</length>
   </programme>
-  <programme start="20260913120000 +0000" channel="324" stop="20260913143000 +0000">
+  <programme start="20260913163000 +0000" channel="324" stop="20260913183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11159</sub-title>
+    <sub-title lang="ca">11160</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260913143000 +0000" channel="324" stop="20260913154000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7327</sub-title>
-    <length units="minutes">01:10:00</length>
+  <programme start="20260913183000 +0000" channel="324" stop="20260913200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11161</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260913115507 +0000" channel="esport3" stop="20260913140019 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - UD Logronyès B-Barça Atlètic / Segona Federació / J2</sub-title>
-    <desc lang="ca">El filial blaugrana va debutar amb una golejada, 5-1 contra el Náxara, i es vol mantenir al capdavant de la classificació. Amb la narració de Lluís Cervelló i l'anàlisi d'Alberto Manga.</desc>
-    <length units="minutes">02:05:12</length>
+  <programme start="20260913161115 +0000" channel="esport3" stop="20260913180933 +0000">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Un dia de partit - Llevant-Barça</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">01:58:18</length>
   </programme>
-  <programme start="20260913140019 +0000" channel="esport3" stop="20260913143700 +0000">
-    <title lang="ca">Crackòvia</title>
-    <sub-title lang="ca">242</sub-title>
-    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
-    <length units="minutes">00:36:41</length>
+  <programme start="20260913180933 +0000" channel="esport3" stop="20260913192500 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Gol a gol - Post Llevant-Barça / J5</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:15:27</length>
   </programme>
-  <programme start="20260913102202 +0000" channel="sx3" stop="20260913130409 +0000">
-    <title lang="ca">Projecte Beta</title>
-    <sub-title lang="ca">Projecte Beta - 10a temporada sencera 'Projecte Beta'</sub-title>
-    <desc lang="ca">Un asteroide trastoca la vida dels Beta. El Grau s'obsessiona a trobar vida alienígena mentre la Kai es prepara per ser astronauta. Al Jan li caurà l'amor del cel, i la Lola, que sembla que s'hagi donat un cop al cap, prova una personalitat diferent cada dia.</desc>
-    <length units="minutes">02:42:07</length>
+  <programme start="20260913170945 +0000" channel="sx3" stop="20260913172110 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">Ideafix i els irreductibles - Cap goig sense en Camulogen</sub-title>
+    <desc lang="ca">Diuen que Camulogen ha tornat a Lutècia! Els Irreductibles volen saber-ho del cert i descobreixen un fals Camulogen en un espectacle on el general Labiè i el legionari Mutus ridiculitzen la imatge del capitost dels gals. Però l'escàndol és majúscul per a la Polvorina, que està disposada a venjar la memòria del seu amo.</desc>
+    <length units="minutes">00:11:25</length>
   </programme>
-  <programme start="20260913130409 +0000" channel="sx3" stop="20260913132555 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - L'odissea dels mussols</sub-title>
-    <desc lang="ca">Els germans Kratt, l'Aviva i la Koki tenen un accident amb la càpsula i van a parar a un lloc remot, des d'allà hauran de viure tota una odissea per tornar a casa. Pel camí descobreixen un munt d'espècies de la família dels mussols, amb unes quantes característiques comunes però cada espècie amb les seves singularitats. Això inspira l'Aviva per fer un vestit de poder animal per tornar a casa.</desc>
-    <length units="minutes">00:21:46</length>
+  <programme start="20260913172110 +0000" channel="sx3" stop="20260913173204 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">Ideafix i els irreductibles - La quissamixa</sub-title>
+    <desc lang="ca">El general Labiè ordena al fidel Semblangròpius que elimini tots els coloms de Lutècia perquè li fan la vida impossible, a ell i a la seva gata Monalisa. En Semblangròpius farà encolar tot el Gran Colomar amb brea de bedoll perquè tots els coloms s'hi quedin enganxats, però resulta que aquesta substància no hi deixa enganxats tan sols els coloms...</desc>
+    <length units="minutes">00:10:54</length>
   </programme>
-  <programme start="20260913121341 +0000" channel="tv3" stop="20260913130640 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Gareth</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.</desc>
-    <length units="minutes">00:52:59</length>
+  <programme start="20260913170306 +0000" channel="tv3" stop="20260913175308 +0000">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Japó II</sub-title>
+    <desc lang="ca">La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
+    <length units="minutes">00:50:02</length>
   </programme>
-  <programme start="20260913130640 +0000" channel="tv3" stop="20260913135246 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - Millors moments - setmana 13</sub-title>
-    <desc lang="ca">Aquí hi trobaràs un resum dels quatre últims capítols: parlem del mirall, el pintallavis, la perxa d'atletisme i la caravana. També han vingut la Regina Rodríguez Sirvent, autora de 'Les calces al sol'; Impro Side Story, companyia de teatre musical improvisat; en Max Codinach, del grup Gavina.mp3, i en Lluís Bassaganya, responsable de l'exposició 'La retirada', de Camprodon. Després podeu veure els capítols sencers, on trobareu molts més moments igual d'interessants.</desc>
-    <length units="minutes">00:46:06</length>
+  <programme start="20260913175308 +0000" channel="tv3" stop="20260913183453 +0000">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Últims dies al Japó</sub-title>
+    <desc lang="ca">Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
+    <length units="minutes">00:41:45</length>
   </programme>
 </tv>
