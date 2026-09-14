@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -9,70 +9,68 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260914003312 +0000" channel="tvi" stop="20260914043000 +0000">
+  <programme start="20260914103023 +0000" channel="tvi" stop="20260914135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1807</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:37</length>
+  </programme>
+  <programme start="20260914135500 +0000" channel="tvi" stop="20260914143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7033</sub-title>
+    <length units="minutes">00:35:00</length>
+  </programme>
+  <programme start="20260914120000 +0000" channel="324" stop="20260914135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11164</sub-title>
+    <sub-title lang="ca">11167</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:56:48</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260914043000 +0000" channel="tvi" stop="20260914051639 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - ALBERT BELLO &amp; ORIOL SAÑA SWING EXPERIMENT</sub-title>
-    <desc lang="ca">Des de la incursió d'Albert Bello al jazz manouche, s'ha convertit en un dinamitzador de l'estil a Catalunya. Ha dirigit el primer festival dedicat a Django Reinhart a tot l'estat i ha organitzat diferents esdeveniments al voltant del gyspsy jazz. Bello es fa acompanyar d'Oriol Saña al violí. Completen el quintet: Laurent Bozzetto a la guitarra rítmica, Rod Devile al contrabaix i Vivién García també a la guitarra rítmica.</desc>
-    <length units="minutes">00:46:39</length>
+  <programme start="20260914135500 +0000" channel="324" stop="20260914143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7033</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260914010000 +0000" channel="324" stop="20260914060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11164</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20260914130000 +0000" channel="esport3" stop="20260914140103 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3238</sub-title>
+    <desc lang="ca">Lamine Yamal demana obertament la Pilota d'Or. Analitzem el Llevant-Barça amb la lupa de l'Albert Blaya. Última hora de l'Espanyol, que demà juga contra el Rayo a Butarque. El Barça de bàsquet guanya la Lliga Catalana i ja pensa en la Supercopa ACB. A la tertúlia ens acompanyen Raúl Fuentes, Maria Josep Hostalrich i Pichi Alonso.</desc>
+    <length units="minutes">01:01:03</length>
   </programme>
-  <programme start="20260914060000 +0000" channel="324" stop="20260914080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11165</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260914140103 +0000" channel="esport3" stop="20260914150158 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3238</sub-title>
+    <desc lang="ca">Lamine Yamal demana obertament la Pilota d'Or. Analitzem el Llevant-Barça amb la lupa de l'Albert Blaya. Última hora de l'Espanyol, que demà juga contra el Rayo a Butarque. El Barça de bàsquet guanya la Lliga Catalana i ja pensa en la Supercopa ACB. A la tertúlia ens acompanyen Raúl Fuentes, Maria Josep Hostalrich i Pichi Alonso.</desc>
+    <length units="minutes">01:00:55</length>
   </programme>
-  <programme start="20260914032130 +0000" channel="esport3" stop="20260914050514 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Barça-iLERNA Lleida / Lliga Catalana / Final</sub-title>
-    <desc lang="ca">Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="minutes">01:43:44</length>
+  <programme start="20260914124640 +0000" channel="sx3" stop="20260914130854 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Els castors constructors</sub-title>
+    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
+    <length units="minutes">00:22:14</length>
   </programme>
-  <programme start="20260914050514 +0000" channel="esport3" stop="20260914060322 +0000">
-    <title lang="ca">Motor a fons</title>
-    <sub-title lang="ca">Motor a fons - GP de San Marino</sub-title>
-    <desc lang="ca">Catorzena prova del Campionat del Món de Motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <length units="minutes">00:58:08</length>
+  <programme start="20260914130854 +0000" channel="sx3" stop="20260914133135 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - El punt feble del gran detectiu</sub-title>
+    <desc lang="ca">L'intent d'assassinat del director d'un grup d'inversió per part d'Izumi Onda, que el considerava culpable de la ruïna econòmica i posterior suïcidi del seu pare, fa que en Kogoro s'hagi d'enfrontar a la seva por més gran, el seu punt dèbil ja conegut per tothom: un pànic a les altures que és incapaç de controlar. Al final, si vol salvar la vida de la Izumi, l'haurà de superar tant sí com no.</desc>
+    <length units="minutes">00:22:41</length>
   </programme>
-  <programme start="20260914040220 +0000" channel="sx3" stop="20260914041415 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - La campaneta de la guineta</sub-title>
-    <desc lang="ca">De camí cap al cau, en Pinxo veu un bastó molt maco, però la Guineta l'agafa primer. En Pinxo s'enfada molt, perquè diu que la Guineta sempre vol les coses que volen els altres. Poc després, els bessons troben una campaneta molt bonica al llit del riu, i la porten al cau per donar-li una sorpresa a la Trufa. Però la Guineta diu que la campaneta és seva! Ja hi tornem a ser.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20260914123925 +0000" channel="tv3" stop="20260914134637 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Dictat, VIP - El Gran Gran Dictat</sub-title>
+    <desc lang="ca">El concursants son: Núria Feliu, Joan Maria Pou i Paula Jornet</desc>
+    <length units="minutes">01:07:12</length>
   </programme>
-  <programme start="20260914041415 +0000" channel="sx3" stop="20260914042544 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - L'atrapagats</sub-title>
-    <desc lang="ca">En Pinxo i en Timbal descobreixen que la Guineta s'ha fet molt amiga d'en Gatmoix i en Gatmoll, els gats del poble, cosa que els sorprèn, però que també els molesta, ja que ho consideren una traïció. Per arribar al fons de la qüestió decideixen espiar-la.</desc>
-    <length units="minutes">00:11:29</length>
-  </programme>
-  <programme start="20260914035757 +0000" channel="tv3" stop="20260914042249 +0000">
-    <title lang="ca">La pell dels murs</title>
-    <sub-title lang="ca">La pell dels murs - Lilly Brick-Ariadna Relea</sub-title>
-    <desc lang="ca">La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
-    <length units="minutes">00:24:52</length>
-  </programme>
-  <programme start="20260914042249 +0000" channel="tv3" stop="20260914044912 +0000">
-    <title lang="ca">La pell dels murs</title>
-    <sub-title lang="ca">La pell dels murs - Anna Taratiel-Laura Àlvarez</sub-title>
-    <desc lang="ca">La Pell dels Murs dedica aquest episodi a l'artista barcelonina resident a Terrassa Anna Taratiel. La directora i guionista d'aquest capítol, Laura Álvarez, s'endinsa a la vida privada d'aquesta muralista, mostrant-nos no només com és el seu procés creatiu, sinó també com és el dia a dia d'una mare que es dedica a l'art.Sens dubte, aquesta és la proposta més agosarada i experimental de totes les de la sèrie. En estreta col·laboració amb Taratiel, Álvarez combina de diversos formats d'enregistrament per crear un còctel d'imatges sorprenents i inusualment íntimes. Mentre seguim l'execució d'un mural, també assistim a escenes quotidianes de la relació entre l'Anna Taratiel i la seva filla, enregistrades per elles mateixes. Així, el resultat final aconsegueix anar més enllà del retrat d'una artista: és tota una reflexió sobre el repte que suposa per a una dona sola compaginar la criança d'una filla preadolescent amb el ritme frenètic de creació d'una professional de l'art de categoria internacional.El mural forma part d'un projecte artístic de l'Institut La Plana de Vic. És el resultat d'un treball col·laboratiu entre l'alumnat de 1er i 2n d'ESO, que van dissenyar figures geomètriques a partir d'uns geoplans, i l'alumnat de visual i plàstica de 4rt, que hi van donar forma juntament amb l'Anna Taratiel. El resultat final és una façana plena de colors vius que absorbeix la mirada del vianant i adquireix un sentit completament nou del que tenia abans de la intervenció, quan només era una paret de ciment gris.La sèrie sobre art mural La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
-    <length units="minutes">00:26:23</length>
+  <programme start="20260914134637 +0000" channel="tv3" stop="20260914141635 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">212</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:29:58</length>
   </programme>
 </tv>
