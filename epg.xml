@@ -3,87 +3,75 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20260914172107 +0000" channel="tvi" stop="20260914191345 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">408</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:52:38</length>
+  <programme start="20260914220153 +0000" channel="tvi" stop="20260914231219 +0000">
+    <title lang="ca">Còmics</title>
+    <sub-title lang="ca">Còmics - Rubianes</sub-title>
+    <desc lang="ca">L''actor galaico-català' és el màxim exponent del monologuista vital, entranyablement groller, enèrgic, sarcàstic i amb una ironia lúcida i propera. Molt amic dels seus amics, el seu somriure el feia irresistible per als espectadors i també, fora de l'escenari, per a una bona part de la població femenina. Un bon amic seu, periodista i presentador de televisió, reviu al programa anècdotes compartides i fragments dels seus espectacles</desc>
+    <length units="minutes">01:10:26</length>
   </programme>
-  <programme start="20260914191345 +0000" channel="tvi" stop="20260914201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">923</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:01:15</length>
+  <programme start="20260914231219 +0000" channel="tvi" stop="20260914231902 +0000">
+    <title lang="ca">Moments Còmics Show</title>
+    <sub-title lang="ca">Moments Còmics Show - Teatre - Ivan Labanda</sub-title>
+    <length units="minutes">00:06:43</length>
   </programme>
-  <programme start="20260914183000 +0000" channel="324" stop="20260914200000 +0000">
+  <programme start="20260914220500 +0000" channel="324" stop="20260915000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2158</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260915000000 +0000" channel="324" stop="20260915003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11170</sub-title>
+    <sub-title lang="ca">11172</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260914200000 +0000" channel="324" stop="20260914210000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11171</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260914230000 +0000" channel="esport3" stop="20260915003104 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1248</sub-title>
+    <desc lang="ca">Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
+    <length units="minutes">01:31:04</length>
   </programme>
-  <programme start="20260914190000 +0000" channel="esport3" stop="20260914203139 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">1005</sub-title>
-    <desc lang="ca">Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez.</desc>
-    <length units="minutes">01:31:39</length>
+  <programme start="20260915003104 +0000" channel="esport3" stop="20260915005211 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5509</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:21:07</length>
   </programme>
-  <programme start="20260914203139 +0000" channel="esport3" stop="20260914210629 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3238</sub-title>
-    <desc lang="ca">Lamine Yamal demana obertament la Pilota d'Or. Analitzem el Llevant-Barça amb la lupa de l'Albert Blaya. Última hora de l'Espanyol, que demà juga contra el Rayo a Butarque. El Barça de bàsquet guanya la Lliga Catalana i ja pensa en la Supercopa ACB. A la tertúlia ens acompanyen Raúl Fuentes, Maria Josep Hostalrich i Pichi Alonso.</desc>
-    <length units="minutes">00:34:50</length>
+  <programme start="20260914230343 +0000" channel="sx3" stop="20260914232528 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Caracals</sub-title>
+    <desc lang="ca">L'Equip Kratt estan jugant a bàdminton a la sabana africana i s'han quedat sense volants. L'Aviva s'ha vist obligada a treure l'últim que els quedava, però resulta que és una relíquia familiar de més de 100 anys que va heretar de la seva besàvia. De sobte, un caracal els el pispa fent un salt de dos metres. Un caracal és un felí que es camufla molt bé entre l'herba! Com el recuperaran?!</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20260914190320 +0000" channel="sx3" stop="20260914192502 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - El Toro de Piedra</sub-title>
-    <desc lang="ca">Mentre ajuda l'Adrien a endreçar caixes de records de la infantesa, la Marinette troba una carta adreçada a l'Adrien. Problema: la carta conté informació que li podria causar una pena immensa. La Marinette no sap què fer: li hauria de donar la carta a l'Adrien o mantenir en secret el que ha descobert per protegir-lo?</desc>
-    <length units="minutes">00:21:42</length>
+  <programme start="20260914232528 +0000" channel="sx3" stop="20260914234627 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Ziga-zaga</sub-title>
+    <desc lang="ca">L'Equip Kratt, decidits a descobrir tots els secrets del camuflatge de les zebres, s'han trobat enmig d'una desbandada i s'han quedat amb una cria de zebra tota sola. Si volen que sobrevisqui l'hauran de tornar amb la manada. Faran servir les tècniques de camuflatge per confondre que han après. Potser fins i tot les incorporaran als Vestits de Poder Animal!</desc>
+    <length units="minutes">00:20:59</length>
   </programme>
-  <programme start="20260914192502 +0000" channel="sx3" stop="20260914194620 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Vampigami</sub-title>
-    <desc lang="ca">A la Marinette li fa por que l'Adrien deixi d'estimar-la si no va al cine amb ell, i per això s'obliga a acompanyar-lo a veure una pel·lícula de terror, que és la pitjor fòbia de la Marinette. L'espera una sessió d'esgarrifances, angoixa i terror! Uh!</desc>
-    <length units="minutes">00:21:18</length>
+  <programme start="20260914224945 +0000" channel="tv3" stop="20260914231833 +0000">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">Tot torna - 1988</sub-title>
+    <desc lang="ca">Repassem el 1988, l'any que se celebra el mil·lenari de Catalunya, Jordi Pujol s'enfronta a uns manifestants a Santa Coloma de Gramenet i els jugadors del Barça intenten fer fora Josep Lluís Núñez. Mentrestant, al 'Bona cuina', entre rimes d'en Pastallé, apareix, així tot d'una, Ferran Adrià, el cuiner.</desc>
+    <length units="minutes">00:28:48</length>
   </programme>
-  <programme start="20260914182636 +0000" channel="tv3" stop="20260914191215 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Ciutat de Mèxic</sub-title>
-    <desc lang="ca">Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.</desc>
-    <length units="minutes">00:45:39</length>
-  </programme>
-  <programme start="20260914191215 +0000" channel="tv3" stop="20260914200943 +0000">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Un planeta perfecte - El Sol</sub-title>
-    <desc lang="ca">L'energia que la Terra rep del Sol és imprescindible per a la vida. Totes les regions del nostre planeta reben la mateixa quantitat d'hores de sol al llarg de l'any, però la inclinació de l'eix sobre el qual gira la Terra fa que el repartiment de les hores de llum i de foscor sigui desigual a tot arreu excepte a l'equador. Ara bé, els éssers vius sempre han sabut adaptar-se als efectes de les diferències d'insolació.</desc>
-    <length units="minutes">00:57:28</length>
-  </programme>
-  <programme start="20260914184500 +0000" channel="tv3" stop="20260914202955 +0000">
-    <title lang="ca">Conferència de Salvador Illa: 'El futur és aquí'</title>
-    <sub-title lang="ca">4117</sub-title>
-    <length units="minutes">01:39:55</length>
-  </programme>
-  <programme start="20260914185955 +0000" channel="tv3" stop="20260914203455 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">1005</sub-title>
-    <desc lang="ca">Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez.</desc>
-    <length units="minutes">01:35:00</length>
+  <programme start="20260914231833 +0000" channel="tv3" stop="20260914235023 +0000">
+    <title lang="ca">Manicòmics</title>
+    <sub-title lang="ca">Manicòmics - El català amb Òscar Andreu</sub-title>
+    <desc lang="ca">L'Òscar i l'Ignasi visiten Catalunya en Miniatura per analitzar la situació actual del català. Parlen amb gent que ha decidit començar a estudiar català i coneixen un dels grups de moda de la música catalana: els Flashy Ice Cream.</desc>
+    <length units="minutes">00:31:50</length>
   </programme>
 </tv>
