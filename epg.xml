@@ -1,78 +1,85 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260915040000 +0000" channel="tvi" stop="20260915050000 +0000">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - DAVID PASTOR &amp; SMOTHTIME</sub-title>
-    <desc lang="ca">El trompetista valencià és, sens dubte, un dels solistes més potents i creatius de l'escena a casa nostra. Una de les seves virtuts és la versatilitat. Tant en el jazz, el funk, el pop, com en el latin, Pastor flueix amb el seu llenguatge còmodament. Vicenç Macián al saxo, Albert Palau al piano i als teclats, Jordi Franco al baix, Pere Foved a la bateria i el mateix David Pastor a la trompeta.</desc>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260915103032 +0000" channel="tvi" stop="20260915135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1808</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:28</length>
+  </programme>
+  <programme start="20260915135500 +0000" channel="tvi" stop="20260915143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7034</sub-title>
+    <length units="minutes">00:35:00</length>
+  </programme>
+  <programme start="20260915123000 +0000" channel="324" stop="20260915133000 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">257</sub-title>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260915050000 +0000" channel="tvi" stop="20260915054551 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Cava de Blues - A-Phonics</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:51</length>
-  </programme>
-  <programme start="20260915010000 +0000" channel="324" stop="20260915060000 +0000">
+  <programme start="20260915133000 +0000" channel="324" stop="20260915135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11173</sub-title>
+    <sub-title lang="ca">11176</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">00:25:00</length>
   </programme>
-  <programme start="20260915060000 +0000" channel="324" stop="20260915080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11174</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260915112634 +0000" channel="esport3" stop="20260915125700 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1248</sub-title>
+    <desc lang="ca">Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
+    <length units="minutes">01:30:26</length>
   </programme>
-  <programme start="20260915040641 +0000" channel="esport3" stop="20260915042430 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5509</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:17:49</length>
+  <programme start="20260915125700 +0000" channel="esport3" stop="20260915140042 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3239</sub-title>
+    <desc lang="ca">La final de la Champions del 2029 es jugarà al Camp Nou. Hansi Flick, en la prèvia del Barça-Racing de demà. Avui, Rayo-Espanyol. Última hora amb Imma Casares i l'anàlisi de Juli Garcia. A la tertúlia ens acompanyen Irati Vidal, Joan Poquí i en Pere de Cal Tet.</desc>
+    <length units="minutes">01:03:42</length>
   </programme>
-  <programme start="20260915042430 +0000" channel="esport3" stop="20260915051706 +0000">
-    <title lang="ca">WRC</title>
-    <sub-title lang="ca">WRC - Ral·li de Xile / WRC 2026 / Resum final</sub-title>
-    <desc lang="ca">Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Els moments decisius i les imatges més espectaculars amb la conducció de Noel Rodríguez, i l'assistència de Santi Torres.</desc>
-    <length units="minutes">00:52:36</length>
+  <programme start="20260915122600 +0000" channel="sx3" stop="20260915124745 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El viatge del Papalloner XT</sub-title>
+    <desc lang="ca">L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20260915040758 +0000" channel="sx3" stop="20260915041952 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - Els aliats</sub-title>
-    <desc lang="ca">En Gatmoix i en Gatmoll roben l'estel amb què juguen la Guineta, en Pinxo i en Timbal, però quan fugen amb el seu botí es descuiden la maleta on guarden tots els seus objectes importants i els germans del cau se la queden. Per recuperar cadascú les seves coses, els dos bàndols enemics han d'arribar a un acord que en un principi sembla impossible.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20260915124745 +0000" channel="sx3" stop="20260915131033 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Els buscadors de mel</sub-title>
+    <desc lang="ca">Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
+    <length units="minutes">00:22:48</length>
   </programme>
-  <programme start="20260915041952 +0000" channel="sx3" stop="20260915043122 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - El Cracaüt</sub-title>
-    <desc lang="ca">L'avi guineu s'inventa un conte de por per la canalla. Tots, en Pinxo inclòs, se'l creuen i agafen tanta por que decideixen parar una trampa al cau abandonat per caçar el monstre del conte. L'endemà al matí descobreixen molt sorpresos que el monstre, que en teoria no existeix, ha caigut a la trampa.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20260915122853 +0000" channel="tv3" stop="20260915123628 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Patates amb pernil canari</sub-title>
+    <length units="minutes">00:07:35</length>
   </programme>
-  <programme start="20260915035634 +0000" channel="tv3" stop="20260915042157 +0000">
-    <title lang="ca">Boscos</title>
-    <sub-title lang="ca">Boscos - Boscos de Faig (Montseny)</sub-title>
-    <desc lang="ca">El faig és un arbre que conforma boscos irregulars, atapeïts, foscos i humits: les fagedes. En Martí anirà fins a la fageda del Montseny, on en Salvador Carranza, un dels descobridors del tritó del Montseny, localitzarà un dels pocs exemplars d'aquest amfibi que hi ha al món. I passejant entre faigs trobarà l'Edmon Ribatellada, un dels últims flabiolaires que queden per aquelles contrades. Coneixerem un bosquerol que fa més de 60 anys que viu del bosc i contemplarem els dibuixos d'en Carles Puché, un il·lustrador especialitzat en natura. També se sabrà què tenen en comú la salamandra, i els taxis de Barcelona.</desc>
-    <length units="minutes">00:25:23</length>
+  <programme start="20260915123628 +0000" channel="tv3" stop="20260915134458 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Dictat, VIP - El Gran Gran Dictat</sub-title>
+    <desc lang="ca">Toni Clapés, Laia Ferrer i Josmar, al primer EL GRAN GRAN DICTAT d'estiuLa versió estiuenca del concurs de TV3 arrenca amb tres concursants d'excepcióEl presentador d'EL GRAN GRAN DICTAT, l'Òscar Dalmau, rebrà aquest dimecres, a partir de les 21.50, el conductor del programa radiofònic 'Versió RAC1', Toni Clapés, la periodista especialitzada en motor Laia Ferrer i el mític cantant gironí Josmar. Seran els tres primers famosos que passaran pel plató del programa en una sèrie d'edicions especials d'una hora de durada que ocuparà el prime time dels dimecres al llarg de tot aquest estiu.Els tres concursants competiran per endur-se un premi de 2.000 euros que destinaran a un ONG escollida per ells. Durant el seu pas pel concurs també demostraran el seu sentit de l'humor participant en diferents esquetxos.En aquest primer EL GRAN GRAN DICTAT veurem què fan els concursants quan no els veu ningú i així descobrirem la seva cara oculta. També podrem gaudir d'una actuació musical amb un duet musical molt surrealista format per Òscar Dalmau i Josmar.El format ja va provar el seu èxit el darrer Nadal amb l'emissió de dos especials, que van obtenir mig milió d'espectadors i un 15,7 % de share.</desc>
+    <length units="minutes">01:08:30</length>
   </programme>
-  <programme start="20260915042157 +0000" channel="tv3" stop="20260915044713 +0000">
-    <title lang="ca">Boscos</title>
-    <sub-title lang="ca">Boscos - Boscos de Ribera (Flix)</sub-title>
-    <desc lang="ca">Navegant pel riu Ebre descobrirem què són els boscos de ribera i quins són els arbres que els formen. Veurem com els cavalls són els responsables de mantenir els marges dels rius i aprendrem com es controlen les poblacions d'ocells salvatges amb l'Eladi Ribes, un anellador que ha censat més de 8.000 ocells. En Marc Viñas ens portarà en barca Ebre avall per veure en quin estat es troben els àlbers i els altres arbres que formen els boscos de ribera. Ens ensenyarà quins experiments i investigacions hi porten a terme per protegir aquestes espècies. I en Martí Boada descobrirà aquí l'extensióde tamarius més espectacular que ha vist mai.</desc>
-    <length units="minutes">00:25:16</length>
+  <programme start="20260915123422 +0000" channel="tv3" stop="20260915143417 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">4114</sub-title>
+    <length units="minutes">01:59:55</length>
+  </programme>
+  <programme start="20260915122500 +0000" channel="tv3" stop="20260915142955 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
+    <sub-title lang="ca">4115</sub-title>
+    <length units="minutes">01:59:55</length>
   </programme>
 </tv>
