@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260915172518 +0000" channel="tvi" stop="20260915191217 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">409</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:46:59</length>
+  <programme start="20260915221208 +0000" channel="tvi" stop="20260915231315 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - El cas de l'avi pistoler</sub-title>
+    <desc lang="ca">9 de febrer de 2017. Els treballadors d'una oficina de CaixaBank truquen al 112 per alertar que acaben de patir un atracament. Un home que es cobria la cara amb una mitja i que els encanonava amb una pistola s'acaba d'endur 1.200 euros. Quan la primera patrulla dels Mossos d'Esquadra arriba al banc, l'atracador ja s'ha esvaït. Els agents pregunten als testimonis la seva descripció per avisar la resta de patrulles. Tots coincideixen: els acaba d'atracar un home que semblava d'edat avançada i que ha marxat tot sol, a peu. La premsa el bateja com a Avi Pistoler. Durant sis dies, el mateix sospitós atraca bancs, farmàcies i una perfumeria, tots són negocis del seu propi barri. Quan els Mossos aconsegueixen arrestar-lo, descobreixen que no tenia cap antecedent: l'Avi Pistoler és un jubilat marcat per la solitud.</desc>
+    <length units="minutes">01:01:07</length>
   </programme>
-  <programme start="20260915191217 +0000" channel="tvi" stop="20260915201750 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">924</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:05:33</length>
+  <programme start="20260915230507 +0000" channel="tvi" stop="20260915235726 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - Latitud 80º</sub-title>
+    <desc lang="ca">'Latitud 80°' (2017), una producció de GOROKA en coproducció amb Televisió de Catalunya i amb la col·laboració de l'ICEC.La història de les grans expedicions acostuma a començar sempre de la mateixa manera: amb la idea peregrina d'algú que ?la majoria de les vegades sense els recursos necessaris? es fixa una meta desmesurada, i només llavors comença a imaginar les diferents maneres d'assolir-la.Forma part del comportament humà voler saber què hi ha més enllà, l'obsessió de travessar la línia de l'horitzó per trobar respostes.El 2014 l'Albert Bargués parteix des de Barcelona a bord de l'Sterna cap a l'oceà Glacial Àrtic. Una expedició que es proposa arribar a la latitud 80°, emulant els viatges migratoris del xatrac àrtic, un ocell marí que fa la migració més llarga del regne animal: va des de les zones boreals fins a les aigües de l'Antàrtida, i després torna. Sempre per les latituds on mai es pon el sol.En aquest viatge ?des de Barcelona, passant per Tromso, els fiords de Finnmark, el cap Nord, l'Illa de l'Os i Svalbard? els tripulants de l'Sterna creuaran la natura més feréstega, viuran un viatge més enllà del passat, un viatge fora del temps que els endinsarà en l'entorn més inhòspit i dur dels confins de la Terra. Però no només cal trampejar les forces de la natura, de vegades el destí ens fa males passades i els obstacles, les dificultats i el cansament ens poden vèncer.Direcció: Guille CascanteGuió i narració: Javier ArgüelloProducció executiva: Montse PortabellaImatge: Guille Cascante / Xavi Lozano / Santi Baró / Bernat SampolProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Manel RayaFotògrafa: Anna Huix Muntatge: Francisco Forbes / Carlos Baró / Inés Boffi / Joan SolsonaDirectora de producció: Gemma FeliusMúsica: Foehn RecordsGrafisme: Ramon Ponsatí / Pep Carbonell</desc>
+    <length units="minutes">00:52:19</length>
   </programme>
-  <programme start="20260915170000 +0000" channel="324" stop="20260915183000 +0000">
+  <programme start="20260915220500 +0000" channel="324" stop="20260916000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2159</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260916000000 +0000" channel="324" stop="20260916003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11178</sub-title>
+    <sub-title lang="ca">11181</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260915183000 +0000" channel="324" stop="20260915200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11179</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260915220003 +0000" channel="esport3" stop="20260915224140 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">E3D - BMX UCI HC / Extreme Barcelona / Final femenina</sub-title>
+    <desc lang="ca">Final femenina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">00:41:37</length>
   </programme>
-  <programme start="20260915172645 +0000" channel="esport3" stop="20260915175245 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Top gols La Lliga - Jornada 5</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:26:00</length>
+  <programme start="20260915224140 +0000" channel="esport3" stop="20260915230000 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Barça-Racing / J6</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:18:20</length>
   </programme>
-  <programme start="20260915175245 +0000" channel="esport3" stop="20260915185500 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3239</sub-title>
-    <desc lang="ca">La final de la Champions del 2029 es jugarà al Camp Nou. Hansi Flick, en la prèvia del Barça-Racing de demà. Avui, Rayo-Espanyol. Última hora amb Imma Casares i l'anàlisi de Juli Garcia. A la tertúlia ens acompanyen Irati Vidal, Joan Poquí i en Pere de Cal Tet.</desc>
-    <length units="minutes">01:02:15</length>
+  <programme start="20260915222257 +0000" channel="sx3" stop="20260915224232 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - La banda de noies mal avingudes (2a part)</sub-title>
+    <desc lang="ca">S'ha comès un assassinat en un estudi de so. La víctima és una noia que tocava la bateria en un grup i les sospitoses principals són les seves tres companyes. La càmera de seguretat no ha pogut enregistrar bé tot el que ha passat i la policia no troba l'arma del crim. Sort que en Conan i els seus amics els ajudaran a esbrinar què ha passat i a resoldre el cas.</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20260915174601 +0000" channel="sx3" stop="20260915175634 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla arregla una teulada</sub-title>
-    <desc lang="ca">Ha caigut la teulada de la sitja del senyor Al i la Patrulla Peluda l'haurà de tornar a posar a lloc.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20260915224232 +0000" channel="sx3" stop="20260915230324 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - El misteri del globus aerostàtic</sub-title>
+    <desc lang="ca">En Conan assisteix a una competició de globus aerostàtics. Abans de la prova, l'actual campió, en Shingo Mizuguchi, discuteix amb un altre participant, l'Akihiro Okuda. Quan arrenca la cursa, una col·lisió entre els globus d'aquests dos competidors provoca que l'Arisa, la dona d'en Shingo, que l'acompanyava, caigui de la barqueta i es mati. Tot indica que l'Akihiro ha envestit deliberadament el globus d'en Shingo, però hi ha coses que no quadren.</desc>
+    <length units="minutes">00:20:52</length>
   </programme>
-  <programme start="20260915175634 +0000" channel="sx3" stop="20260915181845 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - Rescats extrems: La Patrulla salva els gatets reials</sub-title>
-    <desc lang="ca">Els gatets reials van a la inauguració del museu de Badia Aventures i els segresten. En Ryder diu a tots els cadells que han d'ajudar en Chase a rescatar-los.</desc>
-    <length units="minutes">00:22:11</length>
+  <programme start="20260915220215 +0000" channel="tv3" stop="20260915225445 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - La barbacoa</sub-title>
+    <desc lang="ca">Probablement hagis llegit el nom de l'objecte al qual dediquem el capítol entonant aquella cançó tan famosa d'en Georgie Dann. No t'has de sentir culpable, la caspa que desprèn aquell èxit estiuenc fa justícia al que és la barbacoa en sí. Ens visita en Daniel Martín, un investigador que es dedica a posar nom als cucs. Algú se n'ha d'encarregar, sinó avui dia els cucs es dirien Kai, Roc i Ot! Quin disbarat! També passegem el gos pel dia que un advocat talòs va morir tot intentant demostrar que el seu client era innocent.</desc>
+    <length units="minutes">00:52:30</length>
   </programme>
-  <programme start="20260915174502 +0000" channel="tv3" stop="20260915182221 +0000">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">QuèQui - Caçadors de meteorits</sub-title>
-    <desc lang="ca">Els meteorits són una amenaça per a la nostra civilització, però alhora contenen molècules essencials per a la vida. En buscarem al cel, al desert i a les teulades de les masies.</desc>
-    <length units="minutes">00:37:19</length>
-  </programme>
-  <programme start="20260915182221 +0000" channel="tv3" stop="20260915191504 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">Els quaderns de cuina de la Julie - El mercat internacional de Rungis</sub-title>
-    <desc lang="ca">La Julie es passa tota una matinada rondant pel mercat de majoristes de París. Al pavelló de triperia, en Philippe fa un guisat de galtes de porc amb sidra, mostassa i pastanaga. Al pavelló de peixateria, l'Éric fa uns lloms de bacallà fresc amb xoriço. Al sector de formatgeria, en Jean-Pierre s'encarrega de la safata de formatges. Al pavelló de verduleria, la Martine i l'Olivier són productors de créixens i en Jean-François és especialista en productes d'arreu del món amb els quals la Julie improvisarà unes postres.</desc>
-    <length units="minutes">00:52:43</length>
+  <programme start="20260915225445 +0000" channel="tv3" stop="20260916010046 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Batman begins</sub-title>
+    <desc lang="ca">BATMAN BEGINS (Batman begins)Quan tenia 8 anys, Bruce Wayne va caure en una cova plena de ratpenats i des d'aleshores li van fer por. Una nit va demanar als seus pares de marxar d'un espectacle on sortien personatges disfressats de ratpenat. Un cop al carrer, un assassí va matar els pares i Bruce va quedar traumatitzat per la culpa. Uns anys més tard, Bruce, turmentat pel desig de venjança, marxa de la seva ciutat, Gotham, i viatja per tot el món buscant maneres de lluitar contra la injustícia. Finalment troba un home misteriós que l'instrueix en el domini de tot un seguit de disciplines físiques i mentals que el convertiran en un ésser poderós i invencible: Batman.Idioma versió original: anglèsProducció: Warner Bros. Pictures, Syncopy, De Comics i Patalex Productions, 2004 (Estats Units)Direcció: Christopher NolanDurada: 134 minutsGuió: Christopher Nolan i David S. Goyer, basat en els personatges de còmic creats per Bob KaneFotografia: Wally Pfister (color)Música: James Newton Howard i Hans ZimmerIntèrprets: Christian Bale (Bruce Wayne / Batman), Michael Caine (Alfred), Liam Neeson (Henri Ducard), Katie Holmes (Rachel Dwes), Gary Oldman (Jim Gordon), Cilliam Murphy (doctor Crane)</desc>
+    <length units="minutes">02:06:01</length>
   </programme>
 </tv>
