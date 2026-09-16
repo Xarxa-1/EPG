@@ -3,76 +3,73 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260916040000 +0000" channel="tvi" stop="20260916050001 +0000">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - DE DIEGO BROTHERS</sub-title>
-    <desc lang="ca">Des de l'any 1993, aquest quintet, liderat pels germans De Diego, no ha deixat de tocar. El seu repertori es pot situar estilísticament als anys setanta; un període en què el jazz es barreja amb ritmes afrocubans, el 'bogaloo' o el funk. La força i la frescor del seu directe els ha dut a tocar als festivals més representatius de jazz de tot l'estat.</desc>
-    <length units="minutes">01:00:01</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260916103023 +0000" channel="tvi" stop="20260916135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1809</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:37</length>
   </programme>
-  <programme start="20260916050001 +0000" channel="tvi" stop="20260916054524 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Cava de Blues - Riqui Sabatés y Los Obstinados</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:23</length>
+  <programme start="20260916135500 +0000" channel="tvi" stop="20260916143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7035</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260916010000 +0000" channel="324" stop="20260916060000 +0000">
+  <programme start="20260916120000 +0000" channel="324" stop="20260916135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11182</sub-title>
+    <sub-title lang="ca">11185</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260916060000 +0000" channel="324" stop="20260916080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11183</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260916135500 +0000" channel="324" stop="20260916143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7035</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260916040257 +0000" channel="esport3" stop="20260916045905 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">E3D - Scooter Park / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">00:56:08</length>
+  <programme start="20260916112805 +0000" channel="esport3" stop="20260916130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1249</sub-title>
+    <desc lang="ca">Fem tertúlia amb Jordi Costa, Gemma Mallorca, Víctor Lozano i Joan Poquí. Repassem la prèvia del Barça-Racing. Veiem els gols de l'Elx-Madrid i el Rayo-Espanyol. El Predicador Òscar Pérez-Dolz posa els tertulians a lloc, ve Fran Domènech i la seva Onzeclopèdia i acabem amb l'1x1 d'Òscar Nin.</desc>
+    <length units="minutes">01:31:55</length>
   </programme>
-  <programme start="20260916045905 +0000" channel="esport3" stop="20260916051931 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5510</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:26</length>
+  <programme start="20260916130000 +0000" channel="esport3" stop="20260916140120 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3241</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:20</length>
   </programme>
-  <programme start="20260916034755 +0000" channel="sx3" stop="20260916040902 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Style Queen - El combat de les reines (2a part)</sub-title>
-    <desc lang="ca">La Chloé, enfadada perquè la seva mare només té ulls pel barret que ha dissenyat la Marinette, decideix fer alguna cosa extraordinària i fa servir el prodigi de l'abella que Ladybug havia perdut. Però en comptes de resoldre problemes, aquesta nova superheroïna no farà res més que crear-ne de nous.</desc>
-    <length units="minutes">00:21:07</length>
+  <programme start="20260916121444 +0000" channel="sx3" stop="20260916122655 +0000">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">184</sub-title>
+    <desc lang="ca">Després del nou fracàs en la recerca del llibre, en Jonas decideix enfrontar-se a la reina de trèvols directament. Però tot es pot complicar per als Ghost Rockers perquè la directora de l'acadèmia els amenaça amb l'expulsió si tornen a faltar a classe. D'altra banda, la Jana continua preguntes incòmodes a en Jimmy sobre el 'joc' que el té tan entretingut a ell i als seus amics.</desc>
+    <length units="minutes">00:12:11</length>
   </programme>
-  <programme start="20260916040902 +0000" channel="sx3" stop="20260916042056 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - Esperit d'equip</sub-title>
-    <desc lang="ca">Cada any la canalla del bosc competeix al campionat entre caus, uns jocs en què han de superar una sèrie de proves. Però només hi pot haver un representant per cada cau, i això crea un conflicte a la família Teixó-Guineu, ja que tant sí com no hi volen participar els dos grans, en Pinxo i la Guineta, un teixó i una guineu.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20260916122655 +0000" channel="sx3" stop="20260916124840 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - A la recerca de la perca</sub-title>
+    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20260916034449 +0000" channel="tv3" stop="20260916041040 +0000">
-    <title lang="ca">Boscos</title>
-    <sub-title lang="ca">Boscos - Boscos de Pi Roig (Cadí)</sub-title>
-    <desc lang="ca">En Martí Boada s'enfila al Cadí, per descobrir els boscos de pi roig, el segon arbre més abundant a Catalunya. Visitarem el pi roig més emblemàtic del país: el Pi de les Tres Branques. L'Ignasi Amat presentarà un projecte nou que dóna feina al bosc per facilitar la integració social i laboral per a col·lectius desafavorits; amb en Joan Obiols, un antic bosquerol, aprendrem com es talaven els arbres antigament i veurem de prop imatges espectaculars d'una colònia de voltors que, sota la batuta de l'Aleix Millet, s'està reproduint i aportant grans beneficis a la zona.</desc>
-    <length units="minutes">00:25:51</length>
+  <programme start="20260916121935 +0000" channel="tv3" stop="20260916122646 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Pularda amb préssec de vinya</sub-title>
+    <length units="minutes">00:07:11</length>
   </programme>
-  <programme start="20260916041040 +0000" channel="tv3" stop="20260916043647 +0000">
-    <title lang="ca">Boscos</title>
-    <sub-title lang="ca">Boscos - Boscos d'Alzina Surera (Gavarres)</sub-title>
-    <desc lang="ca">En Martí Boada recorrerà la zona de les Gavarres, per explicar-nos les particularitats de les alzines sureres. Coneixerem l'Eloi Madrià, un bosquerol que fa més de 30 anys que pela alzines sureres. Visitarem les empreses Francisco Oller i Corcho del País, on assistirem a tot el procés del suro: des de la pela dels arbres fins a l'elaboració de taps de vi i cava. Coneixerem el Jean Pierre Soler, un dels últims mestres artesans que fa pipes de fumar a partir de soques de bruc boal. I descobrirem com és un gamarús i per què el seu nom l'utilitzem per descriure algunes persones.</desc>
-    <length units="minutes">00:26:07</length>
+  <programme start="20260916122646 +0000" channel="tv3" stop="20260916133957 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Dictat, VIP - El Gran Gran Dictat</sub-title>
+    <desc lang="ca">En aquesta ocasió, l'actor de 'Polònia i Crackòvia', Queco Novell, la sommelier Meritxell Falgueras i l'expert en estilisme i col·laborador del programa 'Divendres', Marc Giró, competiran per endur-se un premi de 2.000 euros, que destinaran a una ONG escollida per ells.</desc>
+    <length units="minutes">01:13:11</length>
   </programme>
 </tv>
