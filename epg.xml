@@ -1,7 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -9,70 +15,64 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20260915221208 +0000" channel="tvi" stop="20260915231315 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Nits Sense ficció - El cas de l'avi pistoler</sub-title>
-    <desc lang="ca">9 de febrer de 2017. Els treballadors d'una oficina de CaixaBank truquen al 112 per alertar que acaben de patir un atracament. Un home que es cobria la cara amb una mitja i que els encanonava amb una pistola s'acaba d'endur 1.200 euros. Quan la primera patrulla dels Mossos d'Esquadra arriba al banc, l'atracador ja s'ha esvaït. Els agents pregunten als testimonis la seva descripció per avisar la resta de patrulles. Tots coincideixen: els acaba d'atracar un home que semblava d'edat avançada i que ha marxat tot sol, a peu. La premsa el bateja com a Avi Pistoler. Durant sis dies, el mateix sospitós atraca bancs, farmàcies i una perfumeria, tots són negocis del seu propi barri. Quan els Mossos aconsegueixen arrestar-lo, descobreixen que no tenia cap antecedent: l'Avi Pistoler és un jubilat marcat per la solitud.</desc>
-    <length units="minutes">01:01:07</length>
+  <programme start="20260916040000 +0000" channel="tvi" stop="20260916050001 +0000">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - DE DIEGO BROTHERS</sub-title>
+    <desc lang="ca">Des de l'any 1993, aquest quintet, liderat pels germans De Diego, no ha deixat de tocar. El seu repertori es pot situar estilísticament als anys setanta; un període en què el jazz es barreja amb ritmes afrocubans, el 'bogaloo' o el funk. La força i la frescor del seu directe els ha dut a tocar als festivals més representatius de jazz de tot l'estat.</desc>
+    <length units="minutes">01:00:01</length>
   </programme>
-  <programme start="20260915230507 +0000" channel="tvi" stop="20260915235726 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Nits Sense ficció - Latitud 80º</sub-title>
-    <desc lang="ca">'Latitud 80°' (2017), una producció de GOROKA en coproducció amb Televisió de Catalunya i amb la col·laboració de l'ICEC.La història de les grans expedicions acostuma a començar sempre de la mateixa manera: amb la idea peregrina d'algú que ?la majoria de les vegades sense els recursos necessaris? es fixa una meta desmesurada, i només llavors comença a imaginar les diferents maneres d'assolir-la.Forma part del comportament humà voler saber què hi ha més enllà, l'obsessió de travessar la línia de l'horitzó per trobar respostes.El 2014 l'Albert Bargués parteix des de Barcelona a bord de l'Sterna cap a l'oceà Glacial Àrtic. Una expedició que es proposa arribar a la latitud 80°, emulant els viatges migratoris del xatrac àrtic, un ocell marí que fa la migració més llarga del regne animal: va des de les zones boreals fins a les aigües de l'Antàrtida, i després torna. Sempre per les latituds on mai es pon el sol.En aquest viatge ?des de Barcelona, passant per Tromso, els fiords de Finnmark, el cap Nord, l'Illa de l'Os i Svalbard? els tripulants de l'Sterna creuaran la natura més feréstega, viuran un viatge més enllà del passat, un viatge fora del temps que els endinsarà en l'entorn més inhòspit i dur dels confins de la Terra. Però no només cal trampejar les forces de la natura, de vegades el destí ens fa males passades i els obstacles, les dificultats i el cansament ens poden vèncer.Direcció: Guille CascanteGuió i narració: Javier ArgüelloProducció executiva: Montse PortabellaImatge: Guille Cascante / Xavi Lozano / Santi Baró / Bernat SampolProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Manel RayaFotògrafa: Anna Huix Muntatge: Francisco Forbes / Carlos Baró / Inés Boffi / Joan SolsonaDirectora de producció: Gemma FeliusMúsica: Foehn RecordsGrafisme: Ramon Ponsatí / Pep Carbonell</desc>
-    <length units="minutes">00:52:19</length>
+  <programme start="20260916050001 +0000" channel="tvi" stop="20260916054524 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Cava de Blues - Riqui Sabatés y Los Obstinados</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:23</length>
   </programme>
-  <programme start="20260915220500 +0000" channel="324" stop="20260916000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2159</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260916000000 +0000" channel="324" stop="20260916003000 +0000">
+  <programme start="20260916010000 +0000" channel="324" stop="20260916060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11181</sub-title>
+    <sub-title lang="ca">11182</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260915220003 +0000" channel="esport3" stop="20260915224140 +0000">
+  <programme start="20260916060000 +0000" channel="324" stop="20260916080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11183</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260916040257 +0000" channel="esport3" stop="20260916045905 +0000">
     <title lang="ca">E3D</title>
-    <sub-title lang="ca">E3D - BMX UCI HC / Extreme Barcelona / Final femenina</sub-title>
-    <desc lang="ca">Final femenina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">00:41:37</length>
+    <sub-title lang="ca">E3D - Scooter Park / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">00:56:08</length>
   </programme>
-  <programme start="20260915224140 +0000" channel="esport3" stop="20260915230000 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Barça-Racing / J6</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:18:20</length>
+  <programme start="20260916045905 +0000" channel="esport3" stop="20260916051931 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5510</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:26</length>
   </programme>
-  <programme start="20260915222257 +0000" channel="sx3" stop="20260915224232 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - La banda de noies mal avingudes (2a part)</sub-title>
-    <desc lang="ca">S'ha comès un assassinat en un estudi de so. La víctima és una noia que tocava la bateria en un grup i les sospitoses principals són les seves tres companyes. La càmera de seguretat no ha pogut enregistrar bé tot el que ha passat i la policia no troba l'arma del crim. Sort que en Conan i els seus amics els ajudaran a esbrinar què ha passat i a resoldre el cas.</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20260916034755 +0000" channel="sx3" stop="20260916040902 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Style Queen - El combat de les reines (2a part)</sub-title>
+    <desc lang="ca">La Chloé, enfadada perquè la seva mare només té ulls pel barret que ha dissenyat la Marinette, decideix fer alguna cosa extraordinària i fa servir el prodigi de l'abella que Ladybug havia perdut. Però en comptes de resoldre problemes, aquesta nova superheroïna no farà res més que crear-ne de nous.</desc>
+    <length units="minutes">00:21:07</length>
   </programme>
-  <programme start="20260915224232 +0000" channel="sx3" stop="20260915230324 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - El misteri del globus aerostàtic</sub-title>
-    <desc lang="ca">En Conan assisteix a una competició de globus aerostàtics. Abans de la prova, l'actual campió, en Shingo Mizuguchi, discuteix amb un altre participant, l'Akihiro Okuda. Quan arrenca la cursa, una col·lisió entre els globus d'aquests dos competidors provoca que l'Arisa, la dona d'en Shingo, que l'acompanyava, caigui de la barqueta i es mati. Tot indica que l'Akihiro ha envestit deliberadament el globus d'en Shingo, però hi ha coses que no quadren.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20260916040902 +0000" channel="sx3" stop="20260916042056 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - Esperit d'equip</sub-title>
+    <desc lang="ca">Cada any la canalla del bosc competeix al campionat entre caus, uns jocs en què han de superar una sèrie de proves. Però només hi pot haver un representant per cada cau, i això crea un conflicte a la família Teixó-Guineu, ja que tant sí com no hi volen participar els dos grans, en Pinxo i la Guineta, un teixó i una guineu.</desc>
+    <length units="minutes">00:11:54</length>
   </programme>
-  <programme start="20260915220215 +0000" channel="tv3" stop="20260915225445 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - La barbacoa</sub-title>
-    <desc lang="ca">Probablement hagis llegit el nom de l'objecte al qual dediquem el capítol entonant aquella cançó tan famosa d'en Georgie Dann. No t'has de sentir culpable, la caspa que desprèn aquell èxit estiuenc fa justícia al que és la barbacoa en sí. Ens visita en Daniel Martín, un investigador que es dedica a posar nom als cucs. Algú se n'ha d'encarregar, sinó avui dia els cucs es dirien Kai, Roc i Ot! Quin disbarat! També passegem el gos pel dia que un advocat talòs va morir tot intentant demostrar que el seu client era innocent.</desc>
-    <length units="minutes">00:52:30</length>
+  <programme start="20260916034449 +0000" channel="tv3" stop="20260916041040 +0000">
+    <title lang="ca">Boscos</title>
+    <sub-title lang="ca">Boscos - Boscos de Pi Roig (Cadí)</sub-title>
+    <desc lang="ca">En Martí Boada s'enfila al Cadí, per descobrir els boscos de pi roig, el segon arbre més abundant a Catalunya. Visitarem el pi roig més emblemàtic del país: el Pi de les Tres Branques. L'Ignasi Amat presentarà un projecte nou que dóna feina al bosc per facilitar la integració social i laboral per a col·lectius desafavorits; amb en Joan Obiols, un antic bosquerol, aprendrem com es talaven els arbres antigament i veurem de prop imatges espectaculars d'una colònia de voltors que, sota la batuta de l'Aleix Millet, s'està reproduint i aportant grans beneficis a la zona.</desc>
+    <length units="minutes">00:25:51</length>
   </programme>
-  <programme start="20260915225445 +0000" channel="tv3" stop="20260916010046 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Batman begins</sub-title>
-    <desc lang="ca">BATMAN BEGINS (Batman begins)Quan tenia 8 anys, Bruce Wayne va caure en una cova plena de ratpenats i des d'aleshores li van fer por. Una nit va demanar als seus pares de marxar d'un espectacle on sortien personatges disfressats de ratpenat. Un cop al carrer, un assassí va matar els pares i Bruce va quedar traumatitzat per la culpa. Uns anys més tard, Bruce, turmentat pel desig de venjança, marxa de la seva ciutat, Gotham, i viatja per tot el món buscant maneres de lluitar contra la injustícia. Finalment troba un home misteriós que l'instrueix en el domini de tot un seguit de disciplines físiques i mentals que el convertiran en un ésser poderós i invencible: Batman.Idioma versió original: anglèsProducció: Warner Bros. Pictures, Syncopy, De Comics i Patalex Productions, 2004 (Estats Units)Direcció: Christopher NolanDurada: 134 minutsGuió: Christopher Nolan i David S. Goyer, basat en els personatges de còmic creats per Bob KaneFotografia: Wally Pfister (color)Música: James Newton Howard i Hans ZimmerIntèrprets: Christian Bale (Bruce Wayne / Batman), Michael Caine (Alfred), Liam Neeson (Henri Ducard), Katie Holmes (Rachel Dwes), Gary Oldman (Jim Gordon), Cilliam Murphy (doctor Crane)</desc>
-    <length units="minutes">02:06:01</length>
+  <programme start="20260916041040 +0000" channel="tv3" stop="20260916043647 +0000">
+    <title lang="ca">Boscos</title>
+    <sub-title lang="ca">Boscos - Boscos d'Alzina Surera (Gavarres)</sub-title>
+    <desc lang="ca">En Martí Boada recorrerà la zona de les Gavarres, per explicar-nos les particularitats de les alzines sureres. Coneixerem l'Eloi Madrià, un bosquerol que fa més de 30 anys que pela alzines sureres. Visitarem les empreses Francisco Oller i Corcho del País, on assistirem a tot el procés del suro: des de la pela dels arbres fins a l'elaboració de taps de vi i cava. Coneixerem el Jean Pierre Soler, un dels últims mestres artesans que fa pipes de fumar a partir de soques de bruc boal. I descobrirem com és un gamarús i per què el seu nom l'utilitzem per descriure algunes persones.</desc>
+    <length units="minutes">00:26:07</length>
   </programme>
 </tv>
