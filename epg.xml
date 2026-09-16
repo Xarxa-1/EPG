@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260916172946 +0000" channel="tvi" stop="20260916191247 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">410</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:43:01</length>
+  <programme start="20260916221654 +0000" channel="tvi" stop="20260916233535 +0000">
+    <title lang="ca">La Riera</title>
+    <sub-title lang="ca">131</sub-title>
+    <desc lang="ca">Secrets i xantatgesAl capítol final de la temporada, veurem com tot el que pressiona els personatges de la sèrie és conseqüència de coses que estan amagades en el seu passat. El secret d'en Mauri ve de lluny. Ara, la Maribel també l'ha descobert. El secret de la Mercè crema força i la mare necessita desactivar els fills, encara que això signifiqui enfrontar-los. Però tot plegat és massa fort i s'aguanta amb pinces. Si alguna cosa falla, avui podrem viure una tragèdia de proporcions desconegudes... Les vides de tots estan a punt de canviar.</desc>
+    <length units="minutes">01:18:41</length>
   </programme>
-  <programme start="20260916191247 +0000" channel="tvi" stop="20260916201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">925</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:02:13</length>
+  <programme start="20260916233535 +0000" channel="tvi" stop="20260917000614 +0000">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">L'un per l'altre - Les festes d'Horta</sub-title>
+    <desc lang="ca">El Toni descobreix que la majoria dels seus alumnes no coneixen res de la historia del seu propi barri. Indignat per aquesta situació decideix recuperar les festes populars d'Horta ajudat pel Sorribes i la resta de professors. D'altra banda la resta de personatges prefereixen aprofitar les festes de Gràcia que secundar la iniciativa del Toni.</desc>
+    <length units="minutes">00:30:39</length>
   </programme>
-  <programme start="20260916170000 +0000" channel="324" stop="20260916183000 +0000">
+  <programme start="20260916220500 +0000" channel="324" stop="20260917000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2160</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260917000000 +0000" channel="324" stop="20260917003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11187</sub-title>
+    <sub-title lang="ca">11190</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260916183000 +0000" channel="324" stop="20260916200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11188</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260916212627 +0000" channel="esport3" stop="20260916233050 +0000">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Un dia de partit - Barça-Racing</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">02:04:23</length>
   </programme>
-  <programme start="20260916173250 +0000" channel="esport3" stop="20260916175857 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Tot Costa - Gabriel Jesus, feliç a Barcelona</sub-title>
-    <desc lang="ca">Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez.</desc>
-    <length units="minutes">00:26:07</length>
+  <programme start="20260916233050 +0000" channel="esport3" stop="20260917003710 +0000">
+    <title lang="ca">I l'Àliga vola: Sergi Mingote, K2</title>
+    <sub-title lang="ca">I l'Àliga vola: Sergi Mingote, K2 - L'Àliga vola</sub-title>
+    <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
+    <length units="minutes">01:06:20</length>
   </programme>
-  <programme start="20260916175857 +0000" channel="esport3" stop="20260916190000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3241</sub-title>
-    <desc lang="ca">Avui, Barça-Ràcing al Camp Nou. Última hora amb Mireia German i l'anàlisi de l'Àlex Delmàs. L'Espanyol perd contra el Rayo, tot i el sisè gol de Roberto. Entrevistem Miquel Mañé, triple campió mundial de gimnàstica aeròbica. Enric Mas analitza la seva victòria a La Vuelta a l'Esport Club. I a la tertúlia ens acompanyen Màrius Carol, Frederic Porta i Dani Senabre.</desc>
-    <length units="minutes">01:01:03</length>
+  <programme start="20260916222614 +0000" channel="sx3" stop="20260916224549 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - L'últim regal</sub-title>
+    <desc lang="ca">En veure a la televisió la foto d'una presumpta culpable d'assassinat, en Kogoro de seguida reconeix la noia. Resulta que la va veure el mateix dia i a la mateixa hora que la policia creu que va cometre l'assassinat, i molt lluny del lloc on van trobar el cadàver. Per tant, no és possible que sigui l'assassina. Aleshores, com és que ha confessat que és l'autora del crim?</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20260916173657 +0000" channel="sx3" stop="20260916174810 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva els Goodway a la neu</sub-title>
-    <desc lang="ca">L'alcaldessa Goodway i els bessons no tornen de la seva excursió amb raquetes, i en Jake i l'Everest truquen a la Patrulla Peluda perquè els ajudin a buscar-los.</desc>
-    <length units="minutes">00:11:13</length>
+  <programme start="20260916224549 +0000" channel="sx3" stop="20260916230641 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - La parada de bus sota la pluja</sub-title>
+    <desc lang="ca">En Kogoro i en Conan surten a sopar una nit de pluja. De sobte, senten una frenada i una topada i, quan s'acosten al lloc dels fets, es troben al mig del carrer un cotxe que acaba d'atropellar un home. El conductor està inconscient i la víctima ha mort. Casualment, tot seguit arriben l'inspector Megure i en Takagi, que inicien la investigació d'un atropellament que, segons els primers indicis, podria ser un suïcidi.</desc>
+    <length units="minutes">00:20:52</length>
   </programme>
-  <programme start="20260916174810 +0000" channel="sx3" stop="20260916175843 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva l’estany dels ànecs</sub-title>
-    <desc lang="ca">L'estany dels ànecs s'ha quedat sense aigua misteriosament i ara, la Patrulla Peluda haurà de descobrir què ha passat.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20260916215518 +0000" channel="tv3" stop="20260916224652 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El con</sub-title>
+    <desc lang="ca">Avui dediquem el capítol al con. Sí, el de la carretera, el que et fa desviar quan hi ha obres. Un sol con és com un defensa dolent, que el pots esquivar sense problemes, però una bona alineació de cons ben posicionats et fan anar per on volen. Descobrim si els egipcis ja en feien servir per construir les piràmides. També ens visita l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi, i el Mut de Ferreries. A l'hora del passeig del gos repassem la història de lady Godiva.</desc>
+    <length units="minutes">00:51:34</length>
   </programme>
-  <programme start="20260916173322 +0000" channel="tv3" stop="20260916180650 +0000">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">QuèQui - Càncer, el llegat de l'evolució</sub-title>
-    <desc lang="ca">El càncer és una malaltia coneguda per tothom, però sovint no gaire ben entesa. Es desencadena quan certes cèl·lules defectuoses deixen de participar harmoniosament en el funcionament de l'organisme i comencen a rutllar de manera completament individualista i dissonant. Metafòricament diríem que perden l'altruisme necessari per viure en societat i es converteixen en entitats egoistes. Aquesta transformació és un llegat de la pròpia evolució i es remunta milers de milions d'anys enrere, quan el nostre planeta només l'habitaven organismes unicel·lulars.La vida va aparèixer dins l'aigua, i molts ambients aquàtics són encara reservoris, càpsules del temps, on hi podem trobar formes de vida molt primitives, similars als primers éssers vius de la Terra. Agafarem algunes mostres per observar-les al microscopi i entendrem, per primera vegada, el càncer a través de l'ecologia microbiana.</desc>
-    <length units="minutes">00:33:28</length>
-  </programme>
-  <programme start="20260916180650 +0000" channel="tv3" stop="20260916182025 +0000">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Les Feres - Triquell</sub-title>
-    <desc lang="ca">Concert del cantant, compositor i productor Triquell a Caldes de Montbui. L'artista es va donar a conèixer a la primera edició del concurs musical de 3cat 'Eufòria', en què va quedar segon. La seva proposta, reflectida en gravacions com el debut Entre fluids, rau en una personalitat carismàtica i una visió oberta i creativa de la música urbana. Triquell: veu Pau Ruiz: guitarra i cors Xavi Rueda: bases Carlos Gálvez: baix Arnau Grabu: percussions  Cançons: CBD i espardenyes Evanjelly Plàstic Fums!  Localització: gravat a Caldes de Montbui Data: 20 de maig del 2024</desc>
-    <length units="minutes">00:13:35</length>
+  <programme start="20260916224652 +0000" channel="tv3" stop="20260917003552 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Tootsie</sub-title>
+    <desc lang="ca">TOOTSIE (Tootsie)Idioma versió original: anglèsProducció: Sydney Pollack i Dick Richards per a Mirage/Punch i Columbia, 1982Direcció: Sydney Pollack / Durada: 116 minuts Guió: Larry Gelbart i Murray SchisgalFotografia: Owen Roizman (color)Música: Dave GrusinIntèrprets: Dustin Hoffman (Michael Dorsey / Dorothy Michaels), Jessica Lange (Julie), Teri Garr (Sandy), Dabney Coleman (Ron), Charles Durning (Les), Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels' i aconsegueix el paper. En la conxorxa hi ha ficats, a més, el seu agent, George, i el seu company d'habitació, Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie, la preciosa actriu que hi fa de coprotagonista, i el pare de Julie, Les, s'enamora de 'Dorothy'.</desc>
+    <length units="minutes">01:49:00</length>
   </programme>
 </tv>
