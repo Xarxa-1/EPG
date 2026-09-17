@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260916221654 +0000" channel="tvi" stop="20260916233535 +0000">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">131</sub-title>
-    <desc lang="ca">Secrets i xantatgesAl capítol final de la temporada, veurem com tot el que pressiona els personatges de la sèrie és conseqüència de coses que estan amagades en el seu passat. El secret d'en Mauri ve de lluny. Ara, la Maribel també l'ha descobert. El secret de la Mercè crema força i la mare necessita desactivar els fills, encara que això signifiqui enfrontar-los. Però tot plegat és massa fort i s'aguanta amb pinces. Si alguna cosa falla, avui podrem viure una tragèdia de proporcions desconegudes... Les vides de tots estan a punt de canviar.</desc>
-    <length units="minutes">01:18:41</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20260917040003 +0000" channel="tvi" stop="20260917050004 +0000">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - DR. GO</sub-title>
+    <desc lang="ca">El trio es mou sota l'estela dels 'Organ combos', sorgits a finals dels 90 i amb regust de l'era daurada dels trios de Hammond. El resultat és una trobada entre el jazz modern, l'electrofunk, el rock i, fins i tot, el bolero. Francisco Suáez a l'orgue, Ignasi Cussó a la guitarra i Ramón Díaz a la bateria. Són Dr. Go.</desc>
+    <length units="minutes">01:00:01</length>
   </programme>
-  <programme start="20260916233535 +0000" channel="tvi" stop="20260917000614 +0000">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'un per l'altre - Les festes d'Horta</sub-title>
-    <desc lang="ca">El Toni descobreix que la majoria dels seus alumnes no coneixen res de la historia del seu propi barri. Indignat per aquesta situació decideix recuperar les festes populars d'Horta ajudat pel Sorribes i la resta de professors. D'altra banda la resta de personatges prefereixen aprofitar les festes de Gràcia que secundar la iniciativa del Toni.</desc>
-    <length units="minutes">00:30:39</length>
+  <programme start="20260917050004 +0000" channel="tvi" stop="20260917054509 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Cava de Blues - Víctor Bocanegra</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:05</length>
   </programme>
-  <programme start="20260916220500 +0000" channel="324" stop="20260917000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2160</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260917000000 +0000" channel="324" stop="20260917003000 +0000">
+  <programme start="20260917010000 +0000" channel="324" stop="20260917060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11190</sub-title>
+    <sub-title lang="ca">11191</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260916212627 +0000" channel="esport3" stop="20260916233050 +0000">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Un dia de partit - Barça-Racing</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="minutes">02:04:23</length>
+  <programme start="20260917060000 +0000" channel="324" stop="20260917080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11192</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260916233050 +0000" channel="esport3" stop="20260917003710 +0000">
-    <title lang="ca">I l'Àliga vola: Sergi Mingote, K2</title>
-    <sub-title lang="ca">I l'Àliga vola: Sergi Mingote, K2 - L'Àliga vola</sub-title>
-    <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
-    <length units="minutes">01:06:20</length>
+  <programme start="20260917032447 +0000" channel="esport3" stop="20260917044932 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Gol a gol - Post Barça-Racing / J6</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:24:45</length>
   </programme>
-  <programme start="20260916222614 +0000" channel="sx3" stop="20260916224549 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - L'últim regal</sub-title>
-    <desc lang="ca">En veure a la televisió la foto d'una presumpta culpable d'assassinat, en Kogoro de seguida reconeix la noia. Resulta que la va veure el mateix dia i a la mateixa hora que la policia creu que va cometre l'assassinat, i molt lluny del lloc on van trobar el cadàver. Per tant, no és possible que sigui l'assassina. Aleshores, com és que ha confessat que és l'autora del crim?</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20260917044932 +0000" channel="esport3" stop="20260917061047 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">E3D - Scooter Street / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">01:21:15</length>
   </programme>
-  <programme start="20260916224549 +0000" channel="sx3" stop="20260916230641 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - La parada de bus sota la pluja</sub-title>
-    <desc lang="ca">En Kogoro i en Conan surten a sopar una nit de pluja. De sobte, senten una frenada i una topada i, quan s'acosten al lloc dels fets, es troben al mig del carrer un cotxe que acaba d'atropellar un home. El conductor està inconscient i la víctima ha mort. Casualment, tot seguit arriben l'inspector Megure i en Takagi, que inicien la investigació d'un atropellament que, segons els primers indicis, podria ser un suïcidi.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20260917034748 +0000" channel="sx3" stop="20260917041047 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Catalyste - El dia dels herois (1a part)</sub-title>
+    <desc lang="ca">A París se celebra el Dia dels Herois, i tothom intenta fer alguna cosa bona pels altres. La Marinette, com sempre, s'atabala i acaba prometent pastissos i pastes per tothom, però després veu que n'ha fet un gra massa. Mentrestant, l'Esfinx intenta reunir tots els personatges malvats que ha anat akumatitzant fins ara per apoderar-se d'una vegada per totes dels prodigis màgics.</desc>
+    <length units="minutes">00:22:59</length>
   </programme>
-  <programme start="20260916215518 +0000" channel="tv3" stop="20260916224652 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El con</sub-title>
-    <desc lang="ca">Avui dediquem el capítol al con. Sí, el de la carretera, el que et fa desviar quan hi ha obres. Un sol con és com un defensa dolent, que el pots esquivar sense problemes, però una bona alineació de cons ben posicionats et fan anar per on volen. Descobrim si els egipcis ja en feien servir per construir les piràmides. També ens visita l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi, i el Mut de Ferreries. A l'hora del passeig del gos repassem la història de lady Godiva.</desc>
-    <length units="minutes">00:51:34</length>
+  <programme start="20260917041047 +0000" channel="sx3" stop="20260917042242 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - El dia de la mare</sub-title>
+    <desc lang="ca">És el dia de les mares, i totes, sense excepció, es reuneixen per parlar de la seva vida quotidiana. I mentre les mares xerren, els pares preparen el menjar pel sopar i la canalla un regal per elles. La Guineta decideix fer una figura de fang per a la Marguerite, però en Gatmoll i en Gatmoix li esguerren el regal.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20260916224652 +0000" channel="tv3" stop="20260917003552 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Tootsie</sub-title>
-    <desc lang="ca">TOOTSIE (Tootsie)Idioma versió original: anglèsProducció: Sydney Pollack i Dick Richards per a Mirage/Punch i Columbia, 1982Direcció: Sydney Pollack / Durada: 116 minuts Guió: Larry Gelbart i Murray SchisgalFotografia: Owen Roizman (color)Música: Dave GrusinIntèrprets: Dustin Hoffman (Michael Dorsey / Dorothy Michaels), Jessica Lange (Julie), Teri Garr (Sandy), Dabney Coleman (Ron), Charles Durning (Les), Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels' i aconsegueix el paper. En la conxorxa hi ha ficats, a més, el seu agent, George, i el seu company d'habitació, Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie, la preciosa actriu que hi fa de coprotagonista, i el pare de Julie, Les, s'enamora de 'Dorothy'.</desc>
-    <length units="minutes">01:49:00</length>
+  <programme start="20260917032120 +0000" channel="tv3" stop="20260917041440 +0000">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Batalla de Talamanca 1714: la darrera victòria catalana</sub-title>
+    <desc lang="ca">En el marc de la Guerra de Successió, a l'agost de 1714 va tenir lloc al poble de Talamanca una gran batalla entre l'exèrcit català i el borbònic de Felip V. El comandant de les tropes catalanes, el marquès del Poal, va deixar escrita la narració de l'enfrontament. Amb gran detall, explicava com havia transcorregut la victòria catalana, que seria la darrera abans de la desfeta de l'Onze de setembre i de la capitulació final. En aquest capítol fem una excavació força atípica: usant la tecnologia (detectors de metalls, localitzadors de GPS,…) intentarem saber com va anar la batalla amb exactitud. Si trobem projectils i esbrinem quin exèrcit els van disparar, podrem saber si la batalla va transcórrer com descriu el marquès del Poal en el seu text i, per tant, certificar científicament que l'exèrcit català va guanyar aquell enfrontament. També buscarem unes desenes de cadàvers que, segons diu la tradició, són de soldats morts durant la batalla i que estan enterrats a la plaça del poble.</desc>
+    <length units="minutes">00:53:20</length>
+  </programme>
+  <programme start="20260917041440 +0000" channel="tv3" stop="20260917043938 +0000">
+    <title lang="ca">Boscos</title>
+    <sub-title lang="ca">Boscos - Boscos de Pi Blanc (Montserrat)</sub-title>
+    <desc lang="ca">En Martí Boada pujarà a Montserrat, una muntanya rodejada de boscos de pi blanc víctimes de dos grans incendis dels anys 80 i 90. Aprendrem com aquest tipus de pi és altament inflamable i en Marc Castellnou, bomber, explicarà com s'han de mantenir els boscos i com es regeneren en cas d'incendi. De la mà del pastor Jordi Marimon coneixerem un nou programa de recuperació de la pastura per evitar més incendis i, finalment, 'Boscos' presentarà l'Eloïsa Matheu, una gravadora d'ocells professional, que té una fonoteca amb milers de sons d'ocells que ha enregistrat per tot el món durant 20 anys.</desc>
+    <length units="minutes">00:24:58</length>
   </programme>
 </tv>
