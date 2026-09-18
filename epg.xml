@@ -3,82 +3,76 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20260917221054 +0000" channel="tvi" stop="20260917225646 +0000">
-    <title lang="ca">Polònia</title>
-    <sub-title lang="ca">822</sub-title>
-    <desc lang="ca">Carles Puigdemont (Queco Novell) s'enfronta a la seva pròpia odissea per tornar a casa, però haurà de salvar tots els impediments del jutge Llarena o dels pretendents d'Aliança que volen assaltar el seu tron. Salvador Illa (Queco Novell), assetjat pels problemes, haurà de recórrer a una tècnica d'emergència: el Super Patauón Pauante. Díaz Ayuso (Lara Díez) es defensa de les polèmiques de la Fórmula 1 i del seu àtic a ritme de 'My house', versió d''Our House' de Madness. Marlaska (Albert Mèlich) i Margarita Robles (Agnès Busquets) demanen a Pedro Sánchez (Pep Plaza) que solucioni la crisi de Ceuta, però el president no vol acusar el Marroc. Una crisi que també analitzaran una nova edició del NO-DO i Enric Juliana (Cesc Casanovas).Ada Colau (Agnès Busquets) i Gabriel Rufián (Xavi Espinosa) debatran sobre qui ha de ser el nou líder de l'esquerra, ara que Colau ha insinuat que podria tornar.En paral·lel, els perills de la IA també arriben a 'Polònia'. Una ciutadana rebrà la visita de Terminator, Donald Trump (Jordi Soriano) i Francesc Mauri (Xavi Espinosa), però no sabem si per advertir-la o condemnar-la.I també, encara amb la mirada posada en la manifestació de l'11S, el Sirla (Xavi Carreras), el Xusma (David Marcè) i la Pinxa (Alba Munuera) debatran sobre el veritable significat de celebrar la Diada.</desc>
-    <length units="minutes">00:45:52</length>
-  </programme>
-  <programme start="20260917225646 +0000" channel="tvi" stop="20260917232103 +0000">
-    <title lang="ca">Departament Amades</title>
-    <sub-title lang="ca">Departament Amades - Bruixes del Montseny</sub-title>
-    <desc lang="ca">Un incident inesperat altera greument la rutina del departament i a sobre posa en perill l'equilibri ecològic de Catalunya i la convivència pacífica amb les bruixes. Una antropòloga nova s'incorpora a l'equip.</desc>
-    <length units="minutes">00:24:17</length>
-  </programme>
-  <programme start="20260917220500 +0000" channel="324" stop="20260918000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2161</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260918000000 +0000" channel="324" stop="20260918003000 +0000">
+  <programme start="20260918022244 +0000" channel="tvi" stop="20260918040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11199</sub-title>
+    <sub-title lang="ca">11200</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">01:37:16</length>
   </programme>
-  <programme start="20260917222211 +0000" channel="esport3" stop="20260917225728 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Hoquei patins - França-Catalunya / GoldenCat masculina / J1</sub-title>
-    <desc lang="ca">La selecció catalana masculina d'hoquei patins juga contra França el primer partit a la GoldenCat.</desc>
-    <length units="minutes">00:35:17</length>
+  <programme start="20260918040000 +0000" channel="tvi" stop="20260918050000 +0000">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - EARTH ANGELS</sub-title>
+    <desc lang="ca">Els Earth Angels, una formació vocal dedicada al doo woop. Normalment el quartet es presenta a cappella, mantenint la forma tradicional d'interpretar aquest estil, tan popular durant la dècada dels 50 als Estats Units. Avui ho faran acompanyats per Josep Lluís Pérez, guitarrista, i Miguel Segura, al contrabaix. El seu repertori bascula entre el rhythmnblues vocal i l'early soul.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260917225728 +0000" channel="esport3" stop="20260917230000 +0000">
-    <title lang="ca">Pitch&amp;Cat</title>
-    <sub-title lang="ca">Pitch&amp;Cat - Rànquing del Millor Jugador de l'Any a Lloret</sub-title>
-    <desc lang="ca">La prova del Rànquing del Millor Jugador de l'Any disputada al Pitch &amp; Putt Lloret centra el protagonisme del programa. Vivim de prop els moments més destacats d'una competició d'alt nivell que va tenir com a vencedor el lleidatà Lluís Cucurull. A més, a la secció d'iniciació, els nostres professors ens descobreixen com perfeccionar el joc a l'avant green, treballant les distàncies clau dels apropaments a la bandera per guanyar precisió i confiança en una de les fases més decisives del pitch&amp;putt.</desc>
-    <length units="minutes">00:02:32</length>
+  <programme start="20260918010000 +0000" channel="324" stop="20260918060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11200</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260917222440 +0000" channel="sx3" stop="20260917224416 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Les contradiccions de la lliga de detectius júnior (1a part)</sub-title>
-    <desc lang="ca">En Conan reflexiona sobre la Masumi i el motiu pel qual va deixar Amèrica per tornar al Japó. També pensa en la Mary, la noia que la Masumi amaga al seu hotel, i en com s'assembla a l'Ai. Mentrestant, el professor Agasa convida la Lliga de Detectius Júnior a dinar a un restaurant elegant d'un centre comercial. Mentre són allà, un dels xefs és apunyalat. Els nens veuen fugir corrent el culpable, però cadascun d'ells el descriu de manera diferent.</desc>
-    <length units="minutes">00:19:36</length>
+  <programme start="20260918060000 +0000" channel="324" stop="20260918080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11201</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260917224416 +0000" channel="sx3" stop="20260917230508 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Les contradiccions de la lliga de detectius júnior (2a part)</sub-title>
-    <desc lang="ca">Poc abans de Nadal apunyalen el xef d'un restaurant situat als Grans Magatzems Beika. Hi ha tres sospitosos. En Genta, en Mitsuhiko i l'Ayumi afirmen haver vist l'agressor baixant per les escales, però les descripcions que en fan no coincideixen gens. Al final, gràcies a les hàbils deduccions d'en Conan, descobreixen que tots tres tenien raó. Quan ja tornen cap a casa a l'Ai se li escorre el rímel i a en Conan, de sobte, li recorda molt una altra persona.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20260918023917 +0000" channel="esport3" stop="20260918040221 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Handbol - Montpeller-Barça / EHF Champions / J2</sub-title>
+    <desc lang="ca">En joc, el liderat del grup E. Després de la contundent victòria contra l'Aarhus en el partit d'estrena (39-28), el campió fa el primer desplaçament. Per la seva banda, els francesos van guanyar al Dinamo de Bucarest (27-23). Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="minutes">01:23:04</length>
   </programme>
-  <programme start="20260917220006 +0000" channel="tv3" stop="20260917225139 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - La làpida</sub-title>
-    <desc lang="ca">Avui ens toca un capítol alegre: parlem de la làpida. Ja us podeu imaginar que un tros de pedra per indicar on hi havia enterrat un mort és un invent força antic i força simple. Els grecs van ser els que van incorporar els epitafis. Entrevistem a la Bruna Girvent, enginyeria i investigadora experta en intel·ligència artificial, a veure si ens aclareix d'una vegada si la intel·ligència artificial és amiga o enemiga nostra. També anem fins a París, on passegem la Roma, un gos amant de la música clàssica.</desc>
-    <length units="minutes">00:51:33</length>
+  <programme start="20260918040221 +0000" channel="esport3" stop="20260918042116 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5511</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:18:55</length>
   </programme>
-  <programme start="20260917225139 +0000" channel="tv3" stop="20260917234838 +0000">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Un planeta perfecte - El Temps</sub-title>
-    <desc lang="ca">El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.</desc>
-    <length units="minutes">00:56:59</length>
+  <programme start="20260918034702 +0000" channel="sx3" stop="20260918040809 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Fornèrix</sub-title>
+    <desc lang="ca">Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.</desc>
+    <length units="minutes">00:21:07</length>
   </programme>
-  <programme start="20260917211303 +0000" channel="tv3" stop="20260917225758 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- França-Catalunya / GoldenCat masculina / J1</sub-title>
-    <desc lang="ca">La selecció catalana masculina d'hoquei patins juga contra França el primer partit a la GoldenCat.</desc>
-    <length units="minutes">01:44:55</length>
+  <programme start="20260918040809 +0000" channel="sx3" stop="20260918042004 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - Fent de cangur</sub-title>
+    <desc lang="ca">Els avis guineu han vingut a vigilar la canalla. Mentre l'àvia surt a caminar pel bosc amb en Pinxo, la Guineta i la Trufa, l'avi es queda al cau amb en Timbal. Però l'avi té un cap que no li para mai i decideix fer algunes reparacions al cau, cosa que posarà més nerviós del compte en Timbal.</desc>
+    <length units="minutes">00:11:55</length>
+  </programme>
+  <programme start="20260918034706 +0000" channel="tv3" stop="20260918043732 +0000">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Colònies industrials:la vida a la llera del riu</sub-title>
+    <desc lang="ca">Furgar en una colònia industrial abandonada des de fa dècades. Entrar en un món on el temps s'ha aturat. Conèixer com funcionava una colònia industrial, un món tancat on centenars de famílies treballaven i vivien durant tota la vida sense gairebé sortir-ne. La maquinària de la colònia es movia gràcies a dues fonts d'energia: l'aigua del riu Llobregat, i el carbó de les mines de l'Alt Berguedà. Excavem per buscar el canal de desguàs original de la primera turbina que va tenir la colònia, i també ens endinsem en una mina per obtenir carbó a cop de pic i pala, com s'ha fet durant dècades. Per arrodonir el programa, busquem un túnel colgat, totalment desaparegut, un túnel per on circulava el tren que unia totes les colònies i transportava persones, mercaderies i carbó amunt i avall de la comarca.</desc>
+    <length units="minutes">00:50:26</length>
+  </programme>
+  <programme start="20260918043732 +0000" channel="tv3" stop="20260918050258 +0000">
+    <title lang="ca">Boscos</title>
+    <sub-title lang="ca">Boscos - Boscos d'Alzina (Collserola)</sub-title>
+    <desc lang="ca">Els boscos d'alzina són uns dels més representatius de la Mediterrània. En Martí Boada ensenyarà quins efectes tenen els incendis, les sequeres, les tales o el canvi climàtic sobre els alzinars. Joan Vilamú el portarà de visita a un autèntic laboratori enmig del bosc. Descobrirem la geneta, una animal salvatge que els romans tenien com a mascota domèstica. I en Sergi Garcia, un dels màxims experts de Catalunya en eriçons, explicarà les diferències entre l'eriçó clar i l'eriçó fosc. El divulgador científic Marc Boada mostrarà com construir una pila carbonera, la manera tradicional d'obtenir carbó vegetal.</desc>
+    <length units="minutes">00:25:26</length>
   </programme>
 </tv>
