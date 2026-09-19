@@ -1,78 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260919024318 +0000" channel="tvi" stop="20260919040000 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20260919075959 +0000" channel="tvi" stop="20260919125752 +0000">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">Curses de Muntanya - Rialp Matxicots</sub-title>
+    <desc lang="ca">16a edició d'aquesta cursa de muntanya. La prova reina de la Rialp Matxicots és la Trail de 60 km i gairebé 4.700 m. de desnivell positiu. La Mitja+ amb 30 km i 2.200 m positius és tot un repte per als amants de la mitja distància. I la Popular 15k, amb més de 1.000 m. positius, recorre el cor de la Vall d'Àssua.</desc>
+    <length units="minutes">04:57:53</length>
+  </programme>
+  <programme start="20260919125839 +0000" channel="tvi" stop="20260919131443 +0000">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Joan Picas</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="minutes">00:16:04</length>
+  </programme>
+  <programme start="20260919100000 +0000" channel="324" stop="20260919120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11209</sub-title>
+    <sub-title lang="ca">11211</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:16:42</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260919040000 +0000" channel="tvi" stop="20260919050000 +0000">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - FRANCESC CAPELLA</sub-title>
-    <desc lang="ca">Pianista i compositor, Capella té una dilatada carrera, en què ha liderat les seves pròpies formacions o ha estat 'sideman' de solistes de la talla de Scott Hamilton o Johnny Griffin. El repertori que ens presenta avui recrea el 'soul-jazz' dels anys 60. Jazz amb ritme, on es donen la mà la música de Nova Orleans, el gospel i el blues.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20260919010000 +0000" channel="324" stop="20260919060000 +0000">
+  <programme start="20260919120000 +0000" channel="324" stop="20260919143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11209</sub-title>
+    <sub-title lang="ca">11212</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260919060000 +0000" channel="324" stop="20260919070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11209</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260919100000 +0000" channel="esport3" stop="20260919115500 +0000">
+    <title lang="ca">Assemblea</title>
+    <sub-title lang="ca">Assemblea - Assemblea General Ordinària FC Barcelona / Matí</sub-title>
+    <desc lang="ca">Primera part de l'Assemblea General Ordinària de Socis del Futbol Club Barcelona. Les votacions més destacades són l'ampliació del finançament per a l'Espai Barça i la ratificació dels contractes que haurien de permetre nous ingressos per al club blaugrana.</desc>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260919024636 +0000" channel="esport3" stop="20260919041616 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Futbol sala - Barça-Peníscola / Primera Divisió / J2</sub-title>
-    <desc lang="ca">Els dos conjunts van començar el campionat amb una victòria, i volen sumar tres punts més per mantenir-se al capdavant de la classificació.</desc>
-    <length units="minutes">01:29:40</length>
+  <programme start="20260919115500 +0000" channel="esport3" stop="20260919135400 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - FC Badalona Women-Reial Societat / Lliga F / J4</sub-title>
+    <desc lang="ca">Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.</desc>
+    <length units="minutes">01:59:00</length>
   </programme>
-  <programme start="20260919041616 +0000" channel="esport3" stop="20260919060858 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Hoquei patins - Catalunya-Portugal / GoldenCat masculina / J2</sub-title>
-    <desc lang="ca">La selecció catalana masculina d'hoquei patins disputa el tercer i últim partit de la fase de lliga a la segona jornada de la GoldenCat.</desc>
-    <length units="minutes">01:52:42</length>
+  <programme start="20260919115002 +0000" channel="sx3" stop="20260919115631 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">En Grizzy i els Lèmmings - Repel·lent d'animals</sub-title>
+    <desc lang="ca">La cabana del guardabosc està equipada amb un detector d'animals perjudicials ultraeficaç capaç de detectar la presència d'un intrús i perseguir-lo enviant-li una ona que ordena al seu cervell que fugi immediatament. Ni en Grizzyni els lèmmings poden entrar a la cabana.Fins que descobreixen que el comandament a distància de l'aparell permet seleccionar el tipus d'animal interceptat per l'ona.</desc>
+    <length units="minutes">00:06:29</length>
   </programme>
-  <programme start="20260919034839 +0000" channel="sx3" stop="20260919040943 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - L'Oni-Chan</sub-title>
-    <desc lang="ca">La Lila és una alumna molt mentidera, que està avesada a aconseguir tot el que vol, i ara s'ha encapritxat de l'Adrien. Quan la Kagami, la companya d'esgrima de l'Adrien, se n'assabenta, s'enfada molt i té un atac de gelosia. L'Esfinx aprofita aquesta ràbia i gelosia per akumatitzar-la i convertir-la en l'Oni-Chan, una malvada que perseguirà la Lila allà on vagi.</desc>
-    <length units="minutes">00:21:04</length>
+  <programme start="20260919115631 +0000" channel="sx3" stop="20260919120301 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">En Grizzy i els Lèmmings - Botànica recreativa</sub-title>
+    <desc lang="ca">En Grizzy, un gran amant de la xocolata, està cultivant un petit arbre de cacau dins d'una màquina de rajos ultraviolats. Però mentre juguen a saltar per tota la cabana, els Lèmmings la trenquen per accident, provocant una reacció sobrenatural: un d'ells es transforma en un superlèmming que fa que qualsevol planta que toqui es faci gegant. En Grizzy imagina les enormes beines que podria produir el seu arbre de cacau si pogués fer-lo créixer tan sols de tocar-lo.</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20260919040943 +0000" channel="sx3" stop="20260919042138 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - Mai sense el meu germà</sub-title>
-    <desc lang="ca">El Timbal se'n va d'acampada amb en Lludó i el seu pare. I en Pinxo se sent sol i, contra tot pronòstic, se sent estrany sense tenir el seu germà al costat. Convençut que el fet de ser bessons crea un vincle especial entre ells, en Pinxo pressent que en Timbal està en perill i el vol anar a veure per estar segur que no li passa res.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20260919110123 +0000" channel="tv3" stop="20260919115425 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Alexis</sub-title>
+    <desc lang="ca">L'Alexis Averbuck fa guies de viatge per a Lonely Planet. Amb ella, hem visitat alguns dels edificis més emblemàtics de Barcelona: Santa Maria del Mar, la Biblioteca Nacional de Catalunya i un magnífic hotel modernista.</desc>
+    <length units="minutes">00:53:02</length>
   </programme>
-  <programme start="20260919032634 +0000" channel="tv3" stop="20260919041713 +0000">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Abric Romaní: l' hostal dels Neanderthals</sub-title>
-    <desc lang="ca">Buscar rastres neandertals a l'abric Romaní de Capellades. Aquest és el repte d'aquest capítol. Descobrir com vivien, com s'organitzaven, de què s'alimentaven, com es protegien… L'abric Romaní està documentat com a lloc de pas neandertal fa, aproximadament, entre 35.000 i 70.000 anys. En aquest capítol excavem el nivell corresponent a fa 60.000 anys. És a dir, que volen saber com era la vida neandertal a Capellades fa tots aquests anys. I buscarem restes, eines, el que ens pugui donar una pista. I si trobem una resta directa d'un homo neandertal, un os, ja serà històric, perquè mai a la història de l'abric Romaní s'ha fet una troballa tan important!</desc>
-    <length units="minutes">00:50:39</length>
+  <programme start="20260919115425 +0000" channel="tv3" stop="20260919124634 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Yannick et Catherine</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya en Yannick i la Catherine, dos amics francesos, en un viatge que comença i acaba al Carnaval de Solsona. Entremig, però, coneixen els llocs més espectaculars de la comarca i els indrets més turístics de Cardona.</desc>
+    <length units="minutes">00:52:09</length>
   </programme>
-  <programme start="20260919041713 +0000" channel="tv3" stop="20260919050844 +0000">
-    <title lang="ca">Fabra, diccionari d'un home sense biografia</title>
-    <sub-title lang="ca">Fabra, diccionari d'un home sense biografia - Fabra, diccionari d'un home sense biografia</sub-title>
-    <desc lang="ca">«Fabra, diccionari d'un home sense biografia» és un documental que parla de llengua, de compromís i de 80 anys cabdals de la història de Catalunya. I ho fa través de la vida d'un personatge irrepetible: Pompeu Fabra, el pare del català modern.Pompeu Fabra va ser la persona que va recosir una llengua fragmentada per convertir-la en una eina apte per a tots els usos. Però lluny de la imatge de rigidesa lingüística a la s'associa la seva figura, Fabra va ser un personatge modern, intel·lectualment brillant i connectat amb els corrents intel·lectuals de la seva època.</desc>
-    <length units="minutes">00:51:31</length>
+  <programme start="20260919080000 +0000" channel="tv3" stop="20260919125955 +0000">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">- Rialp Matxicots</sub-title>
+    <desc lang="ca">16a edició d'aquesta cursa de muntanya. La prova reina de la Rialp Matxicots és la Trail de 60 km i gairebé 4.700 m. de desnivell positiu. La Mitja+ amb 30 km i 2.200 m positius és tot un repte per als amants de la mitja distància. I la Popular 15k, amb més de 1.000 m. positius, recorre el cor de la Vall d'Àssua.</desc>
+    <length units="minutes">04:59:55</length>
+  </programme>
+  <programme start="20260919100006 +0000" channel="tv3" stop="20260919115501 +0000">
+    <title lang="ca">Assemblea</title>
+    <sub-title lang="ca">- Assemblea General Ordinària FC Barcelona / Matí</sub-title>
+    <desc lang="ca">Primera part de l'Assemblea General Ordinària de Socis del Futbol Club Barcelona. Les votacions més destacades són l'ampliació del finançament per a l'Espai Barça i la ratificació dels contractes que haurien de permetre nous ingressos per al club blaugrana.</desc>
+    <length units="minutes">01:54:55</length>
   </programme>
 </tv>
