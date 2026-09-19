@@ -1,5 +1,8 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
@@ -9,76 +12,65 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260919153804 +0000" channel="tvi" stop="20260919170650 +0000">
-    <title lang="ca">Habitacions tancades</title>
-    <sub-title lang="ca">2</sub-title>
-    <desc lang="ca">HABITACIONS TANCADESProducció: Televisió de Catalunya, Diagonal Televisió i Televisión Española, 2015Director: Lluís M. GüellProducció executiva TVC : Susanna Jiménez i Elisa PlazaProducció executiva Diagonal Televisió: Albert SagalésProducció executiva TVE: Maite PisoneroAdaptació i guió: Pere RieraDirector de fotografia: Raimon LordaMúsica original: Francesc GenerIntèrprets: Adriana Ugarte (Teresa Brusés), Alex García (Amadeu Lax), Bea Segura (Violeta Lax), Rosa Boladeras (Maria del Roser Golorons), Diana Gómez (Conxita), Raúl Peña (Joan Lax), Francesc Orella (Rodolf Lax), Ramon Madaula (Modest Lax), Jan Cornet (Octavi Conde), Toni Sevilla (Soler), Marc Cartes (Ricard Selvas), Laia Costa (Montserrat Espelleta) i Pep Antón Muñoz (Mossèn Eudald)Amadeu Lax va ser un dels més afanats pintors espanyols de principis del segle XX. La seva obra segueix, avui dia, sent reconeguda universalment i el seu talent roman indiscutible, però la descoberta, vuitanta anys després de la seva mort, d'un cadàver sepultat en una petita habitació de la seva antiga residència, fa saltar totes les alarmes. Va ser l'Amadeu Lax un artista genial o un assassí brutal? La seva néta Violeta serà l'encarregada d'esclarir tots els secrets que amaga, no només el passat insigne del seu avi, sinó el de tota la família.D'aquesta manera, serem testimonis del procés que seguirà l'Amadeu des de la seva infància fins a convertir-se en un adult que enfrontarà de manera tortuosa totes les seves relacions. Especialment aquelles que mantindrà amb cada una de les dones que apareixeran a la seva vida: la seva mare, la seva dida, les seves amants i, finalment, aquella que marcarà per sempre el seu destí, Teresa Brusés, el seu gran amor.</desc>
-    <length units="minutes">01:28:46</length>
+  <programme start="20260919210000 +0000" channel="tvi" stop="20260919220957 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7332</sub-title>
+    <length units="minutes">01:09:57</length>
   </programme>
-  <programme start="20260919170650 +0000" channel="tvi" stop="20260919173636 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Marcians - Amants del teatre, teatre amateur</sub-title>
-    <desc lang="ca">En el seu darrer musical, 'L'amor venia en taxi', La Cubana fan un homenatge al teatre amateur. No deixa de ser un homenatge a la pròpia companyia, que té les seves arrels en aquesta activitat tan estesa per tot Catalunya.En aquest reportatge fem un recorregut pel país i per diferents grups del que els 'cubaneros' anomenen teatre d'aficionats.L'iniciem amb en Rubèn Montañá un dels intèrprets i coautor de 'L'amor venia en taxi', que es va iniciar en l'ofici a través del Círcol de Badalona, una de les institucions més antigues i amb la qual encara continua vinculat, combinant professionalitat i amateurisme.D'un grup històric passem al Teatre Jove Bellver que celebra el desè aniversari. El 2016 una colla de joves de la Cerdanya al voltant dels 14 anys, va crear el seu propi grup que continua en actiu i ja ha vist com ha inspirat a una segona generació que segueix els seus passos.Molts grups de teatre amateur estan vinculats a ateneus o institucions en què hi conviuen diferents activitats. Aquest és el cas d'un altre espai més que centenari, el Centre de Llorenç del Penedès. S'hi fan produccions en què hi arriben a participar més de cent persones i l'any que acabem de deixar enrere han arribat a estrenar quatre obres diferents.I acabem aquest circuit amb un grup amb més de trenta anys d'història i dels més singulars del país. Es tracta de Tràfec Teatre, una agrupació que s'ha especialitzat en el teatre de gest i visual. Una disciplina aquí sovint vinculada a la comèdia, tot i que elles mai han conreat l'humor, sinó el drama i la tragèdia, sense pronunciar una sola paraula. Aquesta característica també els ha convertit en un dels grups amb més projecció internacional en el circuit amateur europeu.</desc>
-    <length units="minutes">00:29:46</length>
+  <programme start="20260919220720 +0000" channel="tvi" stop="20260919223345 +0000">
+    <title lang="ca">Emocionari Il·lustrat</title>
+    <sub-title lang="ca">Emocionari Il·lustrat - L'amor</sub-title>
+    <desc lang="ca">Al capítol sobre l'amor de l''Emocionari Il·lustrat', l'artista Lily Brick tindrà una conversa reveladora amb la il·lustradora Flavita Banana, la persona que millor ha retratat l'amor a les seves vinyetes i tires còmiques. Viatjarem fins a Roquetes, on l'artista Ignasi Blanch ens dibuixarà l'amor cap a la seva terra i la família. Per acabar, la Lily aprendrà a dibuixar manga amb la Míriam Bonastre, autora de la trilogia de còmics 'Hooky', que han estat un èxit aclaparador als Estats Units entre joves i nens. Juntes faran un retrat de la Lily amb uns ulls ben brillants .</desc>
+    <length units="minutes">00:26:25</length>
   </programme>
-  <programme start="20260919163000 +0000" channel="324" stop="20260919183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11213</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260919210000 +0000" channel="324" stop="20260919230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7332</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260919183000 +0000" channel="324" stop="20260919200000 +0000">
+  <programme start="20260919230000 +0000" channel="324" stop="20260920003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11214</sub-title>
+    <sub-title lang="ca">11216</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260919162500 +0000" channel="esport3" stop="20260919182400 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
-    <desc lang="ca">Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="minutes">01:59:00</length>
+  <programme start="20260919205652 +0000" channel="esport3" stop="20260919225500 +0000">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Un dia de partit - Sevilla-Barça</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">01:58:08</length>
   </programme>
-  <programme start="20260919182400 +0000" channel="esport3" stop="20260919200502 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Hoquei patins - GoldenCat masculina / 2a semifinal</sub-title>
-    <desc lang="ca">En joc, el pas a la final de la prestigiosa competició internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.</desc>
-    <length units="minutes">01:41:02</length>
+  <programme start="20260919225500 +0000" channel="esport3" stop="20260920003104 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Gol a gol - Post Sevilla-Barça / J7</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:36:04</length>
   </programme>
-  <programme start="20260919163902 +0000" channel="sx3" stop="20260919170523 +0000">
-    <title lang="ca">Fuet</title>
-    <sub-title lang="ca">Fuet - Colom arriba després del creuer a Amèrica.</sub-title>
-    <desc lang="ca">Les nostres intrèpides exploradores s'aproximen a la Terra per completar la seva missió tot i que l'Eda troba a faltar a la família. Drames a banda, exploraran la controvertida descoberta d'Amèrica amb Cristòfor Colom i la seva expedició. Després d'arribar al continent, Colom presenta als Reis Catòlics les sorpreses que ha portat, incloent-hi exòtics productes com els xilis. Això desencadena un divertit 'challenge' de tast amb el fill Garcia, que posarà a prova la seva valentia davant les picants novetats.</desc>
-    <length units="minutes">00:26:21</length>
+  <programme start="20260919214101 +0000" channel="sx3" stop="20260919220406 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El misteri del narval de dues banyes</sub-title>
+    <desc lang="ca">Mentre discuteixen què és millor, si unes banyes d'ant o unes banyes de bisó, el Martin i el Chris decideixen que la pròxima aventura animal serà conèixer millor el narval banyut de l'Àrtic. Però quan arriben allà, descobreixen que de vegades una banya no és una banya, i es posen a investigar per solucionar el misteri d'aquest animal.</desc>
+    <length units="minutes">00:23:05</length>
   </programme>
-  <programme start="20260919170523 +0000" channel="sx3" stop="20260919171621 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">Ideafix i els irreductibles - Roma a la Cova del Gamarús</sub-title>
-    <desc lang="ca">En Voldenix vol regalar un collaret a la seva estimada Dormimatina i enreda la Irreductible Turbina perquè vagi al palau de La Lloba a pispar el collaret nou de la Monalisa. Vol fer-ne una còpia mitjançant una poció de les seves i tornar l'original a la gata romana. Però com diu la Turbina, en Voldenix és tan dolent fabricant pocions com fent versos.</desc>
-    <length units="minutes">00:10:58</length>
+  <programme start="20260919220406 +0000" channel="sx3" stop="20260919221501 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Les filles del Dad - Miss Despistada</sub-title>
+    <desc lang="ca">La Panda li ha de deixar la clau de casa a l'Ondine, a qui la família anomena Miss Despistada. Aquest cop, però, l'Ondine està decidida a demostrar-los que se'n poden refiar, d'ella.... fins que perd la clau. L'Ondine fa tot el possible perquè el Dad i la Panda no se n'assabentin. Mentre li demana a l'Efix que busqui la clau, ella intenta obrir la porta amb l'ajuda del Dad i d'altres persones... I que passi el que hagi de passar.</desc>
+    <length units="minutes">00:10:55</length>
   </programme>
-  <programme start="20260919160144 +0000" channel="tv3" stop="20260919170047 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Cadis</sub-title>
-    <desc lang="ca">En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.</desc>
-    <length units="minutes">00:59:03</length>
+  <programme start="20260919210724 +0000" channel="tv3" stop="20260919220309 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Jarek i Beata</sub-title>
+    <desc lang="ca">En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.</desc>
+    <length units="minutes">00:55:45</length>
   </programme>
-  <programme start="20260919170047 +0000" channel="tv3" stop="20260919175330 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">Els quaderns de cuina de la Julie - El mercat internacional de Rungis</sub-title>
-    <desc lang="ca">La Julie es passa tota una matinada rondant pel mercat de majoristes de París. Al pavelló de triperia, en Philippe fa un guisat de galtes de porc amb sidra, mostassa i pastanaga. Al pavelló de peixateria, l'Éric fa uns lloms de bacallà fresc amb xoriço. Al sector de formatgeria, en Jean-Pierre s'encarrega de la safata de formatges. Al pavelló de verduleria, la Martine i l'Olivier són productors de créixens i en Jean-François és especialista en productes d'arreu del món amb els quals la Julie improvisarà unes postres.</desc>
-    <length units="minutes">00:52:43</length>
-  </programme>
-  <programme start="20260919160012 +0000" channel="tv3" stop="20260919165507 +0000">
-    <title lang="ca">Assemblea</title>
-    <sub-title lang="ca">- Assemblea General Ordinària FC Barcelona / Tarda</sub-title>
-    <desc lang="ca">Segona part de l'Assemblea General Ordinària del Futbol Club Barcelona. L'últim dels 10 punts a l'ordre del dia és el torn obert d'intervencions en què el president, Joan Laporta, respon les consultes directes dels socis.</desc>
-    <length units="minutes">00:54:55</length>
+  <programme start="20260919220309 +0000" channel="tv3" stop="20260919225440 +0000">
+    <title lang="ca">Esborrats del mapa</title>
+    <sub-title lang="ca">Esborrats del mapa - Esborrats del mapa</sub-title>
+    <desc lang="ca">El documental narra l'experiència d'un grup de veïns afectats per l'erupció del volcà de La Palma que, en només deu minuts, van haver de decidir què és el que salvaven de les seves llars.</desc>
+    <length units="minutes">00:51:31</length>
   </programme>
 </tv>
