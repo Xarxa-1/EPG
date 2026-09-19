@@ -3,8 +3,8 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -12,67 +12,67 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260918215952 +0000" channel="tvi" stop="20260918222840 +0000">
-    <title lang="ca">Després de tu</title>
-    <sub-title lang="ca">Després de tu - L'app</sub-title>
-    <desc lang="ca">En Pau, amb l'ajuda de l'Artur, intenta encetar algunes relacions amb una aplicació de cites, però no se n'acaba de sortir. L'Òscar comença a treballar de rider, per a disgust del seu pare. L'Alba li confessa al Pau el motiu i les paraules de l'última discussió amb la Raquel.</desc>
-    <length units="minutes">00:28:48</length>
-  </programme>
-  <programme start="20260918222840 +0000" channel="tvi" stop="20260918232234 +0000">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Documental - És a l'aire</sub-title>
-    <desc lang="ca">'ÉS A L'AIRE' (2019), una producció de Un Capricho de Producciones, S.L. en coproducció amb Televisió de Catalunya, amb el suport de Col·lectiu Ronda, l'Ajuntament del Morell i l'Ajuntament de Vilallonga del Camp.Segons l'Agència Europea del Medi Ambient, el principal focus contaminant de l'aire que respirem no és el trànsit, sinó la indústria. Al centre del Camp de Tarragona, s'hi aixeca el Complex Petroquímic de Tarragona. L'any 2012, un equip de la Universitat Politècnica de Catalunya, dirigit per Francesc Xavier Roca, va fer un estudi independent sobre la qualitat de l'aire del territori. Els resultats indicaven la presència de nivells molt alts de diferents tipus de gasos tòxics que poden arribar a provocar càncer. L'any 2015, un altre estudi d'aquest equip confirmava la presència a l'aire de substàncies malignes per a la salut. A finals de 2018, aquests científics emprenen un nou estudi sobre la contaminació atmosfèrica en aquest territori.Equip tècnicDirecció i realització: Christophe Sion / Santi SuárezGuió: Santi SuárezProductor: Belén Sánchez i Santi SuárezProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Christophe DesplanquesMuntatge: Carlos Prieto i Anaïs UrracaDirector de producció: Agnès BatlloriMúsica: David Pastor i Mario RoldánLingüista: Judit TerratsGrafisme: Adriana Perón i Kote BerberechoVeu en off: Núria Deulofeu</desc>
-    <length units="minutes">00:53:54</length>
-  </programme>
-  <programme start="20260918220500 +0000" channel="324" stop="20260918233000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2162</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:25:00</length>
-  </programme>
-  <programme start="20260918233000 +0000" channel="324" stop="20260919003000 +0000">
+  <programme start="20260919024318 +0000" channel="tvi" stop="20260919040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11208</sub-title>
+    <sub-title lang="ca">11209</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:16:42</length>
+  </programme>
+  <programme start="20260919040000 +0000" channel="tvi" stop="20260919050000 +0000">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - FRANCESC CAPELLA</sub-title>
+    <desc lang="ca">Pianista i compositor, Capella té una dilatada carrera, en què ha liderat les seves pròpies formacions o ha estat 'sideman' de solistes de la talla de Scott Hamilton o Johnny Griffin. El repertori que ens presenta avui recrea el 'soul-jazz' dels anys 60. Jazz amb ritme, on es donen la mà la música de Nova Orleans, el gospel i el blues.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260919010000 +0000" channel="324" stop="20260919060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11209</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260919060000 +0000" channel="324" stop="20260919070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11209</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260918205457 +0000" channel="esport3" stop="20260918230358 +0000">
+  <programme start="20260919024636 +0000" channel="esport3" stop="20260919041616 +0000">
     <title lang="ca">Futbol sala</title>
     <sub-title lang="ca">Futbol sala - Barça-Peníscola / Primera Divisió / J2</sub-title>
     <desc lang="ca">Els dos conjunts van començar el campionat amb una victòria, i volen sumar tres punts més per mantenir-se al capdavant de la classificació.</desc>
-    <length units="minutes">02:09:01</length>
+    <length units="minutes">01:29:40</length>
   </programme>
-  <programme start="20260918230358 +0000" channel="esport3" stop="20260918230756 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Sevilla-Barça / J7</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:03:58</length>
+  <programme start="20260919041616 +0000" channel="esport3" stop="20260919060858 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Hoquei patins - Catalunya-Portugal / GoldenCat masculina / J2</sub-title>
+    <desc lang="ca">La selecció catalana masculina d'hoquei patins disputa el tercer i últim partit de la fase de lliga a la segona jornada de la GoldenCat.</desc>
+    <length units="minutes">01:52:42</length>
   </programme>
-  <programme start="20260918220421 +0000" channel="sx3" stop="20260918222533 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - En Conan atrapat a les fosques (1a part)</sub-title>
-    <desc lang="ca">En Conan veu que un lladre intenta obrir una caixa forta, però el lladre també el descobreix a ell amagat sota una taula i el deixa estabornit. Quan es desperta, es troba lligat de peus i mans, emmordassat i tancat a les fosques en un espai molt petit. Mentrestant, l'advocat que ha estat víctima del robatori li demana al detectiu Mouri que investigui el cas.</desc>
-    <length units="minutes">00:21:12</length>
+  <programme start="20260919034839 +0000" channel="sx3" stop="20260919040943 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - L'Oni-Chan</sub-title>
+    <desc lang="ca">La Lila és una alumna molt mentidera, que està avesada a aconseguir tot el que vol, i ara s'ha encapritxat de l'Adrien. Quan la Kagami, la companya d'esgrima de l'Adrien, se n'assabenta, s'enfada molt i té un atac de gelosia. L'Esfinx aprofita aquesta ràbia i gelosia per akumatitzar-la i convertir-la en l'Oni-Chan, una malvada que perseguirà la Lila allà on vagi.</desc>
+    <length units="minutes">00:21:04</length>
   </programme>
-  <programme start="20260918222533 +0000" channel="sx3" stop="20260918224422 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - En Conan atrapat a les fosques (2a part)</sub-title>
-    <desc lang="ca">En Conan continua sense poder sortir de la mena de caixa on està tancat a les fosques, però, per sort, aconsegueix comunicar-se amb els seus amics de la Lliga de Detectius Júnior mitjançant el pin transmissor. Els diu que li sembla que l'han tancat a dins d'un taüt i que es comença a moure, com si el transportessin amb cotxe. Mentrestant, en Kogoro Mouri investiga el cas del robatori d'un testament.</desc>
-    <length units="minutes">00:18:49</length>
+  <programme start="20260919040943 +0000" channel="sx3" stop="20260919042138 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - Mai sense el meu germà</sub-title>
+    <desc lang="ca">El Timbal se'n va d'acampada amb en Lludó i el seu pare. I en Pinxo se sent sol i, contra tot pronòstic, se sent estrany sense tenir el seu germà al costat. Convençut que el fet de ser bessons crea un vincle especial entre ells, en Pinxo pressent que en Timbal està en perill i el vol anar a veure per estar segur que no li passa res.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20260918215800 +0000" channel="tv3" stop="20260918224819 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - Millors moments - setmana 3</sub-title>
-    <desc lang="ca">Els objectes destacats de la setmana han sigut: la calculadora, la barbacoa, el con i la làpida, dos objectes útils per començar la setmana i, per acabar-la, dos de més justets. També ens ha visitat el cuiner i veí nostre Nandu Jubany, en Daniel Martin, investigador encarregat de bategar noves espècies de cucs, l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi i el Mut de Ferreries, i la Bruna Girvent, investigadora en IA, com podeu veure, són programes de nivell!</desc>
-    <length units="minutes">00:50:19</length>
+  <programme start="20260919032634 +0000" channel="tv3" stop="20260919041713 +0000">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Abric Romaní: l' hostal dels Neanderthals</sub-title>
+    <desc lang="ca">Buscar rastres neandertals a l'abric Romaní de Capellades. Aquest és el repte d'aquest capítol. Descobrir com vivien, com s'organitzaven, de què s'alimentaven, com es protegien… L'abric Romaní està documentat com a lloc de pas neandertal fa, aproximadament, entre 35.000 i 70.000 anys. En aquest capítol excavem el nivell corresponent a fa 60.000 anys. És a dir, que volen saber com era la vida neandertal a Capellades fa tots aquests anys. I buscarem restes, eines, el que ens pugui donar una pista. I si trobem una resta directa d'un homo neandertal, un os, ja serà històric, perquè mai a la història de l'abric Romaní s'ha fet una troballa tan important!</desc>
+    <length units="minutes">00:50:39</length>
   </programme>
-  <programme start="20260918224819 +0000" channel="tv3" stop="20260918233252 +0000">
-    <title lang="ca">Groenlàndia, supervivència als confins de la Terra</title>
-    <sub-title lang="ca">Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...</sub-title>
-    <desc lang="ca">Al primer episodi de Groenlàndia, supervivència als confins de la Terra, caminem per la segona capa de gel més gran del món. Observem els magnífics fiords alimentats per la majestuosa glacera que tenen al darrere. A la ciutat pesquera d'Ilulissat, degustem la cuina local i veiem l'artesania antiga. Després, ens dirigim cap al llac de Tasersuatsiaq, llar del gran bou mesquer. Camí del nord amb la Kisaq, visitem mines abandonades i descobrim una tràgica història de vaixells i mariners atrapats al gel. Finalment, ens aturem a Upervanik a comprar provisions per la següent part del viatge: cap al cim del món.</desc>
-    <length units="minutes">00:44:33</length>
+  <programme start="20260919041713 +0000" channel="tv3" stop="20260919050844 +0000">
+    <title lang="ca">Fabra, diccionari d'un home sense biografia</title>
+    <sub-title lang="ca">Fabra, diccionari d'un home sense biografia - Fabra, diccionari d'un home sense biografia</sub-title>
+    <desc lang="ca">«Fabra, diccionari d'un home sense biografia» és un documental que parla de llengua, de compromís i de 80 anys cabdals de la història de Catalunya. I ho fa través de la vida d'un personatge irrepetible: Pompeu Fabra, el pare del català modern.Pompeu Fabra va ser la persona que va recosir una llengua fragmentada per convertir-la en una eina apte per a tots els usos. Però lluny de la imatge de rigidesa lingüística a la s'associa la seva figura, Fabra va ser un personatge modern, intel·lectualment brillant i connectat amb els corrents intel·lectuals de la seva època.</desc>
+    <length units="minutes">00:51:31</length>
   </programme>
 </tv>
