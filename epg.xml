@@ -1,78 +1,83 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260920040000 +0000" channel="tvi" stop="20260920050000 +0000">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - PHAT FRED</sub-title>
-    <desc lang="ca">Una de les formacions de funk més representatives d'Europa. De totes maneres, el quintet no es conforma a ser una banda de gènere i el seu so és una barreja de rock, funk, psicodèlia i jazz. Phat Fred són coneguts especialment pel seu directe, en què es deixen anar en el deliri i la improvisació creant el que ells en diuen punk-funk.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260920115256 +0000" channel="tvi" stop="20260920122928 +0000">
+    <title lang="ca">Polònia</title>
+    <sub-title lang="ca">Polònia - L'odissea de Puigdemont, a 'Polònia'</sub-title>
+    <desc lang="ca">Carles Puigdemont (Queco Novell) s'enfronta a la seva pròpia odissea per tornar a casa, però haurà de salvar tots els impediments del jutge Llarena o dels pretendents d'Aliança que volen assaltar el seu tron. Salvador Illa (Queco Novell), assetjat pels problemes, haurà de recórrer a una tècnica d'emergència: el Super Patauón Pauante. Díaz Ayuso (Lara Díez) es defensa de les polèmiques de la Fórmula 1 i del seu àtic a ritme de 'My house', versió d''Our House' de Madness. Marlaska (Albert Mèlich) i Margarita Robles (Agnès Busquets) demanen a Pedro Sánchez (Pep Plaza) que solucioni la crisi de Ceuta, però el president no vol acusar el Marroc. Una crisi que també analitzaran una nova edició del NO-DO i Enric Juliana (Cesc Casanovas).Ada Colau (Agnès Busquets) i Gabriel Rufián (Xavi Espinosa) debatran sobre qui ha de ser el nou líder de l'esquerra, ara que Colau ha insinuat que podria tornar.En paral·lel, els perills de la IA també arriben a 'Polònia'. Una ciutadana rebrà la visita de Terminator, Donald Trump (Jordi Soriano) i Francesc Mauri (Xavi Espinosa), però no sabem si per advertir-la o condemnar-la.I també, encara amb la mirada posada en la manifestació de l'11S, el Sirla (Xavi Carreras), el Xusma (David Marcè) i la Pinxa (Alba Munuera) debatran sobre el veritable significat de celebrar la Diada.</desc>
+    <length units="minutes">00:36:32</length>
   </programme>
-  <programme start="20260920050000 +0000" channel="tvi" stop="20260920060001 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Jazz a l'estudi - Martí Serra</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">01:00:01</length>
-  </programme>
-  <programme start="20260920010000 +0000" channel="324" stop="20260920060000 +0000">
+  <programme start="20260920122823 +0000" channel="tvi" stop="20260920142955 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11217</sub-title>
+    <sub-title lang="ca">11220</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:01:32</length>
   </programme>
-  <programme start="20260920060000 +0000" channel="324" stop="20260920070000 +0000">
+  <programme start="20260920120000 +0000" channel="324" stop="20260920143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11217</sub-title>
+    <sub-title lang="ca">11220</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260920023459 +0000" channel="esport3" stop="20260920043104 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
-    <desc lang="ca">Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="minutes">01:56:05</length>
+  <programme start="20260920143000 +0000" channel="324" stop="20260920163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7334</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260920043104 +0000" channel="esport3" stop="20260920062409 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - FC Badalona Women-Reial Societat / Lliga F / J4</sub-title>
-    <desc lang="ca">Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.</desc>
-    <length units="minutes">01:53:05</length>
+  <programme start="20260920115315 +0000" channel="esport3" stop="20260920134630 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Hoquei patins - GoldenCat femenina / Final</sub-title>
+    <desc lang="ca">Desenllaç a la competició femenina del prestigiós torneig internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.</desc>
+    <length units="minutes">01:53:15</length>
   </programme>
-  <programme start="20260920035956 +0000" channel="sx3" stop="20260920041001 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Pop, la ciutat de paper - Entrebancs amb un tresor</sub-title>
-    <desc lang="ca">A l'aventura d'avui, la Mà Amiga ha organitzat la recerca d'un tresor. La lidera el pirata Plom. La Phoebe li diu al Plom que es prepari per l'aventura, però el Plom, que està molt emocionat, vol marxar de seguida i s'equivoca de camí, i aviat s'adona que no sap on són. Serà capaç el pirata Plom de guiar els seus amics fins al tresor i després tornar cap a casa?</desc>
-    <length units="minutes">00:10:05</length>
+  <programme start="20260920134630 +0000" channel="esport3" stop="20260920162000 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">E3D - Festa al cel</sub-title>
+    <desc lang="ca">Aquest festival aeri és el més antic i important de l'Estat espanyol. El campionat d'aviació, que en els últims anys s'ha consolidat a Salou, és tot un espectacle de velocitat, perícia i tecnologia. La Festa al Cel.</desc>
+    <length units="minutes">02:33:30</length>
   </programme>
-  <programme start="20260920041001 +0000" channel="sx3" stop="20260920042155 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - En Martís mana</sub-title>
-    <desc lang="ca">En Pinxo cedeix el seu lloc de cap de la colla a en Martís per anar a buscar nous a una noguera que n'és plena a vessar i evitar que els gats del poble se les quedin totes. Pel camí, en Martís s'haurà de guanyar el respecte de la Guineta i en Timbal, que en un principi se'l prenen a broma.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20260920120941 +0000" channel="sx3" stop="20260920121611 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">En Grizzy i els Lèmmings - Os a règim</sub-title>
+    <desc lang="ca">La nevera de la cabana és diferent: ha estat substituïda per un aparell d'última generació que calcula el percentatge de greix corporal de tot aquell que se'n vol servir i fa una preselecció del menjar més adequat per a cadascú. Pel que fa a en Grizzy, ni parlar-ne de tastar la crema de xocolata amb avellanes ni els refrescos. A diferència d'ell, els lèmmings estan encantats amb les noves utilitats de la nevera.</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20260920035128 +0000" channel="tv3" stop="20260920041313 +0000">
-    <title lang="ca">Nens de la ruta de la seda</title>
-    <sub-title lang="ca">Nens de la ruta de la seda - Una nena lluny de casa</sub-title>
-    <desc lang="ca">La Nastia (13) és la capitana d'un equip professional de gimnàstica a Kíiv. Les noies de l'equip són les seves millors amigues. Juntes guanyen el campionat nacional de gimnàstica rítmica i tot va millor que mai. Un mes més tard, esclata la guerra a Ucraïna i la Nastia s'ha de mudar amb la seva àvia a Alemanya. Ara la Nàstia ha de construir-se una nova vida lluny dels seus pares i de les seves amigues. No sap quan podrà tornar a Kíiv ni quan podrà tornar a veure els seus pares i les seves amigues. A la Nastia, l'espera a Alemanya se li fa molt llarga, però quan s'uneix a l'equip alemany de gimnàstica, la vida comença a ser bonica de nou.</desc>
-    <length units="minutes">00:21:45</length>
+  <programme start="20260920121611 +0000" channel="sx3" stop="20260920122241 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">En Grizzy i els Lèmmings - Lluita lliure al sofà</sub-title>
+    <desc lang="ca">Els Lèmmings organitzen un combat de lluita lliure al sofà del menjador. Però en Grizzy, cansat de tant d'enrenou, deté el combat. Els Lèmmings, molestos, s'hi encaren, però durant la baralla el terra de fusta de la cabana cedeix i tots cauen al buit. És llavors quan troben unes màscares de lluita lliure màgiques: en Grizzy, dos Lèmmings i un ocell es preparen per lluitar en un combat despietat.</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20260920041313 +0000" channel="tv3" stop="20260920043303 +0000">
-    <title lang="ca">Nens de la ruta de la seda</title>
-    <sub-title lang="ca">Nens de la ruta de la seda - Les millors amigues</sub-title>
-    <desc lang="ca">L'Emine (10) viu en un petit poble al nord-est de Turquia. Ella i la seva millor amiga, l'Eda Nur (11) veuen a les notícies que acaba d'haver-hi un fort terratrèmol a 400 km del poble on viuen. Amb el temor, de fons, de la possibilitat de viure un terratrèmol, coneixem les vicissituds de la seva amistat. Les dues noies s'estan preparant per al seu primer concert de sac de gemecs tradicional turc, però l'Emine està gelosa de les habilitats de l'Eda Nur i això fa que la seva amistat perilli.</desc>
-    <length units="minutes">00:19:50</length>
+  <programme start="20260920120202 +0000" channel="tv3" stop="20260920125412 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Mary Jean i Kelly</sub-title>
+    <desc lang="ca">La Mary Jean Jecklin i el Kelley Rea són un matrimoni dels Estats Units a qui l'any 2012 la revista National Geographic va anomenar viatgers de l'any. La Ivana Miño s'ha proposat que viatgin per Catalunya i els acompanya a descobrir el Montseny, l'Anoia i el Penedès.</desc>
+    <length units="minutes">00:52:10</length>
+  </programme>
+  <programme start="20260920125412 +0000" channel="tv3" stop="20260920134112 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El compàs</sub-title>
+    <desc lang="ca">Tots hem fet servir el compàs durant la nostra època escolar. Alguns amb més destresa que d'altres, però tots l'hem fet servir alguna vegada per punxar la goma d'esborrar. En això segur que coincidim. Els músics també en fan servir un de compàs, però no és el mateix. Ens visita en Llorenç Barba, responsable del refugi Vicenç Barber de Montserrat. Fa'passejades' de 45 minuts fins al refugi diàriament pujant més de 200 kg a l'esquena cada setmana. A 'Històries per passejar el gos' anem amb la Dobby fins al 1960, a la catàstrofe de Nedelin.</desc>
+    <length units="minutes">00:47:00</length>
+  </programme>
+  <programme start="20260920120000 +0000" channel="tv3" stop="20260920145955 +0000">
+    <title lang="ca">Acte esportiu</title>
+    <sub-title lang="ca">- Festa al cel</sub-title>
+    <desc lang="ca">Aquest festival aeri és el més antic i important de l'Estat espanyol. El campionat d'aviació, que en els últims anys s'ha consolidat a Salou, és tot un espectacle de velocitat, perícia i tecnologia. La Festa al Cel.</desc>
+    <length units="minutes">02:59:55</length>
   </programme>
 </tv>
