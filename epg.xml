@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -15,62 +15,64 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260920210000 +0000" channel="tvi" stop="20260920230717 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7333</sub-title>
-    <length units="minutes">02:07:17</length>
+  <programme start="20260921040000 +0000" channel="tvi" stop="20260921050000 +0000">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - EMILI BALERIOLA BLUES QUINTET</sub-title>
+    <desc lang="ca">Baleriola és un guitarrista veterà que fa més de quatre dècades que fa música. La seva versatilitat l'ha convertit en un músic sense complexos, fresc i espontani. Després del seu darrer àlbum, 'Jazz-Rock Trio', el guitarrista ens presenta el seu nou material amb accent de blues.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260920230717 +0000" channel="tvi" stop="20260920233953 +0000">
-    <title lang="ca">30 minuts</title>
-    <sub-title lang="ca">30 minuts - La terra crema</sub-title>
-    <desc lang="ca">Pagesos i bombers s'alien per fer front als nous incendis que ens porta el canvi climàtic: focs simultanis, més intensos, ràpids i imprevisibles. L'estiu del 2026 n'ha estat un bon exemple.</desc>
-    <length units="minutes">00:32:36</length>
+  <programme start="20260921050000 +0000" channel="tvi" stop="20260921060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Jazz a l'estudi - Amadeu Casas</sub-title>
+    <desc lang="ca">Pioner del blues al nostre país i figura del rhythm and blues, gira habitualment amb Quico Pi de la Serra.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260920210000 +0000" channel="324" stop="20260920230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7333</sub-title>
+  <programme start="20260921010000 +0000" channel="324" stop="20260921060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11225</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20260921060000 +0000" channel="324" stop="20260921080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11226</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260920230000 +0000" channel="324" stop="20260921003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11224</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260921025811 +0000" channel="esport3" stop="20260921044013 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - Reus FC Reddis-Náxara CD / Segona Federació / J3</sub-title>
+    <desc lang="ca">Els roig-i-negres volen estrenar el caseller de punts contra un rival que també ha perdut els dos primers partits del campionat. Amb la narració de Jordi Sunyer i l'anàlisi d'Àlex Delmàs.</desc>
+    <length units="minutes">01:42:02</length>
   </programme>
-  <programme start="20260920215013 +0000" channel="esport3" stop="20260920223804 +0000">
-    <title lang="ca">Motor a fons</title>
-    <sub-title lang="ca">Motor a fons - GP d'Àustria</sub-title>
-    <desc lang="ca">Quinzena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <length units="minutes">00:47:51</length>
+  <programme start="20260921044013 +0000" channel="esport3" stop="20260921050511 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5514</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:24:58</length>
   </programme>
-  <programme start="20260920223804 +0000" channel="esport3" stop="20260920230000 +0000">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">1080</sub-title>
-    <desc lang="ca">El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
-    <length units="minutes">00:21:56</length>
+  <programme start="20260921035642 +0000" channel="sx3" stop="20260921040647 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Pop, la ciutat de paper - Al cim de la muntanya</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, els amics fan una cursa d'orientació per la muntanya! Qui arribi abans al cim de la Muntanya del Pic Pop guanyarà un premi especial. La Mae-Mae està decidida a guanyar, però, com que no mira el mapa, la ruta fins al cim se li complica. Podrà dur el seu equip fins al capdamunt de la muntanya?</desc>
+    <length units="minutes">00:10:05</length>
   </programme>
-  <programme start="20260920214110 +0000" channel="sx3" stop="20260920220148 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - L'ós de Kermode</sub-title>
-    <desc lang="ca">Els germans Kratt van a l'Illa dels Óssos per veure de prop óssos negres i l'Aviva veu un ós de color blanc. Aviat s'adonen que el que ha vist és el peculiar ós de Kermode del nord del Pacífic. Però la seva alegria queda eclipsada quan coneixen una nova malvada, la Paisley Paviment, Directora General de Pavimentem la Natura SA i descobreixen els seus plans de convertir l'illa en unes enormes instal·lacions de megamagatzems.</desc>
-    <length units="minutes">00:20:38</length>
+  <programme start="20260921040647 +0000" channel="sx3" stop="20260921041842 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - Un espectacle preciós</sub-title>
+    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20260920220148 +0000" channel="sx3" stop="20260920221243 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Les filles del Dad - La nova feina</sub-title>
-    <desc lang="ca">El Dad torna a casa després d'un nou càsting en què no li han donat el paper, i les seves filles li suggereixen que busqui una feina que no sigui d'actor. I no en trobarà només una, sinó que en seran tres, les feines que haurà de compaginar. Però aleshores les seves filles s'adonen que, mentre el Dad treballa, totes les tasques domèstiques queden pendents... i les han de fer elles.</desc>
-    <length units="minutes">00:10:55</length>
+  <programme start="20260921035856 +0000" channel="tv3" stop="20260921042342 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Volcans i homes - El Sakurajima. Viure sota la cendra</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta aI Japó, a l'illa de Kyushu, on hi ha el volcà Sakurajima. Entre d'altres coses, l'acompanyarem en la seva visita a la ciutat de Kagoshima, un lloc on els seus habitants han de netejar cada dia la cendra que els arriba del volcà i on es conreen els raves més grossos del món. També el seguirem per un túnel de 200 metres que s'endinsa dins del volcà fins a tocar del magma i en un simulacre d'evacuació que mobilitza cada any 7.000 persones.</desc>
+    <length units="minutes">00:24:46</length>
   </programme>
-  <programme start="20260920210817 +0000" channel="tv3" stop="20260920220107 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Annabel</sub-title>
-    <desc lang="ca">Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.</desc>
-    <length units="minutes">00:52:50</length>
-  </programme>
-  <programme start="20260920220107 +0000" channel="tv3" stop="20260920224454 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - El Caire</sub-title>
-    <desc lang="ca">La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.</desc>
-    <length units="minutes">00:43:47</length>
+  <programme start="20260921042342 +0000" channel="tv3" stop="20260921044819 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Volcans i homes - L'Unzen. Homes contra un gegant</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta aI Japó, a l'illa de Kyushu, on hi ha el volcà Unzen, que és un volcà que, històricament, ha causat molts danys per mitjà dels núvols roents. Entre d'altres coses, l'acompanyarem en les seves entrevistes amb científics i amb persones afectades pels núvols roents. També veurem amb quina tecnologia sofisticada els habitants es protegeixen de les colades de fang, que és un altre gran perill, i a la ciutat d'Obama veurem quines utilitats pràctiques donen a l'aigua i el vapor que sorgeixen pertot arreu.</desc>
+    <length units="minutes">00:24:37</length>
   </programme>
 </tv>
