@@ -1,81 +1,84 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260921103007 +0000" channel="tvi" stop="20260921135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1812</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:53</length>
+  <programme start="20260921190919 +0000" channel="tvi" stop="20260921201500 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">928</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:05:41</length>
   </programme>
-  <programme start="20260921135500 +0000" channel="tvi" stop="20260921142959 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7038</sub-title>
-    <length units="minutes">00:34:59</length>
+  <programme start="20260921201500 +0000" channel="tvi" stop="20260921210000 +0000">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">1814</sub-title>
+    <desc lang="ca">L'Òscar Andreu i el Queco parlaran de les eleccions a Alemanya i Rússia. El Marc Sarrats parla de Donald Trump i la premsa. I la Judit Martín es converteix en la mascota de la setmana del llibre en Català</desc>
+    <length units="minutes">00:45:00</length>
   </programme>
-  <programme start="20260921120000 +0000" channel="324" stop="20260921135500 +0000">
+  <programme start="20260921183000 +0000" channel="324" stop="20260921200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11228</sub-title>
+    <sub-title lang="ca">11231</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260921135500 +0000" channel="324" stop="20260921143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7038</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20260921200000 +0000" channel="324" stop="20260921210000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11232</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260921130009 +0000" channel="esport3" stop="20260921140107 +0000">
+  <programme start="20260921185955 +0000" channel="esport3" stop="20260921203155 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">1007</sub-title>
+    <desc lang="ca">Ja ha tornat. El tècnic del Madrid, José Mourinho, carrega contra els àrbitres després de perdre el derbi madrileny. En parlarem amb Dani Senabre i Gemma Mallorca, i hi posarem la lupa del 'VARòmetre', amb Joan Fàbregas. Amb Ricard Torquemada ens preguntarem si Raphinha és el millor 9 que pot tenir el Barça i anirem al balcó de l'Ajuntament de Badalona, amb Ernest Macià, per celebrar la Supercopa de la Penya.</desc>
+    <length units="minutes">01:32:00</length>
+  </programme>
+  <programme start="20260921203155 +0000" channel="esport3" stop="20260921210503 +0000">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">3244</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:00:58</length>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:33:08</length>
   </programme>
-  <programme start="20260921140107 +0000" channel="esport3" stop="20260921150220 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3244</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:13</length>
+  <programme start="20260921185722 +0000" channel="sx3" stop="20260921191944 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La Fada dels Somnis</sub-title>
+    <desc lang="ca">La mare del Max està a punt de marxar a una missió a l'espai i, durant unes quantes setmanes, l'adolescent haurà d'aprendre a viure sense ella. Quan la Marinette se n'assabenta, busca una idea perquè el Max visqui bé la separació. Però la idea de la Marinette encara es complica més per l'arribada d'una supermalvada que els causarà malsons.</desc>
+    <length units="minutes">00:22:22</length>
   </programme>
-  <programme start="20260921130309 +0000" channel="sx3" stop="20260921132421 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Un cas d'ovnis difícil per a l'inspector Chiba (2a part)</sub-title>
-    <desc lang="ca">L'inspector Chiba té problemes perquè, per culpa seva, en Kogoro Mouri ha xerrat massa i la premsa ha publicat unes filtracions que diuen que la policia vol amagar el cas d'un assassinat comès per un extraterrestre. Quan va al despatx del detectiu per queixar-se, en Conan li dona una idea per desencallar la investigació. Amb una sola visita a cal sospitós, en Conan comença a fer deduccions i no para fins que resol el cas.</desc>
-    <length units="minutes">00:21:12</length>
+  <programme start="20260921191944 +0000" channel="sx3" stop="20260921194307 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Riginarazione</sub-title>
+    <desc lang="ca">Quan s'acosta el 75è aniversari dels seus avis, la Marinette rep una notícia que trasbalsarà la seva vida i la de la seva família.</desc>
+    <length units="minutes">00:23:23</length>
   </programme>
-  <programme start="20260921132421 +0000" channel="sx3" stop="20260921134610 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - La contrasenya del formulari de matrimoni (1a part)</sub-title>
-    <desc lang="ca">La Yumi ha anat a un restaurant italià amb la Miwako Sato. Allà li ha comentat que fa temps en Shukichi li va donar un sobre i li va demanar que el guardés. Mentre passegen, la Yumi descobreix per casualitat que en Shukichi és en realitat un gran mestre de shogi. Quan busca el sobre no el troba, i el conserge de l'edifici on viu no li posarà les coses gens fàcils.</desc>
-    <length units="minutes">00:21:49</length>
+  <programme start="20260921184637 +0000" channel="tv3" stop="20260921191223 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Volcans i homes - Els llacs volcànics en terra maori</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.</desc>
+    <length units="minutes">00:25:46</length>
   </programme>
-  <programme start="20260921124132 +0000" channel="tv3" stop="20260921134245 +0000">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Dictat, VIP - El Gran Gran Dictat</sub-title>
-    <desc lang="ca">'El gran gran dictat', la versió estiuenca del concurs de TV3 que presenta Òscar Dalmau, serà l'escenari que trepitjaran aquesta setmana tres grans actors: Clara Segura, David Fernández i Laia Costa. L'actriu de 'Porca Misèria' i 'Mar adentro' compartirà taula amb el famós Rodolfo Chikilicuatre i la Rym de 'Polseres vermelles'.</desc>
-    <length units="minutes">01:01:13</length>
+  <programme start="20260921191223 +0000" channel="tv3" stop="20260921200226 +0000">
+    <title lang="ca">Alaska salvatge</title>
+    <sub-title lang="ca">Alaska salvatge - Hivern</sub-title>
+    <desc lang="ca">Un terç d'Alaska és dins del cercle polar àrtic, cosa que fa que l'hivern hi sigui una estació especialment dura, marcada per un fred intensíssim, que congela totes les masses d'aigua, i fins tot el mar. A més, la claror disminueix radicalment, sobretot a l'extrem nord, on el sol es pon durant més de dos mesos. Amb tot, la notable resistència dels habitants d'Alaska els permet suportar els rigors de l'hivern de maneres enginyoses, ja sigui hivernant o buscant fonts d'aliment alternatives</desc>
+    <length units="minutes">00:50:03</length>
   </programme>
-  <programme start="20260921134245 +0000" channel="tv3" stop="20260921141304 +0000">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">No tenim vergonya - NTV 40 Anys Esports (5)</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:30:19</length>
-  </programme>
-  <programme start="20260921105846 +0000" channel="tv3" stop="20260921135841 +0000">
-    <title lang="ca">Mazón compareix a la comissió del Congrés per la dana</title>
-    <sub-title lang="ca">4122</sub-title>
-    <length units="minutes">02:59:55</length>
+  <programme start="20260921185900 +0000" channel="tv3" stop="20260921203000 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">1007</sub-title>
+    <desc lang="ca">Ja ha tornat. El tècnic del Madrid, José Mourinho, carrega contra els àrbitres després de perdre el derbi madrileny. En parlarem amb Dani Senabre i Gemma Mallorca, i hi posarem la lupa del 'VARòmetre', amb Joan Fàbregas. Amb Ricard Torquemada ens preguntarem si Raphinha és el millor 9 que pot tenir el Barça i anirem al balcó de l'Ajuntament de Badalona, amb Ernest Macià, per celebrar la Supercopa de la Penya.</desc>
+    <length units="minutes">01:31:00</length>
   </programme>
 </tv>
