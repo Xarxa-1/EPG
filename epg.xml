@@ -1,78 +1,86 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260922040000 +0000" channel="tvi" stop="20260922050000 +0000">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - SHARK</sub-title>
-    <desc lang="ca">Cinc veus, cinc instrumentistes que són un reflex del panorama actual barceloní. Partint de les composicions del trombonista Tom Johnson, els Shark es deixen anar en una improvisació explosiva, que sorprèn i et convida a vibrar amb el seu groove. En la gravació d'avui podrem gaudir del seu so sòlid, fluid, delicat i alhora punyent.</desc>
-    <length units="minutes">01:00:00</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260922102948 +0000" channel="tvi" stop="20260922135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1813</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:25:12</length>
   </programme>
-  <programme start="20260922050000 +0000" channel="tvi" stop="20260922060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Jazz a l'estudi - Gorka Benitez</sub-title>
-    <desc lang="ca">Ha estat premiat diverses vegades per l'Associació de Músics de Jazz i Música Moderna com a millor saxofonista, millor disc i millor grup.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260922135500 +0000" channel="tvi" stop="20260922143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7039</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260922010000 +0000" channel="324" stop="20260922060000 +0000">
+  <programme start="20260922103000 +0000" channel="324" stop="20260922123000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11234</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20260922060000 +0000" channel="324" stop="20260922080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11235</sub-title>
+    <sub-title lang="ca">11236</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260922040957 +0000" channel="esport3" stop="20260922042840 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5515</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:18:43</length>
+  <programme start="20260922123000 +0000" channel="324" stop="20260922133000 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">258</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260922042840 +0000" channel="esport3" stop="20260922054908 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">E3D - Skate / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">01:20:28</length>
+  <programme start="20260922112904 +0000" channel="esport3" stop="20260922130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1252</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
+    <length units="minutes">01:30:56</length>
   </programme>
-  <programme start="20260922035040 +0000" channel="sx3" stop="20260922041131 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Fèlix</sub-title>
-    <desc lang="ca">Avui fa un any que es va morir la mare de l'Adrien, i els seus amics decideixen enviar-li un vídeo per dir-li que pensen en ell i que li fan costat. El problema és que qui veu el vídeo no és l'Adrien, sinó el seu cosí Félix, que se li assembla molt. L'Esfinx aprofitarà la confusió per intentar aconseguir, un cop més, els prodigis de Ladybug i el Gat Noir.</desc>
-    <length units="minutes">00:20:51</length>
+  <programme start="20260922130000 +0000" channel="esport3" stop="20260922140113 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3245</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:13</length>
   </programme>
-  <programme start="20260922041131 +0000" channel="sx3" stop="20260922042326 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - La festa de pijames</sub-title>
-    <desc lang="ca">En Timbal ha quedat per passar la nit a cal seu amic Lludó i, com que el seu llit quedarà buit, la Guineta i en Pinxo ho volen aprofitar per convidar un amic a dormir a casa seva. Tots dos fan la gara-gara a l'Edmond perquè els doni permís i se'n surten. Però el problema és que només hi ha lloc per a l'amic de l'un o de l'altre.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20260922121309 +0000" channel="sx3" stop="20260922123453 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - La mare cocodril</sub-title>
+    <desc lang="ca">En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!</desc>
+    <length units="minutes">00:21:44</length>
   </programme>
-  <programme start="20260922040408 +0000" channel="tv3" stop="20260922042539 +0000">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Caçadors de paraules - Amb la llengua fora</sub-title>
-    <desc lang="ca">El capítol de 'Caçadors de paraules' dedicat a l'esport comença justament en un partit del Barça i demanant-se quines són les principals aportacions de l'esport a la parla de cada dia. En Roger de Gràcia entrevista diversos locutors esportius tot buscant els seus secrets com a creadors de llenguatge i homenatja el pare de tots ells: Joaquim Maria Puyal. Però no només de futbol viu l'home: també hi ha -per als homes perpinyanesos i els valencians- el rugbi i la pilota. 'Caçadors de paraules' viatja a Perpinyà, per veure i sentir un partit de l'equip local, la cèlebre USAP, i a València, on entrevista en Genovès, segurament el més mític dels jugadors de pilota valenciana.</desc>
-    <length units="minutes">00:21:31</length>
+  <programme start="20260922123453 +0000" channel="sx3" stop="20260922125658 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Balenes i calamars</sub-title>
+    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
+    <length units="minutes">00:22:05</length>
   </programme>
-  <programme start="20260922042539 +0000" channel="tv3" stop="20260922044748 +0000">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Caçadors de paraules - Som bons insultadors els catalans?</sub-title>
-    <desc lang="ca">Som bons insultadors, els catalans?És prou contundent, el català, per destruir només amb paraules? Sabem fer prou mal, insultant en català? En Roger de Gràcia recorre pobles i ciutats buscant ofenses dignes de ser respostes, provocant renecs i demanant guerra,guerra verbal, s'entén. Al llarg del seu viatge, en Roger caça insults clàssics i moderns, atàvics i d'importació, suaus o amb una càrrega de profunditat. Passa per Xàtiva, on l'escriptor Toni Cucarella l'introdueix en el món apassionant de l'insult hortofructícola de baixa intensitat, i s'acosta a Alcoi en plena festa de Moros i Cristians...És ofensiva, en aquest context, la paraula 'moro'? En Roger investiga l'origen de l'apel·latiu 'polacos', emula el capità Haddock i fa una incursió al planeta ESO... Són inofensius els insults adolescents?</desc>
-    <length units="minutes">00:22:09</length>
+  <programme start="20260922122325 +0000" channel="tv3" stop="20260922122752 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Llom de senglar amb moniato, vainilla i cafè</sub-title>
+    <desc lang="ca">Dificultat: mitjanaTemps d'elaboració: 1 horaProducte principal: senglarTemporada: tardor/hivern</desc>
+    <length units="minutes">00:04:27</length>
+  </programme>
+  <programme start="20260922122752 +0000" channel="tv3" stop="20260922133720 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Dictat, VIP - El Gran Gran Dictat</sub-title>
+    <desc lang="ca">'El gran gran dictat', la versió estiuenca del concurs de TV3 que presenta Òscar Dalmau, tanca la temporada d'estiu amb el mateix sentit de l'humor que ha caracteritzat les entregues anteriors. L'actriu Sílvia Abril, el presentador d''Òpera en texans', Ramon Gener, i la col·laboradora del programa 'Divendres' Ana Boadas seran els encarregats de tancar aquestes edicions especials d'una hora que han animat el prime-time de la cadena durant els dilluns d'estiu.</desc>
+    <length units="minutes">01:09:28</length>
+  </programme>
+  <programme start="20260922122500 +0000" channel="tv3" stop="20260922142955 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">4124</sub-title>
+    <length units="minutes">01:59:55</length>
+  </programme>
+  <programme start="20260922122500 +0000" channel="tv3" stop="20260922142955 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
+    <sub-title lang="ca">4125</sub-title>
+    <length units="minutes">01:59:55</length>
   </programme>
 </tv>
