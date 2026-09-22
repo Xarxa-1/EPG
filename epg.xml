@@ -1,5 +1,11 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
@@ -9,70 +15,64 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20260922172737 +0000" channel="tvi" stop="20260922191151 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">414</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:44:14</length>
+  <programme start="20260922220724 +0000" channel="tvi" stop="20260922231103 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - Catalunya-Madrid: La veritat de dos models econòmics</sub-title>
+    <desc lang="ca">'Catalunya-Madrid: La veritat de dos models econòmics' 2026. Una producció de 3Cat amb la col·laboració de Statement City.Durant dècades, Catalunya s'ha considerat la locomotora econòmica d'Espanya. Avui, Madrid ocupa la primera posició en aportació al PIB estatal. Com ha aconseguit superar Catalunya? Es beneficia de ser la capital? El procés independentista ha afectat l'economia catalana? Són els baixos impostos de Madrid un factor d'atracció d'empreses i grans fortunes? I fins a quin punt el dèficit d'infraestructures condiciona el creixement català? 'Catalunya - Madrid: La veritat de dos models econòmics' parteix d'aquestes preguntes per confrontar les dues principals economies de l'Estat i entendre les claus de la seva evolució. Al capdavant de les dues visions, Salvador Illa i Isabel Díaz Ayuso defensen els models econòmics que representen Catalunya i Madrid. A través de dades, gràfiques i les veus d'empresaris, economistes i treballadors, el documental analitza qüestions decisives com la fiscalitat, l'efecte capitalitat, les infraestructures, les privatitzacions de les antigues empreses públiques o el trasllat de seus empresarials arran del procés independentista. El documental no busca proclamar un guanyador, sinó entendre per què Madrid ha crescut més i quines fortaleses conserva Catalunya, i preguntar quin dels dos models està més ben preparat per a una economia cada vegada més determinada per la innovació, el talent i la tecnologia.Equip:Direcció: Jordi FustéGuió: Jordi Fusté, Jordi PortalsRealització i Direcció de fotografia: Josep BadellDirecció de producció: Gloria GonzálezProducció executiva Statement City: Ferran DebantProducció executiva 3Cat: David Bassa, Sílvia Pairó Vila, Coordinació de continguts 3Cat: Montse Armengou Martín Producció delegada 3Cat: Marta Rigau JordiResponsable d'imatge 3Cat: Xavier García BalañàCoordinació de continguts Statement City: Jordi Finazzi</desc>
+    <length units="minutes">01:03:39</length>
   </programme>
-  <programme start="20260922191151 +0000" channel="tvi" stop="20260922201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">929</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:03:09</length>
+  <programme start="20260922231115 +0000" channel="tvi" stop="20260923000954 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - Poliamor. Més enllà de la monogàmia</sub-title>
+    <desc lang="ca">'Poliamor. Més enllà de la monogàmia' (2022) és una producció de Televisió de Catalunya produïda per La Lupa Produccions SL.Què hi ha més enllà de la monogàmia?Trielles, anarquia relacional, relacions en forma de V… Qui ho ha dit que només hi pot haver una vida amorosa plena en la monogàmia? 'Poliamor. Més enllà de la monogàmia' ens presenta les experiències de persones que viuen les seves relacions sexoafectives sense exclusivitat. Gelosia, pors, sexe, fills, família? Els detalls, al documental.Fitxa tècnicaDirecció: Marta Palacín i Oriol Gispert Guió: Marta Palacín, Oriol Gispert i Carla Moreno Realització: Producció executiva: Marta Palacín i Oriol Gispert Productor: Producció i investigació: Carla Moreno i Alejandra CéspedesDirector executiu TVC: Montse Armengou MartínProductor executiu TVC: Sílvia Pairó VilaDirector fotografia: Oriol Bosch CastelletMuntatge: Bernat de FerrerGrafisme: Núria YebraCorporació Catalana de Mitjans Audiovisuals, SA 2022</desc>
+    <length units="minutes">00:58:39</length>
   </programme>
-  <programme start="20260922170000 +0000" channel="324" stop="20260922183000 +0000">
+  <programme start="20260922220500 +0000" channel="324" stop="20260923000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2164</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260923000000 +0000" channel="324" stop="20260923003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11239</sub-title>
+    <sub-title lang="ca">11242</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260922183000 +0000" channel="324" stop="20260922200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11240</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260922220047 +0000" channel="esport3" stop="20260922230000 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
+    <desc lang="ca">Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
+    <length units="minutes">00:59:13</length>
   </programme>
-  <programme start="20260922173301 +0000" channel="esport3" stop="20260922175901 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Top gols La Lliga - Jornada 7</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:26:00</length>
+  <programme start="20260922230000 +0000" channel="esport3" stop="20260923003049 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1253</sub-title>
+    <desc lang="ca">Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.</desc>
+    <length units="minutes">01:30:49</length>
   </programme>
-  <programme start="20260922175901 +0000" channel="esport3" stop="20260922185950 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3245</sub-title>
-    <desc lang="ca">Arriba la Nations League de futbol i, amb aquesta competició de seleccions, els debuts de Xavi, Zidane i Klopp a les banquetes de Països Baixos, França i Alemanya.</desc>
-    <length units="minutes">01:00:49</length>
+  <programme start="20260922222237 +0000" channel="sx3" stop="20260922224119 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Visita als inferns de l'amor (Episodi d'Oita)</sub-title>
+    <desc lang="ca">En Kogoro Mouri convida la Ran i en Conan a anar a visitar la ciutat termal de Beppu, però l'autèntic propòsit d'en Kogoro és buscar la filla d'un empresari molt important que ha desaparegut. Troben la noia i avisen el pare, però, quan arriba ell, la seva filla ha tornat a desaparèixer, i aquesta vegada l'han segrestat. Mentrestant, en Takagi i la Sato segueixen la pista d'un lladre.</desc>
+    <length units="minutes">00:18:42</length>
   </programme>
-  <programme start="20260922174538 +0000" channel="sx3" stop="20260922175611 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva la casa de la Sra. Marjorie</sub-title>
-    <desc lang="ca">A la senyora Marjorie, se li està a punt d'ensorrar la casa per culpa d'uns sots misteriosos que li surten al pati i la Patrulla Peluda l'haurà d'ajudar.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20260922224119 +0000" channel="sx3" stop="20260922230221 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Records de la classe dels cirerers (La Ran de petita)</sub-title>
+    <desc lang="ca">Ara fa 13 anys, en Shinichi i la Ran es van conèixer a la llar d'infants, anaven junts a la classe dels cirerers. Quan en Conan i la Ran passen per sota d'una filera de cirerers florits, els records comencen a aparèixer i podem conèixer de primera mà com van ser aquells primers dies d'una relació que ja durarà per sempre. Això sí, el començament no va ser gens fàcil.</desc>
+    <length units="minutes">00:21:02</length>
   </programme>
-  <programme start="20260922175611 +0000" channel="sx3" stop="20260922180804 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva el Dia d’Acció de Gràcies</sub-title>
-    <desc lang="ca">El gall dindi inflable del Dia d'Acció de Gràcies se n'ha anat volant amb l'alcalde Humdinger i els gatets a dins.</desc>
-    <length units="minutes">00:11:53</length>
+  <programme start="20260922220104 +0000" channel="tv3" stop="20260922225328 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El diari</sub-title>
+    <desc lang="ca">Actualment, els diaris de paper ja no tenen la presència que tenien abans. I ens sap greu. Que maco era llevar-se de bon matí per anar a comprar el diari, i llegir les notícies mentre et feies un cafè. Sí, la meitat de les notícies ja havien caducat quan les llegies, però era part de la gràcia. Li dediquem el capítol al diari. Ens visita l'Imma Lidón, una grafòloga i pèrita cal·ligràfica. Esperem que feu bona lletra. I passegem el gos per un club nocturn de Boston sense portes d'emergència. Un llumí mal apagat, i festa grossa.</desc>
+    <length units="minutes">00:52:24</length>
   </programme>
-  <programme start="20260922172005 +0000" channel="tv3" stop="20260922180327 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Dubai</sub-title>
-    <desc lang="ca">Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
-    <length units="minutes">00:43:22</length>
-  </programme>
-  <programme start="20260922180327 +0000" channel="tv3" stop="20260922184729 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Ulan Bator</sub-title>
-    <desc lang="ca">Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
-    <length units="minutes">00:44:02</length>
+  <programme start="20260922225328 +0000" channel="tv3" stop="20260923005421 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - El club dels poetes morts</sub-title>
+    <desc lang="ca">EL CLUB DELS POETES MORTS (Dead poets society)Idioma versió original: anglèsProducció: Steven Haft per a Touchstone Pictures, Silver Screen Partners IV i Witt-Thomas Productions, 1989 (Estats Units)Direcció: Peter Weir / Durada: 122 minutsGuió: Tom SchulmanFotografia: John Seale (Metrocolor)Música: Maurice JarreIntèrprets: Robin Williams (John Keating), Robert Sean Leonard (Neil Perry), Ethan Hawke (Todd), Josh Charles (Knox), Gale Hansen (Charlie), Dylan Kussman (Richard)En l'ambient tradicional i estricte de l'Acadèmia Welton, el professor John Keating no només ensenya anglès, està canviant les vides dels seus alumnes. Mentre altres professors esperen dels nois només conformisme i bones maneres, ell els inspira, a través de la poesia, a fer que les seves vides siguin extraordinàries, els encoratja a perseguir allò que els apassiona i els ajuda a explorar nous horitzons d'expressió. Keating, però, troba que les autoritats de l'escola i els pares dels nois no aproven els seus mètodes.</desc>
+    <length units="minutes">02:00:53</length>
   </programme>
 </tv>
