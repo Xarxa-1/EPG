@@ -3,75 +3,76 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260921225946 +0000" channel="tvi" stop="20260921233131 +0000">
-    <title lang="ca">Blanc sobre blanc</title>
-    <sub-title lang="ca">Blanc sobre blanc - Quotidianitat</sub-title>
-    <desc lang="ca">Visitem a Perico Pastor al seu estudi, l'observem mentre pinta amb el seu traç àgil i ràpid i ens parla de la seva trajectòria i dels projectes en els quals participa. La pintora Eva Armisén ens presenta l'univers colorista i particular que ha creat i que l'ajuda a transmetre les seves vivències i el seu pensament.</desc>
-    <length units="minutes">00:31:45</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260922040000 +0000" channel="tvi" stop="20260922050000 +0000">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - SHARK</sub-title>
+    <desc lang="ca">Cinc veus, cinc instrumentistes que són un reflex del panorama actual barceloní. Partint de les composicions del trombonista Tom Johnson, els Shark es deixen anar en una improvisació explosiva, que sorprèn i et convida a vibrar amb el seu groove. En la gravació d'avui podrem gaudir del seu so sòlid, fluid, delicat i alhora punyent.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260921233131 +0000" channel="tvi" stop="20260921234826 +0000">
-    <title lang="ca">Thalassa curts</title>
-    <sub-title lang="ca">Thalassa curts - Els oblidats de l'Orinoco</sub-title>
-    <length units="minutes">00:16:55</length>
+  <programme start="20260922050000 +0000" channel="tvi" stop="20260922060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Jazz a l'estudi - Gorka Benitez</sub-title>
+    <desc lang="ca">Ha estat premiat diverses vegades per l'Associació de Músics de Jazz i Música Moderna com a millor saxofonista, millor disc i millor grup.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260921220500 +0000" channel="324" stop="20260922000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2163</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260922000000 +0000" channel="324" stop="20260922003000 +0000">
+  <programme start="20260922010000 +0000" channel="324" stop="20260922060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11233</sub-title>
+    <sub-title lang="ca">11234</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260921230019 +0000" channel="esport3" stop="20260922003111 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">1252</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">01:30:52</length>
+  <programme start="20260922060000 +0000" channel="324" stop="20260922080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11235</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260922003111 +0000" channel="esport3" stop="20260922005052 +0000">
+  <programme start="20260922040957 +0000" channel="esport3" stop="20260922042840 +0000">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">5515</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:19:41</length>
+    <length units="minutes">00:18:43</length>
   </programme>
-  <programme start="20260921230802 +0000" channel="sx3" stop="20260921232948 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Estofat de selva</sub-title>
-    <desc lang="ca">Els germans Kratt són a la selva seguint un ós peresós que han batejat amb el nom de Tranquilax i descobrint com és que en l'hàbitat terrestre on hi ha més animals de tot el món tot està connectat. Mentrestant, el malvat Gormand té la intenció d'aprofitar-se d'en Martin i en Chris per crear la seva millor recepta amb animals en perill d'extinció: l'estofat de selva!</desc>
-    <length units="minutes">00:21:46</length>
+  <programme start="20260922042840 +0000" channel="esport3" stop="20260922054908 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">E3D - Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">01:20:28</length>
   </programme>
-  <programme start="20260921232948 +0000" channel="sx3" stop="20260921235049 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - El rodeo de cavallets de mar</sub-title>
-    <desc lang="ca">Mentre en Martin i en Chris intenten estudiar de quina manera els cavallets de mar interactuen amb tots els altres animals d'un escull de mar i l'Aviva en comença a fabricar el disc de poder, la malèfica Donita Donata posa en marxa el seu pla per crear una col·lecció de joieria de plata feta ni més ni menys que de cavallets de mar! I és que són perfectes per fer-ne arracades!</desc>
-    <length units="minutes">00:21:01</length>
+  <programme start="20260922035040 +0000" channel="sx3" stop="20260922041131 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Fèlix</sub-title>
+    <desc lang="ca">Avui fa un any que es va morir la mare de l'Adrien, i els seus amics decideixen enviar-li un vídeo per dir-li que pensen en ell i que li fan costat. El problema és que qui veu el vídeo no és l'Adrien, sinó el seu cosí Félix, que se li assembla molt. L'Esfinx aprofitarà la confusió per intentar aconseguir, un cop més, els prodigis de Ladybug i el Gat Noir.</desc>
+    <length units="minutes">00:20:51</length>
   </programme>
-  <programme start="20260921224940 +0000" channel="tv3" stop="20260921231950 +0000">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">Tot torna - 2001</sub-title>
-    <desc lang="ca">Repassem el 2001, l'any que s'introdueix l'euro a Espanya i un braç al recte d'un burro català mentre als ebrencs els trasbalsa el transvasament. S'acaba la mili, arriba el K3 i un conill addicte a les neules es converteix en estrella nacional.</desc>
-    <length units="minutes">00:30:10</length>
+  <programme start="20260922041131 +0000" channel="sx3" stop="20260922042326 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - La festa de pijames</sub-title>
+    <desc lang="ca">En Timbal ha quedat per passar la nit a cal seu amic Lludó i, com que el seu llit quedarà buit, la Guineta i en Pinxo ho volen aprofitar per convidar un amic a dormir a casa seva. Tots dos fan la gara-gara a l'Edmond perquè els doni permís i se'n surten. Però el problema és que només hi ha lloc per a l'amic de l'un o de l'altre.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20260921231950 +0000" channel="tv3" stop="20260921235159 +0000">
-    <title lang="ca">Manicòmics</title>
-    <sub-title lang="ca">Manicòmics - La vellesa amb Eva Soriano</sub-title>
-    <desc lang="ca">L'Eva i l'Ignasi parlen sobre la vellesa mentre visiten un hotel de luxe i es fan un tractament facial. Passegen per un antic parc aquàtic abandonat i conversen amb un grup de dones amb molta vitalitat.</desc>
-    <length units="minutes">00:32:09</length>
+  <programme start="20260922040408 +0000" channel="tv3" stop="20260922042539 +0000">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">Caçadors de paraules - Amb la llengua fora</sub-title>
+    <desc lang="ca">El capítol de 'Caçadors de paraules' dedicat a l'esport comença justament en un partit del Barça i demanant-se quines són les principals aportacions de l'esport a la parla de cada dia. En Roger de Gràcia entrevista diversos locutors esportius tot buscant els seus secrets com a creadors de llenguatge i homenatja el pare de tots ells: Joaquim Maria Puyal. Però no només de futbol viu l'home: també hi ha -per als homes perpinyanesos i els valencians- el rugbi i la pilota. 'Caçadors de paraules' viatja a Perpinyà, per veure i sentir un partit de l'equip local, la cèlebre USAP, i a València, on entrevista en Genovès, segurament el més mític dels jugadors de pilota valenciana.</desc>
+    <length units="minutes">00:21:31</length>
+  </programme>
+  <programme start="20260922042539 +0000" channel="tv3" stop="20260922044748 +0000">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">Caçadors de paraules - Som bons insultadors els catalans?</sub-title>
+    <desc lang="ca">Som bons insultadors, els catalans?És prou contundent, el català, per destruir només amb paraules? Sabem fer prou mal, insultant en català? En Roger de Gràcia recorre pobles i ciutats buscant ofenses dignes de ser respostes, provocant renecs i demanant guerra,guerra verbal, s'entén. Al llarg del seu viatge, en Roger caça insults clàssics i moderns, atàvics i d'importació, suaus o amb una càrrega de profunditat. Passa per Xàtiva, on l'escriptor Toni Cucarella l'introdueix en el món apassionant de l'insult hortofructícola de baixa intensitat, i s'acosta a Alcoi en plena festa de Moros i Cristians...És ofensiva, en aquest context, la paraula 'moro'? En Roger investiga l'origen de l'apel·latiu 'polacos', emula el capità Haddock i fa una incursió al planeta ESO... Són inofensius els insults adolescents?</desc>
+    <length units="minutes">00:22:09</length>
   </programme>
 </tv>
