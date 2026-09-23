@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260922220724 +0000" channel="tvi" stop="20260922231103 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Nits Sense ficció - Catalunya-Madrid: La veritat de dos models econòmics</sub-title>
-    <desc lang="ca">'Catalunya-Madrid: La veritat de dos models econòmics' 2026. Una producció de 3Cat amb la col·laboració de Statement City.Durant dècades, Catalunya s'ha considerat la locomotora econòmica d'Espanya. Avui, Madrid ocupa la primera posició en aportació al PIB estatal. Com ha aconseguit superar Catalunya? Es beneficia de ser la capital? El procés independentista ha afectat l'economia catalana? Són els baixos impostos de Madrid un factor d'atracció d'empreses i grans fortunes? I fins a quin punt el dèficit d'infraestructures condiciona el creixement català? 'Catalunya - Madrid: La veritat de dos models econòmics' parteix d'aquestes preguntes per confrontar les dues principals economies de l'Estat i entendre les claus de la seva evolució. Al capdavant de les dues visions, Salvador Illa i Isabel Díaz Ayuso defensen els models econòmics que representen Catalunya i Madrid. A través de dades, gràfiques i les veus d'empresaris, economistes i treballadors, el documental analitza qüestions decisives com la fiscalitat, l'efecte capitalitat, les infraestructures, les privatitzacions de les antigues empreses públiques o el trasllat de seus empresarials arran del procés independentista. El documental no busca proclamar un guanyador, sinó entendre per què Madrid ha crescut més i quines fortaleses conserva Catalunya, i preguntar quin dels dos models està més ben preparat per a una economia cada vegada més determinada per la innovació, el talent i la tecnologia.Equip:Direcció: Jordi FustéGuió: Jordi Fusté, Jordi PortalsRealització i Direcció de fotografia: Josep BadellDirecció de producció: Gloria GonzálezProducció executiva Statement City: Ferran DebantProducció executiva 3Cat: David Bassa, Sílvia Pairó Vila, Coordinació de continguts 3Cat: Montse Armengou Martín Producció delegada 3Cat: Marta Rigau JordiResponsable d'imatge 3Cat: Xavier García BalañàCoordinació de continguts Statement City: Jordi Finazzi</desc>
-    <length units="minutes">01:03:39</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260923040000 +0000" channel="tvi" stop="20260923050000 +0000">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - TRIPHASSIC</sub-title>
+    <desc lang="ca">Llibert Fortuny i Gary Willies afegeixen un nou projecte a la seva ja àmplia trajectòria. Aquest trio ens ofereixen un repertori peculiar en què els elements electrònics es barregen amb els del jazz, i aconsegueix noves maneres d'expressió. En la sessió que segueix, veureu un Llibert carregat d'efectes analògics i digitals, que donen com a fruit un deliri sonor molt ben acompanyat rítmicament per Willis i Davis Gómez.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260922231115 +0000" channel="tvi" stop="20260923000954 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Nits Sense ficció - Poliamor. Més enllà de la monogàmia</sub-title>
-    <desc lang="ca">'Poliamor. Més enllà de la monogàmia' (2022) és una producció de Televisió de Catalunya produïda per La Lupa Produccions SL.Què hi ha més enllà de la monogàmia?Trielles, anarquia relacional, relacions en forma de V… Qui ho ha dit que només hi pot haver una vida amorosa plena en la monogàmia? 'Poliamor. Més enllà de la monogàmia' ens presenta les experiències de persones que viuen les seves relacions sexoafectives sense exclusivitat. Gelosia, pors, sexe, fills, família? Els detalls, al documental.Fitxa tècnicaDirecció: Marta Palacín i Oriol Gispert Guió: Marta Palacín, Oriol Gispert i Carla Moreno Realització: Producció executiva: Marta Palacín i Oriol Gispert Productor: Producció i investigació: Carla Moreno i Alejandra CéspedesDirector executiu TVC: Montse Armengou MartínProductor executiu TVC: Sílvia Pairó VilaDirector fotografia: Oriol Bosch CastelletMuntatge: Bernat de FerrerGrafisme: Núria YebraCorporació Catalana de Mitjans Audiovisuals, SA 2022</desc>
-    <length units="minutes">00:58:39</length>
+  <programme start="20260923050000 +0000" channel="tvi" stop="20260923060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Jazz a l'estudi - Joan Diaz</sub-title>
+    <desc lang="ca">Un dels pianistes de jazz més inquiets, que combina les seves actuacions amb la composició de bandes sonores per al cinema.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260922220500 +0000" channel="324" stop="20260923000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2164</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260923000000 +0000" channel="324" stop="20260923003000 +0000">
+  <programme start="20260923010000 +0000" channel="324" stop="20260923060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11242</sub-title>
+    <sub-title lang="ca">11243</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260922220047 +0000" channel="esport3" stop="20260922230000 +0000">
+  <programme start="20260923060000 +0000" channel="324" stop="20260923080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11244</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260923023319 +0000" channel="esport3" stop="20260923041420 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
     <desc lang="ca">Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
-    <length units="minutes">00:59:13</length>
+    <length units="minutes">01:41:01</length>
   </programme>
-  <programme start="20260922230000 +0000" channel="esport3" stop="20260923003049 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">1253</sub-title>
-    <desc lang="ca">Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.</desc>
-    <length units="minutes">01:30:49</length>
+  <programme start="20260923041420 +0000" channel="esport3" stop="20260923043039 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5516</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:16:19</length>
   </programme>
-  <programme start="20260922222237 +0000" channel="sx3" stop="20260922224119 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Visita als inferns de l'amor (Episodi d'Oita)</sub-title>
-    <desc lang="ca">En Kogoro Mouri convida la Ran i en Conan a anar a visitar la ciutat termal de Beppu, però l'autèntic propòsit d'en Kogoro és buscar la filla d'un empresari molt important que ha desaparegut. Troben la noia i avisen el pare, però, quan arriba ell, la seva filla ha tornat a desaparèixer, i aquesta vegada l'han segrestat. Mentrestant, en Takagi i la Sato segueixen la pista d'un lladre.</desc>
-    <length units="minutes">00:18:42</length>
+  <programme start="20260923040931 +0000" channel="sx3" stop="20260923042126 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - Un cadell? Au, vinga!</sub-title>
+    <desc lang="ca">L'Edmond i la Marguerite estan construint una mena de caixa en secret. Els nens arriben a la conclusió que és un bressol, i que els pares esperen un germanet o una germaneta. La Trufa està encantada amb l'arribada d'un cadell; el Timbal, no gaire, perquè creu que s'acabarà la tranquil·litat al cau; i la Guineta creu que la seva mare la deixarà de banda i no en vol sentir parlar.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20260922224119 +0000" channel="sx3" stop="20260922230221 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Records de la classe dels cirerers (La Ran de petita)</sub-title>
-    <desc lang="ca">Ara fa 13 anys, en Shinichi i la Ran es van conèixer a la llar d'infants, anaven junts a la classe dels cirerers. Quan en Conan i la Ran passen per sota d'una filera de cirerers florits, els records comencen a aparèixer i podem conèixer de primera mà com van ser aquells primers dies d'una relació que ja durarà per sempre. Això sí, el començament no va ser gens fàcil.</desc>
-    <length units="minutes">00:21:02</length>
+  <programme start="20260923042126 +0000" channel="sx3" stop="20260923043255 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La família Teixó-Guineu - El rumor del sotabosc</sub-title>
+    <desc lang="ca">Avui en Pinxo i companyia es queden sols al cau, i en comptes de fer bondat, tal com prometen als seus pares, es dediquen a fer destrosses. Al final deixen el cau fet un desastre. Per evitar que els seus pares els castiguin, s'inventen que ha entrat un animal salvatge a casa i ho ha destrossat tot. El rumor es propaga com la pólvora entre els animals del bosc, cosa que provoca el pànic general.</desc>
+    <length units="minutes">00:11:29</length>
   </programme>
-  <programme start="20260922220104 +0000" channel="tv3" stop="20260922225328 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El diari</sub-title>
-    <desc lang="ca">Actualment, els diaris de paper ja no tenen la presència que tenien abans. I ens sap greu. Que maco era llevar-se de bon matí per anar a comprar el diari, i llegir les notícies mentre et feies un cafè. Sí, la meitat de les notícies ja havien caducat quan les llegies, però era part de la gràcia. Li dediquem el capítol al diari. Ens visita l'Imma Lidón, una grafòloga i pèrita cal·ligràfica. Esperem que feu bona lletra. I passegem el gos per un club nocturn de Boston sense portes d'emergència. Un llumí mal apagat, i festa grossa.</desc>
-    <length units="minutes">00:52:24</length>
+  <programme start="20260923040500 +0000" channel="tv3" stop="20260923042741 +0000">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">Caçadors de paraules - Com neix una paraula ?</sub-title>
+    <desc lang="ca">Les paraules neixen, creixen i moren (i són dignament enterrades als diccionaris). Però, com neix una paraula? Com es difon, com va guanyant terreny? Qui i com li dóna, al final, carta de ciutadania? En Roger de Gràcia visita el Sónar 2006, acompanyat de dues analistes de tendències, a la recerca de les futures paraules de moda. 'Quan la teva mare comenci a dir la paraula 'fashion'', li aconsellen, 'val més que te'n busquis una altra'. En Vicent Partal, director de Vilaweb, ens ajuda a buscar-les per Internet, i la mare de la paraula 'mileurista', tan exitosa, ens explica les circumstàncies que envolten el seu naixement. En Roger de Gràcia recorre en missió d'espionatge l'Institut d'Estudis Catalans, on està a punt d'acabar de confeccionar-se una nova versió del diccionari normatiu de la nostra llengua. N'hi haurà encara més, de versions, o potser d'aquí a pocs anys ja parlarem tots anglès...o una altra cosa?</desc>
+    <length units="minutes">00:22:41</length>
   </programme>
-  <programme start="20260922225328 +0000" channel="tv3" stop="20260923005421 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - El club dels poetes morts</sub-title>
-    <desc lang="ca">EL CLUB DELS POETES MORTS (Dead poets society)Idioma versió original: anglèsProducció: Steven Haft per a Touchstone Pictures, Silver Screen Partners IV i Witt-Thomas Productions, 1989 (Estats Units)Direcció: Peter Weir / Durada: 122 minutsGuió: Tom SchulmanFotografia: John Seale (Metrocolor)Música: Maurice JarreIntèrprets: Robin Williams (John Keating), Robert Sean Leonard (Neil Perry), Ethan Hawke (Todd), Josh Charles (Knox), Gale Hansen (Charlie), Dylan Kussman (Richard)En l'ambient tradicional i estricte de l'Acadèmia Welton, el professor John Keating no només ensenya anglès, està canviant les vides dels seus alumnes. Mentre altres professors esperen dels nois només conformisme i bones maneres, ell els inspira, a través de la poesia, a fer que les seves vides siguin extraordinàries, els encoratja a perseguir allò que els apassiona i els ajuda a explorar nous horitzons d'expressió. Keating, però, troba que les autoritats de l'escola i els pares dels nois no aproven els seus mètodes.</desc>
-    <length units="minutes">02:00:53</length>
+  <programme start="20260923042741 +0000" channel="tv3" stop="20260923044845 +0000">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">Caçadors de paraules - Paraules d'amor</sub-title>
+    <desc lang="ca">Fa una mica de cosa dir-ho, però de tant en tant hauríem de parlar d'amor... Amb quines paraules ens diem que ens estimem, o que hem deixat de fer-ho? Tenim una fórmula estàndard per declarar-nos? En Roger de Gràcia s'endinsa en l'apassionant món de la parella, transmet un casament en directe, es dedica a provocar paletes perquè cridin floretes i investiga de quina matèria estan fetes les cançons d'amor.Aquesta vegada el viatge és a Menorca, l'illa desitjada pels anglesos i els francesos. El cantant Cris Juanico ajuda el nostre conductor a trobar les paraules més tendres i els anglicismes de més dolç record. Tot plegat, per esbrinar de quines maneres podríem dir 't'estimo' sense fer gaire el ridícul.</desc>
+    <length units="minutes">00:21:04</length>
   </programme>
 </tv>
