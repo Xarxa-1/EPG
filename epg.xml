@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260923173139 +0000" channel="tvi" stop="20260923191202 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">415</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:40:23</length>
+  <programme start="20260923220736 +0000" channel="tvi" stop="20260923232254 +0000">
+    <title lang="ca">Soc i Seré</title>
+    <sub-title lang="ca">Un poble cantaire</sub-title>
+    <desc lang="ca">Comença la batalla per convertir-se en la persona que sap més de Catalunya. Dividits en dos equips de 50 persones, els aspirants s'enfrontaran als primers reptes de la segona temporada.El repte d'avantatge, anomenat Casa meva és casa vostra, serà una intrèpida gimcana de banderes on els aspirants hauran de demostrar els seus coneixements sobre els municipis catalans. Però tot es decidirà al repte eliminatori, titulat Canto jo i la colònia balla. Per continuar al programa, els dos equips hauran d'emocionar un jurat format per Nina, Laura Andrés i Arnau Vilà amb les versions corals de dues conegudes havaneres.Només un equip continuarà al programa i es ficarà els primeres 10.000 euros a la butxaca. Les 50 persones restants se n'aniran a casa, però alguns eliminats rebran unca carta misteriosa que els donarà una seogna oportunitat.Qui guanyarà aquest primer duel, els Alls o els Olis? Aquí comença 'Soc i seré'.</desc>
+    <length units="minutes">01:15:18</length>
   </programme>
-  <programme start="20260923191202 +0000" channel="tvi" stop="20260923201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">930</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:02:58</length>
+  <programme start="20260923232254 +0000" channel="tvi" stop="20260924001423 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Costa Brava</sub-title>
+    <desc lang="ca">La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
+    <length units="minutes">00:51:29</length>
   </programme>
-  <programme start="20260923170000 +0000" channel="324" stop="20260923183000 +0000">
+  <programme start="20260923220500 +0000" channel="324" stop="20260924000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2165</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260924000000 +0000" channel="324" stop="20260924003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11248</sub-title>
+    <sub-title lang="ca">11251</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260923183000 +0000" channel="324" stop="20260923200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11249</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20260923172523 +0000" channel="esport3" stop="20260923175820 +0000">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">Les arrels de la UE Gurb</sub-title>
-    <desc lang="ca">La Unió Esportiva Gurb és una entitat profundament vinculada al municipi i la seva gent. Els orígens es remunten a l'any 1973, quan un grup de veïns, molts d'ells pagesos, es reunien per jugar a futbol i habilitaven els seus propis terrenys per poder practicar aquest esport. Amb el pas dels anys, aquell projecte ha crescut fins a consolidar una àmplia estructura de futbol base amb 18 equips i 250 llicències, però mantenint intacta una de les seves principals senyes d'identitat: el sentiment de pertinença i el caràcter familiar del club. A l'espai, Carles Fité, entrevista el president del club, Ramon Freixa; el director esportiu, David Gibaja; i el capità del primer equip, Carles Xatu.</desc>
-    <length units="minutes">00:32:57</length>
-  </programme>
-  <programme start="20260923175820 +0000" channel="esport3" stop="20260923190000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Champions femenina, Lamine i Héctor Botí i Hugo Font</sub-title>
-    <desc lang="ca">Torna la Champions femenina. Avui, Barça-París al Johan Cruyff. Lamine continua la campanya per la Pilota d'Or. Analitzem el rendiment dels nous fitxatges del Barça amb el microscopi de l'Àlex Delmàs. Entrevistem Héctor Botí i Hugo Font, ciclistes invidents afiliats a l'ONCE. A la tertúlia ens acompanyen Irati Vidal, Edgar Fornós i Dani Senabre</desc>
-    <length units="minutes">01:01:40</length>
-  </programme>
-  <programme start="20260923173624 +0000" channel="sx3" stop="20260923174736 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva una cursa de windsurf</sub-title>
-    <desc lang="ca">Hi ha una cursa de windsurf a Badia Aventures i, de cop i volta, es gira un vent molt fort que ningú sap d'on ve.</desc>
-    <length units="minutes">00:11:12</length>
-  </programme>
-  <programme start="20260923174736 +0000" channel="sx3" stop="20260923175809 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva una acampada molt freda</sub-title>
-    <desc lang="ca">L'Alex i el senyor Porter van d'acampada a una illa tropical i de cop i volta hi ha una tempesta de neu.</desc>
-    <length units="minutes">00:10:33</length>
-  </programme>
-  <programme start="20260923171349 +0000" channel="tv3" stop="20260923173940 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">El Sakurajima. Viure sota la cendra</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta aI Japó, a l'illa de Kyushu, on hi ha el volcà Sakurajima. Entre d'altres coses, l'acompanyarem en la seva visita a la ciutat de Kagoshima, un lloc on els seus habitants han de netejar cada dia la cendra que els arriba del volcà i on es conreen els raves més grossos del món. També el seguirem per un túnel de 200 metres que s'endinsa dins del volcà fins a tocar del magma i en un simulacre d'evacuació que mobilitza cada any 7.000 persones.</desc>
-    <length units="minutes">00:25:51</length>
-  </programme>
-  <programme start="20260923173940 +0000" channel="tv3" stop="20260923180526 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">L'Unzen. Homes contra un gegant</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta aI Japó, a l'illa de Kyushu, on hi ha el volcà Unzen, que és un volcà que, històricament, ha causat molts danys per mitjà dels núvols roents. Entre d'altres coses, l'acompanyarem en les seves entrevistes amb científics i amb persones afectades pels núvols roents. També veurem amb quina tecnologia sofisticada els habitants es protegeixen de les colades de fang, que és un altre gran perill, i a la ciutat d'Obama veurem quines utilitats pràctiques donen a l'aigua i el vapor que sorgeixen pertot arreu.</desc>
+  <programme start="20260923223414 +0000" channel="esport3" stop="20260923230000 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Barça femení comença la defensa del títol de Champions</sub-title>
+    <desc lang="ca">El Barça femení s'enfronta al París en el debut a la Champions. Connectarem amb el Johan Cruyff amb Sònia Gelmà i Ramon Salmurri. També parlarem de Raphinha i ho analitzarem amb Bernat Soler i Mireia Vera. Acabarem amb el 'Cinquè quart', amb l'anàlisi de la Supercopa amb Laura Antoja, Xavi Ballesteros i Ernest Macià.</desc>
     <length units="minutes">00:25:46</length>
+  </programme>
+  <programme start="20260923230000 +0000" channel="esport3" stop="20260924003052 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
+    <length units="minutes">01:30:52</length>
+  </programme>
+  <programme start="20260923224559 +0000" channel="sx3" stop="20260923230651 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El secret de la parella rica</sub-title>
+    <desc lang="ca">En Conan i en Kogoro intervenen per casualitat en el descobriment de dos cadàvers. Són d'un matrimoni: l'home ha mort a ganivetades, i la dona, ofegada. Per si la situació no era prou estranya, encara es complica més quan descobreixen que la dona és qui ha assassinat el marit. Quan tothom creu que el cas està resolt perquè la mort de la dona ha sigut accidental, en Conan descobreix qui l'ha matat.</desc>
+    <length units="minutes">00:20:52</length>
+  </programme>
+  <programme start="20260923230651 +0000" channel="sx3" stop="20260923232837 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Cristalls de serp cascavell</sub-title>
+    <desc lang="ca">Després d'un aterratge d'emergència al desert de Sonora amb la Nau Tortuga, la Koki ha descobert que els cristalls de tel·luri, essencials per al funcionament de la nau, s'estan esgotant. En Martin i en Chris tenen la missió de buscar un substitut del tel·luri. I si no troben res aviat, s'hauran acabat les aventures amb els poders animals dels Germans Kratt!</desc>
+    <length units="minutes">00:21:46</length>
+  </programme>
+  <programme start="20260923215628 +0000" channel="tv3" stop="20260923224905 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La xinxeta</sub-title>
+    <desc lang="ca">Un dels pànics més grans que existeixen és trepitjar una xinxeta quan vas descalç a fer un pipí a mitjanit. Dediquem el capítol a un objecte imprescindible per als adolescents que volen penjar pòsters dels seus ídols a l'habitació. Ens visita en Guillem Ramisa, un poeta i cantant que és tan talentós com bona persona. I mira que de bona persona n'és molt! A més a més, passegem el gos per Wilmington, on es va produir l'únic cop d'estat exitós dels Estats Units. Una passejada que resulta incòmode, per allò del racisme i tal.</desc>
+    <length units="minutes">00:52:37</length>
+  </programme>
+  <programme start="20260923224905 +0000" channel="tv3" stop="20260924001832 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">The kid</sub-title>
+    <desc lang="ca">THE KID 'The Kid'Direcció: Vincent D'OnofrioGuió: Andrew LanhamProducció: Mimran Schur Pictures, Suretone Pictures, Batrax Entertainment, Eagle Films, GEM Entertainment, LionsgateAny: 2019Durada: 99País: Estats UnitsMúsica: Latham Gaines, Shelby GainesFotografia: Matthew J. LloydIntèrprets: Ethan Hawke, Dane DeHaan, Jake Schur, Leila George, Vincent D'Onofrio, Chris Pratt, Adam Baldwin, Tait Fletcher, Ben Dickey, Keith Jardine, MorningStar Angeline, Jenny Gabrielle, Stafford Douglas, Howard Ferguson Jr., Douglas Bennett, Jacob Browne, Rachel Singer, Rachel de la Torre, Rachel de la Torre, Christian Dalton, Chris Bylsma, Chris Bylsma, J. Nathan Simmons, J. Nathan Simmons, David Christian Welborn, David Christian Welborn, Joe Berryman, Michael E. Stogner, Leslie Fleming-Mitchell, Rose CordovaEl jove Rio es veu obligat a recórrer el sud-oest dels Estats Units per salvar la seva germana Sara del seu despietat oncle Grant.</desc>
+    <length units="minutes">01:29:27</length>
   </programme>
 </tv>
