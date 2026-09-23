@@ -1,78 +1,81 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260923040000 +0000" channel="tvi" stop="20260923050000 +0000">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - TRIPHASSIC</sub-title>
-    <desc lang="ca">Llibert Fortuny i Gary Willies afegeixen un nou projecte a la seva ja àmplia trajectòria. Aquest trio ens ofereixen un repertori peculiar en què els elements electrònics es barregen amb els del jazz, i aconsegueix noves maneres d'expressió. En la sessió que segueix, veureu un Llibert carregat d'efectes analògics i digitals, que donen com a fruit un deliri sonor molt ben acompanyat rítmicament per Willis i Davis Gómez.</desc>
-    <length units="minutes">01:00:00</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260923103010 +0000" channel="tvi" stop="20260923135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1814</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:50</length>
   </programme>
-  <programme start="20260923050000 +0000" channel="tvi" stop="20260923060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Jazz a l'estudi - Joan Diaz</sub-title>
-    <desc lang="ca">Un dels pianistes de jazz més inquiets, que combina les seves actuacions amb la composició de bandes sonores per al cinema.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260923135500 +0000" channel="tvi" stop="20260923143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7040</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260923010000 +0000" channel="324" stop="20260923060000 +0000">
+  <programme start="20260923120000 +0000" channel="324" stop="20260923135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11243</sub-title>
+    <sub-title lang="ca">11246</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260923060000 +0000" channel="324" stop="20260923080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11244</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260923135500 +0000" channel="324" stop="20260923143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7040</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260923023319 +0000" channel="esport3" stop="20260923041420 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
-    <desc lang="ca">Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
-    <length units="minutes">01:41:01</length>
+  <programme start="20260923112951 +0000" channel="esport3" stop="20260923130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1253</sub-title>
+    <desc lang="ca">Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.</desc>
+    <length units="minutes">01:30:09</length>
   </programme>
-  <programme start="20260923041420 +0000" channel="esport3" stop="20260923043039 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5516</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:16:19</length>
+  <programme start="20260923130000 +0000" channel="esport3" stop="20260923140107 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3246</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:07</length>
   </programme>
-  <programme start="20260923040931 +0000" channel="sx3" stop="20260923042126 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - Un cadell? Au, vinga!</sub-title>
-    <desc lang="ca">L'Edmond i la Marguerite estan construint una mena de caixa en secret. Els nens arriben a la conclusió que és un bressol, i que els pares esperen un germanet o una germaneta. La Trufa està encantada amb l'arribada d'un cadell; el Timbal, no gaire, perquè creu que s'acabarà la tranquil·litat al cau; i la Guineta creu que la seva mare la deixarà de banda i no en vol sentir parlar.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20260923121837 +0000" channel="sx3" stop="20260923124022 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El poble dels porcs formiguers</sub-title>
+    <desc lang="ca">Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20260923042126 +0000" channel="sx3" stop="20260923043255 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La família Teixó-Guineu - El rumor del sotabosc</sub-title>
-    <desc lang="ca">Avui en Pinxo i companyia es queden sols al cau, i en comptes de fer bondat, tal com prometen als seus pares, es dediquen a fer destrosses. Al final deixen el cau fet un desastre. Per evitar que els seus pares els castiguin, s'inventen que ha entrat un animal salvatge a casa i ho ha destrossat tot. El rumor es propaga com la pólvora entre els animals del bosc, cosa que provoca el pànic general.</desc>
-    <length units="minutes">00:11:29</length>
+  <programme start="20260923124022 +0000" channel="sx3" stop="20260923130232 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El vol del dragó</sub-title>
+    <desc lang="ca">En Chris i en Martin, que han sortit d'excursió a buscar dragons voladors, han acabat descobrint el pla malèfic de l'encara més malèfica Donita Donata. Té intenció de fer servir dragons voladors per crear la nova col·lecció de tardor de les joies vivents! Per aturar-la, hauran d'incorporar el poder del dragó al Vestit de Poder Animal! T'ho perdràs?!</desc>
+    <length units="minutes">00:22:10</length>
   </programme>
-  <programme start="20260923040500 +0000" channel="tv3" stop="20260923042741 +0000">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Caçadors de paraules - Com neix una paraula ?</sub-title>
-    <desc lang="ca">Les paraules neixen, creixen i moren (i són dignament enterrades als diccionaris). Però, com neix una paraula? Com es difon, com va guanyant terreny? Qui i com li dóna, al final, carta de ciutadania? En Roger de Gràcia visita el Sónar 2006, acompanyat de dues analistes de tendències, a la recerca de les futures paraules de moda. 'Quan la teva mare comenci a dir la paraula 'fashion'', li aconsellen, 'val més que te'n busquis una altra'. En Vicent Partal, director de Vilaweb, ens ajuda a buscar-les per Internet, i la mare de la paraula 'mileurista', tan exitosa, ens explica les circumstàncies que envolten el seu naixement. En Roger de Gràcia recorre en missió d'espionatge l'Institut d'Estudis Catalans, on està a punt d'acabar de confeccionar-se una nova versió del diccionari normatiu de la nostra llengua. N'hi haurà encara més, de versions, o potser d'aquí a pocs anys ja parlarem tots anglès...o una altra cosa?</desc>
-    <length units="minutes">00:22:41</length>
+  <programme start="20260923121314 +0000" channel="tv3" stop="20260923121935 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Panellets d'avellana</sub-title>
+    <desc lang="ca">Dificultat: baixaTemps d'elaboració: 40 min (més el repòs de la pasta)Producte principal: avellanes/fruita secaTemporada: tardor/hivern</desc>
+    <length units="minutes">00:06:21</length>
   </programme>
-  <programme start="20260923042741 +0000" channel="tv3" stop="20260923044845 +0000">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Caçadors de paraules - Paraules d'amor</sub-title>
-    <desc lang="ca">Fa una mica de cosa dir-ho, però de tant en tant hauríem de parlar d'amor... Amb quines paraules ens diem que ens estimem, o que hem deixat de fer-ho? Tenim una fórmula estàndard per declarar-nos? En Roger de Gràcia s'endinsa en l'apassionant món de la parella, transmet un casament en directe, es dedica a provocar paletes perquè cridin floretes i investiga de quina matèria estan fetes les cançons d'amor.Aquesta vegada el viatge és a Menorca, l'illa desitjada pels anglesos i els francesos. El cantant Cris Juanico ajuda el nostre conductor a trobar les paraules més tendres i els anglicismes de més dolç record. Tot plegat, per esbrinar de quines maneres podríem dir 't'estimo' sense fer gaire el ridícul.</desc>
-    <length units="minutes">00:21:04</length>
+  <programme start="20260923121935 +0000" channel="tv3" stop="20260923122703 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Tiradito de peix blanc</sub-title>
+    <desc lang="ca">Dificultat: baixaTemps d'elaboració: 30' ( més els temps dels marinats) Producte principal: pagre ( peix blanc)Temporada: tot l'any</desc>
+    <length units="minutes">00:07:28</length>
+  </programme>
+  <programme start="20260923085920 +0000" channel="tv3" stop="20260923145915 +0000">
+    <title lang="ca">Illa compareix a petició pròpia al Parlament per la polèmica amb les proves de l'informe PISA</title>
+    <sub-title lang="ca">4128</sub-title>
+    <length units="minutes">05:59:55</length>
   </programme>
 </tv>
