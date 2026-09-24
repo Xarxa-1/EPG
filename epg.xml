@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260924021115 +0000" channel="tvi" stop="20260924040000 +0000">
+  <programme start="20260924103007 +0000" channel="tvi" stop="20260924135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1815</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:53</length>
+  </programme>
+  <programme start="20260924135500 +0000" channel="tvi" stop="20260924143001 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7041</sub-title>
+    <length units="minutes">00:35:01</length>
+  </programme>
+  <programme start="20260924120000 +0000" channel="324" stop="20260924135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11252</sub-title>
+    <sub-title lang="ca">11255</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:48:45</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260924040000 +0000" channel="tvi" stop="20260924050000 +0000">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">TONI SOLÀ</sub-title>
-    <desc lang="ca">Solà és un dels saxofonistes de referència dins l'escena del jazz a casa nostra. Una de les seves virtuts és l'eclecticisme. Es mou en diferents estils de la música d'arrel negra, sempre amb un so molt personal. En el projecte que ens presenta avui ens ofereix un repertori que passa pel 'hard bop', el 'second line', certes influències brasileres i fins i tot pessiga uns certs aires 'coltranians'...</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260924135500 +0000" channel="324" stop="20260924143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7041</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260924010000 +0000" channel="324" stop="20260924060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11252</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20260924112607 +0000" channel="esport3" stop="20260924130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
+    <length units="minutes">01:33:53</length>
   </programme>
-  <programme start="20260924060000 +0000" channel="324" stop="20260924080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11253</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260924130000 +0000" channel="esport3" stop="20260924140105 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3247</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:05</length>
   </programme>
-  <programme start="20260924025003 +0000" channel="esport3" stop="20260924043015 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Spar Girona-Cadí La Seu / Lliga Catalana / Final</sub-title>
-    <desc lang="ca">Des de Reus, final de la 38a edició de la Lliga Nacional Catalana Femenina de bàsquet. Les gironines, guanyadores en la darrera edició, s'enfronten amb el conjunt urgellenc que s'havia imposat de forma consecutiva en els quatre cursos anteriors (2021, 2022, 2023 i 2024).</desc>
-    <length units="minutes">01:40:12</length>
+  <programme start="20260924123715 +0000" channel="sx3" stop="20260924125920 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Delícies d'ornitorinc</sub-title>
+    <desc lang="ca">Tot fent caiac per Austràlia, en Chris i en Martin s'han trobat un dels animals més estrambòtics del món: un mamífer amb potes d'ànec, cua de castor... i que pon ous?! Només pot ser l'ornitorinc! El pitjor de tot és que en Gormand, un xef molt malvat, vol afegir els ous d'aquest animal en extinció al seu menú! Avui tenen feina, els germans Kratt!</desc>
+    <length units="minutes">00:22:05</length>
   </programme>
-  <programme start="20260924043015 +0000" channel="esport3" stop="20260924055416 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">01:24:01</length>
+  <programme start="20260924125920 +0000" channel="sx3" stop="20260924132032 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El misteri de la cruïlla de Beika (1a part)</sub-title>
+    <desc lang="ca">La descoberta d'un home assassinat en un parc porta la policia a descobrir un altre home mort, però aquest cop a casa seva. Tot apunta que és l'assassí que s'ha suïcidat, però en Megure i en Conan no ho veuen tan clar. El testimoni d'una veïna dona una pista per arribar fins a un possible assassí, però hi continua havent detalls que no encaixen i en Conan decideix investigar-ho pel seu compte.</desc>
+    <length units="minutes">00:21:12</length>
   </programme>
-  <programme start="20260924034904 +0000" channel="sx3" stop="20260924041013 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Pitjokella</sub-title>
-    <desc lang="ca">La Marinette coneix la Zoé. De seguida es cauen bé mútuament, però la Marinette no sap que la Zoé és germana de la Chloé. La Chloé obliga la Zoé a ser dolenta amb la Marinette per guanyar-se un lloc a la família Bourgeois. Per la Chloé hi ha dos tipus de persones: les que trepitgen els altres i les que els altres les trepitgen. La Zoé dubta entre la Marinette i la Chloé i l'akumatitzen i es transforma en Pitjokella, una versió gegant de la Chloé que absorbeix la gent amb les sabates. Ladybug i el Gat Noir no poden permetre que els trepitgi si la volen aturar!</desc>
-    <length units="minutes">00:21:09</length>
+  <programme start="20260924122113 +0000" channel="tv3" stop="20260924135448 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">'EL GRAN GRAN DICTAT' de TV3, presentat per Òscar Dalmau, rebrà tres convidats excepcionals: l'actor i humorista Carlos Latre i els periodistes Antoni Bassas i Ariadna Oltra. Tots tres s'enfrontaran per guanyar un premi final de 2.000 euros i donar-lo a l'ONG que hagin escollit.Entre prova i prova, els populars concursants participaran en una sèrie d'esquetxos. Veurem com Carlos Latre i Antoni Bassas donen consells a Òscar Dalmau per lligar amb Ariadna Oltra, i descobrirem què han estat capaços de fer perquè els convidessin al programa.El Mag Lari i el seu sentit de l'humor també trauran el cap al llarg d'aquesta edició. En qualsevol moment, el mag interromprà el concurs per fer un truc dels seus amb la col·laboració d'algun dels convidats.</desc>
+    <length units="minutes">01:33:35</length>
   </programme>
-  <programme start="20260924041013 +0000" channel="sx3" stop="20260924042208 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El tresor de l'avi</sub-title>
-    <desc lang="ca">Quan era petit, l'avi guineu i el seu millor amic van amagar una capseta amb un tresor en un lloc secret del bosc. Per recordar-se'n, es van inventar un enigma amb tot de pistes molt ben pensades. L'avi ja no recorda què hi havia dins la capsa, però l'enigma, encara el pot recitar sencer. Aleshores, els nens se l'aprenen de memòria i surten a buscar el tresor de l'avi.</desc>
-    <length units="minutes">00:11:55</length>
-  </programme>
-  <programme start="20260924033445 +0000" channel="tv3" stop="20260924040341 +0000">
-    <title lang="ca">Arts i oficis</title>
-    <sub-title lang="ca">Escenografia</sub-title>
-    <desc lang="ca">Diuen que la realitat és un escenari magnífic amb actors desconcertants. Objectes, colors, estructures i éssers vius són paisatge que conformen la nostra particular percepció de la realitat. Aquests escenaris poden ser naturals, però hi ha un ofici, el d'escenografia, que consisteix en l'art i la dèria de crear escenaris artificials per a les diferents necessitats humanes. L'Institut del Teatre forma aquests professionals a través d'assignatures com ara espai, llum, personatge, dramatúrgia, moda, maquetisme, espais efímers que permeten guanyar-se la vida com a escenògraf i també en les activitats que en deriven: director d'art, figurinista, ambientador de televisió, etc.</desc>
-    <length units="minutes">00:28:56</length>
-  </programme>
-  <programme start="20260924040341 +0000" channel="tv3" stop="20260924043214 +0000">
-    <title lang="ca">Arts i oficis</title>
-    <sub-title lang="ca">Ceramista</sub-title>
-    <desc lang="ca">D'oficis n'hi ha de tots tipus i maneres. Alguns es fan amb el cap, i, d'altres, amb les mans. La ceràmica necessita aquestes dues habilitats. Pels ceramistes, pensar i actuar es converteix en un binomi, difícil de separar. Ells tenen el do de convertir un bloc de fang en una obra artística, en un estri útil o en totes dues coses alhora. Al segle XXI, els tallers i estudis de ceràmica, sense renunciar a la vocació comuna de treballar el fang, han hagut d'adaptar-se a les noves exigències, artístiques o funcionals, que enfronta aquesta artesania. A l'Escola Superior de Disseny i Art 'Llotja' tradició i tecnologia es fonen per a la formació en l'ofici de ceramista. A Llotja, també tracten d'injectar en els estudiants paciència per crear l'obra i vehemència per aconseguir encàrrecs que modelin una trajectòria professional sòlida.</desc>
-    <length units="minutes">00:28:33</length>
+  <programme start="20260924135448 +0000" channel="tv3" stop="20260924142455 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">220</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:07</length>
   </programme>
 </tv>
