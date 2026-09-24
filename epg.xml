@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20260924173021 +0000" channel="tvi" stop="20260924190841 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">416</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:38:20</length>
+  <programme start="20260924225046 +0000" channel="tvi" stop="20260924231611 +0000">
+    <title lang="ca">Departament Amades</title>
+    <sub-title lang="ca">L'angelet de les dents</sub-title>
+    <desc lang="ca">L'angelet de les dents demana ajuda per eliminar la competència del ratolí Pérez. Unes veus estranyes porten la Xènia i el Marc a investigar un bosc i de passada a coneixe's millor. La consellera Molló té un pla per acabar amb el departament.</desc>
+    <length units="minutes">00:25:25</length>
   </programme>
-  <programme start="20260924190841 +0000" channel="tvi" stop="20260924201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">931</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:06:19</length>
+  <programme start="20260924231611 +0000" channel="tvi" stop="20260924234622 +0000">
+    <title lang="ca">Departament Amades</title>
+    <sub-title lang="ca">Dones d'aigua</sub-title>
+    <desc lang="ca">La Dolça, amb l'ajuda de la Xènia, ha d'aturar la Petúnia, una dona d'aigua que s'està aprofitant d'un socorrista en una piscina. El Marc convenç l'Arnau perquè gravi un vídeo per a xarxes i el comte aprofita per treure pit del seu passat gloriós.</desc>
+    <length units="minutes">00:30:11</length>
   </programme>
-  <programme start="20260924170000 +0000" channel="324" stop="20260924183000 +0000">
+  <programme start="20260924220500 +0000" channel="324" stop="20260925000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2166</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20260925000000 +0000" channel="324" stop="20260925003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11257</sub-title>
+    <sub-title lang="ca">11260</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260924183000 +0000" channel="324" stop="20260924200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11258</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20260924220456 +0000" channel="esport3" stop="20260924230000 +0000">
+    <title lang="ca">Canviant les regles del joc</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">La història del bàsquet femení a Vic: quan el bàsquet va canviar les seves vides i elles van canviar les regles del joc.</desc>
+    <length units="minutes">00:55:04</length>
   </programme>
-  <programme start="20260924175829 +0000" channel="esport3" stop="20260924185951 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Golejada de Champions, Dani García, NBA i tertúlia</sub-title>
-    <desc lang="ca">El Barça debuta a la Champions femenina amb golejada. En parlem amb Mireia Vera. Entrevistem Dani García, jugador de l'iLERNA Lleida. Aquest cap de setmana comença la Lliga ACB. L'NBA, amb Jordi de Mas; i a la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i en Pere de Cal Tet.</desc>
-    <length units="minutes">01:01:22</length>
+  <programme start="20260924230000 +0000" channel="esport3" stop="20260925003052 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:30:52</length>
   </programme>
-  <programme start="20260924185951 +0000" channel="esport3" stop="20260924203012 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Fermín, titular indiscutible?</sub-title>
-    <desc lang="ca">Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola.</desc>
-    <length units="minutes">01:30:21</length>
+  <programme start="20260924224746 +0000" channel="sx3" stop="20260924230838 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La ruta de muntanya fatídica</sub-title>
+    <desc lang="ca">El doctor Agasa acompanya tota la colla d'excursió a la muntanya. Al refugi on han de fer nit abans de pujar al cim, es troben un grup d'escaladors. De seguida veuen que entre ells hi ha mala maror, però ningú s'espera que l'endemà al matí una de les noies aparegui morta davant de la seva tenda. En Conan i els altres no paren d'investigar fins que troben el culpable de l'assassinat.</desc>
+    <length units="minutes">00:20:52</length>
   </programme>
-  <programme start="20260924175628 +0000" channel="sx3" stop="20260924181846 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">Rescats extrems: La Patrulla salva un observatori que s’escapa</sub-title>
-    <desc lang="ca">La Patrulla Peluda construeix un observatori per veure un cometa que ha de passar, però un cop fet, l'observatori s'escapa.</desc>
-    <length units="minutes">00:22:18</length>
+  <programme start="20260924230838 +0000" channel="sx3" stop="20260924233024 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Viatge a la zona subnival</sub-title>
+    <desc lang="ca">Els germans Kratt han decidit miniaturitzar-se i arribar fins a l'estratosfera amb el Minijet per descobrir com es forma un floc de neu. L'últim que s'esperaven en aquesta missió era descobrir una colònia d'animalons que viuen a sota de la neu a una temperatura constant de zero graus. Avui en Chris i en Martin aprendran un munt de coses de la misteriosa zona subnival!</desc>
+    <length units="minutes">00:21:46</length>
   </programme>
-  <programme start="20260924181846 +0000" channel="sx3" stop="20260924183013 +0000">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Mirallet, mirallet de l'armariet</sub-title>
-    <desc lang="ca">Per impressionar la seva mare capturant barrufets, el Gargamel crea un armari amb un mirall màgic que fa que qui s'hi miri sigui absorbit i hi quedi atrapat. Quan la Flor hi queda tancada, diferents barrufets la volen ajudar, però tots cauen a la mateixa trampa. Per sort, el Presumit venç la temptació de mirar-se a l'enorme mirall i segueix el Gargamel fins a casa per alliberar els seus amics.</desc>
-    <length units="minutes">00:11:27</length>
+  <programme start="20260924220558 +0000" channel="tv3" stop="20260924225730 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El termòmetre</sub-title>
+    <desc lang="ca">No, el termòmetre com el coneixem avui en dia no el van inventar els egipcis. Va ser al segle XVI i va ser en Galileo Galilei, el famós físic i astrònom italià, un home que va ser empresonat per la Inquisició a causa dels seus descobriments! Avui tenim una actuació ben interessant: ens visita en Guillem Cardona, músic i beatboxer. Voleu veure en Peyu fent beatbox? En acabat, passegem el gos per la Gran Guerra de l'Emu, un dels ridículs més espantosos protagonitzats per l'exèrcit australià.</desc>
+    <length units="minutes">00:51:32</length>
   </programme>
-  <programme start="20260924173604 +0000" channel="tv3" stop="20260924180211 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">El Bromo, el volcà sagrat de Java</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.</desc>
-    <length units="minutes">00:26:07</length>
-  </programme>
-  <programme start="20260924180211 +0000" channel="tv3" stop="20260924182818 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">El Kawah Ijen. L'infern del sofre</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java, on hi ha el volcà Kawah Ijen. Entre d'altres coses, l'acompanyarem en la seva visita al volcà, on hi ha el llac de cràter més àcid del món, veurem de prop la duríssima feina dels treballadors que arrenquen el sofre del cràter del volcà i també els problemes ecològics que causa al medi ambient la toxicitat de l'aigua del llac del Kawah Ijen. En un aspecte positiu, però, gaudirem de la bellesa de les flames blaves nocturnes del volcà, un fenomen que no es veu enlloc més del món.</desc>
-    <length units="minutes">00:26:07</length>
+  <programme start="20260924225730 +0000" channel="tv3" stop="20260924235455 +0000">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Mars</sub-title>
+    <desc lang="ca">Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
+    <length units="minutes">00:57:25</length>
   </programme>
 </tv>
