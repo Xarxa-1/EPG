@@ -1,8 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
@@ -12,65 +9,70 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260925103004 +0000" channel="tvi" stop="20260925135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1816</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:56</length>
+  <programme start="20260925173031 +0000" channel="tvi" stop="20260925191636 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">417</sub-title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="minutes">01:46:05</length>
   </programme>
-  <programme start="20260925135500 +0000" channel="tvi" stop="20260925143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7042</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20260925191636 +0000" channel="tvi" stop="20260925201839 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">932</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:02:03</length>
   </programme>
-  <programme start="20260925120000 +0000" channel="324" stop="20260925135500 +0000">
+  <programme start="20260925170000 +0000" channel="324" stop="20260925183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11264</sub-title>
+    <sub-title lang="ca">11266</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260925135500 +0000" channel="324" stop="20260925143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7042</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20260925183000 +0000" channel="324" stop="20260925200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11267</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260925121000 +0000" channel="esport3" stop="20260925125500 +0000">
+  <programme start="20260925173909 +0000" channel="esport3" stop="20260925190000 +0000">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Pinheiros-Barça / Mundial de Clubs / J1</sub-title>
     <desc lang="ca">Els blaugranes, campions de l'última edició, debuten en aquest nou Mundial de clubs a Egipte contra el conjunt brasiler de Sao Paulo.</desc>
-    <length units="minutes">00:45:00</length>
+    <length units="minutes">01:20:51</length>
   </programme>
-  <programme start="20260925125500 +0000" channel="esport3" stop="20260925130747 +0000">
-    <title lang="ca">Zona UFEC</title>
-    <sub-title lang="ca">707</sub-title>
-    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
-    <length units="minutes">00:12:47</length>
+  <programme start="20260925190000 +0000" channel="esport3" stop="20260925202500 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Deco tanca la carpeta Julián</sub-title>
+    <desc lang="ca">El secretari tècnic del Barça, Deco, aparta Julián Álvarez de l'òrbita blaugrana futura. En parlem amb Gemma Herrero i Ferran Correas. També analitzem el futur dels hereus dels cracs holandesos amb la caçatalents Andrea Orts. I amb Laia Tudel i Ramon Salmurri expliquem com va la venda dels seients vip. Acabem amb entrevista al conseller d'Esports de la Generalitat, Berni Álvarez.</desc>
+    <length units="minutes">01:25:00</length>
   </programme>
-  <programme start="20260925123645 +0000" channel="sx3" stop="20260925125851 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els castors constructors</sub-title>
-    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
-    <length units="minutes">00:22:06</length>
+  <programme start="20260925175640 +0000" channel="sx3" stop="20260925180928 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva un estruç</sub-title>
+    <desc lang="ca">Els Wingnut es pensen que el seu estruç va dins d'un remolc que està descontrolat.</desc>
+    <length units="minutes">00:12:48</length>
   </programme>
-  <programme start="20260925125851 +0000" channel="sx3" stop="20260925132238 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La trampa del sistema de seguretat</sub-title>
-    <desc lang="ca">En Kogoro i en Conan acompanyen a casa seva una clienta que ha estat víctima d'un robatori per revisar la seguretat del seu pis. Quan ja se'n van senten un soroll. Un veí ha caigut des de la terrassa. És un accident o un assassinat? Quan la policia entra al pis de la víctima hi troba una joia de la clienta d'en Kogoro. L'home mort era el lladre que robava al barri?</desc>
-    <length units="minutes">00:23:47</length>
+  <programme start="20260925180928 +0000" channel="sx3" stop="20260925182055 +0000">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">Barrufet contra màquina</sub-title>
+    <desc lang="ca">El Papa Bolquers, el robot que va crear l'Inventor, aprèn molt de pressa els secrets de l'ofici de manetes i repara avaries i desperfectes de manera ràpida i efectiva. L'Inventor comença a sentir-se amenaçat i crea un exoesquelet enorme amb què vol superar el Papa Bolquers. Però la competència entre tots dos els acabarà posant en greu perill i aprendran que val més col·laborar entre ells com havien fet fins ara.</desc>
+    <length units="minutes">00:11:27</length>
   </programme>
-  <programme start="20260925122916 +0000" channel="tv3" stop="20260925135627 +0000">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">L'Òscar Dalmau rebrà al plató d''EL GRAN GRAN DICTAT' la cantant i actriu Elena Gadel, el divulgador científic i presentador del programa 'Dinàmiks', Dani Jiménez, i una de les cares més populars de la història de la cadena, Mari Pau Huguet. Tots tres s'enfrontaran a les diferents proves del programa per guanyar un premi de 2.000 euros que donaran a l'ONG que prefereixin. Tot plegat, sense perdre en cap moment el sentit de l'humor.D'aquesta manera, descobrirem a través de diversos esquetxos les aficions amagades dels concursants. Enxamparem l'Elena Gadel practicant el seu hobby preferit: la delinqüència juvenil; el Dani Jiménez es declararà un obsés de la neteja fins a límits insospitats; i, finalment, sabrem a què es dedica la Mari Pau Huguet quan no treballa a TV3.Com cada setmana, el Mag Lari donarà un toc personal al programa amb alguns dels trucs més divertits i sorprenents del seu repertori. Per fer-ho, demanarà la col·laboració d'alguns dels convidats i del presentador, que es convertiran en ajudants improvisats del conegut mag.</desc>
-    <length units="minutes">01:27:11</length>
+  <programme start="20260925173941 +0000" channel="tv3" stop="20260925180553 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Les illes Vestman, sentinelles volcànics d'Islàndia</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a les illes Vestman, davant la costa d'Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al poble d'Heimaey, on un volcà va aparèixer sobtadament al mig del poble, i a Surtsey, una illa volcànica acabada de crear on es pot observar el lent procés de colonització, des de zero, per part de la vida.</desc>
+    <length units="minutes">00:26:12</length>
   </programme>
-  <programme start="20260925135627 +0000" channel="tv3" stop="20260925142631 +0000">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">221</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:30:04</length>
+  <programme start="20260925180553 +0000" channel="tv3" stop="20260925183138 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Islàndia. Els senyors de foc</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
+    <length units="minutes">00:25:45</length>
   </programme>
 </tv>
