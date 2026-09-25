@@ -3,76 +3,74 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260925040000 +0000" channel="tvi" stop="20260925050000 +0000">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">VERMOUTH TIME</sub-title>
-    <desc lang="ca">Aquest quintet és una formació dedicada al soul-jazz, aquesta barreja de ritme i harmonia tan característica de la dècada dels anys 60. L'orgue Hammond és un dels elements clau d'aquest so i en aquesta formació el toca el multiinstrumentista Víctor Puertas, que ja ens ha visitat anteriorment. Els Vermouth Jazz són: Víctor Puertas a la veu i al Hammond, Pau Ruíz a la guitarra, Sergi Franch al saxos, Marc Mena a la trompeta i Raúl Lorenzo a la bateria.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20260925103004 +0000" channel="tvi" stop="20260925135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1816</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:56</length>
   </programme>
-  <programme start="20260925050000 +0000" channel="tvi" stop="20260925055942 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Perico Sambeat</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:59:42</length>
+  <programme start="20260925135500 +0000" channel="tvi" stop="20260925143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7042</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260925010000 +0000" channel="324" stop="20260925060000 +0000">
+  <programme start="20260925120000 +0000" channel="324" stop="20260925135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11261</sub-title>
+    <sub-title lang="ca">11264</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260925060000 +0000" channel="324" stop="20260925080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11262</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260925135500 +0000" channel="324" stop="20260925143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7042</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260925040611 +0000" channel="esport3" stop="20260925042122 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5518</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:15:11</length>
+  <programme start="20260925121000 +0000" channel="esport3" stop="20260925125500 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Pinheiros-Barça / Mundial de Clubs / J1</sub-title>
+    <desc lang="ca">Els blaugranes, campions de l'última edició, debuten en aquest nou Mundial de clubs a Egipte contra el conjunt brasiler de Sao Paulo.</desc>
+    <length units="minutes">00:45:00</length>
   </programme>
-  <programme start="20260925042122 +0000" channel="esport3" stop="20260925044857 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Matchday Champions Women J1</sub-title>
-    <desc lang="ca">Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
-    <length units="minutes">00:27:35</length>
+  <programme start="20260925125500 +0000" channel="esport3" stop="20260925130747 +0000">
+    <title lang="ca">Zona UFEC</title>
+    <sub-title lang="ca">707</sub-title>
+    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
+    <length units="minutes">00:12:47</length>
   </programme>
-  <programme start="20260925040821 +0000" channel="sx3" stop="20260925042015 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El teixó volador</sub-title>
-    <desc lang="ca">Avui, després d'esmorzar, els pares se'n van a fer una caminada que, segons la Marguerite, serà tota una aventura. Quan es queden sols, els nens decideixen que ells també volen viure la seva pròpia aventura. La Guineta i en Pinxo se'n van a buscar un lloc ple de fruites i verdures gegants, i la Trufa i en Timbal es posen a treballar en un invent per volar com els ocells.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20260925123645 +0000" channel="sx3" stop="20260925125851 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els castors constructors</sub-title>
+    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
+    <length units="minutes">00:22:06</length>
   </programme>
-  <programme start="20260925042015 +0000" channel="sx3" stop="20260925043145 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La reconciliació</sub-title>
-    <desc lang="ca">La Guineta i en Pinxo es discuteixen contínuament, cosa que crea un mal ambient a la família. En un intent d'arreglar les coses, la Guineta idea un pla per tornar a la situació d'abans, és a dir, abans que la Marguerite i ella anessin a viure al cau dels teixons.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20260925125851 +0000" channel="sx3" stop="20260925132238 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La trampa del sistema de seguretat</sub-title>
+    <desc lang="ca">En Kogoro i en Conan acompanyen a casa seva una clienta que ha estat víctima d'un robatori per revisar la seguretat del seu pis. Quan ja se'n van senten un soroll. Un veí ha caigut des de la terrassa. És un accident o un assassinat? Quan la policia entra al pis de la víctima hi troba una joia de la clienta d'en Kogoro. L'home mort era el lladre que robava al barri?</desc>
+    <length units="minutes">00:23:47</length>
   </programme>
-  <programme start="20260925035942 +0000" channel="tv3" stop="20260925042231 +0000">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">De veritat es parla català a l'Alguer?</sub-title>
-    <desc lang="ca">A l'Alguer, a l'illa de Sardenya, s'hi parla català des del segle XIV. O això diuen els llibres. Aquest és un capítol en què 'Caçadors de paraules' fa periodisme d'investigació: és cert, que els algueresos parlen català? I com sona, el seu català? Ens guarden rancúnia, pel fet que el nostre rei Pere IV va buidar la ciutat i la va repoblar amb catalans? En Roger de Gràcia viatja a un Alguer hivernal, sense turistes. Para l'orella al carrer i xafardeja per escoles, mercats, platós de televisió local, barberies i camps de rugbi. Avançant els resultat, diriem que sí..., gairebé podria dir-se que ¿quan estan sols- gairebé tots els algueresos parlen alguerès. La qüestió és: i com és, l'alguerès que parlen? Té algun futur, aquest català del segle XVI?</desc>
-    <length units="minutes">00:22:49</length>
+  <programme start="20260925122916 +0000" channel="tv3" stop="20260925135627 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">L'Òscar Dalmau rebrà al plató d''EL GRAN GRAN DICTAT' la cantant i actriu Elena Gadel, el divulgador científic i presentador del programa 'Dinàmiks', Dani Jiménez, i una de les cares més populars de la història de la cadena, Mari Pau Huguet. Tots tres s'enfrontaran a les diferents proves del programa per guanyar un premi de 2.000 euros que donaran a l'ONG que prefereixin. Tot plegat, sense perdre en cap moment el sentit de l'humor.D'aquesta manera, descobrirem a través de diversos esquetxos les aficions amagades dels concursants. Enxamparem l'Elena Gadel practicant el seu hobby preferit: la delinqüència juvenil; el Dani Jiménez es declararà un obsés de la neteja fins a límits insospitats; i, finalment, sabrem a què es dedica la Mari Pau Huguet quan no treballa a TV3.Com cada setmana, el Mag Lari donarà un toc personal al programa amb alguns dels trucs més divertits i sorprenents del seu repertori. Per fer-ho, demanarà la col·laboració d'alguns dels convidats i del presentador, que es convertiran en ajudants improvisats del conegut mag.</desc>
+    <length units="minutes">01:27:11</length>
   </programme>
-  <programme start="20260925042231 +0000" channel="tv3" stop="20260925045017 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">L'estadi urbà</sub-title>
-    <desc lang="ca">'A la ville de Barcelona'Els Jocs del 92 van ser el punt d'inflexió de Barcelona i des de llavors la ciutat és una de les més preparades a nivell mundial per a la pràctica de competicions. Però la realitat és que l'esport forma part de l'ADN de la ciutat, no només en el sentit professional de la paraula, i els seus carrers i la seva gent l'han convertida en un gran estadi urbà. En aquest gran recorregut practicarem escalada al Climbat La Foixarda, passejarem en bicicleta adaptada pel Parc Fluvial del Besòs, farem Txi Kung al Parc de la Ciutadella, aprendrem que important que és l'alimentació per a l'esport i jugarem a futbol amb l'Isaac Cuenca, jugador del FC Barcelona, al seu primer club.</desc>
-    <length units="minutes">00:27:46</length>
+  <programme start="20260925135627 +0000" channel="tv3" stop="20260925142631 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">221</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:04</length>
   </programme>
 </tv>
