@@ -1,11 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
@@ -15,64 +9,70 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260924225046 +0000" channel="tvi" stop="20260924231611 +0000">
-    <title lang="ca">Departament Amades</title>
-    <sub-title lang="ca">L'angelet de les dents</sub-title>
-    <desc lang="ca">L'angelet de les dents demana ajuda per eliminar la competència del ratolí Pérez. Unes veus estranyes porten la Xènia i el Marc a investigar un bosc i de passada a coneixe's millor. La consellera Molló té un pla per acabar amb el departament.</desc>
-    <length units="minutes">00:25:25</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20260925040000 +0000" channel="tvi" stop="20260925050000 +0000">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">VERMOUTH TIME</sub-title>
+    <desc lang="ca">Aquest quintet és una formació dedicada al soul-jazz, aquesta barreja de ritme i harmonia tan característica de la dècada dels anys 60. L'orgue Hammond és un dels elements clau d'aquest so i en aquesta formació el toca el multiinstrumentista Víctor Puertas, que ja ens ha visitat anteriorment. Els Vermouth Jazz són: Víctor Puertas a la veu i al Hammond, Pau Ruíz a la guitarra, Sergi Franch al saxos, Marc Mena a la trompeta i Raúl Lorenzo a la bateria.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260924231611 +0000" channel="tvi" stop="20260924234622 +0000">
-    <title lang="ca">Departament Amades</title>
-    <sub-title lang="ca">Dones d'aigua</sub-title>
-    <desc lang="ca">La Dolça, amb l'ajuda de la Xènia, ha d'aturar la Petúnia, una dona d'aigua que s'està aprofitant d'un socorrista en una piscina. El Marc convenç l'Arnau perquè gravi un vídeo per a xarxes i el comte aprofita per treure pit del seu passat gloriós.</desc>
-    <length units="minutes">00:30:11</length>
+  <programme start="20260925050000 +0000" channel="tvi" stop="20260925055942 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Perico Sambeat</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">00:59:42</length>
   </programme>
-  <programme start="20260924220500 +0000" channel="324" stop="20260925000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2166</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260925000000 +0000" channel="324" stop="20260925003000 +0000">
+  <programme start="20260925010000 +0000" channel="324" stop="20260925060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11260</sub-title>
+    <sub-title lang="ca">11261</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260924220456 +0000" channel="esport3" stop="20260924230000 +0000">
-    <title lang="ca">Canviant les regles del joc</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">La història del bàsquet femení a Vic: quan el bàsquet va canviar les seves vides i elles van canviar les regles del joc.</desc>
-    <length units="minutes">00:55:04</length>
+  <programme start="20260925060000 +0000" channel="324" stop="20260925080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11262</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260924230000 +0000" channel="esport3" stop="20260925003052 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <length units="minutes">01:30:52</length>
+  <programme start="20260925040611 +0000" channel="esport3" stop="20260925042122 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5518</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:15:11</length>
   </programme>
-  <programme start="20260924224746 +0000" channel="sx3" stop="20260924230838 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La ruta de muntanya fatídica</sub-title>
-    <desc lang="ca">El doctor Agasa acompanya tota la colla d'excursió a la muntanya. Al refugi on han de fer nit abans de pujar al cim, es troben un grup d'escaladors. De seguida veuen que entre ells hi ha mala maror, però ningú s'espera que l'endemà al matí una de les noies aparegui morta davant de la seva tenda. En Conan i els altres no paren d'investigar fins que troben el culpable de l'assassinat.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20260925042122 +0000" channel="esport3" stop="20260925044857 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Matchday Champions Women J1</sub-title>
+    <desc lang="ca">Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
+    <length units="minutes">00:27:35</length>
   </programme>
-  <programme start="20260924230838 +0000" channel="sx3" stop="20260924233024 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Viatge a la zona subnival</sub-title>
-    <desc lang="ca">Els germans Kratt han decidit miniaturitzar-se i arribar fins a l'estratosfera amb el Minijet per descobrir com es forma un floc de neu. L'últim que s'esperaven en aquesta missió era descobrir una colònia d'animalons que viuen a sota de la neu a una temperatura constant de zero graus. Avui en Chris i en Martin aprendran un munt de coses de la misteriosa zona subnival!</desc>
-    <length units="minutes">00:21:46</length>
+  <programme start="20260925040821 +0000" channel="sx3" stop="20260925042015 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El teixó volador</sub-title>
+    <desc lang="ca">Avui, després d'esmorzar, els pares se'n van a fer una caminada que, segons la Marguerite, serà tota una aventura. Quan es queden sols, els nens decideixen que ells també volen viure la seva pròpia aventura. La Guineta i en Pinxo se'n van a buscar un lloc ple de fruites i verdures gegants, i la Trufa i en Timbal es posen a treballar en un invent per volar com els ocells.</desc>
+    <length units="minutes">00:11:54</length>
   </programme>
-  <programme start="20260924220558 +0000" channel="tv3" stop="20260924225730 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El termòmetre</sub-title>
-    <desc lang="ca">No, el termòmetre com el coneixem avui en dia no el van inventar els egipcis. Va ser al segle XVI i va ser en Galileo Galilei, el famós físic i astrònom italià, un home que va ser empresonat per la Inquisició a causa dels seus descobriments! Avui tenim una actuació ben interessant: ens visita en Guillem Cardona, músic i beatboxer. Voleu veure en Peyu fent beatbox? En acabat, passegem el gos per la Gran Guerra de l'Emu, un dels ridículs més espantosos protagonitzats per l'exèrcit australià.</desc>
-    <length units="minutes">00:51:32</length>
+  <programme start="20260925042015 +0000" channel="sx3" stop="20260925043145 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La reconciliació</sub-title>
+    <desc lang="ca">La Guineta i en Pinxo es discuteixen contínuament, cosa que crea un mal ambient a la família. En un intent d'arreglar les coses, la Guineta idea un pla per tornar a la situació d'abans, és a dir, abans que la Marguerite i ella anessin a viure al cau dels teixons.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20260924225730 +0000" channel="tv3" stop="20260924235455 +0000">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Mars</sub-title>
-    <desc lang="ca">Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
-    <length units="minutes">00:57:25</length>
+  <programme start="20260925035942 +0000" channel="tv3" stop="20260925042231 +0000">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">De veritat es parla català a l'Alguer?</sub-title>
+    <desc lang="ca">A l'Alguer, a l'illa de Sardenya, s'hi parla català des del segle XIV. O això diuen els llibres. Aquest és un capítol en què 'Caçadors de paraules' fa periodisme d'investigació: és cert, que els algueresos parlen català? I com sona, el seu català? Ens guarden rancúnia, pel fet que el nostre rei Pere IV va buidar la ciutat i la va repoblar amb catalans? En Roger de Gràcia viatja a un Alguer hivernal, sense turistes. Para l'orella al carrer i xafardeja per escoles, mercats, platós de televisió local, barberies i camps de rugbi. Avançant els resultat, diriem que sí..., gairebé podria dir-se que ¿quan estan sols- gairebé tots els algueresos parlen alguerès. La qüestió és: i com és, l'alguerès que parlen? Té algun futur, aquest català del segle XVI?</desc>
+    <length units="minutes">00:22:49</length>
+  </programme>
+  <programme start="20260925042231 +0000" channel="tv3" stop="20260925045017 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">L'estadi urbà</sub-title>
+    <desc lang="ca">'A la ville de Barcelona'Els Jocs del 92 van ser el punt d'inflexió de Barcelona i des de llavors la ciutat és una de les més preparades a nivell mundial per a la pràctica de competicions. Però la realitat és que l'esport forma part de l'ADN de la ciutat, no només en el sentit professional de la paraula, i els seus carrers i la seva gent l'han convertida en un gran estadi urbà. En aquest gran recorregut practicarem escalada al Climbat La Foixarda, passejarem en bicicleta adaptada pel Parc Fluvial del Besòs, farem Txi Kung al Parc de la Ciutadella, aprendrem que important que és l'alimentació per a l'esport i jugarem a futbol amb l'Isaac Cuenca, jugador del FC Barcelona, al seu primer club.</desc>
+    <length units="minutes">00:27:46</length>
   </programme>
 </tv>
