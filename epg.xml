@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20260925173031 +0000" channel="tvi" stop="20260925191636 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">417</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:46:05</length>
+  <programme start="20260925220525 +0000" channel="tvi" stop="20260926001259 +0000">
+    <title lang="ca">La gran pel·lícula</title>
+    <sub-title lang="ca">El Porter</sub-title>
+    <desc lang="ca">EL PORTER 'Trautmann'Direcció: Marcus H. RosenmüllerGuió: Robert Marciniak, Marcus H. Rosenmüller, Nicholas J. SchofieldProducció: Lieblingsfilm, Zephyr Films, British Film CompanyAny: 2018Durada: 120País: AlemanyaMúsica: Gerd BaumannFotografia: Daniel GottschalkIntèrprets: David Kross, Freya Mavor, John Henshaw, Harry Melling, Michael Socha, Dave Johns, Barbara Young, Chloe Harris, Mikey Collins, Gary Lewis, Dervla Kirwan, Angus Barnett, Alex FreemanDurant la Segona Guerra Mundial, el soldat alemany Bert Trautmann és capturat i deportat a un camp de presoners a Anglaterra. Allà, la seva habilitat com a porter impressiona un entrenador local i acaba jugant pel Manchester City. Malgrat la desconfiança inicial de l'afició, s'acaba guanyant el seu respecte amb coratge i integritat mentre afronta el pes de la guerra i una tragèdia familiar que li marcarà la vida per sempre</desc>
+    <length units="minutes">02:07:34</length>
   </programme>
-  <programme start="20260925191636 +0000" channel="tvi" stop="20260925201839 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">932</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:02:03</length>
+  <programme start="20260926001259 +0000" channel="tvi" stop="20260926014517 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Assassinats a La Vendée</sub-title>
+    <desc lang="ca">ASSASSINATS A LA VENDÉE 'Le Vent des sables'Direcció: Stéphane KappesGuió: Frédéric Faurt, Lionel PasquierProducció: Son et Lumière, France Télévisions, AT-Production, RTBFAny: 2024Durada: 90País: FrançaMúsica: Xavier BerthelotFotografia: Sophie ArdissonIntèrprets: Marie-Josée Croze, Tom Leeb, Alexandre Brasseur, William Nadylam, Guillaume Arnault, Gabrielle Atger, Stéphane Brel, Nicolas Jouhet, Célie Verger, Laurence Huby, Fatah Boudia, Simon Morant, Arnaud de Montlivault, Isaline Ponroy, Sylvain Saussereau, Pierre Ostoya Magnin, Clément VinetteMentre els patrons que competeixen a la Vendée Globe es preparen per salpar, l'assassinat d'un membre de la comunitat altera els preparatius de la competició. La víctima és el patrocinador d'en Yannick Berthomé, l'estrella de la zona i favorit per guanyar la competició. Els tinents Judith Kamara i Olivier Finet, de la policia judicial d'Angers, es desplacen fins a la competició per fer-se càrrec de la investigació del crim.</desc>
+    <length units="minutes">01:32:18</length>
   </programme>
-  <programme start="20260925170000 +0000" channel="324" stop="20260925183000 +0000">
+  <programme start="20260925220500 +0000" channel="324" stop="20260925233000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2167</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:25:00</length>
+  </programme>
+  <programme start="20260925233000 +0000" channel="324" stop="20260926003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11266</sub-title>
+    <sub-title lang="ca">11269</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260925183000 +0000" channel="324" stop="20260925200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11267</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20260925173909 +0000" channel="esport3" stop="20260925190000 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Pinheiros-Barça / Mundial de Clubs / J1</sub-title>
-    <desc lang="ca">Els blaugranes, campions de l'última edició, debuten en aquest nou Mundial de clubs a Egipte contra el conjunt brasiler de Sao Paulo.</desc>
-    <length units="minutes">01:20:51</length>
-  </programme>
-  <programme start="20260925190000 +0000" channel="esport3" stop="20260925202500 +0000">
+  <programme start="20260925215902 +0000" channel="esport3" stop="20260925230000 +0000">
     <title lang="ca">Tot Costa</title>
     <sub-title lang="ca">Deco tanca la carpeta Julián</sub-title>
     <desc lang="ca">El secretari tècnic del Barça, Deco, aparta Julián Álvarez de l'òrbita blaugrana futura. En parlem amb Gemma Herrero i Ferran Correas. També analitzem el futur dels hereus dels cracs holandesos amb la caçatalents Andrea Orts. I amb Laia Tudel i Ramon Salmurri expliquem com va la venda dels seients vip. Acabem amb entrevista al conseller d'Esports de la Generalitat, Berni Álvarez.</desc>
-    <length units="minutes">01:25:00</length>
+    <length units="minutes">01:00:58</length>
   </programme>
-  <programme start="20260925175640 +0000" channel="sx3" stop="20260925180928 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un estruç</sub-title>
-    <desc lang="ca">Els Wingnut es pensen que el seu estruç va dins d'un remolc que està descontrolat.</desc>
-    <length units="minutes">00:12:48</length>
+  <programme start="20260925230000 +0000" channel="esport3" stop="20260926003049 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Julán, el passat? Raphinha superestrella; Fàbregas, Delmàs i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau fa tertúlia amb Carles Fité, Laia Bonals, Juli Garcia i Edgar Fornós. Comentem les declaracions de Deco en les que gira full de l'afer Julián Álvarez. Amb Àlex Delmàs repassem l'impacte que ha tingut fins ara Raphinha a la posició de davanter centre. Ens visita Joan Fàbregas, entrevistem la campiona de motocròs Daniela Guillén i acabem amb l'humor de Xavi Cazorla.</desc>
+    <length units="minutes">01:30:49</length>
   </programme>
-  <programme start="20260925180928 +0000" channel="sx3" stop="20260925182055 +0000">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Barrufet contra màquina</sub-title>
-    <desc lang="ca">El Papa Bolquers, el robot que va crear l'Inventor, aprèn molt de pressa els secrets de l'ofici de manetes i repara avaries i desperfectes de manera ràpida i efectiva. L'Inventor comença a sentir-se amenaçat i crea un exoesquelet enorme amb què vol superar el Papa Bolquers. Però la competència entre tots dos els acabarà posant en greu perill i aprendran que val més col·laborar entre ells com havien fet fins ara.</desc>
-    <length units="minutes">00:11:27</length>
+  <programme start="20260925224810 +0000" channel="sx3" stop="20260925230755 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El mateix escenari del crim que fa disset anys (2a part)</sub-title>
+    <desc lang="ca">Aquest cas és un cúmul d'indicis inconnexos: l'olor de mel, les tisores, l'aixeta del lavabo oberta, una pilota de colors... Fins que una llarga filera de formigues condueix en Conan i en Subaru cap al lloc on l'assassí ha amagat l'arma del crim, i això els permetrà descobrir de quina manera ha mort el senyor Hiyama i com se les ha enginyat el culpable per introduir l'arma al pavelló.</desc>
+    <length units="minutes">00:19:45</length>
   </programme>
-  <programme start="20260925173941 +0000" channel="tv3" stop="20260925180553 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Les illes Vestman, sentinelles volcànics d'Islàndia</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a les illes Vestman, davant la costa d'Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al poble d'Heimaey, on un volcà va aparèixer sobtadament al mig del poble, i a Surtsey, una illa volcànica acabada de crear on es pot observar el lent procés de colonització, des de zero, per part de la vida.</desc>
-    <length units="minutes">00:26:12</length>
+  <programme start="20260925230755 +0000" channel="sx3" stop="20260925232848 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Sota l'estany glaçat</sub-title>
+    <desc lang="ca">Els germans Kratt, els membres del seu equip i els nens de l'estany de les Granotes s'embarquen en una aventura subaquàtica per descobrir com sobreviuen els animals de l'estany durant l'hivern. Quan intenten tornar a sortir a la superfície s'emporten una desagradable sorpresa.</desc>
+    <length units="minutes">00:20:53</length>
   </programme>
-  <programme start="20260925180553 +0000" channel="tv3" stop="20260925183138 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Islàndia. Els senyors de foc</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
-    <length units="minutes">00:25:45</length>
+  <programme start="20260925220211 +0000" channel="tv3" stop="20260925225327 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 4</sub-title>
+    <desc lang="ca">Aquesta setmana dediquem els programes al telègraf, el diari, la xinxeta i el termòmetre, uns elements que et podries emportar tranquil·lament a una illa deserta, i que potser no et salven d'una part segura, però et permetrien comunicar-te, orientar-te, distreure't, i saber si tens febre. Gens malament, la veritat. Els convidats que passen pel programa són l'imitador Xavi Espinosa, la pèrita cal·ligràfica Imma Lidón, el beatboxer Guillem Cardona, i en Guillem Ramisa.</desc>
+    <length units="minutes">00:51:16</length>
+  </programme>
+  <programme start="20260925225327 +0000" channel="tv3" stop="20260926001816 +0000">
+    <title lang="ca">Illes salvatges</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">ILLES SALVATGESSinopsiEl nostre planeta és ple de vida. D'oceans immensos a cels oberts, la diversitat de la vida sembla infinita. Però una de les espècies de la Terra està destarotant l'equilibri de totes les altres. El Regne Unit és un dels països del món amb la natura més delmada, però la història que us volem explicar està plena d'esperança i indica que els canvis podrien ser imminents.Aquest documental repassa alguns dels paisatges més remots del país, com ara Shetland, Cornualla, Pembrokeshire o el mar de les Hèbrides, per descobrir com els humans poden coexistir pacíficament amb la meravellosa natura d'aquestes illes salvatges.</desc>
+    <length units="minutes">01:24:49</length>
   </programme>
 </tv>
