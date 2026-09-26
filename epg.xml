@@ -3,75 +3,75 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260926113443 +0000" channel="tvi" stop="20260926125040 +0000">
-    <title lang="ca">Soc i Seré</title>
-    <sub-title lang="ca">Un poble cantaire</sub-title>
-    <desc lang="ca">Comença la batalla per convertir-se en la persona que sap més de Catalunya. Dividits en dos equips de 50 persones, els aspirants s'enfrontaran als primers reptes de la segona temporada.El repte d'avantatge, anomenat Casa meva és casa vostra, serà una intrèpida gimcana de banderes on els aspirants hauran de demostrar els seus coneixements sobre els municipis catalans. Però tot es decidirà al repte eliminatori, titulat Canto jo i la colònia balla. Per continuar al programa, els dos equips hauran d'emocionar un jurat format per Nina, Laura Andrés i Arnau Vilà amb les versions corals de dues conegudes havaneres.Només un equip continuarà al programa i es ficarà els primeres 10.000 euros a la butxaca. Les 50 persones restants se n'aniran a casa, però alguns eliminats rebran unca carta misteriosa que els donarà una seogna oportunitat.Qui guanyarà aquest primer duel, els Alls o els Olis? Aquí comença 'Soc i seré'.</desc>
-    <length units="minutes">01:15:57</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20260926171357 +0000" channel="tvi" stop="20260926180516 +0000">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Abric Romaní: l' hostal dels Neanderthals</sub-title>
+    <desc lang="ca">Buscar rastres neandertals a l'abric Romaní de Capellades. Aquest és el repte d'aquest capítol. Descobrir com vivien, com s'organitzaven, de què s'alimentaven, com es protegien… L'abric Romaní està documentat com a lloc de pas neandertal fa, aproximadament, entre 35.000 i 70.000 anys. En aquest capítol excavem el nivell corresponent a fa 60.000 anys. És a dir, que volen saber com era la vida neandertal a Capellades fa tots aquests anys. I buscarem restes, eines, el que ens pugui donar una pista. I si trobem una resta directa d'un homo neandertal, un os, ja serà històric, perquè mai a la història de l'abric Romaní s'ha fet una troballa tan important!</desc>
+    <length units="minutes">00:51:19</length>
   </programme>
-  <programme start="20260926125040 +0000" channel="tvi" stop="20260926134930 +0000">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Costa Brava</sub-title>
-    <desc lang="ca">La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
-    <length units="minutes">00:58:50</length>
+  <programme start="20260926180516 +0000" channel="tvi" stop="20260926181637 +0000">
+    <title lang="ca">Blog Europa.</title>
+    <sub-title lang="ca">55</sub-title>
+    <length units="minutes">00:11:21</length>
   </programme>
-  <programme start="20260926120000 +0000" channel="324" stop="20260926143000 +0000">
+  <programme start="20260926163000 +0000" channel="324" stop="20260926183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11273</sub-title>
+    <sub-title lang="ca">11274</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260926143000 +0000" channel="324" stop="20260926154000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7340</sub-title>
-    <length units="minutes">01:10:00</length>
+  <programme start="20260926183000 +0000" channel="324" stop="20260926200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11275</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260926115500 +0000" channel="esport3" stop="20260926125030 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Badalona Women-Granada CF / Lliga F / J5</sub-title>
-    <desc lang="ca">Les badalonines estan fent un bon inici de campionat, han sumat 7 punts de 12, i una nova victòria les mantindria a la zona alta de la classificació.</desc>
-    <length units="minutes">00:55:30</length>
-  </programme>
-  <programme start="20260926125030 +0000" channel="esport3" stop="20260926125927 +0000">
+  <programme start="20260926164922 +0000" channel="esport3" stop="20260926174116 +0000">
     <title lang="ca">E3</title>
-    <sub-title lang="ca">Marnaton Cadaqués</sub-title>
-    <desc lang="ca">Documentals, reportatges, resums... Tot allò que t'imagines del món de l'esport, ho trobes aquí, a Esport3!</desc>
-    <length units="minutes">00:08:57</length>
+    <sub-title lang="ca">L'home més fort del món 5</sub-title>
+    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
+    <length units="minutes">00:51:54</length>
   </programme>
-  <programme start="20260926122151 +0000" channel="sx3" stop="20260926122821 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">La cabana dels focs artificials</sub-title>
-    <desc lang="ca">De nit, quan en Grizzy intenta dormir sent molt d'enrenou fora de la cabana: els Lèmmings llisquen per la Gran Muralla sobre una caixa propulsada per coets. Mentre eviten els estratagemes d'en Grizzy per detenir-los, els Lèmmings activen per accident el mecanisme d'una torre que obre una habitació secreta. L'habitació és plena de canons i catapultes que els petits aprenents d'artificier no dubten a utilitzar...</desc>
-    <length units="minutes">00:06:30</length>
+  <programme start="20260926174116 +0000" channel="esport3" stop="20260926183500 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">L'home més fort del món 6</sub-title>
+    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
+    <length units="minutes">00:53:44</length>
   </programme>
-  <programme start="20260926122821 +0000" channel="sx3" stop="20260926123451 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Reacció al robatori</sub-title>
-    <desc lang="ca">En Grizzy i els Lèmmings es barallen per l'última cullerada de crema de xocolata, però paren quan troben, al garatge, una caixa plena de pots sense obrir. Els rosegadors s'apoderen de la caixa i se l'enduen volant amb un dron. L'os els atrapa, muntat sobre l'esquena d'un ratpenat gegant. Els pots de xocolata cauen sobre un temple maia sagrat que està ple de paranys. Però quan els recuperen, un gegant de pedra es disposa a perseguir en Grizzy i els Lèmmings!</desc>
-    <length units="minutes">00:06:30</length>
+  <programme start="20260926170918 +0000" channel="sx3" stop="20260926171949 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">Reptes a tot preu</sub-title>
+    <desc lang="ca">La Turbina i la Picarina juguen a llançar-se reptes, fins que provoquen la ira dels romans quan pispen el raspall de luxe de la Monalisa. El cau dels Irreductibles corre perill i cal retornar el raspall als romans com més aviat millor, però la banda de les catacumbes se l'ha fet seu. Mentrestant, la poció del Voldenix contra el catarro de l'Ideafix provoca uns efectes secundaris ben empipadors, que, tanmateix, ajudaran els Irreductibles a retornar el raspall als romans.</desc>
+    <length units="minutes">00:10:31</length>
   </programme>
-  <programme start="20260926115906 +0000" channel="tv3" stop="20260926125933 +0000">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Monestir de Santes Creus a Tarragona</sub-title>
-    <desc lang="ca">Avui l'Albert Om arriba al Reial Monestir de Santes Creus en un dels tractors que van participar a la manifestació del 3 d'octubre de 2017. El monestir, símbol de la transició del romànic al gòtic ens servirà d'escenari per mostrar les eines amb les que s'assistia als parts fa 50 anys. Descobrirem com un soldat de la Guerra Civil va portar una bala al cos durant 40 anys i tindrem a les mans el trofeu que Pau Casals va entregar als guanyadors del I Concurs de Castells de Tarragona.</desc>
-    <length units="minutes">01:00:27</length>
+  <programme start="20260926171949 +0000" channel="sx3" stop="20260926173018 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">La còlera de Belenos</sub-title>
+    <desc lang="ca">El mussol Voldenix creu que els romans volen calar foc a tot Lutècia. Però l'Ideafix s'assabenta que el que preparen és una festa sorpresa en honor del prefecte Astutus. Tossut, en Voldenix fabrica una poció que sí que posarà en perill la vida de tots plegats!</desc>
+    <length units="minutes">00:10:29</length>
   </programme>
-  <programme start="20260926125933 +0000" channel="tv3" stop="20260926134625 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Les puntes de coixí</sub-title>
-    <desc lang="ca">Que som uns nostàlgics ja ho sabem, nosaltres i vosaltres. Però és que no podem deixar de ser-ho. Per això, hem decidit dedicar aquest capítol a les puntes de coixí. Per si no ho sabeu, antigament s'havien utilitzat per enviar missatges secrets! Poca broma amb les puntaires! Passen per 'La Renaixença' Els Amics de les Arts. Parlar amb ells i escoltar-los amb l'Arnau i la Laia fent 'Jean-Luc' és d'aquelles coses que recordarem. A 'Històries per passejar el gos' anem amb en Jumo fins a la vaga dels tramvies del 1951.</desc>
-    <length units="minutes">00:46:52</length>
+  <programme start="20260926162224 +0000" channel="tv3" stop="20260926171446 +0000">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Els habitants dels extrems</sub-title>
+    <desc lang="ca">Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
+    <length units="minutes">00:52:22</length>
+  </programme>
+  <programme start="20260926171446 +0000" channel="tv3" stop="20260926174051 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Etna, la muntanya de les muntanyes</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics.</desc>
+    <length units="minutes">00:26:05</length>
   </programme>
 </tv>
