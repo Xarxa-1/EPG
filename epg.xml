@@ -1,77 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260926171357 +0000" channel="tvi" stop="20260926180516 +0000">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Abric Romaní: l' hostal dels Neanderthals</sub-title>
-    <desc lang="ca">Buscar rastres neandertals a l'abric Romaní de Capellades. Aquest és el repte d'aquest capítol. Descobrir com vivien, com s'organitzaven, de què s'alimentaven, com es protegien… L'abric Romaní està documentat com a lloc de pas neandertal fa, aproximadament, entre 35.000 i 70.000 anys. En aquest capítol excavem el nivell corresponent a fa 60.000 anys. És a dir, que volen saber com era la vida neandertal a Capellades fa tots aquests anys. I buscarem restes, eines, el que ens pugui donar una pista. I si trobem una resta directa d'un homo neandertal, un os, ja serà històric, perquè mai a la història de l'abric Romaní s'ha fet una troballa tan important!</desc>
-    <length units="minutes">00:51:19</length>
+  <programme start="20260926221100 +0000" channel="tvi" stop="20260927005519 +0000">
+    <title lang="ca">Col·lapse</title>
+    <sub-title lang="ca">25/09/2026</sub-title>
+    <desc lang="ca">Estrenem temporada entrevistant el xef que va revolucionar la gastronomia mundial: FERRAN ADRIÀ. Ens visita la parella de moda de la nova temporada de 'La travessa': RAQUEL SANS i MIKI NÚÑEZ. Amb ells també descobrirem algunes de les coses més emocionants que han passat en aquesta edició vip tan especial que s'ha rodat a Mallorca i que comença a emetre's la setmana que ve. S'incorporen com a col·laboradors fixos Carlos Latre, Maria Fernández Vidal, Àngel Llàcer i l'influencer Marc Biarnès. I abordarem un tema d'actualitat com són els segrestos exprés que en menys un mes s'han produït a diferents indrets de Catalunya. Un d'ells, la setmana passada a l'AP-7, davant la sorpresa i la incredulitat de molts ciutadans que, en aquell moment, hi circulaven i ho van veure en directe.</desc>
+    <length units="minutes">02:44:19</length>
   </programme>
-  <programme start="20260926180516 +0000" channel="tvi" stop="20260926181637 +0000">
-    <title lang="ca">Blog Europa.</title>
-    <sub-title lang="ca">55</sub-title>
-    <length units="minutes">00:11:21</length>
+  <programme start="20260927005519 +0000" channel="tvi" stop="20260927011834 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Quan ja no hi sigui</sub-title>
+    <desc lang="ca">La carrera dels artistes va més enllà del seu temps. Els creadors generen una obra, material o immaterial, que manté la vigència més enllà de la seva vida. Aquest reportatge demana a tres artistes que ja han passat de la vuitantena com es plantegen el seu llegat un cop ells ja no hi siguin.Pilar Aymerich té més de 100.000 negatius de les fotografies que ha fet durant la seva llarga trajectòria. Ja sigui a través de retrats d'artistes, de fotografies polítiques, feministes o de Barcelona, l'obra d'Aymerich és una crònica dels últims cinquanta anys del país. Per això ella vol que la seva obra sigui un llegat per a Catalunya.Francesc Parcerisas mai es va plantejar quina havia de ser la seva obra. Ha escrit poesia, prosa, ha fet traduccions. I al final, la seva producció intel·lectual ha conformat una gran obra. Però Parcerisas també ha anat guardant papers de tota mena, que permeten fer una mena d'arqueologia de la seva vida i la seva època.Josep Maria Pou creu que la seva feina d'actor, com diria Shakespeare, és com una ombra que passa un moment per l'escenari i ja no se'l veu mai més. I ell vol que sigui així: el seu llegat immaterial quedaria viu en el record dels espectadors mentre n'hi hagi un de sol de viu que l'hagi vist en un escenari.</desc>
+    <length units="minutes">00:23:15</length>
   </programme>
-  <programme start="20260926163000 +0000" channel="324" stop="20260926183000 +0000">
+  <programme start="20260926220200 +0000" channel="324" stop="20260926230000 +0000">
+    <title lang="ca">Telenotícies vespre (reemissió)</title>
+    <sub-title lang="ca">4190</sub-title>
+    <length units="minutes">00:58:00</length>
+  </programme>
+  <programme start="20260926230000 +0000" channel="324" stop="20260927003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11274</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260926183000 +0000" channel="324" stop="20260926200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11275</sub-title>
+    <sub-title lang="ca">11277</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260926164922 +0000" channel="esport3" stop="20260926174116 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">L'home més fort del món 5</sub-title>
-    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
-    <length units="minutes">00:51:54</length>
+  <programme start="20260926210927 +0000" channel="esport3" stop="20260926230000 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Logronyo-FC Barcelona / Lliga F / J5</sub-title>
+    <desc lang="ca">Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.</desc>
+    <length units="minutes">01:50:33</length>
   </programme>
-  <programme start="20260926174116 +0000" channel="esport3" stop="20260926183500 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">L'home més fort del món 6</sub-title>
-    <desc lang="ca">Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
-    <length units="minutes">00:53:44</length>
+  <programme start="20260926230000 +0000" channel="esport3" stop="20260927000053 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">01:00:53</length>
   </programme>
-  <programme start="20260926170918 +0000" channel="sx3" stop="20260926171949 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">Reptes a tot preu</sub-title>
-    <desc lang="ca">La Turbina i la Picarina juguen a llançar-se reptes, fins que provoquen la ira dels romans quan pispen el raspall de luxe de la Monalisa. El cau dels Irreductibles corre perill i cal retornar el raspall als romans com més aviat millor, però la banda de les catacumbes se l'ha fet seu. Mentrestant, la poció del Voldenix contra el catarro de l'Ideafix provoca uns efectes secundaris ben empipadors, que, tanmateix, ajudaran els Irreductibles a retornar el raspall als romans.</desc>
-    <length units="minutes">00:10:31</length>
+  <programme start="20260926221351 +0000" channel="sx3" stop="20260926222421 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">El dia del pare</sub-title>
+    <desc lang="ca">S'acosta el Dia del Pare i per primera vegada l'Ondine ha decidit de no fer elregal amb les seves germanes, sinó comprar-li alguna cosa al Dad perInternet. El problema és que el paquet s'extravia i haurà de trobar la manera derecuperar-lo. Mentrestant, les seves germanes estan tan convençudes quel'Ondine ha previst alguna cosa genial que s'atabalen de mala manera mirantde pensar un regal millor.</desc>
+    <length units="minutes">00:10:30</length>
   </programme>
-  <programme start="20260926171949 +0000" channel="sx3" stop="20260926173018 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">La còlera de Belenos</sub-title>
-    <desc lang="ca">El mussol Voldenix creu que els romans volen calar foc a tot Lutècia. Però l'Ideafix s'assabenta que el que preparen és una festa sorpresa en honor del prefecte Astutus. Tossut, en Voldenix fabrica una poció que sí que posarà en perill la vida de tots plegats!</desc>
-    <length units="minutes">00:10:29</length>
+  <programme start="20260926222421 +0000" channel="sx3" stop="20260926223517 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">La febre del divendres nit</sub-title>
+    <desc lang="ca">L'Ondine està convidada a la nit de karaoke al Cookie Cafè amb en Mehdi i la Béa, tot un somni fet realitat. L'únic problema és que ha tret una nota tan baixa en matemàtiques que el Dad la castiga a quedar-se tancada a la seva habitació repassant. Amb la complicitat de les seves germanes, l'Ondine aconsegueix sortir d'amagatotis de casa sense que la vegi el Dad... però es trobarà un entrebanc inesperat.</desc>
+    <length units="minutes">00:10:56</length>
   </programme>
-  <programme start="20260926162224 +0000" channel="tv3" stop="20260926171446 +0000">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Els habitants dels extrems</sub-title>
-    <desc lang="ca">Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
-    <length units="minutes">00:52:22</length>
+  <programme start="20260926221640 +0000" channel="tv3" stop="20260926231503 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Tessalònica</sub-title>
+    <desc lang="ca">En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
+    <length units="minutes">00:58:23</length>
   </programme>
-  <programme start="20260926171446 +0000" channel="tv3" stop="20260926174051 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Etna, la muntanya de les muntanyes</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics.</desc>
-    <length units="minutes">00:26:05</length>
+  <programme start="20260926231503 +0000" channel="tv3" stop="20260927001400 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Palerm</sub-title>
+    <desc lang="ca">A l'últim capítol d'aquesta sèrie, en Rick Stein va a Palerm, la capital de Sicília, on tastarà el menjar boníssim que fan a les parades del carrer: pop, 'mangia e bevi', 'panelle', 'cazilli', 'crocchè'... Gaudirà d'una ciutat que estat dominada per una llarga llista de pobles al llarg de la història, amb tocs de barroc, escenaris d''El padrí', palaus i un mar amb un peix fresquíssim. I cuinarà un pesto 'allà trapanese' i un pollastre amb salsa de vi marsala.</desc>
+    <length units="minutes">00:58:57</length>
   </programme>
 </tv>
