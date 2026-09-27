@@ -3,76 +3,75 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260927172204 +0000" channel="tvi" stop="20260927190902 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Assassinats a Mulhouse</sub-title>
-    <desc lang="ca">ASSASSINATS A MULHOUSE 'Meurtres à Mulhouse'Direcció: Delphine LemoineGuió: Jérôme Amory, François GuérinProducció: Ping Pong Productions, France TV, AT-Production, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région Grand Est, Communauté d'Agglomération Mulhouse Alsace, CNC,France TV DistributionAny: 2021Durada: 91País: FrançaMúsica: Franck Pilant, Maïdi RothIntèrprets: Mélanie Maudran, François-David Cardonnel, Nicolas Van Beveren, Madi Belem, Natalia Dontcheva, Aurore Erguy, Catherine Arditi, Willy Rovelli, Erick Deshors, Charlotte Valandrey, Jean-François Vlerick, Philippe Ohrel, Zhoer Zhu, Aude Koegler, Jean-Philippe Meyer,Claire Cahen. Quan investiga un crim comès en una antiga mina a prop de Mulhouse, la tinenta Sandra Bauer sospita de l'advocada que li va prendre la custòdia del seu fill quan es va divorciar. Però, per atrapar-la, la Sandra s'ha d'enfrontar al seu germà, el Frédéric Bauer, que també és advocat. Durant la investigació, la tinenta s'ha d'endinsar en una llegenda sobre sant Nicolau. A més, la Sandra i el seu germà retornen a un fet tràgic del passat: la desaparició, tres anys abans, del seu nebot Bastien, d'onze anys.</desc>
-    <length units="minutes">01:46:58</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260927220027 +0000" channel="tvi" stop="20260927223027 +0000">
+    <title lang="ca">Piromusical de la Mercè</title>
+    <sub-title lang="ca">Piromusical de la Mercè 2026</sub-title>
+    <desc lang="ca">Dulceida presenta la retransmissió del Piromusical de la Mercè per TV3 i 3Cat Diumenge 27 de setembre, a les 22.00, TV3 emetrà en directe el gran Piromusical, que, com cada any, tanca les Festes de la Mercè de Barcelona. La presentadora de l'innovador dating de 3Cat, 'La gran cita', serà l'encarregada d'acompanyar els espectadors durant aquest xou de música i focs artificials que cada any bat rècords d'audiència i que produeix l'Ajuntament de la ciutat i el seu Institut de Cultura. Aquesta edició se celebra a la platja de la Nova Icària arran les obres que es fan a l'avinguda Maria Cristina, i qui ha triat la banda sonora de l'espectacle és el líder d'Oques Grasses, Josep Montero. La influenciadora badalonina, fan incondicional d'aquest grup osonenc, ens guiarà durant els 30 minuts que dura l'espectacle de llum, so i color al compàs de ritmes molt variats. Montero ha seleccionat tot tipus de música i també retrà homenatge a la banda que lidera i que aquest any s'acomiada amb quatre concerts a l'Estadi Olímpic en un èxit sense precedents. Per a aquest esdeveniment, TV3 comptarà amb un ampli desplegament tècnic que inclou un dron perquè els espectadors tinguin imatges impressionants des de més de cent metres d'alçada i d'una càmera que des del mar oferirà les millors vistes de l'skyline de Barcelona.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20260928190921 +0000" channel="tvi" stop="20260928195814 +0000">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">INFILTRATS</sub-title>
-    <desc lang="ca">Arriba la televisió.Barcelona es prepara per rebre la visita del Generalísimo. I no tots ho esperen de la mateixa manera... En Llorenç es retroba amb un vell conegut.</desc>
-    <length units="minutes">00:48:53</length>
+  <programme start="20260927223027 +0000" channel="tvi" stop="20260927234324 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="minutes">01:12:57</length>
   </programme>
-  <programme start="20260927163000 +0000" channel="324" stop="20260927183000 +0000">
+  <programme start="20260927220200 +0000" channel="324" stop="20260927230000 +0000">
+    <title lang="ca">Telenotícies vespre (reemissió)</title>
+    <sub-title lang="ca">4192</sub-title>
+    <length units="minutes">00:58:00</length>
+  </programme>
+  <programme start="20260927230000 +0000" channel="324" stop="20260928003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11282</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20260927183000 +0000" channel="324" stop="20260927200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11283</sub-title>
+    <sub-title lang="ca">11285</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260927175132 +0000" channel="esport3" stop="20260927175941 +0000">
+  <programme start="20260927214455 +0000" channel="esport3" stop="20260927230000 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-Zamalek SC / Mundial de Clubs / J2</sub-title>
+    <desc lang="ca">Els blaugranes juguen contra l'equip egipci a la segona jornada del Mundial de clubs d'handbol que es disputa al Caire.</desc>
+    <length units="minutes">01:15:05</length>
+  </programme>
+  <programme start="20260927230000 +0000" channel="esport3" stop="20260928000049 +0000">
     <title lang="ca">Esport Club Cap de Setmana</title>
     <sub-title lang="ca">Esport Club</sub-title>
     <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">00:08:09</length>
+    <length units="minutes">01:00:49</length>
   </programme>
-  <programme start="20260927175941 +0000" channel="esport3" stop="20260927185536 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">RCD Espanyol B-CD Arnedo / Segona Federació / J4</sub-title>
-    <desc lang="ca">Els blanc-i-blaus, 2 victòries i 1 derrota, volen guanyar per seguir a la zona de play-off d'ascens. El conjunt de La Rioja encara no ha puntuat. Amb la narració d'Oriol Vidal, i l'anàlisi de Santi Triguero.</desc>
-    <length units="minutes">00:55:55</length>
+  <programme start="20260927222312 +0000" channel="sx3" stop="20260927223347 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">La declaració</sub-title>
+    <desc lang="ca">La Panda mira de redactar una declaració per en Mani. En saber-ho, tota la família mira d'intervenir per ajudar-la, però l'única cosa que aconsegueixen és exasperar-la. Farta de tots ells, la Panda els fa fora de casa amb la intenció d'estar tranquil·la. El problema és que des de l'Efix fins als veïns, tothom tenia alguna cosa important a demanar a algun membre de la família. Tindrà tempsper escriure la declaració?</desc>
+    <length units="minutes">00:10:35</length>
   </programme>
-  <programme start="20260927175320 +0000" channel="sx3" stop="20260927175950 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Una peixera de cinc estrelles</sub-title>
-    <desc lang="ca">Els Lèmmings han adoptat un petit peix exòtic que és molt espavilat i amorós, i es diverteixen decorant-li l'aquari. En Grizzy, gelós, també n'adopta un, però el seu peix és inexpressiu i no reacciona per molt que l'os s'esforci a comunicar-se amb ell. Llavors en Grizzy idea un pla per intercanviar els dos peixos sense que els Lèmmings se n'adonin. Fica el peix espavilat en un aquari gran amb decoracions faraòniques i el tanca amb clau. Però els Lèmmings no tenen cap intenció d'abandonar el seu amic amb en Grizzy.</desc>
-    <length units="minutes">00:06:30</length>
+  <programme start="20260927223347 +0000" channel="sx3" stop="20260927224511 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Una tasca fàcil</sub-title>
+    <desc lang="ca">El granger s'emporta la Tropa al poble com a reclam de la seva paradeta al mercat, però l'Albert necessita ajuda per desencallar la porta de la seva gàbia. Un per un, es van escapolint per ajudar-lo, però han de tornar corrents cada cop que el granger s'adona que no hi són tots. Com s'ho faran?</desc>
+    <length units="minutes">00:11:24</length>
   </programme>
-  <programme start="20260927175950 +0000" channel="sx3" stop="20260927180620 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Intel·ligència artificial, estupidesa natural</sub-title>
-    <desc lang="ca">Un circuit integrat que conté intel·ligència artificial es connecta per casualitat a l'os de peluix d'en Grizzy, que cobra vida com un Pinotxo de l'era moderna. En Grizzy l'educa fins que el xip decideix connectar-se a la joguina dels Lèmmings per jugar amb ells. Quan la intel·ligència artificial arriba a l'adolescència, deixa de voler estar amb l'un o els altres i prefereix utilitzar un mòbil per continuar aprenent. En Grizzy i els Lèmmings uneixen forces per intentar esborrar-li la memòria al xip i així reviure la seva infantesa un cop rere l'altre.</desc>
-    <length units="minutes">00:06:30</length>
+  <programme start="20260927220156 +0000" channel="tv3" stop="20260927224612 +0000">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Sao Paulo</sub-title>
+    <desc lang="ca">Sao Paulo pertany indiscutiblement a la llista de ciutats del món d'en Tom. Amb més de 24 milions d'habitants, no és només la ciutat més gran del Brasil, sinó també la més gran de tot l'hemisferi sud i de tot el continent sud-americà. Aquesta megaciutat és un reflex de tot el Brasil. Un país de la mida de la Unión Europea, amb la desorbitada xifra de 210 milions d'habitants. A més, l'anomenen escaientment 'Selva de pedra'. Per al turista mitjà, Rio de Janeiro és més fascinant que la Sao Paulo de formigó. Però juntament amb el seu company de viatge i intèrpret Tomaz, en Tom descobrirà que Sao Paulo també té molt per oferir...</desc>
+    <length units="minutes">00:44:16</length>
   </programme>
-  <programme start="20260927174257 +0000" channel="tv3" stop="20260927180907 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">L'illa de la Reunió. Al cor dels volcans</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a l'illa de la Reunió. Entre d'altres coses, l'acompanyarem en la seva visita als dos grans volcans de l'illa, el vell i suposadament apagat Piton des Neiges i el jove volcà Piton de la Fournaise, que manté una activitat constant. També veurem la seva incursió espeleològica en un túnel creat per la lava i l'acompanyarem en la seva visita al circ geològic de Mafate, al Piton des Neiges, i a la remota comunitat de Marla, que viu gairebé en l'autarquia.</desc>
-    <length units="minutes">00:26:10</length>
-  </programme>
-  <programme start="20260927180907 +0000" channel="tv3" stop="20260927183523 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Tanzània. Un volcà en terra Massai</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Tanzània, al volcà OlDoinyoLengaï. Entre d'altres coses, i juntament amb Matthieu Kervyn, un dels pocs especialistes en aquest volcà, i Mwenga, un jove guerrer massai, l'acompanyarem en la dura ascensió a aquest volcà, que va patir una erupció el 2007 que va canviar totalment la morfologia del cràter. També visitarem el llac Natron, famós perquè van a reproduir-s'hi els flamencs rosats, i coneixerem la tècnica d'aprofitament de la sal del llac per part dels massais.</desc>
-    <length units="minutes">00:26:16</length>
+  <programme start="20260927224612 +0000" channel="tv3" stop="20260927232837 +0000">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Nairobi</sub-title>
+    <desc lang="ca">Nairobi és la ciutat amb el creixement més ràpid del món. Raó per la qual en Tom l'ha inclòs en la seva llista de grans ciutats del món. El seu dinamisme i innovació deixaran enlluernat a en Tom, i alhora, es trobarà amb els grans reptes d'aquest creixement imparable: la lluita per sortir de la pobresa i per protegir una naturalesa amenaçada.</desc>
+    <length units="minutes">00:42:25</length>
   </programme>
 </tv>
