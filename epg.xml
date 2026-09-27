@@ -1,82 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260927115643 +0000" channel="tvi" stop="20260927142932 +0000">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260927172204 +0000" channel="tvi" stop="20260927190902 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Assassinats a Mulhouse</sub-title>
+    <desc lang="ca">ASSASSINATS A MULHOUSE 'Meurtres à Mulhouse'Direcció: Delphine LemoineGuió: Jérôme Amory, François GuérinProducció: Ping Pong Productions, France TV, AT-Production, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région Grand Est, Communauté d'Agglomération Mulhouse Alsace, CNC,France TV DistributionAny: 2021Durada: 91País: FrançaMúsica: Franck Pilant, Maïdi RothIntèrprets: Mélanie Maudran, François-David Cardonnel, Nicolas Van Beveren, Madi Belem, Natalia Dontcheva, Aurore Erguy, Catherine Arditi, Willy Rovelli, Erick Deshors, Charlotte Valandrey, Jean-François Vlerick, Philippe Ohrel, Zhoer Zhu, Aude Koegler, Jean-Philippe Meyer,Claire Cahen. Quan investiga un crim comès en una antiga mina a prop de Mulhouse, la tinenta Sandra Bauer sospita de l'advocada que li va prendre la custòdia del seu fill quan es va divorciar. Però, per atrapar-la, la Sandra s'ha d'enfrontar al seu germà, el Frédéric Bauer, que també és advocat. Durant la investigació, la tinenta s'ha d'endinsar en una llegenda sobre sant Nicolau. A més, la Sandra i el seu germà retornen a un fet tràgic del passat: la desaparició, tres anys abans, del seu nebot Bastien, d'onze anys.</desc>
+    <length units="minutes">01:46:58</length>
+  </programme>
+  <programme start="20260928190921 +0000" channel="tvi" stop="20260928195814 +0000">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">INFILTRATS</sub-title>
+    <desc lang="ca">Arriba la televisió.Barcelona es prepara per rebre la visita del Generalísimo. I no tots ho esperen de la mateixa manera... En Llorenç es retroba amb un vell conegut.</desc>
+    <length units="minutes">00:48:53</length>
+  </programme>
+  <programme start="20260927163000 +0000" channel="324" stop="20260927183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11281</sub-title>
+    <sub-title lang="ca">11282</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:32:49</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260927142932 +0000" channel="tvi" stop="20260927153803 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7341</sub-title>
-    <length units="minutes">01:08:31</length>
-  </programme>
-  <programme start="20260927120000 +0000" channel="324" stop="20260927143000 +0000">
+  <programme start="20260927183000 +0000" channel="324" stop="20260927200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11281</sub-title>
+    <sub-title lang="ca">11283</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260927143000 +0000" channel="324" stop="20260927154000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7341</sub-title>
-    <length units="minutes">01:10:00</length>
+  <programme start="20260927175132 +0000" channel="esport3" stop="20260927175941 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">00:08:09</length>
   </programme>
-  <programme start="20260927123110 +0000" channel="esport3" stop="20260927140204 +0000">
-    <title lang="ca">Voleibol</title>
-    <sub-title lang="ca">Lliga catalana femenina voleibol / DSV CV Sant Cugat - Voleibol San Just</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!</desc>
-    <length units="minutes">01:30:54</length>
+  <programme start="20260927175941 +0000" channel="esport3" stop="20260927185536 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">RCD Espanyol B-CD Arnedo / Segona Federació / J4</sub-title>
+    <desc lang="ca">Els blanc-i-blaus, 2 victòries i 1 derrota, volen guanyar per seguir a la zona de play-off d'ascens. El conjunt de La Rioja encara no ha puntuat. Amb la narració d'Oriol Vidal, i l'anàlisi de Santi Triguero.</desc>
+    <length units="minutes">00:55:55</length>
   </programme>
-  <programme start="20260927140204 +0000" channel="esport3" stop="20260927142900 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Matchday Champions Women J1</sub-title>
-    <desc lang="ca">Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
-    <length units="minutes">00:26:56</length>
+  <programme start="20260927175320 +0000" channel="sx3" stop="20260927175950 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Una peixera de cinc estrelles</sub-title>
+    <desc lang="ca">Els Lèmmings han adoptat un petit peix exòtic que és molt espavilat i amorós, i es diverteixen decorant-li l'aquari. En Grizzy, gelós, també n'adopta un, però el seu peix és inexpressiu i no reacciona per molt que l'os s'esforci a comunicar-se amb ell. Llavors en Grizzy idea un pla per intercanviar els dos peixos sense que els Lèmmings se n'adonin. Fica el peix espavilat en un aquari gran amb decoracions faraòniques i el tanca amb clau. Però els Lèmmings no tenen cap intenció d'abandonar el seu amic amb en Grizzy.</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20260927125330 +0000" channel="sx3" stop="20260927131516 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Miniherois i boques gegants</sub-title>
-    <desc lang="ca">Els germans Kratt es miniaturitzen i comencen una missió amb l'amfípode per entendre millor els fonaments de la vida marina. Un cop al fons del mar, entren en una floració de plàncton que els arrossega corrent avall. Però llavors, arriba una balena geperuda i separa els germans Kratt. L'Aviva, la Koki i el Jimmy els hauran d'ajudar.</desc>
-    <length units="minutes">00:21:46</length>
+  <programme start="20260927175950 +0000" channel="sx3" stop="20260927180620 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Intel·ligència artificial, estupidesa natural</sub-title>
+    <desc lang="ca">Un circuit integrat que conté intel·ligència artificial es connecta per casualitat a l'os de peluix d'en Grizzy, que cobra vida com un Pinotxo de l'era moderna. En Grizzy l'educa fins que el xip decideix connectar-se a la joguina dels Lèmmings per jugar amb ells. Quan la intel·ligència artificial arriba a l'adolescència, deixa de voler estar amb l'un o els altres i prefereix utilitzar un mòbil per continuar aprenent. En Grizzy i els Lèmmings uneixen forces per intentar esborrar-li la memòria al xip i així reviure la seva infantesa un cop rere l'altre.</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20260927131516 +0000" channel="sx3" stop="20260927133751 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A buscar salamandres</sub-title>
-    <desc lang="ca">L'equip Kratt està mirant una pel·lícula i de cop la Tortuga es queda sense electricitat. Mentre la Koki investiga què ha passat i prova d'arreglar la nau, la resta de l'equip decideix viure una aventura: la de buscar salamandres. Es tracta de baixar riu avall miniaturitzats en barquetes i buscar salamandres, i qui en trobi més serà guanyarà. Però no ho tindran fàcil, perquè hi ha un altre animal que els farà la vida impossible.</desc>
-    <length units="minutes">00:22:35</length>
+  <programme start="20260927174257 +0000" channel="tv3" stop="20260927180907 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">L'illa de la Reunió. Al cor dels volcans</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a l'illa de la Reunió. Entre d'altres coses, l'acompanyarem en la seva visita als dos grans volcans de l'illa, el vell i suposadament apagat Piton des Neiges i el jove volcà Piton de la Fournaise, que manté una activitat constant. També veurem la seva incursió espeleològica en un túnel creat per la lava i l'acompanyarem en la seva visita al circ geològic de Mafate, al Piton des Neiges, i a la remota comunitat de Marla, que viu gairebé en l'autarquia.</desc>
+    <length units="minutes">00:26:10</length>
   </programme>
-  <programme start="20260927123233 +0000" channel="tv3" stop="20260927133341 +0000">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Museu d'Art de Girona</sub-title>
-    <desc lang="ca">Des del Museu d'art de Girona, l'Albert Om amb els nostres historiadors descobriran la història del xofer d'en Josep Pla i com li va canviar la vida dinar un dia amb l'escriptor. També veuran els piolets que van participar al rescat de Balandrau o el casc militar que va acompanyar als primers objectors de consciència durant les manifestacions a finals dels 70.</desc>
-    <length units="minutes">01:01:08</length>
-  </programme>
-  <programme start="20260927133341 +0000" channel="tv3" stop="20260927143244 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Tessalònica</sub-title>
-    <desc lang="ca">En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
-    <length units="minutes">00:59:03</length>
-  </programme>
-  <programme start="20260927114530 +0000" channel="tv3" stop="20260927140025 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
-    <desc lang="ca">Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
-    <length units="minutes">02:14:55</length>
+  <programme start="20260927180907 +0000" channel="tv3" stop="20260927183523 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Tanzània. Un volcà en terra Massai</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Tanzània, al volcà OlDoinyoLengaï. Entre d'altres coses, i juntament amb Matthieu Kervyn, un dels pocs especialistes en aquest volcà, i Mwenga, un jove guerrer massai, l'acompanyarem en la dura ascensió a aquest volcà, que va patir una erupció el 2007 que va canviar totalment la morfologia del cràter. També visitarem el llac Natron, famós perquè van a reproduir-s'hi els flamencs rosats, i coneixerem la tècnica d'aprofitament de la sal del llac per part dels massais.</desc>
+    <length units="minutes">00:26:16</length>
   </programme>
 </tv>
