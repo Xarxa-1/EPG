@@ -1,77 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260926221100 +0000" channel="tvi" stop="20260927005519 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">25/09/2026</sub-title>
-    <desc lang="ca">Estrenem temporada entrevistant el xef que va revolucionar la gastronomia mundial: FERRAN ADRIÀ. Ens visita la parella de moda de la nova temporada de 'La travessa': RAQUEL SANS i MIKI NÚÑEZ. Amb ells també descobrirem algunes de les coses més emocionants que han passat en aquesta edició vip tan especial que s'ha rodat a Mallorca i que comença a emetre's la setmana que ve. S'incorporen com a col·laboradors fixos Carlos Latre, Maria Fernández Vidal, Àngel Llàcer i l'influencer Marc Biarnès. I abordarem un tema d'actualitat com són els segrestos exprés que en menys un mes s'han produït a diferents indrets de Catalunya. Un d'ells, la setmana passada a l'AP-7, davant la sorpresa i la incredulitat de molts ciutadans que, en aquell moment, hi circulaven i ho van veure en directe.</desc>
-    <length units="minutes">02:44:19</length>
+  <programme start="20260927040000 +0000" channel="tvi" stop="20260927045959 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Biel &amp; Randy</sub-title>
+    <desc lang="ca">Biel Ballester i Randy Greer. Dos grans intèrprets, que uneixen forces per acostar-nos al seu univers de música d'arrel i amb cert regust dels anys 50. Aquests dos creadors, defineixen l'estil del seu projecte comú com un blues primitiu i pantanós, barrejat amb el Rockabilly i el country més primari.Acompanyen Biel and Randy, dos dels músics més actius i carismàtics del panorama del Rhythm'n'blues a Catalunya: Anton Jarl, a la bateria, i Ivan Kovacevic, al contrabaix.</desc>
+    <length units="minutes">00:59:59</length>
   </programme>
-  <programme start="20260927005519 +0000" channel="tvi" stop="20260927011834 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Quan ja no hi sigui</sub-title>
-    <desc lang="ca">La carrera dels artistes va més enllà del seu temps. Els creadors generen una obra, material o immaterial, que manté la vigència més enllà de la seva vida. Aquest reportatge demana a tres artistes que ja han passat de la vuitantena com es plantegen el seu llegat un cop ells ja no hi siguin.Pilar Aymerich té més de 100.000 negatius de les fotografies que ha fet durant la seva llarga trajectòria. Ja sigui a través de retrats d'artistes, de fotografies polítiques, feministes o de Barcelona, l'obra d'Aymerich és una crònica dels últims cinquanta anys del país. Per això ella vol que la seva obra sigui un llegat per a Catalunya.Francesc Parcerisas mai es va plantejar quina havia de ser la seva obra. Ha escrit poesia, prosa, ha fet traduccions. I al final, la seva producció intel·lectual ha conformat una gran obra. Però Parcerisas també ha anat guardant papers de tota mena, que permeten fer una mena d'arqueologia de la seva vida i la seva època.Josep Maria Pou creu que la seva feina d'actor, com diria Shakespeare, és com una ombra que passa un moment per l'escenari i ja no se'l veu mai més. I ell vol que sigui així: el seu llegat immaterial quedaria viu en el record dels espectadors mentre n'hi hagi un de sol de viu que l'hagi vist en un escenari.</desc>
-    <length units="minutes">00:23:15</length>
+  <programme start="20260927045959 +0000" channel="tvi" stop="20260927060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Shu-Shu</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">01:00:01</length>
   </programme>
-  <programme start="20260926220200 +0000" channel="324" stop="20260926230000 +0000">
-    <title lang="ca">Telenotícies vespre (reemissió)</title>
-    <sub-title lang="ca">4190</sub-title>
-    <length units="minutes">00:58:00</length>
-  </programme>
-  <programme start="20260926230000 +0000" channel="324" stop="20260927003000 +0000">
+  <programme start="20260927010000 +0000" channel="324" stop="20260927060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11277</sub-title>
+    <sub-title lang="ca">11278</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260926210927 +0000" channel="esport3" stop="20260926230000 +0000">
+  <programme start="20260927060000 +0000" channel="324" stop="20260927070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11278</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20260927040048 +0000" channel="esport3" stop="20260927055245 +0000">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Logronyo-FC Barcelona / Lliga F / J5</sub-title>
-    <desc lang="ca">Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.</desc>
-    <length units="minutes">01:50:33</length>
+    <sub-title lang="ca">Gimnàstic de Tarragona-UE Sant Andreu / Primera Federació / J5</sub-title>
+    <desc lang="ca">Els tarragonins han sumat 7 punts de 12 i són a la part alta de la classificació. Els barcelonins en tenen 4, i volen sortir de la part baixa. Amb la narració d'Oriol Vidal, i l'anàlisi d'Alberto Manga i Santi Triguero.</desc>
+    <length units="minutes">01:51:57</length>
   </programme>
-  <programme start="20260926230000 +0000" channel="esport3" stop="20260927000053 +0000">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">01:00:53</length>
+  <programme start="20260927055245 +0000" channel="esport3" stop="20260927061436 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5520</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:21:51</length>
   </programme>
-  <programme start="20260926221351 +0000" channel="sx3" stop="20260926222421 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">El dia del pare</sub-title>
-    <desc lang="ca">S'acosta el Dia del Pare i per primera vegada l'Ondine ha decidit de no fer elregal amb les seves germanes, sinó comprar-li alguna cosa al Dad perInternet. El problema és que el paquet s'extravia i haurà de trobar la manera derecuperar-lo. Mentrestant, les seves germanes estan tan convençudes quel'Ondine ha previst alguna cosa genial que s'atabalen de mala manera mirantde pensar un regal millor.</desc>
-    <length units="minutes">00:10:30</length>
+  <programme start="20260927041151 +0000" channel="sx3" stop="20260927042321 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Un espectacle preciós</sub-title>
+    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20260926222421 +0000" channel="sx3" stop="20260926223517 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">La febre del divendres nit</sub-title>
-    <desc lang="ca">L'Ondine està convidada a la nit de karaoke al Cookie Cafè amb en Mehdi i la Béa, tot un somni fet realitat. L'únic problema és que ha tret una nota tan baixa en matemàtiques que el Dad la castiga a quedar-se tancada a la seva habitació repassant. Amb la complicitat de les seves germanes, l'Ondine aconsegueix sortir d'amagatotis de casa sense que la vegi el Dad... però es trobarà un entrebanc inesperat.</desc>
-    <length units="minutes">00:10:56</length>
+  <programme start="20260927042321 +0000" channel="sx3" stop="20260927043456 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La Trufa se'n va de la llengua</sub-title>
+    <desc lang="ca">En Timbal està de pega: en Pinxo li ha agafat les pinyes sense permís i, la Guineta ha perdut el seu estel. Quan la Trufa l'hi xerra, els seus germans li diuen que xivar-se no està bé. Però l'Edmond li diu que sempre ha de dir la veritat, i poc després, la Marguerite li explica que les coses dels altres no s'han de xerrar. I la pobra Trufa no sap què fer.</desc>
+    <length units="minutes">00:11:35</length>
   </programme>
-  <programme start="20260926221640 +0000" channel="tv3" stop="20260926231503 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Tessalònica</sub-title>
-    <desc lang="ca">En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
-    <length units="minutes">00:58:23</length>
+  <programme start="20260927034603 +0000" channel="tv3" stop="20260927044128 +0000">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal creure-hi</sub-title>
+    <desc lang="ca">SINOPSI:L'any 1942, amb el món en guerra, les nacions necessiten l'adhesió ferma de la seva població. I una de les maneres d'aconseguir-la és l'adoctrinament d'infants i joves en els valors patriòtics, com ens demostraran les experiències de l'Ursula, una jove alemanya allistada a les Joventuts Hitlerianes; la Nina, enrolada en l'exèrcit soviètic; o l'Eric, un jove anglès que se'n va a Singapur a defensar l'Imperi Britànic.</desc>
+    <length units="minutes">00:55:25</length>
   </programme>
-  <programme start="20260926231503 +0000" channel="tv3" stop="20260927001400 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Palerm</sub-title>
-    <desc lang="ca">A l'últim capítol d'aquesta sèrie, en Rick Stein va a Palerm, la capital de Sicília, on tastarà el menjar boníssim que fan a les parades del carrer: pop, 'mangia e bevi', 'panelle', 'cazilli', 'crocchè'... Gaudirà d'una ciutat que estat dominada per una llarga llista de pobles al llarg de la història, amb tocs de barroc, escenaris d''El padrí', palaus i un mar amb un peix fresquíssim. I cuinarà un pesto 'allà trapanese' i un pollastre amb salsa de vi marsala.</desc>
-    <length units="minutes">00:58:57</length>
+  <programme start="20260927044128 +0000" channel="tv3" stop="20260927053500 +0000">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal triar</sub-title>
+    <desc lang="ca">A la primavera del 1942, les forces de l'Eix avancen en tots els fronts. Llavors tothom ha de triar quin paper vol tenir a la història. Com l'André, que amb quinze anys s'apunta a la Resistència francesa. O en Ladislav, que s'arrisca per ajudar dos paracaigudistes que han vingut a fer una alta missió a Txecoslovàquia. O la Mary, una americana d'origen japonès obligada a confinar-se en un camp de concentració...</desc>
+    <length units="minutes">00:53:32</length>
   </programme>
 </tv>
