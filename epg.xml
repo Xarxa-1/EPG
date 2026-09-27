@@ -1,78 +1,82 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20260927040000 +0000" channel="tvi" stop="20260927045959 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Biel &amp; Randy</sub-title>
-    <desc lang="ca">Biel Ballester i Randy Greer. Dos grans intèrprets, que uneixen forces per acostar-nos al seu univers de música d'arrel i amb cert regust dels anys 50. Aquests dos creadors, defineixen l'estil del seu projecte comú com un blues primitiu i pantanós, barrejat amb el Rockabilly i el country més primari.Acompanyen Biel and Randy, dos dels músics més actius i carismàtics del panorama del Rhythm'n'blues a Catalunya: Anton Jarl, a la bateria, i Ivan Kovacevic, al contrabaix.</desc>
-    <length units="minutes">00:59:59</length>
-  </programme>
-  <programme start="20260927045959 +0000" channel="tvi" stop="20260927060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Shu-Shu</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">01:00:01</length>
-  </programme>
-  <programme start="20260927010000 +0000" channel="324" stop="20260927060000 +0000">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260927115643 +0000" channel="tvi" stop="20260927142932 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11278</sub-title>
+    <sub-title lang="ca">11281</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:32:49</length>
   </programme>
-  <programme start="20260927060000 +0000" channel="324" stop="20260927070000 +0000">
+  <programme start="20260927142932 +0000" channel="tvi" stop="20260927153803 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7341</sub-title>
+    <length units="minutes">01:08:31</length>
+  </programme>
+  <programme start="20260927120000 +0000" channel="324" stop="20260927143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11278</sub-title>
+    <sub-title lang="ca">11281</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20260927040048 +0000" channel="esport3" stop="20260927055245 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Gimnàstic de Tarragona-UE Sant Andreu / Primera Federació / J5</sub-title>
-    <desc lang="ca">Els tarragonins han sumat 7 punts de 12 i són a la part alta de la classificació. Els barcelonins en tenen 4, i volen sortir de la part baixa. Amb la narració d'Oriol Vidal, i l'anàlisi d'Alberto Manga i Santi Triguero.</desc>
-    <length units="minutes">01:51:57</length>
+  <programme start="20260927143000 +0000" channel="324" stop="20260927154000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7341</sub-title>
+    <length units="minutes">01:10:00</length>
   </programme>
-  <programme start="20260927055245 +0000" channel="esport3" stop="20260927061436 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5520</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:21:51</length>
+  <programme start="20260927123110 +0000" channel="esport3" stop="20260927140204 +0000">
+    <title lang="ca">Voleibol</title>
+    <sub-title lang="ca">Lliga catalana femenina voleibol / DSV CV Sant Cugat - Voleibol San Just</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!</desc>
+    <length units="minutes">01:30:54</length>
   </programme>
-  <programme start="20260927041151 +0000" channel="sx3" stop="20260927042321 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Un espectacle preciós</sub-title>
-    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20260927140204 +0000" channel="esport3" stop="20260927142900 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Matchday Champions Women J1</sub-title>
+    <desc lang="ca">Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
+    <length units="minutes">00:26:56</length>
   </programme>
-  <programme start="20260927042321 +0000" channel="sx3" stop="20260927043456 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La Trufa se'n va de la llengua</sub-title>
-    <desc lang="ca">En Timbal està de pega: en Pinxo li ha agafat les pinyes sense permís i, la Guineta ha perdut el seu estel. Quan la Trufa l'hi xerra, els seus germans li diuen que xivar-se no està bé. Però l'Edmond li diu que sempre ha de dir la veritat, i poc després, la Marguerite li explica que les coses dels altres no s'han de xerrar. I la pobra Trufa no sap què fer.</desc>
-    <length units="minutes">00:11:35</length>
+  <programme start="20260927125330 +0000" channel="sx3" stop="20260927131516 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Miniherois i boques gegants</sub-title>
+    <desc lang="ca">Els germans Kratt es miniaturitzen i comencen una missió amb l'amfípode per entendre millor els fonaments de la vida marina. Un cop al fons del mar, entren en una floració de plàncton que els arrossega corrent avall. Però llavors, arriba una balena geperuda i separa els germans Kratt. L'Aviva, la Koki i el Jimmy els hauran d'ajudar.</desc>
+    <length units="minutes">00:21:46</length>
   </programme>
-  <programme start="20260927034603 +0000" channel="tv3" stop="20260927044128 +0000">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal creure-hi</sub-title>
-    <desc lang="ca">SINOPSI:L'any 1942, amb el món en guerra, les nacions necessiten l'adhesió ferma de la seva població. I una de les maneres d'aconseguir-la és l'adoctrinament d'infants i joves en els valors patriòtics, com ens demostraran les experiències de l'Ursula, una jove alemanya allistada a les Joventuts Hitlerianes; la Nina, enrolada en l'exèrcit soviètic; o l'Eric, un jove anglès que se'n va a Singapur a defensar l'Imperi Britànic.</desc>
-    <length units="minutes">00:55:25</length>
+  <programme start="20260927131516 +0000" channel="sx3" stop="20260927133751 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A buscar salamandres</sub-title>
+    <desc lang="ca">L'equip Kratt està mirant una pel·lícula i de cop la Tortuga es queda sense electricitat. Mentre la Koki investiga què ha passat i prova d'arreglar la nau, la resta de l'equip decideix viure una aventura: la de buscar salamandres. Es tracta de baixar riu avall miniaturitzats en barquetes i buscar salamandres, i qui en trobi més serà guanyarà. Però no ho tindran fàcil, perquè hi ha un altre animal que els farà la vida impossible.</desc>
+    <length units="minutes">00:22:35</length>
   </programme>
-  <programme start="20260927044128 +0000" channel="tv3" stop="20260927053500 +0000">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal triar</sub-title>
-    <desc lang="ca">A la primavera del 1942, les forces de l'Eix avancen en tots els fronts. Llavors tothom ha de triar quin paper vol tenir a la història. Com l'André, que amb quinze anys s'apunta a la Resistència francesa. O en Ladislav, que s'arrisca per ajudar dos paracaigudistes que han vingut a fer una alta missió a Txecoslovàquia. O la Mary, una americana d'origen japonès obligada a confinar-se en un camp de concentració...</desc>
-    <length units="minutes">00:53:32</length>
+  <programme start="20260927123233 +0000" channel="tv3" stop="20260927133341 +0000">
+    <title lang="ca">Una altra història</title>
+    <sub-title lang="ca">Museu d'Art de Girona</sub-title>
+    <desc lang="ca">Des del Museu d'art de Girona, l'Albert Om amb els nostres historiadors descobriran la història del xofer d'en Josep Pla i com li va canviar la vida dinar un dia amb l'escriptor. També veuran els piolets que van participar al rescat de Balandrau o el casc militar que va acompanyar als primers objectors de consciència durant les manifestacions a finals dels 70.</desc>
+    <length units="minutes">01:01:08</length>
+  </programme>
+  <programme start="20260927133341 +0000" channel="tv3" stop="20260927143244 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Tessalònica</sub-title>
+    <desc lang="ca">En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
+    <length units="minutes">00:59:03</length>
+  </programme>
+  <programme start="20260927114530 +0000" channel="tv3" stop="20260927140025 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
+    <desc lang="ca">Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
+    <length units="minutes">02:14:55</length>
   </programme>
 </tv>
