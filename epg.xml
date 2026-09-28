@@ -9,70 +9,71 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20260928040000 +0000" channel="tvi" stop="20260928050014 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Bernat Font Trio</sub-title>
-    <desc lang="ca">Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista 'Jaç' i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.</desc>
-    <length units="minutes">01:00:14</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260928135456 +0000" channel="tvi" stop="20260928143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7043</sub-title>
+    <length units="minutes">00:35:04</length>
   </programme>
-  <programme start="20260928050014 +0000" channel="tvi" stop="20260928060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Marc Miralta</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:59:46</length>
+  <programme start="20260928143000 +0000" channel="tvi" stop="20260928152959 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7342</sub-title>
+    <length units="minutes">00:59:59</length>
   </programme>
-  <programme start="20260928010000 +0000" channel="324" stop="20260928060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11286</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20260928135500 +0000" channel="324" stop="20260928143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7043</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260928060000 +0000" channel="324" stop="20260928080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11287</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260928143000 +0000" channel="324" stop="20260928153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7342</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260928035928 +0000" channel="esport3" stop="20260928051455 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-Zamalek SC / Mundial de Clubs / J2</sub-title>
-    <desc lang="ca">Els blaugranes juguen contra l'equip egipci a la segona jornada del Mundial de clubs d'handbol que es disputa al Caire.</desc>
-    <length units="minutes">01:15:27</length>
+  <programme start="20260928140105 +0000" channel="esport3" stop="20260928154300 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">La Pilota d'Or, Daniela Guillén i Adrià Figueras</sub-title>
+    <desc lang="ca">Avui s'acaben les votacions per a la Pilota d'Or. Lamine, entre els grans favorits. Entrevistem Daniela Guillén, campiona del món de motocròs. I també parlem amb Adrià Figueras, jugador del Fraikin BM Granollers. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.</desc>
+    <length units="minutes">01:41:55</length>
   </programme>
-  <programme start="20260928051455 +0000" channel="esport3" stop="20260928054822 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">T2xC1 - La Costa de Barcelona Sud i la Costa Daurada Nord</sub-title>
-    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de Castelldefels, Vilanova i la Geltrú i Torredembarra, explorant els alts penya-segats del Parc Natural del Garraf, les cristal·lines platges de la Costa Daurada nord, i sempre, conversant amb persones relacionades amb el mar i el territori.</desc>
-    <length units="minutes">00:33:27</length>
+  <programme start="20260928154300 +0000" channel="esport3" stop="20260928160945 +0000">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Maridant la història</sub-title>
+    <desc lang="ca">En aquest cinquè GR, la ruta ens portarà des d'Empuriabrava fins al castell de Requesens, direcció nord per l'interior de l'Alt Empordà. En total uns 70 km, repartits en dues jornades, fets a peu, en cotxe i en quad. El Marc creuarà per Castelló d'Empúries, Vilanova de la Muga i farà una paradeta a Peralada, on toparà amb una veritable heroïna! Després seguirà fins a Garriguella, un poble molt dolç on descobrirà l'avantpassat del vi. I acabarà el dia passant per Espolla i Sant Climent Sescebes.</desc>
+    <length units="minutes">00:26:45</length>
   </programme>
-  <programme start="20260928041010 +0000" channel="sx3" stop="20260928042205 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La promesa d'en Basile</sub-title>
-    <desc lang="ca">Per completar l'herbari d'en Casimir, demà, la Guineta, els bessons i la Castina li han de portar una fulla que tingui alguna cosa especial. En Basile li promet a la seva filla que al matí l'anirà a buscar al cau i tots dos buscaran la fulla més maca del bosc. Però després, en Pinxo li recorda a la Guineta totes les vegades que en Basile s'ha oblidat de les seves promeses.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20260928141231 +0000" channel="sx3" stop="20260928143441 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La guerra ja s'ha acabat. Gràcies Son Goku!</sub-title>
+    <desc lang="ca">Després de comprovar que en Son Gohan cada cop ho té més complicat per derrotar en Cèl·lula, tots els seus companys decideixen ajudar-lo. Més tard, guiat per l'esperit del seu pare, en Son Gohan inicia un duel de voluntats contra el seu rival amb el destí de la Terra en joc. Aconseguirà, per fi, treure tot el poder que porta a dins?</desc>
+    <length units="minutes">00:22:10</length>
   </programme>
-  <programme start="20260928042205 +0000" channel="sx3" stop="20260928043335 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La festa de pijames</sub-title>
-    <desc lang="ca">En Timbal ha quedat per passar la nit a cal seu amic Lludó i, com que el seu llit quedarà buit, la Guineta i en Pinxo ho volen aprofitar per convidar un amic a dormir a casa seva. Tots dos fan la gara-gara a l'Edmond perquè els doni permís i se'n surten. Però el problema és que només hi ha lloc per a l'amic de l'un o de l'altre.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20260928143441 +0000" channel="sx3" stop="20260928145513 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Goku es continuarà entrenant a l'Altre Món</sub-title>
+    <desc lang="ca">Després del combat brutal contra en Cèl·lula, en Son Gohan i companyia, menys en Vegeta, tots molt malferits, decideixen anar al Palau del Totpoderós per invocar en Sheron perquè ressusciti els que han perdut la vida lluitant. Aviat, però, rebran un missatge sorprenent d'en Son Goku des de l'Altre Món.</desc>
+    <length units="minutes">00:20:32</length>
   </programme>
-  <programme start="20260928040918 +0000" channel="tv3" stop="20260928050130 +0000">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal matar</sub-title>
-    <desc lang="ca">SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.</desc>
-    <length units="minutes">00:52:12</length>
+  <programme start="20260928135600 +0000" channel="tv3" stop="20260928144222 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La carmanyola</sub-title>
+    <desc lang="ca">Comencem la setmana a 'La Renaixença' parlant sobre la carmanyola, un objecte que en el seu moment va ser símbol republicà. Avui en dia s'ha convertit en l'objecte que més perdem (o robem). Quantes vegades hem anat a visitar els pares o la iaia carregats de tàpers buits amb l'objectiu d'emportar-nos-els plens? Ens visita en Joan Pera, a qui li hem demanat que ens faci un últim discurs, per tenir-ho tot preparat si passa alguna cosa. I sortim a passejar el gos pel dia que es va implantar el calendari gregorià.</desc>
+    <length units="minutes">00:46:22</length>
   </programme>
-  <programme start="20260928050130 +0000" channel="tv3" stop="20260928055129 +0000">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">1942: Si cal vèncer</sub-title>
-    <desc lang="ca">SINOPSI: Novembre del 1942. S'acaba l'any amb una alenada d'esperança. La relació de forces sembla que s'inverteix. La maquinària alemanya ha sortit malparada al desert d'Egipte, les tropes de la Wehrmacht estan enfangades al front rus i l'exèrcit japonès mostra els primers senyals de debilitat al Pacífic. Però tot això, la població civil en general no ho sap. Una cosa és segura: el patiment no s'ha acabat ni de bon tros per a homes, dones i criatures.</desc>
-    <length units="minutes">00:49:59</length>
+  <programme start="20260928144222 +0000" channel="tv3" stop="20260928152848 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El rellotge de polsera</sub-title>
+    <desc lang="ca">El rellotge de polsera va arribar per substituir el rellotge de butxaca. Era vist com un objecte per a dones, fins que els homes es van adonar que al mig d'una guerra era una mica incòmode treure el rellotge de la butxaca per mirar quina hora era mentre els disparaven. Parlem amb en Xavi Lozano, un multiinstrumentista que vol demostrar que podem convertir qualsevol objecte que ens envolta en un instrument. Sabeu com sona una cadira? I una regadora? A les 'Històries per passejar el gos', acompanyem en Torb fins al descobriment de la pedra de Rosetta.</desc>
+    <length units="minutes">00:46:26</length>
+  </programme>
+  <programme start="20260928135500 +0000" channel="tv3" stop="20260928152955 +0000">
+    <title lang="ca">Protecció Civil informa sobre la previsió de pluges</title>
+    <sub-title lang="ca">4129</sub-title>
+    <length units="minutes">01:29:55</length>
   </programme>
 </tv>
