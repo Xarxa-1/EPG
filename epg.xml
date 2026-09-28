@@ -6,72 +6,73 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260927220027 +0000" channel="tvi" stop="20260927223027 +0000">
-    <title lang="ca">Piromusical de la Mercè</title>
-    <sub-title lang="ca">Piromusical de la Mercè 2026</sub-title>
-    <desc lang="ca">Dulceida presenta la retransmissió del Piromusical de la Mercè per TV3 i 3Cat Diumenge 27 de setembre, a les 22.00, TV3 emetrà en directe el gran Piromusical, que, com cada any, tanca les Festes de la Mercè de Barcelona. La presentadora de l'innovador dating de 3Cat, 'La gran cita', serà l'encarregada d'acompanyar els espectadors durant aquest xou de música i focs artificials que cada any bat rècords d'audiència i que produeix l'Ajuntament de la ciutat i el seu Institut de Cultura. Aquesta edició se celebra a la platja de la Nova Icària arran les obres que es fan a l'avinguda Maria Cristina, i qui ha triat la banda sonora de l'espectacle és el líder d'Oques Grasses, Josep Montero. La influenciadora badalonina, fan incondicional d'aquest grup osonenc, ens guiarà durant els 30 minuts que dura l'espectacle de llum, so i color al compàs de ritmes molt variats. Montero ha seleccionat tot tipus de música i també retrà homenatge a la banda que lidera i que aquest any s'acomiada amb quatre concerts a l'Estadi Olímpic en un èxit sense precedents. Per a aquest esdeveniment, TV3 comptarà amb un ampli desplegament tècnic que inclou un dron perquè els espectadors tinguin imatges impressionants des de més de cent metres d'alçada i d'una càmera que des del mar oferirà les millors vistes de l'skyline de Barcelona.</desc>
-    <length units="minutes">00:30:00</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20260928040000 +0000" channel="tvi" stop="20260928050014 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Bernat Font Trio</sub-title>
+    <desc lang="ca">Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista 'Jaç' i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.</desc>
+    <length units="minutes">01:00:14</length>
   </programme>
-  <programme start="20260927223027 +0000" channel="tvi" stop="20260927234324 +0000">
-    <title lang="ca">Vèrtex</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="minutes">01:12:57</length>
+  <programme start="20260928050014 +0000" channel="tvi" stop="20260928060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Marc Miralta</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">00:59:46</length>
   </programme>
-  <programme start="20260927220200 +0000" channel="324" stop="20260927230000 +0000">
-    <title lang="ca">Telenotícies vespre (reemissió)</title>
-    <sub-title lang="ca">4192</sub-title>
-    <length units="minutes">00:58:00</length>
-  </programme>
-  <programme start="20260927230000 +0000" channel="324" stop="20260928003000 +0000">
+  <programme start="20260928010000 +0000" channel="324" stop="20260928060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11285</sub-title>
+    <sub-title lang="ca">11286</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260927214455 +0000" channel="esport3" stop="20260927230000 +0000">
+  <programme start="20260928060000 +0000" channel="324" stop="20260928080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11287</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20260928035928 +0000" channel="esport3" stop="20260928051455 +0000">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Barça-Zamalek SC / Mundial de Clubs / J2</sub-title>
     <desc lang="ca">Els blaugranes juguen contra l'equip egipci a la segona jornada del Mundial de clubs d'handbol que es disputa al Caire.</desc>
-    <length units="minutes">01:15:05</length>
+    <length units="minutes">01:15:27</length>
   </programme>
-  <programme start="20260927230000 +0000" channel="esport3" stop="20260928000049 +0000">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">01:00:49</length>
+  <programme start="20260928051455 +0000" channel="esport3" stop="20260928054822 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">T2xC1 - La Costa de Barcelona Sud i la Costa Daurada Nord</sub-title>
+    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de Castelldefels, Vilanova i la Geltrú i Torredembarra, explorant els alts penya-segats del Parc Natural del Garraf, les cristal·lines platges de la Costa Daurada nord, i sempre, conversant amb persones relacionades amb el mar i el territori.</desc>
+    <length units="minutes">00:33:27</length>
   </programme>
-  <programme start="20260927222312 +0000" channel="sx3" stop="20260927223347 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">La declaració</sub-title>
-    <desc lang="ca">La Panda mira de redactar una declaració per en Mani. En saber-ho, tota la família mira d'intervenir per ajudar-la, però l'única cosa que aconsegueixen és exasperar-la. Farta de tots ells, la Panda els fa fora de casa amb la intenció d'estar tranquil·la. El problema és que des de l'Efix fins als veïns, tothom tenia alguna cosa important a demanar a algun membre de la família. Tindrà tempsper escriure la declaració?</desc>
-    <length units="minutes">00:10:35</length>
+  <programme start="20260928041010 +0000" channel="sx3" stop="20260928042205 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La promesa d'en Basile</sub-title>
+    <desc lang="ca">Per completar l'herbari d'en Casimir, demà, la Guineta, els bessons i la Castina li han de portar una fulla que tingui alguna cosa especial. En Basile li promet a la seva filla que al matí l'anirà a buscar al cau i tots dos buscaran la fulla més maca del bosc. Però després, en Pinxo li recorda a la Guineta totes les vegades que en Basile s'ha oblidat de les seves promeses.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20260927223347 +0000" channel="sx3" stop="20260927224511 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Una tasca fàcil</sub-title>
-    <desc lang="ca">El granger s'emporta la Tropa al poble com a reclam de la seva paradeta al mercat, però l'Albert necessita ajuda per desencallar la porta de la seva gàbia. Un per un, es van escapolint per ajudar-lo, però han de tornar corrents cada cop que el granger s'adona que no hi són tots. Com s'ho faran?</desc>
-    <length units="minutes">00:11:24</length>
+  <programme start="20260928042205 +0000" channel="sx3" stop="20260928043335 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La festa de pijames</sub-title>
+    <desc lang="ca">En Timbal ha quedat per passar la nit a cal seu amic Lludó i, com que el seu llit quedarà buit, la Guineta i en Pinxo ho volen aprofitar per convidar un amic a dormir a casa seva. Tots dos fan la gara-gara a l'Edmond perquè els doni permís i se'n surten. Però el problema és que només hi ha lloc per a l'amic de l'un o de l'altre.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20260927220156 +0000" channel="tv3" stop="20260927224612 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Sao Paulo</sub-title>
-    <desc lang="ca">Sao Paulo pertany indiscutiblement a la llista de ciutats del món d'en Tom. Amb més de 24 milions d'habitants, no és només la ciutat més gran del Brasil, sinó també la més gran de tot l'hemisferi sud i de tot el continent sud-americà. Aquesta megaciutat és un reflex de tot el Brasil. Un país de la mida de la Unión Europea, amb la desorbitada xifra de 210 milions d'habitants. A més, l'anomenen escaientment 'Selva de pedra'. Per al turista mitjà, Rio de Janeiro és més fascinant que la Sao Paulo de formigó. Però juntament amb el seu company de viatge i intèrpret Tomaz, en Tom descobrirà que Sao Paulo també té molt per oferir...</desc>
-    <length units="minutes">00:44:16</length>
+  <programme start="20260928040918 +0000" channel="tv3" stop="20260928050130 +0000">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal matar</sub-title>
+    <desc lang="ca">SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.</desc>
+    <length units="minutes">00:52:12</length>
   </programme>
-  <programme start="20260927224612 +0000" channel="tv3" stop="20260927232837 +0000">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Nairobi</sub-title>
-    <desc lang="ca">Nairobi és la ciutat amb el creixement més ràpid del món. Raó per la qual en Tom l'ha inclòs en la seva llista de grans ciutats del món. El seu dinamisme i innovació deixaran enlluernat a en Tom, i alhora, es trobarà amb els grans reptes d'aquest creixement imparable: la lluita per sortir de la pobresa i per protegir una naturalesa amenaçada.</desc>
-    <length units="minutes">00:42:25</length>
+  <programme start="20260928050130 +0000" channel="tv3" stop="20260928055129 +0000">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">1942: Si cal vèncer</sub-title>
+    <desc lang="ca">SINOPSI: Novembre del 1942. S'acaba l'any amb una alenada d'esperança. La relació de forces sembla que s'inverteix. La maquinària alemanya ha sortit malparada al desert d'Egipte, les tropes de la Wehrmacht estan enfangades al front rus i l'exèrcit japonès mostra els primers senyals de debilitat al Pacífic. Però tot això, la població civil en general no ho sap. Una cosa és segura: el patiment no s'ha acabat ni de bon tros per a homes, dones i criatures.</desc>
+    <length units="minutes">00:49:59</length>
   </programme>
 </tv>
