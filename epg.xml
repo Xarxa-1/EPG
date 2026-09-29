@@ -1,37 +1,31 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20260929002624 +0000" channel="tvi" stop="20260929010420 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Toni Solans i David Romero (Restaurant Mantis)</sub-title>
-    <desc lang="ca">El Toni i el David són el motor creatiu de Mantis, un restaurant d'autor jove i inconformista construït des de la llibertat creativa i el respecte pel producte. Es van conèixer a l'escola Hofmann i, després de trajectòries divergents en cuines d'alta exigència, van retrobar-se durant la pandèmia amb Mosk, un projecte clandestí que va funcionar com a espai de prova i llibertat per crear la base del que avui és Mantis. No creuen en etiquetes i la seva cuina beu d'influències d'arreu del món, sobretot orientals. A Mantis, el joc conviu amb el rigor tècnic, fruit de dos caràcters oposats però profundament complementaris.</desc>
-    <length units="minutes">00:37:56</length>
+  <programme start="20260929050000 +0000" channel="tvi" stop="20260929060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Xavi Maureta</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260929010420 +0000" channel="tvi" stop="20260929024817 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2168</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:43:57</length>
-  </programme>
-  <programme start="20260929003000 +0000" channel="324" stop="20260929010000 +0000">
+  <programme start="20260929060000 +0000" channel="tvi" stop="20260929080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11295</sub-title>
+    <sub-title lang="ca">11296</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
   <programme start="20260929010000 +0000" channel="324" stop="20260929060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
@@ -39,40 +33,46 @@
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260929003257 +0000" channel="esport3" stop="20260929004953 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5522</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:16:56</length>
+  <programme start="20260929060000 +0000" channel="324" stop="20260929080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11296</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260929004953 +0000" channel="esport3" stop="20260929022542 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Final de campanya; sanció al City i 'El colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Aina Cerdà, Xavi Torres i Jordi Martí comenten com està la votació de la pilota d'or l'últim dia de les votacions. En Joan Fàbregas analitza les polèmiques de la jornada de Nations League.</desc>
-    <length units="minutes">01:35:49</length>
+  <programme start="20260929042540 +0000" channel="esport3" stop="20260929053930 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">01:13:50</length>
   </programme>
-  <programme start="20260929002904 +0000" channel="sx3" stop="20260929004943 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El misteri de la praderia</sub-title>
-    <desc lang="ca">El Martin i el Chris veuen que, en un arbust espinós, algú ha clavat a les punxes tot de llagostes i escarabats, i llavors decideixen emprendre una aventura per resoldre aquest nou misteri de la natura: quin és l'animal que té aquest hàbit tan estrany i per què ho fa? El que descobreixen és que es tracta d'un curiós ocell, el botxí, un rapinyaire que no utilitza les urpes com els altres, sinó el bec, i que té el costum de guardar-se reserves de menjar.</desc>
-    <length units="minutes">00:20:39</length>
+  <programme start="20260929053930 +0000" channel="esport3" stop="20260929060617 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Marnaton Cadaqués</sub-title>
+    <desc lang="ca">Penúltima de les sis proves de la Copa Marnaton 2026, el campionat de natació en aigües obertes que se celebra a Catalunya i les Illes Balears.</desc>
+    <length units="minutes">00:26:47</length>
   </programme>
-  <programme start="20260929004943 +0000" channel="sx3" stop="20260929010111 +0000">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">El toc de la Marine</sub-title>
-    <desc lang="ca">La Marine es creu que és una artista de la moda i està farta d'heretar la roba vella de la seva germana gran. Vol triar la roba nova de la Wendy amb ella. Però les dues germanes tenen gustos molt diferents. La Marine acaba donant el seu toc personal al vestit nou de la Wendy. Quin desastre! O no... a totes les amigues els encanta el toc que la Marine dóna a les seves creacions!</desc>
-    <length units="minutes">00:11:28</length>
+  <programme start="20260929045320 +0000" channel="sx3" stop="20260929050450 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Un cadell? Au, vinga!</sub-title>
+    <desc lang="ca">L'Edmond i la Marguerite estan construint una mena de caixa en secret. Els nens arriben a la conclusió que és un bressol, i que els pares esperen un germanet o una germaneta. La Trufa està encantada amb l'arribada d'un cadell; el Timbal, no gaire, perquè creu que s'acabarà la tranquil·litat al cau; i la Guineta creu que la seva mare la deixarà de banda i no en vol sentir parlar.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20260929000205 +0000" channel="tv3" stop="20260929005013 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">MWC i rics</sub-title>
-    <desc lang="ca">El Mobile World Congress augmenta la pressió de l'aeroport perquè en poques hores hi passen més de 50.000 persones. S'incrementen els vols privats i els passatgers VIPs disposen de tota mena de luxes a les sales exclusives, fins i tot, de perruqueria. VIPs i famosos que generen expectació, com Neymar quan arriba a la terminal.</desc>
-    <length units="minutes">00:48:08</length>
+  <programme start="20260929050450 +0000" channel="sx3" stop="20260929051625 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Una noieta una mica pesada</sub-title>
+    <desc lang="ca">En un arbre al mig del bosc, la Guineta hi ha trobat un rusc d'abelles ple de mel. La petita guineu hi vol portar els bessons per donar-los una sorpresa: un berenar ben dolç. En Lucien, que en sap molt, d'abelles i de collir mel, li diu que l'acompanyarà a l'arbre i l'ajudarà amb el rusc. Però els pares de la Guineta volen que es cuidi de la Trufa, i l'excursió es complica.</desc>
+    <length units="minutes">00:11:35</length>
   </programme>
-  <programme start="20260929005013 +0000" channel="tv3" stop="20260929012013 +0000">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">221</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20260929045515 +0000" channel="tv3" stop="20260929052216 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">Revolució a la fàbrica</sub-title>
+    <desc lang="ca">'La roda ja girava, i la revolució va arrelar amb força. Però tot va començar gràcies a un fet concret: la fabricació de les indianes'.Barcelona va ser una de les grans capitals europees de la indústria des de finals del segle XIX fins a finals del XX. Aquesta revolució va transformar la ciutat i, fins fa pocs anys, el seu skyline estava definit per centenars de xemeneies fumejants. Ara ja no fumegen, però moltes d'aquestes xemeneies segueixen decorant el paisatge urbà. Aquest gran recorregut farà un homenatge a la història industrial de Barcelona entenent què eren les indianes i per què van ser tan importants les indianes al Museu de l'Estampació de Premià de Mar, descobrint que molts dels edificis del Raval tenen un passat industrial excepcional, aprendrà a fer una bufanda amb un teler tradicional, visitarà la fàbrica de creació de la Fabra i Coats, participant d'un assaig de la companyia Insectotròpics,farà running pel Parc de l'Espanya Industrial i pel barri de Sants, i s'acabarà visitant una de les fàbriques més antigues de Barcelona que segueix en actiu, però actualitzada, l'antiga fàbrica Damm.</desc>
+    <length units="minutes">00:27:01</length>
+  </programme>
+  <programme start="20260929052216 +0000" channel="tv3" stop="20260929053817 +0000">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Xarim Aresté</sub-title>
+    <desc lang="ca">Concert del guitarrista i cantant Xarim Aresté, enregistrat en directe al Pas de la Barca de Flix, el 25 de gener del 2024. Com és habitual en els seus directes, el músic tarragoní aprofita la seva manera passional de tocar la guitarra elèctrica per alternar moments musicals de pur nervi amb passatges més reposats. Xarim Aresté interpreta en format de quartet algunes de les cançons del disc 'Un idioma nou', una obra en què torna a incidir en la seva personal barreja de cançó d'autor amb sonoritats que provenen del blues, el rock i el folk. Xarim Aresté: guitarra i veu Enric Fuster: bateria Joan Garcias: contrabaix Ricard Sohn: teclat  Cançons 'La barca' 'Nassos de paper' 'Mai més' 'La riuada' Localització: Pas de la Barca de Flix. Passeig de l'Ebre, 5. Flix, Tarragona. Data: 25 de gener del 2024</desc>
+    <length units="minutes">00:16:01</length>
   </programme>
 </tv>
