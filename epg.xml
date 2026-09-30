@@ -1,76 +1,84 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20260930103027 +0000" channel="tvi" stop="20260930135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1819</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:33</length>
+  <programme start="20260930183457 +0000" channel="tvi" stop="20260930192147 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Sofiane Pamart, festivals singulars, futbol pop, Remei de Ca la Fresca</sub-title>
+    <desc lang="ca">Superestrella del rap o de la música clàssica? El pianista Sofiane Pamart omple grans estadis reunint el millor dels dos mons. Conegut a França com el rei del piano, Andrea Gumes l'entrevista per saber què fa d'ell un dels músics clàssics més escoltats per streaming. Amb el periodista Blai Marsé fem una ruta pels festivals d'estiu catalans més singulars, i amb el Jacint Casademont repassem pel·lícules, còmics, cançons i tota mena d'artefactes pop inspirats en el futbol. Acabem amb el directe dels Remei de Ca la Fresca ara que reediten en vinil el seu disc de debut homònim.</desc>
+    <length units="minutes">00:46:50</length>
   </programme>
-  <programme start="20260930135500 +0000" channel="tvi" stop="20260930143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7045</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20260930192147 +0000" channel="tvi" stop="20260930204846 +0000">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Totes les criatures</sub-title>
+    <desc lang="ca">'Totes les criatures' (2021). Una producció de Elsabeth produccions amb la col·laboració de Televisió de Catalunya i el Bisbat de la Seu d'Urgell. Amb el suport de l' ICEC.Un grup de veïns ideen un fórmula imaginativa per reviure l'edifici més emblemàtic de Saurí: demanen a l'artista Santi Moix que pinti les parets de l'església romànica del poble que l'ha vist créixer. El pintor -que viu i treballa a Nova York des de fa trenta anys- accepta el repte i comença així un viatge de retorn als seus orígens, gairebé místic, que durarà 4 anys. La pel·lícula segueix el llarg procés de creació i retrata els dos mons en col·lisió que habiten dins del Santi: Nova York, una ciutat moderna, superpoblada, aparador del capitalisme més ferotge, i Saurí, un poble de dotze habitants, castigat pel despoblament rural, però que es resisteix a desaparèixer.Direcció: Xavier PuigGuió: Raimon Fransoy, Xavier Puig i Macià Florit Realització: ElsabethProducció i muntatge: Xavier Puig i Macià FloritProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Xavier PuigDirectora de producció: Laia BonetMúsica: Xarim Aresté Grafisme: Oriol Frías Veu en off: Joan Solé</desc>
+    <length units="minutes">01:26:59</length>
   </programme>
-  <programme start="20260930120000 +0000" channel="324" stop="20260930135500 +0000">
+  <programme start="20260930183000 +0000" channel="324" stop="20260930200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11307</sub-title>
+    <sub-title lang="ca">11310</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20260930135500 +0000" channel="324" stop="20260930143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7045</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20260930200000 +0000" channel="324" stop="20260930210000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11311</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260930130010 +0000" channel="esport3" stop="20260930140058 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Roma-Barça, exhibició de Lamine i Queralt Casas</sub-title>
-    <desc lang="ca">Avui, Roma-Barça de Champions per TV3. Raphinha torna cap a Barcelona. Exhibició de Lamine Yamal a Sevilla. En parlem amb l'Àlex Delmàs. Què és la llei Wenger? Ens ho explica Joan Fàbregas. Entrevistem Queralt Casas, jugadora de l'Spar Girona. A la tertúlia ens acompanyen Dani Senabre, Frederic Porta i Gemma Mallorca.</desc>
-    <length units="minutes">01:00:48</length>
+  <programme start="20260930184000 +0000" channel="esport3" stop="20260930202656 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Flensburg-BM Granollers / EHF European League / J1</sub-title>
+    <desc lang="ca">El Fraikin Granollers s'estrena, en una nova edició del campionat continental, a la pista del conjunt de Schleswig-Holstein. El Flensburg és un històric de l'handbol alemany amb un gran palmarès, que inclou la Champions de la temporada 2013-2014 i tres European League, l'última fa dues campanyes.</desc>
+    <length units="minutes">01:46:56</length>
   </programme>
-  <programme start="20260930140058 +0000" channel="esport3" stop="20260930150245 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Roma-Barça, exhibició de Lamine i Queralt Casas</sub-title>
-    <desc lang="ca">Avui, Roma-Barça de Champions per TV3. Raphinha torna cap a Barcelona. Exhibició de Lamine Yamal a Sevilla. En parlem amb l'Àlex Delmàs. Què és la llei Wenger? Ens ho explica Joan Fàbregas. Entrevistem Queralt Casas, jugadora de l'Spar Girona. A la tertúlia ens acompanyen Dani Senabre, Frederic Porta i Gemma Mallorca.</desc>
-    <length units="minutes">01:01:47</length>
+  <programme start="20260930202656 +0000" channel="esport3" stop="20260930222102 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet Girona-Emlak Konut / Euroleague / Prèvia</sub-title>
+    <desc lang="ca">L'Spar es juga l'accés a la màxima competició continental en aquesta eliminatòria prèvia, a un sol partit, contra el conjunt turc.</desc>
+    <length units="minutes">01:54:06</length>
   </programme>
-  <programme start="20260930130814 +0000" channel="sx3" stop="20260930132934 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">En Conan cau per un penya-segat (1a part)</sub-title>
-    <desc lang="ca">Un lladre anomenat El Zorro i la seva banda cometen un robatori i maten tres persones. En Yuji Isehara, un dels membres de la banda, fuig perquè no sabia que actuarien amb tanta violència. En Conan i la Lliga de Detectius Júnior van a passar un cap de setmana en una casa al camp i s'hi troben en Fuji al jardí, malferit. En un moment determinat, en Conan, per salvar-li la vida, arriscarà la seva.</desc>
-    <length units="minutes">00:21:20</length>
+  <programme start="20260930190357 +0000" channel="sx3" stop="20260930192647 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Les Embrutaires</sub-title>
+    <desc lang="ca">Després d'una festa de pijames plena de sorpreses, la Marinette i les seves amigues es pregunten què li passa a la Kagami. S'aïlla de la colla, acaba desapareixent i les amigues no la troben. Surten a buscar-la però de seguida ho han de deixar córrer perquè apareixen supermalvats. Aconseguirà Ladybug superar les Embrutaires i trobar la Kagami?</desc>
+    <length units="minutes">00:22:50</length>
   </programme>
-  <programme start="20260930132934 +0000" channel="sx3" stop="20260930134921 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">En Conan cau per un penya-segat (2a part)</sub-title>
-    <desc lang="ca">Per salvar en Yuji Isehara de la banda del Zorro, en Conan es llança daltabaix d'un penya-segat i desapareix. La Ran i companyia no se'n saben avenir i no es volen ni imaginar la possibilitat d'haver perdut el seu amic, però, en realitat, tothom el dona per mort. La pròxima a desaparèixer és l'Ai, que rep un missatge que podria ser el principi de la salvació del seu amic de l'ànima.</desc>
-    <length units="minutes">00:19:47</length>
+  <programme start="20260930192647 +0000" channel="sx3" stop="20260930195023 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Riginarazione</sub-title>
+    <desc lang="ca">Quan s'acosta el 75è aniversari dels seus avis, la Marinette rep una notícia que trasbalsarà la seva vida i la de la seva família.</desc>
+    <length units="minutes">00:23:36</length>
   </programme>
-  <programme start="20260930131129 +0000" channel="tv3" stop="20260930144816 +0000">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">El plató d''EL GRAN GRAN DICTAT' de TV3, presentat per Òscar Dalmau, rebrà tres concursants famosos molt diferents entre ells: l'actor Toni Albà, la model i presentadora de televisió Judit Mascó i el campió del món de Moto2, Pol Espargaró. Tots tres s'enfrontaran per guanyar un premi final de 2.000 euros i donar-lo a l'ONG que hagin escollit.En aquesta edició, els populars concursants també participaran en una sèrie d'esquetxos en què descobrirem què fan quan no treballen. Així, veurem quina és l'afició preferida del Toni Albà, descobrirem el negoci a Internet que ha muntat la Judit Mascó i comprovarem que el Pol Espargaró aprofita el poc temps lliure que té per dedicar-lo a família i amics.Com cada setmana, el Mag Lari comptarà amb la col·laboració del presentador i dels convidats per fer diferents trucs de màgia.</desc>
-    <length units="minutes">01:36:47</length>
+  <programme start="20260930183318 +0000" channel="tv3" stop="20260930193050 +0000">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Mars</sub-title>
+    <desc lang="ca">Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
+    <length units="minutes">00:57:32</length>
   </programme>
-  <programme start="20260930144816 +0000" channel="tv3" stop="20260930153424 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 5</sub-title>
-    <desc lang="ca">Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols d'aquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet. Això sí, no us en deixeu cap, que a cada un hi ha detalls que no hem pogut posar aquí.</desc>
-    <length units="minutes">00:46:08</length>
+  <programme start="20260930193050 +0000" channel="tv3" stop="20260930201713 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="minutes">00:46:23</length>
+  </programme>
+  <programme start="20260930185822 +0000" channel="tv3" stop="20260930210317 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- PAOK-Kids&amp;Us Manresa / Eurocup / J1</sub-title>
+    <desc lang="ca">Els del Bages visiten la ciutat grega de Tessalònica per debutar en una nova edició d'aquesta competició europea de bàsquet.</desc>
+    <length units="minutes">02:04:55</length>
   </programme>
 </tv>
