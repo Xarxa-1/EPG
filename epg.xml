@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260930040000 +0000" channel="tvi" stop="20260930050004 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">The Walking Stick Man</sub-title>
-    <desc lang="ca">L'ànima d'aquest projecte és el multiinstrumentista i compositor barceloní Jordi Llaurens. Amb una densa trajectòria i desenes de col·laboracions amb el grans noms del blues com Alvin Young Blood Heart, James Harman o Barrel-House Chuck. Jordi Llaurens ens visita avui al programa, acompanyat de David Giorcelli, Reginald Vilardell, Josep Martí i Llorenç Barceló.</desc>
-    <length units="minutes">01:00:04</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20260930103027 +0000" channel="tvi" stop="20260930135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1819</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:33</length>
   </programme>
-  <programme start="20260930050004 +0000" channel="tvi" stop="20260930060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Francesc Capella</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:59:56</length>
+  <programme start="20260930135500 +0000" channel="tvi" stop="20260930143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7045</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260930010000 +0000" channel="324" stop="20260930060000 +0000">
+  <programme start="20260930120000 +0000" channel="324" stop="20260930135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11304</sub-title>
+    <sub-title lang="ca">11307</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20260930060000 +0000" channel="324" stop="20260930080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11305</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20260930135500 +0000" channel="324" stop="20260930143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7045</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20260930042030 +0000" channel="esport3" stop="20260930060210 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">Scooter Street / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">01:41:40</length>
+  <programme start="20260930130010 +0000" channel="esport3" stop="20260930140058 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Roma-Barça, exhibició de Lamine i Queralt Casas</sub-title>
+    <desc lang="ca">Avui, Roma-Barça de Champions per TV3. Raphinha torna cap a Barcelona. Exhibició de Lamine Yamal a Sevilla. En parlem amb l'Àlex Delmàs. Què és la llei Wenger? Ens ho explica Joan Fàbregas. Entrevistem Queralt Casas, jugadora de l'Spar Girona. A la tertúlia ens acompanyen Dani Senabre, Frederic Porta i Gemma Mallorca.</desc>
+    <length units="minutes">01:00:48</length>
   </programme>
-  <programme start="20260930060210 +0000" channel="esport3" stop="20260930061717 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Sea Otter Europe</sub-title>
-    <desc lang="ca">Girona ha tornat a convertir-se en l'epicentre del ciclisme internacional amb la 10a edició de la Sea Otter Europe. La cita reuneix durant tot un cap de setmana alguns dels millors especialistes del món en disciplines com les BTT i el gravel, al costat de centenars de participants amateurs. Més enllà de la competició, l'esdeveniment combina curses, exhibicions i una gran zona comercial que converteix la ciutat en un punt de trobada per als amants de la bicicleta.</desc>
-    <length units="minutes">00:15:07</length>
+  <programme start="20260930140058 +0000" channel="esport3" stop="20260930150245 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Roma-Barça, exhibició de Lamine i Queralt Casas</sub-title>
+    <desc lang="ca">Avui, Roma-Barça de Champions per TV3. Raphinha torna cap a Barcelona. Exhibició de Lamine Yamal a Sevilla. En parlem amb l'Àlex Delmàs. Què és la llei Wenger? Ens ho explica Joan Fàbregas. Entrevistem Queralt Casas, jugadora de l'Spar Girona. A la tertúlia ens acompanyen Dani Senabre, Frederic Porta i Gemma Mallorca.</desc>
+    <length units="minutes">01:01:47</length>
   </programme>
-  <programme start="20260930043907 +0000" channel="sx3" stop="20260930045101 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El professor Edmond</sub-title>
-    <desc lang="ca">La mare del Pico ha fet una classe a la canalla perquè aprenguin a treure's les puces rebolcant-se al fang. El Timbal no hi ha participat, perquè no li agrada ni la pudor del fang ni les classes de la mare del Pico. Aleshores, el Pico, que s'ha enfadat una mica, els diu que l'Edmund és pitjor, perquè ell no els ha fet mai cap classe. I ja s'ha embolicat la troca!</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20260930130814 +0000" channel="sx3" stop="20260930132934 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">En Conan cau per un penya-segat (1a part)</sub-title>
+    <desc lang="ca">Un lladre anomenat El Zorro i la seva banda cometen un robatori i maten tres persones. En Yuji Isehara, un dels membres de la banda, fuig perquè no sabia que actuarien amb tanta violència. En Conan i la Lliga de Detectius Júnior van a passar un cap de setmana en una casa al camp i s'hi troben en Fuji al jardí, malferit. En un moment determinat, en Conan, per salvar-li la vida, arriscarà la seva.</desc>
+    <length units="minutes">00:21:20</length>
   </programme>
-  <programme start="20260930045101 +0000" channel="sx3" stop="20260930050231 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El dia de la mare</sub-title>
-    <desc lang="ca">És el dia de les mares, i totes, sense excepció, es reuneixen per parlar de la seva vida quotidiana. I mentre les mares xerren, els pares preparen el menjar pel sopar i la canalla un regal per elles. La Guineta decideix fer una figura de fang per a la Marguerite, però en Gatmoll i en Gatmoix li esguerren el regal.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20260930132934 +0000" channel="sx3" stop="20260930134921 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">En Conan cau per un penya-segat (2a part)</sub-title>
+    <desc lang="ca">Per salvar en Yuji Isehara de la banda del Zorro, en Conan es llança daltabaix d'un penya-segat i desapareix. La Ran i companyia no se'n saben avenir i no es volen ni imaginar la possibilitat d'haver perdut el seu amic, però, en realitat, tothom el dona per mort. La pròxima a desaparèixer és l'Ai, que rep un missatge que podria ser el principi de la salvació del seu amic de l'ànima.</desc>
+    <length units="minutes">00:19:47</length>
   </programme>
-  <programme start="20260930042702 +0000" channel="tv3" stop="20260930044832 +0000">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Catalunya beu</sub-title>
-    <desc lang="ca">A diferència d'alguns dels nostres veïns, que beuen el cap de setmana fins a caure inconscients, amagant les ampolles en bosses de plàstic, els catalans som bebedors de fons. Roger de Gràcia dedica un dia de la seva vida a fer de bevedor passiu, des que es lleva fins que se'n va a dormir, desxifrant totes les paraules que envolten el món de la beguda autòctona, de punta a punta del país. Cava o xampany, cigalons i barreges, licors, estomacals, còctels, vins i fins i tot aigües seran l'objectiu d'un capítol que ens pot deixar una bona ressaca.</desc>
-    <length units="minutes">00:21:30</length>
+  <programme start="20260930131129 +0000" channel="tv3" stop="20260930144816 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">El plató d''EL GRAN GRAN DICTAT' de TV3, presentat per Òscar Dalmau, rebrà tres concursants famosos molt diferents entre ells: l'actor Toni Albà, la model i presentadora de televisió Judit Mascó i el campió del món de Moto2, Pol Espargaró. Tots tres s'enfrontaran per guanyar un premi final de 2.000 euros i donar-lo a l'ONG que hagin escollit.En aquesta edició, els populars concursants també participaran en una sèrie d'esquetxos en què descobrirem què fan quan no treballen. Així, veurem quina és l'afició preferida del Toni Albà, descobrirem el negoci a Internet que ha muntat la Judit Mascó i comprovarem que el Pol Espargaró aprofita el poc temps lliure que té per dedicar-lo a família i amics.Com cada setmana, el Mag Lari comptarà amb la col·laboració del presentador i dels convidats per fer diferents trucs de màgia.</desc>
+    <length units="minutes">01:36:47</length>
   </programme>
-  <programme start="20260930044832 +0000" channel="tv3" stop="20260930051458 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">Nens Grans</sub-title>
-    <desc lang="ca">'M'agraden aquests moments que et transporten a la infantesa, reviure el passat, sentir-te com un nen...'Perquè els més petits també poden viure plenament una ciutat com Barcelona, plena de propostes per a totes les edats. Aquest gran recorregut s'ha proposatdescobrir activitats destinades a nens, o orientades a ells, però que normalment són més de 'grans'. Així es començarà fent un taller de cuina amb l'Ada Parellada, després s'aprendrà com es fan els caramels artesans de Papabubble al seu obrador del barri Gòtic, s'anirà fins a Vilafranca del Penedès per assistir a un assaig de la mainada dels Castellers de Vilafranca, es recomanaran museus que organitzen visites per a nens i s'acabarà a l'assaig de la Sant Andreu Jazz Band, un grup de Jazz format per nens i nenes de 8 a 18 anys dirigit pel Joan Chamorro.</desc>
-    <length units="minutes">00:26:26</length>
+  <programme start="20260930144816 +0000" channel="tv3" stop="20260930153424 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 5</sub-title>
+    <desc lang="ca">Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols d'aquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet. Això sí, no us en deixeu cap, que a cada un hi ha detalls que no hem pogut posar aquí.</desc>
+    <length units="minutes">00:46:08</length>
   </programme>
 </tv>
