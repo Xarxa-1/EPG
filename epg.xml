@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -12,67 +15,64 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20260929231419 +0000" channel="tvi" stop="20260930001426 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Els Pets: Bon dia, joves!</sub-title>
-    <desc lang="ca">Són l'únic grup que perviu en actiu del famós boom del rock català dels anys 80, amb més de tretze discos d'estudi i 20 intenses gires en directe. La seva carrera musical és, també, la banda sonora de tres generacions. 'Els Pets: bon dia, joves' recorre la petja emocional d'una de les bandes més carismàtiques del país.</desc>
-    <length units="minutes">01:00:07</length>
+  <programme start="20260930040000 +0000" channel="tvi" stop="20260930050004 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">The Walking Stick Man</sub-title>
+    <desc lang="ca">L'ànima d'aquest projecte és el multiinstrumentista i compositor barceloní Jordi Llaurens. Amb una densa trajectòria i desenes de col·laboracions amb el grans noms del blues com Alvin Young Blood Heart, James Harman o Barrel-House Chuck. Jordi Llaurens ens visita avui al programa, acompanyat de David Giorcelli, Reginald Vilardell, Josep Martí i Llorenç Barceló.</desc>
+    <length units="minutes">01:00:04</length>
   </programme>
-  <programme start="20260930001426 +0000" channel="tvi" stop="20260930004156 +0000">
-    <title lang="ca">El local</title>
-    <sub-title lang="ca">Buhos-Andrea Motis</sub-title>
-    <desc lang="ca">El grup de rock festiu Buhos invita la trompetista i cantant jazzística Andrea Motis a El Local. Ells porten anys fent gires explosives per tot Catalunya i ella, des que era adolescent, toca als millors escenaris del món. No es coneixen personalment i mai s'haguessin imaginat que farien un feat junts, però han decidit entrar al joc. Primer s'asseuen a la taula de so de l'estudi de gravació a escoltar 'Volcans', un dels èxits Buhos, i consensuen donar-li un toc de bossa. Després passen a l'acció. Entren a l'estudi a assajar i ho posen tot en pràctica. També dialoguen i comparteixen vivències cara a cara. Durant l'assaig hi ha diversió, professionalitat i, sobretot, molts vents. El capítol acaba amb la col·laboració en directe de Buhos i Andrea Motis fent una versió molt interessant de 'Volcans'.</desc>
-    <length units="minutes">00:27:30</length>
+  <programme start="20260930050004 +0000" channel="tvi" stop="20260930060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Francesc Capella</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">00:59:56</length>
   </programme>
-  <programme start="20260929220500 +0000" channel="324" stop="20260930000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2169</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20260930000000 +0000" channel="324" stop="20260930003000 +0000">
+  <programme start="20260930010000 +0000" channel="324" stop="20260930060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11303</sub-title>
+    <sub-title lang="ca">11304</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20260929230000 +0000" channel="esport3" stop="20260930003100 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Ensurt Raphinha; 'Onzeclopèdia' i 'El consultori'</sub-title>
-    <desc lang="ca">Juvenal Edjogo, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la lesió de Raphinha en l'amistós del Brasil. En Fran Domènech presenta els titulats més curiosos de la premsa esportiva. En Sergi Ferrer respon les consultes dels espectadors de l'Onze.</desc>
-    <length units="minutes">01:31:00</length>
+  <programme start="20260930060000 +0000" channel="324" stop="20260930080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11305</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20260930003100 +0000" channel="esport3" stop="20260930005219 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5523</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:21:19</length>
+  <programme start="20260930042030 +0000" channel="esport3" stop="20260930060210 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">Scooter Street / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">01:41:40</length>
   </programme>
-  <programme start="20260929232412 +0000" channel="sx3" stop="20260929234422 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Fossa grossa</sub-title>
-    <desc lang="ca">El Chris no se'n vol anar de Madagascar sense haver vist un animal extraordinari, la fossa, però han de tornar a casa perquè l'endemà és el dia de la mare i no poden deixar d'anar a felicitar la seva. Però quan ja han marxat, el Chris torna involuntàriament a l'illa, on coneixerà les fosses. Allà haurà de lluitar contra la Donita, que caça lèmurs per fer-ne bufandes.</desc>
-    <length units="minutes">00:20:10</length>
+  <programme start="20260930060210 +0000" channel="esport3" stop="20260930061717 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Sea Otter Europe</sub-title>
+    <desc lang="ca">Girona ha tornat a convertir-se en l'epicentre del ciclisme internacional amb la 10a edició de la Sea Otter Europe. La cita reuneix durant tot un cap de setmana alguns dels millors especialistes del món en disciplines com les BTT i el gravel, al costat de centenars de participants amateurs. Més enllà de la competició, l'esdeveniment combina curses, exhibicions i una gran zona comercial que converteix la ciutat en un punt de trobada per als amants de la bicicleta.</desc>
+    <length units="minutes">00:15:07</length>
   </programme>
-  <programme start="20260929234422 +0000" channel="sx3" stop="20260930000431 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Mini Madagascar</sub-title>
-    <desc lang="ca">Com que a l'illa de Madagascar no hi ha grans depredadors terrestres, el Chris diu que és un dels llocs més segurs del món per anar d'aventures. És el lloc perfecte per miniaturitzar-se i explorar. Però aviat els mini-Kratts descobreixen que s'han equivocat de mig a mig. A Madagascar també hi ha bestioles que no són tan tendres i inofensives com semblen, com ara un tipus de lèmurs molt petits.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20260930043907 +0000" channel="sx3" stop="20260930045101 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El professor Edmond</sub-title>
+    <desc lang="ca">La mare del Pico ha fet una classe a la canalla perquè aprenguin a treure's les puces rebolcant-se al fang. El Timbal no hi ha participat, perquè no li agrada ni la pudor del fang ni les classes de la mare del Pico. Aleshores, el Pico, que s'ha enfadat una mica, els diu que l'Edmund és pitjor, perquè ell no els ha fet mai cap classe. I ja s'ha embolicat la troca!</desc>
+    <length units="minutes">00:11:54</length>
   </programme>
-  <programme start="20260929225727 +0000" channel="tv3" stop="20260929235739 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Xefs, noves generacions 'La trobada'</sub-title>
-    <desc lang="ca">Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.</desc>
-    <length units="minutes">01:00:12</length>
+  <programme start="20260930045101 +0000" channel="sx3" stop="20260930050231 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El dia de la mare</sub-title>
+    <desc lang="ca">És el dia de les mares, i totes, sense excepció, es reuneixen per parlar de la seva vida quotidiana. I mentre les mares xerren, els pares preparen el menjar pel sopar i la canalla un regal per elles. La Guineta decideix fer una figura de fang per a la Marguerite, però en Gatmoll i en Gatmoix li esguerren el regal.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20260929235739 +0000" channel="tv3" stop="20260930003126 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Rafel Muria (Restaurant Quatre Molins)</sub-title>
-    <desc lang="ca">Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.</desc>
-    <length units="minutes">00:33:47</length>
+  <programme start="20260930042702 +0000" channel="tv3" stop="20260930044832 +0000">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">Catalunya beu</sub-title>
+    <desc lang="ca">A diferència d'alguns dels nostres veïns, que beuen el cap de setmana fins a caure inconscients, amagant les ampolles en bosses de plàstic, els catalans som bebedors de fons. Roger de Gràcia dedica un dia de la seva vida a fer de bevedor passiu, des que es lleva fins que se'n va a dormir, desxifrant totes les paraules que envolten el món de la beguda autòctona, de punta a punta del país. Cava o xampany, cigalons i barreges, licors, estomacals, còctels, vins i fins i tot aigües seran l'objectiu d'un capítol que ens pot deixar una bona ressaca.</desc>
+    <length units="minutes">00:21:30</length>
+  </programme>
+  <programme start="20260930044832 +0000" channel="tv3" stop="20260930051458 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">Nens Grans</sub-title>
+    <desc lang="ca">'M'agraden aquests moments que et transporten a la infantesa, reviure el passat, sentir-te com un nen...'Perquè els més petits també poden viure plenament una ciutat com Barcelona, plena de propostes per a totes les edats. Aquest gran recorregut s'ha proposatdescobrir activitats destinades a nens, o orientades a ells, però que normalment són més de 'grans'. Així es començarà fent un taller de cuina amb l'Ada Parellada, després s'aprendrà com es fan els caramels artesans de Papabubble al seu obrador del barri Gòtic, s'anirà fins a Vilafranca del Penedès per assistir a un assaig de la mainada dels Castellers de Vilafranca, es recomanaran museus que organitzen visites per a nens i s'acabarà a l'assaig de la Sant Andreu Jazz Band, un grup de Jazz format per nens i nenes de 8 a 18 anys dirigit pel Joan Chamorro.</desc>
+    <length units="minutes">00:26:26</length>
   </programme>
 </tv>
