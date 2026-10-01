@@ -1,84 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20260930183457 +0000" channel="tvi" stop="20260930192147 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Sofiane Pamart, festivals singulars, futbol pop, Remei de Ca la Fresca</sub-title>
-    <desc lang="ca">Superestrella del rap o de la música clàssica? El pianista Sofiane Pamart omple grans estadis reunint el millor dels dos mons. Conegut a França com el rei del piano, Andrea Gumes l'entrevista per saber què fa d'ell un dels músics clàssics més escoltats per streaming. Amb el periodista Blai Marsé fem una ruta pels festivals d'estiu catalans més singulars, i amb el Jacint Casademont repassem pel·lícules, còmics, cançons i tota mena d'artefactes pop inspirats en el futbol. Acabem amb el directe dels Remei de Ca la Fresca ara que reediten en vinil el seu disc de debut homònim.</desc>
-    <length units="minutes">00:46:50</length>
-  </programme>
-  <programme start="20260930192147 +0000" channel="tvi" stop="20260930204846 +0000">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Totes les criatures</sub-title>
-    <desc lang="ca">'Totes les criatures' (2021). Una producció de Elsabeth produccions amb la col·laboració de Televisió de Catalunya i el Bisbat de la Seu d'Urgell. Amb el suport de l' ICEC.Un grup de veïns ideen un fórmula imaginativa per reviure l'edifici més emblemàtic de Saurí: demanen a l'artista Santi Moix que pinti les parets de l'església romànica del poble que l'ha vist créixer. El pintor -que viu i treballa a Nova York des de fa trenta anys- accepta el repte i comença així un viatge de retorn als seus orígens, gairebé místic, que durarà 4 anys. La pel·lícula segueix el llarg procés de creació i retrata els dos mons en col·lisió que habiten dins del Santi: Nova York, una ciutat moderna, superpoblada, aparador del capitalisme més ferotge, i Saurí, un poble de dotze habitants, castigat pel despoblament rural, però que es resisteix a desaparèixer.Direcció: Xavier PuigGuió: Raimon Fransoy, Xavier Puig i Macià Florit Realització: ElsabethProducció i muntatge: Xavier Puig i Macià FloritProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Xavier PuigDirectora de producció: Laia BonetMúsica: Xarim Aresté Grafisme: Oriol Frías Veu en off: Joan Solé</desc>
-    <length units="minutes">01:26:59</length>
-  </programme>
-  <programme start="20260930183000 +0000" channel="324" stop="20260930200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11310</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20260930200000 +0000" channel="324" stop="20260930210000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11311</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261001040000 +0000" channel="tvi" stop="20261001050000 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">The Booty Hunters</sub-title>
+    <desc lang="ca">Els seus temes estan inspirats per tota una estètica referida als ambients rurals dels Estats Units, però també pels bandolers de casa nostra. 'Blues a l'estudi' obre les portes a Jordi Ollé, a la bateria i washboard, Javi Ollé a la veu, banjo i guitarra acústica, a Dani Banon, a la guitarra elèctrica, a Javi Banon, al contrabaix, i a Lluís Gómez, al fiddle i al banjo.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260930184000 +0000" channel="esport3" stop="20260930202656 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Flensburg-BM Granollers / EHF European League / J1</sub-title>
-    <desc lang="ca">El Fraikin Granollers s'estrena, en una nova edició del campionat continental, a la pista del conjunt de Schleswig-Holstein. El Flensburg és un històric de l'handbol alemany amb un gran palmarès, que inclou la Champions de la temporada 2013-2014 i tres European League, l'última fa dues campanyes.</desc>
-    <length units="minutes">01:46:56</length>
+  <programme start="20261001050000 +0000" channel="tvi" stop="20261001060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Gabriel Amargant</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20260930202656 +0000" channel="esport3" stop="20260930222102 +0000">
+  <programme start="20261001010000 +0000" channel="324" stop="20261001060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11313</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261001060000 +0000" channel="324" stop="20261001080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11314</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261001043627 +0000" channel="esport3" stop="20261001061429 +0000">
     <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet Girona-Emlak Konut / Euroleague / Prèvia</sub-title>
-    <desc lang="ca">L'Spar es juga l'accés a la màxima competició continental en aquesta eliminatòria prèvia, a un sol partit, contra el conjunt turc.</desc>
-    <length units="minutes">01:54:06</length>
-  </programme>
-  <programme start="20260930190357 +0000" channel="sx3" stop="20260930192647 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Les Embrutaires</sub-title>
-    <desc lang="ca">Després d'una festa de pijames plena de sorpreses, la Marinette i les seves amigues es pregunten què li passa a la Kagami. S'aïlla de la colla, acaba desapareixent i les amigues no la troben. Surten a buscar-la però de seguida ho han de deixar córrer perquè apareixen supermalvats. Aconseguirà Ladybug superar les Embrutaires i trobar la Kagami?</desc>
-    <length units="minutes">00:22:50</length>
-  </programme>
-  <programme start="20260930192647 +0000" channel="sx3" stop="20260930195023 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Riginarazione</sub-title>
-    <desc lang="ca">Quan s'acosta el 75è aniversari dels seus avis, la Marinette rep una notícia que trasbalsarà la seva vida i la de la seva família.</desc>
-    <length units="minutes">00:23:36</length>
-  </programme>
-  <programme start="20260930183318 +0000" channel="tv3" stop="20260930193050 +0000">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Mars</sub-title>
-    <desc lang="ca">Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
-    <length units="minutes">00:57:32</length>
-  </programme>
-  <programme start="20260930193050 +0000" channel="tv3" stop="20260930201713 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="minutes">00:46:23</length>
-  </programme>
-  <programme start="20260930185822 +0000" channel="tv3" stop="20260930210317 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- PAOK-Kids&amp;Us Manresa / Eurocup / J1</sub-title>
+    <sub-title lang="ca">PAOK-Kids&amp;Us Manresa / Eurocup / J1</sub-title>
     <desc lang="ca">Els del Bages visiten la ciutat grega de Tessalònica per debutar en una nova edició d'aquesta competició europea de bàsquet.</desc>
-    <length units="minutes">02:04:55</length>
+    <length units="minutes">01:38:02</length>
+  </programme>
+  <programme start="20261001061429 +0000" channel="esport3" stop="20261001063852 +0000">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">El Mercedes-Benz GLC, el Hyundai Ioniq 9 i la brutal Adria Supertwin</sub-title>
+    <desc lang="ca">En aquest capítol ens posem al volant del nou Mercedes-Benz GLC, un dels SUVs més populars de la marca alemanya que arriba en format 100% elèctric. També posem a prova el Hyundai Ioniq 9, un tot camí de disseny futurista i set places reals. A més, a la secció del caravaning provem l'Adria Supertwin, una camper d'estil off-road ideal per viure tot tipus d'aventures.</desc>
+    <length units="minutes">00:24:23</length>
+  </programme>
+  <programme start="20261001043903 +0000" channel="sx3" stop="20261001045057 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Una nit fora de casa</sub-title>
+    <desc lang="ca">En Martís convida en Pinxo a dormir a casa seva per veure la nit de les llumetes, però abans en Pinxo ha de demanar permís al seu pare. Normalment aquestes coses les demana a la Marguerite, però justament avui ella no és a casa i l'Edmond està de molt mal humor, perquè ha trobat unes lleixes de casa plenes de corcs.</desc>
+    <length units="minutes">00:11:54</length>
+  </programme>
+  <programme start="20261001045057 +0000" channel="sx3" stop="20261001050227 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El secret de la Castina</sub-title>
+    <desc lang="ca">En Timbal està convençut que aquesta tarda veurà el seu amic Lludó. Però aquest matí la Castina s'ha trobat la Guineta i li ha dit que ha quedat amb en Lludó per anar a pescar al riu. En Pinxo lliga caps i li diu al seu germà bessó que en Lludó i la Castina s'han enamorat. Com que en Timbal no s'ho acaba de creure, decideixen anar a pescar i comprovar-ho.</desc>
+    <length units="minutes">00:11:30</length>
+  </programme>
+  <programme start="20261001043512 +0000" channel="tv3" stop="20261001050059 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">Sabors de Sants</sub-title>
+    <desc lang="ca">De Sants al Poble Sec (passant pel MNAC). 5 km.Una ruta on tastarem el districte de Sants i aprendrem que és un dels llocs amb més 'sabor' de la ciutat. Començarem a un dels centres d'activitat i de vida del barri, el Mercat Nou, a una parada d'olives i conserves, després visitant diferents museus del pla de Montjuïc, especialment el MNAC on investigarem un crim a través de les seves obres, i acabarem, fent un vermut amb la Salseta del Poble Sec.</desc>
+    <length units="minutes">00:25:47</length>
+  </programme>
+  <programme start="20261001050059 +0000" channel="tv3" stop="20261001052838 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">L'ànima d'un poble</sub-title>
+    <desc lang="ca">Alt Berguedà (PR C128, PR C73). Ruta de 2 dies i d'uns 22 km.La jornada 1 recorrerem el PR C128 pels cingles de Vallcebre, on farem la via ferrada de l'Empalomar, després collirem patates de dins d'una antiga trumfera, i farem nit a Cal Monjo on cuinarem les tradicionals patates emmascarades del Berguedà. L'endemà, farem via direcció al PEIN Serra d'Ensija-Rasos de Peguera a través del PR C73 i acabarem a Peguera, un racó aturat en el temps on coneixerem l'ànima encara latent de l'antic poble.</desc>
+    <length units="minutes">00:27:39</length>
   </programme>
 </tv>
