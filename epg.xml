@@ -6,73 +6,69 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261001040000 +0000" channel="tvi" stop="20261001050000 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">The Booty Hunters</sub-title>
-    <desc lang="ca">Els seus temes estan inspirats per tota una estètica referida als ambients rurals dels Estats Units, però també pels bandolers de casa nostra. 'Blues a l'estudi' obre les portes a Jordi Ollé, a la bateria i washboard, Javi Ollé a la veu, banjo i guitarra acústica, a Dani Banon, a la guitarra elèctrica, a Javi Banon, al contrabaix, i a Lluís Gómez, al fiddle i al banjo.</desc>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261001135503 +0000" channel="tvi" stop="20261001143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7046</sub-title>
+    <length units="minutes">00:34:57</length>
+  </programme>
+  <programme start="20261001143000 +0000" channel="tvi" stop="20261001152959 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7345</sub-title>
+    <length units="minutes">00:59:59</length>
+  </programme>
+  <programme start="20261001135500 +0000" channel="324" stop="20261001143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7046</sub-title>
+    <length units="minutes">00:35:00</length>
+  </programme>
+  <programme start="20261001143000 +0000" channel="324" stop="20261001153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7345</sub-title>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261001050000 +0000" channel="tvi" stop="20261001060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Gabriel Amargant</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261001130008 +0000" channel="esport3" stop="20261001140116 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3252</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:08</length>
   </programme>
-  <programme start="20261001010000 +0000" channel="324" stop="20261001060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11313</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261001140116 +0000" channel="esport3" stop="20261001150309 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3252</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:53</length>
   </programme>
-  <programme start="20261001060000 +0000" channel="324" stop="20261001080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11314</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261001134634 +0000" channel="sx3" stop="20261001140708 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">En Conan, en Heiji i la llegenda del Nue (La resollució)</sub-title>
+    <desc lang="ca">En Conan i la Ran acompanyen en Heiji i la Kazuha a buscar un tresor enterrat al poble de Yadori. A la nit apareix el Nue, un monstre enorme i esgarrifós. En poques hores es produeixen dos assassinats, i tot fa pensar que tots dos crims són obra de la mateixa bèstia, el Nue, però en Heiji i en Conan sospiten que en realitat el monstre llegendari no existeix i tot plegat és un muntatge del veritable assassí.</desc>
+    <length units="minutes">00:20:34</length>
   </programme>
-  <programme start="20261001043627 +0000" channel="esport3" stop="20261001061429 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">PAOK-Kids&amp;Us Manresa / Eurocup / J1</sub-title>
-    <desc lang="ca">Els del Bages visiten la ciutat grega de Tessalònica per debutar en una nova edició d'aquesta competició europea de bàsquet.</desc>
-    <length units="minutes">01:38:02</length>
+  <programme start="20261001140708 +0000" channel="sx3" stop="20261001142925 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Gohan ja a l'Institut</sub-title>
+    <desc lang="ca">Han passat 7 anys des que en Son Goku va morir al Torneig d'en Cèl·lula i han canviat moltes coses. A en Krilin li han crescut els cabells i en Son Gohan ja va a l'institut, a la Ciutat de Satan, que és el que es va endur el mèrit per haver matat en Cèl·lula. A més, en Son Gohan també ha heretat el núvol Kinton del seu pare.</desc>
+    <length units="minutes">00:22:17</length>
   </programme>
-  <programme start="20261001061429 +0000" channel="esport3" stop="20261001063852 +0000">
-    <title lang="ca">Espòiler</title>
-    <sub-title lang="ca">El Mercedes-Benz GLC, el Hyundai Ioniq 9 i la brutal Adria Supertwin</sub-title>
-    <desc lang="ca">En aquest capítol ens posem al volant del nou Mercedes-Benz GLC, un dels SUVs més populars de la marca alemanya que arriba en format 100% elèctric. També posem a prova el Hyundai Ioniq 9, un tot camí de disseny futurista i set places reals. A més, a la secció del caravaning provem l'Adria Supertwin, una camper d'estil off-road ideal per viure tot tipus d'aventures.</desc>
-    <length units="minutes">00:24:23</length>
+  <programme start="20261001134748 +0000" channel="tv3" stop="20261001141750 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">225</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:02</length>
   </programme>
-  <programme start="20261001043903 +0000" channel="sx3" stop="20261001045057 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Una nit fora de casa</sub-title>
-    <desc lang="ca">En Martís convida en Pinxo a dormir a casa seva per veure la nit de les llumetes, però abans en Pinxo ha de demanar permís al seu pare. Normalment aquestes coses les demana a la Marguerite, però justament avui ella no és a casa i l'Edmond està de molt mal humor, perquè ha trobat unes lleixes de casa plenes de corcs.</desc>
-    <length units="minutes">00:11:54</length>
-  </programme>
-  <programme start="20261001045057 +0000" channel="sx3" stop="20261001050227 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El secret de la Castina</sub-title>
-    <desc lang="ca">En Timbal està convençut que aquesta tarda veurà el seu amic Lludó. Però aquest matí la Castina s'ha trobat la Guineta i li ha dit que ha quedat amb en Lludó per anar a pescar al riu. En Pinxo lliga caps i li diu al seu germà bessó que en Lludó i la Castina s'han enamorat. Com que en Timbal no s'ho acaba de creure, decideixen anar a pescar i comprovar-ho.</desc>
-    <length units="minutes">00:11:30</length>
-  </programme>
-  <programme start="20261001043512 +0000" channel="tv3" stop="20261001050059 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">Sabors de Sants</sub-title>
-    <desc lang="ca">De Sants al Poble Sec (passant pel MNAC). 5 km.Una ruta on tastarem el districte de Sants i aprendrem que és un dels llocs amb més 'sabor' de la ciutat. Començarem a un dels centres d'activitat i de vida del barri, el Mercat Nou, a una parada d'olives i conserves, després visitant diferents museus del pla de Montjuïc, especialment el MNAC on investigarem un crim a través de les seves obres, i acabarem, fent un vermut amb la Salseta del Poble Sec.</desc>
-    <length units="minutes">00:25:47</length>
-  </programme>
-  <programme start="20261001050059 +0000" channel="tv3" stop="20261001052838 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">L'ànima d'un poble</sub-title>
-    <desc lang="ca">Alt Berguedà (PR C128, PR C73). Ruta de 2 dies i d'uns 22 km.La jornada 1 recorrerem el PR C128 pels cingles de Vallcebre, on farem la via ferrada de l'Empalomar, després collirem patates de dins d'una antiga trumfera, i farem nit a Cal Monjo on cuinarem les tradicionals patates emmascarades del Berguedà. L'endemà, farem via direcció al PEIN Serra d'Ensija-Rasos de Peguera a través del PR C73 i acabarem a Peguera, un racó aturat en el temps on coneixerem l'ànima encara latent de l'antic poble.</desc>
-    <length units="minutes">00:27:39</length>
+  <programme start="20261001141750 +0000" channel="tv3" stop="20261001150407 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El puro</sub-title>
+    <desc lang="ca">El puro sempre va associat a la imatge de senyor caspós, amb americana, camisa amb botons a puntíssim de rebentar... Doncs avui no parlem d'aquest botó que fa patir, sinó del puro. Al local de 'La Renaixença' no s'hi pot fumar, que quedi clar, però parlar és el que sabem fer millor. Ens visita l'Abel Pruñonosa, un escultor que ha anat fins a Suècia a fer habitacions de gel. Es pot dormir en un llit a -20 ºC? I sortim a passejar el gos per un esdeveniment històric relativament recent: el naixement de Facebook, l'any 2003.</desc>
+    <length units="minutes">00:46:17</length>
   </programme>
 </tv>
