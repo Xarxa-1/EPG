@@ -1,74 +1,84 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261001135503 +0000" channel="tvi" stop="20261001143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7046</sub-title>
-    <length units="minutes">00:34:57</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261001191047 +0000" channel="tvi" stop="20261001201500 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">935</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:04:13</length>
   </programme>
-  <programme start="20261001143000 +0000" channel="tvi" stop="20261001152959 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7345</sub-title>
-    <length units="minutes">00:59:59</length>
+  <programme start="20261001201500 +0000" channel="tvi" stop="20261001210000 +0000">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">1821</sub-title>
+    <desc lang="ca">El Queco i el Jair parlaran del decret d'habitatge que s'ha de votar divendres al Congrés dels diputats. L'Elisenda s'apropa fins al Parlament i l'Òscar Dalmau ens porta els últims avenços a la ciència</desc>
+    <length units="minutes">00:45:00</length>
   </programme>
-  <programme start="20261001135500 +0000" channel="324" stop="20261001143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7046</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261001183000 +0000" channel="324" stop="20261001200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11319</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261001143000 +0000" channel="324" stop="20261001153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7345</sub-title>
+  <programme start="20261001200000 +0000" channel="324" stop="20261001210000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11320</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261001130008 +0000" channel="esport3" stop="20261001140116 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3252</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:08</length>
+  <programme start="20261001195500 +0000" channel="esport3" stop="20261001204500 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-Veszprém / Mundial de Clubs / Final</sub-title>
+    <desc lang="ca">Els blaugranes, que dominen el palmarès d'aquest Mundial de clubs, aspiren al 7è títol. Com la temporada passada, el rival és el campió hongarès. En aquell precedent, el Barça es va imposar al Veszprém per 30-31 després d'un matx molt igualat i dues pròrrogues.</desc>
+    <length units="minutes">00:50:00</length>
   </programme>
-  <programme start="20261001140116 +0000" channel="esport3" stop="20261001150309 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3252</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:53</length>
+  <programme start="20261001204500 +0000" channel="esport3" stop="20261001205459 +0000">
+    <title lang="ca">ZONA UFEC</title>
+    <sub-title lang="ca">0</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:09:59</length>
   </programme>
-  <programme start="20261001134634 +0000" channel="sx3" stop="20261001140708 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">En Conan, en Heiji i la llegenda del Nue (La resollució)</sub-title>
-    <desc lang="ca">En Conan i la Ran acompanyen en Heiji i la Kazuha a buscar un tresor enterrat al poble de Yadori. A la nit apareix el Nue, un monstre enorme i esgarrifós. En poques hores es produeixen dos assassinats, i tot fa pensar que tots dos crims són obra de la mateixa bèstia, el Nue, però en Heiji i en Conan sospiten que en realitat el monstre llegendari no existeix i tot plegat és un muntatge del veritable assassí.</desc>
-    <length units="minutes">00:20:34</length>
+  <programme start="20261001194743 +0000" channel="sx3" stop="20261001200000 +0000">
+    <title lang="ca">Betapodcast</title>
+    <sub-title lang="ca">Descobrim diferents balls del món</sub-title>
+    <desc lang="ca">Avui toca ballar i estem tots molt emocionats (menys el Grau). Amb l'Aina da Silva hem preparat balls d'arreu del món i els ensenyem als altres Beta. Balls com el merengue, la dansa del ventre o el hula són balls preciosos i amb característiques molt curioses!</desc>
+    <length units="minutes">00:12:17</length>
   </programme>
-  <programme start="20261001140708 +0000" channel="sx3" stop="20261001142925 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Son Gohan ja a l'Institut</sub-title>
-    <desc lang="ca">Han passat 7 anys des que en Son Goku va morir al Torneig d'en Cèl·lula i han canviat moltes coses. A en Krilin li han crescut els cabells i en Son Gohan ja va a l'institut, a la Ciutat de Satan, que és el que es va endur el mèrit per haver matat en Cèl·lula. A més, en Son Gohan també ha heretat el núvol Kinton del seu pare.</desc>
-    <length units="minutes">00:22:17</length>
+  <programme start="20261001200000 +0000" channel="sx3" stop="20261001201717 +0000">
+    <title lang="ca">InfoK</title>
+    <sub-title lang="ca">4275</sub-title>
+    <desc lang="ca">A l'InfoK d'avui coneixerem la Maria, una nena que té síndrome de Tourette. És un trastorn que li provoca tics, que li fan moure parts del cos de manera totalment involuntària.Anirem al Teatre del Liceu, de Barcelona, on dissabte s'estrena 'La jove Aïda'. És una versió de l'òpera de Verdi, però adreçada a vosaltres, amb noves composicions i realitat virtual.Veurem les primeres imatges d'aquest espectacle.I també us parlarem d'una estrena del Super3.Torna el 'Fang', el joc que promou el català mentre els concursants s'embruten. Estrena nou escenari, dobla el nombre d'equips -quatre en lloc de dos-, i tindrà molts més capítols.</desc>
+    <length units="minutes">00:17:17</length>
   </programme>
-  <programme start="20261001134748 +0000" channel="tv3" stop="20261001141750 +0000">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">225</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:30:02</length>
+  <programme start="20261001190316 +0000" channel="tv3" stop="20261001200219 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Palerm</sub-title>
+    <desc lang="ca">A l'últim capítol d'aquesta sèrie, en Rick Stein va a Palerm, la capital de Sicília, on tastarà el menjar boníssim que fan a les parades del carrer: pop, 'mangia e bevi', 'panelle', 'cazilli', 'crocchè'... Gaudirà d'una ciutat que estat dominada per una llarga llista de pobles al llarg de la història, amb tocs de barroc, escenaris d''El padrí', palaus i un mar amb un peix fresquíssim. I cuinarà un pesto 'allà trapanese' i un pollastre amb salsa de vi marsala.</desc>
+    <length units="minutes">00:59:03</length>
   </programme>
-  <programme start="20261001141750 +0000" channel="tv3" stop="20261001150407 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El puro</sub-title>
-    <desc lang="ca">El puro sempre va associat a la imatge de senyor caspós, amb americana, camisa amb botons a puntíssim de rebentar... Doncs avui no parlem d'aquest botó que fa patir, sinó del puro. Al local de 'La Renaixença' no s'hi pot fumar, que quedi clar, però parlar és el que sabem fer millor. Ens visita l'Abel Pruñonosa, un escultor que ha anat fins a Suècia a fer habitacions de gel. Es pot dormir en un llit a -20 ºC? I sortim a passejar el gos per un esdeveniment històric relativament recent: el naixement de Facebook, l'any 2003.</desc>
-    <length units="minutes">00:46:17</length>
+  <programme start="20261001200219 +0000" channel="tv3" stop="20261001205951 +0000">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Mars</sub-title>
+    <desc lang="ca">Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
+    <length units="minutes">00:57:32</length>
+  </programme>
+  <programme start="20261001195418 +0000" channel="tv3" stop="20261001223413 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">- Barça-Veszprém / Mundial de Clubs / Final</sub-title>
+    <desc lang="ca">Els blaugranes, que dominen el palmarès d'aquest Mundial de clubs, aspiren al 7è títol. Com la temporada passada, el rival és el campió hongarès. En aquell precedent, el Barça es va imposar al Veszprém per 30-31 després d'un matx molt igualat i dues pròrrogues.</desc>
+    <length units="minutes">02:39:55</length>
   </programme>
 </tv>
