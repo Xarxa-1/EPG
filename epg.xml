@@ -1,78 +1,81 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261002040000 +0000" channel="tvi" stop="20261002050001 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">The Suitcase Brothers</sub-title>
-    <desc lang="ca">Sens dubte, els germans Puertas són el millor duo de blues acústic de tot l'estat. Influïts per duos mítics com els de Sonny Terry i Brownie McGhee o Paul Rishell i Annie Raines. Els Suitcase han desenvolupat un estil propi, ple de força i sentiment. Pere Puertas, a la guitarra i la veu, i Víctor Puertas, a l'harmònica i la veu, són els fantàstics Suitcase Brothers.</desc>
-    <length units="minutes">01:00:01</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261002103050 +0000" channel="tvi" stop="20261002135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1821</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:10</length>
   </programme>
-  <programme start="20261002050001 +0000" channel="tvi" stop="20261002060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Clara Luna</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:59:59</length>
+  <programme start="20261002135500 +0000" channel="tvi" stop="20261002143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7047</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261002010000 +0000" channel="324" stop="20261002060000 +0000">
+  <programme start="20261002120000 +0000" channel="324" stop="20261002135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11322</sub-title>
+    <sub-title lang="ca">11325</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261002060000 +0000" channel="324" stop="20261002080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11323</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261002135500 +0000" channel="324" stop="20261002143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7047</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261002040828 +0000" channel="esport3" stop="20261002052754 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">Skate / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">01:19:26</length>
+  <programme start="20261002130000 +0000" channel="esport3" stop="20261002140054 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Raphinha, el Barça d'handbol, l'NBA, l'Ultra Pirineu i Cristian Gómez</sub-title>
+    <desc lang="ca">Pendents de l'estat físic de Raphinha. El Veszprém guanya el Barça en la final del Mundial. Ens ho explica Joan Ramón Vallvé. 'Històries de Futbol', amb Marc Mayola i l'NBA amb Jordi de Mas. Última hora de l'Ultra Pirineu amb Jordi Fandiño. Entrevistem Cristian Gómez, impulsor de 'Llobregat X la diabetis' i tertúlia. Ens acompanyen Arancha Rodríguez, Joanjo Pallàs i David Sánchez.</desc>
+    <length units="minutes">01:00:54</length>
   </programme>
-  <programme start="20261002052754 +0000" channel="esport3" stop="20261002061600 +0000">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">L'ascens meteòric del Terres de Lleida CFF</sub-title>
-    <desc lang="ca">Campió vigent de la Copa Lleida femenina, l'objectiu d'aquesta temporada és assolir l'ascens a Tercera Federació després de consolidar-se la Preferent femenina. Fundat el 2022, en només 4 temporades ha aconseguit dos ascensos. Carles Fité entrevista la presidenta del club, Cristina Royes; un dels fundadors i entrenador del primer equip, Andrés Ibáñez; i l'extresorer i fidel seguidor del Terres de Lleida CFF, Germà Plana. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="minutes">00:48:06</length>
+  <programme start="20261002140054 +0000" channel="esport3" stop="20261002150243 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Raphinha, el Barça d'handbol, l'NBA, l'Ultra Pirineu i Cristian Gómez</sub-title>
+    <desc lang="ca">Pendents de l'estat físic de Raphinha. El Veszprém guanya el Barça en la final del Mundial. Ens ho explica Joan Ramón Vallvé. 'Històries de Futbol', amb Marc Mayola i l'NBA amb Jordi de Mas. Última hora de l'Ultra Pirineu amb Jordi Fandiño. Entrevistem Cristian Gómez, impulsor de 'Llobregat X la diabetis' i tertúlia. Ens acompanyen Arancha Rodríguez, Joanjo Pallàs i David Sánchez.</desc>
+    <length units="minutes">01:01:49</length>
   </programme>
-  <programme start="20261002044138 +0000" channel="sx3" stop="20261002045333 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Fent de cangur</sub-title>
-    <desc lang="ca">Els avis guineu han vingut a vigilar la canalla. Mentre l'àvia surt a caminar pel bosc amb en Pinxo, la Guineta i la Trufa, l'avi es queda al cau amb en Timbal. Però l'avi té un cap que no li para mai i decideix fer algunes reparacions al cau, cosa que posarà més nerviós del compte en Timbal.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20261002132907 +0000" channel="sx3" stop="20261002134842 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El testimoni mecànic</sub-title>
+    <desc lang="ca">Kyoichi Kusumi, president d'una empresa d'enginyeria que fabrica robots, fa anar en Kogoro a les seves oficines perquè investigui si algun dels seus treballadors està robant tecnologia punta. En Kogoro sospita de Takeshi Tanizaki, un home que ha inventat un ratolí robòtic i que és menystingut pels seus companys. Però poc després hi ha una fuita de gas a l'edifici i en Takeshi apareix mort. I un testimoni inesperat ha presenciat el crim.</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20261002045333 +0000" channel="sx3" stop="20261002050503 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La nit tranquil·la de la Guineta</sub-title>
-    <desc lang="ca">A la Guineta li agradaria dormir una nit sola sense la Trufa i demana als seus pares que la deixin dormir a l'habitació de convidats, cosa que a la Trufa no li fa gens de gràcia, perquè li fa por dormir sola. I decideix demanar ajuda als seus germans, perquè la Guineta no se'n vagi de l'habitació.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261002134842 +0000" channel="sx3" stop="20261002141012 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El destí encreuat de dues persones</sub-title>
+    <desc lang="ca">Un lladre que fuig corrents després de robar a casa d'una dona gran topa amb en Genta, que cau a terra i es fa un nyanyo al cap. El noi, enfadat, comença a empaitar-lo, però li acaba perdent la pista. Per localitzar-lo demana ajuda a la Lliga de Detectius Júnior. Finalment, quan el troben, descobreixen que no se'n recorda de res per culpa d'un cop al cap que s'ha donat quan ha caigut daltabaix d'un terraplè.</desc>
+    <length units="minutes">00:21:30</length>
   </programme>
-  <programme start="20261002043901 +0000" channel="tv3" stop="20261002050230 +0000">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Catalunya canta</sub-title>
-    <desc lang="ca">El programa final de 'Caçadors de paraules' té lletra... i música. En Roger de Gràcia es passejarà pel territori a la recerca de les cançons que ens acompanyen al llarg de la vida. Des de les cançons de bressol i les primeres tonades infantils fins als cants populars, improvisats i tradicionals... o gens tradicionals. Ens preguntarem si és possible fer rap en català, viatjarem a Eivissa per descobrir la cançó redoblada, investigarem si coneixem prou els nostres himnes, i intentarem actualitzar les velles cançons 'xirucaires' dels minyons escoltes. En Roger de Gràcia, per si no fos prou, intentarà cantar en català un tema a l'estil dels films musicals de Bollywood. I a més, per acabar el programa, visitarem el mestre Quimi Portet, que ens sorprendrà amb una interpretació musical digna d'un astre intercomarcal.En Roger de Gràcia intentarà no desentonar enmig de tanta harmonia, i s'enfrontarà a uns quants reptes musicals: tot per estar a l'alçada d'un país que no para de cantar.</desc>
-    <length units="minutes">00:23:29</length>
+  <programme start="20261002122834 +0000" channel="tv3" stop="20261002140337 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">'EL GRAN GRAN DICTAT', la versió amb famosos del concurs presentat per Òscar Dalmau, reuneix tres professionals dels mitjans que s'enfrontaran a les diferents proves amb bona cara i molt bon humor. El conductor del programa 'L'oracle' de Catalunya Ràdio Xavier Graset, la presentadora d''Els matins' Helena Garcia Melero i el periodista i crític de televisió Víctor Amela concursaran per endur-se un premi de 2.000 euros que donaran a l'ONG que hagin triat.Els concursants també ens descobriran, a través de diversos esquetxos, les coses que suporten menys. Així, veurem quins problemes té Xavier Graset amb la telefonia mòbil. Helena Garcia Melero ens parlarà de la seva gran enemiga: la llei de Murphy. I, per acabar, Víctor Amela confessarà que, encara que sigui crític de televisió, no mira mai la tele.Com cada setmana, el Mag Lari comptarà amb l'ajuda del presentador i dels convidats per afegir màgia al concurs amb els seus trucs més increïbles.</desc>
+    <length units="minutes">01:35:03</length>
   </programme>
-  <programme start="20261002050230 +0000" channel="tv3" stop="20261002052846 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">En Diagonal</sub-title>
-    <desc lang="ca">Diagonal (des de la Zona Universitària fins al Fòrum). 11 km en bicing.En Diagonal serà aquesta ruta, que farem en bicing, i que començarem a la part alta de la Diagonal, al campus universitari, i baixarem direcció al mar, fins al carrer Numància, on visitarem un dels centres tecnològics de Barcelona, l'Ateneu de Fabricació, on farem impressions en 3D. D'aquí seguirem per la part de l'Eixample, on visitarem algunes de les múltiples obres que Josep Puig i Cadafalch va deixar repartides per aquest tram.A Glòries coneixerem el món del col·leccionisme als Encants Nous amb un expert sobre aquest món, i acabarem fent croquetes al costat del mar a sobre d'una 'foodtruck'.</desc>
-    <length units="minutes">00:26:16</length>
+  <programme start="20261002140337 +0000" channel="tv3" stop="20261002143354 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">226</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:17</length>
+  </programme>
+  <programme start="20261002110109 +0000" channel="tv3" stop="20261002150104 +0000">
+    <title lang="ca">Ple extraordinari al Congrés per votar els decrets d'habitatge</title>
+    <sub-title lang="ca">4140</sub-title>
+    <length units="minutes">03:59:55</length>
   </programme>
 </tv>
