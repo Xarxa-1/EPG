@@ -6,73 +6,73 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
-  <programme start="20261001235423 +0000" channel="tvi" stop="20261002003546 +0000">
-    <title lang="ca">APM?</title>
-    <sub-title lang="ca">880</sub-title>
-    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' un autèntic tòtem de la televisió de Catalunya, un veritable superman, el meteoròleg més polifacètic i sense pèls a la llengua (ni al cap): Tomàs Molina. Després de 40 anys ininterromputs a la casa, deixarà els mapes del temps orfes per ocupar el seu escó al Parlament Europeu. A l'entrevista parlaran del nou escó, de com de poc li agrada que l'imitin… i en Tomàs acabarà cantant sarsueles!Mentrestant, Nerea Sanfe segueix 'On falla!' visitant els racons del país que li suggereixen els nostres espectadors per Instagram. Aquest cop viatjarà fins al Fonoll, l'únic poble de Catalunya cent per cent nudista. I, com que a l''APM?' ens prenem molt seriosament la feina de camp, també el practicarà ella mateixa. A més, descobrirem per què fer topless s'ha convertit en un esport de risc. Com diria aquell savi: ¡Ueah, despelote!I a més, veurem el retorn de Carles Puigdemont a Catalunya per participar a 'La travessa VIP'; estrenarem l'spin-off de 'La bola negra' rodat a Vallbona amb el bo d'en Paco; i ens imaginarem com seria el nostre programa si mai deixéssim TV3 i comencéssim a emetre el nostre programa a Trump TV. #APM3CAT</desc>
-    <length units="minutes">00:41:23</length>
+  <programme start="20261002040000 +0000" channel="tvi" stop="20261002050001 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">The Suitcase Brothers</sub-title>
+    <desc lang="ca">Sens dubte, els germans Puertas són el millor duo de blues acústic de tot l'estat. Influïts per duos mítics com els de Sonny Terry i Brownie McGhee o Paul Rishell i Annie Raines. Els Suitcase han desenvolupat un estil propi, ple de força i sentiment. Pere Puertas, a la guitarra i la veu, i Víctor Puertas, a l'harmònica i la veu, són els fantàstics Suitcase Brothers.</desc>
+    <length units="minutes">01:00:01</length>
   </programme>
-  <programme start="20261002003546 +0000" channel="tvi" stop="20261002033839 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2171</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">03:02:53</length>
+  <programme start="20261002050001 +0000" channel="tvi" stop="20261002060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Clara Luna</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">00:59:59</length>
   </programme>
-  <programme start="20261002000000 +0000" channel="324" stop="20261002003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11321</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
-  </programme>
-  <programme start="20261002003000 +0000" channel="324" stop="20261002010000 +0000">
+  <programme start="20261002010000 +0000" channel="324" stop="20261002060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11322</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261001230002 +0000" channel="esport3" stop="20261002003129 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Guerra per Negreira; Mbappé de festa i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Juli Garcia i Sique Rodriguez parlen de la guerra de comunicats entre Barça i Madrid pel cas Negreira. En Sergi Ferrer respon les consultes dels espectadors.</desc>
-    <length units="minutes">01:31:27</length>
+  <programme start="20261002060000 +0000" channel="324" stop="20261002080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11323</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261002003129 +0000" channel="esport3" stop="20261002005212 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5525</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:43</length>
+  <programme start="20261002040828 +0000" channel="esport3" stop="20261002052754 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">01:19:26</length>
   </programme>
-  <programme start="20261002000413 +0000" channel="sx3" stop="20261002002422 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Energia de panda</sub-title>
-    <desc lang="ca">Els germans Kratt i tot l'equip se'n van d'expedició a la Xina per estudiar els óssos panda i fer-ne un recompte, ja que estan en perill d'extinció, i l'Aviva es posa molt contenta perquè és un animal que li agrada molt. Com sempre, s'hauran d'enfrontar amb un dels malvats. El Zach vol capturar els pandes i convertir-los en ninots de peluix vius robotitzats, i quan deixa els nostres herois sense energia per fer anar els vehicles, ells s'inspiren en el panda per trobar una energia alternativa.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261002052754 +0000" channel="esport3" stop="20261002061600 +0000">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">L'ascens meteòric del Terres de Lleida CFF</sub-title>
+    <desc lang="ca">Campió vigent de la Copa Lleida femenina, l'objectiu d'aquesta temporada és assolir l'ascens a Tercera Federació després de consolidar-se la Preferent femenina. Fundat el 2022, en només 4 temporades ha aconseguit dos ascensos. Carles Fité entrevista la presidenta del club, Cristina Royes; un dels fundadors i entrenador del primer equip, Andrés Ibáñez; i l'extresorer i fidel seguidor del Terres de Lleida CFF, Germà Plana. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
+    <length units="minutes">00:48:06</length>
   </programme>
-  <programme start="20261002002422 +0000" channel="sx3" stop="20261002004501 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">La invasió dels ducs blancs</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt rep l'avís que s'estan veient molts ducs blancs en llocs on no se'n solen veure. Els Kratt van a l'Àrtic, que és on viuen aquests ocells, i comproven que no n'hi ha gaires. L'equip es divideix: uns es queden a l'Àrtic i els altres van al sud per descobrir el perquè de la invasió de ducs blancs. Mentrestant, la Donita té la gran idea de convertir els ducs blancs en barrets i ordena als seus maniquins que en cacin.</desc>
-    <length units="minutes">00:20:39</length>
+  <programme start="20261002044138 +0000" channel="sx3" stop="20261002045333 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Fent de cangur</sub-title>
+    <desc lang="ca">Els avis guineu han vingut a vigilar la canalla. Mentre l'àvia surt a caminar pel bosc amb en Pinxo, la Guineta i la Trufa, l'avi es queda al cau amb en Timbal. Però l'avi té un cap que no li para mai i decideix fer algunes reparacions al cau, cosa que posarà més nerviós del compte en Timbal.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20261001234950 +0000" channel="tv3" stop="20261002003405 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Mar pelágica</sub-title>
-    <desc lang="ca">Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
-    <length units="minutes">00:44:15</length>
+  <programme start="20261002045333 +0000" channel="sx3" stop="20261002050503 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La nit tranquil·la de la Guineta</sub-title>
+    <desc lang="ca">A la Guineta li agradaria dormir una nit sola sense la Trufa i demana als seus pares que la deixin dormir a l'habitació de convidats, cosa que a la Trufa no li fa gens de gràcia, perquè li fa por dormir sola. I decideix demanar ajuda als seus germans, perquè la Guineta no se'n vagi de l'habitació.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261002003405 +0000" channel="tv3" stop="20261002011257 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Fons circalitorals poc profunds</sub-title>
-    <desc lang="ca">En aquest capítol d''Arxipèlag blau' ens endinsarem més enllà del límit d'on creix la posidònia, als fons circalitorals, entre els 40 i els 60 metres de fondària. Miquel Salamanca ens presentarà un món on la llum és escassa, però que és ple de color. Hi trobem criatures estranyes i desconegudes. Però també és l'hàbitat de peixos ben coneguts, com els raors, les cànteres o els anfosos. És un ambient ric en invertebrats tan diversos com les llagostes, diversos tipus de crancs o els coralls i les gorgònies. Per finalitzar acompanyarem Gàdor Muntaner en un recorregut per la costa de Cala Blanca, a Ciutadella, amb el fotògraf submarí Víctor de Valles.</desc>
-    <length units="minutes">00:38:52</length>
+  <programme start="20261002043901 +0000" channel="tv3" stop="20261002050230 +0000">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">Catalunya canta</sub-title>
+    <desc lang="ca">El programa final de 'Caçadors de paraules' té lletra... i música. En Roger de Gràcia es passejarà pel territori a la recerca de les cançons que ens acompanyen al llarg de la vida. Des de les cançons de bressol i les primeres tonades infantils fins als cants populars, improvisats i tradicionals... o gens tradicionals. Ens preguntarem si és possible fer rap en català, viatjarem a Eivissa per descobrir la cançó redoblada, investigarem si coneixem prou els nostres himnes, i intentarem actualitzar les velles cançons 'xirucaires' dels minyons escoltes. En Roger de Gràcia, per si no fos prou, intentarà cantar en català un tema a l'estil dels films musicals de Bollywood. I a més, per acabar el programa, visitarem el mestre Quimi Portet, que ens sorprendrà amb una interpretació musical digna d'un astre intercomarcal.En Roger de Gràcia intentarà no desentonar enmig de tanta harmonia, i s'enfrontarà a uns quants reptes musicals: tot per estar a l'alçada d'un país que no para de cantar.</desc>
+    <length units="minutes">00:23:29</length>
+  </programme>
+  <programme start="20261002050230 +0000" channel="tv3" stop="20261002052846 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">En Diagonal</sub-title>
+    <desc lang="ca">Diagonal (des de la Zona Universitària fins al Fòrum). 11 km en bicing.En Diagonal serà aquesta ruta, que farem en bicing, i que començarem a la part alta de la Diagonal, al campus universitari, i baixarem direcció al mar, fins al carrer Numància, on visitarem un dels centres tecnològics de Barcelona, l'Ateneu de Fabricació, on farem impressions en 3D. D'aquí seguirem per la part de l'Eixample, on visitarem algunes de les múltiples obres que Josep Puig i Cadafalch va deixar repartides per aquest tram.A Glòries coneixerem el món del col·leccionisme als Encants Nous amb un expert sobre aquest món, i acabarem fent croquetes al costat del mar a sobre d'una 'foodtruck'.</desc>
+    <length units="minutes">00:26:16</length>
   </programme>
 </tv>
