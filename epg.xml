@@ -1,84 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261002173255 +0000" channel="tvi" stop="20261002195227 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">422</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">02:19:32</length>
+  <programme start="20261002222520 +0000" channel="tvi" stop="20261002234115 +0000">
+    <title lang="ca">La Puntual</title>
+    <sub-title lang="ca">La Puntual: Vetes, fils i audicions</sub-title>
+    <desc lang="ca">Seguim al 'Laboratori teatral' per conèixer més a fons els personatges, posarem a prova els actors amb audicions grupals, càstings per trios, activitats, dinàmiques col·lectives i algun convidat sorpresa. En aquest capítol hi haurà 11 candidats que hauran de deixar el Món Sant Benet.</desc>
+    <length units="minutes">01:15:55</length>
   </programme>
-  <programme start="20261002195227 +0000" channel="tvi" stop="20261002210000 +0000">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">1822</sub-title>
-    <desc lang="ca">La Núria i la Natza ens expliquen les noves propostes sobre absentisme laboral de Foment del Treball. L'Alba Riera arriba amb més culebrots i la Oye Sherman ens porta nous moments màgics de la televisió</desc>
-    <length units="minutes">01:07:33</length>
+  <programme start="20261002234115 +0000" channel="tvi" stop="20261003000334 +0000">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Dame Area</sub-title>
+    <desc lang="ca">Aquest duet barceloní de música electrònica industrial ha aconseguit cridar l'atenció a nivell internacional amb discos com, per exemple, 'Toda la verdad sobre Dame Area': l'estació de ràdio de Seattle KEXP els va convidar a tocar en els seus prestigiosos directes i mitjans amb el relleu de Pitchfork, The Guardian o la mateixa BBC han parlat de la seva música. Nascuts del ja desaparegut club barceloní de culte Màgia Roja, els Dame Area mantenen una activitat intensa dins d'un circuit que ha connectat amb la seva incendiària posada en escena. Per aquesta raó, Les Feres ha capturat el grup en una actuació a la sala Vol, de Barcelona.  'Rompi il cristallo' 'Striscia' 'Devoción' 'Scopri le tue passioni' 'Si no es hoy cuando es'  Silvia Kostance -veu, sintetitzador i percussió Viktor Lux Crux -sintetitzador i percussió  Localització: enregistrat a la sala VOL, a Barcelona  Dia: 19 de gener del 2025</desc>
+    <length units="minutes">00:22:19</length>
   </programme>
-  <programme start="20261002183000 +0000" channel="324" stop="20261002200000 +0000">
+  <programme start="20261002233000 +0000" channel="324" stop="20261003003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11328</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20261002200000 +0000" channel="324" stop="20261002210000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11329</sub-title>
+    <sub-title lang="ca">11330</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261002175934 +0000" channel="esport3" stop="20261002190000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Raphinha, el Barça d'handbol, l'NBA, l'Ultra Pirineu i Cristian Gómez</sub-title>
-    <desc lang="ca">Pendents de l'estat físic de Raphinha. El Veszprém guanya el Barça en la final del Mundial. Ens ho explica Joan Ramón Vallvé. 'Històries de Futbol', amb Marc Mayola i l'NBA amb Jordi de Mas. Última hora de l'Ultra Pirineu amb Jordi Fandiño. Entrevistem Cristian Gómez, impulsor de 'Llobregat X la diabetis' i tertúlia. Ens acompanyen Arancha Rodríguez, Joanjo Pallàs i David Sánchez.</desc>
-    <length units="minutes">01:00:26</length>
+  <programme start="20261003003000 +0000" channel="324" stop="20261003010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11331</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261002190000 +0000" channel="esport3" stop="20261002203107 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Arriba el primer clàssic</sub-title>
-    <desc lang="ca">El Barça femení rep diumenge el Madrid en partit de Lliga. Analitzem com hi arriben unes i altres amb Sergi Solé, Gemma Herrero i Oriol Domènech. Amb Marcos García expliquem l'última hora de les blaugranes i sentim Clara Serrajordi. Amb Laia Tudel, expliquem com han anat les proves mèdiques de Raphinha. I acabem amb entrevista al jugador blanc-i-blau Omar El Hilali.</desc>
-    <length units="minutes">01:31:07</length>
+  <programme start="20261002230005 +0000" channel="esport3" stop="20261003003148 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Raphina, OK; Ganes de clàssic; Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Laia Tudel, David Ibáñez, Albert Rogé i Laura Aparicio. Repassem les declaracions més importants de Luís de la Fuente abans de l'Espanya-república Txeca de dissabte. Fem la prèvia del clàssic femení al Camp Nou amb Gemma Mallorca, Àlex Delmàs ens parla del poder ofensiu del Barça. Acabem amb l'humor de Xavi Cazorla.</desc>
+    <length units="minutes">01:31:43</length>
   </programme>
-  <programme start="20261002185506 +0000" channel="sx3" stop="20261002190655 +0000">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">La dent que es belluga</sub-title>
-    <desc lang="ca">La Barrutempesta no para d'explicar heroïcitats a les amigues, com quan li va arrencar una dent a un os, però considera que la Bombolla i la Lluerna són massa petites per seguir-la en les seves aventures. Ofeses, les dues noies decideixen anar a buscar aventures al bosc per demostrar la seva vàlua i se'ls presenta una oportunitat única: arrencar-li una dent a la Rowena i portar-la al poble. Ho aconseguiran?</desc>
-    <length units="minutes">00:11:49</length>
+  <programme start="20261003003148 +0000" channel="esport3" stop="20261003005305 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5526</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:21:17</length>
   </programme>
-  <programme start="20261002190655 +0000" channel="sx3" stop="20261002193017 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Climatiqueen</sub-title>
-    <desc lang="ca">L'Adrien està preocupat perquè no té cap passió i la Marinette decideix fer tot el que pugui per ajudar-lo a trobar-ne una. Està tan enfeinada intentant aconseguir-ho que no s'adona que algú els observa, algú que vol treure profit de la popularitat de l'Adrien. I l'arribada d'una supermalvada decidida a robar a Ladybug i al Gat Noir el lloc que ocupen al cor dels parisencs encara farà empitjorar més les coses.</desc>
-    <length units="minutes">00:23:22</length>
+  <programme start="20261002232514 +0000" channel="sx3" stop="20261002234523 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Un Nadal animal (1a part)</sub-title>
+    <desc lang="ca">Són les vacances de Nadal i, per celebrar-lo, l'equip dels germans Kratt s'agafa un descans de les seves aventures, però, quan estan a punt d'obrir els regals, sona l'alarma. Resulta que els malvats, el Zach, el Gormand i la Donita, estan capturant les cries de tots els animals que coneixen per convertir-les en adorns de Nadal. La festa l'hauran de deixar per més endavant, perquè ara el que han de fer és entrar en acció per salvar els seus amics i tornar-los a casa per Nadal.</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
-  <programme start="20261002182432 +0000" channel="tv3" stop="20261002192511 +0000">
-    <title lang="ca">Gàdor i els taurons</title>
+  <programme start="20261002234523 +0000" channel="sx3" stop="20261003000532 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Un Nadal animal (2a part)</sub-title>
+    <desc lang="ca">Els germans Kratt i tot l'equip han ajornat la festa de Nadal i persegueixen els malvats Gormand, Donita i Zach per rescatar els seus amics animals. Quan sembla que ho han aconseguit, els dolents fan servir les seves males arts per enganyar-los, els prenen tots els aparells i els abandonen al mig de l'oceà Àrtic. Ara només tenen un regalet que el Martin guarda a la butxaca i els animals de l'Àrtic per intentar salvar els seus amics.</desc>
+    <length units="minutes">00:20:09</length>
+  </programme>
+  <programme start="20261002225344 +0000" channel="tv3" stop="20261003000318 +0000">
+    <title lang="ca">Premis Vinari</title>
+    <sub-title lang="ca">Premis Vinari 2026</sub-title>
+    <desc lang="ca">Transmissió des de l'Auditori de Vilafranca del Penedès de la gala dels Premis Vinari, que reconeixen els millors productes vinícoles de l'any. Durant la transmissió de la gala, celebrada el 2 d'octubre del 2026, descobrim quins són els vins guardonats en aquesta catorzena edició dels Vinari. Una gala que aquest any condueix el reconegut il·lusionista Mag Lari -que no és el primer cop que puja a l'escenari dels Premis Vinari-, per tal d'amenitzar l'esdeveniment, mostrant les seves habilitats com a showman a partir de diverses il·lusions i trucs de màgia. Els Premis Vinari, organitzats per la publicació Vadevi, del grup editorial El Món, són el final d'un llarg procés de selecció d'uns mil vins diferents procedents de totes les regions vitivinícoles de Catalunya. Com és habitual, el jurat ha estat format per més d'un centenar de tastadors professionals que han fet tast a cegues fins a la final. Aquest tast s'ha estructurat en: vins brisats, blancs, negres i escumosos de diverses criances, així com vins dolços rancis o de postres. En total es lliuren una quinzena de premis, que també inclouen la trajectòria professional, celler, etiqueta, iniciativa de recuperació de vinya, o el millor projecte ecològic.</desc>
+    <length units="minutes">01:09:34</length>
+  </programme>
+  <programme start="20261003000318 +0000" channel="tv3" stop="20261003012429 +0000">
+    <title lang="ca">Al Cim</title>
     <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics.</desc>
-    <length units="minutes">01:00:39</length>
-  </programme>
-  <programme start="20261002192511 +0000" channel="tv3" stop="20261002201723 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La península de cap Cors</sub-title>
-    <desc lang="ca">En Jean-Louis conrea castanyes i en fa farina, amb la qual la dona, la Nathalie, fa una mena de creps que es farceixen amb una mena de mató. En Xavier i la Sophie conreen poncems i els confiten. La Valérie fa uns bunyols d'arròs amb salsa bolonyesa enriquida amb bolets, olives i vi blanc. En René fa una llíssera de l'estany de Biguglia enfarinada i fregida amb el budellam, acompanyada d'espaguetis assaonats amb botàriga. En Jean-Noël, la Marine i en Sébastien són viticultors. Treballen sota una microdenominació d'origen i fan vins a petita escala.</desc>
-    <length units="minutes">00:52:12</length>
-  </programme>
-  <programme start="20261002185450 +0000" channel="tv3" stop="20261002203000 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">1015</sub-title>
-    <desc lang="ca">El Barça femení rep diumenge el Madrid en partit de Lliga. Analitzem com hi arriben unes i altres amb Sergi Solé, Gemma Herrero i Oriol Domènech. Amb Marcos García expliquem l'última hora de les blaugranes i sentim Clara Serrajordi. Amb Laia Tudel, expliquem com han anat les proves mèdiques de Raphinha. I acabem amb entrevista al jugador blanc-i-blau Omar El Hilali.</desc>
-    <length units="minutes">01:30:10</length>
+    <length units="minutes">01:21:11</length>
   </programme>
 </tv>
