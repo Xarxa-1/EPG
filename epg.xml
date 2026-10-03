@@ -1,13 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -15,64 +9,73 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261003171310 +0000" channel="tvi" stop="20261003184822 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Escape room</sub-title>
-    <desc lang="ca">ESCAPE ROOMProducció d'Arriska, Focus i Nakatomi que compta amb la participació de Televisió de Catalunya i el suport de l'ICEC.Director: Hèctor Claramunt Guió: Joel Joan i Hèctor Claramunt Director Fotografia: Xavi GiménezBasat en l'obra 'Escape room' de Joel Joan &amp; Hèctor Claramunt Intèrprets: Joel Joan, Paula Vives, Mònica Pérez i Ivan Massagué,SINOPSIQuatre amics, una habitació, molts secrets i una única via de sortida: la veritat. La comèdia més delirant de la temporada capgira els plans de dues parelles disposades a passar una gran nit en?un escape room. Si volen sortir d'aquest joc tan imprevisible com esbojarrat hauran de posar a prova la seva amistat. Els ha arribat l'hora de la veritat.?</desc>
-    <length units="minutes">01:35:12</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261003210000 +0000" channel="tvi" stop="20261003220455 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7346</sub-title>
+    <length units="minutes">01:04:55</length>
   </programme>
-  <programme start="20261003184906 +0000" channel="tvi" stop="20261003191643 +0000">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un hoteler dels Pirineus (Tardor - Hivern))</sub-title>
-    <desc lang="ca">Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.</desc>
-    <length units="minutes">00:27:37</length>
+  <programme start="20261003220455 +0000" channel="tvi" stop="20261003230655 +0000">
+    <title lang="ca">Col·lapse</title>
+    <sub-title lang="ca">155</sub-title>
+    <desc lang="ca">La crisi de l'habitatge a 'Col·lapse'. Jordi González visita la casa d'Ivan Giesen, al barri del Poblenou de Barcelona. Coneixerem la seva història personal. L'han intentat desnonar en dues ocasions i ara viu pendent d'una negociació amb els propietaris que no arriba mai.  Pilar Eyre ens despulla la monarquia espanyola amb tot luxe de detalls en la seva nova novel·la 'Sucesión'. L'actor Marcos Franz explicarà el malson que va viure quan protagonitzava la sèrie 'Merlí' i de quina manera va afectar a totes les àrees de la seva vida privada. Parlarem amb Lluís Soler, una de les grans veus de Catalunya que es va fer especialment popular per ser 'el violador' d'El Cor de la ciutat. Hem visitat Macondo Park amb el promotor de concerts i president de Live Nation Pino Sagliocco i parlem els pros i contres d'aquesta residència musical que ha portat Shakira a Europa durant un mes amb l'analista musical Oscar Nin i una fan incondicional Meritxell Falgueras. L'Àngel Llacer estrena la seva particular secció titulada 'L'àngel de la guarda'.</desc>
+    <length units="minutes">01:02:00</length>
   </programme>
-  <programme start="20261003163000 +0000" channel="324" stop="20261003183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11335</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261003210000 +0000" channel="324" stop="20261003230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7346</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261003183000 +0000" channel="324" stop="20261003200000 +0000">
+  <programme start="20261003230000 +0000" channel="324" stop="20261004003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11336</sub-title>
+    <sub-title lang="ca">11338</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261003164339 +0000" channel="esport3" stop="20261003180031 +0000">
-    <title lang="ca">Billar a 3 bandes</title>
-    <sub-title lang="ca">PBA Team League</sub-title>
-    <desc lang="ca">Les partides més destacades del català Dani Sánchez en aquesta competició per equips de billar a 3 bandes organitzada per la PBA (Professional Billiards Association).</desc>
-    <length units="minutes">01:16:52</length>
+  <programme start="20261003192706 +0000" channel="esport3" stop="20261003224340 +0000">
+    <title lang="ca">CURSES DE MUNTANYA</title>
+    <sub-title lang="ca">- MARATÓ PIRINEU</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">03:16:34</length>
   </programme>
-  <programme start="20261003180031 +0000" channel="esport3" stop="20261003194746 +0000">
-    <title lang="ca">Hípica</title>
-    <sub-title lang="ca">Copa de la Reina / CSIO</sub-title>
-    <desc lang="ca">Retransmissió de la Copa de la Reina d'hípica que forma part del Concurs de Salts Internacional Oficial que s'està disputant al Reial Club de Polo de Barcelona.</desc>
-    <length units="minutes">01:47:15</length>
+  <programme start="20261003224340 +0000" channel="esport3" stop="20261003230433 +0000">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">Lamine Yamal, exhibició cap a la pilota d'or</sub-title>
+    <desc lang="ca">Lamine Yamal ha demostrat en un parell de partits amb la selecció espanyola, perquè és el candidat a guanyar la pilota d'or, amb una exhibició de joc, 3 gols i una assistència.Siderland acomiada el programa amb la seva nova cançó, 'L'última'.</desc>
+    <length units="minutes">00:20:53</length>
   </programme>
-  <programme start="20261003171917 +0000" channel="sx3" stop="20261003172947 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">La renúncia de l'Arcabús</sub-title>
-    <desc lang="ca">A força de derrotes per part dels gals i de càstigs per part de la gata Monalisa, l'Arcabús es deprimeix i abandona la legió. En Devòrix, sense un enemic de la seva categoria, s'avorreix i fa un pacte amb els soldats de l'Arcabús per aixecar-li la moral.</desc>
+  <programme start="20261003221333 +0000" channel="sx3" stop="20261003222403 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">L'esquinç de la discòrdia</sub-title>
+    <desc lang="ca">Mentre mira de fer respectar l'ordre al pis, el Dad es fa un esquinç alturmell, la qual cosa obligarà els seus pares, el Michel i la Michelle, a venir per ocupar-se de les seves filles mentre es recupera. Però quan els avis transformen la vida quotidiana de la família en un autèntic infern, les noies hauran de trobar una solució per demostrar-los que se'n poden sortir prou bé sense ells.</desc>
     <length units="minutes">00:10:30</length>
   </programme>
-  <programme start="20261003172947 +0000" channel="sx3" stop="20261003174152 +0000">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">La Monalisa, una amiga que et vol bé</sub-title>
-    <desc lang="ca">Com de costum, la nova poció del druida Voldenix no té l'efecte desitjat i fa que la gata Monalisa i l'Irreductible Devòrix perdin la memòria i es facin bons amics, davant la sorpresa de la banda de les catacumbes, de la legió canina i dels mateixos Irreductibles.</desc>
-    <length units="minutes">00:12:05</length>
+  <programme start="20261003222403 +0000" channel="sx3" stop="20261003223438 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Com el gat i el gos</sub-title>
+    <desc lang="ca">La Roxane mira de convèncer el Dad perquè li deixi tenir una mascota, però ell s'hi nega en rodó, i posa com a excusa sobretot les al·lèrgies de laPanda. Alhora, l'Ondine ha agafat una feineta per poder guanyar uns calerons i comprar-se roba: cuidar el gos de la senyora Crochon. Però quan li truca la seva amiga Béa per quedar, deixa el gos sol a casa i s'embolica la troca.</desc>
+    <length units="minutes">00:10:35</length>
   </programme>
-  <programme start="20261003171204 +0000" channel="tv3" stop="20261003180416 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La península de cap Cors</sub-title>
-    <desc lang="ca">En Jean-Louis conrea castanyes i en fa farina, amb la qual la dona, la Nathalie, fa una mena de creps que es farceixen amb una mena de mató. En Xavier i la Sophie conreen poncems i els confiten. La Valérie fa uns bunyols d'arròs amb salsa bolonyesa enriquida amb bolets, olives i vi blanc. En René fa una llíssera de l'estany de Biguglia enfarinada i fregida amb el budellam, acompanyada d'espaguetis assaonats amb botàriga. En Jean-Noël, la Marine i en Sébastien són viticultors. Treballen sota una microdenominació d'origen i fan vins a petita escala.</desc>
-    <length units="minutes">00:52:12</length>
+  <programme start="20261003220347 +0000" channel="tv3" stop="20261003222111 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Una bona història</sub-title>
+    <desc lang="ca">Quins són els elements que fan que una història funcioni, atrapi l'espectador i no el deixi anar? Hi ha fórmules infal·libles o cadascú troba els seus viaranys? Per al director de cinema Kike Maíllo i el guionista Markos Goikolea, que han estrenat el documental 'La supervivent' a 3Cat, una bona història ha de tenir un bon personatge, ha d'apel·lar a una pulsió humana universal i ha d'aconseguir una estructura dramàtica que capti i mantingui l'atenció de l'espectador. Per a la periodista Teresa Turiera-Puigbò, investigadora del col·lectiu 'Cultura i conflicte', que han estrenat al teatre La Biblioteca de Barcelona l'obra 'No miris', una bona història no cal que sigui èpica. Les bones històries es troben quan vas estirant del fil de les vides de la gent 'normal', perquè sempre trobes sorpreses amagades darrere dels fets que semblen més quotidians. I per a la guionista Valentina Viso, una bona història sempre ha de tenir emoció i veu pròpia, no ha de seguir el camí habitual, sinó tot el contrari, boicotejar les respostes més òbvies. Ella té una veu autoritzada per parlar d'històries, ja que és responsable de molts dels guions de les pel·lícules d'èxit firmades per la nova onada de directores catalanes, com 'Tres dies amb la família' (2009), 'Tots volem el millor per a ella' (2013), 'María (y los demás)' (2016), 'Salve Maria'(2024), 'Viva' (2026) o la sèrie 'Això no és Suècia' (2023).</desc>
+    <length units="minutes">00:17:24</length>
   </programme>
-  <programme start="20261003180416 +0000" channel="tv3" stop="20261003184644 +0000">
-    <title lang="ca">Un món de Jocs</title>
-    <sub-title lang="ca">La recerca de la perfecció</sub-title>
-    <desc lang="ca">Som animals que ens enorgullim d'estar al cim de l'ordre natural. Per això, ens esforcem per demostrar que som superiors a la resta, esperem que el nostre talent ens faci més valents i impressionants. Però hi ha res més darrere d'aquestes activitats que l'afany de ser els millors? En aquest episodi, parlarem d'espais de joc on el que compta no és ser els primers de creuar la línia de meta i on els jugadors fan servir els seus cossos per oferir els millors espectacles del món.Surf d'onades gegants, Nazaré, PortugalSalt de penya-segat, MèxicDrifting, CisjordàniaMister Olympia, els Estats Units</desc>
-    <length units="minutes">00:42:28</length>
+  <programme start="20261003222111 +0000" channel="tv3" stop="20261003234325 +0000">
+    <title lang="ca">El documental</title>
+    <sub-title lang="ca">Supernatural</sub-title>
+    <desc lang="ca">'Supernatural' (2025) una producció de Nanouk Films, en coproducció amb Harald House, Massala Productions, Glia Films, 3Cat, la col·laboració de RTVE, Filmin i el suport de l'ICEC, l' ICAA, Europe Creative Media, Eurimages.Moltes persones creuen que Malby, un famós xaman i guaridor espiritual, posseïa poders sobrenaturals. El seu propi fill, Mathu, però, no ho creu. Mathu s'ha convertit, amb el temps, en l'antítesi del seu pare. Mentre que Malby era un hedonista i un faldiller, Mathu és un metge convencional que viu en harmonia amb la seva família. Però la seva aparent tranquil·litat comença a trontollar quan l'Anna Alarcón, actriu i una fervent creient de Malby, contacta amb ell. L'Anna li explica la seva convicció que el seu pare li va salvar la vida a través d'una curació telepàtica. Aquest fet duu a Mathu a enfrontar-se al seu propi trauma familiar mentre desafia les creences esotèriques de l'Anna. La confrontació entre tots dos es converteix en una exploració dels límits entre la ciència i la màgia.Equip:Direcció, guió i realització: Ventura DurallProductor: Ventura Durall, Sergi Cameron, Charlotte Guénin, Kristien Van Der HeydenProductor executiu 3Cat: David Bassa Cabanas, Silvia Pairó VilaCoordinació de continguts 3Cat: Agustí Argelich Gironès, Ricard Belis GarciaProductor delegat 3Cat: Daniel Barea DelgadoDirector de fotografia: Núria GascónMuntatge: Maria CastanDirector de producció: Ona BallóMúsica: Justine Bourgeus</desc>
+    <length units="minutes">01:22:14</length>
+  </programme>
+  <programme start="20261003195512 +0000" channel="tv3" stop="20261003222503 +0000">
+    <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
+    <sub-title lang="ca">4147</sub-title>
+    <length units="minutes">02:29:51</length>
   </programme>
 </tv>
