@@ -1,78 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
-  <programme start="20261003040000 +0000" channel="tvi" stop="20261003050000 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Ivan Kovacevic 5 Spots</sub-title>
-    <desc lang="ca">El contrabaixísta serbi és un dels músics més treballadors dins l'escena del blues a Catalunya. Després d'onze anys a casa nostra, es presenta per primera vegada amb una formació sota el seu nom. Ho fa acompanyat d'uns músics de primera línia: David Pastor a la trompeta, Toni Solà al saxo, Bernat Font al piano i Roger Gutierrez a la bateria.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261003050000 +0000" channel="tvi" stop="20261003060001 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Giulia Valle</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">01:00:01</length>
-  </programme>
-  <programme start="20261003010000 +0000" channel="324" stop="20261003060000 +0000">
+  <programme start="20261003122919 +0000" channel="tvi" stop="20261003132933 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11331</sub-title>
+    <sub-title lang="ca">11334</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:00:14</length>
   </programme>
-  <programme start="20261003060000 +0000" channel="324" stop="20261003070000 +0000">
+  <programme start="20261003133054 +0000" channel="tvi" stop="20261003134644 +0000">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Marina Vilalta</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="minutes">00:15:50</length>
+  </programme>
+  <programme start="20261003120000 +0000" channel="324" stop="20261003143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11331</sub-title>
+    <sub-title lang="ca">11334</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261003034055 +0000" channel="esport3" stop="20261003051248 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Arriba el primer clàssic</sub-title>
-    <desc lang="ca">El Barça femení rep diumenge el Madrid en partit de Lliga. Analitzem com hi arriben unes i altres amb Sergi Solé, Gemma Herrero i Oriol Domènech. Amb Marcos García expliquem l'última hora de les blaugranes i sentim Clara Serrajordi. Amb Laia Tudel, expliquem com han anat les proves mèdiques de Raphinha. I acabem amb entrevista al jugador blanc-i-blau Omar El Hilali.</desc>
-    <length units="minutes">01:31:53</length>
+  <programme start="20261003143000 +0000" channel="324" stop="20261003163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7347</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261003051248 +0000" channel="esport3" stop="20261003060739 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final femenina</sub-title>
-    <desc lang="ca">Final femenina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="minutes">00:54:51</length>
+  <programme start="20261003115500 +0000" channel="esport3" stop="20261003140014 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">RCD Espanyol-Alabès / Lliga F / J6</sub-title>
+    <desc lang="ca">Les periquites són cinquenes per la cua, però farien un bon salt a la classificació si sumen la segona victòria en el campionat.</desc>
+    <length units="minutes">02:05:14</length>
   </programme>
-  <programme start="20261003042822 +0000" channel="sx3" stop="20261003044016 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">En família</sub-title>
-    <desc lang="ca">En Pico té ganes d'anar-se a banyar, però les seves mares volen descansar sota un arbre. Al mateix temps, la Guineta es vol quedar al llit sense fer res, però l'Edmond ha organitzat una sortida per anar collir castanyes amb els bessons. La solució és molt fàcil: la Guineta passarà el dia amb les mares d'en Pico, i en Pico se n'anirà d'excursió amb els teixons. I tots contents!</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20261003140014 +0000" channel="esport3" stop="20261003142011 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Entrevista a Omar El Hilali</sub-title>
+    <desc lang="ca">El lateral dret de l'Espanyol valora l'inici de la temporada en aquesta entrevista al 'Tot costa'.</desc>
+    <length units="minutes">00:19:57</length>
   </programme>
-  <programme start="20261003044016 +0000" channel="sx3" stop="20261003045146 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El papa o la Castina</sub-title>
-    <desc lang="ca">El vent s'ha emportat el dibuix que la Castina li havia fet al seu pare pel seu aniversari. La Guineta s'ofereix a recuperar-lo, però la Castina no creu que tingui temps d'anar-lo a buscar, perquè avui ve en Basile, el pare de la petita guineu. Però la Guineta, que és tossuda com ella sola, està convençuda que ho podrà fer tot. I llavors entren en escena en Gatmoix i en Gatmoll.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261003124116 +0000" channel="sx3" stop="20261003124746 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">La calavera de la discòrdia</sub-title>
+    <desc lang="ca">Després de prendre-li el pot de crema de xocolata a en Grizzy, els Lèmmings llancen l'os lluny de la cabana. En Grizzy cau a un temple on troba una calavera que té el poder de sembrar la discòrdia a aquells a qui assenyali. En Grizzy la utilitza per enfrontar els Lèmmings entre ells i aprofita la baralla general per recuperar la crema de xocolata. Però els efectes de la calavera màgica no duren per sempre i la ràbia acaba desapareixent. Llavors els Lèmmings uneixen forces per pagar l'os amb la mateixa moneda!</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20261003042512 +0000" channel="tv3" stop="20261003044711 +0000">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">La llengua dels polítics</sub-title>
-    <desc lang="ca">Després de l'èxit de la primera temporada, 'Caçadors de paraules' continua la feina de divulgació i descoberta del tresor de la nostra llengua. Amb l'esperit rigorós però gamberro que ja va caracteritzar els primers 19 capítols de la sèrie, Roger de Gràcia tornarà a recórrer el país buscant paraules, fent el xafarder, parant l'orella a tots els accents i recollint les meravelles de la llengua parlada. El programa, produït pel Departament de Documentals, Educatius i Nous Formats, va tenir al llarg de la temporada passada un magnífic seguiment per part de l'audiència, amb una mitjana del 24,2% i 760.000 espectadors cada setmana.'Caçadors de paraules' torna amb el mateix model de programa però amb algunes novetats: una preocupació encara més gran per reflectir tots els accents i recórrer totes les zones on es parla català que es tradueix en quilòmetres i quilòmetres de viatge. Per gravar els 13 capítols de la nova temporada, Roger de Gràcia i el seu equip recorreran aproximadament 10.000 quilòmetres per terra, mar i aire: des de la Franja fins a les Balears, des de la Catalunya Nord fins a Alacant. Malauradament, una altra novetat és la 'desaparició' del mestre Quimi Portet, que s'ha retirat al seu refugi de Hollywood (el Hollywoodès), on prepara l'edició definitiva de les seves obres completes. Roger de Gràcia, malgrat tot, segueix buscant consol espiritual al final del programa, i en aquesta nova temporada en trobarà en la música de Quim Vila, que ha compost una cançó per a cada capítol: rap, country, cançó protesta, blues, techno... qualsevol estil és bo per dir la seva a 'Caçadors de paraules'.I, parlant de les novetats, en els 13 nous capítols de la sèrie analitzarem el català dels polítics, la llengua dels pescadors i els homes de mar, els topònims, buscarem les millors paraules relacionades amb la verema i el vi, amb la roba, amb els pastissos i els dolços, amb els jocs... tornarem a viatjar per totes les terres on es parla català</desc>
-    <length units="minutes">00:21:59</length>
+  <programme start="20261003124746 +0000" channel="sx3" stop="20261003125441 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Una superestrella polar</sub-title>
+    <desc lang="ca">Els Lèmmings fan una competició de salts acrobàtics davant d'un públic de pingüins i morses. Dos equips de Lèmmings competeixen per proclamar-se vencedors. Quan en Grizzy salta per accident, es veu enganxat al joc i acaba fent embogir el públic! Content per la seva victòria, l'os s'ho passa pipa amb totes les atencions que rep. Però els Lèmmings també volen el seu moment de glòria.</desc>
+    <length units="minutes">00:06:55</length>
   </programme>
-  <programme start="20261003044711 +0000" channel="tv3" stop="20261003051521 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">L'alzina d'en Marc</sub-title>
-    <desc lang="ca">Collserola (GR6). Ruta d'1 jornada i uns 10 km.Seguirem el GR6 que comença al Laberint d'Horta, i ens endinsarem en el Parc Natural de Collserola, el pulmó verd més important de l'àrea metropolitana. Durant el camí coneixerem a la gent que viu cada dia la realitat del parc: un tècnic de manteniment, un guarda forestal, un cuiner especialitzat en esmorzars de forquilla i un historiador que ens explicarà els secrets del Pi d'en Xandri. La ruta acabarà a Sant Cugat, a lloms d'un cavall, que ens conduirà fins a una posta de sol espatarrant.</desc>
-    <length units="minutes">00:28:10</length>
+  <programme start="20261003121011 +0000" channel="tv3" stop="20261003131217 +0000">
+    <title lang="ca">Una altra història</title>
+    <sub-title lang="ca">Castell de Santa Fiorentina a Canet de Mar</sub-title>
+    <desc lang="ca">L'Albert Om i els historiadors visiten el castell de Santa Fiorentina de Canet de Mar, un monument reformat per Domènech i Montaner a principis del s.XX on s'han rodat sèries com Joc de Trons. Una altra història arrenca aquí amb històries com la de la primera parella homosexual que va intentar casar-se als 80 o com la d'un gerro de vidre que li van regalar a la Carmen Polo als 40 i com la seva rèplica ha estat a casa de l'Anita tots aquests anys.</desc>
+    <length units="minutes">01:02:06</length>
+  </programme>
+  <programme start="20261003131217 +0000" channel="tv3" stop="20261003135825 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 14</sub-title>
+    <desc lang="ca">Aquí hi trobareu un resum de tot el que ha passat els últims capítols del programa: hem xerrat amb la Judit Mascó, en Llorenç Barba, Els Amics de les Arts i la Júlia Truyol. També hem parlat sobre la capa, el compàs, les puntes de coixí i els dards. I hem sortit a passejar 4 gossos per 4 moments històrics. Que a en Fel no li agrada, però nosaltres ho seguim fent (perquè sí que ens agrada).</desc>
+    <length units="minutes">00:46:08</length>
   </programme>
 </tv>
