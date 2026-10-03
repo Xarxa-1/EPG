@@ -1,77 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20261002222520 +0000" channel="tvi" stop="20261002234115 +0000">
-    <title lang="ca">La Puntual</title>
-    <sub-title lang="ca">La Puntual: Vetes, fils i audicions</sub-title>
-    <desc lang="ca">Seguim al 'Laboratori teatral' per conèixer més a fons els personatges, posarem a prova els actors amb audicions grupals, càstings per trios, activitats, dinàmiques col·lectives i algun convidat sorpresa. En aquest capítol hi haurà 11 candidats que hauran de deixar el Món Sant Benet.</desc>
-    <length units="minutes">01:15:55</length>
-  </programme>
-  <programme start="20261002234115 +0000" channel="tvi" stop="20261003000334 +0000">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Dame Area</sub-title>
-    <desc lang="ca">Aquest duet barceloní de música electrònica industrial ha aconseguit cridar l'atenció a nivell internacional amb discos com, per exemple, 'Toda la verdad sobre Dame Area': l'estació de ràdio de Seattle KEXP els va convidar a tocar en els seus prestigiosos directes i mitjans amb el relleu de Pitchfork, The Guardian o la mateixa BBC han parlat de la seva música. Nascuts del ja desaparegut club barceloní de culte Màgia Roja, els Dame Area mantenen una activitat intensa dins d'un circuit que ha connectat amb la seva incendiària posada en escena. Per aquesta raó, Les Feres ha capturat el grup en una actuació a la sala Vol, de Barcelona.  'Rompi il cristallo' 'Striscia' 'Devoción' 'Scopri le tue passioni' 'Si no es hoy cuando es'  Silvia Kostance -veu, sintetitzador i percussió Viktor Lux Crux -sintetitzador i percussió  Localització: enregistrat a la sala VOL, a Barcelona  Dia: 19 de gener del 2025</desc>
-    <length units="minutes">00:22:19</length>
-  </programme>
-  <programme start="20261002233000 +0000" channel="324" stop="20261003003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11330</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261003040000 +0000" channel="tvi" stop="20261003050000 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Ivan Kovacevic 5 Spots</sub-title>
+    <desc lang="ca">El contrabaixísta serbi és un dels músics més treballadors dins l'escena del blues a Catalunya. Després d'onze anys a casa nostra, es presenta per primera vegada amb una formació sota el seu nom. Ho fa acompanyat d'uns músics de primera línia: David Pastor a la trompeta, Toni Solà al saxo, Bernat Font al piano i Roger Gutierrez a la bateria.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261003003000 +0000" channel="324" stop="20261003010000 +0000">
+  <programme start="20261003050000 +0000" channel="tvi" stop="20261003060001 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Giulia Valle</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">01:00:01</length>
+  </programme>
+  <programme start="20261003010000 +0000" channel="324" stop="20261003060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11331</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261002230005 +0000" channel="esport3" stop="20261003003148 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Raphina, OK; Ganes de clàssic; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Laia Tudel, David Ibáñez, Albert Rogé i Laura Aparicio. Repassem les declaracions més importants de Luís de la Fuente abans de l'Espanya-república Txeca de dissabte. Fem la prèvia del clàssic femení al Camp Nou amb Gemma Mallorca, Àlex Delmàs ens parla del poder ofensiu del Barça. Acabem amb l'humor de Xavi Cazorla.</desc>
-    <length units="minutes">01:31:43</length>
+  <programme start="20261003060000 +0000" channel="324" stop="20261003070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11331</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261003003148 +0000" channel="esport3" stop="20261003005305 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5526</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:21:17</length>
+  <programme start="20261003034055 +0000" channel="esport3" stop="20261003051248 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Arriba el primer clàssic</sub-title>
+    <desc lang="ca">El Barça femení rep diumenge el Madrid en partit de Lliga. Analitzem com hi arriben unes i altres amb Sergi Solé, Gemma Herrero i Oriol Domènech. Amb Marcos García expliquem l'última hora de les blaugranes i sentim Clara Serrajordi. Amb Laia Tudel, expliquem com han anat les proves mèdiques de Raphinha. I acabem amb entrevista al jugador blanc-i-blau Omar El Hilali.</desc>
+    <length units="minutes">01:31:53</length>
   </programme>
-  <programme start="20261002232514 +0000" channel="sx3" stop="20261002234523 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un Nadal animal (1a part)</sub-title>
-    <desc lang="ca">Són les vacances de Nadal i, per celebrar-lo, l'equip dels germans Kratt s'agafa un descans de les seves aventures, però, quan estan a punt d'obrir els regals, sona l'alarma. Resulta que els malvats, el Zach, el Gormand i la Donita, estan capturant les cries de tots els animals que coneixen per convertir-les en adorns de Nadal. La festa l'hauran de deixar per més endavant, perquè ara el que han de fer és entrar en acció per salvar els seus amics i tornar-los a casa per Nadal.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261003051248 +0000" channel="esport3" stop="20261003060739 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final femenina</sub-title>
+    <desc lang="ca">Final femenina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="minutes">00:54:51</length>
   </programme>
-  <programme start="20261002234523 +0000" channel="sx3" stop="20261003000532 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un Nadal animal (2a part)</sub-title>
-    <desc lang="ca">Els germans Kratt i tot l'equip han ajornat la festa de Nadal i persegueixen els malvats Gormand, Donita i Zach per rescatar els seus amics animals. Quan sembla que ho han aconseguit, els dolents fan servir les seves males arts per enganyar-los, els prenen tots els aparells i els abandonen al mig de l'oceà Àrtic. Ara només tenen un regalet que el Martin guarda a la butxaca i els animals de l'Àrtic per intentar salvar els seus amics.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261003042822 +0000" channel="sx3" stop="20261003044016 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">En família</sub-title>
+    <desc lang="ca">En Pico té ganes d'anar-se a banyar, però les seves mares volen descansar sota un arbre. Al mateix temps, la Guineta es vol quedar al llit sense fer res, però l'Edmond ha organitzat una sortida per anar collir castanyes amb els bessons. La solució és molt fàcil: la Guineta passarà el dia amb les mares d'en Pico, i en Pico se n'anirà d'excursió amb els teixons. I tots contents!</desc>
+    <length units="minutes">00:11:54</length>
   </programme>
-  <programme start="20261002225344 +0000" channel="tv3" stop="20261003000318 +0000">
-    <title lang="ca">Premis Vinari</title>
-    <sub-title lang="ca">Premis Vinari 2026</sub-title>
-    <desc lang="ca">Transmissió des de l'Auditori de Vilafranca del Penedès de la gala dels Premis Vinari, que reconeixen els millors productes vinícoles de l'any. Durant la transmissió de la gala, celebrada el 2 d'octubre del 2026, descobrim quins són els vins guardonats en aquesta catorzena edició dels Vinari. Una gala que aquest any condueix el reconegut il·lusionista Mag Lari -que no és el primer cop que puja a l'escenari dels Premis Vinari-, per tal d'amenitzar l'esdeveniment, mostrant les seves habilitats com a showman a partir de diverses il·lusions i trucs de màgia. Els Premis Vinari, organitzats per la publicació Vadevi, del grup editorial El Món, són el final d'un llarg procés de selecció d'uns mil vins diferents procedents de totes les regions vitivinícoles de Catalunya. Com és habitual, el jurat ha estat format per més d'un centenar de tastadors professionals que han fet tast a cegues fins a la final. Aquest tast s'ha estructurat en: vins brisats, blancs, negres i escumosos de diverses criances, així com vins dolços rancis o de postres. En total es lliuren una quinzena de premis, que també inclouen la trajectòria professional, celler, etiqueta, iniciativa de recuperació de vinya, o el millor projecte ecològic.</desc>
-    <length units="minutes">01:09:34</length>
+  <programme start="20261003044016 +0000" channel="sx3" stop="20261003045146 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El papa o la Castina</sub-title>
+    <desc lang="ca">El vent s'ha emportat el dibuix que la Castina li havia fet al seu pare pel seu aniversari. La Guineta s'ofereix a recuperar-lo, però la Castina no creu que tingui temps d'anar-lo a buscar, perquè avui ve en Basile, el pare de la petita guineu. Però la Guineta, que és tossuda com ella sola, està convençuda que ho podrà fer tot. I llavors entren en escena en Gatmoix i en Gatmoll.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261003000318 +0000" channel="tv3" stop="20261003012429 +0000">
-    <title lang="ca">Al Cim</title>
-    <sub-title lang="ca">1</sub-title>
-    <length units="minutes">01:21:11</length>
+  <programme start="20261003042512 +0000" channel="tv3" stop="20261003044711 +0000">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">La llengua dels polítics</sub-title>
+    <desc lang="ca">Després de l'èxit de la primera temporada, 'Caçadors de paraules' continua la feina de divulgació i descoberta del tresor de la nostra llengua. Amb l'esperit rigorós però gamberro que ja va caracteritzar els primers 19 capítols de la sèrie, Roger de Gràcia tornarà a recórrer el país buscant paraules, fent el xafarder, parant l'orella a tots els accents i recollint les meravelles de la llengua parlada. El programa, produït pel Departament de Documentals, Educatius i Nous Formats, va tenir al llarg de la temporada passada un magnífic seguiment per part de l'audiència, amb una mitjana del 24,2% i 760.000 espectadors cada setmana.'Caçadors de paraules' torna amb el mateix model de programa però amb algunes novetats: una preocupació encara més gran per reflectir tots els accents i recórrer totes les zones on es parla català que es tradueix en quilòmetres i quilòmetres de viatge. Per gravar els 13 capítols de la nova temporada, Roger de Gràcia i el seu equip recorreran aproximadament 10.000 quilòmetres per terra, mar i aire: des de la Franja fins a les Balears, des de la Catalunya Nord fins a Alacant. Malauradament, una altra novetat és la 'desaparició' del mestre Quimi Portet, que s'ha retirat al seu refugi de Hollywood (el Hollywoodès), on prepara l'edició definitiva de les seves obres completes. Roger de Gràcia, malgrat tot, segueix buscant consol espiritual al final del programa, i en aquesta nova temporada en trobarà en la música de Quim Vila, que ha compost una cançó per a cada capítol: rap, country, cançó protesta, blues, techno... qualsevol estil és bo per dir la seva a 'Caçadors de paraules'.I, parlant de les novetats, en els 13 nous capítols de la sèrie analitzarem el català dels polítics, la llengua dels pescadors i els homes de mar, els topònims, buscarem les millors paraules relacionades amb la verema i el vi, amb la roba, amb els pastissos i els dolços, amb els jocs... tornarem a viatjar per totes les terres on es parla català</desc>
+    <length units="minutes">00:21:59</length>
+  </programme>
+  <programme start="20261003044711 +0000" channel="tv3" stop="20261003051521 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">L'alzina d'en Marc</sub-title>
+    <desc lang="ca">Collserola (GR6). Ruta d'1 jornada i uns 10 km.Seguirem el GR6 que comença al Laberint d'Horta, i ens endinsarem en el Parc Natural de Collserola, el pulmó verd més important de l'àrea metropolitana. Durant el camí coneixerem a la gent que viu cada dia la realitat del parc: un tècnic de manteniment, un guarda forestal, un cuiner especialitzat en esmorzars de forquilla i un historiador que ens explicarà els secrets del Pi d'en Xandri. La ruta acabarà a Sant Cugat, a lloms d'un cavall, que ens conduirà fins a una posta de sol espatarrant.</desc>
+    <length units="minutes">00:28:10</length>
   </programme>
 </tv>
