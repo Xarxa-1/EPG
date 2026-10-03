@@ -1,77 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261003122919 +0000" channel="tvi" stop="20261003132933 +0000">
+  <programme start="20261003171310 +0000" channel="tvi" stop="20261003184822 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Escape room</sub-title>
+    <desc lang="ca">ESCAPE ROOMProducció d'Arriska, Focus i Nakatomi que compta amb la participació de Televisió de Catalunya i el suport de l'ICEC.Director: Hèctor Claramunt Guió: Joel Joan i Hèctor Claramunt Director Fotografia: Xavi GiménezBasat en l'obra 'Escape room' de Joel Joan &amp; Hèctor Claramunt Intèrprets: Joel Joan, Paula Vives, Mònica Pérez i Ivan Massagué,SINOPSIQuatre amics, una habitació, molts secrets i una única via de sortida: la veritat. La comèdia més delirant de la temporada capgira els plans de dues parelles disposades a passar una gran nit en?un escape room. Si volen sortir d'aquest joc tan imprevisible com esbojarrat hauran de posar a prova la seva amistat. Els ha arribat l'hora de la veritat.?</desc>
+    <length units="minutes">01:35:12</length>
+  </programme>
+  <programme start="20261003184906 +0000" channel="tvi" stop="20261003191643 +0000">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un hoteler dels Pirineus (Tardor - Hivern))</sub-title>
+    <desc lang="ca">Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.</desc>
+    <length units="minutes">00:27:37</length>
+  </programme>
+  <programme start="20261003163000 +0000" channel="324" stop="20261003183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11334</sub-title>
+    <sub-title lang="ca">11335</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:14</length>
-  </programme>
-  <programme start="20261003133054 +0000" channel="tvi" stop="20261003134644 +0000">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Marina Vilalta</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="minutes">00:15:50</length>
-  </programme>
-  <programme start="20261003120000 +0000" channel="324" stop="20261003143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11334</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20261003143000 +0000" channel="324" stop="20261003163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7347</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261003115500 +0000" channel="esport3" stop="20261003140014 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">RCD Espanyol-Alabès / Lliga F / J6</sub-title>
-    <desc lang="ca">Les periquites són cinquenes per la cua, però farien un bon salt a la classificació si sumen la segona victòria en el campionat.</desc>
-    <length units="minutes">02:05:14</length>
+  <programme start="20261003183000 +0000" channel="324" stop="20261003200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11336</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261003140014 +0000" channel="esport3" stop="20261003142011 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Entrevista a Omar El Hilali</sub-title>
-    <desc lang="ca">El lateral dret de l'Espanyol valora l'inici de la temporada en aquesta entrevista al 'Tot costa'.</desc>
-    <length units="minutes">00:19:57</length>
+  <programme start="20261003164339 +0000" channel="esport3" stop="20261003180031 +0000">
+    <title lang="ca">Billar a 3 bandes</title>
+    <sub-title lang="ca">PBA Team League</sub-title>
+    <desc lang="ca">Les partides més destacades del català Dani Sánchez en aquesta competició per equips de billar a 3 bandes organitzada per la PBA (Professional Billiards Association).</desc>
+    <length units="minutes">01:16:52</length>
   </programme>
-  <programme start="20261003124116 +0000" channel="sx3" stop="20261003124746 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">La calavera de la discòrdia</sub-title>
-    <desc lang="ca">Després de prendre-li el pot de crema de xocolata a en Grizzy, els Lèmmings llancen l'os lluny de la cabana. En Grizzy cau a un temple on troba una calavera que té el poder de sembrar la discòrdia a aquells a qui assenyali. En Grizzy la utilitza per enfrontar els Lèmmings entre ells i aprofita la baralla general per recuperar la crema de xocolata. Però els efectes de la calavera màgica no duren per sempre i la ràbia acaba desapareixent. Llavors els Lèmmings uneixen forces per pagar l'os amb la mateixa moneda!</desc>
-    <length units="minutes">00:06:30</length>
+  <programme start="20261003180031 +0000" channel="esport3" stop="20261003194746 +0000">
+    <title lang="ca">Hípica</title>
+    <sub-title lang="ca">Copa de la Reina / CSIO</sub-title>
+    <desc lang="ca">Retransmissió de la Copa de la Reina d'hípica que forma part del Concurs de Salts Internacional Oficial que s'està disputant al Reial Club de Polo de Barcelona.</desc>
+    <length units="minutes">01:47:15</length>
   </programme>
-  <programme start="20261003124746 +0000" channel="sx3" stop="20261003125441 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Una superestrella polar</sub-title>
-    <desc lang="ca">Els Lèmmings fan una competició de salts acrobàtics davant d'un públic de pingüins i morses. Dos equips de Lèmmings competeixen per proclamar-se vencedors. Quan en Grizzy salta per accident, es veu enganxat al joc i acaba fent embogir el públic! Content per la seva victòria, l'os s'ho passa pipa amb totes les atencions que rep. Però els Lèmmings també volen el seu moment de glòria.</desc>
-    <length units="minutes">00:06:55</length>
+  <programme start="20261003171917 +0000" channel="sx3" stop="20261003172947 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">La renúncia de l'Arcabús</sub-title>
+    <desc lang="ca">A força de derrotes per part dels gals i de càstigs per part de la gata Monalisa, l'Arcabús es deprimeix i abandona la legió. En Devòrix, sense un enemic de la seva categoria, s'avorreix i fa un pacte amb els soldats de l'Arcabús per aixecar-li la moral.</desc>
+    <length units="minutes">00:10:30</length>
   </programme>
-  <programme start="20261003121011 +0000" channel="tv3" stop="20261003131217 +0000">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Castell de Santa Fiorentina a Canet de Mar</sub-title>
-    <desc lang="ca">L'Albert Om i els historiadors visiten el castell de Santa Fiorentina de Canet de Mar, un monument reformat per Domènech i Montaner a principis del s.XX on s'han rodat sèries com Joc de Trons. Una altra història arrenca aquí amb històries com la de la primera parella homosexual que va intentar casar-se als 80 o com la d'un gerro de vidre que li van regalar a la Carmen Polo als 40 i com la seva rèplica ha estat a casa de l'Anita tots aquests anys.</desc>
-    <length units="minutes">01:02:06</length>
+  <programme start="20261003172947 +0000" channel="sx3" stop="20261003174152 +0000">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">La Monalisa, una amiga que et vol bé</sub-title>
+    <desc lang="ca">Com de costum, la nova poció del druida Voldenix no té l'efecte desitjat i fa que la gata Monalisa i l'Irreductible Devòrix perdin la memòria i es facin bons amics, davant la sorpresa de la banda de les catacumbes, de la legió canina i dels mateixos Irreductibles.</desc>
+    <length units="minutes">00:12:05</length>
   </programme>
-  <programme start="20261003131217 +0000" channel="tv3" stop="20261003135825 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 14</sub-title>
-    <desc lang="ca">Aquí hi trobareu un resum de tot el que ha passat els últims capítols del programa: hem xerrat amb la Judit Mascó, en Llorenç Barba, Els Amics de les Arts i la Júlia Truyol. També hem parlat sobre la capa, el compàs, les puntes de coixí i els dards. I hem sortit a passejar 4 gossos per 4 moments històrics. Que a en Fel no li agrada, però nosaltres ho seguim fent (perquè sí que ens agrada).</desc>
-    <length units="minutes">00:46:08</length>
+  <programme start="20261003171204 +0000" channel="tv3" stop="20261003180416 +0000">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">La península de cap Cors</sub-title>
+    <desc lang="ca">En Jean-Louis conrea castanyes i en fa farina, amb la qual la dona, la Nathalie, fa una mena de creps que es farceixen amb una mena de mató. En Xavier i la Sophie conreen poncems i els confiten. La Valérie fa uns bunyols d'arròs amb salsa bolonyesa enriquida amb bolets, olives i vi blanc. En René fa una llíssera de l'estany de Biguglia enfarinada i fregida amb el budellam, acompanyada d'espaguetis assaonats amb botàriga. En Jean-Noël, la Marine i en Sébastien són viticultors. Treballen sota una microdenominació d'origen i fan vins a petita escala.</desc>
+    <length units="minutes">00:52:12</length>
+  </programme>
+  <programme start="20261003180416 +0000" channel="tv3" stop="20261003184644 +0000">
+    <title lang="ca">Un món de Jocs</title>
+    <sub-title lang="ca">La recerca de la perfecció</sub-title>
+    <desc lang="ca">Som animals que ens enorgullim d'estar al cim de l'ordre natural. Per això, ens esforcem per demostrar que som superiors a la resta, esperem que el nostre talent ens faci més valents i impressionants. Però hi ha res més darrere d'aquestes activitats que l'afany de ser els millors? En aquest episodi, parlarem d'espais de joc on el que compta no és ser els primers de creuar la línia de meta i on els jugadors fan servir els seus cossos per oferir els millors espectacles del món.Surf d'onades gegants, Nazaré, PortugalSalt de penya-segat, MèxicDrifting, CisjordàniaMister Olympia, els Estats Units</desc>
+    <length units="minutes">00:42:28</length>
   </programme>
 </tv>
