@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -15,77 +15,81 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261004115637 +0000" channel="tvi" stop="20261004144545 +0000">
+  <programme start="20261004174313 +0000" channel="tvi" stop="20261004192450 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Assassinat a Vaubona</sub-title>
+    <desc lang="ca">ASSASSINAT A VAUBONA 'Mémoires à vif'Direcció: Julie GaliGuió: Fabien Adda, Delphine ChouraquiProducció: Alef One, BE-FILMSAny: 2023Durada: 90País: FrançaMúsica: Jean-Pierre TaiegFotografia: Philippe GuilbertIntèrprets: Anthony Colette, Valérie Decobert-Koretzky, Liv del Estal, Stéphane Freiss, Isalinde Giovangigli, Salim Kissari, Martin Lamotte, Rabah Loucif, Samy Naceri, Meena Rayann, Blanche Raynal, Liliane Rovère, Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis, els algerians que van combatre al bàndol francès a la guerra d'Algèria, apareix mort al seu domicili el tinent d'alcalde de Vaubona, Fabrice Da Costa. Els comandants de policia Leila Belhassen i Cédric Bonfanti s'encarreguen del cas, que remou les rancúnies i els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</desc>
+    <length units="minutes">01:41:37</length>
+  </programme>
+  <programme start="20261004190744 +0000" channel="tvi" stop="20261004195756 +0000">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">TEATRE</sub-title>
+    <desc lang="ca">Hi haurà una representació teatral a la plaça, a càrrec dels veïns. Retrobaments esperats i inesperats... La Isabel i en Ramon, junts a l'escenari...En Xavier confirma que es tracta d'un noi conflictiu.</desc>
+    <length units="minutes">00:50:12</length>
+  </programme>
+  <programme start="20261004163000 +0000" channel="324" stop="20261004183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11341</sub-title>
+    <sub-title lang="ca">11343</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:49:08</length>
-  </programme>
-  <programme start="20261004144545 +0000" channel="tvi" stop="20261004153519 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7348</sub-title>
-    <length units="minutes">00:49:34</length>
-  </programme>
-  <programme start="20261004120000 +0000" channel="324" stop="20261004143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11342</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20261004143000 +0000" channel="324" stop="20261004163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7348</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261004130000 +0000" channel="esport3" stop="20261004142500 +0000">
-    <title lang="ca">Bàsquet Lliga Endesa ACB Masculina</title>
-    <sub-title lang="ca">iLERNA Lleida-RS San Pablo Burgos / Lliga / J2</sub-title>
-    <desc lang="ca">Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.</desc>
-    <length units="minutes">01:25:00</length>
+  <programme start="20261004183000 +0000" channel="324" stop="20261004200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11344</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261004142500 +0000" channel="esport3" stop="20261004160802 +0000">
-    <title lang="ca">Hípica</title>
-    <sub-title lang="ca">Lliga de les Nacions / CSIO / 2a mànega</sub-title>
-    <desc lang="ca">El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial.</desc>
-    <length units="minutes">01:43:02</length>
+  <programme start="20261004180247 +0000" channel="esport3" stop="20261004190000 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Reus FC Reddis-CE Manresa / Segona Federació / J5</sub-title>
+    <desc lang="ca">Els dos equips tenen 2 victòries i 2 derrotes, i volen decantar la balança cap al costat positiu. Des de la capital del Baix Camp, amb la narració de Jordi Fargas i l'anàlisi de Santi Triguero.</desc>
+    <length units="minutes">00:57:13</length>
   </programme>
-  <programme start="20261004131245 +0000" channel="sx3" stop="20261004133416 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Activem el poder dels nens. 2a part</sub-title>
-    <desc lang="ca">Mentre l'Aviva s'afanya a arreglar el problema dels vestits de poder animal, el Martin, el Chris i la Koki continuen ajudant els amics que els germans Kratt tenen per tot el món a rescatar animals. Però passa el temps i cada vegada hi ha més animals que necessiten ajuda. Llavors, al Chris se li acut una idea: no tenen poders animals, però sí que tenen uns altres poders...</desc>
-    <length units="minutes">00:21:31</length>
+  <programme start="20261004190000 +0000" channel="esport3" stop="20261004194538 +0000">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">GP del Japó</sub-title>
+    <desc lang="ca">Setzena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="minutes">00:45:38</length>
   </programme>
-  <programme start="20261004133416 +0000" channel="sx3" stop="20261004135658 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Dip d'hummus amb verduretes - Suu</sub-title>
-    <desc lang="ca">Amb la jove cantant Suu farem atractius per als més petits els llegums i les verdures. Farem hummus de cigrons de diferents colors. Els trucs que provarem avui seran esprémer una llimona amb un escuradents, i amb un sol ou aconseguir fer 6 ous ferrats. També aprendrem a fer malabars amb farina. I, lògicament, cantarem i ballarem la música de la Suu.</desc>
-    <length units="minutes">00:22:42</length>
+  <programme start="20261004175814 +0000" channel="sx3" stop="20261004180443 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Joc de bruixeria</sub-title>
+    <desc lang="ca">Mentre busca una capsa de gelatina instantània al garatge, en Grizzy troba una caixa plena de figuretes. Entre elles n'hi ha una que se li assembla molt! En Grizzy inventa un joc imaginari en el qual la figureta de l'os es converteix en un gran i poderós mag que ha de preparar una poció de gelatina. Els Lèmmings descobreixen que el mag ha tancat les figueretes en forma de Lèmmings en una gàbia i decideixen seguir-li el joc: els cavallers Lèmmings desafien el mag os.</desc>
+    <length units="minutes">00:06:29</length>
   </programme>
-  <programme start="20261004121757 +0000" channel="tv3" stop="20261004133952 +0000">
-    <title lang="ca">Al Cim</title>
-    <sub-title lang="ca">1</sub-title>
-    <length units="minutes">01:21:55</length>
+  <programme start="20261004180443 +0000" channel="sx3" stop="20261004181113 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Menjar ràpid</sub-title>
+    <desc lang="ca">En Grizzy i els Lèmmings estan afamats, perquè se'ls han acabat les reserves de menjar i no han tingut èxit amb la pesca. Per sort, un camió entrega una caixa de vitualles a l'estació d'investigació. Dins la caixa hi ha menjar compactat que, quan passa per uns rajos especials, es converteix en un plat deliciós. En Grizzy descobreix que aquesta làmpada especial també pot compactar qualsevol element orgànic. Per exemple, els Lèmmings.</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20261004133952 +0000" channel="tv3" stop="20261004142657 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La medalla</sub-title>
-    <desc lang="ca">Els esportistes, quan guanyen medalles, molt sovint es fan fotos mossegant-les. Sabeu que això es va començar a fer amb l'objectiu de comprovar si la medalla era d'or real? Si quan la mossegues és tova, vol dir que és or verdader. Heu de saber que no són d'or, només n'estan recobertes. Dediquem aquest capítol a la medalla. Ens visita l'Anna Barrachina, amb qui repassem la seva carrera com a actriu i els seus personatges més recordats. A 'Històries per passejar el gos' sortim amb la Neula pel descobriment del tresor de Hoxne, el 1992.</desc>
-    <length units="minutes">00:47:05</length>
+  <programme start="20261004174122 +0000" channel="tv3" stop="20261004181009 +0000">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Budir - Islàndia</sub-title>
+    <desc lang="ca">Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
+    <length units="minutes">00:28:47</length>
   </programme>
-  <programme start="20261004115434 +0000" channel="tv3" stop="20261004140929 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- iLERNA Lleida-RS San Pablo Burgos / Lliga / J2</sub-title>
-    <desc lang="ca">Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.</desc>
-    <length units="minutes">02:14:55</length>
+  <programme start="20261004181009 +0000" channel="tv3" stop="20261004183612 +0000">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Qasr Al Sarab d'Anantara - Emirats Àrabs Units</sub-title>
+    <desc lang="ca">Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.</desc>
+    <length units="minutes">00:26:03</length>
   </programme>
-  <programme start="20261004130238 +0000" channel="tv3" stop="20261004140233 +0000">
-    <title lang="ca">Illa compareix per l'episodi de pluges torrencials</title>
-    <sub-title lang="ca">4150</sub-title>
-    <length units="minutes">00:59:55</length>
+  <programme start="20261004160144 +0000" channel="tv3" stop="20261004210500 +0000">
+    <title lang="ca">Diades Castelleres Especials</title>
+    <sub-title lang="ca">- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 1)</sub-title>
+    <desc lang="ca">Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12</desc>
+    <length units="minutes">05:03:16</length>
   </programme>
-  <programme start="20261004060241 +0000" channel="tv3" stop="20261004160000 +0000">
+  <programme start="20261004165158 +0000" channel="tv3" stop="20261004215158 +0000">
     <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <sub-title lang="ca">4148</sub-title>
-    <length units="minutes">09:57:19</length>
+    <sub-title lang="ca">4151</sub-title>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261004164800 +0000" channel="tv3" stop="20261004180755 +0000">
+    <title lang="ca">Hípica</title>
+    <sub-title lang="ca">- Lliga de les Nacions / CSIO / 2a mànega</sub-title>
+    <desc lang="ca">El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial.</desc>
+    <length units="minutes">01:19:55</length>
   </programme>
 </tv>
