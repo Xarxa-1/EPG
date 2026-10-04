@@ -6,78 +6,86 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20261004002527 +0000" channel="tvi" stop="20261004060000 +0000">
+  <programme start="20261004115637 +0000" channel="tvi" stop="20261004144545 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11339</sub-title>
+    <sub-title lang="ca">11341</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:34:33</length>
+    <length units="minutes">02:49:08</length>
   </programme>
-  <programme start="20261004060000 +0000" channel="tvi" stop="20261004090000 +0000">
+  <programme start="20261004144545 +0000" channel="tvi" stop="20261004153519 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7348</sub-title>
+    <length units="minutes">00:49:34</length>
+  </programme>
+  <programme start="20261004120000 +0000" channel="324" stop="20261004143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11340</sub-title>
+    <sub-title lang="ca">11342</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261004010000 +0000" channel="324" stop="20261004060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11339</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261004143000 +0000" channel="324" stop="20261004163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7348</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261004060000 +0000" channel="324" stop="20261004090000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11340</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+  <programme start="20261004130000 +0000" channel="esport3" stop="20261004142500 +0000">
+    <title lang="ca">Bàsquet Lliga Endesa ACB Masculina</title>
+    <sub-title lang="ca">iLERNA Lleida-RS San Pablo Burgos / Lliga / J2</sub-title>
+    <desc lang="ca">Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.</desc>
+    <length units="minutes">01:25:00</length>
   </programme>
-  <programme start="20261004005657 +0000" channel="esport3" stop="20261004060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11339</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:03:03</length>
+  <programme start="20261004142500 +0000" channel="esport3" stop="20261004160802 +0000">
+    <title lang="ca">Hípica</title>
+    <sub-title lang="ca">Lliga de les Nacions / CSIO / 2a mànega</sub-title>
+    <desc lang="ca">El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial.</desc>
+    <length units="minutes">01:43:02</length>
   </programme>
-  <programme start="20261004060000 +0000" channel="esport3" stop="20261004090000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11340</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+  <programme start="20261004131245 +0000" channel="sx3" stop="20261004133416 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Activem el poder dels nens. 2a part</sub-title>
+    <desc lang="ca">Mentre l'Aviva s'afanya a arreglar el problema dels vestits de poder animal, el Martin, el Chris i la Koki continuen ajudant els amics que els germans Kratt tenen per tot el món a rescatar animals. Però passa el temps i cada vegada hi ha més animals que necessiten ajuda. Llavors, al Chris se li acut una idea: no tenen poders animals, però sí que tenen uns altres poders...</desc>
+    <length units="minutes">00:21:31</length>
   </programme>
-  <programme start="20261004050725 +0000" channel="sx3" stop="20261004051324 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El superxai</sub-title>
-    <desc lang="ca">Els porcs estan empipant tots els animals de la granja, quan de sobre apareix un heroi del no-res. Amb un vestit que sembla tret de l'estenedor de roba i amb un bufador de fulles incorporat, el Superxai torna a portar la pau la granja... fins que els porcs descobreixen qui és de veritat.</desc>
-    <length units="minutes">00:05:59</length>
+  <programme start="20261004133416 +0000" channel="sx3" stop="20261004135658 +0000">
+    <title lang="ca">Manduka</title>
+    <sub-title lang="ca">Dip d'hummus amb verduretes - Suu</sub-title>
+    <desc lang="ca">Amb la jove cantant Suu farem atractius per als més petits els llegums i les verdures. Farem hummus de cigrons de diferents colors. Els trucs que provarem avui seran esprémer una llimona amb un escuradents, i amb un sol ou aconseguir fer 6 ous ferrats. També aprendrem a fer malabars amb farina. I, lògicament, cantarem i ballarem la música de la Suu.</desc>
+    <length units="minutes">00:22:42</length>
   </programme>
-  <programme start="20261004051324 +0000" channel="sx3" stop="20261004051924 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El tour de la granja</sub-title>
-    <desc lang="ca">El granger està en molt mala forma física, i el Shaun decideix animar-lo a recuperar-la fent servir una improvisada bicicleta estàtica que ha muntat amb una que era a la pila de deixalles. La bicicleta salta de la fixació i de seguida la tenim amb el seu ciclista improvisat corrent amunt i avall per la granja amb el Shaun, el Bitzer i la resta perseguint-lo.</desc>
-    <length units="minutes">00:06:00</length>
+  <programme start="20261004121757 +0000" channel="tv3" stop="20261004133952 +0000">
+    <title lang="ca">Al Cim</title>
+    <sub-title lang="ca">1</sub-title>
+    <length units="minutes">01:21:55</length>
   </programme>
-  <programme start="20261004045923 +0000" channel="tv3" stop="20261004051332 +0000">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Ernest Sitjes</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="minutes">00:14:09</length>
+  <programme start="20261004133952 +0000" channel="tv3" stop="20261004142657 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La medalla</sub-title>
+    <desc lang="ca">Els esportistes, quan guanyen medalles, molt sovint es fan fotos mossegant-les. Sabeu que això es va començar a fer amb l'objectiu de comprovar si la medalla era d'or real? Si quan la mossegues és tova, vol dir que és or verdader. Heu de saber que no són d'or, només n'estan recobertes. Dediquem aquest capítol a la medalla. Ens visita l'Anna Barrachina, amb qui repassem la seva carrera com a actriu i els seus personatges més recordats. A 'Històries per passejar el gos' sortim amb la Neula pel descobriment del tresor de Hoxne, el 1992.</desc>
+    <length units="minutes">00:47:05</length>
   </programme>
-  <programme start="20261004051332 +0000" channel="tv3" stop="20261004052731 +0000">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Gemma Clarena</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="minutes">00:13:59</length>
+  <programme start="20261004115434 +0000" channel="tv3" stop="20261004140929 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- iLERNA Lleida-RS San Pablo Burgos / Lliga / J2</sub-title>
+    <desc lang="ca">Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.</desc>
+    <length units="minutes">02:14:55</length>
   </programme>
-  <programme start="20261004030814 +0000" channel="tv3" stop="20261004113400 +0000">
+  <programme start="20261004130238 +0000" channel="tv3" stop="20261004140233 +0000">
+    <title lang="ca">Illa compareix per l'episodi de pluges torrencials</title>
+    <sub-title lang="ca">4150</sub-title>
+    <length units="minutes">00:59:55</length>
+  </programme>
+  <programme start="20261004060241 +0000" channel="tv3" stop="20261004160000 +0000">
     <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <sub-title lang="ca">4147</sub-title>
-    <length units="minutes">08:25:46</length>
+    <sub-title lang="ca">4148</sub-title>
+    <length units="minutes">09:57:19</length>
   </programme>
 </tv>
