@@ -3,8 +3,8 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -12,84 +12,72 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261004174313 +0000" channel="tvi" stop="20261004192450 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Assassinat a Vaubona</sub-title>
-    <desc lang="ca">ASSASSINAT A VAUBONA 'Mémoires à vif'Direcció: Julie GaliGuió: Fabien Adda, Delphine ChouraquiProducció: Alef One, BE-FILMSAny: 2023Durada: 90País: FrançaMúsica: Jean-Pierre TaiegFotografia: Philippe GuilbertIntèrprets: Anthony Colette, Valérie Decobert-Koretzky, Liv del Estal, Stéphane Freiss, Isalinde Giovangigli, Salim Kissari, Martin Lamotte, Rabah Loucif, Samy Naceri, Meena Rayann, Blanche Raynal, Liliane Rovère, Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis, els algerians que van combatre al bàndol francès a la guerra d'Algèria, apareix mort al seu domicili el tinent d'alcalde de Vaubona, Fabrice Da Costa. Els comandants de policia Leila Belhassen i Cédric Bonfanti s'encarreguen del cas, que remou les rancúnies i els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</desc>
-    <length units="minutes">01:41:37</length>
+  <programme start="20261004222856 +0000" channel="tvi" stop="20261004234607 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">2</sub-title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="minutes">01:17:11</length>
   </programme>
-  <programme start="20261004190744 +0000" channel="tvi" stop="20261004195756 +0000">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">TEATRE</sub-title>
-    <desc lang="ca">Hi haurà una representació teatral a la plaça, a càrrec dels veïns. Retrobaments esperats i inesperats... La Isabel i en Ramon, junts a l'escenari...En Xavier confirma que es tracta d'un noi conflictiu.</desc>
-    <length units="minutes">00:50:12</length>
-  </programme>
-  <programme start="20261004163000 +0000" channel="324" stop="20261004183000 +0000">
+  <programme start="20261004234607 +0000" channel="tvi" stop="20261005002514 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11343</sub-title>
+    <sub-title lang="ca">11346</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:39:07</length>
+  </programme>
+  <programme start="20261004210000 +0000" channel="324" stop="20261004230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7347</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261004183000 +0000" channel="324" stop="20261004200000 +0000">
+  <programme start="20261004230000 +0000" channel="324" stop="20261005003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11344</sub-title>
+    <sub-title lang="ca">11346</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261004180247 +0000" channel="esport3" stop="20261004190000 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Reus FC Reddis-CE Manresa / Segona Federació / J5</sub-title>
-    <desc lang="ca">Els dos equips tenen 2 victòries i 2 derrotes, i volen decantar la balança cap al costat positiu. Des de la capital del Baix Camp, amb la narració de Jordi Fargas i l'anàlisi de Santi Triguero.</desc>
-    <length units="minutes">00:57:13</length>
+  <programme start="20261004223157 +0000" channel="esport3" stop="20261004230000 +0000">
+    <title lang="ca">WRC</title>
+    <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J3</sub-title>
+    <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.</desc>
+    <length units="minutes">00:28:03</length>
   </programme>
-  <programme start="20261004190000 +0000" channel="esport3" stop="20261004194538 +0000">
-    <title lang="ca">Motor a fons</title>
-    <sub-title lang="ca">GP del Japó</sub-title>
-    <desc lang="ca">Setzena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <length units="minutes">00:45:38</length>
+  <programme start="20261004230000 +0000" channel="esport3" stop="20261005000204 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">01:02:04</length>
   </programme>
-  <programme start="20261004175814 +0000" channel="sx3" stop="20261004180443 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Joc de bruixeria</sub-title>
-    <desc lang="ca">Mentre busca una capsa de gelatina instantània al garatge, en Grizzy troba una caixa plena de figuretes. Entre elles n'hi ha una que se li assembla molt! En Grizzy inventa un joc imaginari en el qual la figureta de l'os es converteix en un gran i poderós mag que ha de preparar una poció de gelatina. Els Lèmmings descobreixen que el mag ha tancat les figueretes en forma de Lèmmings en una gàbia i decideixen seguir-li el joc: els cavallers Lèmmings desafien el mag os.</desc>
-    <length units="minutes">00:06:29</length>
+  <programme start="20261004223347 +0000" channel="sx3" stop="20261004224433 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Gnom hi ha cap lloc com a casa</sub-title>
+    <desc lang="ca">L'Albert truca la Tropa: l'han d'ajudar, el persegueix un gnom de jardí! Els nostres herois li intenten demostrar que només és una estàtua però, sense voler, l'acaben convencent que és ben real i ara està més espantat que mai.</desc>
+    <length units="minutes">00:10:46</length>
   </programme>
-  <programme start="20261004180443 +0000" channel="sx3" stop="20261004181113 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Menjar ràpid</sub-title>
-    <desc lang="ca">En Grizzy i els Lèmmings estan afamats, perquè se'ls han acabat les reserves de menjar i no han tingut èxit amb la pesca. Per sort, un camió entrega una caixa de vitualles a l'estació d'investigació. Dins la caixa hi ha menjar compactat que, quan passa per uns rajos especials, es converteix en un plat deliciós. En Grizzy descobreix que aquesta làmpada especial també pot compactar qualsevol element orgànic. Per exemple, els Lèmmings.</desc>
-    <length units="minutes">00:06:30</length>
+  <programme start="20261004224433 +0000" channel="sx3" stop="20261004225528 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Un desastre somnàmbul</sub-title>
+    <desc lang="ca">Quan els habitants de Vilanimal es comencen a despertar a cases que no són les seves, truquen la Tropa perquè els ajudi a resoldre el misteri. Aviat descobreixen que el responsable de tot aquest desgavell és en Cornelius, que és somnàmbul! Ara el problema serà aturar-lo.</desc>
+    <length units="minutes">00:10:55</length>
   </programme>
-  <programme start="20261004174122 +0000" channel="tv3" stop="20261004181009 +0000">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Budir - Islàndia</sub-title>
-    <desc lang="ca">Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
-    <length units="minutes">00:28:47</length>
+  <programme start="20261004220037 +0000" channel="tv3" stop="20261004233756 +0000">
+    <title lang="ca">Pel.lícula</title>
+    <sub-title lang="ca">Pau, la força d'un silenci</sub-title>
+    <desc lang="ca">Pau, la força d'un silenciProductores :Televisió de Catalunya, Minoria Absoluta i Euskal Telebista amb el suport d'Institut Català de les Empreses Culturals. 2017Director : Manuel HuergaProductor : Francesc EscribanoProductora executiva TVC : Elisa PlazaGuió : Jordi Vallejo i Maria JaénDirector fotografia : Mario MonteroComposició musical : Xavi CapellasIntèrprets : Joan Pera( Pau Casals), Nao Albet (Pierre Fermat), Carme Sansa ( Frasquita Capdevila), Marc Cartes (Schneider), Albert Pérez (Antoine Giraud), Joan Carreras (Heimlich), Josean Bengoetxea (MIkel), David Bagès (Enric Casals), Manel Dueso ( Doctor Puig)Sinopsi :Exiliat a Prada de Conflent, Pau Casals, considerat el millor intèrpret del moment, ha decidit no tocar més en públic fins que la dictadura de Franco no caigui. Pierre, un jove francès a qui el mestre fa classes, intentarà convèncer-lo que faci un concert extraordinari que pot convertir-se en un homenatge a la llibertat.</desc>
+    <length units="minutes">01:37:19</length>
   </programme>
-  <programme start="20261004181009 +0000" channel="tv3" stop="20261004183612 +0000">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Qasr Al Sarab d'Anantara - Emirats Àrabs Units</sub-title>
-    <desc lang="ca">Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.</desc>
-    <length units="minutes">00:26:03</length>
+  <programme start="20261004233756 +0000" channel="tv3" stop="20261005001536 +0000">
+    <title lang="ca">Les nacions prohibides. Ciemen</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">A l'escola aprenem que el món es divideix en països, separats per fronteres que semblen òbvies. Però moltes d'aquelles ratlles són arbitràries, i sota el mapa oficial bateguen realitats diferents: llengües, cultures i nacions soterrades. Les nacions prohibides és la història dels qui s'han dedicat a fer-les visibles. Al centre del relat hi ha el CIEMEN –Centre Internacional Escarré per a les Minories Ètniques i les Nacions&amp;mdash; i el seu fundador, Aureli Argemí. Fundat a Milà el 1974, a l'exili, el CIEMEN va voler defensar la identitat catalana i connectar-la, alhora, amb totes les nacions sense estat i les llengües minoritzades del món. A través de les veus de Jordi Sànchez, Carles Riera, David Minoves, Mònica Sabata, Anne Degenève i Omaira Beltran, el documental ressegueix de quina manera aquesta entitat va ser el motor a l'ombra de la Crida a la Solidaritat i el 'Som una Nació' del Camp Nou, com va portar la causa catalana a Europa i a la UNESCO, com va impulsar la Declaració Universal dels Drets Lingüístics i la solidaritat amb els pobles d'arreu, i com va ser el bressol de la Plataforma pel Dret de Decidir, llavor de l'1 d'Octubre del 2017. Un retrat coral d'Argemí –l'ànima intel·lectual, el mestre, l'home dels acudits– i una manera de fer país: discreta, internacionalista i tossuda. Perquè els mapes oficials continuen amagant nacions i sempre hi haurà qui s'entesti a dibuixar-ne de noves.</desc>
+    <length units="minutes">00:37:40</length>
   </programme>
-  <programme start="20261004160144 +0000" channel="tv3" stop="20261004210500 +0000">
+  <programme start="20261004194514 +0000" channel="tv3" stop="20261004234514 +0000">
     <title lang="ca">Diades Castelleres Especials</title>
-    <sub-title lang="ca">- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 1)</sub-title>
+    <sub-title lang="ca">- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 2)</sub-title>
     <desc lang="ca">Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12</desc>
-    <length units="minutes">05:03:16</length>
-  </programme>
-  <programme start="20261004165158 +0000" channel="tv3" stop="20261004215158 +0000">
-    <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <sub-title lang="ca">4151</sub-title>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20261004164800 +0000" channel="tv3" stop="20261004180755 +0000">
-    <title lang="ca">Hípica</title>
-    <sub-title lang="ca">- Lliga de les Nacions / CSIO / 2a mànega</sub-title>
-    <desc lang="ca">El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial.</desc>
-    <length units="minutes">01:19:55</length>
+    <length units="minutes">04:00:00</length>
   </programme>
 </tv>
