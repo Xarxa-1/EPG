@@ -1,81 +1,83 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261003210000 +0000" channel="tvi" stop="20261003220455 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7346</sub-title>
-    <length units="minutes">01:04:55</length>
-  </programme>
-  <programme start="20261003220455 +0000" channel="tvi" stop="20261003230655 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">155</sub-title>
-    <desc lang="ca">La crisi de l'habitatge a 'Col·lapse'. Jordi González visita la casa d'Ivan Giesen, al barri del Poblenou de Barcelona. Coneixerem la seva història personal. L'han intentat desnonar en dues ocasions i ara viu pendent d'una negociació amb els propietaris que no arriba mai.  Pilar Eyre ens despulla la monarquia espanyola amb tot luxe de detalls en la seva nova novel·la 'Sucesión'. L'actor Marcos Franz explicarà el malson que va viure quan protagonitzava la sèrie 'Merlí' i de quina manera va afectar a totes les àrees de la seva vida privada. Parlarem amb Lluís Soler, una de les grans veus de Catalunya que es va fer especialment popular per ser 'el violador' d'El Cor de la ciutat. Hem visitat Macondo Park amb el promotor de concerts i president de Live Nation Pino Sagliocco i parlem els pros i contres d'aquesta residència musical que ha portat Shakira a Europa durant un mes amb l'analista musical Oscar Nin i una fan incondicional Meritxell Falgueras. L'Àngel Llacer estrena la seva particular secció titulada 'L'àngel de la guarda'.</desc>
-    <length units="minutes">01:02:00</length>
-  </programme>
-  <programme start="20261003210000 +0000" channel="324" stop="20261003230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7346</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261003230000 +0000" channel="324" stop="20261004003000 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261004002527 +0000" channel="tvi" stop="20261004060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11338</sub-title>
+    <sub-title lang="ca">11339</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">05:34:33</length>
   </programme>
-  <programme start="20261003192706 +0000" channel="esport3" stop="20261003224340 +0000">
-    <title lang="ca">CURSES DE MUNTANYA</title>
-    <sub-title lang="ca">- MARATÓ PIRINEU</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">03:16:34</length>
+  <programme start="20261004060000 +0000" channel="tvi" stop="20261004090000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11340</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20261003224340 +0000" channel="esport3" stop="20261003230433 +0000">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Lamine Yamal, exhibició cap a la pilota d'or</sub-title>
-    <desc lang="ca">Lamine Yamal ha demostrat en un parell de partits amb la selecció espanyola, perquè és el candidat a guanyar la pilota d'or, amb una exhibició de joc, 3 gols i una assistència.Siderland acomiada el programa amb la seva nova cançó, 'L'última'.</desc>
-    <length units="minutes">00:20:53</length>
+  <programme start="20261004010000 +0000" channel="324" stop="20261004060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11339</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261003221333 +0000" channel="sx3" stop="20261003222403 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">L'esquinç de la discòrdia</sub-title>
-    <desc lang="ca">Mentre mira de fer respectar l'ordre al pis, el Dad es fa un esquinç alturmell, la qual cosa obligarà els seus pares, el Michel i la Michelle, a venir per ocupar-se de les seves filles mentre es recupera. Però quan els avis transformen la vida quotidiana de la família en un autèntic infern, les noies hauran de trobar una solució per demostrar-los que se'n poden sortir prou bé sense ells.</desc>
-    <length units="minutes">00:10:30</length>
+  <programme start="20261004060000 +0000" channel="324" stop="20261004090000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11340</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20261003222403 +0000" channel="sx3" stop="20261003223438 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Com el gat i el gos</sub-title>
-    <desc lang="ca">La Roxane mira de convèncer el Dad perquè li deixi tenir una mascota, però ell s'hi nega en rodó, i posa com a excusa sobretot les al·lèrgies de laPanda. Alhora, l'Ondine ha agafat una feineta per poder guanyar uns calerons i comprar-se roba: cuidar el gos de la senyora Crochon. Però quan li truca la seva amiga Béa per quedar, deixa el gos sol a casa i s'embolica la troca.</desc>
-    <length units="minutes">00:10:35</length>
+  <programme start="20261004005657 +0000" channel="esport3" stop="20261004060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11339</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:03:03</length>
   </programme>
-  <programme start="20261003220347 +0000" channel="tv3" stop="20261003222111 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Una bona història</sub-title>
-    <desc lang="ca">Quins són els elements que fan que una història funcioni, atrapi l'espectador i no el deixi anar? Hi ha fórmules infal·libles o cadascú troba els seus viaranys? Per al director de cinema Kike Maíllo i el guionista Markos Goikolea, que han estrenat el documental 'La supervivent' a 3Cat, una bona història ha de tenir un bon personatge, ha d'apel·lar a una pulsió humana universal i ha d'aconseguir una estructura dramàtica que capti i mantingui l'atenció de l'espectador. Per a la periodista Teresa Turiera-Puigbò, investigadora del col·lectiu 'Cultura i conflicte', que han estrenat al teatre La Biblioteca de Barcelona l'obra 'No miris', una bona història no cal que sigui èpica. Les bones històries es troben quan vas estirant del fil de les vides de la gent 'normal', perquè sempre trobes sorpreses amagades darrere dels fets que semblen més quotidians. I per a la guionista Valentina Viso, una bona història sempre ha de tenir emoció i veu pròpia, no ha de seguir el camí habitual, sinó tot el contrari, boicotejar les respostes més òbvies. Ella té una veu autoritzada per parlar d'històries, ja que és responsable de molts dels guions de les pel·lícules d'èxit firmades per la nova onada de directores catalanes, com 'Tres dies amb la família' (2009), 'Tots volem el millor per a ella' (2013), 'María (y los demás)' (2016), 'Salve Maria'(2024), 'Viva' (2026) o la sèrie 'Això no és Suècia' (2023).</desc>
-    <length units="minutes">00:17:24</length>
+  <programme start="20261004060000 +0000" channel="esport3" stop="20261004090000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11340</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:00:00</length>
   </programme>
-  <programme start="20261003222111 +0000" channel="tv3" stop="20261003234325 +0000">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Supernatural</sub-title>
-    <desc lang="ca">'Supernatural' (2025) una producció de Nanouk Films, en coproducció amb Harald House, Massala Productions, Glia Films, 3Cat, la col·laboració de RTVE, Filmin i el suport de l'ICEC, l' ICAA, Europe Creative Media, Eurimages.Moltes persones creuen que Malby, un famós xaman i guaridor espiritual, posseïa poders sobrenaturals. El seu propi fill, Mathu, però, no ho creu. Mathu s'ha convertit, amb el temps, en l'antítesi del seu pare. Mentre que Malby era un hedonista i un faldiller, Mathu és un metge convencional que viu en harmonia amb la seva família. Però la seva aparent tranquil·litat comença a trontollar quan l'Anna Alarcón, actriu i una fervent creient de Malby, contacta amb ell. L'Anna li explica la seva convicció que el seu pare li va salvar la vida a través d'una curació telepàtica. Aquest fet duu a Mathu a enfrontar-se al seu propi trauma familiar mentre desafia les creences esotèriques de l'Anna. La confrontació entre tots dos es converteix en una exploració dels límits entre la ciència i la màgia.Equip:Direcció, guió i realització: Ventura DurallProductor: Ventura Durall, Sergi Cameron, Charlotte Guénin, Kristien Van Der HeydenProductor executiu 3Cat: David Bassa Cabanas, Silvia Pairó VilaCoordinació de continguts 3Cat: Agustí Argelich Gironès, Ricard Belis GarciaProductor delegat 3Cat: Daniel Barea DelgadoDirector de fotografia: Núria GascónMuntatge: Maria CastanDirector de producció: Ona BallóMúsica: Justine Bourgeus</desc>
-    <length units="minutes">01:22:14</length>
+  <programme start="20261004050725 +0000" channel="sx3" stop="20261004051324 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">El superxai</sub-title>
+    <desc lang="ca">Els porcs estan empipant tots els animals de la granja, quan de sobre apareix un heroi del no-res. Amb un vestit que sembla tret de l'estenedor de roba i amb un bufador de fulles incorporat, el Superxai torna a portar la pau la granja... fins que els porcs descobreixen qui és de veritat.</desc>
+    <length units="minutes">00:05:59</length>
   </programme>
-  <programme start="20261003195512 +0000" channel="tv3" stop="20261003222503 +0000">
+  <programme start="20261004051324 +0000" channel="sx3" stop="20261004051924 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">El tour de la granja</sub-title>
+    <desc lang="ca">El granger està en molt mala forma física, i el Shaun decideix animar-lo a recuperar-la fent servir una improvisada bicicleta estàtica que ha muntat amb una que era a la pila de deixalles. La bicicleta salta de la fixació i de seguida la tenim amb el seu ciclista improvisat corrent amunt i avall per la granja amb el Shaun, el Bitzer i la resta perseguint-lo.</desc>
+    <length units="minutes">00:06:00</length>
+  </programme>
+  <programme start="20261004045923 +0000" channel="tv3" stop="20261004051332 +0000">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Ernest Sitjes</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="minutes">00:14:09</length>
+  </programme>
+  <programme start="20261004051332 +0000" channel="tv3" stop="20261004052731 +0000">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Gemma Clarena</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="minutes">00:13:59</length>
+  </programme>
+  <programme start="20261004030814 +0000" channel="tv3" stop="20261004113400 +0000">
     <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
     <sub-title lang="ca">4147</sub-title>
-    <length units="minutes">02:29:51</length>
+    <length units="minutes">08:25:46</length>
   </programme>
 </tv>
