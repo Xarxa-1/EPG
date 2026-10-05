@@ -3,81 +3,76 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20261004222856 +0000" channel="tvi" stop="20261004234607 +0000">
-    <title lang="ca">Vèrtex</title>
-    <sub-title lang="ca">2</sub-title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="minutes">01:17:11</length>
+  <programme start="20261005040000 +0000" channel="tvi" stop="20261005050000 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">David Philips</sub-title>
+    <desc lang="ca">Cantautor del Regne Unit que ens presenta un repertori a cavall del blues i el folk americà. En ocasions ens pot evocar atmosferes de rock acústic com les de Ry Cooder, Kelly Joe Phelps o Amos Lee. Però, sens dubte, Philips té un estil propi. Caspar St. Charles a la bateria, Thomas Kent Warburton, al baix; Abel Boquera als teclats i el mateix David Philips a la guitarra i veu.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261004234607 +0000" channel="tvi" stop="20261005002514 +0000">
+  <programme start="20261005050000 +0000" channel="tvi" stop="20261005055942 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Victor de Diego</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">00:59:42</length>
+  </programme>
+  <programme start="20261005010000 +0000" channel="324" stop="20261005060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11346</sub-title>
+    <sub-title lang="ca">11347</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:39:07</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261004210000 +0000" channel="324" stop="20261004230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7347</sub-title>
+  <programme start="20261005060000 +0000" channel="324" stop="20261005080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11348</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261004230000 +0000" channel="324" stop="20261005003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11346</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261005040807 +0000" channel="esport3" stop="20261005060322 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">iLERNA Lleida-RS San Pablo Burgos / Lliga / J2</sub-title>
+    <desc lang="ca">Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.</desc>
+    <length units="minutes">01:55:15</length>
   </programme>
-  <programme start="20261004223157 +0000" channel="esport3" stop="20261004230000 +0000">
+  <programme start="20261005060322 +0000" channel="esport3" stop="20261005062955 +0000">
     <title lang="ca">WRC</title>
     <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J3</sub-title>
     <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.</desc>
-    <length units="minutes">00:28:03</length>
+    <length units="minutes">00:26:33</length>
   </programme>
-  <programme start="20261004230000 +0000" channel="esport3" stop="20261005000204 +0000">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">01:02:04</length>
+  <programme start="20261005043740 +0000" channel="sx3" stop="20261005044915 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Un espectacle preciós</sub-title>
+    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
+    <length units="minutes">00:11:35</length>
   </programme>
-  <programme start="20261004223347 +0000" channel="sx3" stop="20261004224433 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Gnom hi ha cap lloc com a casa</sub-title>
-    <desc lang="ca">L'Albert truca la Tropa: l'han d'ajudar, el persegueix un gnom de jardí! Els nostres herois li intenten demostrar que només és una estàtua però, sense voler, l'acaben convencent que és ben real i ara està més espantat que mai.</desc>
-    <length units="minutes">00:10:46</length>
+  <programme start="20261005044915 +0000" channel="sx3" stop="20261005045555 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Va, Bitzer, va!</sub-title>
+    <desc lang="ca">El Bitzer ha estat vençut i humiliat pel gos del Ben, el Lexie, en la cursa del Gran Premi de karts. En veure aquest escarni que ha patit el seu amic, el Shaun decideix fer alguna cosa perquè la pròxima vegada les coses siguin una mica diferents.1</desc>
+    <length units="minutes">00:06:40</length>
   </programme>
-  <programme start="20261004224433 +0000" channel="sx3" stop="20261004225528 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Un desastre somnàmbul</sub-title>
-    <desc lang="ca">Quan els habitants de Vilanimal es comencen a despertar a cases que no són les seves, truquen la Tropa perquè els ajudi a resoldre el misteri. Aviat descobreixen que el responsable de tot aquest desgavell és en Cornelius, que és somnàmbul! Ara el problema serà aturar-lo.</desc>
-    <length units="minutes">00:10:55</length>
+  <programme start="20261005044401 +0000" channel="tv3" stop="20261005045825 +0000">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Familia Domènech</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="minutes">00:14:24</length>
   </programme>
-  <programme start="20261004220037 +0000" channel="tv3" stop="20261004233756 +0000">
-    <title lang="ca">Pel.lícula</title>
-    <sub-title lang="ca">Pau, la força d'un silenci</sub-title>
-    <desc lang="ca">Pau, la força d'un silenciProductores :Televisió de Catalunya, Minoria Absoluta i Euskal Telebista amb el suport d'Institut Català de les Empreses Culturals. 2017Director : Manuel HuergaProductor : Francesc EscribanoProductora executiva TVC : Elisa PlazaGuió : Jordi Vallejo i Maria JaénDirector fotografia : Mario MonteroComposició musical : Xavi CapellasIntèrprets : Joan Pera( Pau Casals), Nao Albet (Pierre Fermat), Carme Sansa ( Frasquita Capdevila), Marc Cartes (Schneider), Albert Pérez (Antoine Giraud), Joan Carreras (Heimlich), Josean Bengoetxea (MIkel), David Bagès (Enric Casals), Manel Dueso ( Doctor Puig)Sinopsi :Exiliat a Prada de Conflent, Pau Casals, considerat el millor intèrpret del moment, ha decidit no tocar més en públic fins que la dictadura de Franco no caigui. Pierre, un jove francès a qui el mestre fa classes, intentarà convèncer-lo que faci un concert extraordinari que pot convertir-se en un homenatge a la llibertat.</desc>
-    <length units="minutes">01:37:19</length>
-  </programme>
-  <programme start="20261004233756 +0000" channel="tv3" stop="20261005001536 +0000">
-    <title lang="ca">Les nacions prohibides. Ciemen</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">A l'escola aprenem que el món es divideix en països, separats per fronteres que semblen òbvies. Però moltes d'aquelles ratlles són arbitràries, i sota el mapa oficial bateguen realitats diferents: llengües, cultures i nacions soterrades. Les nacions prohibides és la història dels qui s'han dedicat a fer-les visibles. Al centre del relat hi ha el CIEMEN –Centre Internacional Escarré per a les Minories Ètniques i les Nacions&amp;mdash; i el seu fundador, Aureli Argemí. Fundat a Milà el 1974, a l'exili, el CIEMEN va voler defensar la identitat catalana i connectar-la, alhora, amb totes les nacions sense estat i les llengües minoritzades del món. A través de les veus de Jordi Sànchez, Carles Riera, David Minoves, Mònica Sabata, Anne Degenève i Omaira Beltran, el documental ressegueix de quina manera aquesta entitat va ser el motor a l'ombra de la Crida a la Solidaritat i el 'Som una Nació' del Camp Nou, com va portar la causa catalana a Europa i a la UNESCO, com va impulsar la Declaració Universal dels Drets Lingüístics i la solidaritat amb els pobles d'arreu, i com va ser el bressol de la Plataforma pel Dret de Decidir, llavor de l'1 d'Octubre del 2017. Un retrat coral d'Argemí –l'ànima intel·lectual, el mestre, l'home dels acudits– i una manera de fer país: discreta, internacionalista i tossuda. Perquè els mapes oficials continuen amagant nacions i sempre hi haurà qui s'entesti a dibuixar-ne de noves.</desc>
-    <length units="minutes">00:37:40</length>
-  </programme>
-  <programme start="20261004194514 +0000" channel="tv3" stop="20261004234514 +0000">
-    <title lang="ca">Diades Castelleres Especials</title>
-    <sub-title lang="ca">- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 2)</sub-title>
-    <desc lang="ca">Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12</desc>
-    <length units="minutes">04:00:00</length>
+  <programme start="20261005045825 +0000" channel="tv3" stop="20261005051209 +0000">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Sergi Sánchez</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="minutes">00:13:44</length>
   </programme>
 </tv>
