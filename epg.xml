@@ -1,81 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261005143000 +0000" channel="tvi" stop="20261005153329 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7349</sub-title>
-    <length units="minutes">01:03:29</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261006005712 +0000" channel="tvi" stop="20261006024159 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2173</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:44:47</length>
   </programme>
-  <programme start="20261005153329 +0000" channel="tvi" stop="20261005155738 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Brunyols de recuit de drap</sub-title>
-    <desc lang="ca">Gessamí Caramés ens porta una recepta que uneix dos dels seus productes preferits. Combinant els brunyols de l'Empordà i el recuit de drap, cuina unes postres de categoria.</desc>
-    <length units="minutes">00:24:09</length>
+  <programme start="20261006024159 +0000" channel="tvi" stop="20261006040000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11356</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:18:01</length>
   </programme>
-  <programme start="20261005143000 +0000" channel="324" stop="20261005153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7349</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261006010000 +0000" channel="324" stop="20261006060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11356</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261005153000 +0000" channel="324" stop="20261005160000 +0000">
-    <title lang="ca">3CatInfo en aranès</title>
-    <sub-title lang="ca">2567</sub-title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261006060000 +0000" channel="324" stop="20261006080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11357</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261005140314 +0000" channel="esport3" stop="20261005153420 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">El sorteig de Copa, clàssic de rècords i tertúlia</sub-title>
-    <desc lang="ca">El sorteig de la Copa del Rei. Golejada de rècord. Parlem del 7 a 0 del clàssic amb Joan Ferran. Analitzem l'octubre del Barça amb la lupa de l'Albert Blaya. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
-    <length units="minutes">01:31:06</length>
+  <programme start="20261006004207 +0000" channel="esport3" stop="20261006021238 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'endemà de l'humiliació al clàssic femení; Mbappé en bici i 'El colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Aina Cerdà, Xavi Torres, Joan Poquí i Joaquín Maroto parlen del 7-0 al clàssic femení i de la polèmica publicació d'Mbappé enfilat a una bicicleta. En Joan Fàbregas repassa les jugades conflictives del cap de setmana.</desc>
+    <length units="minutes">01:30:31</length>
   </programme>
-  <programme start="20261005153420 +0000" channel="esport3" stop="20261005160405 +0000">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Terra de comtes i abats</sub-title>
-    <desc lang="ca">En aquesta ruta, Marc de las Heras anirà de Sant Joan de les Abadesses, al castell de Mataplana, després de recórrer el cor del Ripollès. En total, uns 77 km, repartits en dues jornades, fets a peu, en bicicleta i en cremallera, descobrint una terra d'autèntica llegenda.Des de Sant Joan de les Abadesses, el Marc agafarà la bici per fer la ruta del ferro fins a Ripoll, on assistirà a un dels enllaços més tradicionals que existeixen: el casament a pagès. I des d'aquí, cap a Campdevànol i Ribes de Freser, on farà nit.L'endemà, de bon matí, el Marc pujarà al cremallera de Núria, passant per Queralbs i acompanyat dels Randellaires; per visitar la Vall de Núria, un lloc espectacular, ideal per afinar la punteria... Al baixar, seguirà camins ramaders des de Campdevànol passant per Gombrèn, el Santuari de Montgrony i arribant al Castell de Mataplana, un lloc llegendari on el Comte Arnau, l'obligarà a fer-li un bon sopar... Pobret, esperem que li agradi!... Que si no...</desc>
-    <length units="minutes">00:29:45</length>
+  <programme start="20261006021238 +0000" channel="esport3" stop="20261006022409 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5529</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:11:31</length>
   </programme>
-  <programme start="20261005144338 +0000" channel="sx3" stop="20261005150510 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Tota la colla es torna a reunir</sub-title>
-    <desc lang="ca">Després de molts dies d'entrenament, arriba el dia del Campionat Mundial d'Arts Marcials i es torna a reunir tota la colla de superguerrers, que estan molts contents de poder tornar a veure en Son Goku. En Trunks i en Son Goten també s'hi presenten i voldrien lluitar contra els adults, però s'hauran de conformar a participar en el torneig infantil.</desc>
-    <length units="minutes">00:21:32</length>
+  <programme start="20261006012203 +0000" channel="sx3" stop="20261006014159 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">El gust dolç del combat!</sub-title>
+    <desc lang="ca">Conviden l'Ash, el Goh i la Chloe a Poble Plié per un repte especial que ha creat la Sally, que resulta que és la Líder de Gimnàs del poble. Constantment proposa reptes curiosos i ara ha demanat als nostres herois que participin en una competició de decoració de pastissos juntament amb, ni més ni menys, que el Lionel i el Roy, dels Vuit Mestres! Tots cinc, amb l'ajuda de diversos Alcremie fantàstics, creen uns pastissos deliciosos recoberts de nata. Al final la Sally declara guanyador l'insòlit pastís de l'Ash. El desafia a un combat amb el seu Alcremie Gigamax, però el combat s'interromp quan el Pikachu menja tanta nata que no es pot ni moure!</desc>
+    <length units="minutes">00:19:56</length>
   </programme>
-  <programme start="20261005150510 +0000" channel="sx3" stop="20261005152557 +0000">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Un directe perillós, primera part</sub-title>
-    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
-    <length units="minutes">00:20:47</length>
+  <programme start="20261006014159 +0000" channel="sx3" stop="20261006020108 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Nit estelada, vol estel·lar!</sub-title>
+    <desc lang="ca">Quan l'Ash i el Goh s'assabenten que en un poblet de Johto s'ha fet fosc per sempre, se n'hi van a investigar-ho, i és ben veritat. Fa una setmana que sempre és de nit. Una noia que es diu Tiara els explica que va veure uns Pokémon just quan va fer fosc: els Unown. Aquests Pokémon van sentir com la Tiara desitjava que sempre fos fosc per poder veure el seu estimat Cleffa, que la Tiara creu que s'ha convertit en una estrella del cel. La Cintia, l'Ash i el Goh combaten contra els Unown, i la Tiara s'adona que el seu desig era egoista. La llum del dia torna, i els Unown li mostren a la Tiara una il·lusió del Cleffa feliç, per ajudar-la a acomiadar-se de l'amic que se n'ha anat.</desc>
+    <length units="minutes">00:19:09</length>
   </programme>
-  <programme start="20261005142633 +0000" channel="tv3" stop="20261005145637 +0000">
+  <programme start="20261006010250 +0000" channel="tv3" stop="20261006013249 +0000">
     <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">227</sub-title>
+    <sub-title lang="ca">223</sub-title>
     <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:30:04</length>
+    <length units="minutes">00:29:59</length>
   </programme>
-  <programme start="20261005145637 +0000" channel="tv3" stop="20261005154409 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El ciri</sub-title>
-    <desc lang="ca">Qui no ha intentat encendre un ciri a casa perquè se li compleixi algun desig tot i no haver cregut mai en res? Doncs això intentem fer a 'La Renaixença' dedicant-li aquest capítol. Parlem amb la Núria Moliner, que fa un temps va anar a veure la casa d'en Peyu, i ara ha vingut a jutjar el nostre humil local de 'La Renaixença'. Esperem estar a la mateixa altura que la Sagrada Família. Sortim a passejar el gos pel Balloonfest del 86 amb la Juna, una gossa de Sabadell.</desc>
-    <length units="minutes">00:47:32</length>
-  </programme>
-  <programme start="20261005135915 +0000" channel="tv3" stop="20261005180910 +0000">
-    <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <sub-title lang="ca">4157</sub-title>
-    <length units="minutes">04:09:55</length>
+  <programme start="20261006013249 +0000" channel="tv3" stop="20261006020316 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">224</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:27</length>
   </programme>
 </tv>
