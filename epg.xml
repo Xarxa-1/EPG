@@ -1,78 +1,81 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261005040000 +0000" channel="tvi" stop="20261005050000 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">David Philips</sub-title>
-    <desc lang="ca">Cantautor del Regne Unit que ens presenta un repertori a cavall del blues i el folk americà. En ocasions ens pot evocar atmosferes de rock acústic com les de Ry Cooder, Kelly Joe Phelps o Amos Lee. Però, sens dubte, Philips té un estil propi. Caspar St. Charles a la bateria, Thomas Kent Warburton, al baix; Abel Boquera als teclats i el mateix David Philips a la guitarra i veu.</desc>
+  <programme start="20261005143000 +0000" channel="tvi" stop="20261005153329 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7349</sub-title>
+    <length units="minutes">01:03:29</length>
+  </programme>
+  <programme start="20261005153329 +0000" channel="tvi" stop="20261005155738 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Brunyols de recuit de drap</sub-title>
+    <desc lang="ca">Gessamí Caramés ens porta una recepta que uneix dos dels seus productes preferits. Combinant els brunyols de l'Empordà i el recuit de drap, cuina unes postres de categoria.</desc>
+    <length units="minutes">00:24:09</length>
+  </programme>
+  <programme start="20261005143000 +0000" channel="324" stop="20261005153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7349</sub-title>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261005050000 +0000" channel="tvi" stop="20261005055942 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Victor de Diego</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:59:42</length>
+  <programme start="20261005153000 +0000" channel="324" stop="20261005160000 +0000">
+    <title lang="ca">3CatInfo en aranès</title>
+    <sub-title lang="ca">2567</sub-title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261005010000 +0000" channel="324" stop="20261005060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11347</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261005140314 +0000" channel="esport3" stop="20261005153420 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">El sorteig de Copa, clàssic de rècords i tertúlia</sub-title>
+    <desc lang="ca">El sorteig de la Copa del Rei. Golejada de rècord. Parlem del 7 a 0 del clàssic amb Joan Ferran. Analitzem l'octubre del Barça amb la lupa de l'Albert Blaya. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
+    <length units="minutes">01:31:06</length>
   </programme>
-  <programme start="20261005060000 +0000" channel="324" stop="20261005080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11348</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261005153420 +0000" channel="esport3" stop="20261005160405 +0000">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Terra de comtes i abats</sub-title>
+    <desc lang="ca">En aquesta ruta, Marc de las Heras anirà de Sant Joan de les Abadesses, al castell de Mataplana, després de recórrer el cor del Ripollès. En total, uns 77 km, repartits en dues jornades, fets a peu, en bicicleta i en cremallera, descobrint una terra d'autèntica llegenda.Des de Sant Joan de les Abadesses, el Marc agafarà la bici per fer la ruta del ferro fins a Ripoll, on assistirà a un dels enllaços més tradicionals que existeixen: el casament a pagès. I des d'aquí, cap a Campdevànol i Ribes de Freser, on farà nit.L'endemà, de bon matí, el Marc pujarà al cremallera de Núria, passant per Queralbs i acompanyat dels Randellaires; per visitar la Vall de Núria, un lloc espectacular, ideal per afinar la punteria... Al baixar, seguirà camins ramaders des de Campdevànol passant per Gombrèn, el Santuari de Montgrony i arribant al Castell de Mataplana, un lloc llegendari on el Comte Arnau, l'obligarà a fer-li un bon sopar... Pobret, esperem que li agradi!... Que si no...</desc>
+    <length units="minutes">00:29:45</length>
   </programme>
-  <programme start="20261005040807 +0000" channel="esport3" stop="20261005060322 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">iLERNA Lleida-RS San Pablo Burgos / Lliga / J2</sub-title>
-    <desc lang="ca">Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.</desc>
-    <length units="minutes">01:55:15</length>
+  <programme start="20261005144338 +0000" channel="sx3" stop="20261005150510 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Tota la colla es torna a reunir</sub-title>
+    <desc lang="ca">Després de molts dies d'entrenament, arriba el dia del Campionat Mundial d'Arts Marcials i es torna a reunir tota la colla de superguerrers, que estan molts contents de poder tornar a veure en Son Goku. En Trunks i en Son Goten també s'hi presenten i voldrien lluitar contra els adults, però s'hauran de conformar a participar en el torneig infantil.</desc>
+    <length units="minutes">00:21:32</length>
   </programme>
-  <programme start="20261005060322 +0000" channel="esport3" stop="20261005062955 +0000">
-    <title lang="ca">WRC</title>
-    <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J3</sub-title>
-    <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.</desc>
-    <length units="minutes">00:26:33</length>
+  <programme start="20261005150510 +0000" channel="sx3" stop="20261005152557 +0000">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Un directe perillós, primera part</sub-title>
+    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
+    <length units="minutes">00:20:47</length>
   </programme>
-  <programme start="20261005043740 +0000" channel="sx3" stop="20261005044915 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Un espectacle preciós</sub-title>
-    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
-    <length units="minutes">00:11:35</length>
+  <programme start="20261005142633 +0000" channel="tv3" stop="20261005145637 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">227</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:04</length>
   </programme>
-  <programme start="20261005044915 +0000" channel="sx3" stop="20261005045555 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Va, Bitzer, va!</sub-title>
-    <desc lang="ca">El Bitzer ha estat vençut i humiliat pel gos del Ben, el Lexie, en la cursa del Gran Premi de karts. En veure aquest escarni que ha patit el seu amic, el Shaun decideix fer alguna cosa perquè la pròxima vegada les coses siguin una mica diferents.1</desc>
-    <length units="minutes">00:06:40</length>
+  <programme start="20261005145637 +0000" channel="tv3" stop="20261005154409 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El ciri</sub-title>
+    <desc lang="ca">Qui no ha intentat encendre un ciri a casa perquè se li compleixi algun desig tot i no haver cregut mai en res? Doncs això intentem fer a 'La Renaixença' dedicant-li aquest capítol. Parlem amb la Núria Moliner, que fa un temps va anar a veure la casa d'en Peyu, i ara ha vingut a jutjar el nostre humil local de 'La Renaixença'. Esperem estar a la mateixa altura que la Sagrada Família. Sortim a passejar el gos pel Balloonfest del 86 amb la Juna, una gossa de Sabadell.</desc>
+    <length units="minutes">00:47:32</length>
   </programme>
-  <programme start="20261005044401 +0000" channel="tv3" stop="20261005045825 +0000">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Familia Domènech</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="minutes">00:14:24</length>
-  </programme>
-  <programme start="20261005045825 +0000" channel="tv3" stop="20261005051209 +0000">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Sergi Sánchez</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="minutes">00:13:44</length>
+  <programme start="20261005135915 +0000" channel="tv3" stop="20261005180910 +0000">
+    <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
+    <sub-title lang="ca">4157</sub-title>
+    <length units="minutes">04:09:55</length>
   </programme>
 </tv>
