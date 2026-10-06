@@ -6,73 +6,69 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261006050022 +0000" channel="tvi" stop="20261006060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Jordi Rossy</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:59:38</length>
+  <programme start="20261006135505 +0000" channel="tvi" stop="20261006143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7049</sub-title>
+    <length units="minutes">00:34:55</length>
   </programme>
-  <programme start="20261006060000 +0000" channel="tvi" stop="20261006080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11357</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261006143000 +0000" channel="tvi" stop="20261006152939 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7350</sub-title>
+    <length units="minutes">00:59:39</length>
   </programme>
-  <programme start="20261006010000 +0000" channel="324" stop="20261006060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11356</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261006135500 +0000" channel="324" stop="20261006143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7049</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261006060000 +0000" channel="324" stop="20261006080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11357</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261006143000 +0000" channel="324" stop="20261006153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7350</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261006052453 +0000" channel="esport3" stop="20261006061315 +0000">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">El millor de l'esport i la TV</sub-title>
-    <desc lang="ca">Les imatges més espectaculars i curioses de l'actualitat esportiva.</desc>
-    <length units="minutes">00:48:22</length>
+  <programme start="20261006140322 +0000" channel="esport3" stop="20261006153428 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">El comiat de Messi, Edgar Canet i tertúlia</sub-title>
+    <desc lang="ca">L'últim tango de Leo Messi amb la selecció argentina. Entrevistem Edgar Canet, guanyador del Ral·li del Marroc. L'Espanyol, obligat a guanyar a Màlaga. Ho analitzem amb Juli Garcia. A la tertúlia ens acompanyen Arancha Rodríguez, Joan Poquí i Raúl Fuentes</desc>
+    <length units="minutes">01:31:06</length>
   </programme>
-  <programme start="20261006061315 +0000" channel="esport3" stop="20261006062435 +0000">
-    <title lang="ca">Pitch&amp;Cat</title>
-    <sub-title lang="ca">Campionat de Catalunya per equips. Final 2026</sub-title>
-    <desc lang="ca">Vivim la gran final del Campionat de Catalunya per Equips de 1a Divisió, des del P&amp;P Montseny, a Gualba. I, com sempre, completem el programa amb noves classes d'iniciació al pitch&amp;putt de la mà dels nostres col·laboradors habituals.</desc>
-    <length units="minutes">00:11:20</length>
+  <programme start="20261006153428 +0000" channel="esport3" stop="20261006160534 +0000">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Trens, mines i monestirs</sub-title>
+    <desc lang="ca">En aquesta nova ruta, Marc de las Heras anirà de Castellar de n'Hug fins a Sant Jaume de Frontanyà, a través d'un viatge per les entranyes del Berguedà. En total, uns 70 quilòmetres, repartits en dues jornades, fets a peu, en cotxe i en tren... Una recerca del tresor en tota regla!! En Marc encetarà la ruta aprenent a fer el dolç típic de Castellar de n'Hug: els croissants gegants. A partir d'aquí començarà un repte singular buscant tresors passant per la fàbrica Asland, el tren del ciment, els Jardins Artigas, la Pobla de Lillet, la mina de petroli de Riutort i el monestir de Guardiola de Berguedà... A continuació, a Sant Corneli, s'endinsarà en una mina per entendre com era la vida d'un miner. I acabarà la primera jornada passant per Cercs, el Pantà de la Baells i el Pont de Pedret... L'endemà, en Marc passejarà per Berga, la ciutat de la Patum, on va viure el polèmic trobador Guillem de Berguedà, que coneixerem de la mà d'un altre trobador, el Titot. Després, en Marc anirà a menjar bolets, però no com a plat principal..., sinó de postres! I finalment passarà per Vilada, Borredà i posarà fi a la ruta a Sant Jaume de Frontanyà.</desc>
+    <length units="minutes">00:31:06</length>
   </programme>
-  <programme start="20261006053518 +0000" channel="sx3" stop="20261006054137 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">A la vora del foc</sub-title>
-    <desc lang="ca">En Bitzer ha agafat un refredat de mil dimonis i el granger l'ha deixat instal·lar a la vora de la llar de foc perquè es recuperi. El que hi ha sortit perdent és el gat, que farà el que faci falta per fer-lo fora i recuperar el seu lloc preferit. Sort que en Shaun i companyia estan de part del pobre Bitzer i no l'hi posaran gens fàcil, al murri d'en Pidsley.</desc>
-    <length units="minutes">00:06:19</length>
+  <programme start="20261006141010 +0000" channel="sx3" stop="20261006143227 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La invasió de les càmeres</sub-title>
+    <desc lang="ca">Comença el Campionat Mundial d'Arts Marcials amb una prova que classificarà 15 dels 194 participants. En Son Gohan s'hi ha inscrit amb el nom de Guerrer del Vent, perquè els seus companys d'institut no sospitin res, però la gran quantitat de càmeres i la gelosia d'algun dels seus rivals li podrien fer una mala passada.</desc>
+    <length units="minutes">00:22:17</length>
   </programme>
-  <programme start="20261006054137 +0000" channel="sx3" stop="20261006054458 +0000">
-    <title lang="ca">Looloo Kids (cançons)</title>
-    <sub-title lang="ca">Un mariner va al mar</sub-title>
-    <desc lang="ca">En aquest episodi un mariner se'n va a pescar, però no pesca res i veu els animals que viuen al mar.</desc>
-    <length units="minutes">00:03:21</length>
+  <programme start="20261006143227 +0000" channel="sx3" stop="20261006145103 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Trunks és un guerrer fabulós</sub-title>
+    <desc lang="ca">El campionat infantil comença sense gaires sorpreses. En Trunks, que s'avorreix una mica, i en Son Goten, que està impressionat amb la quantitat de públic que hi ha, no tenen rival i demostren que són molt superiors a la resta. A la Bulma i a la Xixi els cau la bava amb les victòries dels seus fills, i en Son Goku se'n sent més orgullós que mai.</desc>
+    <length units="minutes">00:18:36</length>
   </programme>
-  <programme start="20261006053628 +0000" channel="tv3" stop="20261006054227 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">'Arròs covat'</sub-title>
-    <desc lang="ca">'Arròs covat' és l'esperit de la generació X i millennial fet sèrie animada de culte. El dibuixant i guionista del barri de la Sagrera Juanjo Sáez va fer la crònica agredolça definitiva dels joves dels primers anys del segle XXI, que van viure en primera persona l'auge dels macrofestivals, la gentrificació i molts fenòmens més. Sáez va escollir l'alter ego inventat de Xavi Masdéu (amb la veu del cantant i actor Joan Dausà), un dissenyador gràfic que sembla viure eternament la síndrome de Peter Pan en una Barcelona moderna, artificial, romàntica i divertida.</desc>
-    <length units="minutes">00:05:59</length>
+  <programme start="20261006124705 +0000" channel="tv3" stop="20261006142404 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">'EL GRAN GRAN DICTAT' el protagonitzaran tres grans actors: Quim Masferrer, el monologuista ambulant d''El foraster'; Agnès Busquets, l'Alícia Sánchez Camacho del 'Polònia'; i Joan Pera, el mític actor que posa veu a Woody Allen. Tots plegats concursaran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.Aquesta setmana veurem com afronten les diverses proves del programa i participen en un seguit d'esquetxos d'humor. Així, veurem com Òscar Dalmau fa un càsting per rebre classes d'interpretació dels tres actors. Els concursants també ens explicaran algunes qualitats que tenen més o menys amagades. Quim Masferrer ens confessarà que la seva verborrea ve de lluny, Agnès Busquets ens sorprendrà amb la seva capacitat per relaxar-se i Joan Pera demostrarà que és capaç de posar la veu a tot arreu.El Mag Lari, amb l'ajuda dels concursants i del presentador, afegirà màgia i més humor al concurs amb els seus trucs.</desc>
+    <length units="minutes">01:36:59</length>
   </programme>
-  <programme start="20261006054227 +0000" channel="tv3" stop="20261006054725 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Banyoles</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:04:58</length>
+  <programme start="20261006142404 +0000" channel="tv3" stop="20261006145404 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">228</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
 </tv>
