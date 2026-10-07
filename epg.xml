@@ -3,81 +3,81 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261006230750 +0000" channel="tvi" stop="20261007000328 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Fugir</sub-title>
-    <desc lang="ca">'Fugir' (2022) és una producció de Televisió de Catalunya amb la col·laboració d'El Terrat (The Mediapro Studio).El documental narra l'exili de sis germans ucraïnesos que fugen de la guerra. Marxen del seu poble, Nikopol, i durant cinc dies travessen tot Europa en autocar fins a arribar a Catalunya, on cadascun d'ells anirà amb una família diferent.Fitxa tècnicaGuió i direcció: Fèlix Colomer VallèsProducció executiva El Terrat: Tian RibaDirecció de producció El Terrat: Lydia CerrudoDirecció executiva TV3: Montse Armengou Martín Producció executiva TV3: Sílvia Pairó Vila Realització TV3: Ricard Belis GarcíaMúsica original: Joaquim Badía© Corporació Catalana de Mitjans Audiovisuals, SA · 2022</desc>
-    <length units="minutes">00:55:38</length>
+  <programme start="20261007045959 +0000" channel="tvi" stop="20261007060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Dani Nel.lo</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">01:00:01</length>
   </programme>
-  <programme start="20261007000328 +0000" channel="tvi" stop="20261007002940 +0000">
-    <title lang="ca">Herois quotidians</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">'Herois quotidians', una proposta que, agafant elements de l'humor i de fals documental, fa una mirada irònica i àcida sobre allò que es considera políticament correcte.Més que no pas criticar, 'Herois quotidians' posa la realitat cap per avall i ens proposa una quotidianitat alternativa, una mirada lúcida, divertida i surrealista dels tòpics i prejudicis de la nostra societat feta per Empar Moliner, Àlex Torio i Juan Carlos Ortega.'Herois quotidians' és un programa en clau d'humor que consta de dos reportatges, que ens mostren persones de comportaments exemplars, i un consell per ser més bons ciutadans. Hi ha qui ha dit que es tracta de reportatges falsos, però els seus autors sostenen que no: les persones que hi apareixen no són actors. I els escenaris on s'han rodat les històries són de veritat. En tot cas, el programa ens farà conèixer persones admirables. Com Ramon Muñoz, el primer cantautor de dretes del món. Perquè no només han de fer poesia de les nostres preocupacions els cantautors d'esquerres. Les cançons de Muñoz ens parlen del goig de viatjar en primera classe o de l'emoció de marcar la casella de l'Església a l'hora de fer la declaració de la renda. El compositor i intèrpret de 'Corazón democristiano' serà un dels herois del primer programa. També coneixerem uns monjos de Montserrat que escolpeixen les cares de Lluís Companys, Jordi Pujol, Pasqual Maragall i José Montilla a la muntanya de Montserrat, inspirats en el Mont Rushmore de Dakota del Sud. I sabrem coses de la vida d'un petit botiguer que ha decidit fer-se passar per pakistanès, perquè s'imagina que, d'aquesta manera, podrà obrir el seu comerç les 24 hores. Serem espectadors del canvi d'orientació d'un restaurant gallec de tota la vida situat al barri gai de Barcelona: el restaurant La Parra, ara transformat en el primer restaurant gallec gai de Catalunya. També tindrem notícia d'un parapsicòleg que es dedica a recollir psicofonies només en català. O serem espectad</desc>
-    <length units="minutes">00:26:12</length>
-  </programme>
-  <programme start="20261006220500 +0000" channel="324" stop="20261007000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2174</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261007000000 +0000" channel="324" stop="20261007003000 +0000">
+  <programme start="20261007060000 +0000" channel="tvi" stop="20261007080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11364</sub-title>
+    <sub-title lang="ca">11366</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261006230000 +0000" channel="esport3" stop="20261007003139 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'últim tango de Messi; Mayola Academy i 'Onzeclopèdia'</sub-title>
-    <desc lang="ca">Sique Rodríguez, Fernando Polo, Paula Reverter i Ivan San Antonio comenten l'últim partit de Messi amb la selecció argentina. En Marc Mayola analitza alguns aspectes tàctics del joc del Barça i en Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
-    <length units="minutes">01:31:39</length>
+  <programme start="20261007010000 +0000" channel="324" stop="20261007060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11365</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261007003139 +0000" channel="esport3" stop="20261007005226 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5530</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:47</length>
+  <programme start="20261007060000 +0000" channel="324" stop="20261007080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11366</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261006234550 +0000" channel="sx3" stop="20261007000559 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'ós de Kermode</sub-title>
-    <desc lang="ca">Els germans Kratt van a l'Illa dels Óssos per veure de prop óssos negres i l'Aviva veu un ós de color blanc. Aviat s'adonen que el que ha vist és el peculiar ós de Kermode del nord del Pacífic. Però la seva alegria queda eclipsada quan coneixen una nova malvada, la Paisley Paviment, Directora General de Pavimentem la Natura SA i descobreixen els seus plans de convertir l'illa en unes enormes instal·lacions de megamagatzems.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261007042959 +0000" channel="esport3" stop="20261007060301 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">BM Granollers-Buzau / EHF European League / J2</sub-title>
+    <desc lang="ca">El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
+    <length units="minutes">01:33:02</length>
   </programme>
-  <programme start="20261007000559 +0000" channel="sx3" stop="20261007002609 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els colors de la Xina</sub-title>
-    <desc lang="ca">El Martin, el Chris i la resta de la colla, meravellats amb els preciosos colors del faisà daurat i dels altres animals de la Xina, es posen a investigar la importància i la funció que tenen els colors per a cada animal. Mentrestant, la Donita Donata, que no suporta tants colors, comença a capturar els animals per descolorir-los i muntar una desfilada de moda ben grisa. La missió dels Kratt serà rescatar els animals i recuperar els colors de la Xina.</desc>
-    <length units="minutes">00:20:10</length>
+  <programme start="20261007060301 +0000" channel="esport3" stop="20261007061236 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Copa d'Espanya Trial</sub-title>
+    <desc lang="ca">Cambrils és l'escenari de la quarta i última prova de la Copa d'Espanya de Trial 2026, amb els títols en joc a les categories femenina i masculina.</desc>
+    <length units="minutes">00:09:35</length>
   </programme>
-  <programme start="20261006232758 +0000" channel="tv3" stop="20261007000158 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Eli Nolla (Restaurant Normal)</sub-title>
-    <desc lang="ca">Eli Nolla lidera la cuina de Normal amb l'esperit d'un equip i l'ofici après al llarg d'un recorregut sòlid i exigent. De capitana d'un equip de bàsquet a cap de cuina, el capítol traça el seu camí des dels inicis autodidactes fins a la formació a Hoffmann i el pas decisiu pel Celler de Can Roca, on es consolida com a cuinera i líder. A Normal proposa una cuina de mercat, familiar i viva, basada en el producte, la tradició catalana i la improvisació quotidiana. Un retrat d'una xef rigorosa, humana i compromesa, que ha fet seu un projecte col·lectiu on cuinar és compartir, cuidar i fer pinya.</desc>
-    <length units="minutes">00:34:00</length>
+  <programme start="20261007050224 +0000" channel="sx3" stop="20261007051354 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La cacera del llimac</sub-title>
+    <desc lang="ca">A la Trufa li ha caigut la primera dent de llet. La Guineta li explica la tradició de les guineus: quan a una cria li cau un ullal de llet, se n'ha d'anar tota sola a buscar un llimac per posar-li la dent sota la panxa. I l'endemà, al lloc on hi havia el llimac, hi apareix un petit regal. La Trufa ho vol intentar, però l'Edmond no vol que surti sola.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261007000158 +0000" channel="tv3" stop="20261007003620 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Toni Solans i David Romero (Restaurant Mantis)</sub-title>
-    <desc lang="ca">El Toni i el David són el motor creatiu de Mantis, un restaurant d'autor jove i inconformista construït des de la llibertat creativa i el respecte pel producte. Es van conèixer a l'escola Hofmann i, després de trajectòries divergents en cuines d'alta exigència, van retrobar-se durant la pandèmia amb Mosk, un projecte clandestí que va funcionar com a espai de prova i llibertat per crear la base del que avui és Mantis. No creuen en etiquetes i la seva cuina beu d'influències d'arreu del món, sobretot orientals. A Mantis, el joc conviu amb el rigor tècnic, fruit de dos caràcters oposats però profundament complementaris.</desc>
-    <length units="minutes">00:34:22</length>
+  <programme start="20261007051354 +0000" channel="sx3" stop="20261007052529 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Esperit d'equip</sub-title>
+    <desc lang="ca">Cada any la canalla del bosc competeix al campionat entre caus, uns jocs en què han de superar una sèrie de proves. Però només hi pot haver un representant per cada cau, i això crea un conflicte a la família Teixó-Guineu, ja que tant sí com no hi volen participar els dos grans, en Pinxo i la Guineta, un teixó i una guineu.</desc>
+    <length units="minutes">00:11:35</length>
   </programme>
-  <programme start="20261006200202 +0000" channel="tv3" stop="20261007055954 +0000">
+  <programme start="20261007045713 +0000" channel="tv3" stop="20261007052517 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">El tresor d'en Serrallonga</sub-title>
+    <desc lang="ca">Vall de Sau Collsacabra (GR2, GR2.2)Ruta de 2 jornades i d'uns 25 km a peu.Seguirem el rastre del Serrallonga per la Vall de Sau Collsacabra, la zona per on diuen es va amagar i va guardar un valuós tresor. A Vilanova de Sau, entrarem a l'obrador de l'herbolari de Sau. Navegarem fins a la torre del campanar del pantà a bord d'una llanxa a pedals. Pujarem els cingles de Tavertet i farem nit en una casa rural del poble, on cuinarem un fabulós estofat de Senglar i farem nit. L'endemà travessarem la cinglera fins a Rupit, on buscarem el tresor amagat amb l'ajut d'uns nens de la vila. I acabarem al Salt de Sallent, segurament un dels indrets més increïbles de Catalunya.</desc>
+    <length units="minutes">00:28:04</length>
+  </programme>
+  <programme start="20261007052517 +0000" channel="tv3" stop="20261007055353 +0000">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">A uns quants metres sota terra</sub-title>
+    <desc lang="ca">Barcelona subterrània.Ruta per algunes propostes interessants per descobrir la ciutat per sota dels nostres peus. Farem un viatge pel passat i el present del metro, visitarem una estació fantasma, recorrerem les galeries del clavegueram, coneixerem com és la vida de músic de metro i acabarem a l'interior de la font de Montjuïc, una obra d'art intacta des de la seva construcció.</desc>
+    <length units="minutes">00:28:36</length>
+  </programme>
+  <programme start="20261007000001 +0000" channel="tv3" stop="20261007055945 +0000">
     <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
     <sub-title lang="ca">4169</sub-title>
-    <length units="minutes">09:57:52</length>
+    <length units="minutes">05:59:44</length>
   </programme>
 </tv>
