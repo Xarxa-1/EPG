@@ -1,83 +1,79 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261007045959 +0000" channel="tvi" stop="20261007060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Dani Nel.lo</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">01:00:01</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261007135447 +0000" channel="tvi" stop="20261007143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7050</sub-title>
+    <length units="minutes">00:35:13</length>
   </programme>
-  <programme start="20261007060000 +0000" channel="tvi" stop="20261007080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11366</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261007143000 +0000" channel="tvi" stop="20261007153019 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7351</sub-title>
+    <length units="minutes">01:00:19</length>
   </programme>
-  <programme start="20261007010000 +0000" channel="324" stop="20261007060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11365</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261007135500 +0000" channel="324" stop="20261007143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7050</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261007060000 +0000" channel="324" stop="20261007080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11366</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261007143000 +0000" channel="324" stop="20261007153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7351</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261007042959 +0000" channel="esport3" stop="20261007060301 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">BM Granollers-Buzau / EHF European League / J2</sub-title>
-    <desc lang="ca">El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
-    <length units="minutes">01:33:02</length>
+  <programme start="20261007135957 +0000" channel="esport3" stop="20261007151151 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Leo Messi, l'NBA i tertúlia</sub-title>
+    <desc lang="ca">L'últim tango de Leo Messi, que s'ha retirat de la selecció. En parlem amb l'Àlex Delmàs. L'NBA amb Jordi de Mas, i tertúlia. Ens acompanyen Irati Vidal, Edgar Fornós i Dani Senabre.</desc>
+    <length units="minutes">01:11:54</length>
   </programme>
-  <programme start="20261007060301 +0000" channel="esport3" stop="20261007061236 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Copa d'Espanya Trial</sub-title>
-    <desc lang="ca">Cambrils és l'escenari de la quarta i última prova de la Copa d'Espanya de Trial 2026, amb els títols en joc a les categories femenina i masculina.</desc>
-    <length units="minutes">00:09:35</length>
+  <programme start="20261007151151 +0000" channel="esport3" stop="20261007154410 +0000">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Trinxant passat, present i futur</sub-title>
+    <desc lang="ca">En la penúltima ruta de la temporada, Marc de las Heras anirà del Berguedà a la Cerdanya. En total, uns 70 quilòmetres, repartits en dues jornades, fets a peu, en cotxe, en avioneta, en segway i en patins!! En Marc encetarà la nova ruta a Bagà, descobrint qui van ser els càtars i un pastor que utilitza les noves tecnologies com a eina habitual. Travessarà el túnel del Cadí, passant per Bellver de Cerdanya i ens endinsarem en la vall de Santa Eugènia fins a Montellà i Martinet, on visitarem el Parc dels Búnquers. I acabarà la primera jornada anant fins a Lles i Aransa, per fer-hi un típic trinxat de la Cerdanya.L'endemà, en Marc passarà per All, Ger, Bolvir i Alp, just on hi ha l'aeròdrom, on aprendrà com es pilota una avioneta. En aterrar, a Puigcerdà, practicarà un dels esports que té més aficionats en aquesta comarca: l'hoquei gel. I acabarà la ruta a sobre d'un segway per anar fins a Llívia, un enclavament català a França.</desc>
+    <length units="minutes">00:32:19</length>
   </programme>
-  <programme start="20261007050224 +0000" channel="sx3" stop="20261007051354 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La cacera del llimac</sub-title>
-    <desc lang="ca">A la Trufa li ha caigut la primera dent de llet. La Guineta li explica la tradició de les guineus: quan a una cria li cau un ullal de llet, se n'ha d'anar tota sola a buscar un llimac per posar-li la dent sota la panxa. I l'endemà, al lloc on hi havia el llimac, hi apareix un petit regal. La Trufa ho vol intentar, però l'Edmond no vol que surti sola.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261007140431 +0000" channel="sx3" stop="20261007142649 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El vencedor del Campionat Infantil d'Arts Marcials</sub-title>
+    <desc lang="ca">La final que enfronta en Trunks i en Son Goten està més emocionant que mai. Vols d'una rapidesa increïble, boles d'energia, cops que fan tremolar tot l'estadi, els espectadors no havien vist mai un combat d'aquest nivell. Però ara com ara, el que ho veu més negre és en Satan, que s'haurà d'enfrontar al guanyador del campionat infantil!</desc>
+    <length units="minutes">00:22:18</length>
   </programme>
-  <programme start="20261007051354 +0000" channel="sx3" stop="20261007052529 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Esperit d'equip</sub-title>
-    <desc lang="ca">Cada any la canalla del bosc competeix al campionat entre caus, uns jocs en què han de superar una sèrie de proves. Però només hi pot haver un representant per cada cau, i això crea un conflicte a la família Teixó-Guineu, ja que tant sí com no hi volen participar els dos grans, en Pinxo i la Guineta, un teixó i una guineu.</desc>
-    <length units="minutes">00:11:35</length>
+  <programme start="20261007142649 +0000" channel="sx3" stop="20261007144552 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El millor truc d'en Satan</sub-title>
+    <desc lang="ca">En Satan ha de complir amb el seu deure i enfrontar-se al guanyador del Campionat Infantil d'Arts Marcials, en Trunks. Conscient que és incapaç de vèncer el descendent d'un dels superguerrers que es van enfrontar a en Cèl·lula, se n'haurà d'empescar alguna per no perdre la fama que té de guerrer més fort de la Terra. Com s'ho farà?!</desc>
+    <length units="minutes">00:19:03</length>
   </programme>
-  <programme start="20261007045713 +0000" channel="tv3" stop="20261007052517 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">El tresor d'en Serrallonga</sub-title>
-    <desc lang="ca">Vall de Sau Collsacabra (GR2, GR2.2)Ruta de 2 jornades i d'uns 25 km a peu.Seguirem el rastre del Serrallonga per la Vall de Sau Collsacabra, la zona per on diuen es va amagar i va guardar un valuós tresor. A Vilanova de Sau, entrarem a l'obrador de l'herbolari de Sau. Navegarem fins a la torre del campanar del pantà a bord d'una llanxa a pedals. Pujarem els cingles de Tavertet i farem nit en una casa rural del poble, on cuinarem un fabulós estofat de Senglar i farem nit. L'endemà travessarem la cinglera fins a Rupit, on buscarem el tresor amagat amb l'ajut d'uns nens de la vila. I acabarem al Salt de Sallent, segurament un dels indrets més increïbles de Catalunya.</desc>
-    <length units="minutes">00:28:04</length>
+  <programme start="20261007123821 +0000" channel="tv3" stop="20261007141142 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">Òscar Dalmau posarà a prova els coneixements de llengua catalana de tres concursants famosos a 'EL GRAN GRAN DICTAT'. En aquesta ocasió, l'actor Miki Esparbé, l'actriu Aina Clotet i el conductor d''El món a RAC1', Jordi Basté competiran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.A part de jugar a les diferents proves del programa, els tres convidats també demostraran el seu sentit de l'humor participant en diversos esquetxos. Així, veurem Òscar Dalmau transformat en Moisès recitant els deu manaments d''EL GRAN GRAN DICTAT'. Els concursants també confessaran alguns secrets que tenen ben amagats: per què Miki Esparbé sempre duu una pistola a sobre? L'Aina Clotet és qui diu que és en realitat? Què és el que li agrada menys de fer ràdio, a Jordi Basté?Els trucs del Mag Lari tornaran a aparèixer entre prova i prova per posar una mica de màgia al programa i, de passada, acabar la paciència del presentador.</desc>
+    <length units="minutes">01:33:21</length>
   </programme>
-  <programme start="20261007052517 +0000" channel="tv3" stop="20261007055353 +0000">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">A uns quants metres sota terra</sub-title>
-    <desc lang="ca">Barcelona subterrània.Ruta per algunes propostes interessants per descobrir la ciutat per sota dels nostres peus. Farem un viatge pel passat i el present del metro, visitarem una estació fantasma, recorrerem les galeries del clavegueram, coneixerem com és la vida de músic de metro i acabarem a l'interior de la font de Montjuïc, una obra d'art intacta des de la seva construcció.</desc>
-    <length units="minutes">00:28:36</length>
+  <programme start="20261007141142 +0000" channel="tv3" stop="20261007144147 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">229</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:05</length>
   </programme>
-  <programme start="20261007000001 +0000" channel="tv3" stop="20261007055945 +0000">
-    <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <sub-title lang="ca">4169</sub-title>
-    <length units="minutes">05:59:44</length>
+  <programme start="20261007140228 +0000" channel="tv3" stop="20261007153223 +0000">
+    <title lang="ca">Parlon informa sobre l'episodi de pluges</title>
+    <sub-title lang="ca">4172</sub-title>
+    <length units="minutes">01:29:55</length>
   </programme>
 </tv>
