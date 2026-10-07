@@ -1,79 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261007135447 +0000" channel="tvi" stop="20261007143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7050</sub-title>
-    <length units="minutes">00:35:13</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261008002715 +0000" channel="tvi" stop="20261008021422 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2175</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:47:07</length>
   </programme>
-  <programme start="20261007143000 +0000" channel="tvi" stop="20261007153019 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7351</sub-title>
-    <length units="minutes">01:00:19</length>
+  <programme start="20261008021422 +0000" channel="tvi" stop="20261008040000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11374</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:45:38</length>
   </programme>
-  <programme start="20261007135500 +0000" channel="324" stop="20261007143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7050</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261008000000 +0000" channel="324" stop="20261008003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11373</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261007143000 +0000" channel="324" stop="20261007153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7351</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261008003000 +0000" channel="324" stop="20261008010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11374</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261007135957 +0000" channel="esport3" stop="20261007151151 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Leo Messi, l'NBA i tertúlia</sub-title>
-    <desc lang="ca">L'últim tango de Leo Messi, que s'ha retirat de la selecció. En parlem amb l'Àlex Delmàs. L'NBA amb Jordi de Mas, i tertúlia. Ens acompanyen Irati Vidal, Edgar Fornós i Dani Senabre.</desc>
-    <length units="minutes">01:11:54</length>
+  <programme start="20261007230001 +0000" channel="esport3" stop="20261008003140 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Leo, et trobarem a faltar; l'ego de Cristiano i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Jordi Martí, Gemma Mallorca, Jofre Mateu i Joaquín Maroto comenten l'adeu de Messi de la selecció argentina. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="minutes">01:31:39</length>
   </programme>
-  <programme start="20261007151151 +0000" channel="esport3" stop="20261007154410 +0000">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Trinxant passat, present i futur</sub-title>
-    <desc lang="ca">En la penúltima ruta de la temporada, Marc de las Heras anirà del Berguedà a la Cerdanya. En total, uns 70 quilòmetres, repartits en dues jornades, fets a peu, en cotxe, en avioneta, en segway i en patins!! En Marc encetarà la nova ruta a Bagà, descobrint qui van ser els càtars i un pastor que utilitza les noves tecnologies com a eina habitual. Travessarà el túnel del Cadí, passant per Bellver de Cerdanya i ens endinsarem en la vall de Santa Eugènia fins a Montellà i Martinet, on visitarem el Parc dels Búnquers. I acabarà la primera jornada anant fins a Lles i Aransa, per fer-hi un típic trinxat de la Cerdanya.L'endemà, en Marc passarà per All, Ger, Bolvir i Alp, just on hi ha l'aeròdrom, on aprendrà com es pilota una avioneta. En aterrar, a Puigcerdà, practicarà un dels esports que té més aficionats en aquesta comarca: l'hoquei gel. I acabarà la ruta a sobre d'un segway per anar fins a Llívia, un enclavament català a França.</desc>
-    <length units="minutes">00:32:19</length>
+  <programme start="20261008003140 +0000" channel="esport3" stop="20261008005237 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5531</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:57</length>
   </programme>
-  <programme start="20261007140431 +0000" channel="sx3" stop="20261007142649 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El vencedor del Campionat Infantil d'Arts Marcials</sub-title>
-    <desc lang="ca">La final que enfronta en Trunks i en Son Goten està més emocionant que mai. Vols d'una rapidesa increïble, boles d'energia, cops que fan tremolar tot l'estadi, els espectadors no havien vist mai un combat d'aquest nivell. Però ara com ara, el que ho veu més negre és en Satan, que s'haurà d'enfrontar al guanyador del campionat infantil!</desc>
-    <length units="minutes">00:22:18</length>
+  <programme start="20261008000306 +0000" channel="sx3" stop="20261008002316 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El dent de llet i el mesquer menut</sub-title>
+    <desc lang="ca">L'equip dels germans Kratt arriba a l'Àrtic. El Chris vol que l'Aviva els faci un vestit de llop àrtic, mentre que el Martin vol que sigui de bou mesquer. Per ajudar-la a triar decideixen separar-se i mostrar-li com són aquests dos animals. Però quan el Chris es fa amic d'un cadell de llop àrtic i el Martin d'una cria de bou mesquer i hi ha un enfrontament entre depredadors i preses, l'equip es troba en un greu dilema. Com reaccionaran enmig d'una autèntica batalla per a la supervivència?</desc>
+    <length units="minutes">00:20:10</length>
   </programme>
-  <programme start="20261007142649 +0000" channel="sx3" stop="20261007144552 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El millor truc d'en Satan</sub-title>
-    <desc lang="ca">En Satan ha de complir amb el seu deure i enfrontar-se al guanyador del Campionat Infantil d'Arts Marcials, en Trunks. Conscient que és incapaç de vèncer el descendent d'un dels superguerrers que es van enfrontar a en Cèl·lula, se n'haurà d'empescar alguna per no perdre la fama que té de guerrer més fort de la Terra. Com s'ho farà?!</desc>
-    <length units="minutes">00:19:03</length>
+  <programme start="20261008002316 +0000" channel="sx3" stop="20261008004354 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El guepard adoptat</sub-title>
+    <desc lang="ca">Mentre la resta de l'equip se'n va a comprar provisions i material per la nau Tortuga, els germans Kratt es queden a la sabana africana per anar d'aventura. Han promès als altres que no els trucaran per demanar ajuda. Però llavors veuen la Tacada, una cria de guepard, que l'ha adoptat una família de facoquers. La missió serà buscar la mare de debò per la sabana, però ho hauran de fer sols, perquè han promès que no trucarien.</desc>
+    <length units="minutes">00:20:38</length>
   </programme>
-  <programme start="20261007123821 +0000" channel="tv3" stop="20261007141142 +0000">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">Òscar Dalmau posarà a prova els coneixements de llengua catalana de tres concursants famosos a 'EL GRAN GRAN DICTAT'. En aquesta ocasió, l'actor Miki Esparbé, l'actriu Aina Clotet i el conductor d''El món a RAC1', Jordi Basté competiran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.A part de jugar a les diferents proves del programa, els tres convidats també demostraran el seu sentit de l'humor participant en diversos esquetxos. Així, veurem Òscar Dalmau transformat en Moisès recitant els deu manaments d''EL GRAN GRAN DICTAT'. Els concursants també confessaran alguns secrets que tenen ben amagats: per què Miki Esparbé sempre duu una pistola a sobre? L'Aina Clotet és qui diu que és en realitat? Què és el que li agrada menys de fer ràdio, a Jordi Basté?Els trucs del Mag Lari tornaran a aparèixer entre prova i prova per posar una mica de màgia al programa i, de passada, acabar la paciència del presentador.</desc>
-    <length units="minutes">01:33:21</length>
+  <programme start="20261008001303 +0000" channel="tv3" stop="20261008014756 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Tres</sub-title>
+    <desc lang="ca">TRESProductora: Tres la Película Frida Nadir AIE i Frida Films, 2021Director: Juanjo GiménezGuió: Juanjo Giménez i Pere AltimiraDirector de fotografia: Javier ArrontesMúsica: Domas StrupinskasIntèrprets: Marta Nieto(C.). Miki Esparbé (Iván), Fran Lareu (Pablo), Luisa Merelas (Marga), Cris Iglesias (Aurora), Julius Cotter (Phil) i Iria Parada (Isa)Sinopsi:C. és dissenyadora de so. Gaudeix amb la seva feina. Passa moltes hores sola, gravant efectes de sala, wild-tracks, editant i barrejant. L'estudi és el seu últim refugi: un lloc on postergar les avariades relacions que manté amb la seva exparella, amb la seva mare que ja és gran i amb els seus companys de treball. Encara que ella encara no ho sap, C. està començant a dessincronizar-se. Com si fos una pel·lícula mal sonoritzada, el seu cervell ha començat a processar el so més tard que les imatges. De cop, està curada, però ja no és la mateixa. La seva odissea l'ha fet madurar. Ara disposa d'una segona oportunitat. És a les seves mans no deixar-la escapar.</desc>
+    <length units="minutes">01:34:53</length>
   </programme>
-  <programme start="20261007141142 +0000" channel="tv3" stop="20261007144147 +0000">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">229</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:30:05</length>
-  </programme>
-  <programme start="20261007140228 +0000" channel="tv3" stop="20261007153223 +0000">
-    <title lang="ca">Parlon informa sobre l'episodi de pluges</title>
-    <sub-title lang="ca">4172</sub-title>
-    <length units="minutes">01:29:55</length>
+  <programme start="20261008014756 +0000" channel="tv3" stop="20261008021552 +0000">
+    <title lang="ca">Arts i oficis</title>
+    <sub-title lang="ca">Interiorisme</sub-title>
+    <desc lang="ca">Quan parlem d'interiorisme parlem d'espais efímers, corporatius, institucionals i privats. Els privats han disminuït com a demanada integral i majoritària però han generat un nou tipus de clients, molt informat, que dialoga amb el professional; el client corporatiu acostuma a demanar projectes singulars al servei la marca però cal saber adaptar-se a recursos financers de nivells molt diversos; espais institucionals, de vegades efímers altres amb més condicionants que marge de llibertat són una altra font de treball. La manera de sobreviure en aquest laberint l'expliquen a ELISAVA.</desc>
+    <length units="minutes">00:27:56</length>
   </programme>
 </tv>
