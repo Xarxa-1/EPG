@@ -1,74 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261008135505 +0000" channel="tvi" stop="20261008143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7051</sub-title>
-    <length units="minutes">00:34:55</length>
+  <programme start="20261009001414 +0000" channel="tvi" stop="20261009020850 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2176</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:54:36</length>
   </programme>
-  <programme start="20261008143000 +0000" channel="tvi" stop="20261008153002 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7352</sub-title>
-    <length units="minutes">01:00:02</length>
+  <programme start="20261009020850 +0000" channel="tvi" stop="20261009040000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11383</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:51:10</length>
   </programme>
-  <programme start="20261008135500 +0000" channel="324" stop="20261008143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7051</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261009003000 +0000" channel="324" stop="20261009010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11383</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261008143000 +0000" channel="324" stop="20261008153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7352</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261009010000 +0000" channel="324" stop="20261009060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11383</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261008140240 +0000" channel="esport3" stop="20261008153343 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Torna la Lliga, Històries del Futbol, Luis Frade i tertúlia</sub-title>
-    <desc lang="ca">Torna la Lliga. Demà, l'Espanyol visita el Màlaga; i dissabte el Barça rep el Getafe. Històries del Futbol, amb Marc Mayola; i Luis Frade, jugador del Barça d'handbol. Avui, partit contra el Dinamo al Palau. A la tertúlia ens acompanyen Iris Miquel, Joan Prats i en Pere de Cal Tet.</desc>
-    <length units="minutes">01:31:03</length>
+  <programme start="20261009003220 +0000" channel="esport3" stop="20261009004702 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5532</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:14:42</length>
   </programme>
-  <programme start="20261008153343 +0000" channel="esport3" stop="20261008160600 +0000">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Els Pirineus, als peus</sub-title>
-    <desc lang="ca">La ruta portarà el Marc de las Heras des de Saldes fins a la Seu d'Urgell. En total, uns 65 km, repartits en tres jornades, fets a peu, en cotxe i amb els Pirineus als nostres peus.I el Marc comença fort: pujant al Pedraforca! Un cim especial. La primera nit la passa al refugi Lluís Estasen i, l'endemà, corona aquest símbol del muntanyisme català amb un expert muntanyenc. De baixada passa per Gósol, un poble encantador, segueix per Josa i farem nit a Tuixén, on visita el museu de les trementinaires.La tercera jornada d'aquest utòpic GR el Marc matina per anar fins a Ossera, el lloc ideal per comprar herbes remeieres. Segueix per Sorribes, el Ges i, finalment, arriba a la Seu d'Urgell, on aprèn com es fa un dels millors formatges de vaca del món, que després ven al mercat de Sant Ermengol; i on es topa amb un concertista, que el convida al Festival de Música Antiga dels Pirineus. Un menú molt complet!</desc>
-    <length units="minutes">00:32:17</length>
+  <programme start="20261009004702 +0000" channel="esport3" stop="20261009021751 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">La prova del 9; 'El Colegiado' i 'El consultori'</sub-title>
+    <desc lang="ca">Víctor Lozano, David Bernabeu, Juli Garcia i Jordi Costa comenten les opcions de Flick per substituir Raphinha a la davantera del Barça. En Joan Fàbregas porta una notícia sobre l'àrbitre del clàssic. En Sergi Ferrer respon les preguntes dels espectadors.</desc>
+    <length units="minutes">01:30:49</length>
   </programme>
-  <programme start="20261008142146 +0000" channel="sx3" stop="20261008144030 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El cos invulnerable de l'Spopovitx</sub-title>
-    <desc lang="ca">En Cor Petit acaba descobrint que el seu adversari és el déu Neptú, un ésser superior a tots els altres déus, però no acaba d'entendre què hi fa, al Campionat Mundial d'Arts Marcials. D'altra banda, la Videl comença a lluitar contra l'Spopovitx, un rival que sembla immortal i que ha canviat molt des de l'últim campionat, on en Satan el va vèncer amb molta facilitat.</desc>
-    <length units="minutes">00:18:44</length>
+  <programme start="20261009002541 +0000" channel="sx3" stop="20261009004620 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El temple dels tigres</sub-title>
+    <desc lang="ca">Els germans Kratt tenen la sensació d'haver perdut el sentit animal, que els permet detectar qualsevol espècie. Per recuperar-lo se'n van a l'Índia a aprendre coses d'un animal que viu molt compenetrat amb la natura: el tigre de Bengala. Però un cop allà s'enduran una bona sorpresa: els ha seguit la Donita, que vol caçar tigres per a la línia de moda que ha de treure.</desc>
+    <length units="minutes">00:20:39</length>
   </programme>
-  <programme start="20261008144030 +0000" channel="sx3" stop="20261008150150 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">La impotència d'en Son Gohan davant la derrota de la Videl</sub-title>
-    <desc lang="ca">El cos invulnerable de l'Spopovitx ha deixat sense forces la Videl, que ja ho té tot perdut, però l'Spopovitx, que per guanyar-la només l'hauria de fer fora del ring, la continua pegant sense pietat. En Son Gohan, que de la ràbia que sent s'ha transformat en un superguerrer, jura que tard o d'hora es venjarà de l'Spopovitx.</desc>
-    <length units="minutes">00:21:20</length>
+  <programme start="20261009004620 +0000" channel="sx3" stop="20261009005806 +0000">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Un tresor de nino</sub-title>
+    <desc lang="ca">La Wendy descobreix que un vell milionari nostàlgic de la seva infància està disposat a pagar una fortuna per comprar el Puduk, el conill de peluix de la Marine. Però el corconet no acceptarà mai vendre el seu nino preferit. La Wendy decideix prendre-l'hi sense dir-li res. Però l'empresa resulta més complicada del que sembla perquè la Marine no se separa mai del seu Puduk!</desc>
+    <length units="minutes">00:11:46</length>
   </programme>
-  <programme start="20261008141239 +0000" channel="tv3" stop="20261008144235 +0000">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">230</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:29:56</length>
+  <programme start="20261009003146 +0000" channel="tv3" stop="20261009012800 +0000">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">Síria: Darrere les línies</sub-title>
+    <desc lang="ca">Amani Al-Ali és una de les poques dones il·lustradores de Síria. Viu i treballa a casa del seu pare a Idlib, l'única ciutat que encara no ha estat reconquerida per les tropes de Bashar Al-Assad. Però els bombarders russos l'ataquen constantment, i ella i els seus veïns estan atrapats entre l'avanç de les tropes d'Al-Assad i les milícies extremistes. L'Amani ha rebut elogis per les seves caricatures, però també ha estat amenaçada, denunciada i denigrada, i això ha fet que s'hagi plantejat abandonar el país. Mentre fa classes de dibuix per a dones i nenes, consola la seva neboda i intenta explicar la seva història al càmera del documental, els incessants bombardejos i el dramàtic escenari comencen a erosionar a poc a poc la seva visió del futur.</desc>
+    <length units="minutes">00:56:14</length>
   </programme>
-  <programme start="20261008144235 +0000" channel="tv3" stop="20261008152911 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El secreter</sub-title>
-    <desc lang="ca">Que existeixi un moble que es diu secreter és desconcertant, bàsicament perquè si hi vols amagar coses, amb el nom ja canta una mica. Però la voluntat és el que compta, per això li dediquem el programa d'avui. Ens visita una campiona d'apnea, la Isabel Sánchez-Arán. Pot estar més de 7 minuts sense respirar dins de l'aigua. Hi ha gent que fa el mateix quan dorm, però creiem que té molt més mèrit això seu. I sortim a passejar en Kirk, un gos del Prat de Llobregat, per la inundació del riu Groc del 1887.</desc>
-    <length units="minutes">00:46:36</length>
+  <programme start="20261009012800 +0000" channel="tv3" stop="20261009015557 +0000">
+    <title lang="ca">Diaris fotogràfics</title>
+    <sub-title lang="ca">Txema Salvans</sub-title>
+    <desc lang="ca">Sinopsi genèrica</desc>
+    <length units="minutes">00:27:57</length>
   </programme>
 </tv>
