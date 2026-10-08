@@ -3,76 +3,76 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20261008002715 +0000" channel="tvi" stop="20261008021422 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2175</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:47:07</length>
+  <programme start="20261008050000 +0000" channel="tvi" stop="20261008055942 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Horacio Fumero</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">00:59:42</length>
   </programme>
-  <programme start="20261008021422 +0000" channel="tvi" stop="20261008040000 +0000">
+  <programme start="20261008055942 +0000" channel="tvi" stop="20261008060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Horacio Fumero</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">00:00:18</length>
+  </programme>
+  <programme start="20261008010000 +0000" channel="324" stop="20261008060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11374</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:45:38</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261008000000 +0000" channel="324" stop="20261008003000 +0000">
+  <programme start="20261008060000 +0000" channel="324" stop="20261008080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11373</sub-title>
+    <sub-title lang="ca">11375</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261008003000 +0000" channel="324" stop="20261008010000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11374</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261008035628 +0000" channel="esport3" stop="20261008060253 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Kids&amp;Us Manresa-Ratiopharm Ulm / Eurocup / J2</sub-title>
+    <desc lang="ca">Després de la derrota en l'estrena, a la pista del PAOK de Tessalònica, el conjunt del Bages disputa el primer partit europeu del curs al Nou Congost.</desc>
+    <length units="minutes">02:06:25</length>
   </programme>
-  <programme start="20261007230001 +0000" channel="esport3" stop="20261008003140 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Leo, et trobarem a faltar; l'ego de Cristiano i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Jordi Martí, Gemma Mallorca, Jofre Mateu i Joaquín Maroto comenten l'adeu de Messi de la selecció argentina. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="minutes">01:31:39</length>
+  <programme start="20261008060253 +0000" channel="esport3" stop="20261008061410 +0000">
+    <title lang="ca">Pitch&amp;Cat</title>
+    <sub-title lang="ca">Campionat de Catalunya per equips. Final 2026</sub-title>
+    <desc lang="ca">Vivim la gran final del Campionat de Catalunya per Equips de 1a Divisió, des del P&amp;P Montseny, a Gualba. I, com sempre, completem el programa amb noves classes d'iniciació al pitch&amp;putt de la mà dels nostres col·laboradors habituals.</desc>
+    <length units="minutes">00:11:17</length>
   </programme>
-  <programme start="20261008003140 +0000" channel="esport3" stop="20261008005237 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5531</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:57</length>
+  <programme start="20261008051253 +0000" channel="sx3" stop="20261008052427 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Un cau molt desitjat</sub-title>
+    <desc lang="ca">La Guineta i la Castina descobreixen un cau fantàstic que una vegada ben arreglat podria servir per allotjar el pare de la Guineta quan la ve a veure. Però la cosa es complica, quan en Pinxo i en Timbal també el descobreixen i el volen convertir en una sala de jocs.</desc>
+    <length units="minutes">00:11:34</length>
   </programme>
-  <programme start="20261008000306 +0000" channel="sx3" stop="20261008002316 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El dent de llet i el mesquer menut</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt arriba a l'Àrtic. El Chris vol que l'Aviva els faci un vestit de llop àrtic, mentre que el Martin vol que sigui de bou mesquer. Per ajudar-la a triar decideixen separar-se i mostrar-li com són aquests dos animals. Però quan el Chris es fa amic d'un cadell de llop àrtic i el Martin d'una cria de bou mesquer i hi ha un enfrontament entre depredadors i preses, l'equip es troba en un greu dilema. Com reaccionaran enmig d'una autèntica batalla per a la supervivència?</desc>
-    <length units="minutes">00:20:10</length>
+  <programme start="20261008052427 +0000" channel="sx3" stop="20261008053107 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">N'has perdut un tros</sub-title>
+    <desc lang="ca">Avui el granger li ha encomanat a en Bitzer que deixi totes les finestres de la granja netes com una patena. En Bitzer, com de costum, ha encomanat la feina al ramat, però potser no recordava que quan els xais s'esveren un mica, són capaços de qualsevol cosa. A més, després del rebombori, s'ha de fer neteja abans que arribi el granger! Hi seran a temps?!</desc>
+    <length units="minutes">00:06:40</length>
   </programme>
-  <programme start="20261008002316 +0000" channel="sx3" stop="20261008004354 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El guepard adoptat</sub-title>
-    <desc lang="ca">Mentre la resta de l'equip se'n va a comprar provisions i material per la nau Tortuga, els germans Kratt es queden a la sabana africana per anar d'aventura. Han promès als altres que no els trucaran per demanar ajuda. Però llavors veuen la Tacada, una cria de guepard, que l'ha adoptat una família de facoquers. La missió serà buscar la mare de debò per la sabana, però ho hauran de fer sols, perquè han promès que no trucarien.</desc>
-    <length units="minutes">00:20:38</length>
+  <programme start="20261008045121 +0000" channel="tv3" stop="20261008053831 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El barret de copa</sub-title>
+    <desc lang="ca">El primer capítol de 'La Renaixença' està dedicat al barret de copa! És una peça de roba que ja està en desús i que nosaltres, com a bons renaixentistes, volem reivindicar. Com que és el primer dia, ens hem vist valents i hem convidat Els Catarres perquè pugin al nostre escenari. La cirereta del pastís serà la història per passejar el gos, una petita radionovel·la on escollirem un gos de l'audiència i el passejarem per un fet històric de la humanitat. En aquesta ocasió el portarem a visitar Pompeia durant l'erupció del Vesuvi.</desc>
+    <length units="minutes">00:47:10</length>
   </programme>
-  <programme start="20261008001303 +0000" channel="tv3" stop="20261008014756 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Tres</sub-title>
-    <desc lang="ca">TRESProductora: Tres la Película Frida Nadir AIE i Frida Films, 2021Director: Juanjo GiménezGuió: Juanjo Giménez i Pere AltimiraDirector de fotografia: Javier ArrontesMúsica: Domas StrupinskasIntèrprets: Marta Nieto(C.). Miki Esparbé (Iván), Fran Lareu (Pablo), Luisa Merelas (Marga), Cris Iglesias (Aurora), Julius Cotter (Phil) i Iria Parada (Isa)Sinopsi:C. és dissenyadora de so. Gaudeix amb la seva feina. Passa moltes hores sola, gravant efectes de sala, wild-tracks, editant i barrejant. L'estudi és el seu últim refugi: un lloc on postergar les avariades relacions que manté amb la seva exparella, amb la seva mare que ja és gran i amb els seus companys de treball. Encara que ella encara no ho sap, C. està començant a dessincronizar-se. Com si fos una pel·lícula mal sonoritzada, el seu cervell ha començat a processar el so més tard que les imatges. De cop, està curada, però ja no és la mateixa. La seva odissea l'ha fet madurar. Ara disposa d'una segona oportunitat. És a les seves mans no deixar-la escapar.</desc>
-    <length units="minutes">01:34:53</length>
-  </programme>
-  <programme start="20261008014756 +0000" channel="tv3" stop="20261008021552 +0000">
-    <title lang="ca">Arts i oficis</title>
-    <sub-title lang="ca">Interiorisme</sub-title>
-    <desc lang="ca">Quan parlem d'interiorisme parlem d'espais efímers, corporatius, institucionals i privats. Els privats han disminuït com a demanada integral i majoritària però han generat un nou tipus de clients, molt informat, que dialoga amb el professional; el client corporatiu acostuma a demanar projectes singulars al servei la marca però cal saber adaptar-se a recursos financers de nivells molt diversos; espais institucionals, de vegades efímers altres amb més condicionants que marge de llibertat són una altra font de treball. La manera de sobreviure en aquest laberint l'expliquen a ELISAVA.</desc>
-    <length units="minutes">00:27:56</length>
+  <programme start="20261008053831 +0000" channel="tv3" stop="20261008054350 +0000">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Montserrat</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="minutes">00:05:19</length>
   </programme>
 </tv>
