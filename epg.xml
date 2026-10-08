@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -15,64 +15,60 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261008050000 +0000" channel="tvi" stop="20261008055942 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Horacio Fumero</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:59:42</length>
+  <programme start="20261008135505 +0000" channel="tvi" stop="20261008143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7051</sub-title>
+    <length units="minutes">00:34:55</length>
   </programme>
-  <programme start="20261008055942 +0000" channel="tvi" stop="20261008060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Horacio Fumero</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:00:18</length>
+  <programme start="20261008143000 +0000" channel="tvi" stop="20261008153002 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7352</sub-title>
+    <length units="minutes">01:00:02</length>
   </programme>
-  <programme start="20261008010000 +0000" channel="324" stop="20261008060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11374</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261008135500 +0000" channel="324" stop="20261008143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7051</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261008060000 +0000" channel="324" stop="20261008080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11375</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261008143000 +0000" channel="324" stop="20261008153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7352</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261008035628 +0000" channel="esport3" stop="20261008060253 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Kids&amp;Us Manresa-Ratiopharm Ulm / Eurocup / J2</sub-title>
-    <desc lang="ca">Després de la derrota en l'estrena, a la pista del PAOK de Tessalònica, el conjunt del Bages disputa el primer partit europeu del curs al Nou Congost.</desc>
-    <length units="minutes">02:06:25</length>
+  <programme start="20261008140240 +0000" channel="esport3" stop="20261008153343 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Torna la Lliga, Històries del Futbol, Luis Frade i tertúlia</sub-title>
+    <desc lang="ca">Torna la Lliga. Demà, l'Espanyol visita el Màlaga; i dissabte el Barça rep el Getafe. Històries del Futbol, amb Marc Mayola; i Luis Frade, jugador del Barça d'handbol. Avui, partit contra el Dinamo al Palau. A la tertúlia ens acompanyen Iris Miquel, Joan Prats i en Pere de Cal Tet.</desc>
+    <length units="minutes">01:31:03</length>
   </programme>
-  <programme start="20261008060253 +0000" channel="esport3" stop="20261008061410 +0000">
-    <title lang="ca">Pitch&amp;Cat</title>
-    <sub-title lang="ca">Campionat de Catalunya per equips. Final 2026</sub-title>
-    <desc lang="ca">Vivim la gran final del Campionat de Catalunya per Equips de 1a Divisió, des del P&amp;P Montseny, a Gualba. I, com sempre, completem el programa amb noves classes d'iniciació al pitch&amp;putt de la mà dels nostres col·laboradors habituals.</desc>
-    <length units="minutes">00:11:17</length>
+  <programme start="20261008153343 +0000" channel="esport3" stop="20261008160600 +0000">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Els Pirineus, als peus</sub-title>
+    <desc lang="ca">La ruta portarà el Marc de las Heras des de Saldes fins a la Seu d'Urgell. En total, uns 65 km, repartits en tres jornades, fets a peu, en cotxe i amb els Pirineus als nostres peus.I el Marc comença fort: pujant al Pedraforca! Un cim especial. La primera nit la passa al refugi Lluís Estasen i, l'endemà, corona aquest símbol del muntanyisme català amb un expert muntanyenc. De baixada passa per Gósol, un poble encantador, segueix per Josa i farem nit a Tuixén, on visita el museu de les trementinaires.La tercera jornada d'aquest utòpic GR el Marc matina per anar fins a Ossera, el lloc ideal per comprar herbes remeieres. Segueix per Sorribes, el Ges i, finalment, arriba a la Seu d'Urgell, on aprèn com es fa un dels millors formatges de vaca del món, que després ven al mercat de Sant Ermengol; i on es topa amb un concertista, que el convida al Festival de Música Antiga dels Pirineus. Un menú molt complet!</desc>
+    <length units="minutes">00:32:17</length>
   </programme>
-  <programme start="20261008051253 +0000" channel="sx3" stop="20261008052427 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Un cau molt desitjat</sub-title>
-    <desc lang="ca">La Guineta i la Castina descobreixen un cau fantàstic que una vegada ben arreglat podria servir per allotjar el pare de la Guineta quan la ve a veure. Però la cosa es complica, quan en Pinxo i en Timbal també el descobreixen i el volen convertir en una sala de jocs.</desc>
-    <length units="minutes">00:11:34</length>
+  <programme start="20261008142146 +0000" channel="sx3" stop="20261008144030 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El cos invulnerable de l'Spopovitx</sub-title>
+    <desc lang="ca">En Cor Petit acaba descobrint que el seu adversari és el déu Neptú, un ésser superior a tots els altres déus, però no acaba d'entendre què hi fa, al Campionat Mundial d'Arts Marcials. D'altra banda, la Videl comença a lluitar contra l'Spopovitx, un rival que sembla immortal i que ha canviat molt des de l'últim campionat, on en Satan el va vèncer amb molta facilitat.</desc>
+    <length units="minutes">00:18:44</length>
   </programme>
-  <programme start="20261008052427 +0000" channel="sx3" stop="20261008053107 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">N'has perdut un tros</sub-title>
-    <desc lang="ca">Avui el granger li ha encomanat a en Bitzer que deixi totes les finestres de la granja netes com una patena. En Bitzer, com de costum, ha encomanat la feina al ramat, però potser no recordava que quan els xais s'esveren un mica, són capaços de qualsevol cosa. A més, després del rebombori, s'ha de fer neteja abans que arribi el granger! Hi seran a temps?!</desc>
-    <length units="minutes">00:06:40</length>
+  <programme start="20261008144030 +0000" channel="sx3" stop="20261008150150 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La impotència d'en Son Gohan davant la derrota de la Videl</sub-title>
+    <desc lang="ca">El cos invulnerable de l'Spopovitx ha deixat sense forces la Videl, que ja ho té tot perdut, però l'Spopovitx, que per guanyar-la només l'hauria de fer fora del ring, la continua pegant sense pietat. En Son Gohan, que de la ràbia que sent s'ha transformat en un superguerrer, jura que tard o d'hora es venjarà de l'Spopovitx.</desc>
+    <length units="minutes">00:21:20</length>
   </programme>
-  <programme start="20261008045121 +0000" channel="tv3" stop="20261008053831 +0000">
+  <programme start="20261008141239 +0000" channel="tv3" stop="20261008144235 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">230</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:29:56</length>
+  </programme>
+  <programme start="20261008144235 +0000" channel="tv3" stop="20261008152911 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El barret de copa</sub-title>
-    <desc lang="ca">El primer capítol de 'La Renaixença' està dedicat al barret de copa! És una peça de roba que ja està en desús i que nosaltres, com a bons renaixentistes, volem reivindicar. Com que és el primer dia, ens hem vist valents i hem convidat Els Catarres perquè pugin al nostre escenari. La cirereta del pastís serà la història per passejar el gos, una petita radionovel·la on escollirem un gos de l'audiència i el passejarem per un fet històric de la humanitat. En aquesta ocasió el portarem a visitar Pompeia durant l'erupció del Vesuvi.</desc>
-    <length units="minutes">00:47:10</length>
-  </programme>
-  <programme start="20261008053831 +0000" channel="tv3" stop="20261008054350 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Montserrat</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:05:19</length>
+    <sub-title lang="ca">El secreter</sub-title>
+    <desc lang="ca">Que existeixi un moble que es diu secreter és desconcertant, bàsicament perquè si hi vols amagar coses, amb el nom ja canta una mica. Però la voluntat és el que compta, per això li dediquem el programa d'avui. Ens visita una campiona d'apnea, la Isabel Sánchez-Arán. Pot estar més de 7 minuts sense respirar dins de l'aigua. Hi ha gent que fa el mateix quan dorm, però creiem que té molt més mèrit això seu. I sortim a passejar en Kirk, un gos del Prat de Llobregat, per la inundació del riu Groc del 1887.</desc>
+    <length units="minutes">00:46:36</length>
   </programme>
 </tv>
