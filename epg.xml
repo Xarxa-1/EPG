@@ -1,37 +1,31 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261009001414 +0000" channel="tvi" stop="20261009020850 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2176</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:54:36</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261009050007 +0000" channel="tvi" stop="20261009060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Amador/Medeiros/Galiana</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">00:59:53</length>
   </programme>
-  <programme start="20261009020850 +0000" channel="tvi" stop="20261009040000 +0000">
+  <programme start="20261009060000 +0000" channel="tvi" stop="20261009080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11383</sub-title>
+    <sub-title lang="ca">11384</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:51:10</length>
-  </programme>
-  <programme start="20261009003000 +0000" channel="324" stop="20261009010000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11383</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
   <programme start="20261009010000 +0000" channel="324" stop="20261009060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
@@ -39,40 +33,46 @@
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261009003220 +0000" channel="esport3" stop="20261009004702 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5532</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:14:42</length>
+  <programme start="20261009060000 +0000" channel="324" stop="20261009080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11384</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261009004702 +0000" channel="esport3" stop="20261009021751 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">La prova del 9; 'El Colegiado' i 'El consultori'</sub-title>
-    <desc lang="ca">Víctor Lozano, David Bernabeu, Juli Garcia i Jordi Costa comenten les opcions de Flick per substituir Raphinha a la davantera del Barça. En Joan Fàbregas porta una notícia sobre l'àrbitre del clàssic. En Sergi Ferrer respon les preguntes dels espectadors.</desc>
-    <length units="minutes">01:30:49</length>
+  <programme start="20261009051956 +0000" channel="esport3" stop="20261009052933 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Copa d'Espanya Trial</sub-title>
+    <desc lang="ca">Cambrils és l'escenari de la quarta i última prova de la Copa d'Espanya de Trial 2026, amb els títols en joc a les categories femenina i masculina.</desc>
+    <length units="minutes">00:09:37</length>
   </programme>
-  <programme start="20261009002541 +0000" channel="sx3" stop="20261009004620 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El temple dels tigres</sub-title>
-    <desc lang="ca">Els germans Kratt tenen la sensació d'haver perdut el sentit animal, que els permet detectar qualsevol espècie. Per recuperar-lo se'n van a l'Índia a aprendre coses d'un animal que viu molt compenetrat amb la natura: el tigre de Bengala. Però un cop allà s'enduran una bona sorpresa: els ha seguit la Donita, que vol caçar tigres per a la línia de moda que ha de treure.</desc>
-    <length units="minutes">00:20:39</length>
+  <programme start="20261009052933 +0000" channel="esport3" stop="20261009060028 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Prèvia WEC Barcelona</sub-title>
+    <desc lang="ca">Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
+    <length units="minutes">00:30:55</length>
   </programme>
-  <programme start="20261009004620 +0000" channel="sx3" stop="20261009005806 +0000">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Un tresor de nino</sub-title>
-    <desc lang="ca">La Wendy descobreix que un vell milionari nostàlgic de la seva infància està disposat a pagar una fortuna per comprar el Puduk, el conill de peluix de la Marine. Però el corconet no acceptarà mai vendre el seu nino preferit. La Wendy decideix prendre-l'hi sense dir-li res. Però l'empresa resulta més complicada del que sembla perquè la Marine no se separa mai del seu Puduk!</desc>
-    <length units="minutes">00:11:46</length>
+  <programme start="20261009052211 +0000" channel="sx3" stop="20261009052850 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Costa d'empassar</sub-title>
+    <desc lang="ca">Un observador d'ocells ha perdut el reclam per cridar els ànecs al camp on pasturen les ovelles, i en Shaun, després de divertir-s'hi una estona i de fer riure a tot el personal, sense voler, se l'ha acabat empassant. Les ovelles continuen rient, i més que mai! El que no està tan content és en Shaun, que està fent anar tots els ànecs de corcoll!</desc>
+    <length units="minutes">00:06:39</length>
   </programme>
-  <programme start="20261009003146 +0000" channel="tv3" stop="20261009012800 +0000">
-    <title lang="ca">Dibuixar pel canvi</title>
-    <sub-title lang="ca">Síria: Darrere les línies</sub-title>
-    <desc lang="ca">Amani Al-Ali és una de les poques dones il·lustradores de Síria. Viu i treballa a casa del seu pare a Idlib, l'única ciutat que encara no ha estat reconquerida per les tropes de Bashar Al-Assad. Però els bombarders russos l'ataquen constantment, i ella i els seus veïns estan atrapats entre l'avanç de les tropes d'Al-Assad i les milícies extremistes. L'Amani ha rebut elogis per les seves caricatures, però també ha estat amenaçada, denunciada i denigrada, i això ha fet que s'hagi plantejat abandonar el país. Mentre fa classes de dibuix per a dones i nenes, consola la seva neboda i intenta explicar la seva història al càmera del documental, els incessants bombardejos i el dramàtic escenari comencen a erosionar a poc a poc la seva visió del futur.</desc>
-    <length units="minutes">00:56:14</length>
+  <programme start="20261009052850 +0000" channel="sx3" stop="20261009053450 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Adéu, estable</sub-title>
+    <desc lang="ca">Avui en Shaun i les ovelles s'han quedat amb un pam de nas quan han descobert que el granger té intenció de remodelar l'estable de dalt a baix i que, a partir d'ara, ja no comptarà més amb la seva presència. Si volen que la vida a la granja continuï sent com fins ara, hauran de prendre mesures dràstiques. Avui més que mai!</desc>
+    <length units="minutes">00:06:00</length>
   </programme>
-  <programme start="20261009012800 +0000" channel="tv3" stop="20261009015557 +0000">
-    <title lang="ca">Diaris fotogràfics</title>
-    <sub-title lang="ca">Txema Salvans</sub-title>
-    <desc lang="ca">Sinopsi genèrica</desc>
-    <length units="minutes">00:27:57</length>
+  <programme start="20261009045925 +0000" channel="tv3" stop="20261009054556 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El paper de vàter</sub-title>
+    <desc lang="ca">Dediquem el segon capítol de 'La renaixença' al paper de vàter, un dels pocs objectes que segurament ens posen a tots al mateix nivell. Ens visita una 'sàvia per conèixer', la Marina Casanelles. És ensinistradora de gossos especialitzats en el rescat de persones, la detecció d'explosius, drogues... i ha decidit venir-nos a visitar amb en Ratatouille, un chihuahua que detecta marihuana. Acabem el programa amb una nova història per passejar el gos: avui sortim amb en Rumbo per la Barcelona del 1909, durant la Setmana Tràgica.</desc>
+    <length units="minutes">00:46:31</length>
+  </programme>
+  <programme start="20261009054556 +0000" channel="tv3" stop="20261009055132 +0000">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Garraf</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="minutes">00:05:36</length>
   </programme>
 </tv>
