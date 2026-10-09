@@ -1,78 +1,74 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261009050007 +0000" channel="tvi" stop="20261009060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Amador/Medeiros/Galiana</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">00:59:53</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261009135503 +0000" channel="tvi" stop="20261009143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7052</sub-title>
+    <length units="minutes">00:34:57</length>
   </programme>
-  <programme start="20261009060000 +0000" channel="tvi" stop="20261009080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11384</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261009143000 +0000" channel="tvi" stop="20261009152959 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7353</sub-title>
+    <length units="minutes">00:59:59</length>
   </programme>
-  <programme start="20261009010000 +0000" channel="324" stop="20261009060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11383</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261009135500 +0000" channel="324" stop="20261009143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7052</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261009060000 +0000" channel="324" stop="20261009080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11384</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261009143000 +0000" channel="324" stop="20261009153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7353</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261009051956 +0000" channel="esport3" stop="20261009052933 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Copa d'Espanya Trial</sub-title>
-    <desc lang="ca">Cambrils és l'escenari de la quarta i última prova de la Copa d'Espanya de Trial 2026, amb els títols en joc a les categories femenina i masculina.</desc>
-    <length units="minutes">00:09:37</length>
+  <programme start="20261009135914 +0000" channel="esport3" stop="20261009150928 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Hansi Flick, Màlaga-Espanyol i tertúlia</sub-title>
+    <desc lang="ca">La roda de premsa de Hansi Flick en la prèvia del Getafe-Barça de demà. Avui, l'Espanyol juga contra el Màlaga a La Rosaleda. Última hora de l'equip blanc-i-blau amb Oriol Vidal. A la tertúlia ens acompanyen Gemma Mallorca, David Sánchez i Nacho Peña.</desc>
+    <length units="minutes">01:10:14</length>
   </programme>
-  <programme start="20261009052933 +0000" channel="esport3" stop="20261009060028 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Prèvia WEC Barcelona</sub-title>
-    <desc lang="ca">Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
-    <length units="minutes">00:30:55</length>
+  <programme start="20261009150928 +0000" channel="esport3" stop="20261009154506 +0000">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Seguint el curs de la xisqueta</sub-title>
+    <desc lang="ca">El Marc seguirà el rastre de la xisqueta, l'ovella típica d'aquesta zona del Pirineu, a través d'un viatge que va del pla de Corts a la Vall d'Àssua, i que descobreix alguns dels indrets més espectaculars del Baix Pallars.La ruta que seguirà comença a l'estany de Montcortés i passa per Peramea, Gerri de la Sal, el congost de Collegats, Baro, Montardit de Baix, Sort, Rialp, Altron, Caregue i acaba a Llessui.Durant el trajecte aprendrem com es tenyeix la llana amb tints naturals, farem barranquisme al barranc de l'Infern, descobrirem en què consisteix l'Escola de Pastors, pujarem en bici per la vall d'Àssua, cuinarem pollastre de corral a Casa Bellera i coneixerem una pastora poc convencional que ens portarà al Triador, la baixada de 4.000 ovelles després de passar tot l'estiu dalt de la muntanya.</desc>
+    <length units="minutes">00:35:38</length>
   </programme>
-  <programme start="20261009052211 +0000" channel="sx3" stop="20261009052850 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Costa d'empassar</sub-title>
-    <desc lang="ca">Un observador d'ocells ha perdut el reclam per cridar els ànecs al camp on pasturen les ovelles, i en Shaun, després de divertir-s'hi una estona i de fer riure a tot el personal, sense voler, se l'ha acabat empassant. Les ovelles continuen rient, i més que mai! El que no està tan content és en Shaun, que està fent anar tots els ànecs de corcoll!</desc>
-    <length units="minutes">00:06:39</length>
+  <programme start="20261009140419 +0000" channel="sx3" stop="20261009142636 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Per fi el món descobreix qui és el gran Guerrer del Vent</sub-title>
+    <desc lang="ca">Després de salvar la Videl amb les mongetes màgiques, ha arribat l'hora del gran Guerrer del Vent, que s'haurà d'enfrontar a l'ajudant del déu Neptú. Just abans de començar el combat, dos companys de classe d'en Son Gohan el reconeixen i decideix lluitar fent servir el seu nom. Quan comença l'enfrontament, el que més sorprèn és que el seu rival vol que es transformi de seguida en superguerrer.</desc>
+    <length units="minutes">00:22:17</length>
   </programme>
-  <programme start="20261009052850 +0000" channel="sx3" stop="20261009053450 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Adéu, estable</sub-title>
-    <desc lang="ca">Avui en Shaun i les ovelles s'han quedat amb un pam de nas quan han descobert que el granger té intenció de remodelar l'estable de dalt a baix i que, a partir d'ara, ja no comptarà més amb la seva presència. Si volen que la vida a la granja continuï sent com fins ara, hauran de prendre mesures dràstiques. Avui més que mai!</desc>
-    <length units="minutes">00:06:00</length>
+  <programme start="20261009142636 +0000" channel="sx3" stop="20261009144558 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Conspiració per absorbir l'energia d'en Son Gohan</sub-title>
+    <desc lang="ca">La sorpresa de l'ajudant del déu Neptú, que li demana al seu rival que es converteixi de seguida en superguerrer, acaba sent encara més gran quan l'Spopovitx i el seu acompanyant absorbeixen l'energia d'en Son Gohan. Tot seguit, el déu Neptú revela la seva identitat a en Son Goku i comencen a perseguir els dos enviats del mag Babidí.</desc>
+    <length units="minutes">00:19:22</length>
   </programme>
-  <programme start="20261009045925 +0000" channel="tv3" stop="20261009054556 +0000">
+  <programme start="20261009140308 +0000" channel="tv3" stop="20261009143300 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">231</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:29:52</length>
+  </programme>
+  <programme start="20261009143300 +0000" channel="tv3" stop="20261009151946 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El paper de vàter</sub-title>
-    <desc lang="ca">Dediquem el segon capítol de 'La renaixença' al paper de vàter, un dels pocs objectes que segurament ens posen a tots al mateix nivell. Ens visita una 'sàvia per conèixer', la Marina Casanelles. És ensinistradora de gossos especialitzats en el rescat de persones, la detecció d'explosius, drogues... i ha decidit venir-nos a visitar amb en Ratatouille, un chihuahua que detecta marihuana. Acabem el programa amb una nova història per passejar el gos: avui sortim amb en Rumbo per la Barcelona del 1909, durant la Setmana Tràgica.</desc>
-    <length units="minutes">00:46:31</length>
-  </programme>
-  <programme start="20261009054556 +0000" channel="tv3" stop="20261009055132 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Garraf</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:05:36</length>
+    <sub-title lang="ca">El bastó</sub-title>
+    <desc lang="ca">El bastó ens ha acompanyat des de la prehistòria. Sempre ens ha ajudat a caminar, però també ha sigut sinònim de poder i classes socials. Nosaltres li dediquem aquest programa perquè d'aquí uns anys segur que l'acabarem fent servir. Rebem l'Albert Elfa, que ens presenta 'Oh, humanitat!', un llibre on explica coses tan normals com que va confondre George Clooney i Matt Damon amb dos agents de la CIA. Sortim a passejar el gos pel gran incendi de Roma del 1964. Hi anem amb la Pastora, una gossa de 12 anys que va fent, pobreta.</desc>
+    <length units="minutes">00:46:46</length>
   </programme>
 </tv>
