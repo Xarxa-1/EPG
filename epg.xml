@@ -1,74 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261009135503 +0000" channel="tvi" stop="20261009143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7052</sub-title>
-    <length units="minutes">00:34:57</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261009220555 +0000" channel="tvi" stop="20261010004656 +0000">
+    <title lang="ca">Col·lapse</title>
+    <sub-title lang="ca">156</sub-title>
+    <desc lang="ca">Jordi González visita una de les zones afectades pels aiguats. Parlarà amb Patricia Lucas, una veïna de Malgrat de Mar a qui la pluja intensa ha inundat completament la casa i l'ha obligada a viure temporalment en un càmping. Queden 50 dies per a les eleccions generals; és decisiu el vot dels catalans. Què ens espera? En parlem amb els periodistes Maiol Roger (subdirector d''El matí de Catalunya Ràdio'), Josep Capella (de la delegació de Madrid de TV3), i Iva Angera. Carlos Latre, l'home de les mil cares, estrena una secció en què barreja actualitat i humor.Analitzem l'esdeveniment musical de l'any: els concerts de comiat d'Oques Grasses, amb Oscar Nin (crític d'art), Gal·la Castelltort (presentadora de 'Loft ' a Icat Fm) i fan número 1 del grup, i la cantant Suu.I el psiconeuroinmunòleg Xevi Verdaguer explica trucs per entendre el nostre metabolisme si volem treure'ns els quilos de més que encara tenim acumulats de l'estiu. I, com sempre, ens acompanyaran els nostres col·laboradora fixos Sergi Pàmies, Albert Montagut i els membres de la taula final.Aquesta setmana i de forma excepcional, divendres 22:10.</desc>
+    <length units="minutes">02:41:01</length>
   </programme>
-  <programme start="20261009143000 +0000" channel="tvi" stop="20261009152959 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7353</sub-title>
-    <length units="minutes">00:59:59</length>
+  <programme start="20261010004656 +0000" channel="tvi" stop="20261010011350 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">El Lluçanès existeix</sub-title>
+    <desc lang="ca">Mar Pujol publica el seu tercer disc consolidada ja com una figura clau de la cançó catalana actual. Es titula 'D'aquesta aigua no en beuré', i de les seves composicions en torna a brollar el paisatge i el caràcter de la terra que les ha vist néixer, el Lluçanès. La seva comarca té menys de 6.000 habitants, però entre ells s'hi compten força artistes. Al bell mig de la comarca, a Sant Martí d'Albars, hi viu Griselda Juncà. És una lluçanesa que amb el mallorquí Tomeu Amer van formar Hotel iocandi, una companyia de circ que va començar la carrera a Barcelona, però que s'ha acabat instal·lant i treballant a la terra d'ella. També hi ha molts lluçanesos que no es dediquen a cap disciplina artística, però que la practiquen. Això es pot comprovar a l'escola de circ La Cabirola, de la qual Juncà forma part. És a Lluçà, un municipi de menys de 300 habitants, i l'escola ha arribat a tenir un centenar d'alumnes, entre elles Mar Pujol i Laia Pujol. És precisament Laia Pujol qui va dirigir l'Escola de Música de Prats de Lluçanès fins que fa 5 anys va viatjar als Estats Units per formar-se en música comunitària, i va obtenir una nova perspectiva de la seva comarca. Ara treballa a l'Academy for Impact through Music, organització que porta diversos projectes de música comunitària a escala internacional. Té, però, molt presents els seus orígens en aquesta petita comarca de la Catalunya Central.</desc>
+    <length units="minutes">00:26:54</length>
   </programme>
-  <programme start="20261009135500 +0000" channel="324" stop="20261009143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7052</sub-title>
-    <length units="minutes">00:35:00</length>
-  </programme>
-  <programme start="20261009143000 +0000" channel="324" stop="20261009153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7353</sub-title>
+  <programme start="20261009233000 +0000" channel="324" stop="20261010003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11391</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261009135914 +0000" channel="esport3" stop="20261009150928 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Hansi Flick, Màlaga-Espanyol i tertúlia</sub-title>
-    <desc lang="ca">La roda de premsa de Hansi Flick en la prèvia del Getafe-Barça de demà. Avui, l'Espanyol juga contra el Màlaga a La Rosaleda. Última hora de l'equip blanc-i-blau amb Oriol Vidal. A la tertúlia ens acompanyen Gemma Mallorca, David Sánchez i Nacho Peña.</desc>
-    <length units="minutes">01:10:14</length>
+  <programme start="20261010003000 +0000" channel="324" stop="20261010010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11392</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261009150928 +0000" channel="esport3" stop="20261009154506 +0000">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Seguint el curs de la xisqueta</sub-title>
-    <desc lang="ca">El Marc seguirà el rastre de la xisqueta, l'ovella típica d'aquesta zona del Pirineu, a través d'un viatge que va del pla de Corts a la Vall d'Àssua, i que descobreix alguns dels indrets més espectaculars del Baix Pallars.La ruta que seguirà comença a l'estany de Montcortés i passa per Peramea, Gerri de la Sal, el congost de Collegats, Baro, Montardit de Baix, Sort, Rialp, Altron, Caregue i acaba a Llessui.Durant el trajecte aprendrem com es tenyeix la llana amb tints naturals, farem barranquisme al barranc de l'Infern, descobrirem en què consisteix l'Escola de Pastors, pujarem en bici per la vall d'Àssua, cuinarem pollastre de corral a Casa Bellera i coneixerem una pastora poc convencional que ens portarà al Triador, la baixada de 4.000 ovelles després de passar tot l'estiu dalt de la muntanya.</desc>
-    <length units="minutes">00:35:38</length>
+  <programme start="20261009230000 +0000" channel="esport3" stop="20261010003109 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé</sub-title>
+    <desc lang="ca">Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.</desc>
+    <length units="minutes">01:31:09</length>
   </programme>
-  <programme start="20261009140419 +0000" channel="sx3" stop="20261009142636 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Per fi el món descobreix qui és el gran Guerrer del Vent</sub-title>
-    <desc lang="ca">Després de salvar la Videl amb les mongetes màgiques, ha arribat l'hora del gran Guerrer del Vent, que s'haurà d'enfrontar a l'ajudant del déu Neptú. Just abans de començar el combat, dos companys de classe d'en Son Gohan el reconeixen i decideix lluitar fent servir el seu nom. Quan comença l'enfrontament, el que més sorprèn és que el seu rival vol que es transformi de seguida en superguerrer.</desc>
-    <length units="minutes">00:22:17</length>
+  <programme start="20261010003109 +0000" channel="esport3" stop="20261010005056 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5533</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:19:47</length>
   </programme>
-  <programme start="20261009142636 +0000" channel="sx3" stop="20261009144558 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Conspiració per absorbir l'energia d'en Son Gohan</sub-title>
-    <desc lang="ca">La sorpresa de l'ajudant del déu Neptú, que li demana al seu rival que es converteixi de seguida en superguerrer, acaba sent encara més gran quan l'Spopovitx i el seu acompanyant absorbeixen l'energia d'en Son Gohan. Tot seguit, el déu Neptú revela la seva identitat a en Son Goku i comencen a perseguir els dos enviats del mag Babidí.</desc>
-    <length units="minutes">00:19:22</length>
+  <programme start="20261009234757 +0000" channel="sx3" stop="20261010000806 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">La salamandra del foc</sub-title>
+    <desc lang="ca">Explorant la Selva Negra, a Alemanya, els germans Kratt troben unes salamandres que surten d'entre les flames d'una foguera i no s'han cremat ni fet mal. Amb tot l'equip, decideixen investigar aquest misteri, perquè les salamandres precisament necessiten la humitat per viure. Al mateix temps, hauran d'impedir que la Donita Donata faci mal a les salamandres, perquè, convençuda que les salamandres tenen propietats ignífugues, es vol fer un vestit especial amb la pell d'aquest amfibi per lluir-lo en una desfilada de moda.</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
-  <programme start="20261009140308 +0000" channel="tv3" stop="20261009143300 +0000">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">231</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:29:52</length>
+  <programme start="20261010000806 +0000" channel="sx3" stop="20261010002815 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">L'hàmster galtones</sub-title>
+    <desc lang="ca">Mentre l'Aviva fa els últims retocs als seus xips d'energia Micro XT, el Jimmy decideix provar els potenciadors del motor turbo que la Koki acaba de revisar. Això fa que, sense voler, els xips s'acabin perdent en uns camps d'Alemanya. Allà descobreixen l'hàmster comú, un gran recol·lector, i decideixen seguir-ne uns quants exemplars per veure si els ajuden a trobar els xips. Mentrestant el Jimmy, des de la nau Tortuga, demana ajuda als amics dels germans Kratt.</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
-  <programme start="20261009143300 +0000" channel="tv3" stop="20261009151946 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El bastó</sub-title>
-    <desc lang="ca">El bastó ens ha acompanyat des de la prehistòria. Sempre ens ha ajudat a caminar, però també ha sigut sinònim de poder i classes socials. Nosaltres li dediquem aquest programa perquè d'aquí uns anys segur que l'acabarem fent servir. Rebem l'Albert Elfa, que ens presenta 'Oh, humanitat!', un llibre on explica coses tan normals com que va confondre George Clooney i Matt Damon amb dos agents de la CIA. Sortim a passejar el gos pel gran incendi de Roma del 1964. Hi anem amb la Pastora, una gossa de 12 anys que va fent, pobreta.</desc>
-    <length units="minutes">00:46:46</length>
+  <programme start="20261009233552 +0000" channel="tv3" stop="20261010002454 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Pirineus</sub-title>
+    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
+    <length units="minutes">00:49:02</length>
+  </programme>
+  <programme start="20261010002454 +0000" channel="tv3" stop="20261010011751 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Germans Green</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
+    <length units="minutes">00:52:57</length>
   </programme>
 </tv>
