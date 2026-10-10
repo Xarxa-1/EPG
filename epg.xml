@@ -1,77 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
-  <programme start="20261010130653 +0000" channel="tvi" stop="20261010133352 +0000">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un hoteler dels Pirineus (Tardor - Hivern))</sub-title>
-    <desc lang="ca">Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.</desc>
-    <length units="minutes">00:26:59</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261010182237 +0000" channel="tvi" stop="20261010191509 +0000">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Els Vilars d'Arbeca: la més  gran fortalesa del món Íber</sub-title>
+    <desc lang="ca">Visitem la fortalesa ibèrica d'Els Vilars d'Arbeca, a la comarca de les Garrigues. Una fortalesa fundada fa uns 2.800 anys per la tribu ibèrica dels ilergetes i que té unes dimensions descomunals. Però els indicis que ens porten a Arbeca ens diuen que la fortalesa encara podria ser més gran: podria tenir un segon fossat defensiu! S'haurà d'excavar per confirmar o no aquesta hipòtesi. També excavem una enorme cisterna per esbrinar si era només una cisterna per guardar aigua o també era un pou. D'aquesta manera sabrem com s'abastien els ibers que vivien als Vilars. Com vivien? Com s'organitzaven? Quants eren? Quina estructura militar tenien? Per què aquesta fortalesa és en una gran plana quan els ibers les construïen damunt turons? Tenim moltes preguntes a fer i a respondre.</desc>
+    <length units="minutes">00:52:32</length>
   </programme>
-  <programme start="20261010133352 +0000" channel="tvi" stop="20261010134743 +0000">
-    <title lang="ca">Talent creatiu</title>
-    <sub-title lang="ca">Andreu Tolrà, cultivador de plantes</sub-title>
-    <desc lang="ca">Es fa dir Andreu 'el Magnífico' i és un apassionat de les plantes, les flors i la vida. Una conversa amb ell és un cant a la vida. Produeix plantes d'autor que ven al major al Mercat de Flor i Planta Ornamental de Catalunya, a Vilassar de Mar.</desc>
-    <length units="minutes">00:13:51</length>
+  <programme start="20261010191509 +0000" channel="tvi" stop="20261010193025 +0000">
+    <title lang="ca">Literal</title>
+    <sub-title lang="ca">Literalment perduda</sub-title>
+    <desc lang="ca">Qui no s'ha sentit perduda alguna vegada? I qui no ha decidit que, per trobar-se, el millor que podia fer era sortir de la seva zona de confort? Anar a Colòmbia a fer un voluntariat o a Nova York d'au-pair per aprendre anglès. Encara està tot per fer i tot és possible? A 'Literal', literalment perdudes amb Regina Rodríguez Sirvent i Sara Prats.</desc>
+    <length units="minutes">00:15:16</length>
   </programme>
-  <programme start="20261010120000 +0000" channel="324" stop="20261010143000 +0000">
+  <programme start="20261010163000 +0000" channel="324" stop="20261010183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11395</sub-title>
+    <sub-title lang="ca">11396</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261010143000 +0000" channel="324" stop="20261010154000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7354</sub-title>
-    <length units="minutes">01:10:00</length>
+  <programme start="20261010183000 +0000" channel="324" stop="20261010200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11397</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261010124850 +0000" channel="esport3" stop="20261010142353 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé</sub-title>
-    <desc lang="ca">Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.</desc>
-    <length units="minutes">01:35:03</length>
+  <programme start="20261010182712 +0000" channel="esport3" stop="20261010202546 +0000">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Barça-Getafe</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">01:58:34</length>
   </programme>
-  <programme start="20261010142353 +0000" channel="esport3" stop="20261010144829 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / Indianapolis / 8</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
-    <length units="minutes">00:24:36</length>
+  <programme start="20261010202546 +0000" channel="esport3" stop="20261010212721 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post Barça-Getafe / J8</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:01:35</length>
   </programme>
-  <programme start="20261010131044 +0000" channel="sx3" stop="20261010133254 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Les formes de l'armadillo</sub-title>
-    <desc lang="ca">L'equip Kratt està meravellat amb les formes geomètriques que veuen a la natura i troben un armadillo de tres bandes que n'és un bon exemple: té una armadura feta de plaques òssies de moltes formes que encaixen com si fessin un puzle. Llavors, es posen programar un vestit de poder d'armadillo, però mentrestant s'hauran d'enfrontar amb en Zach, que vol demostrar que les formes dels zachbots són millors que les dels animals.</desc>
-    <length units="minutes">00:22:10</length>
+  <programme start="20261010182859 +0000" channel="sx3" stop="20261010183539 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">El vol dels porcs</sub-title>
+    <desc lang="ca">Avui hi ha visita de l'inspector. La granja està neta com una patena i el comportament de tots els animals és immaculat. Fins que l'inspector entra a l'interior de la granja i al camp de pastura hi esclata una batalla entre les ovelles i els porcs que sembla que no hagi de tenir fi. Ara la feina és per a en Bitzer, que haurà d'entretenir l'inspector i mirar de posar pau!</desc>
+    <length units="minutes">00:06:40</length>
   </programme>
-  <programme start="20261010133254 +0000" channel="sx3" stop="20261010135523 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Patates improvisades – Manu  Guix</sub-title>
-    <desc lang="ca">El Manu Guix toca molts instruments... en canvi, una paella o un ganivet els ha tocat molt poques vegades. Com que és un artista tan enfeinat, prepararem amb ell una recepta molt ràpida i fàcil: patates farcides al microones. Als 'Food trucs' farem coixins de llenties per al mal d'esquena i farem ballar un ou. També construirem l'Epi i el Blai amb fruites!</desc>
-    <length units="minutes">00:22:29</length>
+  <programme start="20261010183539 +0000" channel="sx3" stop="20261010184138 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Coses de la Shirley</sub-title>
+    <desc lang="ca">En Shaun ha tingut una idea genial per ajudar la Shirley a moure's per la granja. Unes rodes i un bon comandament a distància i tot solucionat. Tot va com una seda, fins que el comandament a distància de la tele del granger comença a interferir amb el d'en Shaun, i la Shirley comença a anar de la cuina al menjador! Com s'ho faran per aturar-la?!</desc>
+    <length units="minutes">00:05:59</length>
   </programme>
-  <programme start="20261010124429 +0000" channel="tv3" stop="20261010134606 +0000">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Institut Pere Mata de Reus</sub-title>
-    <desc lang="ca">Aquesta setmana L'Albert Om i l'equip d'historiadors viatgen fins a Reus a l'Institut Pere Mata, per seguir fent la tria dels 100 objectes que aniran al Museu d'Història de Catalunya. Hauran de triar entre les joies d'una mezzosoprano que va fer carrera als Estats Units als 50, un bust de la República amagat a una papereria durant tos els anys de la dictadura o una tovallola de l'Exposició Internacional de 1929 de Barcelona.</desc>
-    <length units="minutes">01:01:37</length>
+  <programme start="20261010172052 +0000" channel="tv3" stop="20261010185802 +0000">
+    <title lang="ca">Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨</title>
+    <sub-title lang="ca">Documental del concert d'Oques Grasses</sub-title>
+    <length units="minutes">01:37:10</length>
   </programme>
-  <programme start="20261010134606 +0000" channel="tv3" stop="20261010140806 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Entrena-ment</sub-title>
-    <desc lang="ca">La intel·ligència té un origen doble, innat i adquirit. El programa tracta el vessant adquirit o entrenat de la intel·ligència en una de les seves manifestacions més evidents: el llenguatge.</desc>
-    <length units="minutes">00:22:00</length>
+  <programme start="20261010185802 +0000" channel="tv3" stop="20261010195432 +0000">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">Síria: Darrere les línies</sub-title>
+    <desc lang="ca">Amani Al-Ali és una de les poques dones il·lustradores de Síria. Viu i treballa a casa del seu pare a Idlib, l'única ciutat que encara no ha estat reconquerida per les tropes de Bashar Al-Assad. Però els bombarders russos l'ataquen constantment, i ella i els seus veïns estan atrapats entre l'avanç de les tropes d'Al-Assad i les milícies extremistes. L'Amani ha rebut elogis per les seves caricatures, però també ha estat amenaçada, denunciada i denigrada, i això ha fet que s'hagi plantejat abandonar el país. Mentre fa classes de dibuix per a dones i nenes, consola la seva neboda i intenta explicar la seva història al càmera del documental, els incessants bombardejos i el dramàtic escenari comencen a erosionar a poc a poc la seva visió del futur.</desc>
+    <length units="minutes">00:56:30</length>
   </programme>
 </tv>
