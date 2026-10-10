@@ -3,11 +3,11 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -15,64 +15,64 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261009220555 +0000" channel="tvi" stop="20261010004656 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">156</sub-title>
-    <desc lang="ca">Jordi González visita una de les zones afectades pels aiguats. Parlarà amb Patricia Lucas, una veïna de Malgrat de Mar a qui la pluja intensa ha inundat completament la casa i l'ha obligada a viure temporalment en un càmping. Queden 50 dies per a les eleccions generals; és decisiu el vot dels catalans. Què ens espera? En parlem amb els periodistes Maiol Roger (subdirector d''El matí de Catalunya Ràdio'), Josep Capella (de la delegació de Madrid de TV3), i Iva Angera. Carlos Latre, l'home de les mil cares, estrena una secció en què barreja actualitat i humor.Analitzem l'esdeveniment musical de l'any: els concerts de comiat d'Oques Grasses, amb Oscar Nin (crític d'art), Gal·la Castelltort (presentadora de 'Loft ' a Icat Fm) i fan número 1 del grup, i la cantant Suu.I el psiconeuroinmunòleg Xevi Verdaguer explica trucs per entendre el nostre metabolisme si volem treure'ns els quilos de més que encara tenim acumulats de l'estiu. I, com sempre, ens acompanyaran els nostres col·laboradora fixos Sergi Pàmies, Albert Montagut i els membres de la taula final.Aquesta setmana i de forma excepcional, divendres 22:10.</desc>
-    <length units="minutes">02:41:01</length>
+  <programme start="20261010045958 +0000" channel="tvi" stop="20261010060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Benavent/Bonell</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">01:00:02</length>
   </programme>
-  <programme start="20261010004656 +0000" channel="tvi" stop="20261010011350 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">El Lluçanès existeix</sub-title>
-    <desc lang="ca">Mar Pujol publica el seu tercer disc consolidada ja com una figura clau de la cançó catalana actual. Es titula 'D'aquesta aigua no en beuré', i de les seves composicions en torna a brollar el paisatge i el caràcter de la terra que les ha vist néixer, el Lluçanès. La seva comarca té menys de 6.000 habitants, però entre ells s'hi compten força artistes. Al bell mig de la comarca, a Sant Martí d'Albars, hi viu Griselda Juncà. És una lluçanesa que amb el mallorquí Tomeu Amer van formar Hotel iocandi, una companyia de circ que va començar la carrera a Barcelona, però que s'ha acabat instal·lant i treballant a la terra d'ella. També hi ha molts lluçanesos que no es dediquen a cap disciplina artística, però que la practiquen. Això es pot comprovar a l'escola de circ La Cabirola, de la qual Juncà forma part. És a Lluçà, un municipi de menys de 300 habitants, i l'escola ha arribat a tenir un centenar d'alumnes, entre elles Mar Pujol i Laia Pujol. És precisament Laia Pujol qui va dirigir l'Escola de Música de Prats de Lluçanès fins que fa 5 anys va viatjar als Estats Units per formar-se en música comunitària, i va obtenir una nova perspectiva de la seva comarca. Ara treballa a l'Academy for Impact through Music, organització que porta diversos projectes de música comunitària a escala internacional. Té, però, molt presents els seus orígens en aquesta petita comarca de la Catalunya Central.</desc>
-    <length units="minutes">00:26:54</length>
-  </programme>
-  <programme start="20261009233000 +0000" channel="324" stop="20261010003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11391</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261010003000 +0000" channel="324" stop="20261010010000 +0000">
+  <programme start="20261010060000 +0000" channel="tvi" stop="20261010070000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11392</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261009230000 +0000" channel="esport3" stop="20261010003109 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé</sub-title>
-    <desc lang="ca">Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.</desc>
-    <length units="minutes">01:31:09</length>
+  <programme start="20261010010000 +0000" channel="324" stop="20261010060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11392</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261010003109 +0000" channel="esport3" stop="20261010005056 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5533</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:19:47</length>
+  <programme start="20261010060000 +0000" channel="324" stop="20261010070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11392</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261009234757 +0000" channel="sx3" stop="20261010000806 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">La salamandra del foc</sub-title>
-    <desc lang="ca">Explorant la Selva Negra, a Alemanya, els germans Kratt troben unes salamandres que surten d'entre les flames d'una foguera i no s'han cremat ni fet mal. Amb tot l'equip, decideixen investigar aquest misteri, perquè les salamandres precisament necessiten la humitat per viure. Al mateix temps, hauran d'impedir que la Donita Donata faci mal a les salamandres, perquè, convençuda que les salamandres tenen propietats ignífugues, es vol fer un vestit especial amb la pell d'aquest amfibi per lluir-lo en una desfilada de moda.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261010050310 +0000" channel="esport3" stop="20261010052710 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / San Antonio / 6</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <length units="minutes">00:24:00</length>
   </programme>
-  <programme start="20261010000806 +0000" channel="sx3" stop="20261010002815 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'hàmster galtones</sub-title>
-    <desc lang="ca">Mentre l'Aviva fa els últims retocs als seus xips d'energia Micro XT, el Jimmy decideix provar els potenciadors del motor turbo que la Koki acaba de revisar. Això fa que, sense voler, els xips s'acabin perdent en uns camps d'Alemanya. Allà descobreixen l'hàmster comú, un gran recol·lector, i decideixen seguir-ne uns quants exemplars per veure si els ajuden a trobar els xips. Mentrestant el Jimmy, des de la nau Tortuga, demana ajuda als amics dels germans Kratt.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261010052710 +0000" channel="esport3" stop="20261010055147 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / San Antonio / 6</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <length units="minutes">00:24:37</length>
   </programme>
-  <programme start="20261009233552 +0000" channel="tv3" stop="20261010002454 +0000">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Pirineus</sub-title>
-    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
-    <length units="minutes">00:49:02</length>
+  <programme start="20261010050218 +0000" channel="sx3" stop="20261010051348 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El teixó volador</sub-title>
+    <desc lang="ca">Avui, després d'esmorzar, els pares se'n van a fer una caminada que, segons la Marguerite, serà tota una aventura. Quan es queden sols, els nens decideixen que ells també volen viure la seva pròpia aventura. La Guineta i en Pinxo se'n van a buscar un lloc ple de fruites i verdures gegants, i la Trufa i en Timbal es posen a treballar en un invent per volar com els ocells.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261010002454 +0000" channel="tv3" stop="20261010011751 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Germans Green</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <length units="minutes">00:52:57</length>
+  <programme start="20261010051348 +0000" channel="sx3" stop="20261010052523 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Una noieta una mica pesada</sub-title>
+    <desc lang="ca">En un arbre al mig del bosc, la Guineta hi ha trobat un rusc d'abelles ple de mel. La petita guineu hi vol portar els bessons per donar-los una sorpresa: un berenar ben dolç. En Lucien, que en sap molt, d'abelles i de collir mel, li diu que l'acompanyarà a l'arbre i l'ajudarà amb el rusc. Però els pares de la Guineta volen que es cuidi de la Trufa, i l'excursió es complica.</desc>
+    <length units="minutes">00:11:35</length>
+  </programme>
+  <programme start="20261010045850 +0000" channel="tv3" stop="20261010050622 +0000">
+    <title lang="ca">Talent creatiu</title>
+    <sub-title lang="ca">Oscar D'Aniello, ciclista i raper</sub-title>
+    <desc lang="ca">Nom artístic d'Oscar D'Aniello, músic conegut per formar part actualment de la banda Delafé y las Flores Azules juntament amb Helena Miquel. La seva música bascula entre el pop, l'indie, el hip hop i el trip hop. A la sèrie explica els seus inicis com a músic, el seu pas per Mishima, les claus de l'èxit, de la indústria musical, de la seva manera de crear i de com arribar a ser feliç.</desc>
+    <length units="minutes">00:07:32</length>
+  </programme>
+  <programme start="20261010050622 +0000" channel="tv3" stop="20261010055125 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La roda</sub-title>
+    <desc lang="ca">Dedicar un capítol a la roda pot semblar un bàsic, però també és arriscat. Perquè la roda no es va inventar per als vehicles, sinó per a joguines de la canalla. També us donem consells per si un dia heu de canviar una roda, que aquestes coses no se sap mai. Coneixem en Josep Canudas, un tanatopràctic que ens explica per què és millor treballar amb morts que amb vius. Si vau escoltar el capítol d'ahir, el gos que traiem a passejar us sonarà: en Ratatouille, un gos que detecta marihuana. El portem a un lloc on segurament no li faltarà feina: el Festival de Woodstock de l'any 1969.</desc>
+    <length units="minutes">00:45:03</length>
   </programme>
 </tv>
