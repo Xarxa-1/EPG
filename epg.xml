@@ -1,77 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261010182237 +0000" channel="tvi" stop="20261010191509 +0000">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Els Vilars d'Arbeca: la més  gran fortalesa del món Íber</sub-title>
-    <desc lang="ca">Visitem la fortalesa ibèrica d'Els Vilars d'Arbeca, a la comarca de les Garrigues. Una fortalesa fundada fa uns 2.800 anys per la tribu ibèrica dels ilergetes i que té unes dimensions descomunals. Però els indicis que ens porten a Arbeca ens diuen que la fortalesa encara podria ser més gran: podria tenir un segon fossat defensiu! S'haurà d'excavar per confirmar o no aquesta hipòtesi. També excavem una enorme cisterna per esbrinar si era només una cisterna per guardar aigua o també era un pou. D'aquesta manera sabrem com s'abastien els ibers que vivien als Vilars. Com vivien? Com s'organitzaven? Quants eren? Quina estructura militar tenien? Per què aquesta fortalesa és en una gran plana quan els ibers les construïen damunt turons? Tenim moltes preguntes a fer i a respondre.</desc>
-    <length units="minutes">00:52:32</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261010224509 +0000" channel="tvi" stop="20261011000232 +0000">
+    <title lang="ca">La Puntual</title>
+    <sub-title lang="ca">La Puntual: Vermell o verd</sub-title>
+    <desc lang="ca">Tanquem la fase de 'Laboratori teatral' i ja sabrem qui seran els 11 integrants de la companyia que representarà 'L'auca del senyor Esteve'. Viurem la decisió final de l'equip de 'La Puntual', però abans caldrà que els candidats donin el millor de si mateixos per convèncer-los.</desc>
+    <length units="minutes">01:17:23</length>
   </programme>
-  <programme start="20261010191509 +0000" channel="tvi" stop="20261010193025 +0000">
-    <title lang="ca">Literal</title>
-    <sub-title lang="ca">Literalment perduda</sub-title>
-    <desc lang="ca">Qui no s'ha sentit perduda alguna vegada? I qui no ha decidit que, per trobar-se, el millor que podia fer era sortir de la seva zona de confort? Anar a Colòmbia a fer un voluntariat o a Nova York d'au-pair per aprendre anglès. Encara està tot per fer i tot és possible? A 'Literal', literalment perdudes amb Regina Rodríguez Sirvent i Sara Prats.</desc>
-    <length units="minutes">00:15:16</length>
+  <programme start="20261011000232 +0000" channel="tvi" stop="20261011004419 +0000">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
+    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band).</desc>
+    <length units="minutes">00:41:47</length>
   </programme>
-  <programme start="20261010163000 +0000" channel="324" stop="20261010183000 +0000">
+  <programme start="20261010210000 +0000" channel="324" stop="20261010230000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11396</sub-title>
+    <sub-title lang="ca">11398</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261010183000 +0000" channel="324" stop="20261010200000 +0000">
+  <programme start="20261010230000 +0000" channel="324" stop="20261011003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11397</sub-title>
+    <sub-title lang="ca">11399</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261010182712 +0000" channel="esport3" stop="20261010202546 +0000">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Barça-Getafe</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="minutes">01:58:34</length>
+  <programme start="20261010222344 +0000" channel="esport3" stop="20261011001721 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
+    <desc lang="ca">El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <length units="minutes">01:53:37</length>
   </programme>
-  <programme start="20261010202546 +0000" channel="esport3" stop="20261010212721 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Barça-Getafe / J8</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:01:35</length>
+  <programme start="20261011001721 +0000" channel="esport3" stop="20261011003808 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5534</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:47</length>
   </programme>
-  <programme start="20261010182859 +0000" channel="sx3" stop="20261010183539 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El vol dels porcs</sub-title>
-    <desc lang="ca">Avui hi ha visita de l'inspector. La granja està neta com una patena i el comportament de tots els animals és immaculat. Fins que l'inspector entra a l'interior de la granja i al camp de pastura hi esclata una batalla entre les ovelles i els porcs que sembla que no hagi de tenir fi. Ara la feina és per a en Bitzer, que haurà d'entretenir l'inspector i mirar de posar pau!</desc>
-    <length units="minutes">00:06:40</length>
+  <programme start="20261010224633 +0000" channel="sx3" stop="20261010225719 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Dia de pesca</sub-title>
+    <desc lang="ca">En Fred i la Frida truquen la Tropa del Corral perquè els netegin la peixera, que és tan bruta que no els deixa veure la seva sèrie preferida però la cosa surt malament: la Tropa trenca la peixera i ells cauen pel desguàs. Comença una cursa frenètica per les clavegueres de la vila per salvar-los abans que acabin al riu.</desc>
+    <length units="minutes">00:10:46</length>
   </programme>
-  <programme start="20261010183539 +0000" channel="sx3" stop="20261010184138 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Coses de la Shirley</sub-title>
-    <desc lang="ca">En Shaun ha tingut una idea genial per ajudar la Shirley a moure's per la granja. Unes rodes i un bon comandament a distància i tot solucionat. Tot va com una seda, fins que el comandament a distància de la tele del granger comença a interferir amb el d'en Shaun, i la Shirley comença a anar de la cuina al menjador! Com s'ho faran per aturar-la?!</desc>
-    <length units="minutes">00:05:59</length>
+  <programme start="20261010225719 +0000" channel="sx3" stop="20261010230828 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">El lloc perfecte</sub-title>
+    <desc lang="ca">La Bertha truca la Tropa del Corral quan en Prince li pren el lloc al seu sofà preferit. Mentre part de la Tropa busca la manera de fer-lo fora de casa, la resta va a buscar la seva joguina preferida per mirar d'ajudar-los. La Tropa acaba fent malbé el sofà i la casa sencera!</desc>
+    <length units="minutes">00:11:09</length>
   </programme>
-  <programme start="20261010172052 +0000" channel="tv3" stop="20261010185802 +0000">
-    <title lang="ca">Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨</title>
-    <sub-title lang="ca">Documental del concert d'Oques Grasses</sub-title>
-    <length units="minutes">01:37:10</length>
+  <programme start="20261010222423 +0000" channel="tv3" stop="20261010233505 +0000">
+    <title lang="ca">El documental</title>
+    <sub-title lang="ca">Sunu Gaal. El nostre cayuco</sub-title>
+    <desc lang="ca">Sunu Gaal. El nostre cayuco, (2024), una producció de Karavan Productions Films amb la col·laboració de l'Associació Solidària i Logística, el suport de l'ICEC i la participació de 3Cat.El documental segueix les vides de diversos joves del Senegal a través de la mirada de la Mariatou, una noia de 18 anys que lluita per viatjar a Europa; l'Àrfa, un adolescent pescador; i l'Aliou, que fa apostes en línia per finançar el seu viatge. El documental ens mostra una joventut conscient del racisme a Europa, del nou colonialisme que saqueja els recursos del seu país, i de la fam de feminisme d'una generació de noies que reclama més llibertat. Coneixerem joves decidits, preparats i amb un objectiu clar: viatjar a altres països, tot i ser conscients que potser mai no hi arribaran.Equip:Direcció i guió: Josep T. ParísRealització: Alex GarcíaProductor: Marc PetitpierreProductor executiu 3Cat: David Bassa, Sílvia PairóCoordinació de continguts 3Cat: Agustí Argelich, Ricard BelisProductor delegat 3Cat: Daniel BareaDirector fotografia: Alex GarcíaMuntatge: Iván Guarnizo, Josep T. ParísDirector de producció: Marc PetitpierreMúsica: Josh DoughtyLingüista: Dolors SenserrichGrafisme: Eva Bono</desc>
+    <length units="minutes">01:10:42</length>
   </programme>
-  <programme start="20261010185802 +0000" channel="tv3" stop="20261010195432 +0000">
-    <title lang="ca">Dibuixar pel canvi</title>
-    <sub-title lang="ca">Síria: Darrere les línies</sub-title>
-    <desc lang="ca">Amani Al-Ali és una de les poques dones il·lustradores de Síria. Viu i treballa a casa del seu pare a Idlib, l'única ciutat que encara no ha estat reconquerida per les tropes de Bashar Al-Assad. Però els bombarders russos l'ataquen constantment, i ella i els seus veïns estan atrapats entre l'avanç de les tropes d'Al-Assad i les milícies extremistes. L'Amani ha rebut elogis per les seves caricatures, però també ha estat amenaçada, denunciada i denigrada, i això ha fet que s'hagi plantejat abandonar el país. Mentre fa classes de dibuix per a dones i nenes, consola la seva neboda i intenta explicar la seva història al càmera del documental, els incessants bombardejos i el dramàtic escenari comencen a erosionar a poc a poc la seva visió del futur.</desc>
-    <length units="minutes">00:56:30</length>
+  <programme start="20261010233505 +0000" channel="tv3" stop="20261011011954 +0000">
+    <title lang="ca">60 minuts</title>
+    <sub-title lang="ca">Les filles d'Olfa</sub-title>
+    <desc lang="ca">Radiografia íntima sobre les dones d'una família tunisiana amb una història duríssima, de violència, separació i mecanismes de supervivència. És una història sobre l'opressió del patriarcat, de violència, d'abusos, del pes de la religió, de política, d'esperances truncades i d'esperança de canvi. Interessant format que integra realitat i ficció a través de les actrius que interpreten les filles absents.</desc>
+    <length units="minutes">01:44:49</length>
   </programme>
 </tv>
