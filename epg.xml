@@ -1,78 +1,83 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261011040000 +0000" channel="tvi" stop="20261011050000 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Tòfol Martínez</sub-title>
-    <desc lang="ca">Guitarrista, compositor i productor musical sabadellenc que després del seu debut discogràfic en solitari, ens presenta el seu nou repertori. Del blues més clàssic al funk més contemporani, Martínez combina l'essència d'aire blues, sempre present en els seus projectes, amb lletres que ens mostren un univers molt personal. En aquesta ocasió, entra a l'estudi acompanyat de Josep Buch al baix, Marc Buch a la bateria i Lluís Coloma al piano i l'orgue Hammond.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261011050000 +0000" channel="tvi" stop="20261011060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Diego Amador</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261011010000 +0000" channel="324" stop="20261011060000 +0000">
+  <programme start="20261011114251 +0000" channel="tvi" stop="20261011120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11400</sub-title>
+    <sub-title lang="ca">11402</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">00:17:09</length>
   </programme>
-  <programme start="20261011060000 +0000" channel="324" stop="20261011070000 +0000">
+  <programme start="20261011120000 +0000" channel="tvi" stop="20261011143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11400</sub-title>
+    <sub-title lang="ca">11403</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261011035611 +0000" channel="esport3" stop="20261011060821 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
-    <desc lang="ca">El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="minutes">02:12:10</length>
+  <programme start="20261011120000 +0000" channel="324" stop="20261011143000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11403</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261011060821 +0000" channel="esport3" stop="20261011061825 +0000">
-    <title lang="ca">Pitch&amp;Cat</title>
-    <sub-title lang="ca">Anna Selva, líder del rànquing femení 2026</sub-title>
-    <desc lang="ca">Conversem amb la jugadora osonenca Anna Selva, actual líder del rànquing femení FCPP 2026, per conèixer la seva trajectòria, els seus objectius i el moment que viu com una de les grans referents del pitch&amp;putt català. A més, aprendrem a reparar correctament, amb l'arreglapics, els impactes de bola al green per mantenir el camp en les millors condicions.</desc>
-    <length units="minutes">00:10:04</length>
+  <programme start="20261011143000 +0000" channel="324" stop="20261011154000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7355</sub-title>
+    <length units="minutes">01:10:00</length>
   </programme>
-  <programme start="20261011043428 +0000" channel="sx3" stop="20261011044108 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">La Beeergarita</sub-title>
-    <desc lang="ca">Quan el granger es descuida de donar menjar a les ovelles, el Shaun i el ramat veuen que tenen la gran oportunitat de regalar-se amb una pizza. Però quan corre la veu que les millors pizzes les fan a la granja, el Shaun i el ramat es veuen obligats a augmentar el volum i muntar un sistema per començar la producció en sèrie.1</desc>
-    <length units="minutes">00:06:40</length>
+  <programme start="20261011122500 +0000" channel="esport3" stop="20261011140728 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Villa de Aranda-Barça / Lliga Asobal / J5</sub-title>
+    <desc lang="ca">Els blaugranes juguen a la pista burgalesa amb l'objectiu d'ampliar la gran ratxa de victòries consecutives a la Lliga.</desc>
+    <length units="minutes">01:42:28</length>
   </programme>
-  <programme start="20261011044108 +0000" channel="sx3" stop="20261011044707 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Investigació a la granja</sub-title>
-    <desc lang="ca">L'empipador xiulet del Bitzer està posant les nervis de punta als residents de la granja. Però quan desapareix, el 'detectiu Shaun' sospita que ha sigut un robatori. Per tant decideix perseguir el culpable, però durant la investigació no para de trobar pistes falses que no el porten enlloc.</desc>
-    <length units="minutes">00:05:59</length>
+  <programme start="20261011140728 +0000" channel="esport3" stop="20261011141916 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Copa d'Espanya Trial</sub-title>
+    <desc lang="ca">Cambrils és l'escenari de la quarta i última prova de la Copa d'Espanya de Trial 2026, amb els títols en joc a les categories femenina i masculina.</desc>
+    <length units="minutes">00:11:48</length>
   </programme>
-  <programme start="20261011042036 +0000" channel="tv3" stop="20261011050728 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">L'aspiradora</sub-title>
-    <desc lang="ca">L'últim capítol de 'La Renaixença' d'aquesta primera setmana el dediquem a l'aspiradora. Un objecte que va néixer amb tots els ets i uts del masclisme, i que a dia d'avui s'ha convertit en gairebé en una nau espacial. Mai estarem tan a prop de la Julia Roberts com avui, perquè xerrem amb la Mercè Montalà, la seva dobladora. Sabíeu que 'Pretty Woman' no està doblada al català? Avui ho arreglem. I no ens descuidem de la nostra petita radionovel·la: sortim a passejar el gos per la batalla de Stalingrad.</desc>
-    <length units="minutes">00:46:52</length>
+  <programme start="20261011133521 +0000" channel="sx3" stop="20261011135416 +0000">
+    <title lang="ca">Manduka</title>
+    <sub-title lang="ca">Eurosabikh - Miki Núñez</sub-title>
+    <desc lang="ca">El convidat és el Miki Núñez. El Miki és un cantant de Terrassa sortit del talent 'Operación Triunfo' i que va anar a Eurovisió a Israel representant Espanya amb la cançó 'La venda'. Per això la Paula li ensenyarà a preparar un Sabikh, un plat típic d'allà que ell segurament no devia tastar pels seus compromisos d'agenda. El Sabikh és un pa de pita farcit d'albergínia i altres verdures i ou dur. Amb el Miki, a més de cuinar, riuran i cantaran sense parar</desc>
+    <length units="minutes">00:18:55</length>
   </programme>
-  <programme start="20261011050728 +0000" channel="tv3" stop="20261011052634 +0000">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Gossos</sub-title>
-    <desc lang="ca">Amb la gira 'A reviure', la formació manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components, amb un repertori en què aborden les relacions sentimentals, les reflexions personals i, també, la crítica social. I amb cançons tan emblemàtiques com el senzill 'Corren', enregistrada originalment amb la col·laboració del músic barceloní Dani Macaco.  Juanjo Muñoz, guitarra i cors Roger Farré, baix i cors Santi Serratosa, bateria Natxo Tarrés, veu i guitarra Oriol Farré, guitarra i cors  'Tot és foc' 'Deixa't portar' 'Corren' 'Zenit'  Localització: Enregistrat a Manresa Dia: Dimecres, 15 de maig del 2024</desc>
-    <length units="minutes">00:19:06</length>
+  <programme start="20261011135416 +0000" channel="sx3" stop="20261011141422 +0000">
+    <title lang="ca">Manduka</title>
+    <sub-title lang="ca">Volcans d'ous en erupció - Jordi Rios</sub-title>
+    <desc lang="ca">El convidat és el Jordi Ríos. El Jordi és actor i còmic, i també ha estat imitador a programes com 'Crackòvia' i 'Polònia'. Per la Paula, els ous són com una mena de volcans on el rovell és el cràter i la lava és tota la clara per sucar-hi el pa. Ensenyarà el Jordi a fer-los al forn, que ell no en sap gaire. I durant la cocció descobrirem algunes de les capacitat del Jordi per fer jocs de paraules, imitar animals i fer riure sense parar la Paula.</desc>
+    <length units="minutes">00:20:06</length>
+  </programme>
+  <programme start="20261011130527 +0000" channel="tv3" stop="20261011140555 +0000">
+    <title lang="ca">Una altra història</title>
+    <sub-title lang="ca">Monestir de Sant Pere de Rodes a Girona</sub-title>
+    <desc lang="ca">Els pelegrins durant l'Edat Mitjana arribaven a Sant Pere de Rodes després de mesos de viatge. Una altra història es trasllada a aquest monument amb les millors vistes sobre el Cap de Creus amb l'Albert Om i l'equip d'historiadors. Els hi esperen unes relíquies que expliquen perquè la festa major de Castelló d'Empúries va canviar de dia després de la Guerra Civil, un casc de la dansa de la mort de Verges o les primeres capses que va comercialitzar les galetes Birba.</desc>
+    <length units="minutes">01:00:28</length>
+  </programme>
+  <programme start="20261011140555 +0000" channel="tv3" stop="20261011142625 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Montserrat s'enfonsa?</sub-title>
+    <desc lang="ca">Per què cau Montserrat? La reportera Anna Lasaga hi puja per entendre per què es desprenen blocs de roques de milers de tones.Enginyers de Geocat li ensenyen totes les mesures que es prenen per evitar danys a les persones, des de clavar les roques amb claus fins a instal·lar malles que suporten pesos de deu tones. Però el futur de la muntanya està escrit: el seu desmembrament és inevitable. Això ho expliquen el monjo escalador Ramon Oraníes i el geòleg Isaac Camps, els quals aclareixen també per què Montserrat té aquest relleu tan especial. Tot comença quan a Catalunya hi havia un mar interior i no existia el Mediterrani. El final de la història, a 'Quèquicom'.</desc>
+    <length units="minutes">00:20:30</length>
+  </programme>
+  <programme start="20261011114507 +0000" channel="tv3" stop="20261011140502 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- Reial Madrid-Kids&amp;Us Manresa / Lliga / J3</sub-title>
+    <desc lang="ca">El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.</desc>
+    <length units="minutes">02:19:55</length>
   </programme>
 </tv>
