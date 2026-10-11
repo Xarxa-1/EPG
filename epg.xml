@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261010224509 +0000" channel="tvi" stop="20261011000232 +0000">
-    <title lang="ca">La Puntual</title>
-    <sub-title lang="ca">La Puntual: Vermell o verd</sub-title>
-    <desc lang="ca">Tanquem la fase de 'Laboratori teatral' i ja sabrem qui seran els 11 integrants de la companyia que representarà 'L'auca del senyor Esteve'. Viurem la decisió final de l'equip de 'La Puntual', però abans caldrà que els candidats donin el millor de si mateixos per convèncer-los.</desc>
-    <length units="minutes">01:17:23</length>
+  <programme start="20261011040000 +0000" channel="tvi" stop="20261011050000 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Tòfol Martínez</sub-title>
+    <desc lang="ca">Guitarrista, compositor i productor musical sabadellenc que després del seu debut discogràfic en solitari, ens presenta el seu nou repertori. Del blues més clàssic al funk més contemporani, Martínez combina l'essència d'aire blues, sempre present en els seus projectes, amb lletres que ens mostren un univers molt personal. En aquesta ocasió, entra a l'estudi acompanyat de Josep Buch al baix, Marc Buch a la bateria i Lluís Coloma al piano i l'orgue Hammond.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261011000232 +0000" channel="tvi" stop="20261011004419 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
-    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band).</desc>
-    <length units="minutes">00:41:47</length>
+  <programme start="20261011050000 +0000" channel="tvi" stop="20261011060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Diego Amador</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261010210000 +0000" channel="324" stop="20261010230000 +0000">
+  <programme start="20261011010000 +0000" channel="324" stop="20261011060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11398</sub-title>
+    <sub-title lang="ca">11400</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261010230000 +0000" channel="324" stop="20261011003000 +0000">
+  <programme start="20261011060000 +0000" channel="324" stop="20261011070000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11399</sub-title>
+    <sub-title lang="ca">11400</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261010222344 +0000" channel="esport3" stop="20261011001721 +0000">
+  <programme start="20261011035611 +0000" channel="esport3" stop="20261011060821 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
     <desc lang="ca">El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="minutes">01:53:37</length>
+    <length units="minutes">02:12:10</length>
   </programme>
-  <programme start="20261011001721 +0000" channel="esport3" stop="20261011003808 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5534</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:47</length>
+  <programme start="20261011060821 +0000" channel="esport3" stop="20261011061825 +0000">
+    <title lang="ca">Pitch&amp;Cat</title>
+    <sub-title lang="ca">Anna Selva, líder del rànquing femení 2026</sub-title>
+    <desc lang="ca">Conversem amb la jugadora osonenca Anna Selva, actual líder del rànquing femení FCPP 2026, per conèixer la seva trajectòria, els seus objectius i el moment que viu com una de les grans referents del pitch&amp;putt català. A més, aprendrem a reparar correctament, amb l'arreglapics, els impactes de bola al green per mantenir el camp en les millors condicions.</desc>
+    <length units="minutes">00:10:04</length>
   </programme>
-  <programme start="20261010224633 +0000" channel="sx3" stop="20261010225719 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Dia de pesca</sub-title>
-    <desc lang="ca">En Fred i la Frida truquen la Tropa del Corral perquè els netegin la peixera, que és tan bruta que no els deixa veure la seva sèrie preferida però la cosa surt malament: la Tropa trenca la peixera i ells cauen pel desguàs. Comença una cursa frenètica per les clavegueres de la vila per salvar-los abans que acabin al riu.</desc>
-    <length units="minutes">00:10:46</length>
+  <programme start="20261011043428 +0000" channel="sx3" stop="20261011044108 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">La Beeergarita</sub-title>
+    <desc lang="ca">Quan el granger es descuida de donar menjar a les ovelles, el Shaun i el ramat veuen que tenen la gran oportunitat de regalar-se amb una pizza. Però quan corre la veu que les millors pizzes les fan a la granja, el Shaun i el ramat es veuen obligats a augmentar el volum i muntar un sistema per començar la producció en sèrie.1</desc>
+    <length units="minutes">00:06:40</length>
   </programme>
-  <programme start="20261010225719 +0000" channel="sx3" stop="20261010230828 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">El lloc perfecte</sub-title>
-    <desc lang="ca">La Bertha truca la Tropa del Corral quan en Prince li pren el lloc al seu sofà preferit. Mentre part de la Tropa busca la manera de fer-lo fora de casa, la resta va a buscar la seva joguina preferida per mirar d'ajudar-los. La Tropa acaba fent malbé el sofà i la casa sencera!</desc>
-    <length units="minutes">00:11:09</length>
+  <programme start="20261011044108 +0000" channel="sx3" stop="20261011044707 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Investigació a la granja</sub-title>
+    <desc lang="ca">L'empipador xiulet del Bitzer està posant les nervis de punta als residents de la granja. Però quan desapareix, el 'detectiu Shaun' sospita que ha sigut un robatori. Per tant decideix perseguir el culpable, però durant la investigació no para de trobar pistes falses que no el porten enlloc.</desc>
+    <length units="minutes">00:05:59</length>
   </programme>
-  <programme start="20261010222423 +0000" channel="tv3" stop="20261010233505 +0000">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Sunu Gaal. El nostre cayuco</sub-title>
-    <desc lang="ca">Sunu Gaal. El nostre cayuco, (2024), una producció de Karavan Productions Films amb la col·laboració de l'Associació Solidària i Logística, el suport de l'ICEC i la participació de 3Cat.El documental segueix les vides de diversos joves del Senegal a través de la mirada de la Mariatou, una noia de 18 anys que lluita per viatjar a Europa; l'Àrfa, un adolescent pescador; i l'Aliou, que fa apostes en línia per finançar el seu viatge. El documental ens mostra una joventut conscient del racisme a Europa, del nou colonialisme que saqueja els recursos del seu país, i de la fam de feminisme d'una generació de noies que reclama més llibertat. Coneixerem joves decidits, preparats i amb un objectiu clar: viatjar a altres països, tot i ser conscients que potser mai no hi arribaran.Equip:Direcció i guió: Josep T. ParísRealització: Alex GarcíaProductor: Marc PetitpierreProductor executiu 3Cat: David Bassa, Sílvia PairóCoordinació de continguts 3Cat: Agustí Argelich, Ricard BelisProductor delegat 3Cat: Daniel BareaDirector fotografia: Alex GarcíaMuntatge: Iván Guarnizo, Josep T. ParísDirector de producció: Marc PetitpierreMúsica: Josh DoughtyLingüista: Dolors SenserrichGrafisme: Eva Bono</desc>
-    <length units="minutes">01:10:42</length>
+  <programme start="20261011042036 +0000" channel="tv3" stop="20261011050728 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">L'aspiradora</sub-title>
+    <desc lang="ca">L'últim capítol de 'La Renaixença' d'aquesta primera setmana el dediquem a l'aspiradora. Un objecte que va néixer amb tots els ets i uts del masclisme, i que a dia d'avui s'ha convertit en gairebé en una nau espacial. Mai estarem tan a prop de la Julia Roberts com avui, perquè xerrem amb la Mercè Montalà, la seva dobladora. Sabíeu que 'Pretty Woman' no està doblada al català? Avui ho arreglem. I no ens descuidem de la nostra petita radionovel·la: sortim a passejar el gos per la batalla de Stalingrad.</desc>
+    <length units="minutes">00:46:52</length>
   </programme>
-  <programme start="20261010233505 +0000" channel="tv3" stop="20261011011954 +0000">
-    <title lang="ca">60 minuts</title>
-    <sub-title lang="ca">Les filles d'Olfa</sub-title>
-    <desc lang="ca">Radiografia íntima sobre les dones d'una família tunisiana amb una història duríssima, de violència, separació i mecanismes de supervivència. És una història sobre l'opressió del patriarcat, de violència, d'abusos, del pes de la religió, de política, d'esperances truncades i d'esperança de canvi. Interessant format que integra realitat i ficció a través de les actrius que interpreten les filles absents.</desc>
-    <length units="minutes">01:44:49</length>
+  <programme start="20261011050728 +0000" channel="tv3" stop="20261011052634 +0000">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Gossos</sub-title>
+    <desc lang="ca">Amb la gira 'A reviure', la formació manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components, amb un repertori en què aborden les relacions sentimentals, les reflexions personals i, també, la crítica social. I amb cançons tan emblemàtiques com el senzill 'Corren', enregistrada originalment amb la col·laboració del músic barceloní Dani Macaco.  Juanjo Muñoz, guitarra i cors Roger Farré, baix i cors Santi Serratosa, bateria Natxo Tarrés, veu i guitarra Oriol Farré, guitarra i cors  'Tot és foc' 'Deixa't portar' 'Corren' 'Zenit'  Localització: Enregistrat a Manresa Dia: Dimecres, 15 de maig del 2024</desc>
+    <length units="minutes">00:19:06</length>
   </programme>
 </tv>
