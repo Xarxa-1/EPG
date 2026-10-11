@@ -1,13 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -15,69 +12,67 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261011114251 +0000" channel="tvi" stop="20261011120000 +0000">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261011181842 +0000" channel="tvi" stop="20261011191836 +0000">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">MENTIDES</sub-title>
+    <desc lang="ca">Problemes entre pares i fills. Els conflictes generacionals surten a la llum amb més força, barrejant-se amb els problemes socials. En Ramon i la Isabel s'han retrobat.I en Pau surt de la presó decidit a venjar-se...</desc>
+    <length units="minutes">00:59:54</length>
+  </programme>
+  <programme start="20261011191836 +0000" channel="tvi" stop="20261011194039 +0000">
+    <title lang="ca">Salut i muntanyes</title>
+    <sub-title lang="ca">Prullans</sub-title>
+    <desc lang="ca">Descobrim la història del campanar de Prullans i els secrets de la Torre dels Barons on viuen la Quima i el Salvador. Un antic castell del s. XIII que després es va convertir en casa pairal. Aquestes són algunes de les curiositats que ensenyarà la reportera Eva Clausó Estival en aquest capítol. També anirà a visitar al Xavi Llongueras un reconegut guia d'alta muntanya al qual no se li resisteix cap cim. Amb ell anirà a caminar i a escalar una mica. I no hi faltarà el tastet d'algun producte gastronòmic com les famoses rosquilles del forn de l'Enric. Diuen que si en menges una, ja no pares i en vols més.</desc>
+    <length units="minutes">00:22:03</length>
+  </programme>
+  <programme start="20261011183000 +0000" channel="324" stop="20261011200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11402</sub-title>
+    <sub-title lang="ca">11405</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:17:09</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261011120000 +0000" channel="tvi" stop="20261011143000 +0000">
+  <programme start="20261011200000 +0000" channel="324" stop="20261011210000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11403</sub-title>
+    <sub-title lang="ca">11406</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261011120000 +0000" channel="324" stop="20261011143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11403</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+  <programme start="20261011180503 +0000" channel="esport3" stop="20261011190622 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Europa-Algesires / Primera Federació / J7</sub-title>
+    <desc lang="ca">Els escapulats, antepenúltims a l'inici de la jornada, necessiten la victòria per sortir de la zona baixa de la classificació.</desc>
+    <length units="minutes">01:01:19</length>
   </programme>
-  <programme start="20261011143000 +0000" channel="324" stop="20261011154000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7355</sub-title>
-    <length units="minutes">01:10:00</length>
+  <programme start="20261011190622 +0000" channel="esport3" stop="20261011191350 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">00:07:28</length>
   </programme>
-  <programme start="20261011122500 +0000" channel="esport3" stop="20261011140728 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Villa de Aranda-Barça / Lliga Asobal / J5</sub-title>
-    <desc lang="ca">Els blaugranes juguen a la pista burgalesa amb l'objectiu d'ampliar la gran ratxa de victòries consecutives a la Lliga.</desc>
-    <length units="minutes">01:42:28</length>
+  <programme start="20261011185113 +0000" channel="sx3" stop="20261011203737 +0000">
+    <title lang="ca">El detectiu Conan: Black Iron Submarine</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">EL DETECTIU CONAN: BLACK IRON SUBMARINE 'Detective Conan: Kurogane no Submarine'Direcció: Yuzuru TachikawaGuió: Takeharu Sakurai Producció: TMS Entertainment, Nippon TV, ShoPro, TOHO animationAny: 2023Durada: 110País: JapóMúsica: Yûgo KannoUn grup d'enginyers de diversos països es reuneix a l'illa de Hachijo-jima, al Japó, per seguir en directe la posada en marxa d'un nou sistema de seguretat que connecta els dispositius de càmeres policials d'arreu del món i fa possible el reconeixement facial. Mentrestant, en Conan i la seva colla visiten la mateixa illa per observar balenes.</desc>
+    <length units="minutes">01:46:24</length>
   </programme>
-  <programme start="20261011140728 +0000" channel="esport3" stop="20261011141916 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Copa d'Espanya Trial</sub-title>
-    <desc lang="ca">Cambrils és l'escenari de la quarta i última prova de la Copa d'Espanya de Trial 2026, amb els títols en joc a les categories femenina i masculina.</desc>
-    <length units="minutes">00:11:48</length>
+  <programme start="20261011203737 +0000" channel="sx3" stop="20261011205921 +0000">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">L'indestructible Henry (Part 1)</sub-title>
+    <desc lang="ca">El Capità Man i en Kid Danger intenten evitar una catàstrofe mentre descobreixen un perillós secret que podria canviar-ho tot.</desc>
+    <length units="minutes">00:21:44</length>
   </programme>
-  <programme start="20261011133521 +0000" channel="sx3" stop="20261011135416 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Eurosabikh - Miki Núñez</sub-title>
-    <desc lang="ca">El convidat és el Miki Núñez. El Miki és un cantant de Terrassa sortit del talent 'Operación Triunfo' i que va anar a Eurovisió a Israel representant Espanya amb la cançó 'La venda'. Per això la Paula li ensenyarà a preparar un Sabikh, un plat típic d'allà que ell segurament no devia tastar pels seus compromisos d'agenda. El Sabikh és un pa de pita farcit d'albergínia i altres verdures i ou dur. Amb el Miki, a més de cuinar, riuran i cantaran sense parar</desc>
-    <length units="minutes">00:18:55</length>
+  <programme start="20261011180910 +0000" channel="tv3" stop="20261011191928 +0000">
+    <title lang="ca">El viatge de l'Unai</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">'EL VIATGE DE L'UNAI' (2016), una producció d'Ohm Productions en coproducció amb Televisió de Catalunya.La història real d'un nen de deu anys, l'Unai, i la seva família en un viatge extraordinari al voltant del món. El pare, fotògraf de natura, té la missió de buscar set animals emblemàtics per fotografiar-los i mostrar la delicada situació en què es troben. Durant més d'un any, l'Unai segueix els passos del pare compartint amb la seva germana i la mare unes experiències vitals úniques, que transmeten un amor incondicional per la natura. Llops, elefants, pumes, bisons, pingüins, calaus i cocodrils són els animals protagonistes d'un viatge apassionant per tots els continents.Direcció i fotografia: Andoni CanelaGuió: Julio Mazarico, Meritxell Margarit i Unai CanelaRealització: Andoni Canela i Roger LleixàProductor: Quim FolgueraProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonMuntatge: Roger LleixàDirector de producció: Quim FolgueraMúsica: Albert GuinovartGrafisme: Cristina ZambranoVeu en off: Unai Canela</desc>
+    <length units="minutes">01:10:18</length>
   </programme>
-  <programme start="20261011135416 +0000" channel="sx3" stop="20261011141422 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Volcans d'ous en erupció - Jordi Rios</sub-title>
-    <desc lang="ca">El convidat és el Jordi Ríos. El Jordi és actor i còmic, i també ha estat imitador a programes com 'Crackòvia' i 'Polònia'. Per la Paula, els ous són com una mena de volcans on el rovell és el cràter i la lava és tota la clara per sucar-hi el pa. Ensenyarà el Jordi a fer-los al forn, que ell no en sap gaire. I durant la cocció descobrirem algunes de les capacitat del Jordi per fer jocs de paraules, imitar animals i fer riure sense parar la Paula.</desc>
-    <length units="minutes">00:20:06</length>
-  </programme>
-  <programme start="20261011130527 +0000" channel="tv3" stop="20261011140555 +0000">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Monestir de Sant Pere de Rodes a Girona</sub-title>
-    <desc lang="ca">Els pelegrins durant l'Edat Mitjana arribaven a Sant Pere de Rodes després de mesos de viatge. Una altra història es trasllada a aquest monument amb les millors vistes sobre el Cap de Creus amb l'Albert Om i l'equip d'historiadors. Els hi esperen unes relíquies que expliquen perquè la festa major de Castelló d'Empúries va canviar de dia després de la Guerra Civil, un casc de la dansa de la mort de Verges o les primeres capses que va comercialitzar les galetes Birba.</desc>
-    <length units="minutes">01:00:28</length>
-  </programme>
-  <programme start="20261011140555 +0000" channel="tv3" stop="20261011142625 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Montserrat s'enfonsa?</sub-title>
-    <desc lang="ca">Per què cau Montserrat? La reportera Anna Lasaga hi puja per entendre per què es desprenen blocs de roques de milers de tones.Enginyers de Geocat li ensenyen totes les mesures que es prenen per evitar danys a les persones, des de clavar les roques amb claus fins a instal·lar malles que suporten pesos de deu tones. Però el futur de la muntanya està escrit: el seu desmembrament és inevitable. Això ho expliquen el monjo escalador Ramon Oraníes i el geòleg Isaac Camps, els quals aclareixen també per què Montserrat té aquest relleu tan especial. Tot comença quan a Catalunya hi havia un mar interior i no existia el Mediterrani. El final de la història, a 'Quèquicom'.</desc>
-    <length units="minutes">00:20:30</length>
-  </programme>
-  <programme start="20261011114507 +0000" channel="tv3" stop="20261011140502 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Reial Madrid-Kids&amp;Us Manresa / Lliga / J3</sub-title>
-    <desc lang="ca">El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.</desc>
-    <length units="minutes">02:19:55</length>
+  <programme start="20261011191928 +0000" channel="tv3" stop="20261011202427 +0000">
+    <title lang="ca">Sol a Groenlàndia</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">'Sol a Groenlàndia' (2025) una producció de OHM Proyectos de Implantación en coproducció amb Wanda Films i 3Cat, i la col·laboració de Rumbak. L'Unai, un jove estudiant d'antropologia, viatja en solitari a Groenlàndia a la recerca d'ossos polars i bous mesquers. Travessa la tundra i passa més de cent nits acampant entre glaceres i llacs mentre filma els bous i descobreix la vida salvatge de l'Àrtic. A l'hivern, l'Unai es trasllada a l'oceà glaçat per intentar trobar l'os polar. Passa diverses setmanes tot sol en un poblat abandonat, però no aconsegueix veure'n cap. El seu pare, un experimentat fotògraf de natura, arriba per ajudar-lo. Finalment, junts, aconsegueixen observar i filmar els ossos polars. Equip:Direcció i guió: Unai Canela Realització: Unai Canela i Andoni Canela Productor: José María Morales Productor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó Vila Coordinació de continguts 3Cat: Ricard Belis Garcia Productor delegat 3Cat: Daniel Barea Delgado Director fotografia: Andoni Canela Muntatge: Unai CanelaDirector de producció: Miguel Morales Música: Kirill Valeev, Marina Iñesta, Biel Pons, Damià Lingüista: Anna Sadurní Grafisme: Adrià Rodríguez Veu en off: Unai Canela</desc>
+    <length units="minutes">01:04:59</length>
   </programme>
 </tv>
