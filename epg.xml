@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261011181842 +0000" channel="tvi" stop="20261011191836 +0000">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">MENTIDES</sub-title>
-    <desc lang="ca">Problemes entre pares i fills. Els conflictes generacionals surten a la llum amb més força, barrejant-se amb els problemes socials. En Ramon i la Isabel s'han retrobat.I en Pau surt de la presó decidit a venjar-se...</desc>
-    <length units="minutes">00:59:54</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261011224634 +0000" channel="tvi" stop="20261011235716 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">3</sub-title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="minutes">01:10:42</length>
   </programme>
-  <programme start="20261011191836 +0000" channel="tvi" stop="20261011194039 +0000">
-    <title lang="ca">Salut i muntanyes</title>
-    <sub-title lang="ca">Prullans</sub-title>
-    <desc lang="ca">Descobrim la història del campanar de Prullans i els secrets de la Torre dels Barons on viuen la Quima i el Salvador. Un antic castell del s. XIII que després es va convertir en casa pairal. Aquestes són algunes de les curiositats que ensenyarà la reportera Eva Clausó Estival en aquest capítol. També anirà a visitar al Xavi Llongueras un reconegut guia d'alta muntanya al qual no se li resisteix cap cim. Amb ell anirà a caminar i a escalar una mica. I no hi faltarà el tastet d'algun producte gastronòmic com les famoses rosquilles del forn de l'Enric. Diuen que si en menges una, ja no pares i en vols més.</desc>
-    <length units="minutes">00:22:03</length>
+  <programme start="20261011235716 +0000" channel="tvi" stop="20261012003651 +0000">
+    <title lang="ca">Gent amb DO</title>
+    <sub-title lang="ca">DO Conca de Barberà. 'Trepat, l'orgull recuperat'</sub-title>
+    <desc lang="ca">A la Conca de Barberà, la història del vi comença entre els murs de Poblet i continua entre ceps de trepat. Empar Moliner recorre una terra que va transformar una varietat gairebé oblidada en un dels grans vins elegants del país. Entre monestirs, catedrals del vi i la memòria d'un territori resilient, descobrim com la perseverança també es pot embotellar. Quin és el do de la DO Conca de Barberà?</desc>
+    <length units="minutes">00:39:35</length>
   </programme>
-  <programme start="20261011183000 +0000" channel="324" stop="20261011200000 +0000">
+  <programme start="20261011230000 +0000" channel="324" stop="20261012003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11405</sub-title>
+    <sub-title lang="ca">11407</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261011200000 +0000" channel="324" stop="20261011210000 +0000">
+  <programme start="20261012003000 +0000" channel="324" stop="20261012010000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11406</sub-title>
+    <sub-title lang="ca">11408</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261011180503 +0000" channel="esport3" stop="20261011190622 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">CE Europa-Algesires / Primera Federació / J7</sub-title>
-    <desc lang="ca">Els escapulats, antepenúltims a l'inici de la jornada, necessiten la victòria per sortir de la zona baixa de la classificació.</desc>
-    <length units="minutes">01:01:19</length>
+  <programme start="20261011230229 +0000" channel="esport3" stop="20261012001821 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J8 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:15:52</length>
   </programme>
-  <programme start="20261011190622 +0000" channel="esport3" stop="20261011191350 +0000">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">00:07:28</length>
+  <programme start="20261012001821 +0000" channel="esport3" stop="20261012003536 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5535</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:17:15</length>
   </programme>
-  <programme start="20261011185113 +0000" channel="sx3" stop="20261011203737 +0000">
-    <title lang="ca">El detectiu Conan: Black Iron Submarine</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">EL DETECTIU CONAN: BLACK IRON SUBMARINE 'Detective Conan: Kurogane no Submarine'Direcció: Yuzuru TachikawaGuió: Takeharu Sakurai Producció: TMS Entertainment, Nippon TV, ShoPro, TOHO animationAny: 2023Durada: 110País: JapóMúsica: Yûgo KannoUn grup d'enginyers de diversos països es reuneix a l'illa de Hachijo-jima, al Japó, per seguir en directe la posada en marxa d'un nou sistema de seguretat que connecta els dispositius de càmeres policials d'arreu del món i fa possible el reconeixement facial. Mentrestant, en Conan i la seva colla visiten la mateixa illa per observar balenes.</desc>
-    <length units="minutes">01:46:24</length>
+  <programme start="20261011230640 +0000" channel="sx3" stop="20261011231730 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Perduda a Correus</sub-title>
+    <desc lang="ca">L'Agnes truca molt nerviosa. Els seus amos han confós la closca d'en Reggie amb un bol i l'han enviat com a regal de noces. La Flo, la Maggie i en Jo passen a l'acció i decideixen buscar el carter per canviar la closca per un altre paquet. Mentrestant, en Clive i en Billy vigilen en Reggie, que vol recuperar la closca tot sol com sigui.</desc>
+    <length units="minutes">00:10:50</length>
   </programme>
-  <programme start="20261011203737 +0000" channel="sx3" stop="20261011205921 +0000">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">L'indestructible Henry (Part 1)</sub-title>
-    <desc lang="ca">El Capità Man i en Kid Danger intenten evitar una catàstrofe mentre descobreixen un perillós secret que podria canviar-ho tot.</desc>
-    <length units="minutes">00:21:44</length>
+  <programme start="20261011231730 +0000" channel="sx3" stop="20261011232827 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Amor innocent</sub-title>
+    <desc lang="ca">La Bertha truca la Tropa del Corral: vol que preguntin a en Sam si li ve de gust sopar amb ella, tot i que li fa por que digui que no. Quan parlen amb en Sam, ell pensa que és la Flo qui vol sopar amb ell, i decideix mudar-se a la granja amb els cadells.</desc>
+    <length units="minutes">00:10:57</length>
   </programme>
-  <programme start="20261011180910 +0000" channel="tv3" stop="20261011191928 +0000">
-    <title lang="ca">El viatge de l'Unai</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">'EL VIATGE DE L'UNAI' (2016), una producció d'Ohm Productions en coproducció amb Televisió de Catalunya.La història real d'un nen de deu anys, l'Unai, i la seva família en un viatge extraordinari al voltant del món. El pare, fotògraf de natura, té la missió de buscar set animals emblemàtics per fotografiar-los i mostrar la delicada situació en què es troben. Durant més d'un any, l'Unai segueix els passos del pare compartint amb la seva germana i la mare unes experiències vitals úniques, que transmeten un amor incondicional per la natura. Llops, elefants, pumes, bisons, pingüins, calaus i cocodrils són els animals protagonistes d'un viatge apassionant per tots els continents.Direcció i fotografia: Andoni CanelaGuió: Julio Mazarico, Meritxell Margarit i Unai CanelaRealització: Andoni Canela i Roger LleixàProductor: Quim FolgueraProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonMuntatge: Roger LleixàDirector de producció: Quim FolgueraMúsica: Albert GuinovartGrafisme: Cristina ZambranoVeu en off: Unai Canela</desc>
-    <length units="minutes">01:10:18</length>
+  <programme start="20261011224434 +0000" channel="tv3" stop="20261011232837 +0000">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Irlanda</sub-title>
+    <desc lang="ca">En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.</desc>
+    <length units="minutes">00:44:03</length>
   </programme>
-  <programme start="20261011191928 +0000" channel="tv3" stop="20261011202427 +0000">
-    <title lang="ca">Sol a Groenlàndia</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">'Sol a Groenlàndia' (2025) una producció de OHM Proyectos de Implantación en coproducció amb Wanda Films i 3Cat, i la col·laboració de Rumbak. L'Unai, un jove estudiant d'antropologia, viatja en solitari a Groenlàndia a la recerca d'ossos polars i bous mesquers. Travessa la tundra i passa més de cent nits acampant entre glaceres i llacs mentre filma els bous i descobreix la vida salvatge de l'Àrtic. A l'hivern, l'Unai es trasllada a l'oceà glaçat per intentar trobar l'os polar. Passa diverses setmanes tot sol en un poblat abandonat, però no aconsegueix veure'n cap. El seu pare, un experimentat fotògraf de natura, arriba per ajudar-lo. Finalment, junts, aconsegueixen observar i filmar els ossos polars. Equip:Direcció i guió: Unai Canela Realització: Unai Canela i Andoni Canela Productor: José María Morales Productor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó Vila Coordinació de continguts 3Cat: Ricard Belis Garcia Productor delegat 3Cat: Daniel Barea Delgado Director fotografia: Andoni Canela Muntatge: Unai CanelaDirector de producció: Miguel Morales Música: Kirill Valeev, Marina Iñesta, Biel Pons, Damià Lingüista: Anna Sadurní Grafisme: Adrià Rodríguez Veu en off: Unai Canela</desc>
-    <length units="minutes">01:04:59</length>
+  <programme start="20261011232837 +0000" channel="tv3" stop="20261012001336 +0000">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Tailàndia</sub-title>
+    <desc lang="ca">Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
+    <length units="minutes">00:44:59</length>
   </programme>
 </tv>
