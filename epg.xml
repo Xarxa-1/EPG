@@ -1,77 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261012153321 +0000" channel="tvi" stop="20261012160811 +0000">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">149</sub-title>
-    <desc lang="ca">La Mercè vol fer un dinar per reconciliar-se amb l'Ernest, però el problema serà que el seu fill accepti, i necessitarà aliats. L'Ona creu que en Daniel li serà sempre fidel i la Marina vol demostrar-li que no. A la cuina, en Casellas vol espavilar la Nora, i a en Sergi li toca el pitjor paper, com sempre.</desc>
-    <length units="minutes">00:34:50</length>
+  <programme start="20261013012235 +0000" channel="tvi" stop="20261013040000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11417</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:37:25</length>
   </programme>
-  <programme start="20261012160811 +0000" channel="tvi" stop="20261012164347 +0000">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">150</sub-title>
-    <desc lang="ca">Els Flaquer acaben sabent que el seu fill volia apostatar, i això, per a ells, és inacceptable. El negoci de l'hotel és de massa envergadura. Els Almeda necessiten més capital i pensen en l'Albert Flaquer, mentre van menyspreant l'Ona. La noia necessita esbravar-se. En Balló presenta l'Eloi a l'Oriol i sorgeix una estranya juguesca. Mentrestant, en Ricard, el pare de la Maribel, insisteix a acostar-se a la família.</desc>
-    <length units="minutes">00:35:36</length>
+  <programme start="20261013040000 +0000" channel="tvi" stop="20261013050004 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">David Giorcelli</sub-title>
+    <desc lang="ca">Amb un estil enèrgic i desenfadat, Giorcelli repassa el seu repertori, que evoca l'ambient dels Honky Tonks i Barrelhouse a l'Amèrica dels anys 50. Avui ens presenta una formació molt original, amb Llorenç Barceló a l'orgue Hammond; Jordi Llaurens a la guitarra, veu i harmònica; Reginal Vilardell a la bateria i la presència de la seductora Ster Wax.</desc>
+    <length units="minutes">01:00:04</length>
   </programme>
-  <programme start="20261012143000 +0000" channel="324" stop="20261012163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7356</sub-title>
+  <programme start="20261013010000 +0000" channel="324" stop="20261013060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11417</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261013060000 +0000" channel="324" stop="20261013080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11418</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261012163000 +0000" channel="324" stop="20261012170000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11412</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261013004803 +0000" channel="esport3" stop="20261013021853 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El xou capil·lar de Vini; Mayola Academy i 'El colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Irati Vidal, Jordi Martí i Joaquín Maroto comenten l'expulsió de Vinicius per estirar dels cabells d'un rival. En Marc Mayola posa la lupa en alguns aspectes tàctics del partit del Barça. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <length units="minutes">01:30:50</length>
   </programme>
-  <programme start="20261012150415 +0000" channel="esport3" stop="20261012155415 +0000">
-    <title lang="ca">Els animals més letals d'Àfrica</title>
-    <sub-title lang="ca">Pantans</sub-title>
-    <desc lang="ca">Algunes zones d'Àfrica canvien molt entre la temporada seca i la temporada de pluges. Durant la temporada de pluges, els grans rius es desborden i cobreixen planes extenses, fet que obliga els animals terrestres que hi viuen a adaptar-se, durant uns quants mesos l'any, a una vida semiaquàtica i a un sòl fangós. També s'estén el territori dels animals aquàtics, com els cocodrils del Nil o els peixos gat. Els lleons, les hienes i les mangostes conviuen amb aquests canvis de paisatge que tant els pot afavorir com complicar-los la vida.</desc>
-    <length units="minutes">00:50:00</length>
+  <programme start="20261013021853 +0000" channel="esport3" stop="20261013023703 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5536</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:18:10</length>
   </programme>
-  <programme start="20261012155415 +0000" channel="esport3" stop="20261012164500 +0000">
-    <title lang="ca">Els animals més letals d'Àfrica</title>
-    <sub-title lang="ca">Oceans</sub-title>
-    <desc lang="ca">A les costes d'Àfrica, la lluita per la vida és constant i cruel. Sota les aigües on es barregen corrents freds i càlids, centenars d'espècies intenten sobreviure entre els esculls de corall. Diverses espècies de taurons de característiques diferents comparteixen un enorme banc de sardines migratòries amb ossos marins o mascarells en autèntics banquets sota les onades. Les bestioles més menudes, com els cavallets de mar o les llagostes de roca, no abandonen els esculls, però això no els garanteix la supervivència: a la costa africana, la mort es pot amagar en les esquerdes de qualsevol roca.</desc>
-    <length units="minutes">00:50:45</length>
+  <programme start="20261013014714 +0000" channel="sx3" stop="20261013020710 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Una evolució del gust!</sub-title>
+    <desc lang="ca">L'Ash i el Goh tornen a l'illa Slowpoke, on hi ha grans quantitats de Slowpoke ben relaxats. Després que el Goh hagi capturat un Slowpoke, ell i l'Ash en descobreixen un altre grup, i també un Slowbro i un Slowking, que són una mica diferents. Són de la regió de Galar i es volen fer amics amb l'Slowpoke, l'Slowbro i l'Slowking de Kanto. Després d'oferir-los ajuda, l'Ash i el Goh acaben amb el Shellder encastat al cap i comencen una batalla de galls.</desc>
+    <length units="minutes">00:19:56</length>
   </programme>
-  <programme start="20261012142606 +0000" channel="sx3" stop="20261012161205 +0000">
-    <title lang="ca">El detectiu Conan: Black Iron Submarine</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">EL DETECTIU CONAN: BLACK IRON SUBMARINE 'Detective Conan: Kurogane no Submarine'Direcció: Yuzuru TachikawaGuió: Takeharu Sakurai Producció: TMS Entertainment, Nippon TV, ShoPro, TOHO animationAny: 2023Durada: 110País: JapóMúsica: Yûgo KannoUn grup d'enginyers de diversos països es reuneix a l'illa de Hachijo-jima, al Japó, per seguir en directe la posada en marxa d'un nou sistema de seguretat que connecta els dispositius de càmeres policials d'arreu del món i fa possible el reconeixement facial. Mentrestant, en Conan i la seva colla visiten la mateixa illa per observar balenes.</desc>
-    <length units="minutes">01:45:59</length>
+  <programme start="20261013020710 +0000" channel="sx3" stop="20261013022620 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Fora del seu element!</sub-title>
+    <desc lang="ca">L'Ash i el Goh fan d'artistes convidats al Circ Pokémon! La Chloe els acompanya perquè vol veure un Jolteon i un Flareon, que està previst que també hi actuïn. Però resulta que els dos Pokémon encara són Eevee, i als seus entrenadors, quan els fan evolucionar, se'ls entrecreuen les pedres evolutives. Ara, la Harmony, l'entrenadora de Pokémon de tipus foc, té un Jolteon, i el Billy, l'entrenador de Pokémon de tipus elèctric, té un Flareon, i les actuacions que tenien preparades es compliquen moltíssim.</desc>
+    <length units="minutes">00:19:10</length>
   </programme>
-  <programme start="20261012161205 +0000" channel="sx3" stop="20261012161900 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Ni yin ni yang</sub-title>
-    <desc lang="ca">Molest per l'enrenou que fan els Lèmmings i l'os rentador, en Grizzy decideix acabar amb la seva persecució llançant-los lluny de la cabana. En llançar-los, cauen sobre una llosa blanca i negra que representa el yin i el yang i, amb l'impacte de la caiguda, l'esquerden. De l'esquerda en surt una llum estranya que envolta l'os rentador. A partir d'aquell moment, segons el seu estat d'ànim, el color del pelatge de l'os rentador canvia i la seva energia o calma es contagien a aquells que té a prop.</desc>
-    <length units="minutes">00:06:55</length>
+  <programme start="20261013012340 +0000" channel="tv3" stop="20261013015352 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">226</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:12</length>
   </programme>
-  <programme start="20261012150227 +0000" channel="tv3" stop="20261012154824 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El tornavís</sub-title>
-    <desc lang="ca">Després del gat del cotxe, hem decidit continuar donant veu a les eines del dia a dia. Per això, avui apostem pel tornavís, una eina universal i imprescindible en qualsevol casa, taller, oficina, camp i corral. La Glòria Maurel ens visita per parlar sobre la figura del bateria en un grup i tocar amb artistes de la talla de Guillem Gisbert, Rigoberta Bandini o Fermin Muguruza. I sortim a passejar en Nook i l'Archie, de Folgueroles, per un lloc on fa una mica de fresca: quan es va fer la primera ascensió al Mont Blanc.</desc>
-    <length units="minutes">00:45:57</length>
-  </programme>
-  <programme start="20261012154824 +0000" channel="tv3" stop="20261012161905 +0000">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">1986</sub-title>
-    <desc lang="ca">Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
-    <length units="minutes">00:30:41</length>
+  <programme start="20261013015352 +0000" channel="tv3" stop="20261013022805 +0000">
+    <title lang="ca">Gran Reserva. Còmics</title>
+    <sub-title lang="ca">Tomeu Penya</sub-title>
+    <length units="minutes">00:34:13</length>
   </programme>
 </tv>
