@@ -1,78 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261012040000 +0000" channel="tvi" stop="20261012050000 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">August Tharrats</sub-title>
-    <desc lang="ca">August Tharrats ha estat el pianista pioner del blues i el boogie-woogie al nostre país i ha format part de les formacions més representatives d'aquests estils en el context català. Des de fa anys, lidera el seu propi trio, amb què ha gravat tres àlbums i ha creat un blues amb accent de swing, que ens orienta al jazz clàssic. L'acompanyen Jaume Badrenes als saxos, Jordi Mestres al contrabaix i Anton Jarl a la bateria.</desc>
-    <length units="minutes">01:00:00</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261012153321 +0000" channel="tvi" stop="20261012160811 +0000">
+    <title lang="ca">La Riera</title>
+    <sub-title lang="ca">149</sub-title>
+    <desc lang="ca">La Mercè vol fer un dinar per reconciliar-se amb l'Ernest, però el problema serà que el seu fill accepti, i necessitarà aliats. L'Ona creu que en Daniel li serà sempre fidel i la Marina vol demostrar-li que no. A la cuina, en Casellas vol espavilar la Nora, i a en Sergi li toca el pitjor paper, com sempre.</desc>
+    <length units="minutes">00:34:50</length>
   </programme>
-  <programme start="20261012050000 +0000" channel="tvi" stop="20261012060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Jaume Gispert Quartet</sub-title>
-    <desc lang="ca">Entrem a l'estudi per escoltar el compositor i pianista Jaume Gispert presentant noves composicions amb el seu grup. De trajectòria i vocació internacionals, desenvolupa junt a Patricia Herrero a la trompeta, Jordi'Petit'Blanes al baix i Xevi Matamala a la bateria, una sèrie de temes sense límits, prejudicis ni idees preconcebudes.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261012160811 +0000" channel="tvi" stop="20261012164347 +0000">
+    <title lang="ca">La Riera</title>
+    <sub-title lang="ca">150</sub-title>
+    <desc lang="ca">Els Flaquer acaben sabent que el seu fill volia apostatar, i això, per a ells, és inacceptable. El negoci de l'hotel és de massa envergadura. Els Almeda necessiten més capital i pensen en l'Albert Flaquer, mentre van menyspreant l'Ona. La noia necessita esbravar-se. En Balló presenta l'Eloi a l'Oriol i sorgeix una estranya juguesca. Mentrestant, en Ricard, el pare de la Maribel, insisteix a acostar-se a la família.</desc>
+    <length units="minutes">00:35:36</length>
   </programme>
-  <programme start="20261012010000 +0000" channel="324" stop="20261012060000 +0000">
+  <programme start="20261012143000 +0000" channel="324" stop="20261012163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7356</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261012163000 +0000" channel="324" stop="20261012170000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11408</sub-title>
+    <sub-title lang="ca">11412</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261012060000 +0000" channel="324" stop="20261012070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11408</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261012150415 +0000" channel="esport3" stop="20261012155415 +0000">
+    <title lang="ca">Els animals més letals d'Àfrica</title>
+    <sub-title lang="ca">Pantans</sub-title>
+    <desc lang="ca">Algunes zones d'Àfrica canvien molt entre la temporada seca i la temporada de pluges. Durant la temporada de pluges, els grans rius es desborden i cobreixen planes extenses, fet que obliga els animals terrestres que hi viuen a adaptar-se, durant uns quants mesos l'any, a una vida semiaquàtica i a un sòl fangós. També s'estén el territori dels animals aquàtics, com els cocodrils del Nil o els peixos gat. Els lleons, les hienes i les mangostes conviuen amb aquests canvis de paisatge que tant els pot afavorir com complicar-los la vida.</desc>
+    <length units="minutes">00:50:00</length>
   </programme>
-  <programme start="20261012043017 +0000" channel="esport3" stop="20261012055834 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Villa de Aranda-Barça / Lliga Asobal / J5</sub-title>
-    <desc lang="ca">Els blaugranes juguen a la pista burgalesa amb l'objectiu d'ampliar la gran ratxa de victòries consecutives a la Lliga.</desc>
-    <length units="minutes">01:28:17</length>
+  <programme start="20261012155415 +0000" channel="esport3" stop="20261012164500 +0000">
+    <title lang="ca">Els animals més letals d'Àfrica</title>
+    <sub-title lang="ca">Oceans</sub-title>
+    <desc lang="ca">A les costes d'Àfrica, la lluita per la vida és constant i cruel. Sota les aigües on es barregen corrents freds i càlids, centenars d'espècies intenten sobreviure entre els esculls de corall. Diverses espècies de taurons de característiques diferents comparteixen un enorme banc de sardines migratòries amb ossos marins o mascarells en autèntics banquets sota les onades. Les bestioles més menudes, com els cavallets de mar o les llagostes de roca, no abandonen els esculls, però això no els garanteix la supervivència: a la costa africana, la mort es pot amagar en les esquerdes de qualsevol roca.</desc>
+    <length units="minutes">00:50:45</length>
   </programme>
-  <programme start="20261012055834 +0000" channel="esport3" stop="20261012062334 +0000">
-    <title lang="ca">Espòiler</title>
-    <sub-title lang="ca">El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta</sub-title>
-    <desc lang="ca">En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta.</desc>
-    <length units="minutes">00:25:00</length>
+  <programme start="20261012142606 +0000" channel="sx3" stop="20261012161205 +0000">
+    <title lang="ca">El detectiu Conan: Black Iron Submarine</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">EL DETECTIU CONAN: BLACK IRON SUBMARINE 'Detective Conan: Kurogane no Submarine'Direcció: Yuzuru TachikawaGuió: Takeharu Sakurai Producció: TMS Entertainment, Nippon TV, ShoPro, TOHO animationAny: 2023Durada: 110País: JapóMúsica: Yûgo KannoUn grup d'enginyers de diversos països es reuneix a l'illa de Hachijo-jima, al Japó, per seguir en directe la posada en marxa d'un nou sistema de seguretat que connecta els dispositius de càmeres policials d'arreu del món i fa possible el reconeixement facial. Mentrestant, en Conan i la seva colla visiten la mateixa illa per observar balenes.</desc>
+    <length units="minutes">01:45:59</length>
   </programme>
-  <programme start="20261012045622 +0000" channel="sx3" stop="20261012050222 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Brutícia a l'estany</sub-title>
-    <desc lang="ca">En un dia que fa una calor de mil dimonis, tot el ramat el que vol és fer una bona capbussadeta a l'estany. Però abans que s'hi puguin banyar, la colla ha de fer fora una parell de drapaires que han estat omplint l'estany d'objectes de rebuig i no paren.1</desc>
-    <length units="minutes">00:06:00</length>
+  <programme start="20261012161205 +0000" channel="sx3" stop="20261012161900 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Ni yin ni yang</sub-title>
+    <desc lang="ca">Molest per l'enrenou que fan els Lèmmings i l'os rentador, en Grizzy decideix acabar amb la seva persecució llançant-los lluny de la cabana. En llançar-los, cauen sobre una llosa blanca i negra que representa el yin i el yang i, amb l'impacte de la caiguda, l'esquerden. De l'esquerda en surt una llum estranya que envolta l'os rentador. A partir d'aquell moment, segons el seu estat d'ànim, el color del pelatge de l'os rentador canvia i la seva energia o calma es contagien a aquells que té a prop.</desc>
+    <length units="minutes">00:06:55</length>
   </programme>
-  <programme start="20261012050222 +0000" channel="sx3" stop="20261012050821 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Porquets balladors</sub-title>
-    <desc lang="ca">Els animals de la granja celebren la seva competició anual de ball. Com sempre, els porcs no tenen gaire bones intencions i intenten fer trampes per aconseguir la victòria. Ja veurem si el Bitzer i el Shaun poden superar les seves diferències creatives i fer que prevalgui la justícia en el ball.1</desc>
-    <length units="minutes">00:05:59</length>
-  </programme>
-  <programme start="20261012041736 +0000" channel="tv3" stop="20261012050743 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El congelador</sub-title>
-    <desc lang="ca">Mentre les dues famílies busquen la manera de canviar el testament, es veuen obligades a buscar un congelador prou gran per ficar-hi l'Eduardo. Però aconseguir-lo sense diners i sense deixar rastre, no serà gens fàcil</desc>
-    <length units="minutes">00:50:07</length>
-  </programme>
-  <programme start="20261012050743 +0000" channel="tv3" stop="20261012055402 +0000">
+  <programme start="20261012150227 +0000" channel="tv3" stop="20261012154824 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 1</sub-title>
-    <desc lang="ca">La primera setmana de programa sempre és especial recordar-la, per això us deixem un resum amb alguns dels millors moments que hem viscut durant aquests dies. No hi és tot, perquè han passat coses boníssimes i sempre és difícil de triar, però sí que podeu mirar-ho si no heu tingut temps de veure'n cap. O si els heu vist tots i voleu recordar-ne alguns moments, els trobareu aquí. És aquell capítol que fa gràcia perquè posem el més bo, però que et deixa amb ganes de més perquè no hi és tot.</desc>
-    <length units="minutes">00:46:19</length>
+    <sub-title lang="ca">El tornavís</sub-title>
+    <desc lang="ca">Després del gat del cotxe, hem decidit continuar donant veu a les eines del dia a dia. Per això, avui apostem pel tornavís, una eina universal i imprescindible en qualsevol casa, taller, oficina, camp i corral. La Glòria Maurel ens visita per parlar sobre la figura del bateria en un grup i tocar amb artistes de la talla de Guillem Gisbert, Rigoberta Bandini o Fermin Muguruza. I sortim a passejar en Nook i l'Archie, de Folgueroles, per un lloc on fa una mica de fresca: quan es va fer la primera ascensió al Mont Blanc.</desc>
+    <length units="minutes">00:45:57</length>
+  </programme>
+  <programme start="20261012154824 +0000" channel="tv3" stop="20261012161905 +0000">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">1986</sub-title>
+    <desc lang="ca">Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
+    <length units="minutes">00:30:41</length>
   </programme>
 </tv>
