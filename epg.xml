@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20261011224634 +0000" channel="tvi" stop="20261011235716 +0000">
-    <title lang="ca">Vèrtex</title>
-    <sub-title lang="ca">3</sub-title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="minutes">01:10:42</length>
+  <programme start="20261012040000 +0000" channel="tvi" stop="20261012050000 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">August Tharrats</sub-title>
+    <desc lang="ca">August Tharrats ha estat el pianista pioner del blues i el boogie-woogie al nostre país i ha format part de les formacions més representatives d'aquests estils en el context català. Des de fa anys, lidera el seu propi trio, amb què ha gravat tres àlbums i ha creat un blues amb accent de swing, que ens orienta al jazz clàssic. L'acompanyen Jaume Badrenes als saxos, Jordi Mestres al contrabaix i Anton Jarl a la bateria.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261011235716 +0000" channel="tvi" stop="20261012003651 +0000">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">DO Conca de Barberà. 'Trepat, l'orgull recuperat'</sub-title>
-    <desc lang="ca">A la Conca de Barberà, la història del vi comença entre els murs de Poblet i continua entre ceps de trepat. Empar Moliner recorre una terra que va transformar una varietat gairebé oblidada en un dels grans vins elegants del país. Entre monestirs, catedrals del vi i la memòria d'un territori resilient, descobrim com la perseverança també es pot embotellar. Quin és el do de la DO Conca de Barberà?</desc>
-    <length units="minutes">00:39:35</length>
+  <programme start="20261012050000 +0000" channel="tvi" stop="20261012060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Jaume Gispert Quartet</sub-title>
+    <desc lang="ca">Entrem a l'estudi per escoltar el compositor i pianista Jaume Gispert presentant noves composicions amb el seu grup. De trajectòria i vocació internacionals, desenvolupa junt a Patricia Herrero a la trompeta, Jordi'Petit'Blanes al baix i Xevi Matamala a la bateria, una sèrie de temes sense límits, prejudicis ni idees preconcebudes.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261011230000 +0000" channel="324" stop="20261012003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11407</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20261012003000 +0000" channel="324" stop="20261012010000 +0000">
+  <programme start="20261012010000 +0000" channel="324" stop="20261012060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11408</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261011230229 +0000" channel="esport3" stop="20261012001821 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J8 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:15:52</length>
+  <programme start="20261012060000 +0000" channel="324" stop="20261012070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11408</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261012001821 +0000" channel="esport3" stop="20261012003536 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5535</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:17:15</length>
+  <programme start="20261012043017 +0000" channel="esport3" stop="20261012055834 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Villa de Aranda-Barça / Lliga Asobal / J5</sub-title>
+    <desc lang="ca">Els blaugranes juguen a la pista burgalesa amb l'objectiu d'ampliar la gran ratxa de victòries consecutives a la Lliga.</desc>
+    <length units="minutes">01:28:17</length>
   </programme>
-  <programme start="20261011230640 +0000" channel="sx3" stop="20261011231730 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Perduda a Correus</sub-title>
-    <desc lang="ca">L'Agnes truca molt nerviosa. Els seus amos han confós la closca d'en Reggie amb un bol i l'han enviat com a regal de noces. La Flo, la Maggie i en Jo passen a l'acció i decideixen buscar el carter per canviar la closca per un altre paquet. Mentrestant, en Clive i en Billy vigilen en Reggie, que vol recuperar la closca tot sol com sigui.</desc>
-    <length units="minutes">00:10:50</length>
+  <programme start="20261012055834 +0000" channel="esport3" stop="20261012062334 +0000">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta</sub-title>
+    <desc lang="ca">En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta.</desc>
+    <length units="minutes">00:25:00</length>
   </programme>
-  <programme start="20261011231730 +0000" channel="sx3" stop="20261011232827 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Amor innocent</sub-title>
-    <desc lang="ca">La Bertha truca la Tropa del Corral: vol que preguntin a en Sam si li ve de gust sopar amb ella, tot i que li fa por que digui que no. Quan parlen amb en Sam, ell pensa que és la Flo qui vol sopar amb ell, i decideix mudar-se a la granja amb els cadells.</desc>
-    <length units="minutes">00:10:57</length>
+  <programme start="20261012045622 +0000" channel="sx3" stop="20261012050222 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Brutícia a l'estany</sub-title>
+    <desc lang="ca">En un dia que fa una calor de mil dimonis, tot el ramat el que vol és fer una bona capbussadeta a l'estany. Però abans que s'hi puguin banyar, la colla ha de fer fora una parell de drapaires que han estat omplint l'estany d'objectes de rebuig i no paren.1</desc>
+    <length units="minutes">00:06:00</length>
   </programme>
-  <programme start="20261011224434 +0000" channel="tv3" stop="20261011232837 +0000">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Irlanda</sub-title>
-    <desc lang="ca">En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.</desc>
-    <length units="minutes">00:44:03</length>
+  <programme start="20261012050222 +0000" channel="sx3" stop="20261012050821 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Porquets balladors</sub-title>
+    <desc lang="ca">Els animals de la granja celebren la seva competició anual de ball. Com sempre, els porcs no tenen gaire bones intencions i intenten fer trampes per aconseguir la victòria. Ja veurem si el Bitzer i el Shaun poden superar les seves diferències creatives i fer que prevalgui la justícia en el ball.1</desc>
+    <length units="minutes">00:05:59</length>
   </programme>
-  <programme start="20261011232837 +0000" channel="tv3" stop="20261012001336 +0000">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Tailàndia</sub-title>
-    <desc lang="ca">Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
-    <length units="minutes">00:44:59</length>
+  <programme start="20261012041736 +0000" channel="tv3" stop="20261012050743 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">El congelador</sub-title>
+    <desc lang="ca">Mentre les dues famílies busquen la manera de canviar el testament, es veuen obligades a buscar un congelador prou gran per ficar-hi l'Eduardo. Però aconseguir-lo sense diners i sense deixar rastre, no serà gens fàcil</desc>
+    <length units="minutes">00:50:07</length>
+  </programme>
+  <programme start="20261012050743 +0000" channel="tv3" stop="20261012055402 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 1</sub-title>
+    <desc lang="ca">La primera setmana de programa sempre és especial recordar-la, per això us deixem un resum amb alguns dels millors moments que hem viscut durant aquests dies. No hi és tot, perquè han passat coses boníssimes i sempre és difícil de triar, però sí que podeu mirar-ho si no heu tingut temps de veure'n cap. O si els heu vist tots i voleu recordar-ne alguns moments, els trobareu aquí. És aquell capítol que fa gràcia perquè posem el més bo, però que et deixa amb ganes de més perquè no hi és tot.</desc>
+    <length units="minutes">00:46:19</length>
   </programme>
 </tv>
