@@ -1,13 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -15,23 +12,20 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261013012235 +0000" channel="tvi" stop="20261013040000 +0000">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261013060000 +0000" channel="tvi" stop="20261013080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11417</sub-title>
+    <sub-title lang="ca">11418</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:37:25</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261013040000 +0000" channel="tvi" stop="20261013050004 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">David Giorcelli</sub-title>
-    <desc lang="ca">Amb un estil enèrgic i desenfadat, Giorcelli repassa el seu repertori, que evoca l'ambient dels Honky Tonks i Barrelhouse a l'Amèrica dels anys 50. Avui ens presenta una formació molt original, amb Llorenç Barceló a l'orgue Hammond; Jordi Llaurens a la guitarra, veu i harmònica; Reginal Vilardell a la bateria i la presència de la seductora Ster Wax.</desc>
-    <length units="minutes">01:00:04</length>
-  </programme>
-  <programme start="20261013010000 +0000" channel="324" stop="20261013060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11417</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261013080000 +0000" channel="tvi" stop="20261013103000 +0000">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">4690</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="minutes">02:30:00</length>
   </programme>
   <programme start="20261013060000 +0000" channel="324" stop="20261013080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
@@ -39,39 +33,46 @@
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261013004803 +0000" channel="esport3" stop="20261013021853 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El xou capil·lar de Vini; Mayola Academy i 'El colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Irati Vidal, Jordi Martí i Joaquín Maroto comenten l'expulsió de Vinicius per estirar dels cabells d'un rival. En Marc Mayola posa la lupa en alguns aspectes tàctics del partit del Barça. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">01:30:50</length>
+  <programme start="20261013080000 +0000" channel="324" stop="20261013103000 +0000">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">4690</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261013021853 +0000" channel="esport3" stop="20261013023703 +0000">
+  <programme start="20261013060329 +0000" channel="esport3" stop="20261013063418 +0000">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">179</sub-title>
+    <desc lang="ca">'La Frontal', presentat pel periodista esportiu Carles Fité, repassa l'actualitat del futbol i el futbol sala català. Visitem i donem veu als clubs d'arreu del territori, a més d'oferir els resums de la jornada del cap de setmana. La Primera, Segona i Tercera RFEF, així com la Primera Catalana, tenen cabuda en el programa, que s'emet cada dilluns a Esport3.</desc>
+    <length units="minutes">00:30:49</length>
+  </programme>
+  <programme start="20261013063418 +0000" channel="esport3" stop="20261013065109 +0000">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">5536</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:18:10</length>
+    <length units="minutes">00:16:51</length>
   </programme>
-  <programme start="20261013014714 +0000" channel="sx3" stop="20261013020710 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Una evolució del gust!</sub-title>
-    <desc lang="ca">L'Ash i el Goh tornen a l'illa Slowpoke, on hi ha grans quantitats de Slowpoke ben relaxats. Després que el Goh hagi capturat un Slowpoke, ell i l'Ash en descobreixen un altre grup, i també un Slowbro i un Slowking, que són una mica diferents. Són de la regió de Galar i es volen fer amics amb l'Slowpoke, l'Slowbro i l'Slowking de Kanto. Després d'oferir-los ajuda, l'Ash i el Goh acaben amb el Shellder encastat al cap i comencen una batalla de galls.</desc>
-    <length units="minutes">00:19:56</length>
+  <programme start="20261013061206 +0000" channel="sx3" stop="20261013062334 +0000">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">El menjamel</sub-title>
+    <desc lang="ca">Avui, a l'escola, toca fer mel. En Willi s'inventa una recepta pròpia i, quan es menja la mel que ha fet, li surten taques per tot el cos. Al cap de poc, les abelles s'adonen que hi ha un lladre que els roba mel del celler. La Maia descobreix que aquest lladre és en Max. Ell ho reconeix però diu que si roba és perquè l'hi obliga un monstre molt estrany que es diu Menjamel. La Maia, però, no creu en monstres.</desc>
+    <length units="minutes">00:11:28</length>
   </programme>
-  <programme start="20261013020710 +0000" channel="sx3" stop="20261013022620 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Fora del seu element!</sub-title>
-    <desc lang="ca">L'Ash i el Goh fan d'artistes convidats al Circ Pokémon! La Chloe els acompanya perquè vol veure un Jolteon i un Flareon, que està previst que també hi actuïn. Però resulta que els dos Pokémon encara són Eevee, i als seus entrenadors, quan els fan evolucionar, se'ls entrecreuen les pedres evolutives. Ara, la Harmony, l'entrenadora de Pokémon de tipus foc, té un Jolteon, i el Billy, l'entrenador de Pokémon de tipus elèctric, té un Flareon, i les actuacions que tenien preparades es compliquen moltíssim.</desc>
-    <length units="minutes">00:19:10</length>
+  <programme start="20261013062334 +0000" channel="sx3" stop="20261013063454 +0000">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">Visca la llibertat!</sub-title>
+    <desc lang="ca">Amb motiu de la visita que els ha de fer la reina del rusc de la Malva Reial, les abelles faran una desfilada i un espectacle acrobàtic. La Maia s'hi presenta voluntària i també hi presenta en Willi, però en Willi ja està tip que la Maia sempre ho decideixi tot per ell i li faci fer coses que ell no vol. Llavors, en Barry li aconsella que faci veure que està lesionat. Però la cosa no és tan fàcil i no acabarà de sortir bé.</desc>
+    <length units="minutes">00:11:20</length>
   </programme>
-  <programme start="20261013012340 +0000" channel="tv3" stop="20261013015352 +0000">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">226</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="minutes">00:30:12</length>
+  <programme start="20261013060001 +0000" channel="tv3" stop="20261013062045 +0000">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Félix Rossy Sextet</sub-title>
+    <desc lang="ca">Fill del reconegut bateria, pianista i vibrafonista Jorge Rossy, Félix Rossy va créixer en un ambient familiar molt musical. Així, amb 8 anys va enregistrar el seu primer disc de jazz i amb 17 el seu primer disc com a líder d'una formació. A banda d'haver-se forjat com a destacat trompetista en nombrosos locals de Nova York, Espanya, Itàlia, Suïssa o Alemanya. El projecte que capitaneja sota el seu nom, Félix Rossy Sextet, és una agrupació de músics i amics que destaca per la seva expressiva i versàtil musicalitat.  Félix Rossy - trompeta Ben Solomon - saxo tenor Tomeu Garcías - trombó Miguel Ángel García 'Wiwi' - piano Ben Tiberio - contrabaix Andreu Pitarch - bateria  'Florissant' 'Generalife' 'Godzilla theme'  Localització: Sala Jamboree, Barcelona Dia: 16 de maig del 2024</desc>
+    <length units="minutes">00:20:44</length>
   </programme>
-  <programme start="20261013015352 +0000" channel="tv3" stop="20261013022805 +0000">
-    <title lang="ca">Gran Reserva. Còmics</title>
-    <sub-title lang="ca">Tomeu Penya</sub-title>
-    <length units="minutes">00:34:13</length>
+  <programme start="20261013062045 +0000" channel="tv3" stop="20261013062654 +0000">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Albert Pla: 'Ho sento molt'</sub-title>
+    <desc lang="ca">Quan Albert Pla va debutar, ningú tenia clar si estàvem davant d'algú amb una sensibilitat extrema, àcid i enginyós, o davant d'un il·luminat. El temps ho va deixar clar i la seva trajectòria posterior, repartida entre discos, espectacles i, fins i tot, alguns papers cinematogràfics, ha perfilat la figura d'un intèrpret i escriptor de cançons de personalitat magnètica. 'Ho sento molt', el seu sorprenent debut del 1989, continua sent una obra lúcida i irrepetible.</desc>
+    <length units="minutes">00:06:09</length>
   </programme>
 </tv>
