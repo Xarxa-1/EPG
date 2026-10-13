@@ -1,76 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
-  <programme start="20261013143000 +0000" channel="tvi" stop="20261013153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7357</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261013235038 +0000" channel="tvi" stop="20261014001009 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Clara Roquet. Guionista i directora de cinema</sub-title>
+    <desc lang="ca">Directora de la premiada 'Libertad' i coguionista de projectes de relleu com 'Creatura', 'Els dies que vindran' i '10.000 km', Clara Roquet és una de les cineastes d'aquí amb una trajectòria ascendent. Ho demostra, per exemple, el desafiament d'haver dirigit la seva primera superproducció, la sèrie 'Las largas sombras'.</desc>
+    <length units="minutes">00:19:31</length>
   </programme>
-  <programme start="20261013153000 +0000" channel="tvi" stop="20261013155036 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Costelles a l'agredolç de codonyat</sub-title>
-    <desc lang="ca">A la nostra cuina tradicional, la combinació de l'agre i el dolç és tot un clàssic. Ja apareixen receptes al llibre Sent Soví, del segle XIV, amb aquesta barreja màgica. El Marc Ribas prepara unes costelles de porc molt ben treballades amb un bany de sal i les barreja amb un agredolç d'una fruita de tardor, el codonyat. Això sí, haureu de tenir paciència i napar la carn durant la cocció perquè el resultat final sigui brutal.</desc>
-    <length units="minutes">00:20:36</length>
+  <programme start="20261014001009 +0000" channel="tvi" stop="20261014004304 +0000">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Manacor Connection</sub-title>
+    <desc lang="ca">Aquest capítol especial de 'Les feres' vol posar el radar en l'escena musical de Manacor i visibilitzar la valuosa personalitat d'alguns artistes locals. La sala de concerts de Can Lliro es converteix en el centre neuràlgic on cinc solistes i bandes mostren el seu singular cançoner. Parlem de l'associació entre Puput Lab (Joana Gomila i Laia Vallès) amb Carles Medina; SAÏM; Roger Pistola; Caspary i Mar Grimalt. Seguint un caràcter unitari i a mode de pròleg, la peça acaba amb la interpretació d'una cançó del cantant, guitarrista i compositor Miquel Serra, protagonista del capítol següent de 'Les feres'. PUPUT LAB + CARLES MEDINAJoana Gomila - veu Laia Vallès - electrònica Carles Medina - saxo 'Cueta' SAÏM Joan Roig - veu i guitarra Natàlia Gómez - baix Dani Gómez -bateria 'Angle mort' ROGER PISTOLA Roger Antoni Pasqual - veu i guitarra Esteve Huguet - guitarra 'Oxímorons' CASPARY Pau Dalmau - veu Andreu Beltran - guitarra Miquel Crespí - guitarra Pere Plomer - baix Bernat Cantallops - bateria 'Mirall negre' MAR GRIMALT Mar Grimal - guitarra 'Mai te n' ' MIQUEL SERRA Miquel Serra - veu i guitarra Jorra Santiago - guitarra Michael Mesquida - baix Miquel Perelló - bateria 'Saps les meves eines' Localització: Can Lliro, a Manacor, Mallorca Data: 28 de febrer del 2025</desc>
+    <length units="minutes">00:32:55</length>
   </programme>
-  <programme start="20261013143000 +0000" channel="324" stop="20261013153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7357</sub-title>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261013153000 +0000" channel="324" stop="20261013160000 +0000">
-    <title lang="ca">3CatInfo en aranès</title>
-    <sub-title lang="ca">2572</sub-title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20261014000000 +0000" channel="324" stop="20261014003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11425</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261013150254 +0000" channel="esport3" stop="20261013153150 +0000">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Tàndem a la pallaresa</sub-title>
-    <desc lang="ca">Seguim al Pallars Sobirà, aquest cop per fer-ne la part nord, des de la vall de Cardós fins a les valls d'Àneu.La ruta començarà a Ribera de Cardós i passa per Tírvia, Llavorsí, Espot, el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, la Guingueta, Escalarre, Gavàs, Esterri, Isavarre, Borén, Isil i acaba a Alós d'Isil.Durant el trajecte practicarem ràfting per la Noguera Pallaresa, farem una ruta a peu per l'estany de Sant Maurici visitant els Encantats, reviurem el Doctor Music Festival amb els 4t 1a (Quart Primera) i 4 vaques, munyirem cabres per fer formatge artesanal, assitirem al festival Esbaiola't, on el Marc aprendrà a fer salts mortals en llit elàstic; i, finalment, farem una ruta en tàndem per les valls d'Àneu fins a Alós d'Isil.</desc>
-    <length units="minutes">00:28:56</length>
+  <programme start="20261014003000 +0000" channel="324" stop="20261014010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11426</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261013153150 +0000" channel="esport3" stop="20261013162449 +0000">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Gareth</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.</desc>
-    <length units="minutes">00:52:59</length>
+  <programme start="20261013230512 +0000" channel="esport3" stop="20261014003739 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Aguas Santas-BM Granollers / EHF European League / J3</sub-title>
+    <desc lang="ca">El Fraikin juga al districte de Porto amb l'objectiu de sumar la primera victòria com a visitant de la temporada europea.</desc>
+    <length units="minutes">01:32:27</length>
   </programme>
-  <programme start="20261013145756 +0000" channel="sx3" stop="20261013152001 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Son Goku s'enfronta amb en Iakon, el monstre devorador de llum</sub-title>
-    <desc lang="ca">Després que en Babadí deixi la sala on estan lluitant en Son Goku i en Iakon a les fosques, en Son Goku decideix convertir-se en superguerrer per il·luminar-la i poder-s'hi veure, però en Iakon li absorbeix tota l'energia i es torna molt més gros. Quan tot sembla perdut, en Son Goku pren la decisió de tornar-se a convertir en superguerrer. Amb quina intenció?!</desc>
-    <length units="minutes">00:22:05</length>
+  <programme start="20261014003739 +0000" channel="esport3" stop="20261014004713 +0000">
+    <title lang="ca">Zona UFEC</title>
+    <sub-title lang="ca">710</sub-title>
+    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
+    <length units="minutes">00:09:34</length>
   </programme>
-  <programme start="20261013152001 +0000" channel="sx3" stop="20261013152656 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Lèmmings esmaixadors</sub-title>
-    <desc lang="ca">La marca de crema de cacau amb avellanes preferida d'en Grizzy i els lèmmings ha organitzat un gran concurs en què el premi és un pot de crema de cacau gegant. Per emportar-se'l, cal encertar deu pilotes seguides en una cistella de bàsquet situada per a l'ocasió a l'aparcament del supermercat. D'entrada, sembla fàcil, però la competència entre els lèmmings i en Grizzy és ferotge.</desc>
-    <length units="minutes">00:06:55</length>
+  <programme start="20261013234308 +0000" channel="sx3" stop="20261014000317 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El dragó de Komodo</sub-title>
+    <desc lang="ca">Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
-  <programme start="20261013143345 +0000" channel="tv3" stop="20261013151946 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La pila de 4,5 volts</sub-title>
-    <desc lang="ca">Som uns nostàlgics, per això hem triat la pila de 4,5V per dedicar-li un programa. Qui la fa servir? Segurament ningú. Molt probablement les noves generacions ja no l'han ni vist. Per això la volem reivindicar. Venen la Xantal i l'Artur, membres de Remei de Ca la Fresca, per xerrar sobre fer música des d'Arbúcies, i escoltar-los cantant un dels seus temes més coneguts, 'Fusta d'artista, des del nostre escenari. A 'Històries per passejar el gos' anem amb la Tura per un dia tràgic: el primer atropellament d'un tren.</desc>
-    <length units="minutes">00:46:01</length>
+  <programme start="20261014000317 +0000" channel="sx3" stop="20261014002327 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El viatge de l'heroïna (1a part)</sub-title>
+    <desc lang="ca">Per Nadal l'Aviva li va regalar al Chris un val per un Saltatemps. Encara no l'ha pogut fabricar però ja n'ha fet un dels elements més difícils: el propulsor temporal. El problema és que els ha caigut a l'aigua i ha quedat enganxat a un salmó roig que acaba de començar la migració riu amunt cap al lloc on va néixer. L'equip dels germans Kratt fa tot el possible per recuperar-lo.</desc>
+    <length units="minutes">00:20:10</length>
   </programme>
-  <programme start="20261013151946 +0000" channel="tv3" stop="20261013160642 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La claqueta</sub-title>
-    <desc lang="ca">Tot i que a 'La Renaixença' no fem servir la claqueta, n'hem de parlar per guanyar-nos una mica el sector. Fa ràbia quan no lliga la imatge i la veu, eh? Amb la claqueta això queda solucionat. Tenim una visita d'aquelles que fan il·lusió: la Mercè Framis i en Ferran Albiol. Els titellaires d'en Mic i en Tomàtic. No havien compartit mai espai-temps, i ens fa il·lusió que això passi a casa nostra. Trobada de referents de generacions de canalla catalana. I sortim a passejar en Sugus per la guerra de la Galleda, el 1325.</desc>
-    <length units="minutes">00:46:56</length>
+  <programme start="20261013233755 +0000" channel="tv3" stop="20261014000718 +0000">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Ivan Surinder (Restaurant Tandoor)</sub-title>
+    <desc lang="ca">La vida d'Ivan Surinder va canviar radicalment el 19 d'octubre de 2011 amb la mort sobtada del seu pare, un dels cuiners indis més rellevants a Barcelona. Això el va obligar, amb només 19 anys, a assumir un restaurant familiar sense tenir cap noció de cuina. Davant la urgència,es va formar a contrarellotge i va fer un salt decisiu a Tickets, amb Albert Adrià, on va aprendre organització, disciplina i rigor. Avui lidera Tandoor amb una visió contemporània: una cuina índia respectuosa amb l'arrel, adaptada al paladar català sense renunciar a la identitat ni al llegat del seu pare.</desc>
+    <length units="minutes">00:29:23</length>
+  </programme>
+  <programme start="20261014000718 +0000" channel="tv3" stop="20261014003929 +0000">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Jaime Bes i Claudia Gozzi (Restaurant El Raier)</sub-title>
+    <desc lang="ca">Jaime Bes i Claudia Gozzi ho van deixar tot per començar de zero a la Pobla de Segur. Després d'una trajectòria sòlida en alguns dels restaurants més exigents, han creat a El Raier una cuina de producte i temporada, valenta, precisa i profundament honesta. Peix excepcional en plena muntanya, verdures del territori i una tècnica depurada que es mostra sense filtres en una barra oberta on fins i tot la ceràmica és d'origen local. Un capítol que retrata una decisió vital i una manera de cuinar viva i contemporània, demostrant que l'alta gastronomia també pot arrelar, créixer i innovar lluny de la ciutat.</desc>
+    <length units="minutes">00:32:11</length>
   </programme>
 </tv>
