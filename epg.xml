@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -12,67 +15,62 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261013060000 +0000" channel="tvi" stop="20261013080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11418</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261013143000 +0000" channel="tvi" stop="20261013153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7357</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261013080000 +0000" channel="tvi" stop="20261013103000 +0000">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">4690</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="minutes">02:30:00</length>
+  <programme start="20261013153000 +0000" channel="tvi" stop="20261013155036 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Costelles a l'agredolç de codonyat</sub-title>
+    <desc lang="ca">A la nostra cuina tradicional, la combinació de l'agre i el dolç és tot un clàssic. Ja apareixen receptes al llibre Sent Soví, del segle XIV, amb aquesta barreja màgica. El Marc Ribas prepara unes costelles de porc molt ben treballades amb un bany de sal i les barreja amb un agredolç d'una fruita de tardor, el codonyat. Això sí, haureu de tenir paciència i napar la carn durant la cocció perquè el resultat final sigui brutal.</desc>
+    <length units="minutes">00:20:36</length>
   </programme>
-  <programme start="20261013060000 +0000" channel="324" stop="20261013080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11418</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261013143000 +0000" channel="324" stop="20261013153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7357</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261013080000 +0000" channel="324" stop="20261013103000 +0000">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">4690</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="minutes">02:30:00</length>
+  <programme start="20261013153000 +0000" channel="324" stop="20261013160000 +0000">
+    <title lang="ca">3CatInfo en aranès</title>
+    <sub-title lang="ca">2572</sub-title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261013060329 +0000" channel="esport3" stop="20261013063418 +0000">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">179</sub-title>
-    <desc lang="ca">'La Frontal', presentat pel periodista esportiu Carles Fité, repassa l'actualitat del futbol i el futbol sala català. Visitem i donem veu als clubs d'arreu del territori, a més d'oferir els resums de la jornada del cap de setmana. La Primera, Segona i Tercera RFEF, així com la Primera Catalana, tenen cabuda en el programa, que s'emet cada dilluns a Esport3.</desc>
-    <length units="minutes">00:30:49</length>
+  <programme start="20261013150254 +0000" channel="esport3" stop="20261013153150 +0000">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Tàndem a la pallaresa</sub-title>
+    <desc lang="ca">Seguim al Pallars Sobirà, aquest cop per fer-ne la part nord, des de la vall de Cardós fins a les valls d'Àneu.La ruta començarà a Ribera de Cardós i passa per Tírvia, Llavorsí, Espot, el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, la Guingueta, Escalarre, Gavàs, Esterri, Isavarre, Borén, Isil i acaba a Alós d'Isil.Durant el trajecte practicarem ràfting per la Noguera Pallaresa, farem una ruta a peu per l'estany de Sant Maurici visitant els Encantats, reviurem el Doctor Music Festival amb els 4t 1a (Quart Primera) i 4 vaques, munyirem cabres per fer formatge artesanal, assitirem al festival Esbaiola't, on el Marc aprendrà a fer salts mortals en llit elàstic; i, finalment, farem una ruta en tàndem per les valls d'Àneu fins a Alós d'Isil.</desc>
+    <length units="minutes">00:28:56</length>
   </programme>
-  <programme start="20261013063418 +0000" channel="esport3" stop="20261013065109 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5536</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:16:51</length>
+  <programme start="20261013153150 +0000" channel="esport3" stop="20261013162449 +0000">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Gareth</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.</desc>
+    <length units="minutes">00:52:59</length>
   </programme>
-  <programme start="20261013061206 +0000" channel="sx3" stop="20261013062334 +0000">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">El menjamel</sub-title>
-    <desc lang="ca">Avui, a l'escola, toca fer mel. En Willi s'inventa una recepta pròpia i, quan es menja la mel que ha fet, li surten taques per tot el cos. Al cap de poc, les abelles s'adonen que hi ha un lladre que els roba mel del celler. La Maia descobreix que aquest lladre és en Max. Ell ho reconeix però diu que si roba és perquè l'hi obliga un monstre molt estrany que es diu Menjamel. La Maia, però, no creu en monstres.</desc>
-    <length units="minutes">00:11:28</length>
+  <programme start="20261013145756 +0000" channel="sx3" stop="20261013152001 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Goku s'enfronta amb en Iakon, el monstre devorador de llum</sub-title>
+    <desc lang="ca">Després que en Babadí deixi la sala on estan lluitant en Son Goku i en Iakon a les fosques, en Son Goku decideix convertir-se en superguerrer per il·luminar-la i poder-s'hi veure, però en Iakon li absorbeix tota l'energia i es torna molt més gros. Quan tot sembla perdut, en Son Goku pren la decisió de tornar-se a convertir en superguerrer. Amb quina intenció?!</desc>
+    <length units="minutes">00:22:05</length>
   </programme>
-  <programme start="20261013062334 +0000" channel="sx3" stop="20261013063454 +0000">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">Visca la llibertat!</sub-title>
-    <desc lang="ca">Amb motiu de la visita que els ha de fer la reina del rusc de la Malva Reial, les abelles faran una desfilada i un espectacle acrobàtic. La Maia s'hi presenta voluntària i també hi presenta en Willi, però en Willi ja està tip que la Maia sempre ho decideixi tot per ell i li faci fer coses que ell no vol. Llavors, en Barry li aconsella que faci veure que està lesionat. Però la cosa no és tan fàcil i no acabarà de sortir bé.</desc>
-    <length units="minutes">00:11:20</length>
+  <programme start="20261013152001 +0000" channel="sx3" stop="20261013152656 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Lèmmings esmaixadors</sub-title>
+    <desc lang="ca">La marca de crema de cacau amb avellanes preferida d'en Grizzy i els lèmmings ha organitzat un gran concurs en què el premi és un pot de crema de cacau gegant. Per emportar-se'l, cal encertar deu pilotes seguides en una cistella de bàsquet situada per a l'ocasió a l'aparcament del supermercat. D'entrada, sembla fàcil, però la competència entre els lèmmings i en Grizzy és ferotge.</desc>
+    <length units="minutes">00:06:55</length>
   </programme>
-  <programme start="20261013060001 +0000" channel="tv3" stop="20261013062045 +0000">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Félix Rossy Sextet</sub-title>
-    <desc lang="ca">Fill del reconegut bateria, pianista i vibrafonista Jorge Rossy, Félix Rossy va créixer en un ambient familiar molt musical. Així, amb 8 anys va enregistrar el seu primer disc de jazz i amb 17 el seu primer disc com a líder d'una formació. A banda d'haver-se forjat com a destacat trompetista en nombrosos locals de Nova York, Espanya, Itàlia, Suïssa o Alemanya. El projecte que capitaneja sota el seu nom, Félix Rossy Sextet, és una agrupació de músics i amics que destaca per la seva expressiva i versàtil musicalitat.  Félix Rossy - trompeta Ben Solomon - saxo tenor Tomeu Garcías - trombó Miguel Ángel García 'Wiwi' - piano Ben Tiberio - contrabaix Andreu Pitarch - bateria  'Florissant' 'Generalife' 'Godzilla theme'  Localització: Sala Jamboree, Barcelona Dia: 16 de maig del 2024</desc>
-    <length units="minutes">00:20:44</length>
+  <programme start="20261013143345 +0000" channel="tv3" stop="20261013151946 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La pila de 4,5 volts</sub-title>
+    <desc lang="ca">Som uns nostàlgics, per això hem triat la pila de 4,5V per dedicar-li un programa. Qui la fa servir? Segurament ningú. Molt probablement les noves generacions ja no l'han ni vist. Per això la volem reivindicar. Venen la Xantal i l'Artur, membres de Remei de Ca la Fresca, per xerrar sobre fer música des d'Arbúcies, i escoltar-los cantant un dels seus temes més coneguts, 'Fusta d'artista, des del nostre escenari. A 'Històries per passejar el gos' anem amb la Tura per un dia tràgic: el primer atropellament d'un tren.</desc>
+    <length units="minutes">00:46:01</length>
   </programme>
-  <programme start="20261013062045 +0000" channel="tv3" stop="20261013062654 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Albert Pla: 'Ho sento molt'</sub-title>
-    <desc lang="ca">Quan Albert Pla va debutar, ningú tenia clar si estàvem davant d'algú amb una sensibilitat extrema, àcid i enginyós, o davant d'un il·luminat. El temps ho va deixar clar i la seva trajectòria posterior, repartida entre discos, espectacles i, fins i tot, alguns papers cinematogràfics, ha perfilat la figura d'un intèrpret i escriptor de cançons de personalitat magnètica. 'Ho sento molt', el seu sorprenent debut del 1989, continua sent una obra lúcida i irrepetible.</desc>
-    <length units="minutes">00:06:09</length>
+  <programme start="20261013151946 +0000" channel="tv3" stop="20261013160642 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La claqueta</sub-title>
+    <desc lang="ca">Tot i que a 'La Renaixença' no fem servir la claqueta, n'hem de parlar per guanyar-nos una mica el sector. Fa ràbia quan no lliga la imatge i la veu, eh? Amb la claqueta això queda solucionat. Tenim una visita d'aquelles que fan il·lusió: la Mercè Framis i en Ferran Albiol. Els titellaires d'en Mic i en Tomàtic. No havien compartit mai espai-temps, i ens fa il·lusió que això passi a casa nostra. Trobada de referents de generacions de canalla catalana. I sortim a passejar en Sugus per la guerra de la Galleda, el 1325.</desc>
+    <length units="minutes">00:46:56</length>
   </programme>
 </tv>
