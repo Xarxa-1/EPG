@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -12,67 +15,64 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261014173041 +0000" channel="tvi" stop="20261014191422 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">429</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:43:41</length>
+  <programme start="20261014220850 +0000" channel="tvi" stop="20261014232702 +0000">
+    <title lang="ca">Soc i Seré</title>
+    <sub-title lang="ca">Un calçot d'autor</sub-title>
+    <desc lang="ca">Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
+    <length units="minutes">01:18:12</length>
   </programme>
-  <programme start="20261014191422 +0000" channel="tvi" stop="20261014201936 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">943</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:05:14</length>
+  <programme start="20261014232702 +0000" channel="tvi" stop="20261015002052 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Terres de l'Ebre</sub-title>
+    <desc lang="ca">Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.</desc>
+    <length units="minutes">00:53:50</length>
   </programme>
-  <programme start="20261014170000 +0000" channel="324" stop="20261014183000 +0000">
+  <programme start="20261014220500 +0000" channel="324" stop="20261015000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2179</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20261015000000 +0000" channel="324" stop="20261015003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11431</sub-title>
+    <sub-title lang="ca">11434</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261014183000 +0000" channel="324" stop="20261014200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11432</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261014230000 +0000" channel="esport3" stop="20261015003127 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">'Laminadura'; Post Roma-Madrid i 'El Colegiado'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
+    <length units="minutes">01:31:27</length>
   </programme>
-  <programme start="20261014175746 +0000" channel="esport3" stop="20261014190000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Un Barça de deu, la sanció a Vinícius Jr. i Anna Ferrer</sub-title>
-    <desc lang="ca">El Barça goleja el Galatasaray (1-4) i suma el deu de deu. Analitzem el partit amb la lupa de l'Albert Blaya. Vinícius Jr. pendent de la sanció després de ser expulsat contra el Vila-real. En parlem amb Joan Fàbregas. Entrevistem Anna Ferrer, campiona del món d'hoquei patins. A la tertúlia ens acompanyen Irati Vidal, Dani Senabre i Màrius Carol.</desc>
-    <length units="minutes">01:02:14</length>
+  <programme start="20261015003127 +0000" channel="esport3" stop="20261015005222 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5538</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:55</length>
   </programme>
-  <programme start="20261014190000 +0000" channel="esport3" stop="20261014201001 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">El Barça pot regnar a Europa?</sub-title>
-    <desc lang="ca">El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa.</desc>
-    <length units="minutes">01:10:01</length>
+  <programme start="20261014224307 +0000" channel="sx3" stop="20261014230511 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">Els pastissos es desfan!</sub-title>
+    <desc lang="ca">Al Cafè Poirot hi passa una cosa ben estranya: els pastissos es desfan! Tenen una nevera especial per guardar-hi els pastissos de pa de pessic amb nata i maduixes que fa en Toru Amuro, però gairebé cada matí se'ls troben mig desfets i no saben per què. A en Genta, en Mitsuhiko i l'Ayumi els amoïna no poder-ne tornar a menjar mai més, i en Conan decideix investigar els fets.</desc>
+    <length units="minutes">00:22:04</length>
   </programme>
-  <programme start="20261014180012 +0000" channel="sx3" stop="20261014181045 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva una torre de pizzes</sub-title>
-    <desc lang="ca">Badia Aventures vol batre el rècord de la torre de pizzes més alta del món.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261014230511 +0000" channel="sx3" stop="20261014232604 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Animals esgarrifossos! (1a part)</sub-title>
+    <desc lang="ca">Arriba la festa de Halloween i l'equip dels germans Kratt es prepara per celebrar-la. Els dos germans decideixen disfressar-se d'algun animal esgarrifós: el Chris tria el vampir comú i el Martin la taràntula Goliat. L'Aviva els promet que si els troben, els en farà un vestit de poder animal. Mentrestant, el Zach s'empesca un pla per fer-se ric amb la festa de Halloween: muntar una casa encantada i omplir-la d'animals esfereïdors. Per trobar-los demana ajuda als seus companys malvats.</desc>
+    <length units="minutes">00:20:53</length>
   </programme>
-  <programme start="20261014181045 +0000" channel="sx3" stop="20261014182147 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva l’Equip de Gats de Rescat</sub-title>
-    <desc lang="ca">L'Equip de Gats de Rescat li comença a prendre tots els salvaments a la Patrulla Peluda.</desc>
-    <length units="minutes">00:11:02</length>
+  <programme start="20261014225729 +0000" channel="tv3" stop="20261015001836 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Les 2 vides d'Andrés Rabadán</sub-title>
+    <desc lang="ca">LES DUES VIDES D'ANDRÉS RABADÁNProducció: Nanouk Films i Briznormally en producció associada Televisió Catalunya, 2009Guió i direcció: Bonaventura DurallDirector de fotografia: Mauro HerceMúsica: Toni Miguel MirIntèrprets: Alex Brendemühl (Andrés), Mar Ulldemolins (Carmen), Andrés Herrera (Jordi), Clara Segura (Sara), Cristina Garcia (Eva), Emilio Mencheta ( Matahari), Alfonso Ruiz (pare Andrés) i Tania Roman (germana Andrés Rabadán)Mereix tothom una segona oportunitat, independentment dels crims que hagi comès?. Aquesta és la pregunta que planteja Les dues vides d'Andrés Rabadán, la història d'un pres turmentat pels seus crims aberrants. El film, de caire intimista, se submergeix en una recerca personal on el protagonista descobrirà que ell mateix ha estat el seu pitjor enemic, i que la seva única oportunitat de redempció es troba en l'amor.</desc>
+    <length units="minutes">01:21:07</length>
   </programme>
-  <programme start="20261014172752 +0000" channel="tv3" stop="20261014181744 +0000">
-    <title lang="ca">No pot ser!</title>
-    <sub-title lang="ca">Doctor robot</sub-title>
-    <desc lang="ca">Jordi Basté explora les tecnologies mèdiques més avançades i que són a Catalunya. El binomi tecnologia i medicina promet més avanços en els pròxims 10 anys que en tot el segle XX. Al quiròfan de l'Hospital Clínic de Barcelona, Basté veurà en acció el robot quirúrgic Da Vinci, que opera amb una precisió inigualable sota el control d'un cirurgià humà i que està transformant la cirurgia. Amb el Dr. Antonio De Lacy, cap del Servei de Cirurgia del Clínic i una eminència mundial, descobrirà el quiròfan més avançat del món, l'Optimus, dissenyat pels millors enginyers i metges del planeta i que compta amb llums robotitzades sense ombres, esterilització per ozó, aparells sense cables i pantalles 3D de 4K, entre altres innovacions. En el Mobile World Congress 2019, l'Optimus va acollir la primera operació a distància del món, en coordinació amb l'equip del Dr. De Lacy i mitjançant tecnologia 5G. Jordi Basté també anirà a Sant Joan de Déu, on el cirurgià pediàtric Lucas Krauel explicarà com imprimeixen tumors idèntics als que han d'operar i així optimitzar la cirurgia. A l'Hospital Vall d'Hebron comprovem la bioimpressió 3D d'òrgans per trasplantar, una fita que aviat veurem, com ens explica Pere Barret, cap del Servei de Cirurgia Plàstica i Cremats d'aquest centre. El viatge de descoberta de la medicina 4.0 acabarà a l'Institut Guttman de Badalona. La directora assistencial del centre, la doctora Montserrat Bernabeu, ens explicarà com la realitat virtual pot ajudar a tornar a fer caminar a qui havia perdut tota esperança.</desc>
-    <length units="minutes">00:49:52</length>
-  </programme>
-  <programme start="20261014181744 +0000" channel="tv3" stop="20261014184824 +0000">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">1986</sub-title>
-    <desc lang="ca">Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
-    <length units="minutes">00:30:40</length>
+  <programme start="20261015001836 +0000" channel="tv3" stop="20261015014941 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Visitant</sub-title>
+    <desc lang="ca">VISITANTProducció: Desconectada la Película AIE, Beniwood Producciones, Chester Media Producciones, Life &amp; Pictures, The Other Side FilmsDirector i guionista: Alberto EvangelioDirector fotografia: Guillem OliverIntèrprets: Irina del Río (Marga), Miquel Fernández ( Daniel), Jan Cornet (Carlos), Sandra Cervera (Diana)Sinopsi:Marga, en plena crisi amb el seu marit i carregada de dubtes sobre el seu futur, viatja a una antiga casa de la seva família. Al cap de poc d'estar-s'hi, descobreix un portal dimensional que la comunica amb una altra realitat. En aquella dimensió paral·lela, el seu altre jo l'avisa que està a punt de passar una cosa terrible a la seva vida si no pren una determinada decisió.</desc>
+    <length units="minutes">01:31:05</length>
   </programme>
 </tv>
