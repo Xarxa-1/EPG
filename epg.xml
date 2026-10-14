@@ -1,8 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
@@ -15,64 +12,65 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261014040000 +0000" channel="tvi" stop="20261014045956 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Mario Cobo</sub-title>
-    <desc lang="ca">Quan parlem d'aquest guitarrista ens ve al cap un so genuí que ens evoca 'música d'arrel' i una autenticitat en el seu discurs fora de dubte. En la sessió d'avui, Mario Cobo ens presenta el seu repertori, on repassa les seves infuències, que van del rock'a'billy al western-swing o del blues al country. Josep Lluís Pérez a la guitarra, Daniel Nunes al contrabaix i Marco Antonio López a la bateria.</desc>
-    <length units="minutes">00:59:56</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261014103011 +0000" channel="tvi" stop="20261014135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1828</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:49</length>
   </programme>
-  <programme start="20261014045956 +0000" channel="tvi" stop="20261014060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Anibal Martínez Quintet</sub-title>
-    <desc lang="ca">Ens visita el guitarrista i compositor argentí Anibal Martínez, qui sembla haver trobat en l'escena de Barcelona l'espai idoni per desenvolupar tot el seu talent en l'experimentació musical. Ofereix un repertori d'àmplia freqüència, des del swing contemporani als ritmes més tradicionals sud-americans, acompanyat al quintet per músics reconeguts i estimats a casa nostra: Rai Ferrer al contrabaix, Ramón Ángel Rey a la bateria, Gilberto Rivero al saxo tenor i Juan Salvador'Voro'García a la trompeta.</desc>
-    <length units="minutes">01:00:04</length>
+  <programme start="20261014135500 +0000" channel="tvi" stop="20261014143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7054</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261014010000 +0000" channel="324" stop="20261014060000 +0000">
+  <programme start="20261014120000 +0000" channel="324" stop="20261014135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11426</sub-title>
+    <sub-title lang="ca">11429</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261014060000 +0000" channel="324" stop="20261014080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11427</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261014135500 +0000" channel="324" stop="20261014143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7054</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261014025943 +0000" channel="esport3" stop="20261014050507 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bahçesehir-Kids&amp;Us Manresa / Eurocup / J3</sub-title>
-    <desc lang="ca">Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
-    <length units="minutes">02:05:24</length>
+  <programme start="20261014113837 +0000" channel="esport3" stop="20261014130000 +0000">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Post Galatasaray-Barça / J2</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="minutes">01:21:23</length>
   </programme>
-  <programme start="20261014050507 +0000" channel="esport3" stop="20261014064837 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Oostende-FIATC Girona / Fiba Europe Cup / J2</sub-title>
-    <desc lang="ca">Els gironins visiten Bèlgica per enfrontar-se amb el conjunt flamenc amb l'objectiu de sumar la segona victòria en dues jornades a la fase de grups.</desc>
-    <length units="minutes">01:43:30</length>
+  <programme start="20261014130000 +0000" channel="esport3" stop="20261014140206 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3261</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:02:06</length>
   </programme>
-  <programme start="20261014042205 +0000" channel="sx3" stop="20261014043359 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El Cracaüt</sub-title>
-    <desc lang="ca">L'avi guineu s'inventa un conte de por per la canalla. Tots, en Pinxo inclòs, se'l creuen i agafen tanta por que decideixen parar una trampa al cau abandonat per caçar el monstre del conte. L'endemà al matí descobreixen molt sorpresos que el monstre, que en teoria no existeix, ha caigut a la trampa.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20261014124529 +0000" channel="sx3" stop="20261014130742 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els castors constructors</sub-title>
+    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
+    <length units="minutes">00:22:13</length>
   </programme>
-  <programme start="20261014043359 +0000" channel="sx3" stop="20261014044529 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Els amics secrets</sub-title>
-    <desc lang="ca">En Pinxo s'empipa amb en Martís, perquè el troba jugant a cartes amb en Lludó, i no suporta els jocs de cartes. A més considera que en Martís, com que és el seu millor amic, ha de jugar amb ell i no amb en Lludó. Però no tothom està d'acord amb ell.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261014130742 +0000" channel="sx3" stop="20261014132908 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La dona de les mans blanques (1a part)</sub-title>
+    <desc lang="ca">En Conan i els seus amics van a casa de la senyoreta Wakasa per ajudar-la a pintar un mural per l'obra de teatre de l'escola. Quan ja han acabat, senten una música molt forta que ve del pis del veí. En Genta hi entra per queixar-se i se'l troba estès a terra, inconscient, amb una noia morta al costat. El veí porta un missatge escrit a la galta amb retolador vermell.</desc>
+    <length units="minutes">00:21:26</length>
   </programme>
-  <programme start="20261014040529 +0000" channel="tv3" stop="20261014045248 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">L'avió</sub-title>
-    <desc lang="ca">Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
-    <length units="minutes">00:47:19</length>
+  <programme start="20261014124324 +0000" channel="tv3" stop="20261014141052 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">'El gran dictat' es fa més especial que mai amb un format d'una hora de durada amb més proves i noves seccions. Tres famosos demostraran el seu sentit de l'humor concursant, però també formant part, amb l'Òscar Dalmau, de diversos esquetxos al llarg del programa.Durant aquestes festes s'emetran dos especials en 'prime time'. El 25 de desembre (21.50), amb amb tres periodistes especialitzats a fer riure: Toni Soler, Berto Romero i Miquel Calçada. I l'1 de gener, amb la cantant Núria Feliu, el periodista esportiu Joan Maria Pou i la Paula Jornet, l'Ariadna de 'La Riera'.El programa manté les quatre proves actuals i en recupera dues de les més populars dels seus tres anys d'història: 'La paraula mal-dita' i 'La doble pregunta'.Els dos concursants que més punts hagin sumat en les sis proves anteriors, participaran a 'El gran dictat', la gran prova final. El famós guanyador s'endurà un premi de 3.000 euros, que destinarà a l'ONG que prefereixi.</desc>
+    <length units="minutes">01:27:28</length>
   </programme>
-  <programme start="20261014045248 +0000" channel="tv3" stop="20261014053914 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El bolígraf</sub-title>
-    <desc lang="ca">El bolígraf és el protagonista del capítol d'avui. Esperem que us sorprengui tant com a nosaltres que estiguem escrivint amb bolígraf perquè un enginyer hongarès va veure uns nens jugant a bales en un carrer amb bassals. Parlem amb la Carme Bassa, artista responsable de fer els quadres que decoren les cases, els bars i els restaurants de les sèries més mítiques de TV3. 'Com si fos ahir', 'El cor de la ciutat', 'Nissaga de poder'… I un nou capítol de les històries per passejar el gos: portem en Bax, de Vic, per la batalla de Waterloo, el 1815.</desc>
-    <length units="minutes">00:46:26</length>
+  <programme start="20261014141052 +0000" channel="tv3" stop="20261014144052 +0000">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">234</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
 </tv>
