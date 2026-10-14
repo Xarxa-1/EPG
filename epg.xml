@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261013235038 +0000" channel="tvi" stop="20261014001009 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Clara Roquet. Guionista i directora de cinema</sub-title>
-    <desc lang="ca">Directora de la premiada 'Libertad' i coguionista de projectes de relleu com 'Creatura', 'Els dies que vindran' i '10.000 km', Clara Roquet és una de les cineastes d'aquí amb una trajectòria ascendent. Ho demostra, per exemple, el desafiament d'haver dirigit la seva primera superproducció, la sèrie 'Las largas sombras'.</desc>
-    <length units="minutes">00:19:31</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261014040000 +0000" channel="tvi" stop="20261014045956 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Mario Cobo</sub-title>
+    <desc lang="ca">Quan parlem d'aquest guitarrista ens ve al cap un so genuí que ens evoca 'música d'arrel' i una autenticitat en el seu discurs fora de dubte. En la sessió d'avui, Mario Cobo ens presenta el seu repertori, on repassa les seves infuències, que van del rock'a'billy al western-swing o del blues al country. Josep Lluís Pérez a la guitarra, Daniel Nunes al contrabaix i Marco Antonio López a la bateria.</desc>
+    <length units="minutes">00:59:56</length>
   </programme>
-  <programme start="20261014001009 +0000" channel="tvi" stop="20261014004304 +0000">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Manacor Connection</sub-title>
-    <desc lang="ca">Aquest capítol especial de 'Les feres' vol posar el radar en l'escena musical de Manacor i visibilitzar la valuosa personalitat d'alguns artistes locals. La sala de concerts de Can Lliro es converteix en el centre neuràlgic on cinc solistes i bandes mostren el seu singular cançoner. Parlem de l'associació entre Puput Lab (Joana Gomila i Laia Vallès) amb Carles Medina; SAÏM; Roger Pistola; Caspary i Mar Grimalt. Seguint un caràcter unitari i a mode de pròleg, la peça acaba amb la interpretació d'una cançó del cantant, guitarrista i compositor Miquel Serra, protagonista del capítol següent de 'Les feres'. PUPUT LAB + CARLES MEDINAJoana Gomila - veu Laia Vallès - electrònica Carles Medina - saxo 'Cueta' SAÏM Joan Roig - veu i guitarra Natàlia Gómez - baix Dani Gómez -bateria 'Angle mort' ROGER PISTOLA Roger Antoni Pasqual - veu i guitarra Esteve Huguet - guitarra 'Oxímorons' CASPARY Pau Dalmau - veu Andreu Beltran - guitarra Miquel Crespí - guitarra Pere Plomer - baix Bernat Cantallops - bateria 'Mirall negre' MAR GRIMALT Mar Grimal - guitarra 'Mai te n' ' MIQUEL SERRA Miquel Serra - veu i guitarra Jorra Santiago - guitarra Michael Mesquida - baix Miquel Perelló - bateria 'Saps les meves eines' Localització: Can Lliro, a Manacor, Mallorca Data: 28 de febrer del 2025</desc>
-    <length units="minutes">00:32:55</length>
+  <programme start="20261014045956 +0000" channel="tvi" stop="20261014060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Anibal Martínez Quintet</sub-title>
+    <desc lang="ca">Ens visita el guitarrista i compositor argentí Anibal Martínez, qui sembla haver trobat en l'escena de Barcelona l'espai idoni per desenvolupar tot el seu talent en l'experimentació musical. Ofereix un repertori d'àmplia freqüència, des del swing contemporani als ritmes més tradicionals sud-americans, acompanyat al quintet per músics reconeguts i estimats a casa nostra: Rai Ferrer al contrabaix, Ramón Ángel Rey a la bateria, Gilberto Rivero al saxo tenor i Juan Salvador'Voro'García a la trompeta.</desc>
+    <length units="minutes">01:00:04</length>
   </programme>
-  <programme start="20261014000000 +0000" channel="324" stop="20261014003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11425</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
-  </programme>
-  <programme start="20261014003000 +0000" channel="324" stop="20261014010000 +0000">
+  <programme start="20261014010000 +0000" channel="324" stop="20261014060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11426</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261013230512 +0000" channel="esport3" stop="20261014003739 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Aguas Santas-BM Granollers / EHF European League / J3</sub-title>
-    <desc lang="ca">El Fraikin juga al districte de Porto amb l'objectiu de sumar la primera victòria com a visitant de la temporada europea.</desc>
-    <length units="minutes">01:32:27</length>
+  <programme start="20261014060000 +0000" channel="324" stop="20261014080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11427</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261014003739 +0000" channel="esport3" stop="20261014004713 +0000">
-    <title lang="ca">Zona UFEC</title>
-    <sub-title lang="ca">710</sub-title>
-    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
-    <length units="minutes">00:09:34</length>
+  <programme start="20261014025943 +0000" channel="esport3" stop="20261014050507 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bahçesehir-Kids&amp;Us Manresa / Eurocup / J3</sub-title>
+    <desc lang="ca">Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
+    <length units="minutes">02:05:24</length>
   </programme>
-  <programme start="20261013234308 +0000" channel="sx3" stop="20261014000317 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El dragó de Komodo</sub-title>
-    <desc lang="ca">Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261014050507 +0000" channel="esport3" stop="20261014064837 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Oostende-FIATC Girona / Fiba Europe Cup / J2</sub-title>
+    <desc lang="ca">Els gironins visiten Bèlgica per enfrontar-se amb el conjunt flamenc amb l'objectiu de sumar la segona victòria en dues jornades a la fase de grups.</desc>
+    <length units="minutes">01:43:30</length>
   </programme>
-  <programme start="20261014000317 +0000" channel="sx3" stop="20261014002327 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El viatge de l'heroïna (1a part)</sub-title>
-    <desc lang="ca">Per Nadal l'Aviva li va regalar al Chris un val per un Saltatemps. Encara no l'ha pogut fabricar però ja n'ha fet un dels elements més difícils: el propulsor temporal. El problema és que els ha caigut a l'aigua i ha quedat enganxat a un salmó roig que acaba de començar la migració riu amunt cap al lloc on va néixer. L'equip dels germans Kratt fa tot el possible per recuperar-lo.</desc>
-    <length units="minutes">00:20:10</length>
+  <programme start="20261014042205 +0000" channel="sx3" stop="20261014043359 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El Cracaüt</sub-title>
+    <desc lang="ca">L'avi guineu s'inventa un conte de por per la canalla. Tots, en Pinxo inclòs, se'l creuen i agafen tanta por que decideixen parar una trampa al cau abandonat per caçar el monstre del conte. L'endemà al matí descobreixen molt sorpresos que el monstre, que en teoria no existeix, ha caigut a la trampa.</desc>
+    <length units="minutes">00:11:54</length>
   </programme>
-  <programme start="20261013233755 +0000" channel="tv3" stop="20261014000718 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Ivan Surinder (Restaurant Tandoor)</sub-title>
-    <desc lang="ca">La vida d'Ivan Surinder va canviar radicalment el 19 d'octubre de 2011 amb la mort sobtada del seu pare, un dels cuiners indis més rellevants a Barcelona. Això el va obligar, amb només 19 anys, a assumir un restaurant familiar sense tenir cap noció de cuina. Davant la urgència,es va formar a contrarellotge i va fer un salt decisiu a Tickets, amb Albert Adrià, on va aprendre organització, disciplina i rigor. Avui lidera Tandoor amb una visió contemporània: una cuina índia respectuosa amb l'arrel, adaptada al paladar català sense renunciar a la identitat ni al llegat del seu pare.</desc>
-    <length units="minutes">00:29:23</length>
+  <programme start="20261014043359 +0000" channel="sx3" stop="20261014044529 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Els amics secrets</sub-title>
+    <desc lang="ca">En Pinxo s'empipa amb en Martís, perquè el troba jugant a cartes amb en Lludó, i no suporta els jocs de cartes. A més considera que en Martís, com que és el seu millor amic, ha de jugar amb ell i no amb en Lludó. Però no tothom està d'acord amb ell.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261014000718 +0000" channel="tv3" stop="20261014003929 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Jaime Bes i Claudia Gozzi (Restaurant El Raier)</sub-title>
-    <desc lang="ca">Jaime Bes i Claudia Gozzi ho van deixar tot per començar de zero a la Pobla de Segur. Després d'una trajectòria sòlida en alguns dels restaurants més exigents, han creat a El Raier una cuina de producte i temporada, valenta, precisa i profundament honesta. Peix excepcional en plena muntanya, verdures del territori i una tècnica depurada que es mostra sense filtres en una barra oberta on fins i tot la ceràmica és d'origen local. Un capítol que retrata una decisió vital i una manera de cuinar viva i contemporània, demostrant que l'alta gastronomia també pot arrelar, créixer i innovar lluny de la ciutat.</desc>
-    <length units="minutes">00:32:11</length>
+  <programme start="20261014040529 +0000" channel="tv3" stop="20261014045248 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">L'avió</sub-title>
+    <desc lang="ca">Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
+    <length units="minutes">00:47:19</length>
+  </programme>
+  <programme start="20261014045248 +0000" channel="tv3" stop="20261014053914 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El bolígraf</sub-title>
+    <desc lang="ca">El bolígraf és el protagonista del capítol d'avui. Esperem que us sorprengui tant com a nosaltres que estiguem escrivint amb bolígraf perquè un enginyer hongarès va veure uns nens jugant a bales en un carrer amb bassals. Parlem amb la Carme Bassa, artista responsable de fer els quadres que decoren les cases, els bars i els restaurants de les sèries més mítiques de TV3. 'Com si fos ahir', 'El cor de la ciutat', 'Nissaga de poder'… I un nou capítol de les històries per passejar el gos: portem en Bax, de Vic, per la batalla de Waterloo, el 1815.</desc>
+    <length units="minutes">00:46:26</length>
   </programme>
 </tv>
