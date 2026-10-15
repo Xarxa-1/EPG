@@ -1,13 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -15,64 +9,70 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261014220850 +0000" channel="tvi" stop="20261014232702 +0000">
-    <title lang="ca">Soc i Seré</title>
-    <sub-title lang="ca">Un calçot d'autor</sub-title>
-    <desc lang="ca">Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
-    <length units="minutes">01:18:12</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261015040003 +0000" channel="tvi" stop="20261015050003 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Quico Pi de la Serra</sub-title>
+    <desc lang="ca">Quico Pi de la Serra, Amadeu Casas i Joan Pau Cumellas, es perden en un món de cordes i harmonies per presentar un repertori inspirat en els antics blues de Chicago i en els colors del blues del Delta i del blues de Louisiana. Els tres músics es reuneixen per presentar metafòricament la concepció que Pi de la Serra té del blues. Amadeu Casas a la guitarra, mandolina i el 'lap steel'; Joan Pau Cumelles, a l'harmònica, i el mateix Pi de la Serra, a la veu i la guitarra.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261014232702 +0000" channel="tvi" stop="20261015002052 +0000">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Terres de l'Ebre</sub-title>
-    <desc lang="ca">Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.</desc>
-    <length units="minutes">00:53:50</length>
+  <programme start="20261015050003 +0000" channel="tvi" stop="20261015060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Hat</sub-title>
+    <desc lang="ca">Veure el quartet Hat és una autèntica experiencia sensorial; una barreja de Jazz modern, amb elements de rock, d'avantguarda i, fins i tot, de pop on tots els membres participen col.lectivament, lluny d'individualismes i de virtuosismes. Sergi Sirvent als teclats, Jordi Matas a la guitarra, Marc Cuevas al baix i Òscar Domènech a la bateria ens ofereixen avui tota una explosió musical.</desc>
+    <length units="minutes">00:59:57</length>
   </programme>
-  <programme start="20261014220500 +0000" channel="324" stop="20261015000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2179</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261015000000 +0000" channel="324" stop="20261015003000 +0000">
+  <programme start="20261015010000 +0000" channel="324" stop="20261015060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11434</sub-title>
+    <sub-title lang="ca">11435</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261014230000 +0000" channel="esport3" stop="20261015003127 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">'Laminadura'; Post Roma-Madrid i 'El Colegiado'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
-    <length units="minutes">01:31:27</length>
+  <programme start="20261015060000 +0000" channel="324" stop="20261015080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11436</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261015003127 +0000" channel="esport3" stop="20261015005222 +0000">
+  <programme start="20261015025820 +0000" channel="esport3" stop="20261015043153 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Spar Girona-Ostrava / Eurocup / J1</sub-title>
+    <desc lang="ca">L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.</desc>
+    <length units="minutes">01:33:33</length>
+  </programme>
+  <programme start="20261015043153 +0000" channel="esport3" stop="20261015045600 +0000">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">5538</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:55</length>
+    <length units="minutes">00:24:07</length>
   </programme>
-  <programme start="20261014224307 +0000" channel="sx3" stop="20261014230511 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Els pastissos es desfan!</sub-title>
-    <desc lang="ca">Al Cafè Poirot hi passa una cosa ben estranya: els pastissos es desfan! Tenen una nevera especial per guardar-hi els pastissos de pa de pessic amb nata i maduixes que fa en Toru Amuro, però gairebé cada matí se'ls troben mig desfets i no saben per què. A en Genta, en Mitsuhiko i l'Ayumi els amoïna no poder-ne tornar a menjar mai més, i en Conan decideix investigar els fets.</desc>
-    <length units="minutes">00:22:04</length>
+  <programme start="20261015040443 +0000" channel="sx3" stop="20261015042545 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Style Queen - El combat de les reines (1a part)</sub-title>
+    <desc lang="ca">L'Adrien ha de participar en una desfilada organitzada pel seu pare, i ha de lluir un barret dissenyat per la Marinette. Però la presència de la mare de la Chloé, una estilista molt coneguda, ho trasbalsarà tot i propiciarà l'aparició d'una nova super malvada, l'Style Queen.</desc>
+    <length units="minutes">00:21:02</length>
   </programme>
-  <programme start="20261014230511 +0000" channel="sx3" stop="20261014232604 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Animals esgarrifossos! (1a part)</sub-title>
-    <desc lang="ca">Arriba la festa de Halloween i l'equip dels germans Kratt es prepara per celebrar-la. Els dos germans decideixen disfressar-se d'algun animal esgarrifós: el Chris tria el vampir comú i el Martin la taràntula Goliat. L'Aviva els promet que si els troben, els en farà un vestit de poder animal. Mentrestant, el Zach s'empesca un pla per fer-se ric amb la festa de Halloween: muntar una casa encantada i omplir-la d'animals esfereïdors. Per trobar-los demana ajuda als seus companys malvats.</desc>
-    <length units="minutes">00:20:53</length>
+  <programme start="20261015042545 +0000" channel="sx3" stop="20261015043739 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La promesa d'en Basile</sub-title>
+    <desc lang="ca">Per completar l'herbari d'en Casimir, demà, la Guineta, els bessons i la Castina li han de portar una fulla que tingui alguna cosa especial. En Basile li promet a la seva filla que al matí l'anirà a buscar al cau i tots dos buscaran la fulla més maca del bosc. Però després, en Pinxo li recorda a la Guineta totes les vegades que en Basile s'ha oblidat de les seves promeses.</desc>
+    <length units="minutes">00:11:54</length>
   </programme>
-  <programme start="20261014225729 +0000" channel="tv3" stop="20261015001836 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Les 2 vides d'Andrés Rabadán</sub-title>
-    <desc lang="ca">LES DUES VIDES D'ANDRÉS RABADÁNProducció: Nanouk Films i Briznormally en producció associada Televisió Catalunya, 2009Guió i direcció: Bonaventura DurallDirector de fotografia: Mauro HerceMúsica: Toni Miguel MirIntèrprets: Alex Brendemühl (Andrés), Mar Ulldemolins (Carmen), Andrés Herrera (Jordi), Clara Segura (Sara), Cristina Garcia (Eva), Emilio Mencheta ( Matahari), Alfonso Ruiz (pare Andrés) i Tania Roman (germana Andrés Rabadán)Mereix tothom una segona oportunitat, independentment dels crims que hagi comès?. Aquesta és la pregunta que planteja Les dues vides d'Andrés Rabadán, la història d'un pres turmentat pels seus crims aberrants. El film, de caire intimista, se submergeix en una recerca personal on el protagonista descobrirà que ell mateix ha estat el seu pitjor enemic, i que la seva única oportunitat de redempció es troba en l'amor.</desc>
-    <length units="minutes">01:21:07</length>
+  <programme start="20261015033117 +0000" channel="tv3" stop="20261015041813 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Plataforma</sub-title>
+    <desc lang="ca">Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.</desc>
+    <length units="minutes">00:46:56</length>
   </programme>
-  <programme start="20261015001836 +0000" channel="tv3" stop="20261015014941 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Visitant</sub-title>
-    <desc lang="ca">VISITANTProducció: Desconectada la Película AIE, Beniwood Producciones, Chester Media Producciones, Life &amp; Pictures, The Other Side FilmsDirector i guionista: Alberto EvangelioDirector fotografia: Guillem OliverIntèrprets: Irina del Río (Marga), Miquel Fernández ( Daniel), Jan Cornet (Carlos), Sandra Cervera (Diana)Sinopsi:Marga, en plena crisi amb el seu marit i carregada de dubtes sobre el seu futur, viatja a una antiga casa de la seva família. Al cap de poc d'estar-s'hi, descobreix un portal dimensional que la comunica amb una altra realitat. En aquella dimensió paral·lela, el seu altre jo l'avisa que està a punt de passar una cosa terrible a la seva vida si no pren una determinada decisió.</desc>
-    <length units="minutes">01:31:05</length>
+  <programme start="20261015041813 +0000" channel="tv3" stop="20261015050301 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El tamboret</sub-title>
+    <desc lang="ca">Aquest capítol el dediquem al tamboret. Un objecte ben senzill, però que no falta mai enlloc. En podem tenir a la cuina, però també al lavabo, i mai fa nosa. Què va ser abans, el tamboret o la cadira? Ens visita en Ferran Palau, amb qui no només xerrem, sinó que també comparteix escenari amb l'Arnau Tordera i la Laia Glück per fer una versió d'Estimar-te és com un joc. I anem fins a la costa gallega per viure el desastre del Prestige mentre sortim a passejar amb la Nana, una gossa que viu a Tasmània.</desc>
+    <length units="minutes">00:44:48</length>
   </programme>
 </tv>
