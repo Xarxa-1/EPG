@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261015040003 +0000" channel="tvi" stop="20261015050003 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Quico Pi de la Serra</sub-title>
-    <desc lang="ca">Quico Pi de la Serra, Amadeu Casas i Joan Pau Cumellas, es perden en un món de cordes i harmonies per presentar un repertori inspirat en els antics blues de Chicago i en els colors del blues del Delta i del blues de Louisiana. Els tres músics es reuneixen per presentar metafòricament la concepció que Pi de la Serra té del blues. Amadeu Casas a la guitarra, mandolina i el 'lap steel'; Joan Pau Cumelles, a l'harmònica, i el mateix Pi de la Serra, a la veu i la guitarra.</desc>
-    <length units="minutes">01:00:00</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261015102956 +0000" channel="tvi" stop="20261015135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1829</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:25:04</length>
   </programme>
-  <programme start="20261015050003 +0000" channel="tvi" stop="20261015060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Hat</sub-title>
-    <desc lang="ca">Veure el quartet Hat és una autèntica experiencia sensorial; una barreja de Jazz modern, amb elements de rock, d'avantguarda i, fins i tot, de pop on tots els membres participen col.lectivament, lluny d'individualismes i de virtuosismes. Sergi Sirvent als teclats, Jordi Matas a la guitarra, Marc Cuevas al baix i Òscar Domènech a la bateria ens ofereixen avui tota una explosió musical.</desc>
-    <length units="minutes">00:59:57</length>
+  <programme start="20261015135500 +0000" channel="tvi" stop="20261015143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7055</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261015010000 +0000" channel="324" stop="20261015060000 +0000">
+  <programme start="20261015120000 +0000" channel="324" stop="20261015135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11435</sub-title>
+    <sub-title lang="ca">11438</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261015060000 +0000" channel="324" stop="20261015080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11436</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261015135500 +0000" channel="324" stop="20261015143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7055</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261015025820 +0000" channel="esport3" stop="20261015043153 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Spar Girona-Ostrava / Eurocup / J1</sub-title>
-    <desc lang="ca">L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.</desc>
-    <length units="minutes">01:33:33</length>
+  <programme start="20261015112555 +0000" channel="esport3" stop="20261015130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">'Laminadura'; Post Roma-Madrid i 'El Colegiado'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
+    <length units="minutes">01:34:05</length>
   </programme>
-  <programme start="20261015043153 +0000" channel="esport3" stop="20261015045600 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5538</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:24:07</length>
+  <programme start="20261015130000 +0000" channel="esport3" stop="20261015140125 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3262</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:25</length>
   </programme>
-  <programme start="20261015040443 +0000" channel="sx3" stop="20261015042545 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Style Queen - El combat de les reines (1a part)</sub-title>
-    <desc lang="ca">L'Adrien ha de participar en una desfilada organitzada pel seu pare, i ha de lluir un barret dissenyat per la Marinette. Però la presència de la mare de la Chloé, una estilista molt coneguda, ho trasbalsarà tot i propiciarà l'aparició d'una nova super malvada, l'Style Queen.</desc>
-    <length units="minutes">00:21:02</length>
+  <programme start="20261015121127 +0000" channel="sx3" stop="20261015123226 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els buscadors de mel</sub-title>
+    <desc lang="ca">Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
+    <length units="minutes">00:20:59</length>
   </programme>
-  <programme start="20261015042545 +0000" channel="sx3" stop="20261015043739 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La promesa d'en Basile</sub-title>
-    <desc lang="ca">Per completar l'herbari d'en Casimir, demà, la Guineta, els bessons i la Castina li han de portar una fulla que tingui alguna cosa especial. En Basile li promet a la seva filla que al matí l'anirà a buscar al cau i tots dos buscaran la fulla més maca del bosc. Però després, en Pinxo li recorda a la Guineta totes les vegades que en Basile s'ha oblidat de les seves promeses.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20261015123226 +0000" channel="sx3" stop="20261015125434 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la recerca de la perca</sub-title>
+    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
+    <length units="minutes">00:22:08</length>
   </programme>
-  <programme start="20261015033117 +0000" channel="tv3" stop="20261015041813 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Plataforma</sub-title>
-    <desc lang="ca">Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.</desc>
-    <length units="minutes">00:46:56</length>
+  <programme start="20261015122401 +0000" channel="tv3" stop="20261015123002 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">SOPA DE CEBA I OUS DE GUATLLA</sub-title>
+    <desc lang="ca">Hotel restaurant NERI.- barcelonaCuiner.- Benito IranzoDificultat: mitjanaTemps d'elaboració: 1h30'Producte principal: ceba/pa/formatgeTemporada: tot l'any</desc>
+    <length units="minutes">00:06:01</length>
   </programme>
-  <programme start="20261015041813 +0000" channel="tv3" stop="20261015050301 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El tamboret</sub-title>
-    <desc lang="ca">Aquest capítol el dediquem al tamboret. Un objecte ben senzill, però que no falta mai enlloc. En podem tenir a la cuina, però també al lavabo, i mai fa nosa. Què va ser abans, el tamboret o la cadira? Ens visita en Ferran Palau, amb qui no només xerrem, sinó que també comparteix escenari amb l'Arnau Tordera i la Laia Glück per fer una versió d'Estimar-te és com un joc. I anem fins a la costa gallega per viure el desastre del Prestige mentre sortim a passejar amb la Nana, una gossa que viu a Tasmània.</desc>
-    <length units="minutes">00:44:48</length>
+  <programme start="20261015123002 +0000" channel="tv3" stop="20261015135851 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">'EL GRAN GRAN DICTAT' , presentat per l'Òscar Dalmau, el protagonitzaran tres grans grans concursants: l'actriu Nausicaa Bonnín, que ara forma part del repartiment de l'obra de teatre 'La dama de les camèlies'; el periodista esportiu Lluís Canut, que presenta l''Efectivament' a Esport3; i l'actriu mallorquina Llum Barrera, que feia de mare del Roc a 'Polseres vermelles'. Tots tres concursaran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.Els concursants també protagonitzaran diversos esquetxos, en què descobrirem què estaven fent poques hores abans de començar el programa. Així, veurem la Nausicaa Bonnín molt desesperada fent autoestop, serem testimonis de com el Lluís Canut està a punt de sortir de l'armari i enxamparem la Llum Barrera escrivint les seves últimes voluntats.Com cada setmana, la màgia també tindrà un paper important. El Mag Lari deixarà públic, convidats i presentador bocabadats amb els seus trucs més espectaculars.</desc>
+    <length units="minutes">01:28:49</length>
   </programme>
 </tv>
