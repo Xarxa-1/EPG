@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -15,64 +15,64 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261015172025 +0000" channel="tvi" stop="20261015191016 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">430</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:49:51</length>
+  <programme start="20261015221418 +0000" channel="tvi" stop="20261015225617 +0000">
+    <title lang="ca">Polònia</title>
+    <sub-title lang="ca">Colau i Rufián es disputen el lideratge de les esquerres, a 'Polònia'</sub-title>
+    <desc lang="ca">Finalment, Gabriel Rufián (Xavi Espinosa) serà el candidat d'Esquerra Republicana a les generals tot i les discrepàncies d'Oriol Junqueras (Cesc Casanovas). Això farà que Artur Mas (David Marcé) i Josep Antoni Duran i Lleida (Xavi Serrano) reclamin drets d'autor per haver plagiat la seva relació.Mentrestant, el Front Ampli d'esquerres ha anunciat que Ada Colau (Agnès Busquets) serà la seva candidata a les eleccions del 29N, però Gerardo Pisarello (Cesc Casanovas) està preocupat per l'excés de protagonisme de l'exalcaldessa de Barcelona, capaç d'abanderar tota mena de causes. Aquests moviments al capdavant dels partits han despertat l'interès de Gerard Romero (Pep Plaza) i Víctor Patsi (Xavi Espinosa) pel 'mercato' polític, que faran un seguiment del mercat de fitxatges.Després que Llarena hagi proposat arxivar la causa de Carles Puigdemont ha nascut un nou fenomen paranormal: els albiraments de Puigdemonts. Per analitzar aquest i altres fenòmens, comptarem amb la presència d'Iker Jiménez (Jordi Ríos) com a expert en tot allò inexplicable i els testimonis del Chupacabras, la nena de l'exorcista i una cara de Bélmez.Alberto Núñez Feijóo (David Marcé) i Santiago Abascal (Noé Blancafort) continuen convençuts que hi haurà tupinada electoral i faran tot el possible per evitar el vot per correu dels ciutadans. D'altra banda, les enquestes són tan favorables a Sílvia Orriols (Nesa Vidaurrázaga) que haurà de buscar gent per ocupar el nombre d'escons al qual aspira. I comptarà amb l'ajuda d'en Josep Maria (Jordi Soriano), el nostre cunyat de guàrdia. I finalment, Albert Dalmau (Ivan Labanda) proposa unificar el servei de Rodalies amb Rosalía (Alba Munuera) i crear Rosalies-Renfe per millorar-ne la imatge.</desc>
+    <length units="minutes">00:41:59</length>
   </programme>
-  <programme start="20261015191016 +0000" channel="tvi" stop="20261015201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">944</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:04:44</length>
+  <programme start="20261015225617 +0000" channel="tvi" stop="20261015233853 +0000">
+    <title lang="ca">APM?</title>
+    <sub-title lang="ca">882</sub-title>
+    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Gerard Martín. Per primera vegada, un jugador del Barça trepitja el nostre terreny de joc, on les preguntes les posa el Joel i no hi ha VAR que valgui. Junts parlaran de viure amb els pares, de les bronques de Hansi Flick i de com és la vida de ric. Perquè pots jugar al primer equip del Barça i que a casa encara et preguntin si has recollit l'habitació.Mentrestant, Nerea Sanfe segueix 'On falla!' fent els reportatges que li suggereixen els nostres espectadors per Instagram. Aquest cop ha anat a parlar amb expats per resoldre un dels grans misteris de la Catalunya internacional: entre fer ioga i prendre te matcha, tenen temps per aprendre català? La flexibilitat la tenen entrenada; ara falta veure si també saben doblegar els pronoms febles. A més, veurem un nou capítol de 'L'Últim supervivent de Rodalies', on el protagonista s'enfrontarà al lloc més perillós de la Terra: un vagó de tren. Oblideu-vos de sobreviure a la selva: aquí el repte és arribar a destinació abans que us caduqui l'abonament; també estrenarem 'El discurs del Feijóo', on el líder del PP practicarà l'art de fer discursos. Primer, vocalitzar, que després ja veurem si hi ha alguna cosa a dir; i al 'Ho està petant', els pares d'alguns dels rapers més coneguts llegiran les lletres dels seus fills per primera vegada. Molt de flow, però ja veurem qui té l'última paraula quan tornin a casa. Se va a haber un follón… #APM3CAT</desc>
+    <length units="minutes">00:42:36</length>
   </programme>
-  <programme start="20261015170000 +0000" channel="324" stop="20261015183000 +0000">
+  <programme start="20261015220500 +0000" channel="324" stop="20261016000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2180</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20261016000000 +0000" channel="324" stop="20261016003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11440</sub-title>
+    <sub-title lang="ca">11443</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261015183000 +0000" channel="324" stop="20261015200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11441</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20261015172902 +0000" channel="esport3" stop="20261015183000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Raphinha ja s'entrena, la samarreta del clàssic, Ai Tsunoda i l'NBA</sub-title>
-    <desc lang="ca">Dos dies abans del partit al camp del Betis, Raphinha ja s'entrena amb el grup. La samarreta del Barça per al clàssic. Entrevistem Ai Tsunoda, campiona del món de judo. L'NBA, amb Jordi de Mas i tertúlia. Ens acompanyen Pere Mas, Arancha Rodríguez i Àlex Esteban.</desc>
-    <length units="minutes">01:00:58</length>
-  </programme>
-  <programme start="20261015183000 +0000" channel="esport3" stop="20261015202709 +0000">
+  <programme start="20261015211726 +0000" channel="esport3" stop="20261015230000 +0000">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Dinamo Bucarest-Barça / EHF Champions / J4</sub-title>
     <desc lang="ca">Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
-    <length units="minutes">01:57:09</length>
+    <length units="minutes">01:42:34</length>
   </programme>
-  <programme start="20261015174703 +0000" channel="sx3" stop="20261015175815 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un estruç</sub-title>
-    <desc lang="ca">Els Wingnut es pensen que el seu estruç va dins d'un remolc que està descontrolat.</desc>
-    <length units="minutes">00:11:12</length>
+  <programme start="20261015230000 +0000" channel="esport3" stop="20261016003058 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:30:58</length>
   </programme>
-  <programme start="20261015175815 +0000" channel="sx3" stop="20261015180849 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva en Potes Grosses</sub-title>
-    <desc lang="ca">Una criatura misteriosa amb les potes molt grosses s'ha endut una relíquia daurada. En Tracker i la resta de la Patrulla hauran de resoldre aquesta desaparició.</desc>
-    <length units="minutes">00:10:34</length>
+  <programme start="20261015222505 +0000" channel="sx3" stop="20261015224440 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">Espectacle en una habitació tancada</sub-title>
+    <desc lang="ca">Un empresari sense escrúpols, president d'una immobiliària, rep una amenaça de mort i li demana a en Kogoro que investigui qui n'és l'autor. El seu secretari li dona una llista amb tres sospitosos. Quan en Kogoro ja ha descobert el culpable, tots els implicats es reuneixen en un antic laboratori abandonat per desemmascarar-lo. Llavors, el Kogoro Dorment entrarà en escena i el guió farà un gir inesperat.</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20261015171213 +0000" channel="tv3" stop="20261015180308 +0000">
-    <title lang="ca">No pot ser!</title>
-    <sub-title lang="ca">La jugada perfecta</sub-title>
-    <desc lang="ca">En aquest capítol Jordi Basté entra a la cuina del Barça i del Manchester City. Perquè el futbol d'elit no és aliè a la innovació tecnològica. A la seu del Manchester City Basté descobreix la tecnologia que es fa servir per optimitzar el rendiment dels futbolistes. I en aquesta visita a terres angleses, es retrobarà amb un vell conegut de l'afició catalana: Pep Guardiola. Allí també es vestirà de curt per provar la tecnologia esportiva. I descobrirem la sala de crioteràpia, on els futbolistes estan uns quants minuts a més de 130 graus sota zero per recuperar-se ràpidament de les microlesions musculars. A Barcelona veurem com el primer equip de futbol femení del Barça també es troba a l'avantguarda de la tecnologia. Ens ho explicaran tres de les seves estrelles i ho comentarem amb Ernesto Valverde. Basté es troba amb Álvaro Carmona, CEO de Driblab, una empresa que se submergeix en l'estadística avançada i analitza el 'big data' d'una enorme base de jugadors per trobar el nou Leo Messi. Per acabar, descobrirem el projecte Soccer Dream, amb el seu creador, Andreu Bartolí, una plataforma perquè els més petits entrenin a futbol en un entorn de realitat virtual.</desc>
-    <length units="minutes">00:50:55</length>
+  <programme start="20261015224440 +0000" channel="sx3" stop="20261015230532 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El missatge de socors de l'Eri Kisaki (1a part)</sub-title>
+    <desc lang="ca">L'Eri Kisaki li envia un missatge molt inquietant a la seva filla, la Ran. Li diu que l'han segrestat i que no sap on se l'han emportat, i li explica que han estabornit la seva secretària al despatx. Primer sospiten que pot ser una broma de la Midori, però de seguida són conscients que la cosa va de debò i comença el compte enrere per rescatar-la.</desc>
+    <length units="minutes">00:20:52</length>
   </programme>
-  <programme start="20261015180308 +0000" channel="tv3" stop="20261015183151 +0000">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">1988</sub-title>
-    <desc lang="ca">Repassem el 1988, l'any que se celebra el mil·lenari de Catalunya, Jordi Pujol s'enfronta a uns manifestants a Santa Coloma de Gramenet i els jugadors del Barça intenten fer fora Josep Lluís Núñez. Mentrestant, al 'Bona cuina', entre rimes d'en Pastallé, apareix, així tot d'una, Ferran Adrià, el cuiner.</desc>
-    <length units="minutes">00:28:43</length>
+  <programme start="20261015220051 +0000" channel="tv3" stop="20261015225244 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El càntir</sub-title>
+    <desc lang="ca">Avui dediquem el capítol al càntir, un objecte lligat a la terra, a la pagesia, un objecte que mantenia l'aigua fresca mentre la gent llaurava de sol a sol. També ens visita la Laura de Castellet, una historiadora especialitzada en instruments medievals, que fa música amb el que et puguis trobar: ossos, ventres, budells… de tot. Com podeu veure, a l'edat mitjana no anaven sobrats de material per fer música. Per acabar-ho, passegem un border collie per la inauguració del pont de Brooklyn, on van morir 12 persones per culpa d'una llau humana.</desc>
+    <length units="minutes">00:51:53</length>
+  </programme>
+  <programme start="20261015225244 +0000" channel="tv3" stop="20261015233318 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Encara que sigui mentida</sub-title>
+    <desc lang="ca">No us cregueu res d'aquest 'Nervi'. Sembla que mentim més que mai, però com sobrevivim sense fingir, sense inventar? En parlem amb la filòsofa Sira Abenoza, directora del Festival Clàssics; amb el dramaturg i director Jordi Oriol, i amb un expert caçador de farsants, el periodista Carles Tamayo. Que la mentida i les màscares a internet no sempre són de covards, ens explica el realitzador Albert Lloreta en un assaig visual, i descobrim amb Jana Jubert que encara no s'ha dit tot sobre 'La bola negra'. Fem safareig cultural amb Oriol Puig Taulé i Emma Zafón, i acabem amb el directe d'un mestre de la disfressa i l'autoparòdia, el cantautor Irieix.</desc>
+    <length units="minutes">00:40:34</length>
   </programme>
 </tv>
