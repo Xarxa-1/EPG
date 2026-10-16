@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261016020810 +0000" channel="tvi" stop="20261016040000 +0000">
+  <programme start="20261016103008 +0000" channel="tvi" stop="20261016135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1830</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:52</length>
+  </programme>
+  <programme start="20261016135500 +0000" channel="tvi" stop="20261016143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7056</sub-title>
+    <length units="minutes">00:35:00</length>
+  </programme>
+  <programme start="20261016120000 +0000" channel="324" stop="20261016135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11444</sub-title>
+    <sub-title lang="ca">11447</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:51:50</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261016040000 +0000" channel="tvi" stop="20261016045939 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Blue Heart</sub-title>
-    <desc lang="ca">Xavier Soranells i la seva banda ens presenten el seu nou material. Un repertori en què sentirem blues rural, blues contemporani i alguns temes de textura més roquera. En cada tema Soranells i els seus busquen l'emoció, la intensitat i l'energia; evocant sons del rock-blues dels 60 i 70. L'acompanyen Eudald Boluda a la bateria i Miki Santamaria al baix, Abel Boquera als teclats i el mateix Xavier Soranells a la guitarra i veu.</desc>
-    <length units="minutes">00:59:39</length>
+  <programme start="20261016135500 +0000" channel="324" stop="20261016143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7056</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261016010000 +0000" channel="324" stop="20261016060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11444</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261016112926 +0000" channel="esport3" stop="20261016130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:30:34</length>
   </programme>
-  <programme start="20261016060000 +0000" channel="324" stop="20261016080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11445</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261016130000 +0000" channel="esport3" stop="20261016141600 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3263</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:16:00</length>
   </programme>
-  <programme start="20261016035004 +0000" channel="esport3" stop="20261016040755 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5539</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:17:51</length>
+  <programme start="20261016121210 +0000" channel="sx3" stop="20261016123310 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El misteri de la morsa estranya</sub-title>
+    <desc lang="ca">En Chris i en Martin estan decidits a descobrir com és que les morses són tan estrambòtiques. Ah! I si de passada en troben alguna altra característica interessant, l'Aviva la podrà integrar als Vestits de Poders Animals! Però resulta que en Zach també va darrere de les morses, i aquest cop treballa per la Donita! Quina una en deuen portar de cap, aquest parell?!</desc>
+    <length units="minutes">00:21:00</length>
   </programme>
-  <programme start="20261016040755 +0000" channel="esport3" stop="20261016053951 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">El Barça pot regnar a Europa?</sub-title>
-    <desc lang="ca">El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa.</desc>
-    <length units="minutes">01:31:56</length>
+  <programme start="20261016123310 +0000" channel="sx3" stop="20261016125558 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El Chris diabòlic de Tasmània</sub-title>
+    <desc lang="ca">Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?</desc>
+    <length units="minutes">00:22:48</length>
   </programme>
-  <programme start="20261016034407 +0000" channel="sx3" stop="20261016040440 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El venedor de sorra</sub-title>
-    <desc lang="ca">El Nooroo, el kwami de l'Esfinx, celebra el seu aniversari, i els altres kwamis decideixen intentar posar-s'hi en contacte per felicitar-lo. Però això vol dir allunyar-se dels seus portadors, i l'Esfinx aprofitarà l'ocasió per tornar a terroritzar París a través del Venedor de Sorra!</desc>
-    <length units="minutes">00:20:33</length>
+  <programme start="20261016121123 +0000" channel="tv3" stop="20261016121813 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Truita de riu del Pallars amb alls</sub-title>
+    <desc lang="ca">Restaurant LA CAVA (TARREGA)Cuinera.- TATIANA BONDIADificultat: baixaTemps d'elaboració: 30 minProducte principal: truita de riuTemporada: tot l'any</desc>
+    <length units="minutes">00:06:50</length>
   </programme>
-  <programme start="20261016040440 +0000" channel="sx3" stop="20261016042739 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Catalyste - El dia dels herois (1a part)</sub-title>
-    <desc lang="ca">A París se celebra el Dia dels Herois, i tothom intenta fer alguna cosa bona pels altres. La Marinette, com sempre, s'atabala i acaba prometent pastissos i pastes per tothom, però després veu que n'ha fet un gra massa. Mentrestant, l'Esfinx intenta reunir tots els personatges malvats que ha anat akumatitzant fins ara per apoderar-se d'una vegada per totes dels prodigis màgics.</desc>
-    <length units="minutes">00:22:59</length>
-  </programme>
-  <programme start="20261016031626 +0000" channel="tv3" stop="20261016040900 +0000">
-    <title lang="ca">Ale-Hop!</title>
-    <sub-title lang="ca">Som una família</sub-title>
-    <desc lang="ca">Al circ, el concepte de família té un sentit especial. Sobretot, quan parlem del circ més tradicional, on la saviesa de la professió passa de pares a fills i la quantitat de membres de la família és tan àmplia com la quantitat de persones que conviuen a la mateixa carpa.Coneixerem quatre famílies amb perfils ben diferents: les germanes Giribaldi, que mantenen viu el llegat del circ històric Raluy, i són les úniques dones del món especialistes en el difícil art dels jocs icaris. La família Mateu Trias, coneguda pel Circ Cric al peu del Montseny. La família dels Pakipaya, una parella amb dos fills petits que ja apunten maneres de trapezistes, i la companyia Entre Nous, que, tot i no tenir llaços consanguinis entre ells, ningú els pot negar que són una família. La nostra presentadora es va afegir, per una estona, a la família dels Entre Nous per aprendre a fer acrobàcia amb les perxes xineses.</desc>
-    <length units="minutes">00:52:34</length>
-  </programme>
-  <programme start="20261016040900 +0000" channel="tv3" stop="20261016045708 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">MWC i rics</sub-title>
-    <desc lang="ca">El Mobile World Congress augmenta la pressió de l'aeroport perquè en poques hores hi passen més de 50.000 persones. S'incrementen els vols privats i els passatgers VIPs disposen de tota mena de luxes a les sales exclusives, fins i tot, de perruqueria. VIPs i famosos que generen expectació, com Neymar quan arriba a la terminal.</desc>
-    <length units="minutes">00:48:08</length>
+  <programme start="20261016121813 +0000" channel="tv3" stop="20261016122501 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Fals arròs d’espelta amb formatge i malves</sub-title>
+    <desc lang="ca">Restaurant LACAVA (TARREGA)Cuinera.- TATIANA BONDIADificultat: mitjanaTemps d'elaboració: Producte principal: espeltaTemporada: tot l'any</desc>
+    <length units="minutes">00:06:48</length>
   </programme>
 </tv>
