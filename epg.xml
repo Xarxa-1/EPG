@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261015221418 +0000" channel="tvi" stop="20261015225617 +0000">
-    <title lang="ca">Polònia</title>
-    <sub-title lang="ca">Colau i Rufián es disputen el lideratge de les esquerres, a 'Polònia'</sub-title>
-    <desc lang="ca">Finalment, Gabriel Rufián (Xavi Espinosa) serà el candidat d'Esquerra Republicana a les generals tot i les discrepàncies d'Oriol Junqueras (Cesc Casanovas). Això farà que Artur Mas (David Marcé) i Josep Antoni Duran i Lleida (Xavi Serrano) reclamin drets d'autor per haver plagiat la seva relació.Mentrestant, el Front Ampli d'esquerres ha anunciat que Ada Colau (Agnès Busquets) serà la seva candidata a les eleccions del 29N, però Gerardo Pisarello (Cesc Casanovas) està preocupat per l'excés de protagonisme de l'exalcaldessa de Barcelona, capaç d'abanderar tota mena de causes. Aquests moviments al capdavant dels partits han despertat l'interès de Gerard Romero (Pep Plaza) i Víctor Patsi (Xavi Espinosa) pel 'mercato' polític, que faran un seguiment del mercat de fitxatges.Després que Llarena hagi proposat arxivar la causa de Carles Puigdemont ha nascut un nou fenomen paranormal: els albiraments de Puigdemonts. Per analitzar aquest i altres fenòmens, comptarem amb la presència d'Iker Jiménez (Jordi Ríos) com a expert en tot allò inexplicable i els testimonis del Chupacabras, la nena de l'exorcista i una cara de Bélmez.Alberto Núñez Feijóo (David Marcé) i Santiago Abascal (Noé Blancafort) continuen convençuts que hi haurà tupinada electoral i faran tot el possible per evitar el vot per correu dels ciutadans. D'altra banda, les enquestes són tan favorables a Sílvia Orriols (Nesa Vidaurrázaga) que haurà de buscar gent per ocupar el nombre d'escons al qual aspira. I comptarà amb l'ajuda d'en Josep Maria (Jordi Soriano), el nostre cunyat de guàrdia. I finalment, Albert Dalmau (Ivan Labanda) proposa unificar el servei de Rodalies amb Rosalía (Alba Munuera) i crear Rosalies-Renfe per millorar-ne la imatge.</desc>
-    <length units="minutes">00:41:59</length>
-  </programme>
-  <programme start="20261015225617 +0000" channel="tvi" stop="20261015233853 +0000">
-    <title lang="ca">APM?</title>
-    <sub-title lang="ca">882</sub-title>
-    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Gerard Martín. Per primera vegada, un jugador del Barça trepitja el nostre terreny de joc, on les preguntes les posa el Joel i no hi ha VAR que valgui. Junts parlaran de viure amb els pares, de les bronques de Hansi Flick i de com és la vida de ric. Perquè pots jugar al primer equip del Barça i que a casa encara et preguntin si has recollit l'habitació.Mentrestant, Nerea Sanfe segueix 'On falla!' fent els reportatges que li suggereixen els nostres espectadors per Instagram. Aquest cop ha anat a parlar amb expats per resoldre un dels grans misteris de la Catalunya internacional: entre fer ioga i prendre te matcha, tenen temps per aprendre català? La flexibilitat la tenen entrenada; ara falta veure si també saben doblegar els pronoms febles. A més, veurem un nou capítol de 'L'Últim supervivent de Rodalies', on el protagonista s'enfrontarà al lloc més perillós de la Terra: un vagó de tren. Oblideu-vos de sobreviure a la selva: aquí el repte és arribar a destinació abans que us caduqui l'abonament; també estrenarem 'El discurs del Feijóo', on el líder del PP practicarà l'art de fer discursos. Primer, vocalitzar, que després ja veurem si hi ha alguna cosa a dir; i al 'Ho està petant', els pares d'alguns dels rapers més coneguts llegiran les lletres dels seus fills per primera vegada. Molt de flow, però ja veurem qui té l'última paraula quan tornin a casa. Se va a haber un follón… #APM3CAT</desc>
-    <length units="minutes">00:42:36</length>
-  </programme>
-  <programme start="20261015220500 +0000" channel="324" stop="20261016000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2180</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261016000000 +0000" channel="324" stop="20261016003000 +0000">
+  <programme start="20261016020810 +0000" channel="tvi" stop="20261016040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11443</sub-title>
+    <sub-title lang="ca">11444</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">01:51:50</length>
   </programme>
-  <programme start="20261015211726 +0000" channel="esport3" stop="20261015230000 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Dinamo Bucarest-Barça / EHF Champions / J4</sub-title>
-    <desc lang="ca">Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
-    <length units="minutes">01:42:34</length>
+  <programme start="20261016040000 +0000" channel="tvi" stop="20261016045939 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Blue Heart</sub-title>
+    <desc lang="ca">Xavier Soranells i la seva banda ens presenten el seu nou material. Un repertori en què sentirem blues rural, blues contemporani i alguns temes de textura més roquera. En cada tema Soranells i els seus busquen l'emoció, la intensitat i l'energia; evocant sons del rock-blues dels 60 i 70. L'acompanyen Eudald Boluda a la bateria i Miki Santamaria al baix, Abel Boquera als teclats i el mateix Xavier Soranells a la guitarra i veu.</desc>
+    <length units="minutes">00:59:39</length>
   </programme>
-  <programme start="20261015230000 +0000" channel="esport3" stop="20261016003058 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
-    <length units="minutes">01:30:58</length>
+  <programme start="20261016010000 +0000" channel="324" stop="20261016060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11444</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261015222505 +0000" channel="sx3" stop="20261015224440 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Espectacle en una habitació tancada</sub-title>
-    <desc lang="ca">Un empresari sense escrúpols, president d'una immobiliària, rep una amenaça de mort i li demana a en Kogoro que investigui qui n'és l'autor. El seu secretari li dona una llista amb tres sospitosos. Quan en Kogoro ja ha descobert el culpable, tots els implicats es reuneixen en un antic laboratori abandonat per desemmascarar-lo. Llavors, el Kogoro Dorment entrarà en escena i el guió farà un gir inesperat.</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20261016060000 +0000" channel="324" stop="20261016080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11445</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261015224440 +0000" channel="sx3" stop="20261015230532 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El missatge de socors de l'Eri Kisaki (1a part)</sub-title>
-    <desc lang="ca">L'Eri Kisaki li envia un missatge molt inquietant a la seva filla, la Ran. Li diu que l'han segrestat i que no sap on se l'han emportat, i li explica que han estabornit la seva secretària al despatx. Primer sospiten que pot ser una broma de la Midori, però de seguida són conscients que la cosa va de debò i comença el compte enrere per rescatar-la.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20261016035004 +0000" channel="esport3" stop="20261016040755 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5539</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:17:51</length>
   </programme>
-  <programme start="20261015220051 +0000" channel="tv3" stop="20261015225244 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El càntir</sub-title>
-    <desc lang="ca">Avui dediquem el capítol al càntir, un objecte lligat a la terra, a la pagesia, un objecte que mantenia l'aigua fresca mentre la gent llaurava de sol a sol. També ens visita la Laura de Castellet, una historiadora especialitzada en instruments medievals, que fa música amb el que et puguis trobar: ossos, ventres, budells… de tot. Com podeu veure, a l'edat mitjana no anaven sobrats de material per fer música. Per acabar-ho, passegem un border collie per la inauguració del pont de Brooklyn, on van morir 12 persones per culpa d'una llau humana.</desc>
-    <length units="minutes">00:51:53</length>
+  <programme start="20261016040755 +0000" channel="esport3" stop="20261016053951 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Barça pot regnar a Europa?</sub-title>
+    <desc lang="ca">El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa.</desc>
+    <length units="minutes">01:31:56</length>
   </programme>
-  <programme start="20261015225244 +0000" channel="tv3" stop="20261015233318 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Encara que sigui mentida</sub-title>
-    <desc lang="ca">No us cregueu res d'aquest 'Nervi'. Sembla que mentim més que mai, però com sobrevivim sense fingir, sense inventar? En parlem amb la filòsofa Sira Abenoza, directora del Festival Clàssics; amb el dramaturg i director Jordi Oriol, i amb un expert caçador de farsants, el periodista Carles Tamayo. Que la mentida i les màscares a internet no sempre són de covards, ens explica el realitzador Albert Lloreta en un assaig visual, i descobrim amb Jana Jubert que encara no s'ha dit tot sobre 'La bola negra'. Fem safareig cultural amb Oriol Puig Taulé i Emma Zafón, i acabem amb el directe d'un mestre de la disfressa i l'autoparòdia, el cantautor Irieix.</desc>
-    <length units="minutes">00:40:34</length>
+  <programme start="20261016034407 +0000" channel="sx3" stop="20261016040440 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El venedor de sorra</sub-title>
+    <desc lang="ca">El Nooroo, el kwami de l'Esfinx, celebra el seu aniversari, i els altres kwamis decideixen intentar posar-s'hi en contacte per felicitar-lo. Però això vol dir allunyar-se dels seus portadors, i l'Esfinx aprofitarà l'ocasió per tornar a terroritzar París a través del Venedor de Sorra!</desc>
+    <length units="minutes">00:20:33</length>
+  </programme>
+  <programme start="20261016040440 +0000" channel="sx3" stop="20261016042739 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Catalyste - El dia dels herois (1a part)</sub-title>
+    <desc lang="ca">A París se celebra el Dia dels Herois, i tothom intenta fer alguna cosa bona pels altres. La Marinette, com sempre, s'atabala i acaba prometent pastissos i pastes per tothom, però després veu que n'ha fet un gra massa. Mentrestant, l'Esfinx intenta reunir tots els personatges malvats que ha anat akumatitzant fins ara per apoderar-se d'una vegada per totes dels prodigis màgics.</desc>
+    <length units="minutes">00:22:59</length>
+  </programme>
+  <programme start="20261016031626 +0000" channel="tv3" stop="20261016040900 +0000">
+    <title lang="ca">Ale-Hop!</title>
+    <sub-title lang="ca">Som una família</sub-title>
+    <desc lang="ca">Al circ, el concepte de família té un sentit especial. Sobretot, quan parlem del circ més tradicional, on la saviesa de la professió passa de pares a fills i la quantitat de membres de la família és tan àmplia com la quantitat de persones que conviuen a la mateixa carpa.Coneixerem quatre famílies amb perfils ben diferents: les germanes Giribaldi, que mantenen viu el llegat del circ històric Raluy, i són les úniques dones del món especialistes en el difícil art dels jocs icaris. La família Mateu Trias, coneguda pel Circ Cric al peu del Montseny. La família dels Pakipaya, una parella amb dos fills petits que ja apunten maneres de trapezistes, i la companyia Entre Nous, que, tot i no tenir llaços consanguinis entre ells, ningú els pot negar que són una família. La nostra presentadora es va afegir, per una estona, a la família dels Entre Nous per aprendre a fer acrobàcia amb les perxes xineses.</desc>
+    <length units="minutes">00:52:34</length>
+  </programme>
+  <programme start="20261016040900 +0000" channel="tv3" stop="20261016045708 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">MWC i rics</sub-title>
+    <desc lang="ca">El Mobile World Congress augmenta la pressió de l'aeroport perquè en poques hores hi passen més de 50.000 persones. S'incrementen els vols privats i els passatgers VIPs disposen de tota mena de luxes a les sales exclusives, fins i tot, de perruqueria. VIPs i famosos que generen expectació, com Neymar quan arriba a la terminal.</desc>
+    <length units="minutes">00:48:08</length>
   </programme>
 </tv>
