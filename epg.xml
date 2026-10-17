@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -9,70 +12,67 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20261017110001 +0000" channel="tvi" stop="20261017121323 +0000">
-    <title lang="ca">Soc i Seré</title>
-    <sub-title lang="ca">Un calçot d'autor</sub-title>
-    <desc lang="ca">Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
-    <length units="minutes">01:13:22</length>
+  <programme start="20261017153746 +0000" channel="tvi" stop="20261017170032 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Formentera lady</sub-title>
+    <desc lang="ca">FORMENTERA LADYProducció : Good Machine, AIE, Sunrise Pictures,SL, Fosca Films,SL, La Perifèrica Produccions, amb la producció associada de TV3 amb la participació de IB3 i RTVE i col·laboració de l'Ivac-Culturarts i del Departament de Cultura de la Generalitat de Catalunya. 2018Director : Pau DuràGuió : Pau DuràProductors : David Ciurana , Ramiro AceroDirector de fotografia : Miguel LlorensMúsica : JOan AlavedraIntèrprets : José Sacristán (Samuel), Sandro Ballesteros ( Marc), Pepa Juan ( Greta), Nora Navas ( Anna), Jordi Sánchez ( Toni), Juli Mira ( Paco), Ferran Rañé ( Joan)SinopsiSamuel va arribar a la Formentera hippie dels 70 i allà segueix. Viu a una casa a la platja sense llum i toca el banjo a un bar. Un dia rep la visita de la seva filla Anna i del seu nét Marc. Aturada des de fa temps, l'Anna ha acceptat una feina a França i es veu obligada a deixar el seu fill a l'illa.</desc>
+    <length units="minutes">01:22:46</length>
   </programme>
-  <programme start="20261017121323 +0000" channel="tvi" stop="20261017130153 +0000">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Terres de l'Ebre</sub-title>
-    <desc lang="ca">Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.</desc>
-    <length units="minutes">00:48:30</length>
+  <programme start="20261017170032 +0000" channel="tvi" stop="20261017175943 +0000">
+    <title lang="ca">Infidels</title>
+    <sub-title lang="ca">12</sub-title>
+    <desc lang="ca">La Paula no es troba bé i ha anul·lat les sessions amb el sanador. En Marc se'n cuida com pot. La Maria topa amb en Marc, l'exmarit de la Paula, i per casualitat i li explica que ella i el nen ho estan passant fatal. La Lídia recupera la seva activitat de restaurar mobles. Tot i que ella no l'hi explica del tot, l'Albert descobreix amb ràbia que la psiquiatra manté una relació amb en Toni. La Joana no es pot treure del cap que en Peter hagués fet d'actor porno, però procura fer veure que no ho sap i ser feliç. L'Arlet menteix a la feina per passar més temps amb en Dani. La Cruz, destrossada per la ruptura amb l'Eduard, fa vida a la oficina per no estar-se sola a casa.</desc>
+    <length units="minutes">00:59:11</length>
   </programme>
-  <programme start="20261017100000 +0000" channel="324" stop="20261017120000 +0000">
+  <programme start="20261017163000 +0000" channel="324" stop="20261017183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11455</sub-title>
+    <sub-title lang="ca">11457</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261017120000 +0000" channel="324" stop="20261017143000 +0000">
+  <programme start="20261017183000 +0000" channel="324" stop="20261017200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11456</sub-title>
+    <sub-title lang="ca">11458</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261017101947 +0000" channel="esport3" stop="20261017115500 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
-    <length units="minutes">01:35:13</length>
+  <programme start="20261017163009 +0000" channel="esport3" stop="20261017172027 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Igualada HC-CP Calafell / Lliga Catalana / 1a Semifinal</sub-title>
+    <desc lang="ca">L'Igualada Rigat HC i el CP Calafell La Menorquina disputen la primera semifinal a la Lliga Catalana d'hoquei patins.</desc>
+    <length units="minutes">00:50:18</length>
   </programme>
-  <programme start="20261017115500 +0000" channel="esport3" stop="20261017135001 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Badalona Women-CD Tenerife / Lliga F / J7</sub-title>
-    <desc lang="ca">Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.</desc>
-    <length units="minutes">01:55:01</length>
+  <programme start="20261017172027 +0000" channel="esport3" stop="20261017173000 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia Betis-Barça / J9</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:09:33</length>
   </programme>
-  <programme start="20261017113803 +0000" channel="sx3" stop="20261017120056 +0000">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">L'amenaça oblidada</sub-title>
-    <desc lang="ca">El Travis, el fidel tinent de l'inspector McFlaire, va a veure l'Espavilada per explicar-li que està molt preocupat per l'estrany comportament que té el seu cap des que va tornar d'una visita a la presó de Greenside.</desc>
-    <length units="minutes">00:22:53</length>
+  <programme start="20261017162055 +0000" channel="sx3" stop="20261017164628 +0000">
+    <title lang="ca">Fuet</title>
+    <sub-title lang="ca">Els asteques i Hernán Cortés</sub-title>
+    <desc lang="ca">L'Eda ha descobert una nova malifeta d'en Fuet: un temple asteca s'ha convertit en un sorral de gat. Per això, envia la Kiry i en Jau Coloma a perseguir en Fuet arreu de la civilització asteca. Allà coneixeran l'emperador Moctezuma II i com va ser la seva trobada amb el conquistador Hernán Cortés. També es trobaran la Malintzin, la previsió del temps d'un Francesc Mauri asteca i intentaran conèixer els déus asteques gràcies a les cartes de Pokemoctezuma.</desc>
+    <length units="minutes">00:25:33</length>
   </programme>
-  <programme start="20261017120056 +0000" channel="sx3" stop="20261017120750 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Bojos pels crancs</sub-title>
-    <desc lang="ca">Els Lèmmings li agafen afecte a un cranc que està en perill a la platja i decideixen protegir-lo d'una gavina que el vol fer servir per obrir cocos. Quan el duen a casa, en Grizzy no està content, perquè ell vol tranquil·litat mentre mira la televisió i menja patates. Els Lèmmings es converteixen en autèntics rescatadors de crancs i la cabana s'omple de crustacis de seguida. En Grizzy decideix utilitzar una gavina per desfer-se dels crancs, però els Lèmmings, disposats a qualsevol cosa per protegir els seus nous amics, mouen la casa a l'aigua, com si fos una barca...</desc>
-    <length units="minutes">00:06:54</length>
+  <programme start="20261017164628 +0000" channel="sx3" stop="20261017165727 +0000">
+    <title lang="ca">Els secrets de Gaudí</title>
+    <sub-title lang="ca">Els secrets de Gaudí: La vida d'un geni</sub-title>
+    <desc lang="ca">Vols saber quines són les obres més emblemàtiques d'Antoni Gaudí? O com el va influenciar la naturalesa a l'hora d'inventar-se totes les seves creacions? Cada un dels seus edificis crea un món únic i singular. T'expliquem per què Gaudí és considerat un dels arquitectes més importants del món i com va crear diverses obres mestres, set d'elles considerades patrimoni de la humanitat. Amb aquest capítol us donem la benvinguda a 'Els secrets de Gaudí'.</desc>
+    <length units="minutes">00:10:59</length>
   </programme>
-  <programme start="20261017110806 +0000" channel="tv3" stop="20261017115446 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El globus aerostàtic</sub-title>
-    <desc lang="ca">Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.</desc>
-    <length units="minutes">00:46:40</length>
+  <programme start="20261017155458 +0000" channel="tv3" stop="20261017165358 +0000">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">En Rick deixa Albània i entra al nord de Grècia, on tasta 'kotopita' i 'hortopita', unes panades delicioses fetes amb pasta de full. A Ioànnina tasta uns quants plats de peix del llac i un estofat amb un toc bizantí que li prepara una estudiant de cuina. A Préveza visita una botiga on venen 'ouzo', i a Mesolongi un lloc on fan botàriga (ous de peix assecat, usats com a condiment). A la seva cuina de l'illa de Simi ens farà 'souvlaki', 'avgolemono' (sopa de pollastre amb ou escaldat), i pebrots i tomàquets farcits.</desc>
+    <length units="minutes">00:59:00</length>
   </programme>
-  <programme start="20261017115446 +0000" channel="tv3" stop="20261017124610 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 1</sub-title>
-    <desc lang="ca">Aquesta setmana parlem de la xineta, de la radiografia, del tallagespa i del pinzell. És impossible dir-vos quin és el millor, de manera que haureu de veure tots els episodis i decidir segons el vostre criteri. També parlem amb un músic i poeta com és en Guillem Ramisa, una sardanista com és la Nàdia Cordó, un actor com és l'Ernest Villegas, i un esquilador d'ovelles com és l'Andreu Castellà. Com? Que un esquilador d'ovelles entre tant d'artista no us esperàveu? I qui us ha dit que esquilar una ovella no és un art, eh!</desc>
-    <length units="minutes">00:51:24</length>
+  <programme start="20261017165358 +0000" channel="tv3" stop="20261017175258 +0000">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
+    <length units="minutes">00:59:00</length>
   </programme>
 </tv>
