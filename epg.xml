@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -12,67 +15,64 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261017021618 +0000" channel="tvi" stop="20261017040000 +0000">
+  <programme start="20261017110001 +0000" channel="tvi" stop="20261017121323 +0000">
+    <title lang="ca">Soc i Seré</title>
+    <sub-title lang="ca">Un calçot d'autor</sub-title>
+    <desc lang="ca">Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
+    <length units="minutes">01:13:22</length>
+  </programme>
+  <programme start="20261017121323 +0000" channel="tvi" stop="20261017130153 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Terres de l'Ebre</sub-title>
+    <desc lang="ca">Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.</desc>
+    <length units="minutes">00:48:30</length>
+  </programme>
+  <programme start="20261017100000 +0000" channel="324" stop="20261017120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11453</sub-title>
+    <sub-title lang="ca">11455</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:43:42</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261017040000 +0000" channel="tvi" stop="20261017050000 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Amadeu Casas</sub-title>
-    <desc lang="ca">Guitarrista de blues genuí i un dels pioners de l'estil de casa nostra. En aquesta ocasió, Casas ve en formació de trio i ens presenta una sessió en què repassa temes clàssics del seu repertori i estrena nou material que formarà part del seu pròxim disc. Matías Míguez al baix i Toni Pagès a la bateria acompanyen el guitarrista barceloní.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261017010000 +0000" channel="324" stop="20261017060000 +0000">
+  <programme start="20261017120000 +0000" channel="324" stop="20261017143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11453</sub-title>
+    <sub-title lang="ca">11456</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261017060000 +0000" channel="324" stop="20261017070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11453</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261017101947 +0000" channel="esport3" stop="20261017115500 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
+    <length units="minutes">01:35:13</length>
   </programme>
-  <programme start="20261017024505 +0000" channel="esport3" stop="20261017043530 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
-    <desc lang="ca">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
-    <length units="minutes">01:50:25</length>
+  <programme start="20261017115500 +0000" channel="esport3" stop="20261017135001 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Badalona Women-CD Tenerife / Lliga F / J7</sub-title>
+    <desc lang="ca">Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.</desc>
+    <length units="minutes">01:55:01</length>
   </programme>
-  <programme start="20261017043530 +0000" channel="esport3" stop="20261017061046 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">El Betis, rival de nivell a la Lliga</sub-title>
-    <desc lang="ca">El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?</desc>
-    <length units="minutes">01:35:16</length>
+  <programme start="20261017113803 +0000" channel="sx3" stop="20261017120056 +0000">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">L'amenaça oblidada</sub-title>
+    <desc lang="ca">El Travis, el fidel tinent de l'inspector McFlaire, va a veure l'Espavilada per explicar-li que està molt preocupat per l'estrany comportament que té el seu cap des que va tornar d'una visita a la presó de Greenside.</desc>
+    <length units="minutes">00:22:53</length>
   </programme>
-  <programme start="20261017034507 +0000" channel="sx3" stop="20261017040545 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Fornèrix</sub-title>
-    <desc lang="ca">Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.</desc>
-    <length units="minutes">00:20:38</length>
+  <programme start="20261017120056 +0000" channel="sx3" stop="20261017120750 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Bojos pels crancs</sub-title>
+    <desc lang="ca">Els Lèmmings li agafen afecte a un cranc que està en perill a la platja i decideixen protegir-lo d'una gavina que el vol fer servir per obrir cocos. Quan el duen a casa, en Grizzy no està content, perquè ell vol tranquil·litat mentre mira la televisió i menja patates. Els Lèmmings es converteixen en autèntics rescatadors de crancs i la cabana s'omple de crustacis de seguida. En Grizzy decideix utilitzar una gavina per desfer-se dels crancs, però els Lèmmings, disposats a qualsevol cosa per protegir els seus nous amics, mouen la casa a l'aigua, com si fos una barca...</desc>
+    <length units="minutes">00:06:54</length>
   </programme>
-  <programme start="20261017040545 +0000" channel="sx3" stop="20261017042644 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">La reculadora</sub-title>
-    <desc lang="ca">De joves, el mestre Fu i la seva estimada, la Marianne, es van haver de separar per protegir els prodigis. Temps després, el mestre Fu intenta posar-se en contacte amb ella a través d'una carta que li ha de fer arribar la Marinette. Però hi ha una confusió de cartes i receptes mèdiques que acaba en l'aparició d'una nova supermalvada.</desc>
-    <length units="minutes">00:20:59</length>
+  <programme start="20261017110806 +0000" channel="tv3" stop="20261017115446 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El globus aerostàtic</sub-title>
+    <desc lang="ca">Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.</desc>
+    <length units="minutes">00:46:40</length>
   </programme>
-  <programme start="20261017033508 +0000" channel="tv3" stop="20261017041633 +0000">
-    <title lang="ca">Sala 30</title>
-    <sub-title lang="ca">L'enigma</sub-title>
-    <desc lang="ca">Què ve primer, en l'art: l'obra o l'enigma que l'envolta? És tan important allò que es vol expressar com l'univers que es crea al voltant d'aquesta idea? Albert Pla parla amb quatre artistes que destil·len aura: en l'atmosfera de Rosa Tharrats hi ha teles i el mar; en la de Gabriel Ventura, poesia; en la de Marina Herlop, música; i en la de Marria Pratts, fantasmes i vaques. Però Pla ha reservat un lloc d'honor a la taula ni més ni menys que per a Frederic Amat, un dels artistes catalans més reconeguts.</desc>
-    <length units="minutes">00:41:25</length>
-  </programme>
-  <programme start="20261017041633 +0000" channel="tv3" stop="20261017050356 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Gran germà</sub-title>
-    <desc lang="ca">L'aeroport és una gran ciutat on milers de persones treballen en paral·lel perquè tot vagi a l'hora. Aquest gran engranatge necessita molts ulls per orquestrar-lo. Hi ha milers de càmeres de vigilància que vetllen per la seguretat i pel bon funcionament de cada racó de l'aeroport. És el CGA, el centre de gestió aeroportuària des d'on es coordina tot.</desc>
-    <length units="minutes">00:47:23</length>
+  <programme start="20261017115446 +0000" channel="tv3" stop="20261017124610 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 1</sub-title>
+    <desc lang="ca">Aquesta setmana parlem de la xineta, de la radiografia, del tallagespa i del pinzell. És impossible dir-vos quin és el millor, de manera que haureu de veure tots els episodis i decidir segons el vostre criteri. També parlem amb un músic i poeta com és en Guillem Ramisa, una sardanista com és la Nàdia Cordó, un actor com és l'Ernest Villegas, i un esquilador d'ovelles com és l'Andreu Castellà. Com? Que un esquilador d'ovelles entre tant d'artista no us esperàveu? I qui us ha dit que esquilar una ovella no és un art, eh!</desc>
+    <length units="minutes">00:51:24</length>
   </programme>
 </tv>
