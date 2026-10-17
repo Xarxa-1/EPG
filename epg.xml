@@ -3,82 +3,76 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261016220349 +0000" channel="tvi" stop="20261016222822 +0000">
-    <title lang="ca">Després de tu</title>
-    <sub-title lang="ca">La motxilla</sub-title>
-    <desc lang="ca">L'Alba practica sèxting amb un noi més gran i en Pau ho descobreix. La seva gestió d'aquest assumpte fa que l'Helena s'adoni d'una cosa que potser ja intuïa: la motxilla del passat que en Pau arrossega.</desc>
-    <length units="minutes">00:24:33</length>
-  </programme>
-  <programme start="20261016222822 +0000" channel="tvi" stop="20261016234532 +0000">
-    <title lang="ca">La Puntual</title>
-    <sub-title lang="ca">La Puntual: Tot comença</sub-title>
-    <desc lang="ca">Comencen els assajos de 'L'auca del senyor Esteve' amb la companyia dirigida per Àngel Llàcer. Viurem l'arribada dels 11 actors a la sala d'assaig on prepararan l'obra, la primera lectura de guió, ens sorprendrem amb la proposta d'escenografia que ha dissenyat l'equip artístic i descobrirem els esbossos del vestuari. També ens visitaran Ivan Labanda i Mireia Portas.</desc>
-    <length units="minutes">01:17:10</length>
-  </programme>
-  <programme start="20261016220500 +0000" channel="324" stop="20261016233000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2181</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:25:00</length>
-  </programme>
-  <programme start="20261016233000 +0000" channel="324" stop="20261017003000 +0000">
+  <programme start="20261017021618 +0000" channel="tvi" stop="20261017040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11452</sub-title>
+    <sub-title lang="ca">11453</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:43:42</length>
+  </programme>
+  <programme start="20261017040000 +0000" channel="tvi" stop="20261017050000 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Amadeu Casas</sub-title>
+    <desc lang="ca">Guitarrista de blues genuí i un dels pioners de l'estil de casa nostra. En aquesta ocasió, Casas ve en formació de trio i ens presenta una sessió en què repassa temes clàssics del seu repertori i estrena nou material que formarà part del seu pròxim disc. Matías Míguez al baix i Toni Pagès a la bateria acompanyen el guitarrista barceloní.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20261017010000 +0000" channel="324" stop="20261017060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11453</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261017060000 +0000" channel="324" stop="20261017070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11453</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261016213733 +0000" channel="esport3" stop="20261016222820 +0000">
+  <programme start="20261017024505 +0000" channel="esport3" stop="20261017043530 +0000">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
     <desc lang="ca">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
-    <length units="minutes">00:50:47</length>
+    <length units="minutes">01:50:25</length>
   </programme>
-  <programme start="20261016222820 +0000" channel="esport3" stop="20261016225457 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 8</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:26:37</length>
+  <programme start="20261017043530 +0000" channel="esport3" stop="20261017061046 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Betis, rival de nivell a la Lliga</sub-title>
+    <desc lang="ca">El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?</desc>
+    <length units="minutes">01:35:16</length>
   </programme>
-  <programme start="20261016220349 +0000" channel="sx3" stop="20261016222515 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El missatge de socors de l'Eri Kisaki (2a part)</sub-title>
-    <desc lang="ca">Tres homes han segrestat l'Eri Kisaki, la mare de la Ran. Ella aconsegueix escapar-se'n i amagar-se a l'edifici on la tenen segrestada, però no en pot sortir. La Ran, en Kogoro i en Conan reben missatges seus pel mòbil i, amb les pistes que els anirà enviant i les habilitats d'en Conan, intentaran localitzar-la abans que sigui massa tard.</desc>
-    <length units="minutes">00:21:26</length>
+  <programme start="20261017034507 +0000" channel="sx3" stop="20261017040545 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Fornèrix</sub-title>
+    <desc lang="ca">Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.</desc>
+    <length units="minutes">00:20:38</length>
   </programme>
-  <programme start="20261016222515 +0000" channel="sx3" stop="20261016224450 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Semblances que maten</sub-title>
-    <desc lang="ca">En Conan, la Ran i en Kogoro senten per casualitat una discussió entre dos periodistes d'una revista en un restaurant. En Conan observa que un d'ells s'emporta el got de l'altre en marxar. Al cap de poques hores, un dels dos homes apareix mort a la vora del riu després d'haver-se pres un cafè enverinat. La policia aviat descobrirà que tots dos havien elaborat un pla gairebé idèntic per matar l'altre.</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20261017040545 +0000" channel="sx3" stop="20261017042644 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La reculadora</sub-title>
+    <desc lang="ca">De joves, el mestre Fu i la seva estimada, la Marianne, es van haver de separar per protegir els prodigis. Temps després, el mestre Fu intenta posar-se en contacte amb ella a través d'una carta que li ha de fer arribar la Marinette. Però hi ha una confusió de cartes i receptes mèdiques que acaba en l'aparició d'una nova supermalvada.</desc>
+    <length units="minutes">00:20:59</length>
   </programme>
-  <programme start="20261016215928 +0000" channel="tv3" stop="20261016225120 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 7</sub-title>
-    <desc lang="ca">Els objectes de la setmana són el despertador, el telescopi i el càntir, claríssimament l'últim és l'únic que té una utilitat real, els altres són invents del Primer Món, innecessaris pel dia a dia de l'home treballador. També ens visita en Victor Ferrer, espeleòleg (només pensar-ho ja ens ve claustrofòbia), en Roger Mas una de les veus de Catalunya, i la Laura de Castellet, divulgadora històrica i experta en instruments medievals!</desc>
-    <length units="minutes">00:51:52</length>
+  <programme start="20261017033508 +0000" channel="tv3" stop="20261017041633 +0000">
+    <title lang="ca">Sala 30</title>
+    <sub-title lang="ca">L'enigma</sub-title>
+    <desc lang="ca">Què ve primer, en l'art: l'obra o l'enigma que l'envolta? És tan important allò que es vol expressar com l'univers que es crea al voltant d'aquesta idea? Albert Pla parla amb quatre artistes que destil·len aura: en l'atmosfera de Rosa Tharrats hi ha teles i el mar; en la de Gabriel Ventura, poesia; en la de Marina Herlop, música; i en la de Marria Pratts, fantasmes i vaques. Però Pla ha reservat un lloc d'honor a la taula ni més ni menys que per a Frederic Amat, un dels artistes catalans més reconeguts.</desc>
+    <length units="minutes">00:41:25</length>
   </programme>
-  <programme start="20261016225120 +0000" channel="tv3" stop="20261016233815 +0000">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Terres de Lleida</sub-title>
-    <desc lang="ca">Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe.</desc>
-    <length units="minutes">00:46:55</length>
-  </programme>
-  <programme start="20261016202455 +0000" channel="tv3" stop="20261017055959 +0000">
-    <title lang="ca">#SORTIDA#</title>
-    <sub-title lang="ca">0</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">09:35:04</length>
+  <programme start="20261017041633 +0000" channel="tv3" stop="20261017050356 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Gran germà</sub-title>
+    <desc lang="ca">L'aeroport és una gran ciutat on milers de persones treballen en paral·lel perquè tot vagi a l'hora. Aquest gran engranatge necessita molts ulls per orquestrar-lo. Hi ha milers de càmeres de vigilància que vetllen per la seguretat i pel bon funcionament de cada racó de l'aeroport. És el CGA, el centre de gestió aeroportuària des d'on es coordina tot.</desc>
+    <length units="minutes">00:47:23</length>
   </programme>
 </tv>
