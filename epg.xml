@@ -1,83 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20261018114203 +0000" channel="tvi" stop="20261018141203 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11463</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+  <programme start="20261018170012 +0000" channel="tvi" stop="20261018182847 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Penèlope</sub-title>
+    <desc lang="ca">'PENÈLOPE' (2017), una producció d'ARAKI FILMS i POLAND ESTUDIO en coproducció amb TELEVISIÓ DE CATALUNYA, amb la col·laboració d'Eurimatges, l'ICEC i l'ICAA i amb el suport de la Diputació de Barcelona i la UPF.La Carme de 97 anys és la modista del poble d'Oló i en Ramon, el fill pròdig que torna ple de seqüeles després de 30 anys de periple. 'Penèlope' fa de l'acte de l'espera un sentit universal prenent com a punt de partida el mite grec de l'Odissea.'Penèlope' ens mostra dos moviments universals que ja trobem al mite de l'Odissea: el de quedar-se i esperar, seguir fidel als orígens, i el de marxar per tallar les arrels i no viure segons el que s'espera de nosaltres. És una pel·lícula sobre el significat de les arrels i el sentit de pertinença a una comunitat a partir de la reflexió sobre els nostres referents culturals, socials i històrics. És un film sobre la identitat heretada i sobre la construcció d'una nova identitat. Sortint d'una espera silenciosa, o bé d'un periple ple de coneixences, la crida de les arrels ha estat i serà sempre una manera de guarir-se, de despertar-se.Direcció i realització: Eva Vila Guió: Pep Puig, Eva VilaProductor: Monika DerendaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaDirector fotografia: Julián ElizaldeMuntatge: Diana Toucedo i Eva VilaDirector de producció: Sandra GarciaMúsica: Juan Sánchez 'Cuti'Grafisme: Álvaro Reinoso, Kakub de Bárbaro, Julie MorizeVeu en off: Anna Subirana</desc>
+    <length units="minutes">01:28:35</length>
   </programme>
-  <programme start="20261018141203 +0000" channel="tvi" stop="20261018142930 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11464</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:17:27</length>
+  <programme start="20261018182847 +0000" channel="tvi" stop="20261018191959 +0000">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">Viatges</sub-title>
+    <desc lang="ca">La Isabel i en Ramon viuen la plenitud del seu amor. Però encara en secret. Hi ha qui pateix aquest amor retrobat. I hi ha les 'formes'. Formes que la Rossy voldria trencar, però el 'dol' és el dol... Els joves es van fent grans...</desc>
+    <length units="minutes">00:51:12</length>
   </programme>
-  <programme start="20261018120000 +0000" channel="324" stop="20261018143000 +0000">
+  <programme start="20261018163000 +0000" channel="324" stop="20261018183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11464</sub-title>
+    <sub-title lang="ca">11465</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20261018143000 +0000" channel="324" stop="20261018163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7362</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261018115520 +0000" channel="esport3" stop="20261018135705 +0000">
+  <programme start="20261018183000 +0000" channel="324" stop="20261018200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11466</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
+  </programme>
+  <programme start="20261018165405 +0000" channel="esport3" stop="20261018170233 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">00:08:28</length>
+  </programme>
+  <programme start="20261018170233 +0000" channel="esport3" stop="20261018175251 +0000">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Reus FC Reddis-RCD Espanyol B / Segona Federació / J7</sub-title>
-    <desc lang="ca">Duel entre dos conjunts que són a la part alta i lluiten per la zona de play-off d'ascens a Primera Federació.</desc>
-    <length units="minutes">02:01:45</length>
+    <sub-title lang="ca">Gimnàstic de Tarragona-At. Madrileny / Primera Federació / J8</sub-title>
+    <desc lang="ca">Amb una victòria, el conjunt tarragoní superaria el madrileny a la classificació, i es podria allunyar de la zona baixa.</desc>
+    <length units="minutes">00:50:18</length>
   </programme>
-  <programme start="20261018135705 +0000" channel="esport3" stop="20261018152813 +0000">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">- BARÇA-CP VOLTREGÀ / LLIGA CATALANA / 2A SEMIFINAL</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">01:31:08</length>
+  <programme start="20261018164737 +0000" channel="sx3" stop="20261018170231 +0000">
+    <title lang="ca">Els secrets de Gaudí</title>
+    <sub-title lang="ca">Els secrets de la casa: Casa Vicens i Palau Güell</sub-title>
+    <desc lang="ca">Sabies que Antoni Gaudí també va dissenyar cases particulars i no només edificis públics? La Casa Vicens i el Palau Güell en són un bon exemple.Gaudí deia que una bona casa ha de tenir dues qualitats alhora. Primer, ha de ser sana: llum, aire, natura, que qui hi visqui creixi fort. Segon, ha de ser bella: plena de records i de llegendes del lloc. Una casa que tingui significat.No hi ha dubte que, amb la Casa Vicens i el Palau Güell, Gaudí ho va aconseguir! T'ho demostrem en aquest capítol.</desc>
+    <length units="minutes">00:14:54</length>
   </programme>
-  <programme start="20261018115646 +0000" channel="sx3" stop="20261018120341 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Llaminadures especials</sub-title>
-    <desc lang="ca">Els lèmmings han trobat un paquet de pastilles de menta glacial que refresquen tant l'alè que, un cop se n'ha menjat, una sola bafarada congela tot el que troba al davant. Però, en Grizzy, que no li agrada gaire aquest ambient glacial, fa mans i mànigues per prendre'ls els caramels. La situació es complica encara més quan els lèmmings descobreixen els poders d'un superxiclet.</desc>
-    <length units="minutes">00:06:55</length>
+  <programme start="20261018170231 +0000" channel="sx3" stop="20261018171451 +0000">
+    <title lang="ca">Els secrets de Gaudí</title>
+    <sub-title lang="ca">Els secrets de la llum: La Pedrera</sub-title>
+    <desc lang="ca">Ens endinsem en un dels edificis de Gaudí que amaga més secrets, i molts tenen a veure amb la llum. És la Casa Milà, coneguda popularment amb el nom de la Pedrera. Així la van anomenar els primers que la van veure. Van caldre sis mil blocs de pedra per fer-la! Realment és l'edifici més diferent que hem vist en tota la sèrie. No us perdeu tots els secrets que s'amaguen a la coberta de l'edifici. En aquest capítol us en desvelem tots els secrets.</desc>
+    <length units="minutes">00:12:20</length>
   </programme>
-  <programme start="20261018120341 +0000" channel="sx3" stop="20261018121011 +0000">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Os globus</sub-title>
-    <desc lang="ca">En Grizzy veu una demostració de com fer figures amb globus a la televisió, i decideix fer-li un gosset de globus a l'ossa dels seus amors. Observant en Grizzy, els lèmmings descobreixen entusiasmats que els globus de fer figures es punxen molt més fàcilment que els normals i acaben explotant deixant caure tot de trossos de goma esparracats. Com més grossa és la figura, més espectacular és la pluja de parracs de globus.</desc>
-    <length units="minutes">00:06:30</length>
+  <programme start="20261018161238 +0000" channel="tv3" stop="20261018171230 +0000">
+    <title lang="ca">Plat en blanc</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">'Plat en blanc' (2025) una producció d'Abacus, en coproducció amb 3Cat i el suport de la Generalitat de Catalunya. 'Plat en blanc' és un inside al procés del restaurant Disfrutar fins aconseguir ser distingit com el millor restaurant del món en una espectacular gala a Las Vegas. A més d'aquest seguiment, el documental ens mostra la història dels tres xefs, Eduard Xatruch, Mateu Casañas i Oriol Castro, des del seu pas sacrificat per El Bulli fins aconseguir crear el seu propi restaurant. 'Plat en Blanc' és una immersió en la cuina com a art, ciència, territori i emoció, on cada plat és un llenç en blanc a punt per ser pintat amb sabors i innovació. Direcció: Alan Fàbregas i Ramon Pardina Guió: Ramon Pardina Realització: Alan Fàbregas Producció executiva: Oriol Cortacans i Marc Roma Producció: Carla Alpeñés Andrada Producció executiva 3Cat: David Bassa Cabanas Silvia Pairó Vila Producció delegada 3Cat: Daniel Barea Delgado Direcció de fotografia: Alan Fàbregas Muntatge: Roger Llorens Direcció de producció: Tatiana Iriarte Grafisme: Roger Llorens</desc>
+    <length units="minutes">00:59:52</length>
   </programme>
-  <programme start="20261018113251 +0000" channel="tv3" stop="20261018121856 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 15</sub-title>
-    <desc lang="ca">Aquí us deixem un resum dels últims quatre capítols. Hem parlat de la medalla, del ratolí d'ordinador, del diccionari i del globus aerostàtic. I ens han visitat l'Anna Barrachina, actriu; la Violant Bonet, restauradora i conservadora d'art; l'Alidé Sans, cantautora aranesa; i en Toni Arbonés, escalador. Si us agrada el resum, aprofiteu per mirar els capítols sencers, que sempre hi ha més moments que mereixen ser vistos.</desc>
-    <length units="minutes">00:46:05</length>
-  </programme>
-  <programme start="20261018121856 +0000" channel="tv3" stop="20261018130905 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 3</sub-title>
-    <desc lang="ca">Els objectes destacats de la setmana han sigut: la calculadora, la barbacoa, el con i la làpida, dos objectes útils per començar la setmana i, per acabar-la, dos de més justets. També ens ha visitat el cuiner i veí nostre Nandu Jubany, en Daniel Martin, investigador encarregat de bategar noves espècies de cucs, l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi i el Mut de Ferreries, i la Bruna Girvent, investigadora en IA, com podeu veure, són programes de nivell!</desc>
-    <length units="minutes">00:50:09</length>
-  </programme>
-  <programme start="20261018114450 +0000" channel="tv3" stop="20261018140445 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- FIATC Girona-Leyma Corunya / Lliga / J4</sub-title>
-    <desc lang="ca">Catalans i gallecs estan empatats a la taula classificatòria amb 1 victòria i 2 derrotes.</desc>
-    <length units="minutes">02:19:55</length>
+  <programme start="20261018171230 +0000" channel="tv3" stop="20261018181246 +0000">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Xefs, noves generacions 'La trobada'</sub-title>
+    <desc lang="ca">Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.</desc>
+    <length units="minutes">01:00:16</length>
   </programme>
 </tv>
