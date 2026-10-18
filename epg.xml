@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
-  <programme start="20261018170012 +0000" channel="tvi" stop="20261018182847 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Penèlope</sub-title>
-    <desc lang="ca">'PENÈLOPE' (2017), una producció d'ARAKI FILMS i POLAND ESTUDIO en coproducció amb TELEVISIÓ DE CATALUNYA, amb la col·laboració d'Eurimatges, l'ICEC i l'ICAA i amb el suport de la Diputació de Barcelona i la UPF.La Carme de 97 anys és la modista del poble d'Oló i en Ramon, el fill pròdig que torna ple de seqüeles després de 30 anys de periple. 'Penèlope' fa de l'acte de l'espera un sentit universal prenent com a punt de partida el mite grec de l'Odissea.'Penèlope' ens mostra dos moviments universals que ja trobem al mite de l'Odissea: el de quedar-se i esperar, seguir fidel als orígens, i el de marxar per tallar les arrels i no viure segons el que s'espera de nosaltres. És una pel·lícula sobre el significat de les arrels i el sentit de pertinença a una comunitat a partir de la reflexió sobre els nostres referents culturals, socials i històrics. És un film sobre la identitat heretada i sobre la construcció d'una nova identitat. Sortint d'una espera silenciosa, o bé d'un periple ple de coneixences, la crida de les arrels ha estat i serà sempre una manera de guarir-se, de despertar-se.Direcció i realització: Eva Vila Guió: Pep Puig, Eva VilaProductor: Monika DerendaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaDirector fotografia: Julián ElizaldeMuntatge: Diana Toucedo i Eva VilaDirector de producció: Sandra GarciaMúsica: Juan Sánchez 'Cuti'Grafisme: Álvaro Reinoso, Kakub de Bárbaro, Julie MorizeVeu en off: Anna Subirana</desc>
-    <length units="minutes">01:28:35</length>
+  <programme start="20261018210000 +0000" channel="tvi" stop="20261018220901 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7361</sub-title>
+    <length units="minutes">01:09:01</length>
   </programme>
-  <programme start="20261018182847 +0000" channel="tvi" stop="20261018191959 +0000">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">Viatges</sub-title>
-    <desc lang="ca">La Isabel i en Ramon viuen la plenitud del seu amor. Però encara en secret. Hi ha qui pateix aquest amor retrobat. I hi ha les 'formes'. Formes que la Rossy voldria trencar, però el 'dol' és el dol... Els joves es van fent grans...</desc>
-    <length units="minutes">00:51:12</length>
+  <programme start="20261018220901 +0000" channel="tvi" stop="20261018225047 +0000">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">Les escoles dels 'altres'</sub-title>
+    <desc lang="ca">A Catalunya hi ha uns 225.000 infants i joves escolaritzats en unes 350 escoles i instituts classificats oficialment 'de màxima complexitat'. Es tracta d'escoles anormalment homogènies pel que fa a la seva composició. Aquesta falta de barreja sociocultural dificulta que els alumnes progressin com ho podran fer els nois i noies que assisteixen a escoles que s'assemblen més a la societat catalana en conjunt. Són centres amb uns índexs d'absentisme, d'abandonament i de fracàs escolar més alts que la mitjana. Són les anomenades 'escoles segregades'. Per què és tan rellevant l'existència d'aquest fenomen, que es repeteix any rere any a l'època de les preinscripcions de cara al curs següent? D'una banda, perquè l'alumne no només aprèn del que rep del professor, sinó també dels companys. Per exemple, quan arribi l'etapa de l'ESO, si els companys tenen com a opció principals seguir estudiant, l'alumne té menys incentius per abandonar els estudis. De l'altra, aquesta realitat suposa un risc per a la cohesió social futura. 'Si no creixem junts, simplement no sabrem com viure junts', alerta l'exministra d'Educació de França Najat Vallaud-Belkacem. A l'estat francès fa anys que preocupa el risc d'estar construint una societat paral·lela, amb comunitats que gairebé no es coneixen. Si els infants de famílies més o menys benestants i els infants de famílies més o menys precaritzades no s'han interrelacionat mai, i si laboralment uns estan predestinats a un tipus de feines i els altres a d'altres... quin vincle tindran en un futur? Quan eren petits eren veïns, però no els connectarà res més enllà d'això. Quins ciutadans de futur estan generant les escoles segregades, les escoles on van 'els altres'?</desc>
+    <length units="minutes">00:41:46</length>
   </programme>
-  <programme start="20261018163000 +0000" channel="324" stop="20261018183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11465</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261018210000 +0000" channel="324" stop="20261018230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7361</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261018183000 +0000" channel="324" stop="20261018200000 +0000">
+  <programme start="20261018230000 +0000" channel="324" stop="20261019003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11466</sub-title>
+    <sub-title lang="ca">11468</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261018165405 +0000" channel="esport3" stop="20261018170233 +0000">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">00:08:28</length>
+  <programme start="20261018210200 +0000" channel="esport3" stop="20261018215313 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">CP Calafell-Barça / Lliga Catalana / Final</sub-title>
+    <desc lang="ca">Des de Santa Perpètua de Mogoda, la final de la 22a edició de la Lliga Catalana d'hoquei patins en categoria masculina absoluta.</desc>
+    <length units="minutes">00:51:13</length>
   </programme>
-  <programme start="20261018170233 +0000" channel="esport3" stop="20261018175251 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Gimnàstic de Tarragona-At. Madrileny / Primera Federació / J8</sub-title>
-    <desc lang="ca">Amb una victòria, el conjunt tarragoní superaria el madrileny a la classificació, i es podria allunyar de la zona baixa.</desc>
-    <length units="minutes">00:50:18</length>
+  <programme start="20261018215313 +0000" channel="esport3" stop="20261018221708 +0000">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">62</sub-title>
+    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
+    <length units="minutes">00:23:55</length>
   </programme>
-  <programme start="20261018164737 +0000" channel="sx3" stop="20261018170231 +0000">
-    <title lang="ca">Els secrets de Gaudí</title>
-    <sub-title lang="ca">Els secrets de la casa: Casa Vicens i Palau Güell</sub-title>
-    <desc lang="ca">Sabies que Antoni Gaudí també va dissenyar cases particulars i no només edificis públics? La Casa Vicens i el Palau Güell en són un bon exemple.Gaudí deia que una bona casa ha de tenir dues qualitats alhora. Primer, ha de ser sana: llum, aire, natura, que qui hi visqui creixi fort. Segon, ha de ser bella: plena de records i de llegendes del lloc. Una casa que tingui significat.No hi ha dubte que, amb la Casa Vicens i el Palau Güell, Gaudí ho va aconseguir! T'ho demostrem en aquest capítol.</desc>
-    <length units="minutes">00:14:54</length>
+  <programme start="20261018214105 +0000" channel="sx3" stop="20261018220322 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El viatge de l'heroïna (1a part)</sub-title>
+    <desc lang="ca">Per Nadal l'Aviva li va regalar al Chris un val per un Saltatemps. Encara no l'ha pogut fabricar però ja n'ha fet un dels elements més difícils: el propulsor temporal. El problema és que els ha caigut a l'aigua i ha quedat enganxat a un salmó roig que acaba de començar la migració riu amunt cap al lloc on va néixer. L'equip dels germans Kratt fa tot el possible per recuperar-lo.</desc>
+    <length units="minutes">00:22:17</length>
   </programme>
-  <programme start="20261018170231 +0000" channel="sx3" stop="20261018171451 +0000">
-    <title lang="ca">Els secrets de Gaudí</title>
-    <sub-title lang="ca">Els secrets de la llum: La Pedrera</sub-title>
-    <desc lang="ca">Ens endinsem en un dels edificis de Gaudí que amaga més secrets, i molts tenen a veure amb la llum. És la Casa Milà, coneguda popularment amb el nom de la Pedrera. Així la van anomenar els primers que la van veure. Van caldre sis mil blocs de pedra per fer-la! Realment és l'edifici més diferent que hem vist en tota la sèrie. No us perdeu tots els secrets que s'amaguen a la coberta de l'edifici. En aquest capítol us en desvelem tots els secrets.</desc>
-    <length units="minutes">00:12:20</length>
+  <programme start="20261018220322 +0000" channel="sx3" stop="20261018221418 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">La cursa de cotxets</sub-title>
+    <desc lang="ca">La Roxane s'enrabia quan el seu veí Jérôme presumeix de les virtuts de passejar els bessons corrent amb el cotxet per fer quedar malament el Dad, que tant per condició física com per estat del cotxet té un aspecte força lamentable. De seguida la Roxane mirarà de picar el seu pare per competir amb el veí en una cursa de cotxets, però al Dad li fa molta mandra qualsevol cosa que impliqui esforç físic.</desc>
+    <length units="minutes">00:10:56</length>
   </programme>
-  <programme start="20261018161238 +0000" channel="tv3" stop="20261018171230 +0000">
-    <title lang="ca">Plat en blanc</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">'Plat en blanc' (2025) una producció d'Abacus, en coproducció amb 3Cat i el suport de la Generalitat de Catalunya. 'Plat en blanc' és un inside al procés del restaurant Disfrutar fins aconseguir ser distingit com el millor restaurant del món en una espectacular gala a Las Vegas. A més d'aquest seguiment, el documental ens mostra la història dels tres xefs, Eduard Xatruch, Mateu Casañas i Oriol Castro, des del seu pas sacrificat per El Bulli fins aconseguir crear el seu propi restaurant. 'Plat en Blanc' és una immersió en la cuina com a art, ciència, territori i emoció, on cada plat és un llenç en blanc a punt per ser pintat amb sabors i innovació. Direcció: Alan Fàbregas i Ramon Pardina Guió: Ramon Pardina Realització: Alan Fàbregas Producció executiva: Oriol Cortacans i Marc Roma Producció: Carla Alpeñés Andrada Producció executiva 3Cat: David Bassa Cabanas Silvia Pairó Vila Producció delegada 3Cat: Daniel Barea Delgado Direcció de fotografia: Alan Fàbregas Muntatge: Roger Llorens Direcció de producció: Tatiana Iriarte Grafisme: Roger Llorens</desc>
-    <length units="minutes">00:59:52</length>
+  <programme start="20261018213156 +0000" channel="tv3" stop="20261018215750 +0000">
+    <title lang="ca">Caçadors de bolets</title>
+    <sub-title lang="ca">Paradistes</sub-title>
+    <desc lang="ca">En aquest capítol acompanyarem un grup de paradistes que deixaran per unes hores el mercat per anar als boscos del Maresme i del Corredor a buscar sobretot rovellons i trompetes. La missió no serà fàcil perquè el bosc està molt sec.</desc>
+    <length units="minutes">00:25:54</length>
   </programme>
-  <programme start="20261018171230 +0000" channel="tv3" stop="20261018181246 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Xefs, noves generacions 'La trobada'</sub-title>
-    <desc lang="ca">Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.</desc>
-    <length units="minutes">01:00:16</length>
+  <programme start="20261018215750 +0000" channel="tv3" stop="20261018224146 +0000">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Lincolnshire</sub-title>
+    <desc lang="ca">En Ben es queda al Regne Unit i es dirigeix al nord d'Anglaterra per conèixer un altre estil de vida: la vida en furgoneta. Passa uns dies amb el seu amfitrió, en Paul, per saber per què va canviar la vida en una casa per la vida a la carretera. Descobreix que en Paul es va unir a una comunitat de nòmades a temps complet que viuen a la carretera i fora del sistema, al Regne Unit, i també s'adona dels reptes que comporta aquest moviment en auge. En Ben es troba amb en Paul al seu camió militar de 30 anys reconvertit, la Roxy. Junts, viatgen cap a la costa per passar la nit a la platja. En Ben està familiaritzat amb la gent que viu en furgonetes als Estats Units, però té curiositat per saber com és possible aquest estil de vida al Regne Unit amb les estrictes lleis d'acampada que té el país.</desc>
+    <length units="minutes">00:43:56</length>
   </programme>
 </tv>
