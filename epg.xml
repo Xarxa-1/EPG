@@ -3,6 +3,9 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
@@ -12,71 +15,64 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20261017210000 +0000" channel="tvi" stop="20261017220524 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7360</sub-title>
-    <length units="minutes">01:05:24</length>
-  </programme>
-  <programme start="20261017220524 +0000" channel="tvi" stop="20261018002414 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">17/10/2026</sub-title>
-    <desc lang="ca">El periodista i escriptor Roberto Saviano, amenaçat de mort per la màfia, ens rep a Roma per parlar del seu nou llibre i la màfia a Catalunya.L'actualitat política i social no descansa, per això analitzem alguns dels temes que han marcat la setmana amb els periodistes Marta Monforte, Iva Anguera i Maiol Roger.Ens visita el Roger Ferrer, un home que va anar a l'hospital per sotmetre's a una operació d'apendicitis i va patir un xoc traumàtic en veure que l'anestèsia no li havia fet l'efecte esperat.</desc>
-    <length units="minutes">02:18:50</length>
-  </programme>
-  <programme start="20261017210000 +0000" channel="324" stop="20261017230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7360</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261017230000 +0000" channel="324" stop="20261018003000 +0000">
+  <programme start="20261018030121 +0000" channel="tvi" stop="20261018040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11460</sub-title>
+    <sub-title lang="ca">11461</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:58:39</length>
   </programme>
-  <programme start="20261017213636 +0000" channel="esport3" stop="20261017222853 +0000">
+  <programme start="20261018040000 +0000" channel="tvi" stop="20261018050010 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Little Victor</sub-title>
+    <desc lang="ca">Un autèntic rodamón del blues i el rhythm'n'blues. Guitarrista, harmonicista i cantant d'origen incert, ha recorregut durant la seva trajectòria diferents estats del sud dels Estats Units i ha après en cada lloc els secrets de les llegendes més obscures del blues: Junior Kimburg, RL Burnside, i un llarg etcètera. Avui l'acompanyen Òscar Rabadán a la guitarra, David Giorcelli al piano, Daniel Nunes al contrabaix, Miss Lidia Lil a les maraques i als cors i Reginald Vilardell a la bateria.</desc>
+    <length units="minutes">01:00:10</length>
+  </programme>
+  <programme start="20261018010000 +0000" channel="324" stop="20261018060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11461</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261018060000 +0000" channel="324" stop="20261018090000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11462</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:00:00</length>
+  </programme>
+  <programme start="20261018020910 +0000" channel="esport3" stop="20261018035820 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
     <desc lang="ca">Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <length units="minutes">00:52:17</length>
+    <length units="minutes">01:49:10</length>
   </programme>
-  <programme start="20261017222853 +0000" channel="esport3" stop="20261017230000 +0000">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Lamine enlluerna Europa</sub-title>
-    <desc lang="ca">Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
-    <length units="minutes">00:31:07</length>
-  </programme>
-  <programme start="20261017214106 +0000" channel="sx3" stop="20261017220318 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El Bernat Americà</sub-title>
-    <desc lang="ca">Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.</desc>
-    <length units="minutes">00:22:12</length>
-  </programme>
-  <programme start="20261017220318 +0000" channel="sx3" stop="20261017221414 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Un diari fugitiu</sub-title>
-    <desc lang="ca">L'Ondine no acaba de trobar un lloc tranquil a casa per escriure el seu diari íntim i se l'emporta a un pícnic familiar al parc. Però el diari cau en mans de la Roxane, que comença a llegir-lo en veu alta i fa esclatar la tempesta. Poc després, tanmateix, el diari desapareix i tots el buscaran desesperadament perquè ningú pugui llegir el que hi diu de cadascun d'ells.</desc>
-    <length units="minutes">00:10:56</length>
-  </programme>
-  <programme start="20261017213125 +0000" channel="tv3" stop="20261017215739 +0000">
-    <title lang="ca">Caçadors de bolets</title>
-    <sub-title lang="ca">Bombers</sub-title>
-    <desc lang="ca">En aquest capítol, anirem al Montseny per acompanyar 4 bombers, experts boletaires, disposats a ficar-se pels terrenys més complicats per trobar bolets de tota mena.</desc>
-    <length units="minutes">00:26:14</length>
-  </programme>
-  <programme start="20261017215739 +0000" channel="tv3" stop="20261017221824 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Qui carda la llana</sub-title>
-    <desc lang="ca">Qui carda avui la llana? Qui dona valor a aquest recurs que en els darrers temps s'ha tractat més aviat com un rebuig? La llana, i tot el que l'envolta, els ramats, les pastures, la cura dels boscos, formen part de la nostra identitat i cada cop més hi ha qui ho reivindica, també des d'un vessant artístic i artesanal. És el cas de la Laia Aguilà, que des del Pla de la Calma, i voltant per tot Catalunya a la recerca de llana, defensa com a artesana aquesta matèria i també els seus ramaders i pastors. També ho fa el col·lectiu artístic Tornen les esquelles. Els seus tapissos fets amb feltre de llana estan concebuts des d'un treball comunitari, amb voluntat pedagògica, i tenen una profunda capa de memòria. És el cas de la peça que exposen al Centre Grau-Garriga d'art tèxtil contemporani, a Sant Cugat, que celebra el centenari de Casa Aymat, que va ser centre neuràlgic de la pionera escola catalana de tapís durant els anys 60 i 70. Convertida en espai de formació i creació, s'hi imparteixen classes de tapís. I hi estan fent ara les seves residències artístiques la dissenyadora de roba Andrea Ayala, la poeta M. Antònia Massanet o l'artista visual Ignasi Prat Altimira, que porta més de quatre anys immers en la reproducció de la famosa foto del rei emèrit en una cacera d'elefants a Botswana. El pastor Joan Cuadern sap bé què vol dir haver-se de fer càrrec d'un ramat, i tant temps de convivència amb les bèsties ha fet que els hi dediqui bona part de les seves cançons.</desc>
-    <length units="minutes">00:20:45</length>
-  </programme>
-  <programme start="20261017202753 +0000" channel="tv3" stop="20261017223753 +0000">
+  <programme start="20261018035820 +0000" channel="esport3" stop="20261018054605 +0000">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">- Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
-    <desc lang="ca">Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <length units="minutes">02:10:00</length>
+    <sub-title lang="ca">FC Badalona Women-CD Tenerife / Lliga F / J7</sub-title>
+    <desc lang="ca">Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.</desc>
+    <length units="minutes">01:47:45</length>
+  </programme>
+  <programme start="20261018034843 +0000" channel="sx3" stop="20261018035848 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Missió poptortuga</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, el Hooper troba una poptortuga a la platja! Hi ha post uns ous que estan a punt d'obrir-se, però la mare no hi és. Podran aconseguir que torni a temps, els nostres amics?</desc>
+    <length units="minutes">00:10:05</length>
+  </programme>
+  <programme start="20261018035848 +0000" channel="sx3" stop="20261018041042 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La nit tranquil·la de la Guineta</sub-title>
+    <desc lang="ca">A la Guineta li agradaria dormir una nit sola sense la Trufa i demana als seus pares que la deixin dormir a l'habitació de convidats, cosa que a la Trufa no li fa gens de gràcia, perquè li fa por dormir sola. I decideix demanar ajuda als seus germans, perquè la Guineta no se'n vagi de l'habitació.</desc>
+    <length units="minutes">00:11:54</length>
+  </programme>
+  <programme start="20261018033526 +0000" channel="tv3" stop="20261018042836 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">La bateria</sub-title>
+    <desc lang="ca">La família decideix assessorar-se legalment i va al despatx del Raül Dorado, un advocat de moral dubtosa. Paral·lelament, l'Àngela haurà d'aconseguir una bateria en temps rècord per a la Sara mentre la Lili, l'editora de l'Eduardo, intenta desesperadament contactar amb ell.</desc>
+    <length units="minutes">00:53:10</length>
+  </programme>
+  <programme start="20261018042836 +0000" channel="tv3" stop="20261018051833 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">El quadre</sub-title>
+    <desc lang="ca">Quan el Raül Dorado descobreix una clàusula al testament de l'Eduardo en què diu que l'Àngela està desheretada i la família es queda sense sortida. Però tot just quan estan a punt de tirar la tovallola, el Fran descobreix un quadre a les golfes que podria valer molts diners.</desc>
+    <length units="minutes">00:49:57</length>
   </programme>
 </tv>
