@@ -1,13 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -15,64 +12,72 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261018030121 +0000" channel="tvi" stop="20261018040000 +0000">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261018114203 +0000" channel="tvi" stop="20261018141203 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11461</sub-title>
+    <sub-title lang="ca">11463</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:58:39</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261018040000 +0000" channel="tvi" stop="20261018050010 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Little Victor</sub-title>
-    <desc lang="ca">Un autèntic rodamón del blues i el rhythm'n'blues. Guitarrista, harmonicista i cantant d'origen incert, ha recorregut durant la seva trajectòria diferents estats del sud dels Estats Units i ha après en cada lloc els secrets de les llegendes més obscures del blues: Junior Kimburg, RL Burnside, i un llarg etcètera. Avui l'acompanyen Òscar Rabadán a la guitarra, David Giorcelli al piano, Daniel Nunes al contrabaix, Miss Lidia Lil a les maraques i als cors i Reginald Vilardell a la bateria.</desc>
-    <length units="minutes">01:00:10</length>
-  </programme>
-  <programme start="20261018010000 +0000" channel="324" stop="20261018060000 +0000">
+  <programme start="20261018141203 +0000" channel="tvi" stop="20261018142930 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11461</sub-title>
+    <sub-title lang="ca">11464</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">00:17:27</length>
   </programme>
-  <programme start="20261018060000 +0000" channel="324" stop="20261018090000 +0000">
+  <programme start="20261018120000 +0000" channel="324" stop="20261018143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11462</sub-title>
+    <sub-title lang="ca">11464</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261018020910 +0000" channel="esport3" stop="20261018035820 +0000">
+  <programme start="20261018143000 +0000" channel="324" stop="20261018163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7362</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261018115520 +0000" channel="esport3" stop="20261018135705 +0000">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
-    <desc lang="ca">Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <length units="minutes">01:49:10</length>
+    <sub-title lang="ca">Reus FC Reddis-RCD Espanyol B / Segona Federació / J7</sub-title>
+    <desc lang="ca">Duel entre dos conjunts que són a la part alta i lluiten per la zona de play-off d'ascens a Primera Federació.</desc>
+    <length units="minutes">02:01:45</length>
   </programme>
-  <programme start="20261018035820 +0000" channel="esport3" stop="20261018054605 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Badalona Women-CD Tenerife / Lliga F / J7</sub-title>
-    <desc lang="ca">Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.</desc>
-    <length units="minutes">01:47:45</length>
+  <programme start="20261018135705 +0000" channel="esport3" stop="20261018152813 +0000">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">- BARÇA-CP VOLTREGÀ / LLIGA CATALANA / 2A SEMIFINAL</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">01:31:08</length>
   </programme>
-  <programme start="20261018034843 +0000" channel="sx3" stop="20261018035848 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Missió poptortuga</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, el Hooper troba una poptortuga a la platja! Hi ha post uns ous que estan a punt d'obrir-se, però la mare no hi és. Podran aconseguir que torni a temps, els nostres amics?</desc>
-    <length units="minutes">00:10:05</length>
+  <programme start="20261018115646 +0000" channel="sx3" stop="20261018120341 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Llaminadures especials</sub-title>
+    <desc lang="ca">Els lèmmings han trobat un paquet de pastilles de menta glacial que refresquen tant l'alè que, un cop se n'ha menjat, una sola bafarada congela tot el que troba al davant. Però, en Grizzy, que no li agrada gaire aquest ambient glacial, fa mans i mànigues per prendre'ls els caramels. La situació es complica encara més quan els lèmmings descobreixen els poders d'un superxiclet.</desc>
+    <length units="minutes">00:06:55</length>
   </programme>
-  <programme start="20261018035848 +0000" channel="sx3" stop="20261018041042 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La nit tranquil·la de la Guineta</sub-title>
-    <desc lang="ca">A la Guineta li agradaria dormir una nit sola sense la Trufa i demana als seus pares que la deixin dormir a l'habitació de convidats, cosa que a la Trufa no li fa gens de gràcia, perquè li fa por dormir sola. I decideix demanar ajuda als seus germans, perquè la Guineta no se'n vagi de l'habitació.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20261018120341 +0000" channel="sx3" stop="20261018121011 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Os globus</sub-title>
+    <desc lang="ca">En Grizzy veu una demostració de com fer figures amb globus a la televisió, i decideix fer-li un gosset de globus a l'ossa dels seus amors. Observant en Grizzy, els lèmmings descobreixen entusiasmats que els globus de fer figures es punxen molt més fàcilment que els normals i acaben explotant deixant caure tot de trossos de goma esparracats. Com més grossa és la figura, més espectacular és la pluja de parracs de globus.</desc>
+    <length units="minutes">00:06:30</length>
   </programme>
-  <programme start="20261018033526 +0000" channel="tv3" stop="20261018042836 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">La bateria</sub-title>
-    <desc lang="ca">La família decideix assessorar-se legalment i va al despatx del Raül Dorado, un advocat de moral dubtosa. Paral·lelament, l'Àngela haurà d'aconseguir una bateria en temps rècord per a la Sara mentre la Lili, l'editora de l'Eduardo, intenta desesperadament contactar amb ell.</desc>
-    <length units="minutes">00:53:10</length>
+  <programme start="20261018113251 +0000" channel="tv3" stop="20261018121856 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 15</sub-title>
+    <desc lang="ca">Aquí us deixem un resum dels últims quatre capítols. Hem parlat de la medalla, del ratolí d'ordinador, del diccionari i del globus aerostàtic. I ens han visitat l'Anna Barrachina, actriu; la Violant Bonet, restauradora i conservadora d'art; l'Alidé Sans, cantautora aranesa; i en Toni Arbonés, escalador. Si us agrada el resum, aprofiteu per mirar els capítols sencers, que sempre hi ha més moments que mereixen ser vistos.</desc>
+    <length units="minutes">00:46:05</length>
   </programme>
-  <programme start="20261018042836 +0000" channel="tv3" stop="20261018051833 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El quadre</sub-title>
-    <desc lang="ca">Quan el Raül Dorado descobreix una clàusula al testament de l'Eduardo en què diu que l'Àngela està desheretada i la família es queda sense sortida. Però tot just quan estan a punt de tirar la tovallola, el Fran descobreix un quadre a les golfes que podria valer molts diners.</desc>
-    <length units="minutes">00:49:57</length>
+  <programme start="20261018121856 +0000" channel="tv3" stop="20261018130905 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 3</sub-title>
+    <desc lang="ca">Els objectes destacats de la setmana han sigut: la calculadora, la barbacoa, el con i la làpida, dos objectes útils per començar la setmana i, per acabar-la, dos de més justets. També ens ha visitat el cuiner i veí nostre Nandu Jubany, en Daniel Martin, investigador encarregat de bategar noves espècies de cucs, l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi i el Mut de Ferreries, i la Bruna Girvent, investigadora en IA, com podeu veure, són programes de nivell!</desc>
+    <length units="minutes">00:50:09</length>
+  </programme>
+  <programme start="20261018114450 +0000" channel="tv3" stop="20261018140445 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- FIATC Girona-Leyma Corunya / Lliga / J4</sub-title>
+    <desc lang="ca">Catalans i gallecs estan empatats a la taula classificatòria amb 1 victòria i 2 derrotes.</desc>
+    <length units="minutes">02:19:55</length>
   </programme>
 </tv>
