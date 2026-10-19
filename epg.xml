@@ -1,84 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261019191118 +0000" channel="tvi" stop="20261019201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">946</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:03:42</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261019234509 +0000" channel="tvi" stop="20261020001755 +0000">
+    <title lang="ca">Al cotxe</title>
+    <sub-title lang="ca">David Verdaguer: 'Em vaig tornar l'home de les cavernes'</sub-title>
+    <desc lang="ca">David Verdaguer fa el paper d'embriòleg a la sèrie de 3Cat 'In vitro', una comèdia amb tocs d'humor negre sobre la reproducció assistida. Durant el trajecte 'Al cotxe!' Verdaguer recorda que, quan va tenir la seva filla, va desenvolupar instints ancestrals.</desc>
+    <length units="minutes">00:32:46</length>
   </programme>
-  <programme start="20261019201500 +0000" channel="tvi" stop="20261019210000 +0000">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">1833</sub-title>
-    <desc lang="ca">En Queco i l'Òscar Andreu estan pendents de les pluges. En Marc Sarrats repassa l'actualitat i la Judit Martín es converteix en l'organitzadora del retorn de Carles Puigdemont.</desc>
-    <length units="minutes">00:45:00</length>
+  <programme start="20261020001755 +0000" channel="tvi" stop="20261020070559 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2182</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">06:48:04</length>
   </programme>
-  <programme start="20261019183000 +0000" channel="324" stop="20261019200000 +0000">
+  <programme start="20261019220500 +0000" channel="324" stop="20261020000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2182</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20261020000000 +0000" channel="324" stop="20261020003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11475</sub-title>
+    <sub-title lang="ca">11477</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261019200000 +0000" channel="324" stop="20261019210000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11476</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261019230020 +0000" channel="esport3" stop="20261020003156 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">París, la gran batalla; Mayola Academy i 'El Colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto pentinen la prèvia del partit a París entre el PSG i el Barça. En Marc Mayola analitza alguns aspectes tàctics del Betis-Barça i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
+    <length units="minutes">01:31:36</length>
   </programme>
-  <programme start="20261019185948 +0000" channel="esport3" stop="20261019203112 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">PSG-Barça, un test perfecte</sub-title>
-    <desc lang="ca">Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
-    <length units="minutes">01:31:24</length>
+  <programme start="20261020003156 +0000" channel="esport3" stop="20261020004958 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5543</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:18:02</length>
   </programme>
-  <programme start="20261019203112 +0000" channel="esport3" stop="20261019210642 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Luis Enrique, el cop de colze de Güler, l'èxit del CPA Olot i tertúlia</sub-title>
-    <desc lang="ca">El Barça ja és a París per enfrontar-se al PSG. Sentirem la roda de premsa de Luis Enrique. Analitzarem el cop de colze d'Arda Güler a Peque amb Joan Fàbregas. Entrevistem Ester Fàbregas i Ricard Planiol, del CPA Olot. Han guanyat el Mundial de patinatge de grups de xou gran. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Raúl Fuentes.</desc>
-    <length units="minutes">00:35:30</length>
+  <programme start="20261019234332 +0000" channel="sx3" stop="20261020000341 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Aventura al·lucinant a l'Amazònia (2a part)</sub-title>
+    <desc lang="ca">En Zach, la Donita, en Gourmand i la Paisley estan decidits a arrasar la selva amazònica i apoderar-se de totes les riqueses animals pels seus propis i malvats propòsits. Han fet presos en Chris i en Martin, però la bona notícia és que l'Aviva ha retrobat la inspiració i ja treballa en un magnífic invent que potser servirà per aturar el desastre. La Koki, per la seva banda, ha desxifrat on és el campament dels dolents: aconseguirà rescatar els germans Kratt?</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
-  <programme start="20261019194115 +0000" channel="sx3" stop="20261019200000 +0000">
-    <title lang="ca">Projecte Beta</title>
-    <sub-title lang="ca">Ganxet Guinness</sub-title>
-    <desc lang="ca">El Grauator comença a teixir una bufanda gegant a causa d'un malentès amb el Grau. El Jan, que ja no treballa d'actor, ho aprofita per desenvolupar la seva nova idea: crear un canal de televisió on retransmetre aquest possible rècord Guinness.</desc>
-    <length units="minutes">00:18:45</length>
+  <programme start="20261020000341 +0000" channel="sx3" stop="20261020002350 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A colligranota</sub-title>
+    <desc lang="ca">Els germans Kratt i tota la colla són a l'Amazònia buscant aventures. Volen investigar l'àrea de distribució de les mones esquirol per entendre millor el seu comportament però de sobte, per accident, queden miniaturitzats. Una de les mones, a més, s'ha endut el miniaturitzador. L'única opció és fer servir el poder de granota de punta de fletxa i pujar a colligranota per recuperar el miniaturitzador, si no es volen quedar petits per sempre.</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
-  <programme start="20261019200000 +0000" channel="sx3" stop="20261019201706 +0000">
-    <title lang="ca">InfoK</title>
-    <sub-title lang="ca">4283</sub-title>
-    <desc lang="ca">En aquest InfoK us explicarem el temporal de pluja rècord que ha afectat al País Valencià: inundacions, escoles tancades i 145 municipis confinats. La dana Adam ha deixat 24 hores de pluja brutal. I també parlarem de França, que viu una situació complicada: s'han escampat protestes - algunes violentes- per tot arreu. Unes protestes que van començar estudiants d'institut per demanar millores a l'educació.L'Infok ha parlat amb estudiants francesos que ens han explicat què demanen.I avui repassarem els èxits del patinatge català al campionat del món que s'ha fet al Paraguai.</desc>
-    <length units="minutes">00:17:06</length>
+  <programme start="20261019232247 +0000" channel="tv3" stop="20261019235112 +0000">
+    <title lang="ca">Manicòmics</title>
+    <sub-title lang="ca">La mort amb Magí García</sub-title>
+    <desc lang="ca">En Magí i l'Ignasi visiten el cementiri de Montjuïc, el més gran de Catalunya, i el bar Los Hermanos, al costat del cementiri de Cornellà. I parlen en una morgue amb el metge forense Narcís Bardalet.</desc>
+    <length units="minutes">00:28:25</length>
   </programme>
-  <programme start="20261019193049 +0000" channel="tv3" stop="20261019201516 +0000">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Lincolnshire</sub-title>
-    <desc lang="ca">En Ben es queda al Regne Unit i es dirigeix al nord d'Anglaterra per conèixer un altre estil de vida: la vida en furgoneta. Passa uns dies amb el seu amfitrió, en Paul, per saber per què va canviar la vida en una casa per la vida a la carretera. Descobreix que en Paul es va unir a una comunitat de nòmades a temps complet que viuen a la carretera i fora del sistema, al Regne Unit, i també s'adona dels reptes que comporta aquest moviment en auge. En Ben es troba amb en Paul al seu camió militar de 30 anys reconvertit, la Roxy. Junts, viatgen cap a la costa per passar la nit a la platja. En Ben està familiaritzat amb la gent que viu en furgonetes als Estats Units, però té curiositat per saber com és possible aquest estil de vida al Regne Unit amb les estrictes lleis d'acampada que té el país.</desc>
-    <length units="minutes">00:44:27</length>
-  </programme>
-  <programme start="20261019201516 +0000" channel="tv3" stop="20261019205951 +0000">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Sri Lanka</sub-title>
-    <desc lang="ca">En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.</desc>
-    <length units="minutes">00:44:35</length>
-  </programme>
-  <programme start="20261019190000 +0000" channel="tv3" stop="20261019202955 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">1023</sub-title>
-    <desc lang="ca">Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
-    <length units="minutes">01:29:55</length>
+  <programme start="20261019235112 +0000" channel="tv3" stop="20261020003827 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Nit i Nadal</sub-title>
+    <desc lang="ca">Per Nadal l'aeroport és un formiguer ple d'històries. Mentre una família espera els fills que viuen a Mèxic amb els canelons a punt, d'altres marxen a Cuba per fer un creuer pel Carib. I n'hi ha que treballen de nit canviant la roda d'un A320 com si fos un cotxe de Fórmula 1 mentre d'altres netegen avions.</desc>
+    <length units="minutes">00:47:15</length>
   </programme>
 </tv>
