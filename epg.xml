@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261019040000 +0000" channel="tvi" stop="20261019045944 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Big Yuyu</sub-title>
-    <desc lang="ca">Avui entren a 'Blues a l'estudi' els Big Yuyu. I ho fan acompanyats de la secció de vent The Hot Nite Band. La banda mallorquina ja ha tret al mercat tres àlbums, i cadascun és un pas més per crear un llenguatge sòlid i personal dins del blues.El repertori que ens presenta avui surt de 'Burnin' Up', l'últim treball que han gravat en col·laboració amb el cantant de Chicago Lorenzo Thompson. El seu estil és ple de ritmes ballables, melodies contagioses, i descarnades històries d'amor.Jordi Álvarez, a la veu i guitarra; Juan Amaro, al baix; Pep Lluís Garcia, a la bateria; Miquel Gayà, al trombó; Pep Grau, a la trompeta; Pol Prats, al saxo, i Llorenç Barceló, al hammond.</desc>
-    <length units="minutes">00:59:44</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261019103030 +0000" channel="tvi" stop="20261019135527 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1831</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:57</length>
   </programme>
-  <programme start="20261019045944 +0000" channel="tvi" stop="20261019060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Red Fusion</sub-title>
-    <desc lang="ca">Red Fusion són Gustavo Rocha a la guitarra, Josep Balasch als teclats, Matías Miguez al baix i Pablo Posa a la batería, tots ells reconeguts i experimentats músics de l'escena actual. La voluntat d'aprofundir en el jazz elèctric, dóna com a resultat un repertori eclèctic i enèrgic d'un gènere que ha comptat des des de finals dels 70 a Catalunya amb excel·lents representants i un nombrós sector de fidels aficionats.</desc>
-    <length units="minutes">01:00:16</length>
+  <programme start="20261019135527 +0000" channel="tvi" stop="20261019143057 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7057</sub-title>
+    <length units="minutes">00:35:30</length>
   </programme>
-  <programme start="20261019010000 +0000" channel="324" stop="20261019060000 +0000">
+  <programme start="20261019120000 +0000" channel="324" stop="20261019135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11469</sub-title>
+    <sub-title lang="ca">11472</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261019060000 +0000" channel="324" stop="20261019080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11470</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261019135500 +0000" channel="324" stop="20261019143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7057</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261019030048 +0000" channel="esport3" stop="20261019045425 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Leyma Corunya / Lliga / J4</sub-title>
-    <desc lang="ca">Catalans i gallecs estan empatats a la taula classificatòria amb 1 victòria i 2 derrotes.</desc>
-    <length units="minutes">01:53:37</length>
+  <programme start="20261019130006 +0000" channel="esport3" stop="20261019140139 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Luis Enrique, el cop de colze de Güler, l'èxit del CPA Olot i tertúlia</sub-title>
+    <desc lang="ca">El Barça ja és a París per enfrontar-se al PSG. Sentirem la roda de premsa de Luis Enrique. Analitzarem el cop de colze d'Arda Güler a Peque amb Joan Fàbregas. Entrevistem Ester Fàbregas i Ricard Planiol, del CPA Olot. Han guanyat el Mundial de patinatge de grups de xou gran. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Raúl Fuentes.</desc>
+    <length units="minutes">01:01:33</length>
   </programme>
-  <programme start="20261019045425 +0000" channel="esport3" stop="20261019062145 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Cangas-Barça / Lliga Asobal / J6</sub-title>
-    <desc lang="ca">Els blaugranes visiten la pista del conjunt gallec de Cangas do Morrazo per disputar el partit que tanca la 6a jornada de Lliga.</desc>
-    <length units="minutes">01:27:20</length>
+  <programme start="20261019140139 +0000" channel="esport3" stop="20261019160154 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Luis Enrique, el cop de colze de Güler, l'èxit del CPA Olot i tertúlia</sub-title>
+    <desc lang="ca">El Barça ja és a París per enfrontar-se al PSG. Sentirem la roda de premsa de Luis Enrique. Analitzarem el cop de colze d'Arda Güler a Peque amb Joan Fàbregas. Entrevistem Ester Fàbregas i Ricard Planiol, del CPA Olot. Han guanyat el Mundial de patinatge de grups de xou gran. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Raúl Fuentes.</desc>
+    <length units="minutes">02:00:15</length>
   </programme>
-  <programme start="20261019040024 +0000" channel="sx3" stop="20261019041054 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">La llegenda del Llapis Daurat</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, els amics visiten les Set Meravelles de Pop, la Ciutat de Paper! Però llavors s'adonen que en falta una. Serà capaç de trobar-la, l'explorador Plom?</desc>
-    <length units="minutes">00:10:30</length>
+  <programme start="20261019132251 +0000" channel="sx3" stop="20261019134321 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La testimoni, set anys després (2a part)</sub-title>
+    <desc lang="ca">En una habitació totalment tancada de la pensió on han anat a passar uns dies en Kogoro, la Ran i en Conan, han trobat mort un artista molt famós, conegut amb el nom del Príncep de la Cervesa. A més, al pantà que hi ha pocs a quilòmetres d'allà, també hi han trobat, ofegat, el cadàver de la seva antiga parella còmica. Quina relació tenen les dues morts amb el superheroi Byun, el cometa emmascarat? Per què ha escrit el seu símbol amb sang abans de morir?</desc>
+    <length units="minutes">00:20:30</length>
   </programme>
-  <programme start="20261019041054 +0000" channel="sx3" stop="20261019042248 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">En família</sub-title>
-    <desc lang="ca">En Pico té ganes d'anar-se a banyar, però les seves mares volen descansar sota un arbre. Al mateix temps, la Guineta es vol quedar al llit sense fer res, però l'Edmond ha organitzat una sortida per anar collir castanyes amb els bessons. La solució és molt fàcil: la Guineta passarà el dia amb les mares d'en Pico, i en Pico se n'anirà d'excursió amb els teixons. I tots contents!</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20261019134321 +0000" channel="sx3" stop="20261019140511 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El guardaespatlles de la lliga japonesa</sub-title>
+    <desc lang="ca">Al senyor Mouri l'han convidat a fer el servei d'honor del partit que enfronta els Tokyo Spirits i el Gamba Osaka. L'acompanyen en Conan, l'Ai, l'Ayumi, en Mitsuhiko i en Genta. L'Ayumi havia preparat una beguda pel seu ídol, en Hide Akagi, però acabarà bevent-se-la algú altre. Què passarà, llavors? Quina relació té tot això amb els dos homes que intenten manipular les apostes a la lliga japonesa de futbol?</desc>
+    <length units="minutes">00:21:50</length>
   </programme>
-  <programme start="20261019040457 +0000" channel="tv3" stop="20261019045336 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">L'Adela</sub-title>
-    <desc lang="ca">L'Adela ha començat a lligar caps entre tants moviments estranys. Convençuda que la família amaga alguna cosa, decideix infiltrar-se a la casa i confirmar les seves sospites que dins del congelador s'hi guarda el cadàver del difunt Eduardo.</desc>
-    <length units="minutes">00:48:39</length>
+  <programme start="20261019123046 +0000" channel="tv3" stop="20261019140544 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">'El gran gran dictat', el concurs presentat per l'Òscar Dalmau, estrena temporada i ho fa de la mà de tres dels rostres més coneguts del panorama televisiu català: el Peyu, humorista i guionista de ràdio i televisió; l'Anna Bertran, l'actriu de les mil cares, i el Jordi Planas, l'actor més sexi de la sobretaula catalana.Aquests tres concursants no només vindran a demostrar els seus coneixements de català. El Peyu ens portarà a casa seva i, per fi, coneixerem i posarem cara a la seva mare. Descobrirem l'Anna Bertran espiant la Bibiana Ballbè mentre es dutxa. I comprovarem com el Jordi Planas ni va al súper ni es gasta ni un duro en res. I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
+    <length units="minutes">01:34:58</length>
   </programme>
-  <programme start="20261019045336 +0000" channel="tv3" stop="20261019053902 +0000">
+  <programme start="20261019140544 +0000" channel="tv3" stop="20261019145145 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El corbatí</sub-title>
-    <desc lang="ca">El corbatí s'ha de reivindicar, per això hem decidit dedicar-li un capítol. Corbatí, que no 'pajarita'. Sobretot per això l'hem triat. Ens visita un savi per conèixer, en Gil Carbonés. És el millor jugador de horseball del món! De fet, ho ha sigut quatre vegades. Per què no obre les notícies? Què s'ha de fer per ser el millor del món en alguna cosa? Sortim a passejar el gos per la ciutat de Londres el 1814, quan hi va haver una gran inundació de cervesa. Un somni per a alguns, un desastre per a d'altres.</desc>
-    <length units="minutes">00:45:26</length>
+    <sub-title lang="ca">La flauta dolça</sub-title>
+    <desc lang="ca">Estem tots d'acord que, si hi ha un enemic comú, aquest és... la flauta dolça. Si algú de vosaltres té per veí canalla que ha d'assajar OBLIGATÒRIAMENT cada dia aquest instrument del dimoni: ànims i escalf. No cal cap altre motiu per dedicar-li un capítol a la flauta dolça. Ens visita l'Empar Moliner, amb qui parlem de tot, creieu-nos. Heu llegit 'Cinquanta ombres d'en Grey'? Ella, sí. Un trosset. A 'Històries per passejar el gos' sortim amb en Ramon, un gos de 80?kg, pel rescat dels 33 miners de San José.</desc>
+    <length units="minutes">00:46:01</length>
   </programme>
 </tv>
