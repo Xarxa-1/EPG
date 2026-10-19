@@ -6,71 +6,79 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261019103030 +0000" channel="tvi" stop="20261019135527 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1831</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:57</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261019191118 +0000" channel="tvi" stop="20261019201500 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">946</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:03:42</length>
   </programme>
-  <programme start="20261019135527 +0000" channel="tvi" stop="20261019143057 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7057</sub-title>
+  <programme start="20261019201500 +0000" channel="tvi" stop="20261019210000 +0000">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">1833</sub-title>
+    <desc lang="ca">En Queco i l'Òscar Andreu estan pendents de les pluges. En Marc Sarrats repassa l'actualitat i la Judit Martín es converteix en l'organitzadora del retorn de Carles Puigdemont.</desc>
+    <length units="minutes">00:45:00</length>
+  </programme>
+  <programme start="20261019183000 +0000" channel="324" stop="20261019200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11475</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
+  </programme>
+  <programme start="20261019200000 +0000" channel="324" stop="20261019210000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11476</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20261019185948 +0000" channel="esport3" stop="20261019203112 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">PSG-Barça, un test perfecte</sub-title>
+    <desc lang="ca">Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
+    <length units="minutes">01:31:24</length>
+  </programme>
+  <programme start="20261019203112 +0000" channel="esport3" stop="20261019210642 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Luis Enrique, el cop de colze de Güler, l'èxit del CPA Olot i tertúlia</sub-title>
+    <desc lang="ca">El Barça ja és a París per enfrontar-se al PSG. Sentirem la roda de premsa de Luis Enrique. Analitzarem el cop de colze d'Arda Güler a Peque amb Joan Fàbregas. Entrevistem Ester Fàbregas i Ricard Planiol, del CPA Olot. Han guanyat el Mundial de patinatge de grups de xou gran. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Raúl Fuentes.</desc>
     <length units="minutes">00:35:30</length>
   </programme>
-  <programme start="20261019120000 +0000" channel="324" stop="20261019135500 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11472</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+  <programme start="20261019194115 +0000" channel="sx3" stop="20261019200000 +0000">
+    <title lang="ca">Projecte Beta</title>
+    <sub-title lang="ca">Ganxet Guinness</sub-title>
+    <desc lang="ca">El Grauator comença a teixir una bufanda gegant a causa d'un malentès amb el Grau. El Jan, que ja no treballa d'actor, ho aprofita per desenvolupar la seva nova idea: crear un canal de televisió on retransmetre aquest possible rècord Guinness.</desc>
+    <length units="minutes">00:18:45</length>
   </programme>
-  <programme start="20261019135500 +0000" channel="324" stop="20261019143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7057</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261019200000 +0000" channel="sx3" stop="20261019201706 +0000">
+    <title lang="ca">InfoK</title>
+    <sub-title lang="ca">4283</sub-title>
+    <desc lang="ca">En aquest InfoK us explicarem el temporal de pluja rècord que ha afectat al País Valencià: inundacions, escoles tancades i 145 municipis confinats. La dana Adam ha deixat 24 hores de pluja brutal. I també parlarem de França, que viu una situació complicada: s'han escampat protestes - algunes violentes- per tot arreu. Unes protestes que van començar estudiants d'institut per demanar millores a l'educació.L'Infok ha parlat amb estudiants francesos que ens han explicat què demanen.I avui repassarem els èxits del patinatge català al campionat del món que s'ha fet al Paraguai.</desc>
+    <length units="minutes">00:17:06</length>
   </programme>
-  <programme start="20261019130006 +0000" channel="esport3" stop="20261019140139 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Luis Enrique, el cop de colze de Güler, l'èxit del CPA Olot i tertúlia</sub-title>
-    <desc lang="ca">El Barça ja és a París per enfrontar-se al PSG. Sentirem la roda de premsa de Luis Enrique. Analitzarem el cop de colze d'Arda Güler a Peque amb Joan Fàbregas. Entrevistem Ester Fàbregas i Ricard Planiol, del CPA Olot. Han guanyat el Mundial de patinatge de grups de xou gran. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Raúl Fuentes.</desc>
-    <length units="minutes">01:01:33</length>
+  <programme start="20261019193049 +0000" channel="tv3" stop="20261019201516 +0000">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Lincolnshire</sub-title>
+    <desc lang="ca">En Ben es queda al Regne Unit i es dirigeix al nord d'Anglaterra per conèixer un altre estil de vida: la vida en furgoneta. Passa uns dies amb el seu amfitrió, en Paul, per saber per què va canviar la vida en una casa per la vida a la carretera. Descobreix que en Paul es va unir a una comunitat de nòmades a temps complet que viuen a la carretera i fora del sistema, al Regne Unit, i també s'adona dels reptes que comporta aquest moviment en auge. En Ben es troba amb en Paul al seu camió militar de 30 anys reconvertit, la Roxy. Junts, viatgen cap a la costa per passar la nit a la platja. En Ben està familiaritzat amb la gent que viu en furgonetes als Estats Units, però té curiositat per saber com és possible aquest estil de vida al Regne Unit amb les estrictes lleis d'acampada que té el país.</desc>
+    <length units="minutes">00:44:27</length>
   </programme>
-  <programme start="20261019140139 +0000" channel="esport3" stop="20261019160154 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Luis Enrique, el cop de colze de Güler, l'èxit del CPA Olot i tertúlia</sub-title>
-    <desc lang="ca">El Barça ja és a París per enfrontar-se al PSG. Sentirem la roda de premsa de Luis Enrique. Analitzarem el cop de colze d'Arda Güler a Peque amb Joan Fàbregas. Entrevistem Ester Fàbregas i Ricard Planiol, del CPA Olot. Han guanyat el Mundial de patinatge de grups de xou gran. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Raúl Fuentes.</desc>
-    <length units="minutes">02:00:15</length>
+  <programme start="20261019201516 +0000" channel="tv3" stop="20261019205951 +0000">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Sri Lanka</sub-title>
+    <desc lang="ca">En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.</desc>
+    <length units="minutes">00:44:35</length>
   </programme>
-  <programme start="20261019132251 +0000" channel="sx3" stop="20261019134321 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La testimoni, set anys després (2a part)</sub-title>
-    <desc lang="ca">En una habitació totalment tancada de la pensió on han anat a passar uns dies en Kogoro, la Ran i en Conan, han trobat mort un artista molt famós, conegut amb el nom del Príncep de la Cervesa. A més, al pantà que hi ha pocs a quilòmetres d'allà, també hi han trobat, ofegat, el cadàver de la seva antiga parella còmica. Quina relació tenen les dues morts amb el superheroi Byun, el cometa emmascarat? Per què ha escrit el seu símbol amb sang abans de morir?</desc>
-    <length units="minutes">00:20:30</length>
-  </programme>
-  <programme start="20261019134321 +0000" channel="sx3" stop="20261019140511 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El guardaespatlles de la lliga japonesa</sub-title>
-    <desc lang="ca">Al senyor Mouri l'han convidat a fer el servei d'honor del partit que enfronta els Tokyo Spirits i el Gamba Osaka. L'acompanyen en Conan, l'Ai, l'Ayumi, en Mitsuhiko i en Genta. L'Ayumi havia preparat una beguda pel seu ídol, en Hide Akagi, però acabarà bevent-se-la algú altre. Què passarà, llavors? Quina relació té tot això amb els dos homes que intenten manipular les apostes a la lliga japonesa de futbol?</desc>
-    <length units="minutes">00:21:50</length>
-  </programme>
-  <programme start="20261019123046 +0000" channel="tv3" stop="20261019140544 +0000">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">'El gran gran dictat', el concurs presentat per l'Òscar Dalmau, estrena temporada i ho fa de la mà de tres dels rostres més coneguts del panorama televisiu català: el Peyu, humorista i guionista de ràdio i televisió; l'Anna Bertran, l'actriu de les mil cares, i el Jordi Planas, l'actor més sexi de la sobretaula catalana.Aquests tres concursants no només vindran a demostrar els seus coneixements de català. El Peyu ens portarà a casa seva i, per fi, coneixerem i posarem cara a la seva mare. Descobrirem l'Anna Bertran espiant la Bibiana Ballbè mentre es dutxa. I comprovarem com el Jordi Planas ni va al súper ni es gasta ni un duro en res. I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
-    <length units="minutes">01:34:58</length>
-  </programme>
-  <programme start="20261019140544 +0000" channel="tv3" stop="20261019145145 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La flauta dolça</sub-title>
-    <desc lang="ca">Estem tots d'acord que, si hi ha un enemic comú, aquest és... la flauta dolça. Si algú de vosaltres té per veí canalla que ha d'assajar OBLIGATÒRIAMENT cada dia aquest instrument del dimoni: ànims i escalf. No cal cap altre motiu per dedicar-li un capítol a la flauta dolça. Ens visita l'Empar Moliner, amb qui parlem de tot, creieu-nos. Heu llegit 'Cinquanta ombres d'en Grey'? Ella, sí. Un trosset. A 'Històries per passejar el gos' sortim amb en Ramon, un gos de 80?kg, pel rescat dels 33 miners de San José.</desc>
-    <length units="minutes">00:46:01</length>
+  <programme start="20261019190000 +0000" channel="tv3" stop="20261019202955 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">1023</sub-title>
+    <desc lang="ca">Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
+    <length units="minutes">01:29:55</length>
   </programme>
 </tv>
