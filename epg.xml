@@ -1,86 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261020103016 +0000" channel="tvi" stop="20261020135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1832</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:44</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261020173058 +0000" channel="tvi" stop="20261020191123 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">433</sub-title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="minutes">01:40:25</length>
   </programme>
-  <programme start="20261020135500 +0000" channel="tvi" stop="20261020143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7058</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261020191123 +0000" channel="tvi" stop="20261020201500 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">947</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:03:37</length>
   </programme>
-  <programme start="20261020120000 +0000" channel="324" stop="20261020130000 +0000">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <sub-title lang="ca">262</sub-title>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261020130000 +0000" channel="324" stop="20261020135500 +0000">
+  <programme start="20261020170000 +0000" channel="324" stop="20261020183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11481</sub-title>
+    <sub-title lang="ca">11483</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:55:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261020114500 +0000" channel="esport3" stop="20261020130000 +0000">
-    <title lang="ca">Gales esportives</title>
-    <sub-title lang="ca">Trofeu Campions amb Valors</sub-title>
-    <desc lang="ca">Gala del 43è Trofeu Campions amb Valors, des del Gran Teatre del Liceu de Barcelona.</desc>
-    <length units="minutes">01:15:00</length>
+  <programme start="20261020183000 +0000" channel="324" stop="20261020200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11484</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261020130000 +0000" channel="esport3" stop="20261020140113 +0000">
+  <programme start="20261020173058 +0000" channel="esport3" stop="20261020175850 +0000">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Jornada 9</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="minutes">00:27:52</length>
+  </programme>
+  <programme start="20261020175850 +0000" channel="esport3" stop="20261020190000 +0000">
     <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3265</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:13</length>
+    <sub-title lang="ca">PSG-Barça</sub-title>
+    <desc lang="ca">PSG-Barça. Partit d'alt voltatge a París. Última hora amb Xavi Lemus i l'anàlisi de l'Àlex Delmàs. A la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i Federic Porta.</desc>
+    <length units="minutes">01:01:10</length>
   </programme>
-  <programme start="20261020122046 +0000" channel="sx3" stop="20261020124146 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">La mare cocodril</sub-title>
-    <desc lang="ca">En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!</desc>
-    <length units="minutes">00:21:00</length>
+  <programme start="20261020175155 +0000" channel="sx3" stop="20261020175625 +0000">
+    <title lang="ca">Wonderblocks</title>
+    <sub-title lang="ca">Muuu! Cloc-cloc! Bee!</sub-title>
+    <desc lang="ca">La Vaca, l'Ovella i l'agent secret Gallina participen en un fantàstic concurs musical amb l'ajuda de la Som-hi i la Prou com a presentadores.</desc>
+    <length units="minutes">00:04:30</length>
   </programme>
-  <programme start="20261020124146 +0000" channel="sx3" stop="20261020130401 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Balenes i calamars</sub-title>
-    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
-    <length units="minutes">00:22:15</length>
+  <programme start="20261020175625 +0000" channel="sx3" stop="20261020180055 +0000">
+    <title lang="ca">Wonderblocks</title>
+    <sub-title lang="ca">Xerinola a la pista de ball</sub-title>
+    <desc lang="ca">L'Arty podrà il·luminar els quatre requadres de la pista de ball abans que s'acabi el temps? Amb l'ajuda de la Colla del Moviment, aviat començarà la ballaruga!</desc>
+    <length units="minutes">00:04:30</length>
   </programme>
-  <programme start="20261020121917 +0000" channel="tv3" stop="20261020122736 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Pollastre amb salsa de coco i llima</sub-title>
-    <desc lang="ca">Restaurant INDOCHINECuiner.-Ly Leap .- BARCELONADificultat: mitjana Temps d'elaboració: 1 h ( més la maceració)Producte principal: pollastreTemporada: tot l'any</desc>
-    <length units="minutes">00:08:19</length>
+  <programme start="20261020174841 +0000" channel="tv3" stop="20261020181438 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Conviure amb lloros</sub-title>
+    <desc lang="ca">El reporter Pere Renom és testimoni de com parlen i ensinistren els lloros de Portaventura. També descobreix què és la malaltia anomenada 'pulmó de l'ocellaire' amb el Dr. Ferran Morell, de la Vall d'Hebron, qui tracta un cas associat als agapornis. I finalment, unes nouvingudes: les cotorres argentines. Es descriu el seguiment que en fan des del Museu de Ciències Naturals, de Barcelona. L'èxit de l'espècie es relaciona directament amb la seva variada dieta i amb el fet que cria en els nius que construeix, en lloc de criar en forats, com la majoria de lloros del món. DesenvolupamentEls lloros són una de les famílies d'ocells més intel·ligents que hi ha. La conducta social, un crani desproporcionadament gros respecte a la mida del cos i unes potes amb gran capacitat prènsil sembla que en són les causes determinants. Precisament perquè són intel·ligents i sociables ens resulten especialment simpàtics. Si, a més, hi afegim la seva exuberant bellesa i el fet que suporten relativament bé la captivitat, és lògic que hagin esdevingut mascotes ideals i actors preferents en espectacles circenses. El Reporter Pere Renom presencia un espectacle amb lloros a Portaventura i aprèn que l'ensinistrament és una barreja d'etologia, és a dir, del coneixement de la conducta animal, i de psicologia, ja que cada individu té el seu propi caràcter. L'ensinistrador Paco Navarro ha d'identificar les habilitats particulars de cada lloro, de cada actor, i treballar per potenciar-les. El resultat és un 'paper' diferent per cadascun: uns volen, altres interaccionen amb el públic o parlen i canten amb fluïdesa. Però conviure amb lloros també pot portar maldecaps. Carme Baraldés fa cinc anys que té agapornis a casa. Des d'aleshores té problemes respiratoris. El doctor Ferran Morell, de la unitat de pneumologia de la Vall d'Hebron, explica que hi ha una malaltia anomenada 'pulmó de l'ocellaire', que consisteix en una inflamació pulmonar produïda per la inhalació de certe</desc>
+    <length units="minutes">00:25:57</length>
   </programme>
-  <programme start="20261020122736 +0000" channel="tv3" stop="20261020123442 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Fideus a la cassola amb prunes</sub-title>
-    <desc lang="ca">Cuina d'aficionat .- Cuiner Andreu Pons (Castelldefels)MestreDificultat: mitjanaTemps d'elaboració: 50 minProducte principal: fideusTemporada: tot l'any</desc>
-    <length units="minutes">00:07:06</length>
-  </programme>
-  <programme start="20261020121048 +0000" channel="tv3" stop="20261020134043 +0000">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <sub-title lang="ca">4180</sub-title>
-    <length units="minutes">01:29:55</length>
-  </programme>
-  <programme start="20261020120306 +0000" channel="tv3" stop="20261020133301 +0000">
-    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
-    <sub-title lang="ca">4181</sub-title>
-    <length units="minutes">01:29:55</length>
+  <programme start="20261020181438 +0000" channel="tv3" stop="20261020193448 +0000">
+    <title lang="ca">Casa Bloc, rehabilitació d'una idea</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">'Casa Bloc, rehabilitació d'una idea', és una producció de 15L FILMS en coproducció amb TV3, amb la col·laboració de Hàbitat 3, Cellnex, Simon, MediaUrban–Mediapro, i el suport de l'ICAA i l'ICEC.Casa Bloc, referència internacional de l'arquitectura racionalista dissenyat per GATCPAC (Sert, Torres Clavé i Subirana), va ser el primer habitatge social construït a Espanya en els anys 30. Però el projecte de Casa Bloc va ser interromput per la Guerra Civil i va acabar com una residència per a vídues i orfes de la Guàrdia Civil, que va romandre activa fins el 2015.A l'actualitat, Hàbitat3, una fundació que gestiona habitatges socials està duent a terme la rehabilitació de part de l'edifici per recuperar l'esperit original i convertir-lo en un refugi per a persones en risc d'exclusió social.FITXA TÈCNICADirecció i realització: Patricia Tamayo, Albert BadiaGuió: Patricia TamayoDirector de producció: Adrià LahuertaProductor executiu TV3: Jordi AmbròsProductor delegat TV3: Daniel Barea DelgadoDirector fotografia: Albert BadiaMuntatge: Marc RocaMúsica: Maria Rodés i Isabelle LaudenbachLingüista: Odile ArqüéGrafisme: Guirado</desc>
+    <length units="minutes">01:20:10</length>
   </programme>
 </tv>
