@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261020173058 +0000" channel="tvi" stop="20261020191123 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">433</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:40:25</length>
+  <programme start="20261020220425 +0000" channel="tvi" stop="20261020230000 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">La cadira buida</sub-title>
+    <desc lang="ca">La soledat no desitjada s'ha convertit en un dels grans reptes socials del nostre temps, però continua sent una realitat sovint invisible i silenciada.En una societat cada vegada més individualista i hiperconnectada, persones de totes les edats expliquen què significa sentir-se soles i com aquesta realitat impacta en la seva vida i la seva salut. A través de les seves veus, i de la mirada de professionals, filòsofs, sociòlegs i entitats socials, el documental explora les causes de la soledat i la necessitat de detectar-la i abordar-la col·lectivament. Una peça coral que reivindica la idea esperançadora que recuperar els vincles i la vida comunitària pot contribuir a trencar la soledat i a fer que la vida sigui més vida.</desc>
+    <length units="minutes">00:55:35</length>
   </programme>
-  <programme start="20261020191123 +0000" channel="tvi" stop="20261020201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">947</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:03:37</length>
+  <programme start="20261020230043 +0000" channel="tvi" stop="20261021000107 +0000">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Veus contra l'estigma</sub-title>
+    <desc lang="ca">'VEUS CONTRA L'ESTIGMA' (2017), una producció de Media 3.14 en coproducció amb Televisió de Catalunya, amb la col·laboració de la Diputació de Barcelona, la Generalitat de Catalunya, l'Agència Catalana de la Joventut, l'Ajuntament de Barcelona, el Departament de Salut (gen.cat) i amb el suport del Departament de Cultura (gen.cat).Un grup cada dia més nombrós de persones diagnosticades amb algun trastorn mental surt de l'armari i revoluciona les estructures sanitàries i les associacions de pacients i familiars. Seguint l'estela del que ja va començar fa més d'una dècada en altres països europeus, es fan visibles amb anuncis al metro, cursos a professionals o xerrades als periodistes dels mitjans. Reclamen tenir el mateix dret que té un malalt de càncer per escollir entre possibles tractaments, i volen construir en la societat una nova mirada, lliure de prejudicis, sobre la malaltia mental. Perquè tenir un problema de salut mental no vol dir estar sempre fora de joc ni tampoc significa posseir un caràcter dèbil o més agressiu o violent que qualsevol altre. El canvi d'enfocament que proposen no tan sols té beneficis a escala individual, sinó que s'ha demostrat que redueix notablement els costos sanitaris. Aquest documental acosta a l'espectador aquesta nova visió de la malaltia mental a través del retrat en proximitat d'alguns pioners que hi han pres la paraula – que han alçat la veu en contra de l'estigma.Direcció: Marta Espar i Marc ParramonGuió: Marta EsparRealització, fotografia i muntatge: Marc ParramonProductor: Eva PerisProductor executiu Media 3.14: Joan ÚbedaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector de producció: Pilar RazquínGrafisme: Aleix Abellanet</desc>
+    <length units="minutes">01:00:24</length>
   </programme>
-  <programme start="20261020170000 +0000" channel="324" stop="20261020183000 +0000">
+  <programme start="20261020220500 +0000" channel="324" stop="20261021000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2183</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20261021000000 +0000" channel="324" stop="20261021003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11483</sub-title>
+    <sub-title lang="ca">11486</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261020183000 +0000" channel="324" stop="20261020200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11484</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20261020173058 +0000" channel="esport3" stop="20261020175850 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 9</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:27:52</length>
-  </programme>
-  <programme start="20261020175850 +0000" channel="esport3" stop="20261020190000 +0000">
-    <title lang="ca">Esport Club</title>
+  <programme start="20261020205549 +0000" channel="esport3" stop="20261020230009 +0000">
+    <title lang="ca">Un dia de partit</title>
     <sub-title lang="ca">PSG-Barça</sub-title>
-    <desc lang="ca">PSG-Barça. Partit d'alt voltatge a París. Última hora amb Xavi Lemus i l'anàlisi de l'Àlex Delmàs. A la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i Federic Porta.</desc>
-    <length units="minutes">01:01:10</length>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">02:04:20</length>
   </programme>
-  <programme start="20261020175155 +0000" channel="sx3" stop="20261020175625 +0000">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Muuu! Cloc-cloc! Bee!</sub-title>
-    <desc lang="ca">La Vaca, l'Ovella i l'agent secret Gallina participen en un fantàstic concurs musical amb l'ajuda de la Som-hi i la Prou com a presentadores.</desc>
-    <length units="minutes">00:04:30</length>
+  <programme start="20261020230009 +0000" channel="esport3" stop="20261020233530 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
+    <desc lang="ca">Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
+    <length units="minutes">00:35:21</length>
   </programme>
-  <programme start="20261020175625 +0000" channel="sx3" stop="20261020180055 +0000">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Xerinola a la pista de ball</sub-title>
-    <desc lang="ca">L'Arty podrà il·luminar els quatre requadres de la pista de ball abans que s'acabi el temps? Amb l'ajuda de la Colla del Moviment, aviat començarà la ballaruga!</desc>
-    <length units="minutes">00:04:30</length>
+  <programme start="20261020224249 +0000" channel="sx3" stop="20261020230225 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El misteri de la tenda cremada (1a part)</sub-title>
+    <desc lang="ca">En Conan i la seva colla van a passar el cap de setmana en un càmping amb la senyoreta Wakasa. Allà coneixen quatre universitaris, membres d'un club de bàsquet. Aquella nit, hi ha un incendi a la tenda d'un dels jugadors de bàsquet i el noi mor carbonitzat. L'inspector en cap Kuroda, que havia acampat a la tenda del costat amb la intenció d'espiar la senyoreta Wakasa, haurà de descobrir si l'incendi ha estat provocat.</desc>
+    <length units="minutes">00:19:36</length>
   </programme>
-  <programme start="20261020174841 +0000" channel="tv3" stop="20261020181438 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Conviure amb lloros</sub-title>
-    <desc lang="ca">El reporter Pere Renom és testimoni de com parlen i ensinistren els lloros de Portaventura. També descobreix què és la malaltia anomenada 'pulmó de l'ocellaire' amb el Dr. Ferran Morell, de la Vall d'Hebron, qui tracta un cas associat als agapornis. I finalment, unes nouvingudes: les cotorres argentines. Es descriu el seguiment que en fan des del Museu de Ciències Naturals, de Barcelona. L'èxit de l'espècie es relaciona directament amb la seva variada dieta i amb el fet que cria en els nius que construeix, en lloc de criar en forats, com la majoria de lloros del món. DesenvolupamentEls lloros són una de les famílies d'ocells més intel·ligents que hi ha. La conducta social, un crani desproporcionadament gros respecte a la mida del cos i unes potes amb gran capacitat prènsil sembla que en són les causes determinants. Precisament perquè són intel·ligents i sociables ens resulten especialment simpàtics. Si, a més, hi afegim la seva exuberant bellesa i el fet que suporten relativament bé la captivitat, és lògic que hagin esdevingut mascotes ideals i actors preferents en espectacles circenses. El Reporter Pere Renom presencia un espectacle amb lloros a Portaventura i aprèn que l'ensinistrament és una barreja d'etologia, és a dir, del coneixement de la conducta animal, i de psicologia, ja que cada individu té el seu propi caràcter. L'ensinistrador Paco Navarro ha d'identificar les habilitats particulars de cada lloro, de cada actor, i treballar per potenciar-les. El resultat és un 'paper' diferent per cadascun: uns volen, altres interaccionen amb el públic o parlen i canten amb fluïdesa. Però conviure amb lloros també pot portar maldecaps. Carme Baraldés fa cinc anys que té agapornis a casa. Des d'aleshores té problemes respiratoris. El doctor Ferran Morell, de la unitat de pneumologia de la Vall d'Hebron, explica que hi ha una malaltia anomenada 'pulmó de l'ocellaire', que consisteix en una inflamació pulmonar produïda per la inhalació de certe</desc>
-    <length units="minutes">00:25:57</length>
+  <programme start="20261020230225 +0000" channel="sx3" stop="20261020232014 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El misteri de la tenda cremada (2a part)</sub-title>
+    <desc lang="ca">Per les proves que han quedat a l'escenari del crim, sembla evident que la mort d'en Fumiaki Urushibara no ha estat accidental. En Conan acabarà descobrint que el culpable ha fet servir un enginyós mecanisme construït amb espelmes per provocar l'incendi que li ha cremat la tenda i li ha provocat la mort. Un cop desemmascarat l'assassí, la senyoreta Wakasa tornarà a demostrar que no és una simple mestra d'escola.</desc>
+    <length units="minutes">00:17:49</length>
   </programme>
-  <programme start="20261020181438 +0000" channel="tv3" stop="20261020193448 +0000">
-    <title lang="ca">Casa Bloc, rehabilitació d'una idea</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">'Casa Bloc, rehabilitació d'una idea', és una producció de 15L FILMS en coproducció amb TV3, amb la col·laboració de Hàbitat 3, Cellnex, Simon, MediaUrban–Mediapro, i el suport de l'ICAA i l'ICEC.Casa Bloc, referència internacional de l'arquitectura racionalista dissenyat per GATCPAC (Sert, Torres Clavé i Subirana), va ser el primer habitatge social construït a Espanya en els anys 30. Però el projecte de Casa Bloc va ser interromput per la Guerra Civil i va acabar com una residència per a vídues i orfes de la Guàrdia Civil, que va romandre activa fins el 2015.A l'actualitat, Hàbitat3, una fundació que gestiona habitatges socials està duent a terme la rehabilitació de part de l'edifici per recuperar l'esperit original i convertir-lo en un refugi per a persones en risc d'exclusió social.FITXA TÈCNICADirecció i realització: Patricia Tamayo, Albert BadiaGuió: Patricia TamayoDirector de producció: Adrià LahuertaProductor executiu TV3: Jordi AmbròsProductor delegat TV3: Daniel Barea DelgadoDirector fotografia: Albert BadiaMuntatge: Marc RocaMúsica: Maria Rodés i Isabelle LaudenbachLingüista: Odile ArqüéGrafisme: Guirado</desc>
-    <length units="minutes">01:20:10</length>
+  <programme start="20261020225004 +0000" channel="tv3" stop="20261020231927 +0000">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Mar Ibáñez (Restaurant Aürt)</sub-title>
+    <desc lang="ca">Mar Ibáñez forma part d'una nova generació de pastisseres amb una proposta contemporània i sòlida. Formada a l'ESHOB, amb pràctiques a Hisop i una etapa decisiva al Celler de Can Roca, avui desenvolupa la seva cuina dolça a l'univers d'Artur Martínez. La seva pastisseria és minimalista, precisa i de temporada, amb un ús sorprenent de fruites i verdures. Les postres lleugeres, poc ensucrades i plenes de sentit, estan pensades per dialogar amb el menú i tancar l'experiència amb equilibri. Guardonada amb el Best Dessert amb només 19 anys, construeix una veu pròpia amb projecció i ambició de futur.</desc>
+    <length units="minutes">00:29:23</length>
+  </programme>
+  <programme start="20261020231927 +0000" channel="tv3" stop="20261020235152 +0000">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Moha Quach (Restaurant El Terrat by Quach)</sub-title>
+    <desc lang="ca">Moha Quach construeix a El Terrat una cuina profundament personal, nascuda dels records d'infància al Rif marroquí i arrelada a Tarragona i al Mediterrani. El capítol recorre el seu viatge vital i creatiu, des de la cuina de l'àvia i l'hort familiar fins a una proposta contemporània que dialoga amb la cuina catalana, el Marroc i l'herència de l'antiga Roma. Format en cuines d'alta exigència, com Disfrutar, integra tècnica, rigor històric i producte de proximitat. El capítol mostra amb una mirada íntima un xef inquiet i reconegut, que ha creat un univers propi.</desc>
+    <length units="minutes">00:32:25</length>
   </programme>
 </tv>
