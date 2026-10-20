@@ -1,5 +1,11 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
@@ -9,70 +15,72 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261020040000 +0000" channel="tvi" stop="20261020045954 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Augie Burr</sub-title>
-    <desc lang="ca">Aquest jove cantant barceloní, amb esforç i tenacitat, s'ha fet un lloc dins l'escena del blues i el rock'n'roll a casa nostra. Agustí Burriel es mou amb solvència dins del doo-wop i el rhythm'n'blues vocal. Ho ha fet amb formacions com els Big Jamboree o els Velvet Candles. L'acompanyen Blas Picón a la bateria, Juanma Rodríguez al contrabaix, Enma Fernández al piano, Mario Cobo a la guitarra i Big Dani Pérez al saxo tenor.</desc>
-    <length units="minutes">00:59:54</length>
+  <programme start="20261020103016 +0000" channel="tvi" stop="20261020135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1832</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:44</length>
   </programme>
-  <programme start="20261020045954 +0000" channel="tvi" stop="20261020060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Ignasi Terraza Trío</sub-title>
-    <desc lang="ca">Poques presentacions calen per Ignasi Terraza, sens dubte un dels pianistes de jazz més destacats de casa nostra i amb una enorme projecció internacional . Ens visita com a trio, acompanyat de Jules 'Bicoco' al contrabaix i Esteve Pi a la batería, format que li permet desenvolupar discursos magníficament improvisats i màgics, amb el seu inconfosible estil elegant , consistent i de bon swing.</desc>
-    <length units="minutes">01:00:06</length>
+  <programme start="20261020135500 +0000" channel="tvi" stop="20261020143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7058</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261020010000 +0000" channel="324" stop="20261020060000 +0000">
+  <programme start="20261020120000 +0000" channel="324" stop="20261020130000 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">262</sub-title>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20261020130000 +0000" channel="324" stop="20261020135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11478</sub-title>
+    <sub-title lang="ca">11481</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">00:55:00</length>
   </programme>
-  <programme start="20261020060000 +0000" channel="324" stop="20261020080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11479</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261020114500 +0000" channel="esport3" stop="20261020130000 +0000">
+    <title lang="ca">Gales esportives</title>
+    <sub-title lang="ca">Trofeu Campions amb Valors</sub-title>
+    <desc lang="ca">Gala del 43è Trofeu Campions amb Valors, des del Gran Teatre del Liceu de Barcelona.</desc>
+    <length units="minutes">01:15:00</length>
   </programme>
-  <programme start="20261020040801 +0000" channel="esport3" stop="20261020043459 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia PSG-Barça</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:26:58</length>
+  <programme start="20261020130000 +0000" channel="esport3" stop="20261020140113 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3265</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:13</length>
   </programme>
-  <programme start="20261020043459 +0000" channel="esport3" stop="20261020045930 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / San Luis / 5</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
-    <length units="minutes">00:24:31</length>
+  <programme start="20261020122046 +0000" channel="sx3" stop="20261020124146 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">La mare cocodril</sub-title>
+    <desc lang="ca">En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!</desc>
+    <length units="minutes">00:21:00</length>
   </programme>
-  <programme start="20261020042018 +0000" channel="sx3" stop="20261020043147 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El peluix</sub-title>
-    <desc lang="ca">En Pinxo guarda un peluix ben amagat al seu llit. Però aquest matí la Marguerite ha tret els llençols i el cobrellit per espolsar-los, i sense adonar-se'n ha perdut el peluix d'en Pinxo. En Pinxo el vol trobar com sigui, perquè per ell és un objecte molt important, però no s'atreveix a demanar ajuda als seus amics per por que se'n riguin.</desc>
-    <length units="minutes">00:11:29</length>
+  <programme start="20261020124146 +0000" channel="sx3" stop="20261020130401 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Balenes i calamars</sub-title>
+    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
+    <length units="minutes">00:22:15</length>
   </programme>
-  <programme start="20261020043147 +0000" channel="sx3" stop="20261020044317 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">L'atrapagats</sub-title>
-    <desc lang="ca">En Pinxo i en Timbal descobreixen que la Guineta s'ha fet molt amiga d'en Gatmoix i en Gatmoll, els gats del poble, cosa que els sorprèn, però que també els molesta, ja que ho consideren una traïció. Per arribar al fons de la qüestió decideixen espiar-la.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261020121917 +0000" channel="tv3" stop="20261020122736 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Pollastre amb salsa de coco i llima</sub-title>
+    <desc lang="ca">Restaurant INDOCHINECuiner.-Ly Leap .- BARCELONADificultat: mitjana Temps d'elaboració: 1 h ( més la maceració)Producte principal: pollastreTemporada: tot l'any</desc>
+    <length units="minutes">00:08:19</length>
   </programme>
-  <programme start="20261020040814 +0000" channel="tv3" stop="20261020045520 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Manteniment</sub-title>
-    <desc lang="ca">A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.</desc>
-    <length units="minutes">00:47:06</length>
+  <programme start="20261020122736 +0000" channel="tv3" stop="20261020123442 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Fideus a la cassola amb prunes</sub-title>
+    <desc lang="ca">Cuina d'aficionat .- Cuiner Andreu Pons (Castelldefels)MestreDificultat: mitjanaTemps d'elaboració: 50 minProducte principal: fideusTemporada: tot l'any</desc>
+    <length units="minutes">00:07:06</length>
   </programme>
-  <programme start="20261020045520 +0000" channel="tv3" stop="20261020054159 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El parallamps</sub-title>
-    <desc lang="ca">El parallamps potser és dels objectes amb més ego, perquè es diu, literalment, per a què serveix. Per aquest motiu mateix li dediquem un capítol de 'La rRenaixença'. I perquè ens salva de morir socarrimats, òbviament. Ens visita l'Oriol Salvador, un amant i apassionat de l'esgrima antiga. Segur que, igual que nosaltres, no sabíeu que n'hi ha una d'antiga i una de moderna. Al capítol d''Històries per passejar el gos' anem amb en Nano fins a les Bahames, on se celebra un festival de música de luxe: el festival Fyre.</desc>
-    <length units="minutes">00:46:39</length>
+  <programme start="20261020121048 +0000" channel="tv3" stop="20261020134043 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <sub-title lang="ca">4180</sub-title>
+    <length units="minutes">01:29:55</length>
+  </programme>
+  <programme start="20261020120306 +0000" channel="tv3" stop="20261020133301 +0000">
+    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
+    <sub-title lang="ca">4181</sub-title>
+    <length units="minutes">01:29:55</length>
   </programme>
 </tv>
