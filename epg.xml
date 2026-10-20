@@ -3,76 +3,76 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261019234509 +0000" channel="tvi" stop="20261020001755 +0000">
-    <title lang="ca">Al cotxe</title>
-    <sub-title lang="ca">David Verdaguer: 'Em vaig tornar l'home de les cavernes'</sub-title>
-    <desc lang="ca">David Verdaguer fa el paper d'embriòleg a la sèrie de 3Cat 'In vitro', una comèdia amb tocs d'humor negre sobre la reproducció assistida. Durant el trajecte 'Al cotxe!' Verdaguer recorda que, quan va tenir la seva filla, va desenvolupar instints ancestrals.</desc>
-    <length units="minutes">00:32:46</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261020040000 +0000" channel="tvi" stop="20261020045954 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Augie Burr</sub-title>
+    <desc lang="ca">Aquest jove cantant barceloní, amb esforç i tenacitat, s'ha fet un lloc dins l'escena del blues i el rock'n'roll a casa nostra. Agustí Burriel es mou amb solvència dins del doo-wop i el rhythm'n'blues vocal. Ho ha fet amb formacions com els Big Jamboree o els Velvet Candles. L'acompanyen Blas Picón a la bateria, Juanma Rodríguez al contrabaix, Enma Fernández al piano, Mario Cobo a la guitarra i Big Dani Pérez al saxo tenor.</desc>
+    <length units="minutes">00:59:54</length>
   </programme>
-  <programme start="20261020001755 +0000" channel="tvi" stop="20261020070559 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2182</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">06:48:04</length>
+  <programme start="20261020045954 +0000" channel="tvi" stop="20261020060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Ignasi Terraza Trío</sub-title>
+    <desc lang="ca">Poques presentacions calen per Ignasi Terraza, sens dubte un dels pianistes de jazz més destacats de casa nostra i amb una enorme projecció internacional . Ens visita com a trio, acompanyat de Jules 'Bicoco' al contrabaix i Esteve Pi a la batería, format que li permet desenvolupar discursos magníficament improvisats i màgics, amb el seu inconfosible estil elegant , consistent i de bon swing.</desc>
+    <length units="minutes">01:00:06</length>
   </programme>
-  <programme start="20261019220500 +0000" channel="324" stop="20261020000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2182</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261020000000 +0000" channel="324" stop="20261020003000 +0000">
+  <programme start="20261020010000 +0000" channel="324" stop="20261020060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11477</sub-title>
+    <sub-title lang="ca">11478</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261019230020 +0000" channel="esport3" stop="20261020003156 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">París, la gran batalla; Mayola Academy i 'El Colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto pentinen la prèvia del partit a París entre el PSG i el Barça. En Marc Mayola analitza alguns aspectes tàctics del Betis-Barça i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">01:31:36</length>
+  <programme start="20261020060000 +0000" channel="324" stop="20261020080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11479</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261020003156 +0000" channel="esport3" stop="20261020004958 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5543</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:18:02</length>
+  <programme start="20261020040801 +0000" channel="esport3" stop="20261020043459 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia PSG-Barça</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:26:58</length>
   </programme>
-  <programme start="20261019234332 +0000" channel="sx3" stop="20261020000341 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Aventura al·lucinant a l'Amazònia (2a part)</sub-title>
-    <desc lang="ca">En Zach, la Donita, en Gourmand i la Paisley estan decidits a arrasar la selva amazònica i apoderar-se de totes les riqueses animals pels seus propis i malvats propòsits. Han fet presos en Chris i en Martin, però la bona notícia és que l'Aviva ha retrobat la inspiració i ja treballa en un magnífic invent que potser servirà per aturar el desastre. La Koki, per la seva banda, ha desxifrat on és el campament dels dolents: aconseguirà rescatar els germans Kratt?</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261020043459 +0000" channel="esport3" stop="20261020045930 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / San Luis / 5</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <length units="minutes">00:24:31</length>
   </programme>
-  <programme start="20261020000341 +0000" channel="sx3" stop="20261020002350 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A colligranota</sub-title>
-    <desc lang="ca">Els germans Kratt i tota la colla són a l'Amazònia buscant aventures. Volen investigar l'àrea de distribució de les mones esquirol per entendre millor el seu comportament però de sobte, per accident, queden miniaturitzats. Una de les mones, a més, s'ha endut el miniaturitzador. L'única opció és fer servir el poder de granota de punta de fletxa i pujar a colligranota per recuperar el miniaturitzador, si no es volen quedar petits per sempre.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261020042018 +0000" channel="sx3" stop="20261020043147 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El peluix</sub-title>
+    <desc lang="ca">En Pinxo guarda un peluix ben amagat al seu llit. Però aquest matí la Marguerite ha tret els llençols i el cobrellit per espolsar-los, i sense adonar-se'n ha perdut el peluix d'en Pinxo. En Pinxo el vol trobar com sigui, perquè per ell és un objecte molt important, però no s'atreveix a demanar ajuda als seus amics per por que se'n riguin.</desc>
+    <length units="minutes">00:11:29</length>
   </programme>
-  <programme start="20261019232247 +0000" channel="tv3" stop="20261019235112 +0000">
-    <title lang="ca">Manicòmics</title>
-    <sub-title lang="ca">La mort amb Magí García</sub-title>
-    <desc lang="ca">En Magí i l'Ignasi visiten el cementiri de Montjuïc, el més gran de Catalunya, i el bar Los Hermanos, al costat del cementiri de Cornellà. I parlen en una morgue amb el metge forense Narcís Bardalet.</desc>
-    <length units="minutes">00:28:25</length>
+  <programme start="20261020043147 +0000" channel="sx3" stop="20261020044317 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">L'atrapagats</sub-title>
+    <desc lang="ca">En Pinxo i en Timbal descobreixen que la Guineta s'ha fet molt amiga d'en Gatmoix i en Gatmoll, els gats del poble, cosa que els sorprèn, però que també els molesta, ja que ho consideren una traïció. Per arribar al fons de la qüestió decideixen espiar-la.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261019235112 +0000" channel="tv3" stop="20261020003827 +0000">
+  <programme start="20261020040814 +0000" channel="tv3" stop="20261020045520 +0000">
     <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Nit i Nadal</sub-title>
-    <desc lang="ca">Per Nadal l'aeroport és un formiguer ple d'històries. Mentre una família espera els fills que viuen a Mèxic amb els canelons a punt, d'altres marxen a Cuba per fer un creuer pel Carib. I n'hi ha que treballen de nit canviant la roda d'un A320 com si fos un cotxe de Fórmula 1 mentre d'altres netegen avions.</desc>
-    <length units="minutes">00:47:15</length>
+    <sub-title lang="ca">Manteniment</sub-title>
+    <desc lang="ca">A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.</desc>
+    <length units="minutes">00:47:06</length>
+  </programme>
+  <programme start="20261020045520 +0000" channel="tv3" stop="20261020054159 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El parallamps</sub-title>
+    <desc lang="ca">El parallamps potser és dels objectes amb més ego, perquè es diu, literalment, per a què serveix. Per aquest motiu mateix li dediquem un capítol de 'La rRenaixença'. I perquè ens salva de morir socarrimats, òbviament. Ens visita l'Oriol Salvador, un amant i apassionat de l'esgrima antiga. Segur que, igual que nosaltres, no sabíeu que n'hi ha una d'antiga i una de moderna. Al capítol d''Històries per passejar el gos' anem amb en Nano fins a les Bahames, on se celebra un festival de música de luxe: el festival Fyre.</desc>
+    <length units="minutes">00:46:39</length>
   </programme>
 </tv>
