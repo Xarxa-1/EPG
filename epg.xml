@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261020220425 +0000" channel="tvi" stop="20261020230000 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">La cadira buida</sub-title>
-    <desc lang="ca">La soledat no desitjada s'ha convertit en un dels grans reptes socials del nostre temps, però continua sent una realitat sovint invisible i silenciada.En una societat cada vegada més individualista i hiperconnectada, persones de totes les edats expliquen què significa sentir-se soles i com aquesta realitat impacta en la seva vida i la seva salut. A través de les seves veus, i de la mirada de professionals, filòsofs, sociòlegs i entitats socials, el documental explora les causes de la soledat i la necessitat de detectar-la i abordar-la col·lectivament. Una peça coral que reivindica la idea esperançadora que recuperar els vincles i la vida comunitària pot contribuir a trencar la soledat i a fer que la vida sigui més vida.</desc>
-    <length units="minutes">00:55:35</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261021040000 +0000" channel="tvi" stop="20261021045648 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Dani Nel·lo</sub-title>
+    <desc lang="ca">Dani Nel·lo ens presenta el seu nou repertori. Abans que la guitarra elèctrica fos l'instrument rei de la música popular, el saxo va ser l'eina més utilitzada per fer-se sentir en les formacions de rhythm'n'blues i soul. King Curtis en va ser un dels màxims exponents. Els temes que sentireu avui volen ser un homentatge a aquest gran saxofonista que ha influït tants i tants músics. L'acompanyen Mario Cobo a la guitarra, Pere Puertas també a la guitarra, Santi Ursul al baix i Anton Jarl a la bateria.</desc>
+    <length units="minutes">00:56:48</length>
   </programme>
-  <programme start="20261020230043 +0000" channel="tvi" stop="20261021000107 +0000">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Veus contra l'estigma</sub-title>
-    <desc lang="ca">'VEUS CONTRA L'ESTIGMA' (2017), una producció de Media 3.14 en coproducció amb Televisió de Catalunya, amb la col·laboració de la Diputació de Barcelona, la Generalitat de Catalunya, l'Agència Catalana de la Joventut, l'Ajuntament de Barcelona, el Departament de Salut (gen.cat) i amb el suport del Departament de Cultura (gen.cat).Un grup cada dia més nombrós de persones diagnosticades amb algun trastorn mental surt de l'armari i revoluciona les estructures sanitàries i les associacions de pacients i familiars. Seguint l'estela del que ja va començar fa més d'una dècada en altres països europeus, es fan visibles amb anuncis al metro, cursos a professionals o xerrades als periodistes dels mitjans. Reclamen tenir el mateix dret que té un malalt de càncer per escollir entre possibles tractaments, i volen construir en la societat una nova mirada, lliure de prejudicis, sobre la malaltia mental. Perquè tenir un problema de salut mental no vol dir estar sempre fora de joc ni tampoc significa posseir un caràcter dèbil o més agressiu o violent que qualsevol altre. El canvi d'enfocament que proposen no tan sols té beneficis a escala individual, sinó que s'ha demostrat que redueix notablement els costos sanitaris. Aquest documental acosta a l'espectador aquesta nova visió de la malaltia mental a través del retrat en proximitat d'alguns pioners que hi han pres la paraula – que han alçat la veu en contra de l'estigma.Direcció: Marta Espar i Marc ParramonGuió: Marta EsparRealització, fotografia i muntatge: Marc ParramonProductor: Eva PerisProductor executiu Media 3.14: Joan ÚbedaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector de producció: Pilar RazquínGrafisme: Aleix Abellanet</desc>
-    <length units="minutes">01:00:24</length>
+  <programme start="20261021045648 +0000" channel="tvi" stop="20261021055648 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Nu-Roots</sub-title>
+    <desc lang="ca">Aquest és el projecte del solista David Pastor creat amb el desig de buscar noves textures sonores i noves rítmiques per als seus vells temes, interpretades tant amb la trompeta com amb teclats, junt a dos músics de solvent i àmplia trajectòria a l'escena catalana de fusió com són Toni Pagès a la batería i José Luis Guart al piano i als teclats.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261020220500 +0000" channel="324" stop="20261021000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2183</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261021000000 +0000" channel="324" stop="20261021003000 +0000">
+  <programme start="20261021010000 +0000" channel="324" stop="20261021060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11486</sub-title>
+    <sub-title lang="ca">11487</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261020205549 +0000" channel="esport3" stop="20261020230009 +0000">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">PSG-Barça</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="minutes">02:04:20</length>
+  <programme start="20261021060000 +0000" channel="324" stop="20261021080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11488</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261020230009 +0000" channel="esport3" stop="20261020233530 +0000">
+  <programme start="20261021025341 +0000" channel="esport3" stop="20261021042308 +0000">
     <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
-    <desc lang="ca">Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
-    <length units="minutes">00:35:21</length>
+    <sub-title lang="ca">FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
+    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra.</desc>
+    <length units="minutes">01:29:27</length>
   </programme>
-  <programme start="20261020224249 +0000" channel="sx3" stop="20261020230225 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El misteri de la tenda cremada (1a part)</sub-title>
-    <desc lang="ca">En Conan i la seva colla van a passar el cap de setmana en un càmping amb la senyoreta Wakasa. Allà coneixen quatre universitaris, membres d'un club de bàsquet. Aquella nit, hi ha un incendi a la tenda d'un dels jugadors de bàsquet i el noi mor carbonitzat. L'inspector en cap Kuroda, que havia acampat a la tenda del costat amb la intenció d'espiar la senyoreta Wakasa, haurà de descobrir si l'incendi ha estat provocat.</desc>
-    <length units="minutes">00:19:36</length>
+  <programme start="20261021042308 +0000" channel="esport3" stop="20261021044050 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5544</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:17:42</length>
   </programme>
-  <programme start="20261020230225 +0000" channel="sx3" stop="20261020232014 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El misteri de la tenda cremada (2a part)</sub-title>
-    <desc lang="ca">Per les proves que han quedat a l'escenari del crim, sembla evident que la mort d'en Fumiaki Urushibara no ha estat accidental. En Conan acabarà descobrint que el culpable ha fet servir un enginyós mecanisme construït amb espelmes per provocar l'incendi que li ha cremat la tenda i li ha provocat la mort. Un cop desemmascarat l'assassí, la senyoreta Wakasa tornarà a demostrar que no és una simple mestra d'escola.</desc>
-    <length units="minutes">00:17:49</length>
+  <programme start="20261021041748 +0000" channel="sx3" stop="20261021042917 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Un espectacle preciós</sub-title>
+    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
+    <length units="minutes">00:11:29</length>
   </programme>
-  <programme start="20261020225004 +0000" channel="tv3" stop="20261020231927 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Mar Ibáñez (Restaurant Aürt)</sub-title>
-    <desc lang="ca">Mar Ibáñez forma part d'una nova generació de pastisseres amb una proposta contemporània i sòlida. Formada a l'ESHOB, amb pràctiques a Hisop i una etapa decisiva al Celler de Can Roca, avui desenvolupa la seva cuina dolça a l'univers d'Artur Martínez. La seva pastisseria és minimalista, precisa i de temporada, amb un ús sorprenent de fruites i verdures. Les postres lleugeres, poc ensucrades i plenes de sentit, estan pensades per dialogar amb el menú i tancar l'experiència amb equilibri. Guardonada amb el Best Dessert amb només 19 anys, construeix una veu pròpia amb projecció i ambició de futur.</desc>
-    <length units="minutes">00:29:23</length>
+  <programme start="20261021042917 +0000" channel="sx3" stop="20261021044047 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">A parts iguals</sub-title>
+    <desc lang="ca">L'avi deixa a la Marguerite i a l'Edmond unes baies de saüc que ha collit perquè les donin als nens. Les ha comptat bé, perquè hi hagi les mateixes per a tots. Però l'Edmond, com que no ho sap, no pot resistir la temptació i se'n menja una. Quan els petits se les parteixen, es troben que al final en queden tres i, com que són quatre, no saben com fer-s'ho.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261020231927 +0000" channel="tv3" stop="20261020235152 +0000">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Moha Quach (Restaurant El Terrat by Quach)</sub-title>
-    <desc lang="ca">Moha Quach construeix a El Terrat una cuina profundament personal, nascuda dels records d'infància al Rif marroquí i arrelada a Tarragona i al Mediterrani. El capítol recorre el seu viatge vital i creatiu, des de la cuina de l'àvia i l'hort familiar fins a una proposta contemporània que dialoga amb la cuina catalana, el Marroc i l'herència de l'antiga Roma. Format en cuines d'alta exigència, com Disfrutar, integra tècnica, rigor històric i producte de proximitat. El capítol mostra amb una mirada íntima un xef inquiet i reconegut, que ha creat un univers propi.</desc>
-    <length units="minutes">00:32:25</length>
+  <programme start="20261021035309 +0000" channel="tv3" stop="20261021044024 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Nit i Nadal</sub-title>
+    <desc lang="ca">Per Nadal l'aeroport és un formiguer ple d'històries. Mentre una família espera els fills que viuen a Mèxic amb els canelons a punt, d'altres marxen a Cuba per fer un creuer pel Carib. I n'hi ha que treballen de nit canviant la roda d'un A320 com si fos un cotxe de Fórmula 1 mentre d'altres netegen avions.</desc>
+    <length units="minutes">00:47:15</length>
+  </programme>
+  <programme start="20261021044024 +0000" channel="tv3" stop="20261021052802 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La forquilla</sub-title>
+    <desc lang="ca">Dediquem el capítol d'avui a la forquilla. Va ser l'últim cobert a arribar, dels tres que fem servir normalment. I ho va fer per ordre de la princesa bizantina Teodora Ana Ducaina, del segle XII, que no es volia embrutar les mans. Ens visita Dan Peralbo, amb qui parlem de per què ha decidit formar un grup de rock i no pas de música urbana, i puja al nostre escenari per actuar en directe amb l'Arnau Tordera i la Laia Glück. Anem a passejar el gos fins al 1865, a Washington, al primer magnicidi dels Estats Units.</desc>
+    <length units="minutes">00:47:38</length>
   </programme>
 </tv>
