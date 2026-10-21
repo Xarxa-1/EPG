@@ -1,10 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -12,67 +9,73 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261021040000 +0000" channel="tvi" stop="20261021045648 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Dani Nel·lo</sub-title>
-    <desc lang="ca">Dani Nel·lo ens presenta el seu nou repertori. Abans que la guitarra elèctrica fos l'instrument rei de la música popular, el saxo va ser l'eina més utilitzada per fer-se sentir en les formacions de rhythm'n'blues i soul. King Curtis en va ser un dels màxims exponents. Els temes que sentireu avui volen ser un homentatge a aquest gran saxofonista que ha influït tants i tants músics. L'acompanyen Mario Cobo a la guitarra, Pere Puertas també a la guitarra, Santi Ursul al baix i Anton Jarl a la bateria.</desc>
-    <length units="minutes">00:56:48</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261021103003 +0000" channel="tvi" stop="20261021135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1833</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:57</length>
   </programme>
-  <programme start="20261021045648 +0000" channel="tvi" stop="20261021055648 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Nu-Roots</sub-title>
-    <desc lang="ca">Aquest és el projecte del solista David Pastor creat amb el desig de buscar noves textures sonores i noves rítmiques per als seus vells temes, interpretades tant amb la trompeta com amb teclats, junt a dos músics de solvent i àmplia trajectòria a l'escena catalana de fusió com són Toni Pagès a la batería i José Luis Guart al piano i als teclats.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261021135500 +0000" channel="tvi" stop="20261021143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7059</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261021010000 +0000" channel="324" stop="20261021060000 +0000">
+  <programme start="20261021120000 +0000" channel="324" stop="20261021135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11487</sub-title>
+    <sub-title lang="ca">11490</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261021060000 +0000" channel="324" stop="20261021080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11488</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261021135500 +0000" channel="324" stop="20261021143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7059</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261021025341 +0000" channel="esport3" stop="20261021042308 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
-    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra.</desc>
-    <length units="minutes">01:29:27</length>
+  <programme start="20261021113710 +0000" channel="esport3" stop="20261021130000 +0000">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Post PSG-Barça / J3</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="minutes">01:22:50</length>
   </programme>
-  <programme start="20261021042308 +0000" channel="esport3" stop="20261021044050 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5544</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:17:42</length>
+  <programme start="20261021130000 +0000" channel="esport3" stop="20261021140102 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3266</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:02</length>
   </programme>
-  <programme start="20261021041748 +0000" channel="sx3" stop="20261021042917 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Un espectacle preciós</sub-title>
-    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
-    <length units="minutes">00:11:29</length>
+  <programme start="20261021123537 +0000" channel="sx3" stop="20261021125750 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El misteri dels cucs</sub-title>
+    <desc lang="ca">En Chris i en Martin faran servir el nou miniaturitzador de l'Aviva per resoldre un misteri que fa temps que els volta pel cap. Com és que els cucs surten a fora quan plou?! La resposta la trobaran sota terra, en el món dels cucs, un lloc ple de sorpreses... i de dilemes! Ben aviat en Chris haurà de decidir si vol resoldre el misteri, o si vol salvar el seu germà!</desc>
+    <length units="minutes">00:22:13</length>
   </programme>
-  <programme start="20261021042917 +0000" channel="sx3" stop="20261021044047 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">A parts iguals</sub-title>
-    <desc lang="ca">L'avi deixa a la Marguerite i a l'Edmond unes baies de saüc que ha collit perquè les donin als nens. Les ha comptat bé, perquè hi hagi les mateixes per a tots. Però l'Edmond, com que no ho sap, no pot resistir la temptació i se'n menja una. Quan els petits se les parteixen, es troben que al final en queden tres i, com que són quatre, no saben com fer-s'ho.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261021125750 +0000" channel="sx3" stop="20261021131908 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La petició de l'inspector Megure</sub-title>
+    <desc lang="ca">L'inspector Megure té un cas complicat i li demana ajuda a en Kogoro Mouri. Té l'esperança que el Kogoro Dorment resolgui l'assassinat del senyor Yutaka Reigan, un gran expert en literatura japonesa. Tot sembla indicar que el culpable és el nebot de la víctima, però el noi a última hora s'empesca una coartada que sembla sòlida. Tot i que està convençut de la seva culpabilitat, a en Conan li costarà molt demostrar que l'assassí és ell.</desc>
+    <length units="minutes">00:21:18</length>
   </programme>
-  <programme start="20261021035309 +0000" channel="tv3" stop="20261021044024 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Nit i Nadal</sub-title>
-    <desc lang="ca">Per Nadal l'aeroport és un formiguer ple d'històries. Mentre una família espera els fills que viuen a Mèxic amb els canelons a punt, d'altres marxen a Cuba per fer un creuer pel Carib. I n'hi ha que treballen de nit canviant la roda d'un A320 com si fos un cotxe de Fórmula 1 mentre d'altres netegen avions.</desc>
-    <length units="minutes">00:47:15</length>
+  <programme start="20261021122830 +0000" channel="tv3" stop="20261021135943 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">Aquest dissabte, el nou capítol d''El gran gran dictat', el concurs presentat per l'Òscar Dalmau, comptarà amb la participació del Carlos Cuevas, actor insultantment jove i atractiu a qui recentment hem pogut veure a la sèrie de TV3 'Merlí'. L'Ares Teixidó, reportera i presentadora de ràdio i televisió, actriu de teatre i persona admirada per haver compartit pis amb la Belén Esteban. I el Xavi Bertran, actor, guionista i escriptor, terrassenc d'origen i altrament conegut com 'Lo Cartanyà'.Aquests tres concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. L'Ares Teixidó s'emportarà una nina inflable a la seva versió casolana de 'Gran Hermano VIP'. Descobrirem la part més sensible del Xavi Bertran. I, per últim, el Carlos Cuevas ens dirà el seu truc per aprendre's més d'un paper alhora.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
+    <length units="minutes">01:31:13</length>
   </programme>
-  <programme start="20261021044024 +0000" channel="tv3" stop="20261021052802 +0000">
+  <programme start="20261021135943 +0000" channel="tv3" stop="20261021144618 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La forquilla</sub-title>
-    <desc lang="ca">Dediquem el capítol d'avui a la forquilla. Va ser l'últim cobert a arribar, dels tres que fem servir normalment. I ho va fer per ordre de la princesa bizantina Teodora Ana Ducaina, del segle XII, que no es volia embrutar les mans. Ens visita Dan Peralbo, amb qui parlem de per què ha decidit formar un grup de rock i no pas de música urbana, i puja al nostre escenari per actuar en directe amb l'Arnau Tordera i la Laia Glück. Anem a passejar el gos fins al 1865, a Washington, al primer magnicidi dels Estats Units.</desc>
-    <length units="minutes">00:47:38</length>
+    <sub-title lang="ca">Millors moments - setmana 11</sub-title>
+    <desc lang="ca">Aquests últims programes han passat per 'La Renaixença' l'Empar Moliner, l'Enric Aurich, en Xarim Aresté i la Bruna Dinarès. Bojos coneguts i savis per conèixer amb qui hem compartit exclusives, confidències i sobretot rialles. Us deixem amb alguns dels moments més destacats de les entrevistes perquè les pugueu recordar. També hem parlat sobre objectes que ens acompanyen des de fa mil·lennis. Alguns que ja no es fan servir, com la cabina telefònica; d'altres que no deixarem mai, com la navalla i el botó; i encara d'altres que voldríem que deixessin d'existir, com la flauta dolça.</desc>
+    <length units="minutes">00:46:35</length>
+  </programme>
+  <programme start="20261021094300 +0000" channel="tv3" stop="20261021135755 +0000">
+    <title lang="ca">Ple del Parlament</title>
+    <sub-title lang="ca">4183</sub-title>
+    <length units="minutes">04:14:55</length>
   </programme>
 </tv>
