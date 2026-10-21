@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20261021173141 +0000" channel="tvi" stop="20261021191236 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">434</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="minutes">01:40:55</length>
+  <programme start="20261021220839 +0000" channel="tvi" stop="20261021232740 +0000">
+    <title lang="ca">Soc i Seré</title>
+    <sub-title lang="ca">Molta merda amb els pronoms!</sub-title>
+    <desc lang="ca">La competició arriba al seu punt crític. Els últims 20 aspirants volen una plaça a la gran final, però només 5 la podran aconseguir. Per fer-ho, hauran de superar dos nous reptes molt complicats i, per primera vegada a la història del programa, tots dos seran eliminatoris.El primer repte enfrontarà 2 equips, els Bots i els Barrals, en 10 duels d'un contra un, on els pronoms febles seran els grans protagonistes. La batalla per la permanència es lliurarà en dos taulers gegants, i l'equip que demostri que és el Rival més feble haurà d'abandonar el concurs.Els 10 aspirants que hagin sobreviscut a l'eliminació es reuniran en una vetllada molt especial per repartir-se els papers més importants de les seves vides. El teatre arriba a 'Soc i seré', i ho fa amb dues peces molt nostrades. Els pastorets i La Passió d'Esparreguera. Cada obra s'adjudicarà a un dels 2 equips de 5 persones, els Joels i els Joans, que les hauran d'interpretar davant d'un jurat molt exigent format per Carol Rovira, Jordi Banacolocha, Roc Esquius i Xènia Reguant.Aquest serà el repte més important fins ara, perquè els aspirants es juguen Ser on ser... finalista, a més de ficar-se 10.000 euros més a la butxaca.</desc>
+    <length units="minutes">01:19:01</length>
   </programme>
-  <programme start="20261021191236 +0000" channel="tvi" stop="20261021201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">948</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:02:24</length>
+  <programme start="20261021232740 +0000" channel="tvi" stop="20261022002142 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Vall d'Aran</sub-title>
+    <desc lang="ca">Muntanyes de postal, pobles amb noms que semblen inventats i una natura desbocada. A la Vall d'Aran hi caben el romànic, la neu, les olles araneses i fins i tot algun ieti despistat.</desc>
+    <length units="minutes">00:54:02</length>
   </programme>
-  <programme start="20261021170000 +0000" channel="324" stop="20261021183000 +0000">
+  <programme start="20261021220500 +0000" channel="324" stop="20261022000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2184</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20261022000000 +0000" channel="324" stop="20261022003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11492</sub-title>
+    <sub-title lang="ca">11495</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261021183000 +0000" channel="324" stop="20261021200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11493</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261021224027 +0000" channel="esport3" stop="20261021230000 +0000">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Jornada 9</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="minutes">00:19:33</length>
   </programme>
-  <programme start="20261021175850 +0000" channel="esport3" stop="20261021190000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Ratxa trencada, Madrid-Leipzig i tertúlia</sub-title>
-    <desc lang="ca">El PSG trenca la ratxa del Barça. Analitzem el partit amb la lupa de l'Albert Blaya. Quatre dies abans del clàssic, Reial Madrid-Leipzig al Santiago Bernabéu. Connectem amb Sebas Guim. A la tertúlia ens acompanyen Dani Senabre, Martí Molina i en Pere de Cal Tet.</desc>
-    <length units="minutes">01:01:10</length>
+  <programme start="20261021230000 +0000" channel="esport3" stop="20261022003051 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="minutes">01:30:51</length>
   </programme>
-  <programme start="20261021190000 +0000" channel="esport3" stop="20261021195500 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Una derrota que no cou?</sub-title>
-    <desc lang="ca">El Barça perd davant del PSG. En quin punt es troba, el Barça? En parlarem amb Sergi Solé, Mireia Vera i Miguel Rico. Sabrem com va viure el partit Marc Crosas, analitzarem la victòria del PSG amb el periodista de l'Équipe José Barroso i explicarem amb Laia Tudel com es troba Dani Olmo i què farà el Barça amb el 'tifo' ofensiu del Parc dels Prínceps. Acabarem amb una entrevista a la gimnasta Alba Petisco.</desc>
-    <length units="minutes">00:55:00</length>
+  <programme start="20261021224356 +0000" channel="sx3" stop="20261021230331 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">Els de la lliga de detectius júnior fan de models</sub-title>
+    <desc lang="ca">L'inspector Takagi truca a en Conan per demanar-li ajuda per resoldre un cas. Han assassinat el famós pintor Seiho Kitasono i un dels sospitosos inicials, en Daiki Nishiyama, un deixeble del mestre, resulta que havia pintat un quadre dels membres de la Lliga de Detectius Júnior. En Conan i els seus amics hauran de corroborar la coartada del noi, que d'entrada sembla molt sòlida.</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20261021181210 +0000" channel="sx3" stop="20261021182243 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla arregla una teulada</sub-title>
-    <desc lang="ca">Ha caigut la teulada de la sitja del senyor Al i la Patrulla Peluda l'haurà de tornar a posar a lloc.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261021230331 +0000" channel="sx3" stop="20261021232422 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El segrest d'en Conan (1a part)</sub-title>
+    <desc lang="ca">Mentre el Kogoro Dorment resol el cas d'un robatori en una joieria, el culpable aconsegueix fugir i segresta en Conan. El necessita perquè l'ajudi a recuperar l'altra meitat de les pedres precioses robades, que són en mans del seu còmplice. En Conan trobarà el còmplice mort i només una part de les joies. Sembla que hi ha una tercera persona que té intenció de quedar-se el botí i desfer-se dels lladres.</desc>
+    <length units="minutes">00:20:51</length>
   </programme>
-  <programme start="20261021182243 +0000" channel="sx3" stop="20261021184350 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">Rescats extrems: La Patrulla salva els gatets reials</sub-title>
-    <desc lang="ca">Els gatets reials van a la inauguració del museu de Badia Aventures i els segresten. En Ryder diu a tots els cadells que han d'ajudar en Chase a rescatar-los.</desc>
-    <length units="minutes">00:21:07</length>
+  <programme start="20261021225306 +0000" channel="tv3" stop="20261021234554 +0000">
+    <title lang="ca">La veritat sobre la dictadura de Franco</title>
+    <sub-title lang="ca">L'arribada al poder</sub-title>
+    <desc lang="ca">Els ecos de la tirania del cap d'estat feixista Francisco Franco, un dels dictadors més brutals de la història d'Europa, encara ressonen a Espanya. En aquest episodi s'expliquen els antecedents de la Guerra Civil Espanyola, l'esclat de la guerra, la intervenció estrangera i l'arribada de Franco al poder.</desc>
+    <length units="minutes">00:52:48</length>
   </programme>
-  <programme start="20261021175358 +0000" channel="tv3" stop="20261021181616 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Transgènics a la carta</sub-title>
-    <desc lang="ca">'Quèquicom' sotmetrà a examen els aliments transgènics. El programa examinarà els pros i els contres d'aquests conreus i els seus possibles efectes sobre la salut humana. El blat de moro és l'única planta transgènica que té autorització per ser cultivada a Espanya, i molts pagesos la trien per la seva resistència a les malures. La reportera Anna Lasaga farà un viatge pels camps i els laboratoris on s'estudien aquestes plantes per treure l'aigua clara sobre què és un transgènic i quins efectes pot tenir sobre l'ambient i els sers humans. A més, Francesc Vilarroya, professor de biotecnologia de la Universitat de Barcelona, explicarà com processa el cos humà els productes transgènics per poder-los assimilar. I Pere Puigdomènec, director del laboratori CSIC- IRTA, creu que els transgènics són útils i considera excessius els tràmits que es necessiten per autoritzar que un nou transgènic surti al mercat.</desc>
-    <length units="minutes">00:22:18</length>
-  </programme>
-  <programme start="20261021181616 +0000" channel="tv3" stop="20261021191627 +0000">
-    <title lang="ca">Glance Up (Mirant amunt)</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">'GLANCE UP (MIRANT AMUNT)' (2014), una producció de LA LUPA PRODUCCIONS amb la col·laboració de TELEVISIÓ DE CATALUNYA, Secretaria General de l'Esport – Gen.Cat i l'Ajuntament de Sant Cugat. En Joan Pahisa té 27 anys i una gran passió, el bàsquet. No seria res extraordinari si no fos per un detall: mesura exactament un metre d'alçada. La vida d'en Joan no ha estat fàcil, però l'esport l'ha ajudat a tirar endavant. Aquest estiu va participar als World Dwarf Games a Michigan, Estats Units, una competició semblant als Jocs Olímpics que se celebra cada quatre anys, exclusiva per a gent de talla baixa. Als Jocs, en Joan va ser l'únic representant d'Espanya, ja que no va trobar ningú que l'acompanyés, és per aquesta raó que s'ha especialitzat en el tennis taula, un esport individual. En Joan va viatjar 7.000 km per sentir-se com a casa. I també per complir els seus somnis: ser campió del món de tenis taula i, per sobre de tot, jugar a bàsquet una vegada més, probablement la darrera. El seu viatge ens ensenyarà com es veu el món des d'un metre d'alçada. No es tracta només d'esport, es tracta de la vida mateixa. De com l'ha viscut i la viu en Joan i de com la societat el tracta.Guió: Toni Comas, Oriol Gispert, Joan Pahisa, Oriol Martínez i Enric RibesRealització: Oriol Martinez i Enric RibesProductor: Oriol GispertDirector fotografia: Anna FranquesaMuntatge: Toni ComasDirector de producció: Marta PalacínMúsica: Calido HomeGrafisme: Albert Pastor (modularstudio)Veu en off: Joan Pahisa</desc>
-    <length units="minutes">01:00:11</length>
+  <programme start="20261021234554 +0000" channel="tv3" stop="20261022011201 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Sergio &amp; Serguéi</sub-title>
+    <desc lang="ca">SERGIO &amp; SERGUÉIProductora: Mediapro en coproducció amb RTV Comercial i Instituto Cubano del Arte e Industria Cinematográficas. Compta amb la participació de Televisió de Catalunya, Paramaount Channel, Orange, Telecable, Movistar + i Vedado Films i el suport del Ministerio de Educación, Cultura y Deporte. Producció hispano-cubana. 2017Director: Ernesto Daranas.Guionista: Ernesto Daranas i Marta Isabel Daranas Serrano.Director de fotografia: Alejandro Menéndez Vega.Música: Michael Gutiérrez SánchezIntèrprets: Mario Guerra, Héctor Eduardo Suárez Noas (Héctor Noas), Tomàs Alejandro Cao Uriza.Sinopsi: Any 1991: l'antiga URSS es desintegra i Cuba entra en una gran crisi econòmica. Sergio, radioaficionat i professor de marxisme, no sap què fer per reorientar la seva vida i tirar endavant la seva família. Per la seva banda, en Serguéi, l'últim cosmonauta soviètic, es troba casi oblidat a l'avariada estació orbital Mir. Gràcies als seus equips de ràdio, Sergio i Serguéi es comuniquen i entre ells neix una amistat que els ajudarà a enfrontar-se als dramàtics canvis que transformaran els seus respectius països.</desc>
+    <length units="minutes">01:26:07</length>
   </programme>
 </tv>
