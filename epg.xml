@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261021220839 +0000" channel="tvi" stop="20261021232740 +0000">
-    <title lang="ca">Soc i Seré</title>
-    <sub-title lang="ca">Molta merda amb els pronoms!</sub-title>
-    <desc lang="ca">La competició arriba al seu punt crític. Els últims 20 aspirants volen una plaça a la gran final, però només 5 la podran aconseguir. Per fer-ho, hauran de superar dos nous reptes molt complicats i, per primera vegada a la història del programa, tots dos seran eliminatoris.El primer repte enfrontarà 2 equips, els Bots i els Barrals, en 10 duels d'un contra un, on els pronoms febles seran els grans protagonistes. La batalla per la permanència es lliurarà en dos taulers gegants, i l'equip que demostri que és el Rival més feble haurà d'abandonar el concurs.Els 10 aspirants que hagin sobreviscut a l'eliminació es reuniran en una vetllada molt especial per repartir-se els papers més importants de les seves vides. El teatre arriba a 'Soc i seré', i ho fa amb dues peces molt nostrades. Els pastorets i La Passió d'Esparreguera. Cada obra s'adjudicarà a un dels 2 equips de 5 persones, els Joels i els Joans, que les hauran d'interpretar davant d'un jurat molt exigent format per Carol Rovira, Jordi Banacolocha, Roc Esquius i Xènia Reguant.Aquest serà el repte més important fins ara, perquè els aspirants es juguen Ser on ser... finalista, a més de ficar-se 10.000 euros més a la butxaca.</desc>
-    <length units="minutes">01:19:01</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261022040000 +0000" channel="tvi" stop="20261022045958 +0000">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Chino &amp; The Big Bet</sub-title>
+    <desc lang="ca">Fa més d'una dècada que en Chino Que va arribar a Barcelona. En aquest temps s'ha fet un nom i s'ha convertit en una referència en l'escena del Blues i el Swing. Amb un directe fresc i energètic 'Chino i els Big Bet' proposen un Blues cru i contundent, inspirat en els primers passos del Blues elèctric. El trio està format per: Chino al Dobro i la veu, Rod Deville al contrabaix i Giggs Nother a la bateria.</desc>
+    <length units="minutes">00:59:58</length>
   </programme>
-  <programme start="20261021232740 +0000" channel="tvi" stop="20261022002142 +0000">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Vall d'Aran</sub-title>
-    <desc lang="ca">Muntanyes de postal, pobles amb noms que semblen inventats i una natura desbocada. A la Vall d'Aran hi caben el romànic, la neu, les olles araneses i fins i tot algun ieti despistat.</desc>
-    <length units="minutes">00:54:02</length>
+  <programme start="20261022045958 +0000" channel="tvi" stop="20261022060000 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Albert Sanz Trio</sub-title>
+    <desc lang="ca">Avui entra a l'estudi el pianista Albert Sanz en format de trio, la formació ideal segons ell, per a investigar la melodia i el ritme i dur-los cap a un nou espai obert. Ve acompanyat de Masatochi Kamaguchi al contrabaix, i Javier Vercher al saxo, i la perfecta fusió de tots tres ens convida a un viatge capaç de transportar-nos a un món imaginari.</desc>
+    <length units="minutes">01:00:02</length>
   </programme>
-  <programme start="20261021220500 +0000" channel="324" stop="20261022000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2184</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261022000000 +0000" channel="324" stop="20261022003000 +0000">
+  <programme start="20261022010000 +0000" channel="324" stop="20261022060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11495</sub-title>
+    <sub-title lang="ca">11496</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261021224027 +0000" channel="esport3" stop="20261021230000 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 9</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:19:33</length>
+  <programme start="20261022060000 +0000" channel="324" stop="20261022080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11497</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261021230000 +0000" channel="esport3" stop="20261022003051 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="minutes">01:30:51</length>
+  <programme start="20261022024417 +0000" channel="esport3" stop="20261022042653 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Telekom / Champions League / J2</sub-title>
+    <desc lang="ca">El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
+    <length units="minutes">01:42:36</length>
   </programme>
-  <programme start="20261021224356 +0000" channel="sx3" stop="20261021230331 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Els de la lliga de detectius júnior fan de models</sub-title>
-    <desc lang="ca">L'inspector Takagi truca a en Conan per demanar-li ajuda per resoldre un cas. Han assassinat el famós pintor Seiho Kitasono i un dels sospitosos inicials, en Daiki Nishiyama, un deixeble del mestre, resulta que havia pintat un quadre dels membres de la Lliga de Detectius Júnior. En Conan i els seus amics hauran de corroborar la coartada del noi, que d'entrada sembla molt sòlida.</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20261022042653 +0000" channel="esport3" stop="20261022060347 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
+    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra.</desc>
+    <length units="minutes">01:36:54</length>
   </programme>
-  <programme start="20261021230331 +0000" channel="sx3" stop="20261021232422 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El segrest d'en Conan (1a part)</sub-title>
-    <desc lang="ca">Mentre el Kogoro Dorment resol el cas d'un robatori en una joieria, el culpable aconsegueix fugir i segresta en Conan. El necessita perquè l'ajudi a recuperar l'altra meitat de les pedres precioses robades, que són en mans del seu còmplice. En Conan trobarà el còmplice mort i només una part de les joies. Sembla que hi ha una tercera persona que té intenció de quedar-se el botí i desfer-se dels lladres.</desc>
-    <length units="minutes">00:20:51</length>
+  <programme start="20261022035356 +0000" channel="sx3" stop="20261022041502 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La reina Banana</sub-title>
+    <desc lang="ca">La Marinette ha dissenyat el vestuari d'una pel·lícula en què la Zoé, la mitja germana de la Chloé, interpreta el paper principal. Gelosa, la Chloé fa servir els seus contactes per robar la pel·lícula i fer que sigui com ella vol. Però els membres de l'equip de la pel·lícula, animats per la Marinette, es rebel·len contra la Chloé i acaben fent la pel·lícula sense ella. L'Esfinx Fosc akumatitza la Chloé i la transforma en la Reina Banana. Per fi pot convertir la vida real en la pel·lícula que hauria volgut, i l'Esfinx Fosc espera poder veure com derrota Ladybug i el Gat Noir. Però Ladybug dona el paper del prodigi de l'abella a una actriu nova i molt prometedora.</desc>
+    <length units="minutes">00:21:06</length>
   </programme>
-  <programme start="20261021225306 +0000" channel="tv3" stop="20261021234554 +0000">
-    <title lang="ca">La veritat sobre la dictadura de Franco</title>
-    <sub-title lang="ca">L'arribada al poder</sub-title>
-    <desc lang="ca">Els ecos de la tirania del cap d'estat feixista Francisco Franco, un dels dictadors més brutals de la història d'Europa, encara ressonen a Espanya. En aquest episodi s'expliquen els antecedents de la Guerra Civil Espanyola, l'esclat de la guerra, la intervenció estrangera i l'arribada de Franco al poder.</desc>
-    <length units="minutes">00:52:48</length>
+  <programme start="20261022041502 +0000" channel="sx3" stop="20261022042657 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La castanya màgica</sub-title>
+    <desc lang="ca">La Trufa troba una pedra molt brillant a la vora del riu. Quan l'ensenya a en Pinxo, ell es queda fascinat i la vol costi el que costi. Al final aconsegueix enredar la seva germana petita i l'hi canvia per una 'castanya màgica', que, segons ell, li concedirà tots els desitjos. Però la Trufa de seguida s'adona que la castanya no en té res, de màgica.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20261021234554 +0000" channel="tv3" stop="20261022011201 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Sergio &amp; Serguéi</sub-title>
-    <desc lang="ca">SERGIO &amp; SERGUÉIProductora: Mediapro en coproducció amb RTV Comercial i Instituto Cubano del Arte e Industria Cinematográficas. Compta amb la participació de Televisió de Catalunya, Paramaount Channel, Orange, Telecable, Movistar + i Vedado Films i el suport del Ministerio de Educación, Cultura y Deporte. Producció hispano-cubana. 2017Director: Ernesto Daranas.Guionista: Ernesto Daranas i Marta Isabel Daranas Serrano.Director de fotografia: Alejandro Menéndez Vega.Música: Michael Gutiérrez SánchezIntèrprets: Mario Guerra, Héctor Eduardo Suárez Noas (Héctor Noas), Tomàs Alejandro Cao Uriza.Sinopsi: Any 1991: l'antiga URSS es desintegra i Cuba entra en una gran crisi econòmica. Sergio, radioaficionat i professor de marxisme, no sap què fer per reorientar la seva vida i tirar endavant la seva família. Per la seva banda, en Serguéi, l'últim cosmonauta soviètic, es troba casi oblidat a l'avariada estació orbital Mir. Gràcies als seus equips de ràdio, Sergio i Serguéi es comuniquen i entre ells neix una amistat que els ajudarà a enfrontar-se als dramàtics canvis que transformaran els seus respectius països.</desc>
-    <length units="minutes">01:26:07</length>
+  <programme start="20261022034327 +0000" channel="tv3" stop="20261022043024 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Seguretat</sub-title>
+    <desc lang="ca">El filtre de seguretat és un dels punts clau de l'aeroport, una mena de romeria que no s'acaba mai i que ens atabala quan hem de viatjar. Els Mossos, la Policia Nacional i la Guàrdia Civil tenen delimitades les seves competències a l'aeroport. Quines són?</desc>
+    <length units="minutes">00:46:57</length>
+  </programme>
+  <programme start="20261022043024 +0000" channel="tv3" stop="20261022051630 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 3</sub-title>
+    <desc lang="ca">Arribar a tots els capítols de 'La Renaixença' pot ser complicat. Però sempre podeu mirar aquest recull de millors moments i decidir quin programa voleu veure sencer. Ara, nosaltres us recomanem que els mireu tots, que estan molt bé.</desc>
+    <length units="minutes">00:46:06</length>
   </programme>
 </tv>
