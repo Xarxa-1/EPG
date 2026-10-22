@@ -1,78 +1,81 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261022040000 +0000" channel="tvi" stop="20261022045958 +0000">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Chino &amp; The Big Bet</sub-title>
-    <desc lang="ca">Fa més d'una dècada que en Chino Que va arribar a Barcelona. En aquest temps s'ha fet un nom i s'ha convertit en una referència en l'escena del Blues i el Swing. Amb un directe fresc i energètic 'Chino i els Big Bet' proposen un Blues cru i contundent, inspirat en els primers passos del Blues elèctric. El trio està format per: Chino al Dobro i la veu, Rod Deville al contrabaix i Giggs Nother a la bateria.</desc>
-    <length units="minutes">00:59:58</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261022103005 +0000" channel="tvi" stop="20261022135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1834</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:55</length>
   </programme>
-  <programme start="20261022045958 +0000" channel="tvi" stop="20261022060000 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Albert Sanz Trio</sub-title>
-    <desc lang="ca">Avui entra a l'estudi el pianista Albert Sanz en format de trio, la formació ideal segons ell, per a investigar la melodia i el ritme i dur-los cap a un nou espai obert. Ve acompanyat de Masatochi Kamaguchi al contrabaix, i Javier Vercher al saxo, i la perfecta fusió de tots tres ens convida a un viatge capaç de transportar-nos a un món imaginari.</desc>
-    <length units="minutes">01:00:02</length>
+  <programme start="20261022135500 +0000" channel="tvi" stop="20261022143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7060</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261022010000 +0000" channel="324" stop="20261022060000 +0000">
+  <programme start="20261022120000 +0000" channel="324" stop="20261022135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11496</sub-title>
+    <sub-title lang="ca">11499</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261022060000 +0000" channel="324" stop="20261022080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11497</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261022135500 +0000" channel="324" stop="20261022143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7060</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261022024417 +0000" channel="esport3" stop="20261022042653 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Telekom / Champions League / J2</sub-title>
-    <desc lang="ca">El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
-    <length units="minutes">01:42:36</length>
+  <programme start="20261022112823 +0000" channel="esport3" stop="20261022130000 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="minutes">01:31:37</length>
   </programme>
-  <programme start="20261022042653 +0000" channel="esport3" stop="20261022060347 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
-    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra.</desc>
-    <length units="minutes">01:36:54</length>
+  <programme start="20261022130000 +0000" channel="esport3" stop="20261022140151 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3267</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:01:51</length>
   </programme>
-  <programme start="20261022035356 +0000" channel="sx3" stop="20261022041502 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">La reina Banana</sub-title>
-    <desc lang="ca">La Marinette ha dissenyat el vestuari d'una pel·lícula en què la Zoé, la mitja germana de la Chloé, interpreta el paper principal. Gelosa, la Chloé fa servir els seus contactes per robar la pel·lícula i fer que sigui com ella vol. Però els membres de l'equip de la pel·lícula, animats per la Marinette, es rebel·len contra la Chloé i acaben fent la pel·lícula sense ella. L'Esfinx Fosc akumatitza la Chloé i la transforma en la Reina Banana. Per fi pot convertir la vida real en la pel·lícula que hauria volgut, i l'Esfinx Fosc espera poder veure com derrota Ladybug i el Gat Noir. Però Ladybug dona el paper del prodigi de l'abella a una actriu nova i molt prometedora.</desc>
-    <length units="minutes">00:21:06</length>
+  <programme start="20261022122455 +0000" channel="sx3" stop="20261022124626 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els óssos polars no ballen</sub-title>
+    <desc lang="ca">En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!</desc>
+    <length units="minutes">00:21:31</length>
   </programme>
-  <programme start="20261022041502 +0000" channel="sx3" stop="20261022042657 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La castanya màgica</sub-title>
-    <desc lang="ca">La Trufa troba una pedra molt brillant a la vora del riu. Quan l'ensenya a en Pinxo, ell es queda fascinat i la vol costi el que costi. Al final aconsegueix enredar la seva germana petita i l'hi canvia per una 'castanya màgica', que, segons ell, li concedirà tots els desitjos. Però la Trufa de seguida s'adona que la castanya no en té res, de màgica.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20261022124626 +0000" channel="sx3" stop="20261022130835 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els castors constructors</sub-title>
+    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
+    <length units="minutes">00:22:09</length>
   </programme>
-  <programme start="20261022034327 +0000" channel="tv3" stop="20261022043024 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Seguretat</sub-title>
-    <desc lang="ca">El filtre de seguretat és un dels punts clau de l'aeroport, una mena de romeria que no s'acaba mai i que ens atabala quan hem de viatjar. Els Mossos, la Policia Nacional i la Guàrdia Civil tenen delimitades les seves competències a l'aeroport. Quines són?</desc>
-    <length units="minutes">00:46:57</length>
+  <programme start="20261022121420 +0000" channel="tv3" stop="20261022134813 +0000">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">Aquest dissabte, al nou capítol d''El gran gran dictat', el concurs de català presentat per l'Òscar Dalmau, competiran tres grans grans concursants. La Gemma Nierga, la presentadora de ràdio que es lleva més d'hora. El Lluís Llongueras, perruquer, creador d'estils i, segurament, l'home amb les mans més hàbils. I la Gisela, cantant i actriu, la culpable que mig Catalunya no es pugui treure del cap el 'Vol volar'.Aquests concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. La Gemma Nierga ens ensenyarà quin és el seu lloc preferit per fer entrevistes. El Lluís Llongueras ens explicarà com un dia va crear uns sostenidors amb els rínxols del Bisbal. I, per últim, la Gisela ens revelarà el seu truc d'estilisme més ben guardat.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
+    <length units="minutes">01:33:53</length>
   </programme>
-  <programme start="20261022043024 +0000" channel="tv3" stop="20261022051630 +0000">
+  <programme start="20261022134813 +0000" channel="tv3" stop="20261022143442 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 3</sub-title>
-    <desc lang="ca">Arribar a tots els capítols de 'La Renaixença' pot ser complicat. Però sempre podeu mirar aquest recull de millors moments i decidir quin programa voleu veure sencer. Ara, nosaltres us recomanem que els mireu tots, que estan molt bé.</desc>
-    <length units="minutes">00:46:06</length>
+    <sub-title lang="ca">La matrícula</sub-title>
+    <desc lang="ca">Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.</desc>
+    <length units="minutes">00:46:29</length>
+  </programme>
+  <programme start="20261022085930 +0000" channel="tv3" stop="20261022130925 +0000">
+    <title lang="ca">Ple del Parlament</title>
+    <sub-title lang="ca">4185</sub-title>
+    <length units="minutes">04:09:55</length>
   </programme>
 </tv>
