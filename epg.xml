@@ -1,81 +1,83 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261022103005 +0000" channel="tvi" stop="20261022135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1834</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:55</length>
+  <programme start="20261022172745 +0000" channel="tvi" stop="20261022191154 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">435</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:44:09</length>
   </programme>
-  <programme start="20261022135500 +0000" channel="tvi" stop="20261022143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7060</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261022191154 +0000" channel="tvi" stop="20261022201500 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">949</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:03:06</length>
   </programme>
-  <programme start="20261022120000 +0000" channel="324" stop="20261022135500 +0000">
+  <programme start="20261022170000 +0000" channel="324" stop="20261022183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11499</sub-title>
+    <sub-title lang="ca">11501</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261022135500 +0000" channel="324" stop="20261022143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7060</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261022183000 +0000" channel="324" stop="20261022200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11502</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261022112823 +0000" channel="esport3" stop="20261022130000 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="minutes">01:31:37</length>
-  </programme>
-  <programme start="20261022130000 +0000" channel="esport3" stop="20261022140151 +0000">
+  <programme start="20261022172409 +0000" channel="esport3" stop="20261022182500 +0000">
     <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3267</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:51</length>
+    <sub-title lang="ca">Les crítiques d'Enric Masip, Sergi Barjuan, Dika Mem, NBA i tertúlia</sub-title>
+    <desc lang="ca">Enric Masip carrega contra el Reial Madrid tres dies abans del clàssic. Els blancs arribaran al Camp Nou després de golejar el Leipzig. Entrevistem l'exjugador del Barça Sergi Barjuan. Mireia Vicente amb Dika Mem abans del Barça-Montpeller. L'NBA amb Jordi de Mas, 'Històries del futbol' amb Marc Mayola i tertúlia. Ens acompanyen Arancha Rodríguez, Edgar Fornós i Joanjo Pallàs.</desc>
+    <length units="minutes">01:00:51</length>
   </programme>
-  <programme start="20261022122455 +0000" channel="sx3" stop="20261022124626 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els óssos polars no ballen</sub-title>
-    <desc lang="ca">En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!</desc>
-    <length units="minutes">00:21:31</length>
+  <programme start="20261022182500 +0000" channel="esport3" stop="20261022203000 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">BC Montana-Spar Girona / Eurocup / J2</sub-title>
+    <desc lang="ca">Després de guanyar amb contundència en l'estrena a casa, 77-49 contra l'Ostrava, les gironines juguen el primer partit com a visitants a la pista del conjunt búlgar.</desc>
+    <length units="minutes">02:05:00</length>
   </programme>
-  <programme start="20261022124626 +0000" channel="sx3" stop="20261022130835 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els castors constructors</sub-title>
-    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
-    <length units="minutes">00:22:09</length>
+  <programme start="20261022181135 +0000" channel="sx3" stop="20261022182208 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Marina: La Patrula salva la Tilly Turbot</sub-title>
+    <desc lang="ca">La Tilly, l'àvia del capità Turbot i en François, se'n va mar endins dalt d'un dofí i la Patrulla l'ha de rescatar.</desc>
+    <length units="minutes">00:10:33</length>
   </programme>
-  <programme start="20261022121420 +0000" channel="tv3" stop="20261022134813 +0000">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">Aquest dissabte, al nou capítol d''El gran gran dictat', el concurs de català presentat per l'Òscar Dalmau, competiran tres grans grans concursants. La Gemma Nierga, la presentadora de ràdio que es lleva més d'hora. El Lluís Llongueras, perruquer, creador d'estils i, segurament, l'home amb les mans més hàbils. I la Gisela, cantant i actriu, la culpable que mig Catalunya no es pugui treure del cap el 'Vol volar'.Aquests concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. La Gemma Nierga ens ensenyarà quin és el seu lloc preferit per fer entrevistes. El Lluís Llongueras ens explicarà com un dia va crear uns sostenidors amb els rínxols del Bisbal. I, per últim, la Gisela ens revelarà el seu truc d'estilisme més ben guardat.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
-    <length units="minutes">01:33:53</length>
+  <programme start="20261022182208 +0000" channel="sx3" stop="20261022183241 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva un elefant alterat</sub-title>
+    <desc lang="ca">En Carlos i en Tracker truquen a la Patrulla Peluda perquè els ajudi a resoldre el misteri d'un soroll que posa nerviosos els elefants de la selva.</desc>
+    <length units="minutes">00:10:33</length>
   </programme>
-  <programme start="20261022134813 +0000" channel="tv3" stop="20261022143442 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La matrícula</sub-title>
-    <desc lang="ca">Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.</desc>
-    <length units="minutes">00:46:29</length>
+  <programme start="20261022180919 +0000" channel="tv3" stop="20261022190819 +0000">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.</desc>
+    <length units="minutes">00:59:00</length>
   </programme>
-  <programme start="20261022085930 +0000" channel="tv3" stop="20261022130925 +0000">
+  <programme start="20261022190819 +0000" channel="tv3" stop="20261022200719 +0000">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Turquía</sub-title>
+    <desc lang="ca">Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
+    <length units="minutes">00:59:00</length>
+  </programme>
+  <programme start="20261022152950 +0000" channel="tv3" stop="20261022175945 +0000">
     <title lang="ca">Ple del Parlament</title>
-    <sub-title lang="ca">4185</sub-title>
-    <length units="minutes">04:09:55</length>
+    <sub-title lang="ca">4186</sub-title>
+    <length units="minutes">02:29:55</length>
   </programme>
 </tv>
