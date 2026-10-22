@@ -1,83 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20261022172745 +0000" channel="tvi" stop="20261022191154 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">435</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:44:09</length>
+  <programme start="20261022224554 +0000" channel="tvi" stop="20261022232815 +0000">
+    <title lang="ca">APM?</title>
+    <sub-title lang="ca">883</sub-title>
+    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' l'artista mallorquina Maria Hein. Parlaran de la seva nova etapa minimalista, de les dificultats d'anar a manifestacions antituristes amb pinta d'alemanya… i de com és estar banyant-te i que et caiguin al damunt les cendres d'un difunt. Hi ha gent que entra a l'aigua per refrescar-se i en surt amb una història per explicar al Joel.Mentrestant, Nerea Sanfe segueix 'On falla!' amb els reportatges que ens proposeu per Instagram. Aquest cop ha anat a l'acampada per l'habitatge de la plaça de Catalunya de Barcelona. Una oportunitat única de viure al centre sense que una immobiliària et demani les tres últimes nòmines i un òrgan vital. Entre tendes i reivindicacions, parlarà amb els acampats sobre com de difícil s'ha tornat trobar un sostre.I a més, prepararem el Clàssic amb 'Els venjadors: Classic Day': Mourinho serà Doom, Flick agafarà l'escut de Capità Amèrica i Lamine Yamal farà de Thor. Que algú avisi el VAR, perquè jugar amb un martell potser és falta. També donarem consells sobre el vot útil i descobrirem el rànquing dels millors manifestants de França. #APM3CAT</desc>
+    <length units="minutes">00:42:21</length>
   </programme>
-  <programme start="20261022191154 +0000" channel="tvi" stop="20261022201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">949</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:03:06</length>
+  <programme start="20261022232815 +0000" channel="tvi" stop="20261023001101 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Herència o codemna? Amb Josep Maria Miró i Marc Tarrida Aribau</sub-title>
+    <desc lang="ca">Les històries personals, les penes i les alegries es poden heretar? Ens podem deslliurar de la tradició? Parlem d'herències i llegats amb motiu de l'èxit de l'obra 'El cadell', del dramaturg i director Josep Maria Miró. Conversem amb ell i amb un dels protagonistes, l'actor Marc Tarrida. De cadells, fills de o nepobabies també en va plena la indústria del cinema. Ens ho explica Mariona Borrull. Fem safareig cultural amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del festival Serielizados, triem les perles del festival In-Èdit i acabem amb un retrat sobre rodes del cineasta Isaki Lacuesta.</desc>
+    <length units="minutes">00:42:46</length>
   </programme>
-  <programme start="20261022170000 +0000" channel="324" stop="20261022183000 +0000">
+  <programme start="20261022220500 +0000" channel="324" stop="20261023000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2185</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20261023000000 +0000" channel="324" stop="20261023003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11501</sub-title>
+    <sub-title lang="ca">11504</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261022183000 +0000" channel="324" stop="20261022200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11502</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261022230005 +0000" channel="esport3" stop="20261023003056 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:30:51</length>
   </programme>
-  <programme start="20261022172409 +0000" channel="esport3" stop="20261022182500 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Les crítiques d'Enric Masip, Sergi Barjuan, Dika Mem, NBA i tertúlia</sub-title>
-    <desc lang="ca">Enric Masip carrega contra el Reial Madrid tres dies abans del clàssic. Els blancs arribaran al Camp Nou després de golejar el Leipzig. Entrevistem l'exjugador del Barça Sergi Barjuan. Mireia Vicente amb Dika Mem abans del Barça-Montpeller. L'NBA amb Jordi de Mas, 'Històries del futbol' amb Marc Mayola i tertúlia. Ens acompanyen Arancha Rodríguez, Edgar Fornós i Joanjo Pallàs.</desc>
-    <length units="minutes">01:00:51</length>
+  <programme start="20261023003056 +0000" channel="esport3" stop="20261023005138 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5546</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:42</length>
   </programme>
-  <programme start="20261022182500 +0000" channel="esport3" stop="20261022203000 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">BC Montana-Spar Girona / Eurocup / J2</sub-title>
-    <desc lang="ca">Després de guanyar amb contundència en l'estrena a casa, 77-49 contra l'Ostrava, les gironines juguen el primer partit com a visitants a la pista del conjunt búlgar.</desc>
-    <length units="minutes">02:05:00</length>
+  <programme start="20261022224249 +0000" channel="sx3" stop="20261022230224 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La detectiva adolescent Sonoko Suzuki</sub-title>
+    <desc lang="ca">En Conan, la Ran i la Sonoko aprofiten que fa una nit esplèndida i van a veure les estrelles al parc. La Sonoko, des de dalt del tobogan, mira l'estrella polar amb uns prismàtics i, quan abaixa el cap, li sembla veure algú enterrant un cadàver en un jardí. Els tres amics s'afanyen a buscar el lloc on sembla que es pot haver comès un assassinat, però, un cop allà, no hi ha cap indici que hi hagi passat res. Pot ser que tot plegat hagin sigut imaginacions de la Sonoko?</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20261022181135 +0000" channel="sx3" stop="20261022182208 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Marina: La Patrula salva la Tilly Turbot</sub-title>
-    <desc lang="ca">La Tilly, l'àvia del capità Turbot i en François, se'n va mar endins dalt d'un dofí i la Patrulla l'ha de rescatar.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261022230224 +0000" channel="sx3" stop="20261022232316 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El torneig de kendo de l'amor i el misteri (1a part)</sub-title>
+    <desc lang="ca">La Ran i en Conan van a animar el seu amic Heiji Hattori al campionat nacional de kendo per a estudiants de secundària. A la pausa, decideixen anar a menjar alguna cosa per dinar, però abans han de fer una parada al lavabo. Els que tenen més a prop estan plens i decideixen anar a uns altres que estan una mica més amagats. Però, abans d'arribar-hi, es troben un àrbitre del torneig assassinat. Algú li ha tallat el coll.</desc>
+    <length units="minutes">00:20:52</length>
   </programme>
-  <programme start="20261022182208 +0000" channel="sx3" stop="20261022183241 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un elefant alterat</sub-title>
-    <desc lang="ca">En Carlos i en Tracker truquen a la Patrulla Peluda perquè els ajudi a resoldre el misteri d'un soroll que posa nerviosos els elefants de la selva.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261022221242 +0000" channel="tv3" stop="20261022230239 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Els esclops</sub-title>
+    <desc lang="ca">Els esclops, molts de vosaltres no n'haureu vist mai cap, d'esclops. Potser la gent més jove (o de ciutat) no saben ni de què estem parlant. Els nanos de pagès no som els més arriats amb les noves tecnologies, però sabem per què serveixen els esclops, i us sabem diferenciar una aixada d'un aixadell. També ens visita en Josep Espigulé, educador ambiental, així que pareu bé les orelles! Per acabar el programa a dalt de tot, avui passegem el gos un altre cop per Boston, durant una gran inundació!</desc>
+    <length units="minutes">00:49:57</length>
   </programme>
-  <programme start="20261022180919 +0000" channel="tv3" stop="20261022190819 +0000">
-    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Grècia</sub-title>
-    <desc lang="ca">El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.</desc>
-    <length units="minutes">00:59:00</length>
-  </programme>
-  <programme start="20261022190819 +0000" channel="tv3" stop="20261022200719 +0000">
-    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Turquía</sub-title>
-    <desc lang="ca">Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
-    <length units="minutes">00:59:00</length>
-  </programme>
-  <programme start="20261022152950 +0000" channel="tv3" stop="20261022175945 +0000">
-    <title lang="ca">Ple del Parlament</title>
-    <sub-title lang="ca">4186</sub-title>
-    <length units="minutes">02:29:55</length>
+  <programme start="20261022230239 +0000" channel="tv3" stop="20261022233944 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Herència o codemna? Amb Josep Maria Miró i Marc Tarrida Aribau</sub-title>
+    <desc lang="ca">Les històries personals, les penes i les alegries es poden heretar? Ens podem deslliurar de la tradició? Parlem d'herències i llegats amb motiu de l'èxit de l'obra 'El cadell', del dramaturg i director Josep Maria Miró. Conversem amb ell i amb un dels protagonistes, l'actor Marc Tarrida. De cadells, fills de o nepobabies també en va plena la indústria del cinema. Ens ho explica Mariona Borrull. Fem safareig cultural amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del festival Serielizados, triem les perles del festival In-Èdit i acabem amb un retrat sobre rodes del cineasta Isaki Lacuesta.</desc>
+    <length units="minutes">00:37:05</length>
   </programme>
 </tv>
