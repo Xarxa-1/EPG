@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
@@ -12,67 +12,73 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261023172830 +0000" channel="tvi" stop="20261023191053 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">436</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:42:23</length>
+  <programme start="20261023223007 +0000" channel="tvi" stop="20261023234244 +0000">
+    <title lang="ca">La Puntual</title>
+    <sub-title lang="ca">La Puntual: Tot acaba</sub-title>
+    <desc lang="ca">Després d'unes setmanes d'assaig, els actors arriben per fi al teatre de LaFaràndula de Sabadell, on hauran de continuar fent feina per estrenar 'L'auca del senyor Esteve'. La posada en escena va prenent cos i per primera vegada els actors assajaran ambl'escenografia ja muntada. També provaran el vestuari i el maquillatge. Com és habitual, tindrem una visita molt especial, aquest cop es tracta de Clara Segura i Carlos Cuevas.</desc>
+    <length units="minutes">01:12:37</length>
   </programme>
-  <programme start="20261023191053 +0000" channel="tvi" stop="20261023201403 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">950</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:03:10</length>
+  <programme start="20261023234244 +0000" channel="tvi" stop="20261024000010 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Sis nadals i un cap d'any</sub-title>
+    <desc lang="ca">Els MARCIANS també celebren el Nadal. I ho fan amb mitja dotzena de poemes nadalencs i un de cap d'any. El jove rapsode Arnau Baulenas, amb un 80 % de discapacitat, recita poemes nadalencs de Miquel Martí i Pol i Montse Asens en un exemple d'integració mitjançant la cultura. El traductor Josep Maria Jaumà recita una versió pròpia del poema 'Els bous', Tomàs Hardy, i la dragqueen Crossandra Brahms (alter ego del cantant, actor i director Pol Blancafort) recita Narcís Comadira. Els poetes Montse Maestre, Vicenç Ambròs i Aina Torras reciten els seus propis poemes nadalencs. Clou el programa la petita rapsode de set anys Helena Velat, recitant el vers de Nadal enfilada a la cadira. Un bon Nadal ben cultural us desitgen els MARCIANS!</desc>
+    <length units="minutes">00:17:26</length>
   </programme>
-  <programme start="20261023170000 +0000" channel="324" stop="20261023183000 +0000">
+  <programme start="20261023220500 +0000" channel="324" stop="20261023233000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2186</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:25:00</length>
+  </programme>
+  <programme start="20261023233000 +0000" channel="324" stop="20261024003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11510</sub-title>
+    <sub-title lang="ca">11513</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261023183000 +0000" channel="324" stop="20261023200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11511</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261023210729 +0000" channel="esport3" stop="20261023232241 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Europa-R. Saragossa / Primera Federació / J9</sub-title>
+    <desc lang="ca">Tot un repte per al conjunt de Gràcia que rep, a Can Dragó, un històric del futbol estatal. Els aragonesos, colíders a la classificació, són els grans favorits per l'ascens a la Segona Divisió.</desc>
+    <length units="minutes">02:15:12</length>
   </programme>
-  <programme start="20261023175200 +0000" channel="esport3" stop="20261023180531 +0000">
-    <title lang="ca">Zona UFEC</title>
-    <sub-title lang="ca">712</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:13:31</length>
+  <programme start="20261023232241 +0000" channel="esport3" stop="20261024005336 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
+    <length units="minutes">01:30:55</length>
   </programme>
-  <programme start="20261023180531 +0000" channel="esport3" stop="20261023185631 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Reial Madrid-Barça Atlètic / Lliga U / J5</sub-title>
-    <desc lang="ca">Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.</desc>
-    <length units="minutes">00:51:00</length>
+  <programme start="20261023222235 +0000" channel="sx3" stop="20261023224401 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El torneig de kendo de l'amor i el misteri (2a part)</sub-title>
+    <desc lang="ca">La Ran i en Conan han trobat un dels àrbitres del campionat de kendo assassinat a prop dels lavabos del pavelló. Hi ha un testimoni cec que assegura que només tres persones han passat per allà al davant després de l'assassinat i que totes tres han entrat als lavabos i encara no n'han sortit. Els presumptes culpables, per tant, són tots allà. Només cal saber qui és l'assassí, i en Heiji i en Soshi Okita rivalitzaran per descobrir-ho.</desc>
+    <length units="minutes">00:21:26</length>
   </programme>
-  <programme start="20261023175535 +0000" channel="sx3" stop="20261023180646 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla i el misteri de vehicle eruga sense conductor</sub-title>
-    <desc lang="ca">En Danny l'Audaç té un nou comandament a distància que pren el control del vehicle eruga de l'Everest i de tots els vehicles de Badia Aventures!</desc>
-    <length units="minutes">00:11:11</length>
+  <programme start="20261023224401 +0000" channel="sx3" stop="20261023230336 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La gran persecució de la patrulla de trànsit</sub-title>
+    <desc lang="ca">Els nois van a la fira gastronòmica que organitza un centre comercial i un parell d'homes misteriosos segresten en Genta. Per sort, la Yumi i la Naeko passen per allà al davant just quan surt la furgoneta que s'emporta en Genta i es posen a perseguir els segrestadors amb l'ajuda d'en Conan i companyia. Els hauran d'atrapar de seguida, perquè els dos homes tenen intenció de treure's el pobre Genta de sobre.</desc>
+    <length units="minutes">00:19:35</length>
   </programme>
-  <programme start="20261023180646 +0000" channel="sx3" stop="20261023181719 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva els nens de Halloween</sub-title>
-    <desc lang="ca">Per Halloween, un nen misteriós disfressat d'aranya gegant s'endú tots els caramels de Badia Aventures!</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261023220113 +0000" channel="tv3" stop="20261023225210 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 8</sub-title>
+    <desc lang="ca">Aquesta setmana hem parlat de la ronyonera, de la campana extractora, del sofà i dels esclops. Estem segurs que, com a mínim, dues d'aquestes coses les tens a casa teva. També ens visiten en Francesc Garriga, l'Imma Roquet, en Josep Espigulé, i un grup del qual segur que coneixes alguna cançó: La Pegatina. La veritat és que han quedat uns programes tan ben parits, que ens fa preguntar com és possible que escoltar el nostre programa no sigui de pagament.</desc>
+    <length units="minutes">00:50:57</length>
   </programme>
-  <programme start="20261023174742 +0000" channel="tv3" stop="20261023180927 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Cosmètica contra el temps</sub-title>
-    <desc lang="ca">'Quèquicom' provarà els efectes dels productes cosmètics en la lluita contra el temps, amb diversos exemples sota el títol genèric 'Cosmètica contra el temps'.La reportera Anna Lasaga prova una crema antiarrugues d'última generació que s'ha formulat al Parc Científic de Barcelona i que Infinitec, una empresa d'investigació cosmètica del Parc, ha desenvolupat, a través d'un principi actiu que estimula la producció de col·lagen. Durant un mes, Anna Lasaga s'ha aplicat aquesta crema, que encara té un cost molt elevat perquè fa servir l'or com a vehicle per penetrar a la pell, per provar científicament si efectivament li disminueixen les arrugues, les potes de gall. La reportera pregunta a especialistes si realment hi ha diferència entre les cremes segons el preu. El programa de ciència del 33 explica també com es combaten les taques de l'edat. Perquè, a més d'arrugues, amb els anys surten també taques a la pell, que es poden fer desaparèixer amb un làser específic. La doctora especialista Montse Serra l'aplica a la pell de la reportera per mostrar com amb aquesta tecnologia es poden cremar les capes més internes de l'epidermis, sense afectar la part més extensa. Així es recupera la pigmentació original de la zona. En qualsevol cas, tothom aconsella protecció solar i una bona hidratació. I això és el que explica, des del plató, Marc Boada: com actuen les cremes hidratants i què es pot fer per tenir una pell ben hidratada. Marc Boada explica també com funcionen les tovalloletes autobrozejadores, que tenen una substància que reacciona químicament amb el mantell àcid gras de la pell i l'enfosqueix, però que no ofereixen cap protecció contra el sol.</desc>
-    <length units="minutes">00:21:45</length>
+  <programme start="20261023225210 +0000" channel="tv3" stop="20261023233813 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Terres de l'Ebre</sub-title>
+    <desc lang="ca">Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.</desc>
+    <length units="minutes">00:46:03</length>
   </programme>
-  <programme start="20261023180927 +0000" channel="tv3" stop="20261023191237 +0000">
-    <title lang="ca">L'Hospitalet, simfonia d'una ciutat</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">'L'Hospitalet, simfonia d'una ciutat' (2022 ), una producció de Frame Zero en coproducció ambTelevisió de Catalunya, la col·laboració de l'Ajuntament de l'Hospitalet de Llobregat i el suport de l'ICEC.A l'Hospitalet de Llobregat, comissaris internacionals dels anomenats 'districtes culturals', agents immobiliaris, urbanistes de l'Ajuntament, gestors culturals i comissaris d'art han col·laborat per dibuixar el 'mapa' d'una ciutat en plena transformació que viu amb esperança el soterrament de les vies del tren que parteixen la ciutat en dues i la conversió de les antigues fàbriques en un clúster cultural.Equip:Direcció: Joan López LloretGuió: Joan López Lloret / Meritxell Collazos SolàRealització: Joan López LloretProductor: Cristina Gironès i SalvóProductor executiu TVC: Jordi Ambrós HortensiProductor delegat TVC: Daniel BareaDirector fotografia: Joan López LloretMuntatge:Meritxell Collazos SolàDirector de producció: Cristina Gironès i Salvó / Elisabeth Puyoles BellanderMúsica: Rodolfo VenegasLingüista: Ignasi OliverGrafisme: Gerard Morrón Lingl</desc>
-    <length units="minutes">01:03:10</length>
+  <programme start="20261023205459 +0000" channel="tv3" stop="20261023224454 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- CP Fraga-Telecable HC / Supercopa d'Espanya / 2a semifinal</sub-title>
+    <desc lang="ca">L'Esneca Fraga i el Telecable Gijón juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.</desc>
+    <length units="minutes">01:49:55</length>
   </programme>
 </tv>
