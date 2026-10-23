@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -15,62 +15,64 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261023103128 +0000" channel="tvi" stop="20261023135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1835</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:23:32</length>
+  <programme start="20261023172830 +0000" channel="tvi" stop="20261023191053 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">436</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:42:23</length>
   </programme>
-  <programme start="20261023135500 +0000" channel="tvi" stop="20261023143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7061</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261023191053 +0000" channel="tvi" stop="20261023201403 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">950</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:03:10</length>
   </programme>
-  <programme start="20261023120000 +0000" channel="324" stop="20261023135500 +0000">
+  <programme start="20261023170000 +0000" channel="324" stop="20261023183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11508</sub-title>
+    <sub-title lang="ca">11510</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261023135500 +0000" channel="324" stop="20261023143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7061</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261023183000 +0000" channel="324" stop="20261023200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11511</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261023112805 +0000" channel="esport3" stop="20261023130000 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <length units="minutes">01:31:55</length>
+  <programme start="20261023175200 +0000" channel="esport3" stop="20261023180531 +0000">
+    <title lang="ca">Zona UFEC</title>
+    <sub-title lang="ca">712</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:13:31</length>
   </programme>
-  <programme start="20261023130000 +0000" channel="esport3" stop="20261023140124 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Lamine contra Mbappé, Manolo González, Harriet Kjaer i tertúlia</sub-title>
-    <desc lang="ca">Lamine Yamal i Kylian Mbappé arriben endollats al clàssic. En parlem amb l'Àlex Delmàs. Manolo González abans del Racing-Espanyol de demà dissabte. Entrevistem Harriet Kjaer, guanyadora de la Trail Cat The Race. A la tertúlia ens acompanyen Nacho Peña, Iris Miquel i David Sánchez.</desc>
-    <length units="minutes">01:01:24</length>
+  <programme start="20261023180531 +0000" channel="esport3" stop="20261023185631 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Reial Madrid-Barça Atlètic / Lliga U / J5</sub-title>
+    <desc lang="ca">Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.</desc>
+    <length units="minutes">00:51:00</length>
   </programme>
-  <programme start="20261023123356 +0000" channel="sx3" stop="20261023125559 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A la recerca de la perca</sub-title>
-    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
-    <length units="minutes">00:22:03</length>
+  <programme start="20261023175535 +0000" channel="sx3" stop="20261023180646 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla i el misteri de vehicle eruga sense conductor</sub-title>
+    <desc lang="ca">En Danny l'Audaç té un nou comandament a distància que pren el control del vehicle eruga de l'Everest i de tots els vehicles de Badia Aventures!</desc>
+    <length units="minutes">00:11:11</length>
   </programme>
-  <programme start="20261023125559 +0000" channel="sx3" stop="20261023131725 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El torneig de kendo de l'amor i el misteri (2a part)</sub-title>
-    <desc lang="ca">La Ran i en Conan han trobat un dels àrbitres del campionat de kendo assassinat a prop dels lavabos del pavelló. Hi ha un testimoni cec que assegura que només tres persones han passat per allà al davant després de l'assassinat i que totes tres han entrat als lavabos i encara no n'han sortit. Els presumptes culpables, per tant, són tots allà. Només cal saber qui és l'assassí, i en Heiji i en Soshi Okita rivalitzaran per descobrir-ho.</desc>
-    <length units="minutes">00:21:26</length>
+  <programme start="20261023180646 +0000" channel="sx3" stop="20261023181719 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva els nens de Halloween</sub-title>
+    <desc lang="ca">Per Halloween, un nen misteriós disfressat d'aranya gegant s'endú tots els caramels de Badia Aventures!</desc>
+    <length units="minutes">00:10:33</length>
   </programme>
-  <programme start="20261023122541 +0000" channel="tv3" stop="20261023140041 +0000">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">Aquest dissabte, seuran a la taula d''El gran gran dictat' tres grans grans concursants disposats a guanyar i a passar una bona estona amb l'Òscar Dalmau. L'Ona Carbonell, la concursant més sincronitzada que ha vingut fins ara. El David Balaguer, periodista i periquito. I l'Amparo Moreno, actriu polifacètica que tant te la pots trobar en una telenovel·la com fent de vedet a El Molino.Aquests tres concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. L'Ona Carbonell ballarà molt sincronitzadament la melodia d''El gran dictat'. El David Balaguer ens ensenyarà a preparar un dels còctels més estrambòtics que ens podríem trobar: 'l'escopinya colada'. I, per últim, descobrirem quina és l'addicció més inconfessable de l'Amparo Moreno.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
-    <length units="minutes">01:35:00</length>
+  <programme start="20261023174742 +0000" channel="tv3" stop="20261023180927 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Cosmètica contra el temps</sub-title>
+    <desc lang="ca">'Quèquicom' provarà els efectes dels productes cosmètics en la lluita contra el temps, amb diversos exemples sota el títol genèric 'Cosmètica contra el temps'.La reportera Anna Lasaga prova una crema antiarrugues d'última generació que s'ha formulat al Parc Científic de Barcelona i que Infinitec, una empresa d'investigació cosmètica del Parc, ha desenvolupat, a través d'un principi actiu que estimula la producció de col·lagen. Durant un mes, Anna Lasaga s'ha aplicat aquesta crema, que encara té un cost molt elevat perquè fa servir l'or com a vehicle per penetrar a la pell, per provar científicament si efectivament li disminueixen les arrugues, les potes de gall. La reportera pregunta a especialistes si realment hi ha diferència entre les cremes segons el preu. El programa de ciència del 33 explica també com es combaten les taques de l'edat. Perquè, a més d'arrugues, amb els anys surten també taques a la pell, que es poden fer desaparèixer amb un làser específic. La doctora especialista Montse Serra l'aplica a la pell de la reportera per mostrar com amb aquesta tecnologia es poden cremar les capes més internes de l'epidermis, sense afectar la part més extensa. Així es recupera la pigmentació original de la zona. En qualsevol cas, tothom aconsella protecció solar i una bona hidratació. I això és el que explica, des del plató, Marc Boada: com actuen les cremes hidratants i què es pot fer per tenir una pell ben hidratada. Marc Boada explica també com funcionen les tovalloletes autobrozejadores, que tenen una substància que reacciona químicament amb el mantell àcid gras de la pell i l'enfosqueix, però que no ofereixen cap protecció contra el sol.</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20261023140041 +0000" channel="tv3" stop="20261023144715 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El vàter</sub-title>
-    <desc lang="ca">Quantes hores podem passar asseguts a la tassa del vàter al llarg de la vida? I no volem dir que siguin hores desaprofitades, tot el contrari, sovint hi passem més temps del qual ens fa falta perquè... confessem-ho: tots ens hi emportem el mòbil. Rebem la visita de Sandra Ànima, una facialista que, com el nom indica, no ens llegirà el palmell de la mà, sinó la cara! Sabem posar cara de pòquer? A 'Històries per passejar el gos' anem amb la Guida, d'Olesa de Montserrat, fins a la guerra freda i el cas Roswell, el 1947.</desc>
-    <length units="minutes">00:46:34</length>
+  <programme start="20261023180927 +0000" channel="tv3" stop="20261023191237 +0000">
+    <title lang="ca">L'Hospitalet, simfonia d'una ciutat</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">'L'Hospitalet, simfonia d'una ciutat' (2022 ), una producció de Frame Zero en coproducció ambTelevisió de Catalunya, la col·laboració de l'Ajuntament de l'Hospitalet de Llobregat i el suport de l'ICEC.A l'Hospitalet de Llobregat, comissaris internacionals dels anomenats 'districtes culturals', agents immobiliaris, urbanistes de l'Ajuntament, gestors culturals i comissaris d'art han col·laborat per dibuixar el 'mapa' d'una ciutat en plena transformació que viu amb esperança el soterrament de les vies del tren que parteixen la ciutat en dues i la conversió de les antigues fàbriques en un clúster cultural.Equip:Direcció: Joan López LloretGuió: Joan López Lloret / Meritxell Collazos SolàRealització: Joan López LloretProductor: Cristina Gironès i SalvóProductor executiu TVC: Jordi Ambrós HortensiProductor delegat TVC: Daniel BareaDirector fotografia: Joan López LloretMuntatge:Meritxell Collazos SolàDirector de producció: Cristina Gironès i Salvó / Elisabeth Puyoles BellanderMúsica: Rodolfo VenegasLingüista: Ignasi OliverGrafisme: Gerard Morrón Lingl</desc>
+    <length units="minutes">01:03:10</length>
   </programme>
 </tv>
