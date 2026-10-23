@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20261022224554 +0000" channel="tvi" stop="20261022232815 +0000">
-    <title lang="ca">APM?</title>
-    <sub-title lang="ca">883</sub-title>
-    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' l'artista mallorquina Maria Hein. Parlaran de la seva nova etapa minimalista, de les dificultats d'anar a manifestacions antituristes amb pinta d'alemanya… i de com és estar banyant-te i que et caiguin al damunt les cendres d'un difunt. Hi ha gent que entra a l'aigua per refrescar-se i en surt amb una història per explicar al Joel.Mentrestant, Nerea Sanfe segueix 'On falla!' amb els reportatges que ens proposeu per Instagram. Aquest cop ha anat a l'acampada per l'habitatge de la plaça de Catalunya de Barcelona. Una oportunitat única de viure al centre sense que una immobiliària et demani les tres últimes nòmines i un òrgan vital. Entre tendes i reivindicacions, parlarà amb els acampats sobre com de difícil s'ha tornat trobar un sostre.I a més, prepararem el Clàssic amb 'Els venjadors: Classic Day': Mourinho serà Doom, Flick agafarà l'escut de Capità Amèrica i Lamine Yamal farà de Thor. Que algú avisi el VAR, perquè jugar amb un martell potser és falta. També donarem consells sobre el vot útil i descobrirem el rànquing dels millors manifestants de França. #APM3CAT</desc>
-    <length units="minutes">00:42:21</length>
+  <programme start="20261023040000 +0000" channel="tvi" stop="20261023044424 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">A Contrablues</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:44:24</length>
   </programme>
-  <programme start="20261022232815 +0000" channel="tvi" stop="20261023001101 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Herència o codemna? Amb Josep Maria Miró i Marc Tarrida Aribau</sub-title>
-    <desc lang="ca">Les històries personals, les penes i les alegries es poden heretar? Ens podem deslliurar de la tradició? Parlem d'herències i llegats amb motiu de l'èxit de l'obra 'El cadell', del dramaturg i director Josep Maria Miró. Conversem amb ell i amb un dels protagonistes, l'actor Marc Tarrida. De cadells, fills de o nepobabies també en va plena la indústria del cinema. Ens ho explica Mariona Borrull. Fem safareig cultural amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del festival Serielizados, triem les perles del festival In-Èdit i acabem amb un retrat sobre rodes del cineasta Isaki Lacuesta.</desc>
-    <length units="minutes">00:42:46</length>
+  <programme start="20261023044424 +0000" channel="tvi" stop="20261023054424 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Jon Robles Group</sub-title>
+    <desc lang="ca">El saxofonista basc-andalús Jon Robles ens ofereix tot el seu talent compositiu i virtuosisme interpretatiu acompanyat-se aquest cop de grans músics i amics amb els quals la complicitat es reflexa a cada instant. Dee Jay Foster al contrabaix, Ramón Angel Rey a la bateria, Dani Pérez a la guitarra, i la clarinetista Georgina Calvo.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261022220500 +0000" channel="324" stop="20261023000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2185</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261023000000 +0000" channel="324" stop="20261023003000 +0000">
+  <programme start="20261023010000 +0000" channel="324" stop="20261023060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11504</sub-title>
+    <sub-title lang="ca">11505</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261022230005 +0000" channel="esport3" stop="20261023003056 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <length units="minutes">01:30:51</length>
+  <programme start="20261023060000 +0000" channel="324" stop="20261023080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11506</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261023003056 +0000" channel="esport3" stop="20261023005138 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5546</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:42</length>
+  <programme start="20261023041001 +0000" channel="esport3" stop="20261023045743 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">- L'HOME MÉS FORT DEL MÓN GIANTS LIVE 1: BRITAIN'S STRONGEST MAN</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:47:42</length>
   </programme>
-  <programme start="20261022224249 +0000" channel="sx3" stop="20261022230224 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La detectiva adolescent Sonoko Suzuki</sub-title>
-    <desc lang="ca">En Conan, la Ran i la Sonoko aprofiten que fa una nit esplèndida i van a veure les estrelles al parc. La Sonoko, des de dalt del tobogan, mira l'estrella polar amb uns prismàtics i, quan abaixa el cap, li sembla veure algú enterrant un cadàver en un jardí. Els tres amics s'afanyen a buscar el lloc on sembla que es pot haver comès un assassinat, però, un cop allà, no hi ha cap indici que hi hagi passat res. Pot ser que tot plegat hagin sigut imaginacions de la Sonoko?</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20261023045743 +0000" channel="esport3" stop="20261023060624 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">- L'HOME MÉS FORT DEL MÓN GIANTS LIVE 2: EUROPE'S STRONGEST MAN</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">01:08:41</length>
   </programme>
-  <programme start="20261022230224 +0000" channel="sx3" stop="20261022232316 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El torneig de kendo de l'amor i el misteri (1a part)</sub-title>
-    <desc lang="ca">La Ran i en Conan van a animar el seu amic Heiji Hattori al campionat nacional de kendo per a estudiants de secundària. A la pausa, decideixen anar a menjar alguna cosa per dinar, però abans han de fer una parada al lavabo. Els que tenen més a prop estan plens i decideixen anar a uns altres que estan una mica més amagats. Però, abans d'arribar-hi, es troben un àrbitre del torneig assassinat. Algú li ha tallat el coll.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20261023041108 +0000" channel="sx3" stop="20261023042303 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">En Timbal, el campió</sub-title>
+    <desc lang="ca">Per primera vegada la Guineta li guanya una cursa al seu pare. I ell li regala un collaret de campiona, del qual n'està molt orgullosa. Per posar-se a prova contra en Pinxo, deixa el collaret sota la vigilància d'en Timbal. Però mentre en Timbal fa una becaina, els gats del poble li roben el preuat collaret.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20261022221242 +0000" channel="tv3" stop="20261022230239 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Els esclops</sub-title>
-    <desc lang="ca">Els esclops, molts de vosaltres no n'haureu vist mai cap, d'esclops. Potser la gent més jove (o de ciutat) no saben ni de què estem parlant. Els nanos de pagès no som els més arriats amb les noves tecnologies, però sabem per què serveixen els esclops, i us sabem diferenciar una aixada d'un aixadell. També ens visita en Josep Espigulé, educador ambiental, així que pareu bé les orelles! Per acabar el programa a dalt de tot, avui passegem el gos un altre cop per Boston, durant una gran inundació!</desc>
-    <length units="minutes">00:49:57</length>
+  <programme start="20261023042303 +0000" channel="sx3" stop="20261023043432 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La vida dels grans</sub-title>
+    <desc lang="ca">En Martís ha decidit que ja és gran i pot anar-se'n a viure tot sol amb els seus germans. En Pinxo se'n vol anar amb el seu amic: excavaran un cau sota un arbre, menjaran quan els doni la gana i se n'aniran a dormir a l'hora que els vingui de gust. Quan se n'assabenten, la Guineta i en Timbal se'n van a buscar-los, perquè ells també volen viure com els grans.</desc>
+    <length units="minutes">00:11:29</length>
   </programme>
-  <programme start="20261022230239 +0000" channel="tv3" stop="20261022233944 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Herència o codemna? Amb Josep Maria Miró i Marc Tarrida Aribau</sub-title>
-    <desc lang="ca">Les històries personals, les penes i les alegries es poden heretar? Ens podem deslliurar de la tradició? Parlem d'herències i llegats amb motiu de l'èxit de l'obra 'El cadell', del dramaturg i director Josep Maria Miró. Conversem amb ell i amb un dels protagonistes, l'actor Marc Tarrida. De cadells, fills de o nepobabies també en va plena la indústria del cinema. Ens ho explica Mariona Borrull. Fem safareig cultural amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del festival Serielizados, triem les perles del festival In-Èdit i acabem amb un retrat sobre rodes del cineasta Isaki Lacuesta.</desc>
-    <length units="minutes">00:37:05</length>
+  <programme start="20261023032740 +0000" channel="tv3" stop="20261023041917 +0000">
+    <title lang="ca">Ale-Hop!</title>
+    <sub-title lang="ca">Senyores i senyors</sub-title>
+    <desc lang="ca">Senyores i senyors, nenes i nens, agafeu seient a la carpa del programa 'Ale-hop', que comença l'espectacle.Així comença aquest capítol, on la Laia Fontan tindrà un record per als artistes i les artistes que han passat pel programa. Tindrem l'oportunitat de veure catorze números nous d'artistes com les germanes Giribaldi, en Kerol, l'Yldor Llach, la Mariona Moya (la Córcoles), en Jordi Caps, la companyia Entre Nous o Planeta Trampolí, entre molts d'altres.Serà un homenatge final a la gent del circ que en els cinc capítols anteriors ens han donat l'oportunitat de conèixer per dins aquest món d'il·lusió, fantasia, risc i, sobretot, vocació.Durant aquest capítol, la Laia estarà acompanyada del nostre col·laborador expert en xarxes socials, en Joan Grivé, 'perquè tot surti segons el previst'.</desc>
+    <length units="minutes">00:51:37</length>
+  </programme>
+  <programme start="20261023041917 +0000" channel="tv3" stop="20261023050700 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Uniformes</sub-title>
+    <desc lang="ca">Els uniformes desperten passions. 'Aeroport' s'endinsa en el món de les tripulacions, els cossos de seguretat i el personal de 'handling', viatjant a Lisboa amb un comandant de vol, comptant quants cops saluda el sobrecàrrec amb el clàssic 'adeu, bon dia', i seguint un grup d'operacions especials de la Guàrdia Civil que persegueix jihadistes.</desc>
+    <length units="minutes">00:47:43</length>
   </programme>
 </tv>
