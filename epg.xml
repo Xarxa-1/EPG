@@ -1,84 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261023223007 +0000" channel="tvi" stop="20261023234244 +0000">
-    <title lang="ca">La Puntual</title>
-    <sub-title lang="ca">La Puntual: Tot acaba</sub-title>
-    <desc lang="ca">Després d'unes setmanes d'assaig, els actors arriben per fi al teatre de LaFaràndula de Sabadell, on hauran de continuar fent feina per estrenar 'L'auca del senyor Esteve'. La posada en escena va prenent cos i per primera vegada els actors assajaran ambl'escenografia ja muntada. També provaran el vestuari i el maquillatge. Com és habitual, tindrem una visita molt especial, aquest cop es tracta de Clara Segura i Carlos Cuevas.</desc>
-    <length units="minutes">01:12:37</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261024040000 +0000" channel="tvi" stop="20261024044531 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Blas Picon &amp; The Junk Express</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:31</length>
   </programme>
-  <programme start="20261023234244 +0000" channel="tvi" stop="20261024000010 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Sis nadals i un cap d'any</sub-title>
-    <desc lang="ca">Els MARCIANS també celebren el Nadal. I ho fan amb mitja dotzena de poemes nadalencs i un de cap d'any. El jove rapsode Arnau Baulenas, amb un 80 % de discapacitat, recita poemes nadalencs de Miquel Martí i Pol i Montse Asens en un exemple d'integració mitjançant la cultura. El traductor Josep Maria Jaumà recita una versió pròpia del poema 'Els bous', Tomàs Hardy, i la dragqueen Crossandra Brahms (alter ego del cantant, actor i director Pol Blancafort) recita Narcís Comadira. Els poetes Montse Maestre, Vicenç Ambròs i Aina Torras reciten els seus propis poemes nadalencs. Clou el programa la petita rapsode de set anys Helena Velat, recitant el vers de Nadal enfilada a la cadira. Un bon Nadal ben cultural us desitgen els MARCIANS!</desc>
-    <length units="minutes">00:17:26</length>
+  <programme start="20261024044531 +0000" channel="tvi" stop="20261024054531 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Cece Gianotti</sub-title>
+    <desc lang="ca">El compositor i multiinstrumentista italo-canadenc Cece Gianotti ens presenta el seu nou projecte'The Great Scape', un conjunt de temes evocadors i suggerents, oscil.lant entre el jazz i el blues. S'acompanya d'excel.lents músics de l'escena catalana, com són Francesc Chaparro a la percussió, el xilòfon i el piano; Jordi Picazos amb diferents instruments de corda; Matias Miguez, al baix, i Gabriel Amargant, al clarinet i saxo.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261023220500 +0000" channel="324" stop="20261023233000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2186</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:25:00</length>
-  </programme>
-  <programme start="20261023233000 +0000" channel="324" stop="20261024003000 +0000">
+  <programme start="20261024010000 +0000" channel="324" stop="20261024060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11513</sub-title>
+    <sub-title lang="ca">11514</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261024060000 +0000" channel="324" stop="20261024070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11514</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261023210729 +0000" channel="esport3" stop="20261023232241 +0000">
+  <programme start="20261024041143 +0000" channel="esport3" stop="20261024061010 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">CE Europa-R. Saragossa / Primera Federació / J9</sub-title>
     <desc lang="ca">Tot un repte per al conjunt de Gràcia que rep, a Can Dragó, un històric del futbol estatal. Els aragonesos, colíders a la classificació, són els grans favorits per l'ascens a la Segona Divisió.</desc>
-    <length units="minutes">02:15:12</length>
+    <length units="minutes">01:58:27</length>
   </programme>
-  <programme start="20261023232241 +0000" channel="esport3" stop="20261024005336 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
-    <length units="minutes">01:30:55</length>
+  <programme start="20261024061010 +0000" channel="esport3" stop="20261024063235 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Manolo González / Prèvia Racing-Espanyol / J10</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:22:25</length>
   </programme>
-  <programme start="20261023222235 +0000" channel="sx3" stop="20261023224401 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El torneig de kendo de l'amor i el misteri (2a part)</sub-title>
-    <desc lang="ca">La Ran i en Conan han trobat un dels àrbitres del campionat de kendo assassinat a prop dels lavabos del pavelló. Hi ha un testimoni cec que assegura que només tres persones han passat per allà al davant després de l'assassinat i que totes tres han entrat als lavabos i encara no n'han sortit. Els presumptes culpables, per tant, són tots allà. Només cal saber qui és l'assassí, i en Heiji i en Soshi Okita rivalitzaran per descobrir-ho.</desc>
-    <length units="minutes">00:21:26</length>
+  <programme start="20261024041300 +0000" channel="sx3" stop="20261024042455 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El ball del bosc</sub-title>
+    <desc lang="ca">Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20261023224401 +0000" channel="sx3" stop="20261023230336 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La gran persecució de la patrulla de trànsit</sub-title>
-    <desc lang="ca">Els nois van a la fira gastronòmica que organitza un centre comercial i un parell d'homes misteriosos segresten en Genta. Per sort, la Yumi i la Naeko passen per allà al davant just quan surt la furgoneta que s'emporta en Genta i es posen a perseguir els segrestadors amb l'ajuda d'en Conan i companyia. Els hauran d'atrapar de seguida, perquè els dos homes tenen intenció de treure's el pobre Genta de sobre.</desc>
-    <length units="minutes">00:19:35</length>
+  <programme start="20261024042455 +0000" channel="sx3" stop="20261024043624 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Perdut per perdut</sub-title>
+    <desc lang="ca">Avui, la Guineta ha anat a buscar la prunera de l'altra banda del turó, però no l'ha trobat. A sobre, tornant cap a casa s'ha perdut. L'avi guineu li vol donar lliçons d'orientació, i se la torna a emportar al bosc amb en Timbal per ensenyar-los com s'arriba a la prunera. Però l'Edmond, que sempre pateix, no les té totes, i els segueix a una distància prudencial per assegurar-se que no prenguin mal.</desc>
+    <length units="minutes">00:11:29</length>
   </programme>
-  <programme start="20261023220113 +0000" channel="tv3" stop="20261023225210 +0000">
+  <programme start="20261024040828 +0000" channel="tv3" stop="20261024045622 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Moviment</sub-title>
+    <desc lang="ca">L'aeroport és moviment, és un espai dinàmic que funciona com una mena d'engranatge on tothom fa la seva feina. Moviment a la cinta nova per carregar les maletes, per enllestir un carregament molt especial amb destinació a la Xina o per satisfer una petició molt romàntica.</desc>
+    <length units="minutes">00:47:54</length>
+  </programme>
+  <programme start="20261024045622 +0000" channel="tv3" stop="20261024054151 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 8</sub-title>
-    <desc lang="ca">Aquesta setmana hem parlat de la ronyonera, de la campana extractora, del sofà i dels esclops. Estem segurs que, com a mínim, dues d'aquestes coses les tens a casa teva. També ens visiten en Francesc Garriga, l'Imma Roquet, en Josep Espigulé, i un grup del qual segur que coneixes alguna cançó: La Pegatina. La veritat és que han quedat uns programes tan ben parits, que ens fa preguntar com és possible que escoltar el nostre programa no sigui de pagament.</desc>
-    <length units="minutes">00:50:57</length>
-  </programme>
-  <programme start="20261023225210 +0000" channel="tv3" stop="20261023233813 +0000">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Terres de l'Ebre</sub-title>
-    <desc lang="ca">Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.</desc>
-    <length units="minutes">00:46:03</length>
-  </programme>
-  <programme start="20261023205459 +0000" channel="tv3" stop="20261023224454 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- CP Fraga-Telecable HC / Supercopa d'Espanya / 2a semifinal</sub-title>
-    <desc lang="ca">L'Esneca Fraga i el Telecable Gijón juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.</desc>
-    <length units="minutes">01:49:55</length>
+    <sub-title lang="ca">La planxa de surf</sub-title>
+    <desc lang="ca">La planxa de surf no només serveix per fer postureig quan visitem el País Basc (o sí, siguem sincers), i per això li dediquem un capítol. Nosaltres no tenim cabelleres llargues i rosses, però fem el que podem. Ens visita l'Èric Riba, que tant podem dir que és membre de l'equip de Bombers GRAE com que forma part d'un equip de superherois. Deuen arribar a càmera lenta com a les pel·lícules? I a les 'Històries per passejar el gos' anem fins a l'edat mitjana, el 1184, pel desastre de la latrina d'Erfurt.</desc>
+    <length units="minutes">00:45:29</length>
   </programme>
 </tv>
