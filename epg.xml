@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261024040000 +0000" channel="tvi" stop="20261024044531 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Blas Picon &amp; The Junk Express</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:31</length>
-  </programme>
-  <programme start="20261024044531 +0000" channel="tvi" stop="20261024054531 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Cece Gianotti</sub-title>
-    <desc lang="ca">El compositor i multiinstrumentista italo-canadenc Cece Gianotti ens presenta el seu nou projecte'The Great Scape', un conjunt de temes evocadors i suggerents, oscil.lant entre el jazz i el blues. S'acompanya d'excel.lents músics de l'escena catalana, com són Francesc Chaparro a la percussió, el xilòfon i el piano; Jordi Picazos amb diferents instruments de corda; Matias Miguez, al baix, i Gabriel Amargant, al clarinet i saxo.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261024010000 +0000" channel="324" stop="20261024060000 +0000">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261024115354 +0000" channel="tvi" stop="20261024120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11514</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <sub-title lang="ca">11516</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:06:06</length>
   </programme>
-  <programme start="20261024060000 +0000" channel="324" stop="20261024070000 +0000">
+  <programme start="20261024120000 +0000" channel="tvi" stop="20261024140000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11514</sub-title>
+    <sub-title lang="ca">11517</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261024041143 +0000" channel="esport3" stop="20261024061010 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">CE Europa-R. Saragossa / Primera Federació / J9</sub-title>
-    <desc lang="ca">Tot un repte per al conjunt de Gràcia que rep, a Can Dragó, un històric del futbol estatal. Els aragonesos, colíders a la classificació, són els grans favorits per l'ascens a la Segona Divisió.</desc>
-    <length units="minutes">01:58:27</length>
+  <programme start="20261024100000 +0000" channel="324" stop="20261024120000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11516</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261024061010 +0000" channel="esport3" stop="20261024063235 +0000">
+  <programme start="20261024120000 +0000" channel="324" stop="20261024143000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11517</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:30:00</length>
+  </programme>
+  <programme start="20261024115508 +0000" channel="esport3" stop="20261024134700 +0000">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">El Ejido FS-Barça / Primera divisió / J6</sub-title>
+    <desc lang="ca">La victòria en el primer partit de la jornada permetria als blaugranes situar-se com a líders provisionals de la classificació.</desc>
+    <length units="minutes">01:51:52</length>
+  </programme>
+  <programme start="20261024134700 +0000" channel="esport3" stop="20261024140348 +0000">
     <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Manolo González / Prèvia Racing-Espanyol / J10</sub-title>
+    <sub-title lang="ca">Hansi Flick / Prèvia Barça-R. Madrid / J10</sub-title>
     <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:22:25</length>
+    <length units="minutes">00:16:48</length>
   </programme>
-  <programme start="20261024041300 +0000" channel="sx3" stop="20261024042455 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El ball del bosc</sub-title>
-    <desc lang="ca">Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20261024113706 +0000" channel="sx3" stop="20261024115928 +0000">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">El serval del Tàmesi</sub-title>
+    <desc lang="ca">Un felí de llargues urpes i pell amb taques irromp amagat darrere d'una màscara a l'habitació de la reina en plena de nit i s'endú la monarca com per art de màgia.</desc>
+    <length units="minutes">00:22:22</length>
   </programme>
-  <programme start="20261024042455 +0000" channel="sx3" stop="20261024043624 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Perdut per perdut</sub-title>
-    <desc lang="ca">Avui, la Guineta ha anat a buscar la prunera de l'altra banda del turó, però no l'ha trobat. A sobre, tornant cap a casa s'ha perdut. L'avi guineu li vol donar lliçons d'orientació, i se la torna a emportar al bosc amb en Timbal per ensenyar-los com s'arriba a la prunera. Però l'Edmond, que sempre pateix, no les té totes, i els segueix a una distància prudencial per assegurar-se que no prenguin mal.</desc>
-    <length units="minutes">00:11:29</length>
+  <programme start="20261024115928 +0000" channel="sx3" stop="20261024120622 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Os bo, os dolent</sub-title>
+    <desc lang="ca">Un tomahawk parteix en Grizzy en dos ossos idèntics amb personalitats diametralment diferents: un és malcarat i l'altre, superatent. Als lèmmings, que no han presenciat la partició d'en Grizzy, els costa comprendre el comportament del seu arxienemic de sempre, que sembla passar de l'amabilitat extrema -els prepara crema de xocolata, els posa música relaxant, els fa massatges- a la pitjor de les conductes sense més ni més.</desc>
+    <length units="minutes">00:06:54</length>
   </programme>
-  <programme start="20261024040828 +0000" channel="tv3" stop="20261024045622 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Moviment</sub-title>
-    <desc lang="ca">L'aeroport és moviment, és un espai dinàmic que funciona com una mena d'engranatge on tothom fa la seva feina. Moviment a la cinta nova per carregar les maletes, per enllestir un carregament molt especial amb destinació a la Xina o per satisfer una petició molt romàntica.</desc>
-    <length units="minutes">00:47:54</length>
+  <programme start="20261024111457 +0000" channel="tv3" stop="20261024115652 +0000">
+    <title lang="ca">Rauxa</title>
+    <sub-title lang="ca">Balleu ben fort, diables</sub-title>
+    <desc lang="ca">A través dels membres del Ball de Diables de Cervera, descobrim què significa ser diable i el repte de participar en l'Aquelarre, una festa de foc, tradició i passió.</desc>
+    <length units="minutes">00:41:55</length>
   </programme>
-  <programme start="20261024045622 +0000" channel="tv3" stop="20261024054151 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La planxa de surf</sub-title>
-    <desc lang="ca">La planxa de surf no només serveix per fer postureig quan visitem el País Basc (o sí, siguem sincers), i per això li dediquem un capítol. Nosaltres no tenim cabelleres llargues i rosses, però fem el que podem. Ens visita l'Èric Riba, que tant podem dir que és membre de l'equip de Bombers GRAE com que forma part d'un equip de superherois. Deuen arribar a càmera lenta com a les pel·lícules? I a les 'Històries per passejar el gos' anem fins a l'edat mitjana, el 1184, pel desastre de la latrina d'Erfurt.</desc>
-    <length units="minutes">00:45:29</length>
+  <programme start="20261024115652 +0000" channel="tv3" stop="20261024123532 +0000">
+    <title lang="ca">Rauxa</title>
+    <sub-title lang="ca">Caçadors de cançons</sub-title>
+    <desc lang="ca">Una mirada transversal a la cançó de tradició oral a través del festival Cantut. Una experiència que uneix a avis i nets, i que ens apropa des de cantadors anònims fins a bandes musicals.</desc>
+    <length units="minutes">00:38:40</length>
   </programme>
 </tv>
