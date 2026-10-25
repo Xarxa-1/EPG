@@ -1,13 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -15,64 +12,72 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261025102115 +0000" channel="tvi" stop="20261025114135 +0000">
-    <title lang="ca">Diumenge Concert</title>
-    <sub-title lang="ca">Rufus Wainwright i la GIO Symphonia des de l'Auditori de Girona</sub-title>
-    <desc lang="ca">El cantautor canadenc Rufus Wainwright ens ofereix un concert únic des de l'Auditori de Girona.Acompanyat per la GIO Symphonia, interpreta un repertori format per la seva immensa banda d'influències i interessos musicals, que inclou estàndards americans com 'How Deep is the Ocean' d'Irving Berlin, 'Who By Fire' del seu compatriota canadenc Leonard Cohen, i cançons pròpies com 'Westside Waltz'. A més, el programa inclou 'Excursion a Venise', escrita per la seva mare Kate McGarrigle i la seva tia Anna McGarrigle. Uns arranjaments que es van interpretar per última vegada en directe l'any 2023, quan Rufus Wainwright va realitzar una gira amb The Amsterdam Sinfonietta.Un concert enregistrat el 16 de maig de 2025</desc>
-    <length units="minutes">01:20:20</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261025154116 +0000" channel="tvi" stop="20261025170319 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Requisits per ser una persona normal</sub-title>
+    <desc lang="ca">REQUISITS PER SER UNA PERSONA NORMALProductores: Corte y Confección de películas, El Estomágo de la Vaca i Telefónica Studios, 2015Director i guionista: Leticia DoleraDirector de fotografia: Marc Gómez del MoralMúsica: Luthea SalomIntèrprets: Leticia Dolera (Maria de les Muntanyes), Manuel Burque (Borja), Silvia Munt (Bárbara), Jordi Llodrà (Álex), Miki Esparbé (Gustau), Alexandra Jiménez (Cristina Perez) amb la col·laboracio especial de Carmen Machi (Lluisa), José Luis García-Pérez (entrevistador) i Irene Visedo (galerista)Maria és una noia de 30 anys, una mica peculiar i amb un objectiu: esdevenir una persona normal. Per aconseguir-ho, haurà de descobrir primer en què consisteix això exactament. Maria no té feina, l'acaben de fer fora del pis on viu per no pagar el lloguer, està distanciada de la seva família i la seva vida romàntica fa temps que és inexistent. En una entrevista de treball li pregunten 'quin tipus de persona es considera?', i ella contesta que 'una persona normal'. La resposta de l'entrevistador, 'bé, què és per a tu una persona normal?' desferma la inquietud de Maria. Després d'enumerar tots els requisits fonamentals per ser-ho, s'adona que no en compleix cap. En aquest moment crític coneix Borja, un noi obsessionat per perdre pes, amb qui establirà un curiós pacte: ella l'ajudarà a portar una vida més sana i ell l'ajudarà a complir el seu objectiu: complir un per un aquests requisits que et converteixen en una persona normal.</desc>
+    <length units="minutes">01:22:03</length>
   </programme>
-  <programme start="20261025114135 +0000" channel="tvi" stop="20261025115953 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11524</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:18:18</length>
+  <programme start="20261025170319 +0000" channel="tvi" stop="20261025175513 +0000">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">CONDEMNATS</sub-title>
+    <desc lang="ca">Tornen a ser mals moments per a en Ramon i la Isabel. La policia ha detingut en Pau, l'assassí d'en Paco. La condemna a mort fa prendre posicions a tots els personatges... i els secrets de la Victòria ja no són tan secrets...</desc>
+    <length units="minutes">00:51:54</length>
   </programme>
-  <programme start="20261025100000 +0000" channel="324" stop="20261025120000 +0000">
+  <programme start="20261025143000 +0000" channel="324" stop="20261025163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7369</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261025163000 +0000" channel="324" stop="20261025183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11524</sub-title>
+    <sub-title lang="ca">11526</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261025120000 +0000" channel="324" stop="20261025143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11525</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20261025100555 +0000" channel="esport3" stop="20261025114000 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J10 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:34:05</length>
-  </programme>
-  <programme start="20261025114000 +0000" channel="esport3" stop="20261025132601 +0000">
+  <programme start="20261025155919 +0000" channel="esport3" stop="20261025172500 +0000">
     <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">CP Vila-sana - Gijón HC / Supercopa d'Espanya / Final</sub-title>
-    <desc lang="ca">Des d'Olot, final femenina de la Supercopa d'Espanya d'hoquei patins.</desc>
-    <length units="minutes">01:46:01</length>
+    <sub-title lang="ca">Barça-Igualada HC / Supercopa Espanya / Final</sub-title>
+    <desc lang="ca">Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
+    <length units="minutes">01:25:41</length>
   </programme>
-  <programme start="20261025110958 +0000" channel="sx3" stop="20261025113128 +0000">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">El misteri del passatge Lexington</sub-title>
-    <desc lang="ca">Corre el rumor que a Lexington Park hi ha un lloc amagat sota el pont on els gossos desapareixen de cop i sense deixar cap rastre. Quan el gos d'un inspector de Scotland Yard desapareix, el McFlaire demana a l'Espavilada que l'ajudi a resoldre aquest fenomen inexplicable.</desc>
-    <length units="minutes">00:21:30</length>
+  <programme start="20261025172500 +0000" channel="esport3" stop="20261025192500 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">UE Olot-Barça Atlètic / Segona Federació / J8</sub-title>
+    <desc lang="ca">El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261025113128 +0000" channel="sx3" stop="20261025115346 +0000">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">La venjança de l'home llop</sub-title>
-    <desc lang="ca">El gos Goliat, el terror del parc temut per tots els animals sense llar, topa amb un adversari més fort que ell: una bèstia de pèls negres i ulls luminescents que s'alça sobre les potes de darrere com un home llop.</desc>
-    <length units="minutes">00:22:18</length>
+  <programme start="20261025160759 +0000" channel="sx3" stop="20261025163351 +0000">
+    <title lang="ca">Fuet</title>
+    <sub-title lang="ca">L'home (i en Fuet) a la Lluna.</sub-title>
+    <desc lang="ca">Aquesta vegada, la malifeta d'en Fuet no és a la Terra. L'Eda ha pogut descobrir que la bandera dels Estats Units que hi ha a la Lluna, ha sigut modificada per culpa d'en Fuet. Per això, la Kiry i en Jau Coloma, viatjaran a 1969 per evitar-ho. Coneixeran l'astronauta Neil Armstrong, el primer home a trepitjar la Lluna, tot i que l'avi Garcia no s'ho cregui. I també veuran com la ciutat de Berlín està dividida enmig de la Guerra Freda entre russos i nord-americans.</desc>
+    <length units="minutes">00:25:52</length>
   </programme>
-  <programme start="20261025111041 +0000" channel="tv3" stop="20261025114854 +0000">
-    <title lang="ca">Rauxa</title>
-    <sub-title lang="ca">Gegants</sub-title>
-    <desc lang="ca">Descobrim el món geganter a través d'històries de superació i reivindicació, vivint de prop l'emoció de portar els Gegants a les festes de la Mercè.</desc>
-    <length units="minutes">00:38:13</length>
+  <programme start="20261025163351 +0000" channel="sx3" stop="20261025165824 +0000">
+    <title lang="ca">Fuet</title>
+    <sub-title lang="ca">Que venen els grecs!</sub-title>
+    <desc lang="ca">Les extraterrestres Kiry i Eda, després de fracassar en la seva primera missió de trobar el Fuet, són castigades al planeta Miau. Decidides a reprendre la cerca, aconsegueixen robar un navegador temporal que els permet escapar. La seva primera parada és en un moment crucial de la història catalana: la fundació d'Empúries. Allà, s'endinsaran a l'Antiga Grècia, on coneixeran figures i mites importants, com el déu grec de la medicina, Asclepi, i descobriran la influència cultural i històrica d'aquest poble en el territori català.</desc>
+    <length units="minutes">00:24:33</length>
   </programme>
-  <programme start="20261025114854 +0000" channel="tv3" stop="20261025122823 +0000">
-    <title lang="ca">Rauxa</title>
-    <sub-title lang="ca">Dansaires</sub-title>
-    <desc lang="ca">Els ballarins dels esbarts Joaquim Ruyra i Maragall ens endinsen en la dansa d'arrel i el repte de portar-la a un gran escenari com la Fira Mediterrània.</desc>
-    <length units="minutes">00:39:29</length>
+  <programme start="20261025150949 +0000" channel="tv3" stop="20261025160849 +0000">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.</desc>
+    <length units="minutes">00:59:00</length>
+  </programme>
+  <programme start="20261025160849 +0000" channel="tv3" stop="20261025170749 +0000">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Turquía</sub-title>
+    <desc lang="ca">Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
+    <length units="minutes">00:59:00</length>
+  </programme>
+  <programme start="20261025152000 +0000" channel="tv3" stop="20261025171455 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- Supercopa Espanya / Final</sub-title>
+    <desc lang="ca">Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
+    <length units="minutes">01:54:55</length>
   </programme>
 </tv>
