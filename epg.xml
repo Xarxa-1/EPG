@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -12,72 +12,65 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261025154116 +0000" channel="tvi" stop="20261025170319 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Requisits per ser una persona normal</sub-title>
-    <desc lang="ca">REQUISITS PER SER UNA PERSONA NORMALProductores: Corte y Confección de películas, El Estomágo de la Vaca i Telefónica Studios, 2015Director i guionista: Leticia DoleraDirector de fotografia: Marc Gómez del MoralMúsica: Luthea SalomIntèrprets: Leticia Dolera (Maria de les Muntanyes), Manuel Burque (Borja), Silvia Munt (Bárbara), Jordi Llodrà (Álex), Miki Esparbé (Gustau), Alexandra Jiménez (Cristina Perez) amb la col·laboracio especial de Carmen Machi (Lluisa), José Luis García-Pérez (entrevistador) i Irene Visedo (galerista)Maria és una noia de 30 anys, una mica peculiar i amb un objectiu: esdevenir una persona normal. Per aconseguir-ho, haurà de descobrir primer en què consisteix això exactament. Maria no té feina, l'acaben de fer fora del pis on viu per no pagar el lloguer, està distanciada de la seva família i la seva vida romàntica fa temps que és inexistent. En una entrevista de treball li pregunten 'quin tipus de persona es considera?', i ella contesta que 'una persona normal'. La resposta de l'entrevistador, 'bé, què és per a tu una persona normal?' desferma la inquietud de Maria. Després d'enumerar tots els requisits fonamentals per ser-ho, s'adona que no en compleix cap. En aquest moment crític coneix Borja, un noi obsessionat per perdre pes, amb qui establirà un curiós pacte: ella l'ajudarà a portar una vida més sana i ell l'ajudarà a complir el seu objectiu: complir un per un aquests requisits que et converteixen en una persona normal.</desc>
-    <length units="minutes">01:22:03</length>
+  <programme start="20261025210000 +0000" channel="tvi" stop="20261025221553 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7368</sub-title>
+    <length units="minutes">01:15:53</length>
   </programme>
-  <programme start="20261025170319 +0000" channel="tvi" stop="20261025175513 +0000">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">CONDEMNATS</sub-title>
-    <desc lang="ca">Tornen a ser mals moments per a en Ramon i la Isabel. La policia ha detingut en Pau, l'assassí d'en Paco. La condemna a mort fa prendre posicions a tots els personatges... i els secrets de la Victòria ja no són tan secrets...</desc>
-    <length units="minutes">00:51:54</length>
+  <programme start="20261025220831 +0000" channel="tvi" stop="20261025223925 +0000">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">Morts de calor</sub-title>
+    <desc lang="ca">Els últims cinc mesos, de maig a setembre, hem viscut morts de calor. Mai abans no havíem patit tantes calorades, ni tan llargues. En els registres del servei meteorològic de Catalunya s'han superat els 40 graus en 24 dies. L'augment de temperatures pel canvi climàtic s'està accelerant. Com ens afecta aquesta calor? Estem preparats per afrontar-la? Es poden mitigar els efectes? Al reportatge 'Morts de calor' un equip del 30 minuts retrata l'impacte de la calor en la vida quotidiana, des de les escoles a les llars particulars o els treballs a l'aire lliure com els temporers o alguns serveis públics. El 80% dels edificis són del segle passat, mal aïllats o més pensats per resistir el fred que la calor. De dia és difícil estar-s'hi, però de nit és pitjor. Aquest any s'han viscut 177 nits tropicals, 70 tòrrides i 1 de roent, per sobre de 30 graus. 'La sensació de no poder descansar és terrible -diu Àlex Martín, que viu sota terrat-. Al final, si no descanses no rendeixes i al dia següent estàs de més mal humor.' La calor està disparant la venda de ventiladors i aires condicionats. 'La gent que no li agrada l'aire, que no ha volgut tindre aire i han aguantat sense aire, aquests últims 3 anys se l'estan posant', assegura Marc Zoroa, instal·lador. La temperatura extrema i persistent té importants efectes sobre la salut que no sempre són evidents. 'Normalment tenim l'ordre d'entre 3 i 5 cops de calor mortals a Catalunya, puntualitza Jacobo Mendioroz, subdirector d'alertes i emergències de Salut Pública-però probablement el gruix dels efectes sigui les descompensacions de patologies cròniques en persones ja vulnerables o en persones grans'. El reportatge 'Morts de calor' mostra també les solucions que proposen les últimes investigacions científiques per paliar la calor, com prioritzar la vegetació per sobre del ciment a les ciutats, amb més ombres, per rebaixar fins a 8 graus la temperatura.</desc>
+    <length units="minutes">00:30:54</length>
   </programme>
-  <programme start="20261025143000 +0000" channel="324" stop="20261025163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7369</sub-title>
+  <programme start="20261025210000 +0000" channel="324" stop="20261025230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7368</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261025163000 +0000" channel="324" stop="20261025183000 +0000">
+  <programme start="20261025230000 +0000" channel="324" stop="20261026003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11526</sub-title>
+    <sub-title lang="ca">11529</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261025155919 +0000" channel="esport3" stop="20261025172500 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Barça-Igualada HC / Supercopa Espanya / Final</sub-title>
-    <desc lang="ca">Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
-    <length units="minutes">01:25:41</length>
+  <programme start="20261025205533 +0000" channel="esport3" stop="20261025225206 +0000">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Barça-R. Madrid</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">01:56:33</length>
   </programme>
-  <programme start="20261025172500 +0000" channel="esport3" stop="20261025192500 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">UE Olot-Barça Atlètic / Segona Federació / J8</sub-title>
-    <desc lang="ca">El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261025225206 +0000" channel="esport3" stop="20261025232845 +0000">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">GP d'Austràlia</sub-title>
+    <desc lang="ca">Divuitena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="minutes">00:36:39</length>
   </programme>
-  <programme start="20261025160759 +0000" channel="sx3" stop="20261025163351 +0000">
-    <title lang="ca">Fuet</title>
-    <sub-title lang="ca">L'home (i en Fuet) a la Lluna.</sub-title>
-    <desc lang="ca">Aquesta vegada, la malifeta d'en Fuet no és a la Terra. L'Eda ha pogut descobrir que la bandera dels Estats Units que hi ha a la Lluna, ha sigut modificada per culpa d'en Fuet. Per això, la Kiry i en Jau Coloma, viatjaran a 1969 per evitar-ho. Coneixeran l'astronauta Neil Armstrong, el primer home a trepitjar la Lluna, tot i que l'avi Garcia no s'ho cregui. I també veuran com la ciutat de Berlín està dividida enmig de la Guerra Freda entre russos i nord-americans.</desc>
-    <length units="minutes">00:25:52</length>
+  <programme start="20261025210004 +0000" channel="sx3" stop="20261025212057 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El pigarg americà que fa quatre</sub-title>
+    <desc lang="ca">Per estudiar de més a prop el pigarg americà, el Chris i el Martin, amagats a dins d'uns ous d'aquest ocell, van a parar a dins d'un niu. Quan surten de l'ou, els adults els tracten com si fossin dues cries més. Tot va bé fins que el Gormand es disfressa d'os negre per robar ous de pigarg i fer una recepta nova: suflé d'ou de pigarg. L'equip dels germans Kratt farà tot el possible per arreglar-ho.</desc>
+    <length units="minutes">00:20:53</length>
   </programme>
-  <programme start="20261025163351 +0000" channel="sx3" stop="20261025165824 +0000">
-    <title lang="ca">Fuet</title>
-    <sub-title lang="ca">Que venen els grecs!</sub-title>
-    <desc lang="ca">Les extraterrestres Kiry i Eda, després de fracassar en la seva primera missió de trobar el Fuet, són castigades al planeta Miau. Decidides a reprendre la cerca, aconsegueixen robar un navegador temporal que els permet escapar. La seva primera parada és en un moment crucial de la història catalana: la fundació d'Empúries. Allà, s'endinsaran a l'Antiga Grècia, on coneixeran figures i mites importants, com el déu grec de la medicina, Asclepi, i descobriran la influència cultural i històrica d'aquest poble en el territori català.</desc>
-    <length units="minutes">00:24:33</length>
+  <programme start="20261025212057 +0000" channel="sx3" stop="20261025214106 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">L'exterminiador</sub-title>
+    <desc lang="ca">Arriba l'hivern i la majoria d'ocells volen cap al sud, però alguns, com la mallerenga, no migren. L'Aviva promet als germans Kratt que si són capaços de trobar uns quants poders d'aquest ocell, els en farà un vestit de poder. Mentre estudien les mallerengues, el Martin es distreu amb un animal que passa corrents, se separa del Chris i li cau l'animal-pod. Quan veu de prop l'animal que l'ha despistat, s'adona és un ermini.</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
-  <programme start="20261025150949 +0000" channel="tv3" stop="20261025160849 +0000">
-    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Grècia</sub-title>
-    <desc lang="ca">El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.</desc>
-    <length units="minutes">00:59:00</length>
+  <programme start="20261025210242 +0000" channel="tv3" stop="20261025213013 +0000">
+    <title lang="ca">Caçadors de bolets</title>
+    <sub-title lang="ca">Enòlegs</sub-title>
+    <desc lang="ca">Aquesta setmana coneixerem un grup d'enòlegs del Priorat que, a més de ser especialistes en vins, també en saben molt de bolets. Surten amb dos objectius molt clars: primer, trobar un dels bolets més cobejats de Catalunya, la llenega. I segon, collir un bolet poc conegut però molt apreciat pels experts, la gírgola de bruc.</desc>
+    <length units="minutes">00:27:31</length>
   </programme>
-  <programme start="20261025160849 +0000" channel="tv3" stop="20261025170749 +0000">
-    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Turquía</sub-title>
-    <desc lang="ca">Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
-    <length units="minutes">00:59:00</length>
-  </programme>
-  <programme start="20261025152000 +0000" channel="tv3" stop="20261025171455 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- Supercopa Espanya / Final</sub-title>
-    <desc lang="ca">Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
-    <length units="minutes">01:54:55</length>
+  <programme start="20261025213013 +0000" channel="tv3" stop="20261025215553 +0000">
+    <title lang="ca">Caçadors de bolets</title>
+    <sub-title lang="ca">Cardiólegs</sub-title>
+    <desc lang="ca">En aquest capítol acompanyarem un grup de cardiòlegs de l'Hospital del Mar de Barcelona, que aniran fins al Lluçanès amb un objectiu clar: trobar llenegues. El temps no els acompanyarà gaire, però trobaran uns boletaires que coneixen bé la zona.</desc>
+    <length units="minutes">00:25:40</length>
   </programme>
 </tv>
