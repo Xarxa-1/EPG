@@ -1,76 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
-  <programme start="20261024210000 +0000" channel="tvi" stop="20261024220330 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7367</sub-title>
-    <length units="minutes">01:03:30</length>
-  </programme>
-  <programme start="20261024220330 +0000" channel="tvi" stop="20261025005815 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">158</sub-title>
-    <desc lang="ca">Comptem amb un testimoni excepcional. Diane Foley, mare del periodista americà James Foley, decapitat per Estat Islàmic, seu al plató del 'Col·lapse' per explicar com va viure aquell episodi tan traumàtic de la seva vida i, sobretot, com va ser la trobada de quatre hores que va mantenir amb el segrestador i un dels assassins del seu fill. Unes declaracions molt dures que parlen de perdó i misericòrdia.Convidem el Dr. Antoni Trilla per parlar de la campanya de vacunació de la tardor, ara que hi ha un repunt de casos de grip i covid. També visitem l'epidemiòleg Fernando Simón a Madrid per saber el seu punt de vista sobre la qüestió. Celebrem els 80 anys del productor de televisió Josep Maria Mainat i fem un repàs de la seva intensa vida i trajectòria.Àngel Llàcer i Carlos Latre analitzen les notícies que ens poden haver passat per alt.Connectarem amb París per saber l'última hora de les mobilitzacions massives convocades a França aquest dissabte. Farem anàlisi i reflexió amb Lluís Uría (sotsdirector de La Vanguardia i excorresponsal a París) i José Mansilla (antropòleg de la UAB) sobre les raons i les causes que han portat milers d'estudiants a sortir al carrer per demanar millores en el sistema educatiu. Unes mobilitzacions a què s'han sumat molts ciutadans de professions diverses per queixar-se del cost de la vida, l'augment del preu dels carburants i la manca de recursos als serveis públics. A més, un equip del programa s'ha desplaçat fins a la ciutat de París per parlar amb joves estudiants sobre el perquè de la seva frustració i el politòleg francès Laurent Bonelli. El nostre col·laborador Darío Porras estrena secció fent un homenatge a un dels programes més recordats de TV3 'Amor a primera vista'.La comunicadora Miriam Victòria ens descobreix el costat més inexplicable de Catalunya. I veurem el resultat del nou repte a què s'ha enfrontat aquesta setmana la influencer catalana Anna Callís.'Col·lapse', amb Jordi González, dissabte a l</desc>
-    <length units="minutes">02:54:45</length>
-  </programme>
-  <programme start="20261024210000 +0000" channel="324" stop="20261024230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7367</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261024230000 +0000" channel="324" stop="20261025003000 +0000">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261025021951 +0000" channel="tvi" stop="20261025050000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11521</sub-title>
+    <sub-title lang="ca">11522</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">02:40:09</length>
   </programme>
-  <programme start="20261024213026 +0000" channel="esport3" stop="20261024222531 +0000">
+  <programme start="20261025050000 +0000" channel="tvi" stop="20261025054453 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Bullfrog Electric Blues Experience</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:44:53</length>
+  </programme>
+  <programme start="20261025010000 +0000" channel="324" stop="20261025060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11522</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261025060000 +0000" channel="324" stop="20261025070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11522</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20261025025849 +0000" channel="esport3" stop="20261025044634 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">FC Barcelona-Granada CF / Lliga F / J8</sub-title>
     <desc lang="ca">Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
-    <length units="minutes">00:55:05</length>
+    <length units="minutes">01:47:45</length>
   </programme>
-  <programme start="20261024222531 +0000" channel="esport3" stop="20261024223933 +0000">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia Barça-R. Madrid / J10</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:14:02</length>
+  <programme start="20261025044634 +0000" channel="esport3" stop="20261025051329 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5548</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:26:55</length>
   </programme>
-  <programme start="20261024214129 +0000" channel="sx3" stop="20261024220251 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Animals esgarrifossos! (2a part)</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt segueix el Zach fins a Vilacarbassa per recuperar el miniaturitzador que els ha robat. Al final, troben l'aparell en una casa que té un aire misteriós, una casa que quan hi entren, s'adonen que la Donita, el xef Gormand, la Paisley i el Zach l'han muntada com una mena de parc d'atraccions terrorífic, amb animals esgarrifosos que han segrestat per tot el món.</desc>
-    <length units="minutes">00:21:22</length>
+  <programme start="20261025025948 +0000" channel="sx3" stop="20261025030959 +0000">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">L'origen de la Stream Samurai</sub-title>
+    <desc lang="ca">En aquest episodi, en Will ens explicarà quins són els poders de la Stream Samurai, una heroïna d'estil manga, streamer i crac dels videojocs, i el sorprenent origen dels seus superpoders: un guerrer samurai de l'antic Japó que abans de morir va jurar que tornaria quan el món s'hagués d'enfrontar a una amenaça terrible. I aquesta amenaça són el Crònica i el seu exèrcit extraterrestre, que avancen en naus espacials cap a la Terra.</desc>
+    <length units="minutes">00:10:11</length>
   </programme>
-  <programme start="20261024220251 +0000" channel="sx3" stop="20261024221346 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Una habitació pròpia</sub-title>
-    <desc lang="ca">Quan la Bébérénice fa esclatar la seva pilota de bàsquet de col·leccionista, la Roxane diu prou. Per què és ella qui ha de compartir l'habitació, i no pas l'Ondine o la Panda? Les altres dues es defensen dient que les seves habitacions també tenen defectes, així que les tres germanes decideixen intercanviar les habitacions. En teoria sembla fàcil, però a la pràctica és la pitjor idea que han tingut mai!</desc>
-    <length units="minutes">00:10:55</length>
+  <programme start="20261025030959 +0000" channel="sx3" stop="20261025032008 +0000">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Guspireta</sub-title>
+    <desc lang="ca">En aquest episodi coneixerem la Guspireta, una altra de les superheroïnes que han de salvar la Terra de la invasió extraterrestre comandada pel Crònica. La Guspireta és una nena dibuixada en estil chibi, un estil de caricatura originari del Japó, i comú a l'anime i el manga, en què els personatges es dibuixen d'una manera exagerada, normalment petits i grassos amb les extremitats curtes, el cap sobredimensionat i detalls mínims.</desc>
+    <length units="minutes">00:10:09</length>
   </programme>
-  <programme start="20261024213102 +0000" channel="tv3" stop="20261024215534 +0000">
-    <title lang="ca">Caçadors de bolets</title>
-    <sub-title lang="ca">Joves escoltes</sub-title>
-    <desc lang="ca">En aquest capítol anirem fins al Berguedà amb dos grups de joves escoltes que competiran per veure qui troba més bolets. De bolets en trobaran bastants, però d'escombraries pel bosc, també.</desc>
-    <length units="minutes">00:24:32</length>
+  <programme start="20261025024127 +0000" channel="tv3" stop="20261025032906 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">L'Àvia</sub-title>
+    <desc lang="ca">Per poder recuperar el cotxe de l'Eduardo, a l'Àngela no li queda més remei que retrobar-se amb la seva mare, ingressada en un hospital des de fa més de 10 anys. Mentrestant, el Nando fa tot el possible per ajudar la Victòria a recordar on ha amagat el cadàver del seu marit.</desc>
+    <length units="minutes">00:47:39</length>
   </programme>
-  <programme start="20261024215534 +0000" channel="tv3" stop="20261024221944 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">La importància de dir-se Zoe</sub-title>
-    <desc lang="ca">Zoe és un nom propi que, fins fa poc, era inèdit al nostre cinema, però cada vegada és més habitual gràcies als treballs davant de les càmeres de Zoé Arnao, Zoe Bonafonte i Zoe Stein. Són tres de les joves actrius catalanes amb més projecció del moment. Tot i que estan a la vintena, ja acumulen crèdits en algunes de les pel·lícules més destacades del cinema català recent. Descobrim facetes seves poc conegudes, amb la complicitat de primeres figures del cinema català que han sigut importants en les seves respectives trajectòries: la productora Valérie Delpierre, la cineasta i professora d'interpretació Laura Jou, i les actrius Sílvia Sabaté i Clara Segura. Zoé Arnao va debutar al cinema el 2020 en el paper de la Brisa, a 'Las niñas', la pel·lícula de Pilar Palomero premiada amb el Gaudí a la millor pel·lícula en llengua no catalana i el Goya a la millor pel·lícula. Després de formar part del repartiment de la primera temporada de la sèrie 'Jo mai mai', de 3Cat, i d'intervenir en títols com 'La casa entre els cactus' o 'Faro', aquest estiu Zoé Arnao ha estrenat als cinemes 'Día de caza. A Zoe Bonafonte la vam conèixer a bord d'un dels grans fenòmens del cinema català, 'El 47', de Marcel Barrena, per la qual va ser nominada als premis Gaudí i Goya a la millor interpretació revelació. Inoblidable la seva interpretació del tema 'Gallo negro, gallo rojo', en un dels moments clau del film. La veurem com a protagonista absoluta de 'Ruega por nosotras', la pel·lícula de Daniel Monzón.Amb només deu anys, Zoe Stein va fer els primers passos davant de la càmera en un curtmetratge de terror d'impacte: 'Leyenda', de Pau Teixidor. Encara van haver de passar uns quants anys perquè fes el gran salt al llargmetratge, al capdavant de 'Mantícora', de Carlos Vermut, per la qual va optar als premis Gaudí i Goya a la millor interpretació revelació. Ara, acaba d'arribar als cinemes com a protagonista de 'Forastera'.</desc>
-    <length units="minutes">00:24:10</length>
+  <programme start="20261025032906 +0000" channel="tv3" stop="20261025041348 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">El Leo</sub-title>
+    <desc lang="ca">Decidits a canviar l'herència, l'Àngela munta un càsting per trobar un doble del seu pare; però el millor candidat per al paper s'hi assembla com un ou a una castanya. Paral·lelament, el Miquel comença a sospitar on és realment l'Eduardo.</desc>
+    <length units="minutes">00:44:42</length>
   </programme>
 </tv>
