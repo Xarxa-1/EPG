@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261025021951 +0000" channel="tvi" stop="20261025050000 +0000">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261025102115 +0000" channel="tvi" stop="20261025114135 +0000">
+    <title lang="ca">Diumenge Concert</title>
+    <sub-title lang="ca">Rufus Wainwright i la GIO Symphonia des de l'Auditori de Girona</sub-title>
+    <desc lang="ca">El cantautor canadenc Rufus Wainwright ens ofereix un concert únic des de l'Auditori de Girona.Acompanyat per la GIO Symphonia, interpreta un repertori format per la seva immensa banda d'influències i interessos musicals, que inclou estàndards americans com 'How Deep is the Ocean' d'Irving Berlin, 'Who By Fire' del seu compatriota canadenc Leonard Cohen, i cançons pròpies com 'Westside Waltz'. A més, el programa inclou 'Excursion a Venise', escrita per la seva mare Kate McGarrigle i la seva tia Anna McGarrigle. Uns arranjaments que es van interpretar per última vegada en directe l'any 2023, quan Rufus Wainwright va realitzar una gira amb The Amsterdam Sinfonietta.Un concert enregistrat el 16 de maig de 2025</desc>
+    <length units="minutes">01:20:20</length>
+  </programme>
+  <programme start="20261025114135 +0000" channel="tvi" stop="20261025115953 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11522</sub-title>
+    <sub-title lang="ca">11524</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:40:09</length>
+    <length units="minutes">00:18:18</length>
   </programme>
-  <programme start="20261025050000 +0000" channel="tvi" stop="20261025054453 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Bullfrog Electric Blues Experience</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:44:53</length>
-  </programme>
-  <programme start="20261025010000 +0000" channel="324" stop="20261025060000 +0000">
+  <programme start="20261025100000 +0000" channel="324" stop="20261025120000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11522</sub-title>
+    <sub-title lang="ca">11524</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261025060000 +0000" channel="324" stop="20261025070000 +0000">
+  <programme start="20261025120000 +0000" channel="324" stop="20261025143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11522</sub-title>
+    <sub-title lang="ca">11525</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261025025849 +0000" channel="esport3" stop="20261025044634 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Barcelona-Granada CF / Lliga F / J8</sub-title>
-    <desc lang="ca">Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
-    <length units="minutes">01:47:45</length>
+  <programme start="20261025100555 +0000" channel="esport3" stop="20261025114000 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J10 / Dissabte</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:34:05</length>
   </programme>
-  <programme start="20261025044634 +0000" channel="esport3" stop="20261025051329 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5548</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:26:55</length>
+  <programme start="20261025114000 +0000" channel="esport3" stop="20261025132601 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">CP Vila-sana - Gijón HC / Supercopa d'Espanya / Final</sub-title>
+    <desc lang="ca">Des d'Olot, final femenina de la Supercopa d'Espanya d'hoquei patins.</desc>
+    <length units="minutes">01:46:01</length>
   </programme>
-  <programme start="20261025025948 +0000" channel="sx3" stop="20261025030959 +0000">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">L'origen de la Stream Samurai</sub-title>
-    <desc lang="ca">En aquest episodi, en Will ens explicarà quins són els poders de la Stream Samurai, una heroïna d'estil manga, streamer i crac dels videojocs, i el sorprenent origen dels seus superpoders: un guerrer samurai de l'antic Japó que abans de morir va jurar que tornaria quan el món s'hagués d'enfrontar a una amenaça terrible. I aquesta amenaça són el Crònica i el seu exèrcit extraterrestre, que avancen en naus espacials cap a la Terra.</desc>
-    <length units="minutes">00:10:11</length>
+  <programme start="20261025110958 +0000" channel="sx3" stop="20261025113128 +0000">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">El misteri del passatge Lexington</sub-title>
+    <desc lang="ca">Corre el rumor que a Lexington Park hi ha un lloc amagat sota el pont on els gossos desapareixen de cop i sense deixar cap rastre. Quan el gos d'un inspector de Scotland Yard desapareix, el McFlaire demana a l'Espavilada que l'ajudi a resoldre aquest fenomen inexplicable.</desc>
+    <length units="minutes">00:21:30</length>
   </programme>
-  <programme start="20261025030959 +0000" channel="sx3" stop="20261025032008 +0000">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Guspireta</sub-title>
-    <desc lang="ca">En aquest episodi coneixerem la Guspireta, una altra de les superheroïnes que han de salvar la Terra de la invasió extraterrestre comandada pel Crònica. La Guspireta és una nena dibuixada en estil chibi, un estil de caricatura originari del Japó, i comú a l'anime i el manga, en què els personatges es dibuixen d'una manera exagerada, normalment petits i grassos amb les extremitats curtes, el cap sobredimensionat i detalls mínims.</desc>
-    <length units="minutes">00:10:09</length>
+  <programme start="20261025113128 +0000" channel="sx3" stop="20261025115346 +0000">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">La venjança de l'home llop</sub-title>
+    <desc lang="ca">El gos Goliat, el terror del parc temut per tots els animals sense llar, topa amb un adversari més fort que ell: una bèstia de pèls negres i ulls luminescents que s'alça sobre les potes de darrere com un home llop.</desc>
+    <length units="minutes">00:22:18</length>
   </programme>
-  <programme start="20261025024127 +0000" channel="tv3" stop="20261025032906 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">L'Àvia</sub-title>
-    <desc lang="ca">Per poder recuperar el cotxe de l'Eduardo, a l'Àngela no li queda més remei que retrobar-se amb la seva mare, ingressada en un hospital des de fa més de 10 anys. Mentrestant, el Nando fa tot el possible per ajudar la Victòria a recordar on ha amagat el cadàver del seu marit.</desc>
-    <length units="minutes">00:47:39</length>
+  <programme start="20261025111041 +0000" channel="tv3" stop="20261025114854 +0000">
+    <title lang="ca">Rauxa</title>
+    <sub-title lang="ca">Gegants</sub-title>
+    <desc lang="ca">Descobrim el món geganter a través d'històries de superació i reivindicació, vivint de prop l'emoció de portar els Gegants a les festes de la Mercè.</desc>
+    <length units="minutes">00:38:13</length>
   </programme>
-  <programme start="20261025032906 +0000" channel="tv3" stop="20261025041348 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El Leo</sub-title>
-    <desc lang="ca">Decidits a canviar l'herència, l'Àngela munta un càsting per trobar un doble del seu pare; però el millor candidat per al paper s'hi assembla com un ou a una castanya. Paral·lelament, el Miquel comença a sospitar on és realment l'Eduardo.</desc>
-    <length units="minutes">00:44:42</length>
+  <programme start="20261025114854 +0000" channel="tv3" stop="20261025122823 +0000">
+    <title lang="ca">Rauxa</title>
+    <sub-title lang="ca">Dansaires</sub-title>
+    <desc lang="ca">Els ballarins dels esbarts Joaquim Ruyra i Maragall ens endinsen en la dansa d'arrel i el repte de portar-la a un gran escenari com la Fira Mediterrània.</desc>
+    <length units="minutes">00:39:29</length>
   </programme>
 </tv>
