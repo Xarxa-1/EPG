@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261026173227 +0000" channel="tvi" stop="20261026191412 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">437</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:41:45</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261026223025 +0000" channel="tvi" stop="20261026230254 +0000">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Estrelles Miguelón</sub-title>
+    <desc lang="ca">Un crític gastronòmic de la prestigiosa Guia Miguelón atorga a un plat cuinat per error entre el Toni i el Calafell, la màxima puntuació, les preuades tres estrelles Miguelón. A partir d'aquest moment l'Hotel Lisboa es transforma en un lloc de culte per tots els sibarites de la ciutat. El Toni i el Calafell, creguts del seu geni culinari, decideixen revolucionar la cuina d'autor.</desc>
+    <length units="minutes">00:32:29</length>
   </programme>
-  <programme start="20261026191412 +0000" channel="tvi" stop="20261026201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">951</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:00:48</length>
+  <programme start="20261026230254 +0000" channel="tvi" stop="20261026233501 +0000">
+    <title lang="ca">Blanc sobre blanc</title>
+    <sub-title lang="ca">Realitat i Ficció</sub-title>
+    <desc lang="ca">Per a Julio Vaquero i Robert Llimós la línia que separa la realitat i la ficció és difosa i ambigua. Amb una tècnica compositiva minuciosament cuidada, Julio Vaquero combina el realisme i l'abstracció a través de contrastos cromàtics i lumínics. Així, l'espectador és traslladat a un món oníric, irreal, gairebé metafísic. Robert Llimós s'engloba dins de la concepció figurativa on reivindica el seu malestar moral enfront de la societat imperant. A partir de l'experiència viscuda a Brasil el 2009, Llimós dedica tota l'obra posterior a representar d'una manera il·lustrativa i molt personal la seva visió de criatures extraterrestres.</desc>
+    <length units="minutes">00:32:07</length>
   </programme>
-  <programme start="20261026183000 +0000" channel="324" stop="20261026200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11536</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20261026200000 +0000" channel="324" stop="20261026210000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11537</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261026182925 +0000" channel="esport3" stop="20261026190000 +0000">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">El CE Llinars compleix 110 anys</sub-title>
-    <desc lang="ca">El club vallesà, fundat el 1916, gaudeix d'un gran estat de salut amb 13 equips i 260 llicències. La temporada fins a 5 equips van pujar de categoria, i 3 d'ells com a campions de lliga. Carles Fité entrevista el president del CE Llinars, Jordi Vidal; el coordinador general, Manel Viale; i l'expresident, exjugador i exentrenador, Jaume Girabent. I a més a més, us oferim els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="minutes">00:30:35</length>
-  </programme>
-  <programme start="20261026190000 +0000" channel="esport3" stop="20261026205500 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Les causes de la derrota al clàssic</sub-title>
-    <desc lang="ca">Què li va passar, al Barça, al clàssic? En parlem amb Mireia Vera, Dani Senabre i Marcos López. Amb Ramon Salmurri escoltem l'anàlisi dels jugadors i amb Ricard Torquemada busquem solucions tàctiques per a Flick. També connectarem amb Laia Tudel, que és a Londres per la gala de la Pilota d'Or, que seguirem al canal exclusiu digital a partir de les 21 h. També analitzarem amb Sergi Andreu el moment delicat de l'Espanyol i, amb Eduard Solà, el bon moment del Girona.</desc>
+  <programme start="20261026220500 +0000" channel="324" stop="20261027000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2187</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261026184621 +0000" channel="sx3" stop="20261026185807 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">Rescats extrems: La Patrulla salva el monstre del pantà</sub-title>
-    <desc lang="ca">En una excursió pel pantà, l'alcaldessa i els seus nebots tenen un ensurt i la Patrulla Peluda haurà de fer un rescat extrem.</desc>
-    <length units="minutes">00:11:46</length>
+  <programme start="20261027000000 +0000" channel="324" stop="20261027003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11538</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261026185807 +0000" channel="sx3" stop="20261026192040 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El Faraó</sub-title>
-    <desc lang="ca">El Jalil, germà de l'Alix, que va a la mateixa classe que la Marinette i l'Aya, és un expert en l'antic Egipte. Tan expert, que acaba obsessionat amb Tutankamon i amb un ritual per fer reviure la princesa Nefertiti. El resultat del ritual obligarà Ladybug i el Cat Noir a fer servir tots els seus poders per evitar que l'Alya sigui sacrificada.</desc>
-    <length units="minutes">00:22:33</length>
+  <programme start="20261026213834 +0000" channel="esport3" stop="20261026234334 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Minut a minut / Gala Pilota d'Or</sub-title>
+    <desc lang="ca">El seguiment de la cerimònia de lliurament de la Pilota d'or que es celebra a Londres. Els catalans Lamine Yamal i Alèxia Putellas són ferms candidats al premi principal.</desc>
+    <length units="minutes">02:05:00</length>
   </programme>
-  <programme start="20261026181425 +0000" channel="tv3" stop="20261026190049 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="minutes">00:46:24</length>
+  <programme start="20261026234334 +0000" channel="esport3" stop="20261027011510 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Gala pilota d'or; Ressaca de clàssic i 'El Colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Juvenal Edjogo comenten la gala de la pilota d'or i el partit entre el Barça i el Madrid. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <length units="minutes">01:31:36</length>
   </programme>
-  <programme start="20261026190049 +0000" channel="tv3" stop="20261026194315 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
-    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
-    <length units="minutes">00:42:26</length>
+  <programme start="20261026230008 +0000" channel="sx3" stop="20261026232100 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La desaparició de la lliga de detectius</sub-title>
+    <desc lang="ca">Els nois van a veure el rodatge d'un episodi d'en Kamen Yaiba. De tornada, es troben una dona gran al carrer que perd un bitllet de deu mil iens per culpa del vent. Quan corren per ajudar-la a recuperar-lo, acaben trobant-ne uns quants més. I resulta que són falsos. És un cas per la Lliga de Detectius Júnior, però la cosa es complica i els membres de l'organització criminal estrangera que hi ha al darrere de tot plegat acabaran segrestant-los.</desc>
+    <length units="minutes">00:20:52</length>
+  </programme>
+  <programme start="20261026232100 +0000" channel="sx3" stop="20261026234316 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Activem el poder dels nens. 2a part</sub-title>
+    <desc lang="ca">Mentre l'Aviva s'afanya a arreglar el problema dels vestits de poder animal, el Martin, el Chris i la Koki continuen ajudant els amics que els germans Kratt tenen per tot el món a rescatar animals. Però passa el temps i cada vegada hi ha més animals que necessiten ajuda. Llavors, al Chris se li acut una idea: no tenen poders animals, però sí que tenen uns altres poders...</desc>
+    <length units="minutes">00:22:16</length>
+  </programme>
+  <programme start="20261026225253 +0000" channel="tv3" stop="20261026232341 +0000">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">1994</sub-title>
+    <desc lang="ca">Repassem el 1994, l'any que alliberen la farmacèutica d'Olot del segrest i l'orca Ulisses del zoo de Barcelona. Es cala foc al Liceu, la Penya guanya l'Eurolliga i un veí de Vilassar de Mar estableix un rècord cuinant truites de patates durant 24 hores seguides.</desc>
+    <length units="minutes">00:30:48</length>
+  </programme>
+  <programme start="20261026232341 +0000" channel="tv3" stop="20261026235322 +0000">
+    <title lang="ca">Manicòmics</title>
+    <sub-title lang="ca">El sexe amb Charlie Pee</sub-title>
+    <desc lang="ca">La Charlie i l'Ignasi visiten el Parc Taulí de Sabadell, un lloc on molta gent hi va a parar per culpa del sexe. Descobreixen els llocs més ben puntuats per tenir-hi relacions i parlen amb universitaris sobre les seves tàctiques per lligar.</desc>
+    <length units="minutes">00:29:41</length>
   </programme>
 </tv>
