@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -9,68 +9,70 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20261026103006 +0000" channel="tvi" stop="20261026135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1836</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:54</length>
+  <programme start="20261026173227 +0000" channel="tvi" stop="20261026191412 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">437</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:41:45</length>
   </programme>
-  <programme start="20261026135500 +0000" channel="tvi" stop="20261026143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7062</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261026191412 +0000" channel="tvi" stop="20261026201500 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">951</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:00:48</length>
   </programme>
-  <programme start="20261026120000 +0000" channel="324" stop="20261026135500 +0000">
+  <programme start="20261026183000 +0000" channel="324" stop="20261026200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11533</sub-title>
+    <sub-title lang="ca">11536</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
+  </programme>
+  <programme start="20261026200000 +0000" channel="324" stop="20261026210000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11537</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20261026182925 +0000" channel="esport3" stop="20261026190000 +0000">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">El CE Llinars compleix 110 anys</sub-title>
+    <desc lang="ca">El club vallesà, fundat el 1916, gaudeix d'un gran estat de salut amb 13 equips i 260 llicències. La temporada fins a 5 equips van pujar de categoria, i 3 d'ells com a campions de lliga. Carles Fité entrevista el president del CE Llinars, Jordi Vidal; el coordinador general, Manel Viale; i l'expresident, exjugador i exentrenador, Jaume Girabent. I a més a més, us oferim els resums dels partits més destacats del cap de setmana.</desc>
+    <length units="minutes">00:30:35</length>
+  </programme>
+  <programme start="20261026190000 +0000" channel="esport3" stop="20261026205500 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Les causes de la derrota al clàssic</sub-title>
+    <desc lang="ca">Què li va passar, al Barça, al clàssic? En parlem amb Mireia Vera, Dani Senabre i Marcos López. Amb Ramon Salmurri escoltem l'anàlisi dels jugadors i amb Ricard Torquemada busquem solucions tàctiques per a Flick. També connectarem amb Laia Tudel, que és a Londres per la gala de la Pilota d'Or, que seguirem al canal exclusiu digital a partir de les 21 h. També analitzarem amb Sergi Andreu el moment delicat de l'Espanyol i, amb Eduard Solà, el bon moment del Girona.</desc>
     <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261026135500 +0000" channel="324" stop="20261026143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7062</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261026184621 +0000" channel="sx3" stop="20261026185807 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">Rescats extrems: La Patrulla salva el monstre del pantà</sub-title>
+    <desc lang="ca">En una excursió pel pantà, l'alcaldessa i els seus nebots tenen un ensurt i la Patrulla Peluda haurà de fer un rescat extrem.</desc>
+    <length units="minutes">00:11:46</length>
   </programme>
-  <programme start="20261026112926 +0000" channel="esport3" stop="20261026130000 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Barça-R. Madrid / J10</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:30:34</length>
+  <programme start="20261026185807 +0000" channel="sx3" stop="20261026192040 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Faraó</sub-title>
+    <desc lang="ca">El Jalil, germà de l'Alix, que va a la mateixa classe que la Marinette i l'Aya, és un expert en l'antic Egipte. Tan expert, que acaba obsessionat amb Tutankamon i amb un ritual per fer reviure la princesa Nefertiti. El resultat del ritual obligarà Ladybug i el Cat Noir a fer servir tots els seus poders per evitar que l'Alya sigui sacrificada.</desc>
+    <length units="minutes">00:22:33</length>
   </programme>
-  <programme start="20261026130000 +0000" channel="esport3" stop="20261026140102 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3269</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:02</length>
+  <programme start="20261026181425 +0000" channel="tv3" stop="20261026190049 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="minutes">00:46:24</length>
   </programme>
-  <programme start="20261026124124 +0000" channel="sx3" stop="20261026130333 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El Chris diabòlic de Tasmània</sub-title>
-    <desc lang="ca">Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?</desc>
-    <length units="minutes">00:22:09</length>
-  </programme>
-  <programme start="20261026130333 +0000" channel="sx3" stop="20261026132629 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La trobada secreta de les tres amigues de l'institut (2a part)</sub-title>
-    <desc lang="ca">Els tres sospitosos tenen motius per haver mort en Daiki Saraie, el cambrer, però cap d'ells és prou forçut per haver aixecat el gerro que han fet servir per matar-lo. La Masumi aviat descobrirà el truc que ha fet servir l'assassí per cometre l'assassinat i rebentar el cadenat de la taquilla de la víctima, però necessita l'ajuda d'en Conan per saber qui ha sigut. En Conan, però, només pot pensar en l'escapada a Kyoto que prepara la Ran.</desc>
-    <length units="minutes">00:22:56</length>
-  </programme>
-  <programme start="20261026122717 +0000" channel="tv3" stop="20261026140207 +0000">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">A 'El gran gran dictat' d'aquest dissabte, tres cares conegudes i d'allò més variades respondran les preguntes de l'Òscar Dalmau. El Pere Tapias, cantautor, gastrònom i locutor de ràdio. Un home que quan queda per fer el vermut sempre demana el mateix: unes tàpies variades. L'Elisabet Casanovas, actriu joveníssima que hem descobert recentment a la sèrie de TV3 'Merlí'. I el David Bagés, actor, un dels dolents més dolents que ha passat per la sobretaula de TV3.Aquests tres concursants no només vindran a demostrar els seus coneixements de català. El Pere Tapias, conegut com el guru de l'estil català, ens revelarà el seu secret per no haver perdut mai aquest títol. L'Elisabet Casanovas ens explicarà per què li diuen l'esportista de llançament de pes més original i més cultivada de Catalunya. I, per últim, el David Bagés donarà la cara i ens descobrirà el seu secret per semblar sempre un jove de trenta anys.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
-    <length units="minutes">01:34:50</length>
-  </programme>
-  <programme start="20261026140207 +0000" channel="tv3" stop="20261026144937 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El mirall</sub-title>
-    <desc lang="ca">Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
-    <length units="minutes">00:47:30</length>
+  <programme start="20261026190049 +0000" channel="tv3" stop="20261026194315 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
+    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
+    <length units="minutes">00:42:26</length>
   </programme>
 </tv>
