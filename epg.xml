@@ -3,74 +3,76 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261025210000 +0000" channel="tvi" stop="20261025221553 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7368</sub-title>
-    <length units="minutes">01:15:53</length>
+  <programme start="20261026003353 +0000" channel="tvi" stop="20261026040000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11530</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:26:07</length>
   </programme>
-  <programme start="20261025220831 +0000" channel="tvi" stop="20261025223925 +0000">
-    <title lang="ca">30 minuts</title>
-    <sub-title lang="ca">Morts de calor</sub-title>
-    <desc lang="ca">Els últims cinc mesos, de maig a setembre, hem viscut morts de calor. Mai abans no havíem patit tantes calorades, ni tan llargues. En els registres del servei meteorològic de Catalunya s'han superat els 40 graus en 24 dies. L'augment de temperatures pel canvi climàtic s'està accelerant. Com ens afecta aquesta calor? Estem preparats per afrontar-la? Es poden mitigar els efectes? Al reportatge 'Morts de calor' un equip del 30 minuts retrata l'impacte de la calor en la vida quotidiana, des de les escoles a les llars particulars o els treballs a l'aire lliure com els temporers o alguns serveis públics. El 80% dels edificis són del segle passat, mal aïllats o més pensats per resistir el fred que la calor. De dia és difícil estar-s'hi, però de nit és pitjor. Aquest any s'han viscut 177 nits tropicals, 70 tòrrides i 1 de roent, per sobre de 30 graus. 'La sensació de no poder descansar és terrible -diu Àlex Martín, que viu sota terrat-. Al final, si no descanses no rendeixes i al dia següent estàs de més mal humor.' La calor està disparant la venda de ventiladors i aires condicionats. 'La gent que no li agrada l'aire, que no ha volgut tindre aire i han aguantat sense aire, aquests últims 3 anys se l'estan posant', assegura Marc Zoroa, instal·lador. La temperatura extrema i persistent té importants efectes sobre la salut que no sempre són evidents. 'Normalment tenim l'ordre d'entre 3 i 5 cops de calor mortals a Catalunya, puntualitza Jacobo Mendioroz, subdirector d'alertes i emergències de Salut Pública-però probablement el gruix dels efectes sigui les descompensacions de patologies cròniques en persones ja vulnerables o en persones grans'. El reportatge 'Morts de calor' mostra també les solucions que proposen les últimes investigacions científiques per paliar la calor, com prioritzar la vegetació per sobre del ciment a les ciutats, amb més ombres, per rebaixar fins a 8 graus la temperatura.</desc>
-    <length units="minutes">00:30:54</length>
+  <programme start="20261026040000 +0000" channel="tvi" stop="20261026044617 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Dusan's Flying Blues Band</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:46:17</length>
   </programme>
-  <programme start="20261025210000 +0000" channel="324" stop="20261025230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7368</sub-title>
+  <programme start="20261026010000 +0000" channel="324" stop="20261026060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11530</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261026060000 +0000" channel="324" stop="20261026080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11531</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261025230000 +0000" channel="324" stop="20261026003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11529</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261026025740 +0000" channel="esport3" stop="20261026044106 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Sabadell-CD Tenerife / Lliga Hypermotion / J11</sub-title>
+    <desc lang="ca">Els partits més destacats a la Segona Divisió del futbol estatal.</desc>
+    <length units="minutes">01:43:26</length>
   </programme>
-  <programme start="20261025205533 +0000" channel="esport3" stop="20261025225206 +0000">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Barça-R. Madrid</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="minutes">01:56:33</length>
-  </programme>
-  <programme start="20261025225206 +0000" channel="esport3" stop="20261025232845 +0000">
+  <programme start="20261026044106 +0000" channel="esport3" stop="20261026051709 +0000">
     <title lang="ca">Motor a fons</title>
     <sub-title lang="ca">GP d'Austràlia</sub-title>
     <desc lang="ca">Divuitena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <length units="minutes">00:36:39</length>
+    <length units="minutes">00:36:03</length>
   </programme>
-  <programme start="20261025210004 +0000" channel="sx3" stop="20261025212057 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El pigarg americà que fa quatre</sub-title>
-    <desc lang="ca">Per estudiar de més a prop el pigarg americà, el Chris i el Martin, amagats a dins d'uns ous d'aquest ocell, van a parar a dins d'un niu. Quan surten de l'ou, els adults els tracten com si fossin dues cries més. Tot va bé fins que el Gormand es disfressa d'os negre per robar ous de pigarg i fer una recepta nova: suflé d'ou de pigarg. L'equip dels germans Kratt farà tot el possible per arreglar-ho.</desc>
-    <length units="minutes">00:20:53</length>
+  <programme start="20261026030017 +0000" channel="sx3" stop="20261026031003 +0000">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">La nau espacial del Glorbo</sub-title>
+    <desc lang="ca">En aquest episodi aprendrem a dibuixar una nau espacial com la que ha dut el Glorbo fins al planeta Terra. Alhora, en Will ens ensenyarà a experimentar amb plena llibertat a l'hora de crear personatges extraterrestres, que podem imaginar amb formes i trets totalment diferents dels de les persones. I també tindrem una petita pista de quina és l'arma secreta del Crònica per conquerir la Terra aquesta vegada.</desc>
+    <length units="minutes">00:09:46</length>
   </programme>
-  <programme start="20261025212057 +0000" channel="sx3" stop="20261025214106 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'exterminiador</sub-title>
-    <desc lang="ca">Arriba l'hivern i la majoria d'ocells volen cap al sud, però alguns, com la mallerenga, no migren. L'Aviva promet als germans Kratt que si són capaços de trobar uns quants poders d'aquest ocell, els en farà un vestit de poder. Mentre estudien les mallerengues, el Martin es distreu amb un animal que passa corrents, se separa del Chris i li cau l'animal-pod. Quan veu de prop l'animal que l'ha despistat, s'adona és un ermini.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261026031003 +0000" channel="sx3" stop="20261026032036 +0000">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Retrobot</sub-title>
+    <desc lang="ca">En aquest episodi, en Will Sliney ens ensenyarà a fer un nou personatge de còmic, els robots. A l'hora de dibuixar robots, un dels trucs és adonar-se que són una màquina artificial, i la millor manera de dibuixar-los és utilitzar la tècnica de la perspectiva i afegir-los tants detalls com sigui possible per donar una idea de la seva complexitat.</desc>
+    <length units="minutes">00:10:33</length>
   </programme>
-  <programme start="20261025210242 +0000" channel="tv3" stop="20261025213013 +0000">
-    <title lang="ca">Caçadors de bolets</title>
-    <sub-title lang="ca">Enòlegs</sub-title>
-    <desc lang="ca">Aquesta setmana coneixerem un grup d'enòlegs del Priorat que, a més de ser especialistes en vins, també en saben molt de bolets. Surten amb dos objectius molt clars: primer, trobar un dels bolets més cobejats de Catalunya, la llenega. I segon, collir un bolet poc conegut però molt apreciat pels experts, la gírgola de bruc.</desc>
-    <length units="minutes">00:27:31</length>
+  <programme start="20261026025109 +0000" channel="tv3" stop="20261026034008 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">El Miquel</sub-title>
+    <desc lang="ca">Tot i que el Miquel ja coneix el secret familiar, en lloc de denunciar-los decideix ajudar l'Àngela i els seus fills prenent el rol de pare de família. Convençuts que ha embogit, decideixen buscar la manera de fer-lo fora i que no parli.</desc>
+    <length units="minutes">00:48:59</length>
   </programme>
-  <programme start="20261025213013 +0000" channel="tv3" stop="20261025215553 +0000">
-    <title lang="ca">Caçadors de bolets</title>
-    <sub-title lang="ca">Cardiólegs</sub-title>
-    <desc lang="ca">En aquest capítol acompanyarem un grup de cardiòlegs de l'Hospital del Mar de Barcelona, que aniran fins al Lluçanès amb un objectiu clar: trobar llenegues. El temps no els acompanyarà gaire, però trobaran uns boletaires que coneixen bé la zona.</desc>
-    <length units="minutes">00:25:40</length>
+  <programme start="20261026034008 +0000" channel="tv3" stop="20261026042401 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">L'accident</sub-title>
+    <desc lang="ca">Després que algú sabotegés els frens del seu cotxe, el Miquel és a l'hospital en coma. El Raül Dorado comença una investigació que passa per interrogar un a un els membres de la família: haurà de descobrir qui ha estat si no volen acabar tots a la presó.</desc>
+    <length units="minutes">00:43:53</length>
   </programme>
 </tv>
