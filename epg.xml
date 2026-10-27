@@ -3,76 +3,76 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261027172922 +0000" channel="tvi" stop="20261027191452 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">438</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:45:30</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261027221116 +0000" channel="tvi" stop="20261027234631 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Justo Molinero: el poder d'una veu</sub-title>
+    <desc lang="ca">Durant més de quaranta anys, Justo Molinero ha construït un imperi mediàtic des dels marges. Fill d'una família humil d'Andalusia, mecànic, taxista i emprenedor incansable, va entendre abans que ningú el potencial d'una comunitat immigrant que no trobava la seva veu als mitjans tradicionals. El resultat va ser Radio TeleTaxi: un fenomen de masses capaç de mobilitzar milions de persones, omplir recintes i convertir el seu fundador en un dels comunicadors més influents del país.Ara, després d'haver cedit el control de l'emissora a la seva filla Andrea, Molinero mira enrere i revisita els moments que han marcat la seva trajectòria: l'ascens meteòric, la seva controvertida relació amb el poder polític, els grans èxits empresarials, les crisis que van posar-ho tot en risc i el preu personal d'una vida dedicada a mantenir-se al capdamunt.Amb accés íntim al protagonista i als qui han format part del seu univers, aquest documental retrata l'home darrere del mite i el llegat d'un personatge que va transformar per sempre la comunicació popular a Catalunya. Amb la participació, entre d'altres, d'Estopa, Los Chunguitos, Diana Navarro, María del Monte, Anna Simon, Lorena Castell, Gabriel Rufián, Jordi Pujol, José Montilla i Artur Mas, el documental recull els testimonis privilegiats de persones que van viure de prop un fenomen que va anar molt més enllà de la ràdio.</desc>
+    <length units="minutes">01:35:15</length>
   </programme>
-  <programme start="20261027191452 +0000" channel="tvi" stop="20261027201844 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">952</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:03:52</length>
+  <programme start="20261027234631 +0000" channel="tvi" stop="20261028010808 +0000">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Desperta, Sèrbia! La revolta dels estudiants</sub-title>
+    <desc lang="ca">En un moment en què arreu d'Occident la joventut oscil·la entre l'apatia política i l'alimentació de l'auge del populisme i l'extrema dreta, a Sèrbia passa quelcom inesperat: els estudiants lluiten per la democràcia i els drets humans.L'ensorrament de l'estació de tren de Novi Sad, que va causar 16 morts i va destapar la corrupció institucional endèmica, juntament amb la repressió contra estudiants universitaris i ha encès la flama d'un moviment sense precedents. El que neix com una protesta pels morts es converteix en la vaga estudiantil més llarga de la història europea contemporània.Els estudiants ocupen universitats i inicien marxes pacífiques arreu del país, posant contra les cordes el govern d'Aleksandar Vu?i?. Però aquest moviment que vol ser pacífic s'enfronta a grans reptes i preguntes: es pot fer una revolució no violenta al segle XXI? Es pot resistir a la repressió d'un estat corrupte? Pot una societat serbia marcada per la por i sotmesa a un president ultranacionalista &amp;mdash;antic ministre de Slobodan Miloševi?&amp;mdash; despertar i reclamar la democràcia?Per què a Europa gairebé no se'n parla? Quins interessos amagats hi té la UE i el món? És possible sostenir un moviment assembleari, sense líders visibles? Pot Sèrbia deixar enrere el fantasma de les guerres balcàniques i l'ultranacionalisme per avançar cap a una societat plural, diversa i democràtica?Punt de No retorn ha estat l'únic mitjà que ha tingut accés a la Universitat d'arts dramàtiques de Belgrad, on ha sorgit el moviment i s'ha liderat la protesta. Amb accés exclusiu al cor del moviment universitari, aquest documental s'endinsa en la lluita d'una nova generació, mostrant les seves victòries, contradiccions, reptes i la batalla d'idees que podria definir no només el futur de Sèrbia, sinó també el d'una Europa en crisi.</desc>
+    <length units="minutes">01:21:37</length>
   </programme>
-  <programme start="20261027170000 +0000" channel="324" stop="20261027183000 +0000">
+  <programme start="20261027220500 +0000" channel="324" stop="20261028000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2188</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20261028000000 +0000" channel="324" stop="20261028003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11544</sub-title>
+    <sub-title lang="ca">11547</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261027183000 +0000" channel="324" stop="20261027200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11545</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261027202015 +0000" channel="esport3" stop="20261027222557 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
+    <desc lang="ca">Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
+    <length units="minutes">02:05:42</length>
   </programme>
-  <programme start="20261027175510 +0000" channel="esport3" stop="20261027190130 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Balkan Botevgrad-Kids&amp;Us Manresa / Eurocup / J5</sub-title>
-    <desc lang="ca">Els manresans sumen 2 victòries i 2 derrotes, i visiten la pista del Balkan, el cuer del grup, a l'Arena de Botevgrad de Bulgària.</desc>
-    <length units="minutes">01:06:20</length>
+  <programme start="20261027222557 +0000" channel="esport3" stop="20261027230012 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">La gala de la Pilota d'or, jornada de Copa i tertúlia</sub-title>
+    <desc lang="ca">Alèxia i Harry Kane s'emporten la Pilota d'Or. El Barça, el club més premiat a la gala. Avui, jornada de Copa. Juguen Espanyol, Manresa, Sant Andreu, Girona i Europa. A la tertúlia ens acompanyen Arancha Rodríguez, Joan Poquí i Màrius Carol</desc>
+    <length units="minutes">00:34:15</length>
   </programme>
-  <programme start="20261027190130 +0000" channel="esport3" stop="20261027195715 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Balkan Botevgrad-Kids&amp;Us Manresa / Eurocup / J5</sub-title>
-    <desc lang="ca">Els manresans sumen 2 victòries i 2 derrotes, i visiten la pista del Balkan, el cuer del grup, a l'Arena de Botevgrad de Bulgària.</desc>
-    <length units="minutes">00:55:45</length>
+  <programme start="20261027222053 +0000" channel="sx3" stop="20261027224318 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El testimoni que no vol parlar</sub-title>
+    <desc lang="ca">Una velleta afirma que l'han fet caure daltabaix de l'escala. La policia busca testimonis al lloc dels fets, però l'única persona que sembla haver vist alguna cosa és un noi que, per algun motiu incomprensible, no vol parlar. Els Detectius Júnior, en Conan i la Haibara sospiten que té una raó de pes per no declarar i decideixen seguir-lo per descobrir què amaga.</desc>
+    <length units="minutes">00:22:25</length>
   </programme>
-  <programme start="20261027175354 +0000" channel="sx3" stop="20261027175824 +0000">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Xerinola a la pista de ball</sub-title>
-    <desc lang="ca">L'Arty podrà il·luminar els quatre requadres de la pista de ball abans que s'acabi el temps? Amb l'ajuda de la Colla del Moviment, aviat començarà la ballaruga!</desc>
-    <length units="minutes">00:04:30</length>
+  <programme start="20261027224318 +0000" channel="sx3" stop="20261027230348 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas de l'Acadèmia de Policia. Kenji Hagiwara</sub-title>
+    <desc lang="ca">En aquesta nova aventura dels cinc amics de l'Acadèmia de Policia coneixerem el passat d'en Hagiwara, els pares del qual tenien un taller de reparació de cotxes que va haver de tancar a causa de la crisi econòmica. Els cinc amics col·laboraran per trobar la manera d'aturar un camió descontrolat que arrossega un cotxe on viatja un matrimoni gran.</desc>
+    <length units="minutes">00:20:30</length>
   </programme>
-  <programme start="20261027175824 +0000" channel="sx3" stop="20261027180254 +0000">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Passera a passera</sub-title>
-    <desc lang="ca">La Som-hi, la Prou i la Colla del Moviment ajudaran l'Arty i els Saltirons a trobar la manera de travessar un riu ple de fang per poder anar d'excursió al prat de l'altre costat.</desc>
-    <length units="minutes">00:04:30</length>
+  <programme start="20261027220245 +0000" channel="tv3" stop="20261027225335 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La pala de pàdel</sub-title>
+    <desc lang="ca">Verge Santa quina dèria que us ha agafat amb el pàdel! És més difícil trobar-se a algú que no jugui a aquest esport, que un bitllet de cinquanta euros a terra. Bé, parlem de la pala de pàdel, estri indispensable per poder-hi jugar. Ens visita en Damià Bonsfills, un pilot de simracing, el que la gent que ja tenim una edat coneixem com 'un crac jugant a la maquineta'. I passegem el gos pel projecte Biosfera 2, un intent de crear vida artificial que va sortir… regular.</desc>
+    <length units="minutes">00:50:50</length>
   </programme>
-  <programme start="20261027174034 +0000" channel="tv3" stop="20261027180249 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Botox:el triomf de l'agulla</sub-title>
-    <desc lang="ca">La toxina botulínica és el verí més potent que hi ha a la natura. Tot i això, milers de dones se'n posen a la cara per treure's les arrugues. L'Anna Lasaga investiga com actua el botox i com s'aconsegueix convertir un verí en un medicament amb efectes terapèutics. El botox es va començar a utilitzar per tractar malalties com ara distonies o espasmes facials, perquè el seu mecanisme d'acció és la paralització del múscul on s'injecta. La neuròloga Fina Martí fa 20 anys que l'utilitza per tractar els seus pacients. L'ús en estètica a Espanya és més recent, del 2004. La doctora Sílvia Lleal ens explica què cal tenir en compte per aconseguir atenuar les arrugues sense perdre l'expressió. 'Quèquicom' parla també amb dues dones que han decidit posar-se botox per millorar el seu aspecte físic. Però en el món de l'estètica no tot és botox. El doctor Jaume Tufet ens ensenya com es pot remodelar una cara (o unes mans!) fent servir només agulles.</desc>
-    <length units="minutes">00:22:15</length>
-  </programme>
-  <programme start="20261027180249 +0000" channel="tv3" stop="20261027182741 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Suor, salut i llàgrimes.</sub-title>
-    <desc lang="ca">La suor és una reacció del cos necessària per viure. Sense, moriríem ofegats. Hi ha persones, però, que la pateixen en excés: és el que s'anomena hiperhidrosi. L'Alba Casals és una persona que pateix hiperhidrosi. Li suen les mans en excés i això ha influït tant en la seva vida personal com professional. Quèquicom l'acompanya al dermatòleg perquè l'aconselli què pot fer, i descobreix que una de les solucions és l'operació.</desc>
-    <length units="minutes">00:24:52</length>
+  <programme start="20261027225335 +0000" channel="tv3" stop="20261028001751 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Bruc</sub-title>
+    <desc lang="ca">BRUC (bruc, 2011) Producció: Ikiru Films, Mesfilms inversions, Bruc-Laurion amb producció associada de Televisió de Catalunya, 2011Director: Daniel BenmayorGuió: Jordi Gasull i Patzi Amercua segons una història original de Jordi GasullDirector de fotografia: Juanmi AzpirozMúsica: Xavier CapellasIntèrprets: Juan José Ballesta (Bruc) Vicent Perez (Maraval), Santi Millán (De la Mata), Astrid Bergès-Frisbey (Glòria), Nicolas Giraud (Nouaille), Moussa Maaskri (Attab), Jérôme Le Banner (Baraton) i Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel, Napoleó envia a sis mercenaris que han lluita en mil i unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats, el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi, al que anomenen Bruc pel lloc de la batalla, haurà de lluitar sol per sobreviure i venjar la seva família. Es converteix així en un símbol de llibertat i esperança per al seu país, el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</desc>
+    <length units="minutes">01:24:16</length>
   </programme>
 </tv>
