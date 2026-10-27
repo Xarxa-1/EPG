@@ -3,76 +3,75 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261026223025 +0000" channel="tvi" stop="20261026230254 +0000">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Estrelles Miguelón</sub-title>
-    <desc lang="ca">Un crític gastronòmic de la prestigiosa Guia Miguelón atorga a un plat cuinat per error entre el Toni i el Calafell, la màxima puntuació, les preuades tres estrelles Miguelón. A partir d'aquest moment l'Hotel Lisboa es transforma en un lloc de culte per tots els sibarites de la ciutat. El Toni i el Calafell, creguts del seu geni culinari, decideixen revolucionar la cuina d'autor.</desc>
-    <length units="minutes">00:32:29</length>
-  </programme>
-  <programme start="20261026230254 +0000" channel="tvi" stop="20261026233501 +0000">
-    <title lang="ca">Blanc sobre blanc</title>
-    <sub-title lang="ca">Realitat i Ficció</sub-title>
-    <desc lang="ca">Per a Julio Vaquero i Robert Llimós la línia que separa la realitat i la ficció és difosa i ambigua. Amb una tècnica compositiva minuciosament cuidada, Julio Vaquero combina el realisme i l'abstracció a través de contrastos cromàtics i lumínics. Així, l'espectador és traslladat a un món oníric, irreal, gairebé metafísic. Robert Llimós s'engloba dins de la concepció figurativa on reivindica el seu malestar moral enfront de la societat imperant. A partir de l'experiència viscuda a Brasil el 2009, Llimós dedica tota l'obra posterior a representar d'una manera il·lustrativa i molt personal la seva visió de criatures extraterrestres.</desc>
-    <length units="minutes">00:32:07</length>
-  </programme>
-  <programme start="20261026220500 +0000" channel="324" stop="20261027000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2187</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261027000000 +0000" channel="324" stop="20261027003000 +0000">
+  <programme start="20261027021709 +0000" channel="tvi" stop="20261027040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11538</sub-title>
+    <sub-title lang="ca">11539</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">01:42:51</length>
   </programme>
-  <programme start="20261026213834 +0000" channel="esport3" stop="20261026234334 +0000">
+  <programme start="20261027040000 +0000" channel="tvi" stop="20261027044506 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Dani Baraldes &amp; The XX Band</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:06</length>
+  </programme>
+  <programme start="20261027010000 +0000" channel="324" stop="20261027060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11539</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261027060000 +0000" channel="324" stop="20261027080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11540</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261027020913 +0000" channel="esport3" stop="20261027043303 +0000">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Minut a minut / Gala Pilota d'Or</sub-title>
     <desc lang="ca">El seguiment de la cerimònia de lliurament de la Pilota d'or que es celebra a Londres. Els catalans Lamine Yamal i Alèxia Putellas són ferms candidats al premi principal.</desc>
-    <length units="minutes">02:05:00</length>
+    <length units="minutes">02:23:50</length>
   </programme>
-  <programme start="20261026234334 +0000" channel="esport3" stop="20261027011510 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Gala pilota d'or; Ressaca de clàssic i 'El Colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Juvenal Edjogo comenten la gala de la pilota d'or i el partit entre el Barça i el Madrid. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">01:31:36</length>
+  <programme start="20261027043303 +0000" channel="esport3" stop="20261027044859 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5550</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:15:56</length>
   </programme>
-  <programme start="20261026230008 +0000" channel="sx3" stop="20261026232100 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La desaparició de la lliga de detectius</sub-title>
-    <desc lang="ca">Els nois van a veure el rodatge d'un episodi d'en Kamen Yaiba. De tornada, es troben una dona gran al carrer que perd un bitllet de deu mil iens per culpa del vent. Quan corren per ajudar-la a recuperar-lo, acaben trobant-ne uns quants més. I resulta que són falsos. És un cas per la Lliga de Detectius Júnior, però la cosa es complica i els membres de l'organització criminal estrangera que hi ha al darrere de tot plegat acabaran segrestant-los.</desc>
-    <length units="minutes">00:20:52</length>
+  <programme start="20261027033304 +0000" channel="sx3" stop="20261027035437 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Deflagració, la decisió dels kwamis (2a part)</sub-title>
+    <desc lang="ca">Al Monarca se li presenta una oportunitat que no està disposat a deixar passar. El món està a punt de canviar de dalt a baix i no sembla que hi hagi ningú capaç d'impedir-ho, perquè el kwamis han pres una decisió que ha fet que la Marinette i l'Adrien es distreguin completament de les seves responsabilitats. Per bé i per mal.</desc>
+    <length units="minutes">00:21:33</length>
   </programme>
-  <programme start="20261026232100 +0000" channel="sx3" stop="20261026234316 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Activem el poder dels nens. 2a part</sub-title>
-    <desc lang="ca">Mentre l'Aviva s'afanya a arreglar el problema dels vestits de poder animal, el Martin, el Chris i la Koki continuen ajudant els amics que els germans Kratt tenen per tot el món a rescatar animals. Però passa el temps i cada vegada hi ha més animals que necessiten ajuda. Llavors, al Chris se li acut una idea: no tenen poders animals, però sí que tenen uns altres poders...</desc>
-    <length units="minutes">00:22:16</length>
+  <programme start="20261027035437 +0000" channel="sx3" stop="20261027041644 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Perfecció</sub-title>
+    <desc lang="ca">Què faria la Marinette sense els seus amics? Tota la colla han decidit fer el que puguin per ajudar-la a acostar-se a l'Adrien. Aquesta vegada, els ha de sortir bé. Però la Marinette sempre és capaç de sorprendre. Ningú li ha explicat res i ningú sap que ella també té un pla infal·lible per dir-li a l'Adrien el que sent per ell. Tots descobriran que és millor dir les coses clares als amics per evitar malentesos... que podrien provocar que algú acabés akumatitzat!</desc>
+    <length units="minutes">00:22:07</length>
   </programme>
-  <programme start="20261026225253 +0000" channel="tv3" stop="20261026232341 +0000">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">1994</sub-title>
-    <desc lang="ca">Repassem el 1994, l'any que alliberen la farmacèutica d'Olot del segrest i l'orca Ulisses del zoo de Barcelona. Es cala foc al Liceu, la Penya guanya l'Eurolliga i un veí de Vilassar de Mar estableix un rècord cuinant truites de patates durant 24 hores seguides.</desc>
-    <length units="minutes">00:30:48</length>
+  <programme start="20261027033053 +0000" channel="tv3" stop="20261027040243 +0000">
+    <title lang="ca">Gran Reserva. Còmics</title>
+    <sub-title lang="ca">Jordi Villacampa</sub-title>
+    <length units="minutes">00:31:50</length>
   </programme>
-  <programme start="20261026232341 +0000" channel="tv3" stop="20261026235322 +0000">
-    <title lang="ca">Manicòmics</title>
-    <sub-title lang="ca">El sexe amb Charlie Pee</sub-title>
-    <desc lang="ca">La Charlie i l'Ignasi visiten el Parc Taulí de Sabadell, un lloc on molta gent hi va a parar per culpa del sexe. Descobreixen els llocs més ben puntuats per tenir-hi relacions i parlen amb universitaris sobre les seves tàctiques per lligar.</desc>
-    <length units="minutes">00:29:41</length>
+  <programme start="20261027040243 +0000" channel="tv3" stop="20261027045030 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Méteo</sub-title>
+    <desc lang="ca">El mal temps afecta el funcionament de l'aeroport i també els seus treballadors: fred siberià els matins d'hivern i calor infernal a l'estiu. Enmig, tempestes del tipus 'Mórdor' que obliguen a tancar l'aeroport, de vegades invisible per un mur de boira a l'estil 'Casablanca'.</desc>
+    <length units="minutes">00:47:47</length>
   </programme>
 </tv>
