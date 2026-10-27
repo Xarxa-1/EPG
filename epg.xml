@@ -1,76 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261027103008 +0000" channel="tvi" stop="20261027135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1837</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="minutes">03:24:52</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261027172922 +0000" channel="tvi" stop="20261027191452 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">438</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:45:30</length>
   </programme>
-  <programme start="20261027135500 +0000" channel="tvi" stop="20261027143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7063</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261027191452 +0000" channel="tvi" stop="20261027201844 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">952</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:03:52</length>
   </programme>
-  <programme start="20261027103000 +0000" channel="324" stop="20261027123000 +0000">
+  <programme start="20261027170000 +0000" channel="324" stop="20261027183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11541</sub-title>
+    <sub-title lang="ca">11544</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261027123000 +0000" channel="324" stop="20261027133000 +0000">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <sub-title lang="ca">263</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261027183000 +0000" channel="324" stop="20261027200000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11545</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261027120738 +0000" channel="esport3" stop="20261027121339 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Gavarres</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:06:01</length>
+  <programme start="20261027175510 +0000" channel="esport3" stop="20261027190130 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Balkan Botevgrad-Kids&amp;Us Manresa / Eurocup / J5</sub-title>
+    <desc lang="ca">Els manresans sumen 2 victòries i 2 derrotes, i visiten la pista del Balkan, el cuer del grup, a l'Arena de Botevgrad de Bulgària.</desc>
+    <length units="minutes">01:06:20</length>
   </programme>
-  <programme start="20261027121339 +0000" channel="esport3" stop="20261027130000 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Gala pilota d'or; Ressaca de clàssic i 'El Colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Juvenal Edjogo comenten la gala de la pilota d'or i el partit entre el Barça i el Madrid. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">00:46:21</length>
+  <programme start="20261027190130 +0000" channel="esport3" stop="20261027195715 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Balkan Botevgrad-Kids&amp;Us Manresa / Eurocup / J5</sub-title>
+    <desc lang="ca">Els manresans sumen 2 victòries i 2 derrotes, i visiten la pista del Balkan, el cuer del grup, a l'Arena de Botevgrad de Bulgària.</desc>
+    <length units="minutes">00:55:45</length>
   </programme>
-  <programme start="20261027115448 +0000" channel="sx3" stop="20261027121632 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Octopus Kratticus</sub-title>
-    <desc lang="ca">L'Aviva ha enviat en Chris i en Martin a recuperar el Vestit de Poders Animals que han perdut en una fossa de l'Àrtic amb el Robopop, un supersubmarí inspirat en el món animal. Allà es trobaran amb el Set, un animal que d'entrada sembla una espècie de pop nova, però que ben aviat s'adonaran que té molts cops amagats. Què deu ser?!</desc>
-    <length units="minutes">00:21:44</length>
+  <programme start="20261027175354 +0000" channel="sx3" stop="20261027175824 +0000">
+    <title lang="ca">Wonderblocks</title>
+    <sub-title lang="ca">Xerinola a la pista de ball</sub-title>
+    <desc lang="ca">L'Arty podrà il·luminar els quatre requadres de la pista de ball abans que s'acabi el temps? Amb l'ajuda de la Colla del Moviment, aviat començarà la ballaruga!</desc>
+    <length units="minutes">00:04:30</length>
   </programme>
-  <programme start="20261027121632 +0000" channel="sx3" stop="20261027123732 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Caminem per sobre l'aigua</sub-title>
-    <desc lang="ca">En Chris i en Martin són a Costa Rica intentant trobar un basilisc, un llangardaix capaç de caminar per sobre l'aigua, per incorporar aquest superpoder als seus vestits. De fet, els anirà molt bé per aturar la Donita Donata, que té intenció de guanyar el premi al millor dissenyador de barrets de París amb un barret de basilisc! Avui, les curses són a l'aigua!</desc>
-    <length units="minutes">00:21:00</length>
+  <programme start="20261027175824 +0000" channel="sx3" stop="20261027180254 +0000">
+    <title lang="ca">Wonderblocks</title>
+    <sub-title lang="ca">Passera a passera</sub-title>
+    <desc lang="ca">La Som-hi, la Prou i la Colla del Moviment ajudaran l'Arty i els Saltirons a trobar la manera de travessar un riu ple de fang per poder anar d'excursió al prat de l'altre costat.</desc>
+    <length units="minutes">00:04:30</length>
   </programme>
-  <programme start="20261027120111 +0000" channel="tv3" stop="20261027120843 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Arròs de sèpia, espàrrecs, moixernons i gambes</sub-title>
-    <desc lang="ca">RESTAURANT 1921 - BARCELONACUINER ALEX SUÑEDificultat: mitjanaTemps d'elaboració: 2hProducte principal: SÈPIA/ ARRÒS/ ESPÀRRECSTemporada: Primavera</desc>
-    <length units="minutes">00:07:32</length>
+  <programme start="20261027174034 +0000" channel="tv3" stop="20261027180249 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Botox:el triomf de l'agulla</sub-title>
+    <desc lang="ca">La toxina botulínica és el verí més potent que hi ha a la natura. Tot i això, milers de dones se'n posen a la cara per treure's les arrugues. L'Anna Lasaga investiga com actua el botox i com s'aconsegueix convertir un verí en un medicament amb efectes terapèutics. El botox es va començar a utilitzar per tractar malalties com ara distonies o espasmes facials, perquè el seu mecanisme d'acció és la paralització del múscul on s'injecta. La neuròloga Fina Martí fa 20 anys que l'utilitza per tractar els seus pacients. L'ús en estètica a Espanya és més recent, del 2004. La doctora Sílvia Lleal ens explica què cal tenir en compte per aconseguir atenuar les arrugues sense perdre l'expressió. 'Quèquicom' parla també amb dues dones que han decidit posar-se botox per millorar el seu aspecte físic. Però en el món de l'estètica no tot és botox. El doctor Jaume Tufet ens ensenya com es pot remodelar una cara (o unes mans!) fent servir només agulles.</desc>
+    <length units="minutes">00:22:15</length>
   </programme>
-  <programme start="20261027120843 +0000" channel="tv3" stop="20261027121606 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Calamarsets amb la tinta i saltat de rossinyols</sub-title>
-    <desc lang="ca">restaurant 1921 - BARCELONACUINER ALEX SUÑÉDificultat: mitjanaTemps d'elaboració: 2hProducte principal: calamarsetsTemporada: primavera</desc>
-    <length units="minutes">00:07:23</length>
+  <programme start="20261027180249 +0000" channel="tv3" stop="20261027182741 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Suor, salut i llàgrimes.</sub-title>
+    <desc lang="ca">La suor és una reacció del cos necessària per viure. Sense, moriríem ofegats. Hi ha persones, però, que la pateixen en excés: és el que s'anomena hiperhidrosi. L'Alba Casals és una persona que pateix hiperhidrosi. Li suen les mans en excés i això ha influït tant en la seva vida personal com professional. Quèquicom l'acompanya al dermatòleg perquè l'aconselli què pot fer, i descobreix que una de les solucions és l'operació.</desc>
+    <length units="minutes">00:24:52</length>
   </programme>
 </tv>
