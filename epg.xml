@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261027221116 +0000" channel="tvi" stop="20261027234631 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Justo Molinero: el poder d'una veu</sub-title>
-    <desc lang="ca">Durant més de quaranta anys, Justo Molinero ha construït un imperi mediàtic des dels marges. Fill d'una família humil d'Andalusia, mecànic, taxista i emprenedor incansable, va entendre abans que ningú el potencial d'una comunitat immigrant que no trobava la seva veu als mitjans tradicionals. El resultat va ser Radio TeleTaxi: un fenomen de masses capaç de mobilitzar milions de persones, omplir recintes i convertir el seu fundador en un dels comunicadors més influents del país.Ara, després d'haver cedit el control de l'emissora a la seva filla Andrea, Molinero mira enrere i revisita els moments que han marcat la seva trajectòria: l'ascens meteòric, la seva controvertida relació amb el poder polític, els grans èxits empresarials, les crisis que van posar-ho tot en risc i el preu personal d'una vida dedicada a mantenir-se al capdamunt.Amb accés íntim al protagonista i als qui han format part del seu univers, aquest documental retrata l'home darrere del mite i el llegat d'un personatge que va transformar per sempre la comunicació popular a Catalunya. Amb la participació, entre d'altres, d'Estopa, Los Chunguitos, Diana Navarro, María del Monte, Anna Simon, Lorena Castell, Gabriel Rufián, Jordi Pujol, José Montilla i Artur Mas, el documental recull els testimonis privilegiats de persones que van viure de prop un fenomen que va anar molt més enllà de la ràdio.</desc>
-    <length units="minutes">01:35:15</length>
-  </programme>
-  <programme start="20261027234631 +0000" channel="tvi" stop="20261028010808 +0000">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Desperta, Sèrbia! La revolta dels estudiants</sub-title>
-    <desc lang="ca">En un moment en què arreu d'Occident la joventut oscil·la entre l'apatia política i l'alimentació de l'auge del populisme i l'extrema dreta, a Sèrbia passa quelcom inesperat: els estudiants lluiten per la democràcia i els drets humans.L'ensorrament de l'estació de tren de Novi Sad, que va causar 16 morts i va destapar la corrupció institucional endèmica, juntament amb la repressió contra estudiants universitaris i ha encès la flama d'un moviment sense precedents. El que neix com una protesta pels morts es converteix en la vaga estudiantil més llarga de la història europea contemporània.Els estudiants ocupen universitats i inicien marxes pacífiques arreu del país, posant contra les cordes el govern d'Aleksandar Vu?i?. Però aquest moviment que vol ser pacífic s'enfronta a grans reptes i preguntes: es pot fer una revolució no violenta al segle XXI? Es pot resistir a la repressió d'un estat corrupte? Pot una societat serbia marcada per la por i sotmesa a un president ultranacionalista &amp;mdash;antic ministre de Slobodan Miloševi?&amp;mdash; despertar i reclamar la democràcia?Per què a Europa gairebé no se'n parla? Quins interessos amagats hi té la UE i el món? És possible sostenir un moviment assembleari, sense líders visibles? Pot Sèrbia deixar enrere el fantasma de les guerres balcàniques i l'ultranacionalisme per avançar cap a una societat plural, diversa i democràtica?Punt de No retorn ha estat l'únic mitjà que ha tingut accés a la Universitat d'arts dramàtiques de Belgrad, on ha sorgit el moviment i s'ha liderat la protesta. Amb accés exclusiu al cor del moviment universitari, aquest documental s'endinsa en la lluita d'una nova generació, mostrant les seves victòries, contradiccions, reptes i la batalla d'idees que podria definir no només el futur de Sèrbia, sinó també el d'una Europa en crisi.</desc>
-    <length units="minutes">01:21:37</length>
-  </programme>
-  <programme start="20261027220500 +0000" channel="324" stop="20261028000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2188</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261028000000 +0000" channel="324" stop="20261028003000 +0000">
+  <programme start="20261028030001 +0000" channel="tvi" stop="20261028040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11547</sub-title>
+    <sub-title lang="ca">11548</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">00:59:59</length>
   </programme>
-  <programme start="20261027202015 +0000" channel="esport3" stop="20261027222557 +0000">
+  <programme start="20261028040000 +0000" channel="tvi" stop="20261028044526 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Emili Baleriola Blues Quartet</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:26</length>
+  </programme>
+  <programme start="20261028010000 +0000" channel="324" stop="20261028060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11548</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261028060000 +0000" channel="324" stop="20261028080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11549</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261028022611 +0000" channel="esport3" stop="20261028050108 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
     <desc lang="ca">Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
-    <length units="minutes">02:05:42</length>
+    <length units="minutes">02:34:57</length>
   </programme>
-  <programme start="20261027222557 +0000" channel="esport3" stop="20261027230012 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">La gala de la Pilota d'or, jornada de Copa i tertúlia</sub-title>
-    <desc lang="ca">Alèxia i Harry Kane s'emporten la Pilota d'Or. El Barça, el club més premiat a la gala. Avui, jornada de Copa. Juguen Espanyol, Manresa, Sant Andreu, Girona i Europa. A la tertúlia ens acompanyen Arancha Rodríguez, Joan Poquí i Màrius Carol</desc>
-    <length units="minutes">00:34:15</length>
+  <programme start="20261028050108 +0000" channel="esport3" stop="20261028053123 +0000">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">El CE Llinars compleix 110 anys</sub-title>
+    <desc lang="ca">El club vallesà, fundat el 1916, gaudeix d'un gran estat de salut amb 13 equips i 260 llicències. La temporada fins a 5 equips van pujar de categoria, i 3 d'ells com a campions de lliga. Carles Fité entrevista el president del CE Llinars, Jordi Vidal; el coordinador general, Manel Viale; i l'expresident, exjugador i exentrenador, Jaume Girabent. I a més a més, us oferim els resums dels partits més destacats del cap de setmana.</desc>
+    <length units="minutes">00:30:15</length>
   </programme>
-  <programme start="20261027222053 +0000" channel="sx3" stop="20261027224318 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El testimoni que no vol parlar</sub-title>
-    <desc lang="ca">Una velleta afirma que l'han fet caure daltabaix de l'escala. La policia busca testimonis al lloc dels fets, però l'única persona que sembla haver vist alguna cosa és un noi que, per algun motiu incomprensible, no vol parlar. Els Detectius Júnior, en Conan i la Haibara sospiten que té una raó de pes per no declarar i decideixen seguir-lo per descobrir què amaga.</desc>
-    <length units="minutes">00:22:25</length>
+  <programme start="20261028033519 +0000" channel="sx3" stop="20261028035731 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Adoració</sub-title>
+    <desc lang="ca">Quan escullen la Marinette i la Zoé per organitzar la festa de fi de curs, la Marinette s'assabenta que la Zoé està secretament enamorada d'algú de la seva classe. La Zoé diu que no en pot parlar, i per la Marinette això només pot voler dir una cosa: la Zoé està enamorada de l'Adrien! Però abans de poder esbrinar si té raó, una enemiga comuna de les noies intentarà espatllar la seva bonica amistat.</desc>
+    <length units="minutes">00:22:12</length>
   </programme>
-  <programme start="20261027224318 +0000" channel="sx3" stop="20261027230348 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'Acadèmia de Policia. Kenji Hagiwara</sub-title>
-    <desc lang="ca">En aquesta nova aventura dels cinc amics de l'Acadèmia de Policia coneixerem el passat d'en Hagiwara, els pares del qual tenien un taller de reparació de cotxes que va haver de tancar a causa de la crisi econòmica. Els cinc amics col·laboraran per trobar la manera d'aturar un camió descontrolat que arrossega un cotxe on viatja un matrimoni gran.</desc>
-    <length units="minutes">00:20:30</length>
+  <programme start="20261028035731 +0000" channel="sx3" stop="20261028041952 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Emoció</sub-title>
+    <desc lang="ca">L'Adrien ha d'assistir al Ball de Diamants que organitzen el seu pare i la senyora Tsurugi. Serà el Rei del Ball i farà parella amb la Kagami, que ha estat escollida per ser la reina d'aquest any. Ni l'Adrien ni la Kagami hi volen anar, però es veuen obligats a respectar la voluntat dels pares. Quan la Marinette descobreix que l'Adrien no s'ha atrevit a dir-li res del ball, decideix anar-hi, també. Però com podrà entrar en una festa privada on sembla que no l'hi volen?</desc>
+    <length units="minutes">00:22:21</length>
   </programme>
-  <programme start="20261027220245 +0000" channel="tv3" stop="20261027225335 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La pala de pàdel</sub-title>
-    <desc lang="ca">Verge Santa quina dèria que us ha agafat amb el pàdel! És més difícil trobar-se a algú que no jugui a aquest esport, que un bitllet de cinquanta euros a terra. Bé, parlem de la pala de pàdel, estri indispensable per poder-hi jugar. Ens visita en Damià Bonsfills, un pilot de simracing, el que la gent que ja tenim una edat coneixem com 'un crac jugant a la maquineta'. I passegem el gos pel projecte Biosfera 2, un intent de crear vida artificial que va sortir… regular.</desc>
-    <length units="minutes">00:50:50</length>
+  <programme start="20261028032536 +0000" channel="tv3" stop="20261028041132 +0000">
+    <title lang="ca">El llenguado</title>
+    <sub-title lang="ca">El català dels mitjans i el parlar de l'Albera</sub-title>
+    <desc lang="ca">En el primer programa, Yolanda Sey i Guillem Albà passen les proves per presentar El Llenguado. Començaran investigant com ha de ser la llengua dels mitjans. Mònica Terribas, Jordi Basté, Màrius Serra i l'equip de Com si fos ahir els donaran un cop de mà.Guillem Albà, a més, viatjarà a l'Albera per conèixer el català de tramuntana.</desc>
+    <length units="minutes">00:45:56</length>
   </programme>
-  <programme start="20261027225335 +0000" channel="tv3" stop="20261028001751 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Bruc</sub-title>
-    <desc lang="ca">BRUC (bruc, 2011) Producció: Ikiru Films, Mesfilms inversions, Bruc-Laurion amb producció associada de Televisió de Catalunya, 2011Director: Daniel BenmayorGuió: Jordi Gasull i Patzi Amercua segons una història original de Jordi GasullDirector de fotografia: Juanmi AzpirozMúsica: Xavier CapellasIntèrprets: Juan José Ballesta (Bruc) Vicent Perez (Maraval), Santi Millán (De la Mata), Astrid Bergès-Frisbey (Glòria), Nicolas Giraud (Nouaille), Moussa Maaskri (Attab), Jérôme Le Banner (Baraton) i Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel, Napoleó envia a sis mercenaris que han lluita en mil i unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats, el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi, al que anomenen Bruc pel lloc de la batalla, haurà de lluitar sol per sobreviure i venjar la seva família. Es converteix així en un símbol de llibertat i esperança per al seu país, el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</desc>
-    <length units="minutes">01:24:16</length>
+  <programme start="20261028041132 +0000" channel="tv3" stop="20261028045452 +0000">
+    <title lang="ca">El llenguado</title>
+    <sub-title lang="ca">El català dels joves i el català de frontera</sub-title>
+    <desc lang="ca">La Yolanda Sey investiga com és el català dels joves, a la vida i a les xarxes: l'ajudaran els d'Adolescents iCat, en Lildami, el Racó de l'Hipòlit, la gent del Com ho diria i el seu professor de català a l'institut. Mentrestant, en Guillem viatjarà al Matarranya i el Baix Aragó a conèixer el català de frontera.</desc>
+    <length units="minutes">00:43:20</length>
   </programme>
 </tv>
