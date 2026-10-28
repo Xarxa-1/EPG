@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
@@ -9,69 +9,81 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261028103133 +0000" channel="tvi" stop="20261028135500 +0000">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">1838</sub-title>
+  <programme start="20261028162750 +0000" channel="tvi" stop="20261028203000 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">439</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">03:23:27</length>
+    <length units="minutes">04:02:10</length>
   </programme>
-  <programme start="20261028135500 +0000" channel="tvi" stop="20261028143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7064</sub-title>
+  <programme start="20261028203000 +0000" channel="tvi" stop="20261028210000 +0000">
+    <title lang="ca">Avanç Informatiu</title>
+    <sub-title lang="ca">439</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:35:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261028120000 +0000" channel="324" stop="20261028135500 +0000">
+  <programme start="20261028183000 +0000" channel="324" stop="20261028200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11551</sub-title>
+    <sub-title lang="ca">11554</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:55:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261028135500 +0000" channel="324" stop="20261028143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7064</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261028200000 +0000" channel="324" stop="20261028210000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11555</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261028114201 +0000" channel="esport3" stop="20261028130000 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Or culer; Mbappé, conflicte diplomàtic i 'Onzeclopèdia'</sub-title>
-    <desc lang="ca">Sique Rodríguez, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la gala de la pilota d'or i el conflicte que ha generat un comentari a les xarxes de Kylian Mbappé. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
-    <length units="minutes">01:17:59</length>
-  </programme>
-  <programme start="20261028130000 +0000" channel="esport3" stop="20261028140102 +0000">
+  <programme start="20261028175716 +0000" channel="esport3" stop="20261028183500 +0000">
     <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3272</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:01:02</length>
+    <sub-title lang="ca">L'adeu de Manolo, Dani Fernández, l'NBA i tertúlia</sub-title>
+    <desc lang="ca">L'Espanyol destitueix Manolo González. Sergio García, entrenador interí. Ens ho explica Oriol Vidal. Mireia Vicente amb Dani Fernández, jugador del Barça d'handbol. L'NBA amb Jordi de Mas i tertúlia. Ens acompanyen Irati Vidal, Raúl Fuentes i Dani Senabre.</desc>
+    <length units="minutes">00:37:44</length>
   </programme>
-  <programme start="20261028123819 +0000" channel="sx3" stop="20261028130013 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Balenes i calamars</sub-title>
-    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
-    <length units="minutes">00:21:54</length>
+  <programme start="20261028183500 +0000" channel="esport3" stop="20261028194318 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Bayern de Múnic-Reial Madrid CF / Champions League / J3</sub-title>
+    <desc lang="ca">Les bavareses sumen 4 punts i són quartes a la classificació. Les madrilenyes encara no han guanyat cap partit i en tenen 2.</desc>
+    <length units="minutes">01:08:18</length>
   </programme>
-  <programme start="20261028130013 +0000" channel="sx3" stop="20261028132405 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Un senyal mortal a la sopa de porc</sub-title>
-    <desc lang="ca">En Conan i en Kogoro es troben per casualitat amb un cas d'assassinat. Els encarregats del cas són els inspectors Takagi i Chiba. A l'escena del crim no sembla haver-hi cap pista. Després d'interrogar el nòvio de la víctima, però, descobreixen que aquesta tenia alguna mena de relació amb el seu patró, en Satoshi. Gràcies a la col·laboració de la dona d'en Satoshi, que els donarà una informació vital amb els ingredients de la sopa de porc, en Conan podrà trobar una pista oculta a l'escena del crim que els conduirà directament fins al culpable.</desc>
-    <length units="minutes">00:23:52</length>
+  <programme start="20261028182721 +0000" channel="sx3" stop="20261028183754 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva una mascota</sub-title>
+    <desc lang="ca">En Danny l'Audaç X s'ha disfressat d'Ocell X, la mascota de l'equip de bàsquet de Badia Aventures, però dues àguiles se l'emporten volant</desc>
+    <length units="minutes">00:10:33</length>
   </programme>
-  <programme start="20261028121350 +0000" channel="tv3" stop="20261028130804 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">70</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">00:54:14</length>
+  <programme start="20261028183754 +0000" channel="sx3" stop="20261028190029 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">Rescats extrems: La Patrulla salva un observatori que s’escapa</sub-title>
+    <desc lang="ca">La Patrulla Peluda construeix un observatori per veure un cometa que ha de passar, però un cop fet, l'observatori s'escapa.</desc>
+    <length units="minutes">00:22:35</length>
   </programme>
-  <programme start="20261028130804 +0000" channel="tv3" stop="20261028140141 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">71</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">00:53:37</length>
+  <programme start="20261028182157 +0000" channel="tv3" stop="20261028190628 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Mar pelágica</sub-title>
+    <desc lang="ca">Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
+    <length units="minutes">00:44:31</length>
+  </programme>
+  <programme start="20261028190628 +0000" channel="tv3" stop="20261028194819 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Fons circalitorals poc profunds</sub-title>
+    <desc lang="ca">En aquest capítol d''Arxipèlag blau' ens endinsarem més enllà del límit d'on creix la posidònia, als fons circalitorals, entre els 40 i els 60 metres de fondària. Miquel Salamanca ens presentarà un món on la llum és escassa, però que és ple de color. Hi trobem criatures estranyes i desconegudes. Però també és l'hàbitat de peixos ben coneguts, com els raors, les cànteres o els anfosos. És un ambient ric en invertebrats tan diversos com les llagostes, diversos tipus de crancs o els coralls i les gorgònies. Per finalitzar acompanyarem Gàdor Muntaner en un recorregut per la costa de Cala Blanca, a Ciutadella, amb el fotògraf submarí Víctor de Valles.</desc>
+    <length units="minutes">00:41:51</length>
+  </programme>
+  <programme start="20261028175500 +0000" channel="tv3" stop="20261028195455 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- NHSZ Szolnoki-FIATC Girona / Fiba Europe Cup / J4</sub-title>
+    <desc lang="ca">Els gironins, líders de grup, visiten Hongria amb l'objectiu de sumar la quarta victòria en quatre jornades.</desc>
+    <length units="minutes">01:59:55</length>
+  </programme>
+  <programme start="20261028160142 +0000" channel="tv3" stop="20261028200137 +0000">
+    <title lang="ca">Parlon compareix a la comissió d'Interior del Parlament després dels aldarulls a Barcelona</title>
+    <sub-title lang="ca">4201</sub-title>
+    <length units="minutes">03:59:55</length>
   </programme>
 </tv>
