@@ -1,89 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261028162750 +0000" channel="tvi" stop="20261028203000 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">439</sub-title>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261028220640 +0000" channel="tvi" stop="20261028235959 +0000">
+    <title lang="ca">ESPECIAL INFORMATIU</title>
+    <sub-title lang="ca">7371</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">04:02:10</length>
+    <length units="minutes">01:53:19</length>
   </programme>
-  <programme start="20261028203000 +0000" channel="tvi" stop="20261028210000 +0000">
-    <title lang="ca">Avanç Informatiu</title>
-    <sub-title lang="ca">439</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:30:00</length>
-  </programme>
-  <programme start="20261028183000 +0000" channel="324" stop="20261028200000 +0000">
+  <programme start="20261028235959 +0000" channel="tvi" stop="20261029012959 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11554</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <sub-title lang="ca">11557</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261028200000 +0000" channel="324" stop="20261028210000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11555</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261028220500 +0000" channel="324" stop="20261028232500 +0000">
+    <title lang="ca">Soc i Seré</title>
+    <sub-title lang="ca">Un final amb bona lletra</sub-title>
+    <desc lang="ca">Queden cinc aspirants a la gran final, i només un es pot convertir en la persona que sap més de Catalunya. Avui tindrà lloc l'enfrontament decisiu de 'Soc i seré', amb dos reptes extraordinaris que posaran a prova els coneixements i l'esperit competitiu dels finalistes.Per demostrar que són els Setciències que coneix més bé la nostra terra, els concursants se sotmetran a una intensa ronda de preguntes sobre set categories diferents: música, història de l'art, fauna i flora, política, mitologia catalana, moda i esports. Això sí, només els dos aspirants que encertin més preguntes es classificaran per al duel final.Allà, davant dels seus éssers estimats i del periodista Ramon Pellicer, hauran de controlar els nervis per sobreviure al dictat més difícil de la seva vida i aconseguir la victòria. L'aspirant que demostri el millor domini de l'ortografia catalana s'emportarà el premi que hagi acumulat al llarg de tot el programa.Qui guanyarà la segona edició de 'Soc i seré'?</desc>
+    <length units="minutes">01:20:00</length>
   </programme>
-  <programme start="20261028175716 +0000" channel="esport3" stop="20261028183500 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">L'adeu de Manolo, Dani Fernández, l'NBA i tertúlia</sub-title>
-    <desc lang="ca">L'Espanyol destitueix Manolo González. Sergio García, entrenador interí. Ens ho explica Oriol Vidal. Mireia Vicente amb Dani Fernández, jugador del Barça d'handbol. L'NBA amb Jordi de Mas i tertúlia. Ens acompanyen Irati Vidal, Raúl Fuentes i Dani Senabre.</desc>
-    <length units="minutes">00:37:44</length>
+  <programme start="20261028232500 +0000" channel="324" stop="20261028233000 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Paisatges de Barcelona</sub-title>
+    <desc lang="ca">La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
+    <length units="minutes">00:05:00</length>
   </programme>
-  <programme start="20261028183500 +0000" channel="esport3" stop="20261028194318 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Bayern de Múnic-Reial Madrid CF / Champions League / J3</sub-title>
-    <desc lang="ca">Les bavareses sumen 4 punts i són quartes a la classificació. Les madrilenyes encara no han guanyat cap partit i en tenen 2.</desc>
-    <length units="minutes">01:08:18</length>
+  <programme start="20261028212218 +0000" channel="esport3" stop="20261028230006 +0000">
+    <title lang="ca">Billar a 3 bandes</title>
+    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
+    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
+    <length units="minutes">01:37:48</length>
   </programme>
-  <programme start="20261028182721 +0000" channel="sx3" stop="20261028183754 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva una mascota</sub-title>
-    <desc lang="ca">En Danny l'Audaç X s'ha disfressat d'Ocell X, la mascota de l'equip de bàsquet de Badia Aventures, però dues àguiles se l'emporten volant</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261028230006 +0000" channel="esport3" stop="20261029003056 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1277</sub-title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="minutes">01:30:50</length>
   </programme>
-  <programme start="20261028183754 +0000" channel="sx3" stop="20261028190029 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">Rescats extrems: La Patrulla salva un observatori que s’escapa</sub-title>
-    <desc lang="ca">La Patrulla Peluda construeix un observatori per veure un cometa que ha de passar, però un cop fet, l'observatori s'escapa.</desc>
-    <length units="minutes">00:22:35</length>
+  <programme start="20261028224322 +0000" channel="sx3" stop="20261028230352 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La festa d'aniversari del càstig diví (1a part)</sub-title>
+    <desc lang="ca">La Yumi, germana de la Remi Sekizawa, una famosa model, convida la Ran, la Sera i la Sonoko a la festa d'aniversari que celebra conjuntament amb la seva germana. Elles, emocionades, accepten. Durant la festa, mentre serveixen el pastís i passen unes diapositives de les germanes quan eren petites, els llums s'apaguen. Quan es tornen a encendre troben mort en Mizutoshi Hanasaki, perruquer i maquillador habitual de la Remi. L'assassí li ha escrit al front: càstig diví.</desc>
+    <length units="minutes">00:20:30</length>
   </programme>
-  <programme start="20261028182157 +0000" channel="tv3" stop="20261028190628 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Mar pelágica</sub-title>
-    <desc lang="ca">Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
-    <length units="minutes">00:44:31</length>
+  <programme start="20261028230352 +0000" channel="sx3" stop="20261028232542 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La festa d'aniversari del càstig diví (2a part)</sub-title>
+    <desc lang="ca">Continua la investigació per trobar l'assassí d'en Hanasaki. La Mary, després de saber que en Conan té una càpsula que podria ser l'antídot, i d'encarregar-li a la Sera que la robi, recorda el moment en què es va encongir. En Takagi troba una estranya taca negra a terra que abans de l'assassinat no hi era. Més tard, en Chiba troba un retolador a la cuina. Tot i les pistes trobades és difícil eliminar algun dels sospitosos.</desc>
+    <length units="minutes">00:21:50</length>
   </programme>
-  <programme start="20261028190628 +0000" channel="tv3" stop="20261028194819 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Fons circalitorals poc profunds</sub-title>
-    <desc lang="ca">En aquest capítol d''Arxipèlag blau' ens endinsarem més enllà del límit d'on creix la posidònia, als fons circalitorals, entre els 40 i els 60 metres de fondària. Miquel Salamanca ens presentarà un món on la llum és escassa, però que és ple de color. Hi trobem criatures estranyes i desconegudes. Però també és l'hàbitat de peixos ben coneguts, com els raors, les cànteres o els anfosos. És un ambient ric en invertebrats tan diversos com les llagostes, diversos tipus de crancs o els coralls i les gorgònies. Per finalitzar acompanyarem Gàdor Muntaner en un recorregut per la costa de Cala Blanca, a Ciutadella, amb el fotògraf submarí Víctor de Valles.</desc>
-    <length units="minutes">00:41:51</length>
+  <programme start="20261028225626 +0000" channel="tv3" stop="20261028234904 +0000">
+    <title lang="ca">La veritat sobre la dictadura de Franco</title>
+    <sub-title lang="ca">El nou règim</sub-title>
+    <desc lang="ca">Franco adopta el títol de 'caudillo' com a dirigent polític i militar d'Espanya. Amb la seva família es trasllada al palau del Pardo, a Madrid, l'antiga residència d'estiu del rei. Els models del dictador són els règims feixistes d'Itàlia i Alemanya i els seus líders, Mussolini i Hitler. Amb les seves maniobres polítiques i la seva negativa a comprometre's Franco aconsegueix mantenir Espanya fora de la Segona Guerra Mundial.</desc>
+    <length units="minutes">00:52:38</length>
   </programme>
-  <programme start="20261028175500 +0000" channel="tv3" stop="20261028195455 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- NHSZ Szolnoki-FIATC Girona / Fiba Europe Cup / J4</sub-title>
-    <desc lang="ca">Els gironins, líders de grup, visiten Hongria amb l'objectiu de sumar la quarta victòria en quatre jornades.</desc>
-    <length units="minutes">01:59:55</length>
-  </programme>
-  <programme start="20261028160142 +0000" channel="tv3" stop="20261028200137 +0000">
-    <title lang="ca">Parlon compareix a la comissió d'Interior del Parlament després dels aldarulls a Barcelona</title>
-    <sub-title lang="ca">4201</sub-title>
-    <length units="minutes">03:59:55</length>
+  <programme start="20261028234904 +0000" channel="tv3" stop="20261029013917 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Hotel Bombai</sub-title>
+    <desc lang="ca">HOTEL BOMBAI 'Hotel Mumbai'Direcció: Anthony MarasGuió: John Collee, Anthony MarasProducció: A Hamilton and Electric Pictures Production, American Entertainment Investors, Double Guess, Screen Australia, ScreenWest, South Australian Film Corporation, Thunder Road Pictures, Xeitgeist Entertainment GroupAny: 2018Durada: 125País: AustràliaMúsica: Volker BertelmannFotografia: Nick MatthewsIntèrprets: Armie Hammer, Dev Patel, Jason Isaacs, Nazanin Boniadi, Angus McLaren, Anupam Kher, Natasha Liu Bordizzo, Tilda Cobham-Hervey, Suhail Nayyar, Rodney Afif, Zenia Starr, Nagesh Bhonsle, Sachin Joab, Alex Pinder, Adithi Kalkunte, Gaurav Paswala, Ansuya Nathan, Yulian Shchukin, Abhiroy Singh, Devyani CmBombai, 2008. Els hostes de l'hotel Taj Mahal Palace viuen moments de terror. Un grup de terroristes pakistanesos envaeix el lloc i manté les persones com a ostatges durant 68 hores. Desesperats, un grup de funcionaris i hostes prenen coratge per provar de revertir la situació.</desc>
+    <length units="minutes">01:50:13</length>
   </programme>
 </tv>
