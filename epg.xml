@@ -3,76 +3,70 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261029173240 +0000" channel="tvi" stop="20261029191031 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">440</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:37:51</length>
+  <programme start="20261029225542 +0000" channel="tvi" stop="20261029231357 +0000">
+    <title lang="ca">Una història de la literatura</title>
+    <sub-title lang="ca">Ausiàs March</sub-title>
+    <desc lang="ca">Sí, Ausiàs March es va jubilar als trenta anys. Quina enveja, eh? Doncs a part d'això, en aquest capítol també aprendreu coses tan bàsiques com els problemes essencials de llegir assegut al vàter, les decepcions i traumes creades per les festes de l'espuma, el nom eròtic d'Elisenda Pineda, el final no escrit de les neules i el cabell d'àngel i el nou ofici pagat per l'estat d'escrutar l'horitzó a l'espera de l'arribada de la primera oreneta. Un programa carregat de saviesa i ignorància a parts iguals. No us fallarà. Tot això amb Oye Sherman de convidada.</desc>
+    <length units="minutes">00:18:15</length>
   </programme>
-  <programme start="20261029191031 +0000" channel="tvi" stop="20261029201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">953</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:04:29</length>
+  <programme start="20261029220500 +0000" channel="324" stop="20261030000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2189</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261029180000 +0000" channel="324" stop="20261029200000 +0000">
+  <programme start="20261030000000 +0000" channel="324" stop="20261030003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11563</sub-title>
+    <sub-title lang="ca">11565</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261029200000 +0000" channel="324" stop="20261029210000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11564</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261029230000 +0000" channel="esport3" stop="20261030003100 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Ancelotti, esprem Raphinha; grada d'animació vetada i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Gemma Mallorca i Jordi Costa discuteixen sobre la inclusió de Raphinha en la propera convocatòria del Brasil. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:31:00</length>
   </programme>
-  <programme start="20261029182525 +0000" channel="esport3" stop="20261029201819 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Rutronik Stars-Spar Girona / Eurocup / J3</sub-title>
-    <desc lang="ca">Els quatre equips del grup K tenen tenen una victòria i una derrota fins al moment. L'Uni es podria situar líder si guanya a la ciutat alemanya de Keltern.</desc>
-    <length units="minutes">01:52:54</length>
+  <programme start="20261030003100 +0000" channel="esport3" stop="20261030005047 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5553</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:19:47</length>
   </programme>
-  <programme start="20261029201819 +0000" channel="esport3" stop="20261029204000 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Eder Sarabia, Koge-Barça, AE Prat i tertúlia</sub-title>
-    <desc lang="ca">Eder Sarabia, nou entrenador de l'Espanyol. Última hora del Koge-Barça de Champions amb Mar Vila. Dia històric per a l'AE Prat, que s'enfronta a l'Athletic Club en partit de Copa. Ens ho explica Lluís Cervelló. Pedro Martín ens presenta 'Barçapèdia' i Marc Mayola ens parla del Bayern-Magdeburg a 'Històries del futbol'. A la tertúlia ens acompanyen Pere Mas, Àlex Esteban i Fernando Polo.</desc>
-    <length units="minutes">00:21:41</length>
+  <programme start="20261029230212 +0000" channel="sx3" stop="20261029232431 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La carrera de l'inspector Megure, en perill</sub-title>
+    <desc lang="ca">L'inspector Megure dirigeix un cas en què el principal sospitós és un antic conegut, en Kyosuke Temukai. En el passat, l'inspector el va acusar d'un crim que no havia comès i ara vol venjança. Tot i la falta de proves, en Megure arrestarà en Kyosuke posant en risc la seva carrera. El que no sabia era que, en secret, en Kyosuke tenia una coartada aparentment perfecta. En Kogoro i en Conan hauran d'ajudar l'inspector a resoldre el cas i salvar la seva reputació.</desc>
+    <length units="minutes">00:22:19</length>
   </programme>
-  <programme start="20261029183157 +0000" channel="sx3" stop="20261029184231 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva l’Equip de Gats de Rescat</sub-title>
-    <desc lang="ca">L'Equip de Gats de Rescat li comença a prendre tots els salvaments a la Patrulla Peluda.</desc>
-    <length units="minutes">00:10:34</length>
+  <programme start="20261029232431 +0000" channel="sx3" stop="20261029234616 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la recerca de la perca</sub-title>
+    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20261029184231 +0000" channel="sx3" stop="20261029185304 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un estruç</sub-title>
-    <desc lang="ca">Els Wingnut es pensen que el seu estruç va dins d'un remolc que està descontrolat.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261029225243 +0000" channel="tv3" stop="20261029233700 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Estripem els pobles de postal, amb Alba Segarra i Mar Camps</sub-title>
+    <desc lang="ca">Quin impacte ha tingut l'èxode urbà en els pobles catalans? S'estan convertint en pobles aparador fets a mida per a qui només hi va a 'desconnectar'? Què carai és 'el territori'? En parlem amb la periodista de Celrà Mar Camps, autora de l'assaig literari 'No vingueu al poble a reposar' (Ela Geminada, 2026), i amb la humorista de la Fuliola Alba Segarra. Descobrim el projecte de jardineria de Pep Espelt, ànima del centre artístic Konvent, al Berguedà. Carlota Gurt ha fet números i ens explica quantes paraules té el català, fem safareig sobre l'actualitat cultural amb Oriol Puig Taulé i Emma Zafón i posem un peu a ciutat per explorar una joia arquitectònica com l'Hospital de Sant Pau amb Erik Harley.</desc>
+    <length units="minutes">00:44:17</length>
   </programme>
-  <programme start="20261029180857 +0000" channel="tv3" stop="20261029183317 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">La vacuna del virus del papiloma.</sub-title>
-    <desc lang="ca">La vacuna del virus del papil·loma humà serà analitzada a 'Quèquicom', que n'ha parlat amb els creadors i els detractors, que demanen una moratòria, per saber els pros i contres d'administrar-la. En el programa hi intervenen Xavier Bosch, investigador de l'Institut Català d'Oncologia i desenvolupador d'aquesta vacuna; Carmen Cabezas, de la Conselleria de Salut; Miquel Porta, epidemiòleg de l'Institut Municipal d'Investigació Mèdica; Andreu Segura, director de la Societat Espanyola de Salut Pública; i Jaume Puig, Centre de Recerca d'Economia i Salut, UPF.</desc>
-    <length units="minutes">00:24:20</length>
-  </programme>
-  <programme start="20261029183317 +0000" channel="tv3" stop="20261029184156 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">'Antoni Tàpies'</sub-title>
-    <desc lang="ca">Pintor, escultor, escriptor i teòric, Antoni Tàpies va ser un dels artistes catalans més rellevants del segle XX. La seva obra contribuïa a reflexionar amb inventiva i llibertat sobre aspectes com la bellesa, l'espiritualitat o la condició humana. Com ell mateix deia: 'Un quadre s'ha de mirar amb netedat, esperant rebre el que ell et dona, no el que t'han ensenyat que ha de dir la pintura.' La celebració del centenari del seu naixement ens retroba amb el perfil d'aquest creador incansable, exponent de la pintura matèrica i un dels principals noms a nivell internacional de l'informalisme.</desc>
-    <length units="minutes">00:08:39</length>
+  <programme start="20261029233700 +0000" channel="tv3" stop="20261030003544 +0000">
+    <title lang="ca">Savis i sàvies</title>
+    <sub-title lang="ca">Maria del Mar Bonet</sub-title>
+    <desc lang="ca">Nascuda a Palma, als 19 anys va marxar de l'illa per fer ceràmica. Però ben aviat va canviar l'artesania per la seva gran passió: cantar i compondre música. Els setze jutges la van sentir cantar i la van convertir en la catorzena jutgessa. El seu nom conté la Mar, i no podia ser més encertat: la seva música no només arrela a la seva Mallorca natal sinó que pertany al Mediterrani.</desc>
+    <length units="minutes">00:58:44</length>
   </programme>
 </tv>
