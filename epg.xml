@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261029040000 +0000" channel="tvi" stop="20261029044733 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">- Dani Nel·lo &amp; Mario Cobo</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:47:33</length>
+  <programme start="20261029103040 +0000" channel="tvi" stop="20261029135500 +0000">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">1839</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="minutes">03:24:20</length>
   </programme>
-  <programme start="20261029044733 +0000" channel="tvi" stop="20261029054733 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">- Eva Cortés</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261029135500 +0000" channel="tvi" stop="20261029143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7065</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261029010000 +0000" channel="324" stop="20261029060000 +0000">
+  <programme start="20261029120000 +0000" channel="324" stop="20261029135500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11557</sub-title>
+    <sub-title lang="ca">11560</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261029060000 +0000" channel="324" stop="20261029080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11558</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261029135500 +0000" channel="324" stop="20261029143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7065</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261029040439 +0000" channel="esport3" stop="20261029060503 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Bayern de Múnic-Reial Madrid CF / Champions League / J3</sub-title>
-    <desc lang="ca">Les bavareses sumen 4 punts i són quartes a la classificació. Les madrilenyes encara no han guanyat cap partit i en tenen 2.</desc>
-    <length units="minutes">02:00:24</length>
+  <programme start="20261029123005 +0000" channel="esport3" stop="20261029140108 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Eder Sarabia, Koge-Barça, AE Prat i tertúlia</sub-title>
+    <desc lang="ca">Eder Sarabia, nou entrenador de l'Espanyol. Última hora del Koge-Barça de Champions amb Mar Vila. Dia històric per a l'AE Prat, que s'enfronta a l'Athletic Club en partit de Copa. Ens ho explica Lluís Cervelló. Pedro Martín ens presenta 'Barçapèdia' i Marc Mayola ens parla del Bayern-Magdeburg a 'Històries del futbol'. A la tertúlia ens acompanyen Pere Mas, Àlex Esteban i Fernando Polo.</desc>
+    <length units="minutes">01:31:03</length>
   </programme>
-  <programme start="20261029060503 +0000" channel="esport3" stop="20261029062507 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5552</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:04</length>
+  <programme start="20261029140108 +0000" channel="esport3" stop="20261029160306 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Eder Sarabia, Koge-Barça, AE Prat i tertúlia</sub-title>
+    <desc lang="ca">Eder Sarabia, nou entrenador de l'Espanyol. Última hora del Koge-Barça de Champions amb Mar Vila. Dia històric per a l'AE Prat, que s'enfronta a l'Athletic Club en partit de Copa. Ens ho explica Lluís Cervelló. Pedro Martín ens presenta 'Barçapèdia' i Marc Mayola ens parla del Bayern-Magdeburg a 'Històries del futbol'. A la tertúlia ens acompanyen Pere Mas, Àlex Esteban i Fernando Polo.</desc>
+    <length units="minutes">02:01:58</length>
   </programme>
-  <programme start="20261029040221 +0000" channel="sx3" stop="20261029042408 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Representació</sub-title>
-    <desc lang="ca">Quan l'Adrien desobeeix el seu pare per anar a buscar la Marinette, el Gabriel s'akumatitza a si mateix per anar a buscar el seu fill. Mentrestant, la Marinette està convençuda que l'Adrien la busca. Pensant-se que persegueix el noi que estima, descobrirà un secret que no s'hauria pogut imaginar mai.</desc>
-    <length units="minutes">00:21:47</length>
+  <programme start="20261029123858 +0000" channel="sx3" stop="20261029130125 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El misteri dels cucs</sub-title>
+    <desc lang="ca">En Chris i en Martin faran servir el nou miniaturitzador de l'Aviva per resoldre un misteri que fa temps que els volta pel cap. Com és que els cucs surten a fora quan plou?! La resposta la trobaran sota terra, en el món dels cucs, un lloc ple de sorpreses... i de dilemes! Ben aviat en Chris haurà de decidir si vol resoldre el misteri, o si vol salvar el seu germà!</desc>
+    <length units="minutes">00:22:27</length>
   </programme>
-  <programme start="20261029042408 +0000" channel="sx3" stop="20261029043603 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El secret de la Castina</sub-title>
-    <desc lang="ca">En Timbal està convençut que aquesta tarda veurà el seu amic Lludó. Però aquest matí la Castina s'ha trobat la Guineta i li ha dit que ha quedat amb en Lludó per anar a pescar al riu. En Pinxo lliga caps i li diu al seu germà bessó que en Lludó i la Castina s'han enamorat. Com que en Timbal no s'ho acaba de creure, decideixen anar a pescar i comprovar-ho.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20261029130125 +0000" channel="sx3" stop="20261029132350 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El joc macabre de l'ovella vermella (1a part)</sub-title>
+    <desc lang="ca">Un jove anomenat Ryota Beppu li encarrega a en Kogoro que investigui la desaparició de la seva nòvia, l'Ami Takigawa, segrestada per una persona disfressada d'ovella vermella. Tots dos fan de cambrers en un restaurant. Mentre en Kogoro és al parc de Beika esperant que aparegui el misteriós segrestador, el cap de cuina i propietari d'aquest mateix restaurant apareix assassinat. La Ran i en Conan veuen una ovella vermella fugint de l'escenari del crim.</desc>
+    <length units="minutes">00:22:25</length>
   </programme>
-  <programme start="20261029034857 +0000" channel="tv3" stop="20261029043108 +0000">
-    <title lang="ca">El llenguado</title>
-    <sub-title lang="ca">Els insults i viatge al Solsonès</sub-title>
-    <desc lang="ca">Ajudat pel lingüista Pau Vidal, però també de la Natza Farré o l'Adrià Pujol, en Guillem Albà es pregunta si hi ha insults veritablement ofensius en català. Parlem d'insults sexistes, de correcció política i de com insultaven grecs i romans...i mentrestant, la Yolanda Sey viatja al Solsonès, a la ratlla que separa el català oriental del català occidental.</desc>
-    <length units="minutes">00:42:11</length>
+  <programme start="20261029122256 +0000" channel="tv3" stop="20261029131857 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">72</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">00:56:01</length>
   </programme>
-  <programme start="20261029043108 +0000" channel="tv3" stop="20261029043852 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Manel: 'Els millors professors europeus'</sub-title>
-    <desc lang="ca">El 2008 el grup Manel va publicar el seu primer àlbum, 'Els millors professors europeus'. Premi Enderrock al millor disc de l'any i millor disc espanyol del 2008 segons Rockdelux, l'àlbum va marcar la diferència amb la resta d'escena musical catalana de l'època, que va recuperar l'esperit de clàssics com Sisa o Pau Riba i que va afegir-hi sonoritats poc habituals, com la de l'ukelele, a banda d'unes lletres emotives i molt treballades.</desc>
-    <length units="minutes">00:07:44</length>
+  <programme start="20261029131857 +0000" channel="tv3" stop="20261029141328 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">73</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">00:54:31</length>
   </programme>
 </tv>
