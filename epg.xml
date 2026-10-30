@@ -1,5 +1,11 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
@@ -9,70 +15,64 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261030173253 +0000" channel="tvi" stop="20261030191612 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">441</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:43:19</length>
+  <programme start="20261030222449 +0000" channel="tvi" stop="20261030233538 +0000">
+    <title lang="ca">La Puntual</title>
+    <sub-title lang="ca">La Puntual: Mamma mia</sub-title>
+    <desc lang="ca">Ha arribat el dia de l'estrena de 'L'auca del senyor Esteve'. Catifa vermella, convidats especials, familiars i el retrobament amb els 33 finalistes del 'Laboratori'. Avui per primera vegada s'apujarà el teló de la producció per a la qual la nostra companyia s'ha estat preparant durant dos mesos. Viurem l'emoció de les hores prèvies, dels nervis entre bambolines i les abraçades de celebració finals.</desc>
+    <length units="minutes">01:10:49</length>
   </programme>
-  <programme start="20261030191612 +0000" channel="tvi" stop="20261030201558 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">954</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">00:59:46</length>
+  <programme start="20261030233538 +0000" channel="tvi" stop="20261030234351 +0000">
+    <title lang="ca">Ets i uts</title>
+    <sub-title lang="ca">Quan vam sobreviure</sub-title>
+    <desc lang="ca">El Roger i la Mònica coneixen el Victor Rojas, un pastor que viu al Cap de Creus seguint les seves pròpies normes. Fascinats per aquest estil de vida, el Roger i la Mònica intenten sobreviure un dia sencer sense l'ajuda del mòbil.</desc>
+    <length units="minutes">00:08:13</length>
   </programme>
-  <programme start="20261030170000 +0000" channel="324" stop="20261030183000 +0000">
+  <programme start="20261030220500 +0000" channel="324" stop="20261030233000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2190</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:25:00</length>
+  </programme>
+  <programme start="20261030233000 +0000" channel="324" stop="20261031003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11571</sub-title>
+    <sub-title lang="ca">11574</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261030183000 +0000" channel="324" stop="20261030200000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11572</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261030220054 +0000" channel="esport3" stop="20261030230000 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
+    <desc lang="ca">El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
+    <length units="minutes">00:59:06</length>
   </programme>
-  <programme start="20261030172151 +0000" channel="esport3" stop="20261030182500 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Flick, Vila-real - Espanyol, Koge-Barça i tertúlia</sub-title>
-    <desc lang="ca">La roda de premsa de Hansi Flick en la prèvia del Barça-Alabès de demà dissabte. Última hora del partit Vila-real - Espanyol amb Imma Casares. El Barça femení, l'AE Prat i tertúlia. Avui ens acompanyen Laia Cervelló, David Sánchez i Nacho Peña.</desc>
-    <length units="minutes">01:03:09</length>
+  <programme start="20261030230000 +0000" channel="esport3" stop="20261031003144 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
+    <length units="minutes">01:31:44</length>
   </programme>
-  <programme start="20261030182500 +0000" channel="esport3" stop="20261030200103 +0000">
-    <title lang="ca">Pàdel</title>
-    <sub-title lang="ca">Pàdel / Campionat Catalunya / Final</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!</desc>
-    <length units="minutes">01:36:03</length>
+  <programme start="20261030224333 +0000" channel="sx3" stop="20261030230403 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La intriga a la mansió dels Morikawa (2a part)</sub-title>
+    <desc lang="ca">En Yuzan Morikawa, un home adinerat a qui li queda poc temps de vida, ha convidat en Conan, la Ran i en Kogoro a la seva mansió en una illa remota perquè l'assessorin en el repartiment de la seva herència. Durant la seva estada, dos dels seus tres fills apareixen morts. Tots els presents a l'illa podrien ser l'assassí, fins i tot la Yuka, la majordoma en cap, o l'Oi, l'advocat.</desc>
+    <length units="minutes">00:20:30</length>
   </programme>
-  <programme start="20261030181942 +0000" channel="sx3" stop="20261030183015 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Marina: La Patrulla salva una balena inquieta</sub-title>
-    <desc lang="ca">Una balena bellugadissa ha donat un cop a la campana de busseig i l'ha deixat de cap per avall i encallada a la sorra del fons del mar, amb el capità Turbot i en François a dins.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261030230403 +0000" channel="sx3" stop="20261030232623 +0000">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La Lliga de Detectius Júnior posa a prova el seu coratge</sub-title>
+    <desc lang="ca">La Lliga de Detectius Júnior visita un antic hospital encantat per trobar-hi fantasmes. Allà ja hi ha dos famosos buscadors de fantasmes que intentaran espantar en Conan i els seus amics. Al final, resulta que els fantasmes els havia creat un fugitiu de la llei que s'amagava a l'hospital.</desc>
+    <length units="minutes">00:22:20</length>
   </programme>
-  <programme start="20261030183015 +0000" channel="sx3" stop="20261030184212 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva la Skye al cel</sub-title>
-    <desc lang="ca">Una tempesta ha deixa Badia Aventures sense llum.</desc>
-    <length units="minutes">00:11:57</length>
+  <programme start="20261030215849 +0000" channel="tv3" stop="20261030224948 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 9</sub-title>
+    <desc lang="ca">Aquesta setmana parlem del marcador fluorescent, que no 'del fosfu'. De la pala de pàdel, que no 'de la raqueta'. De la impremta, que no 'de la màquina d'impressionar'. I de i bossa d'escombraries, que no 'de la bossa de basura'. També rebem la visita d'en Toni Cruanyes, en Damià Bonsfills, en Pep Sala i en Xavier Estrada, és a dir, de periodistes, pilots, músics i àrbitres de futbol. De debò que ens mereixem un monument.</desc>
+    <length units="minutes">00:50:59</length>
   </programme>
-  <programme start="20261030180204 +0000" channel="tv3" stop="20261030183006 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Bacteris: de l'intestí a Mart</sub-title>
-    <desc lang="ca">'Quèquicom' mostrarà la importància que tenen els bacteris en l'alimentació dels humans. Amb el títol genèric 'Bacteris: de l'intestí, a Mart', el programa científic del 33 oferirà un repàs del paper que tenen aquests primers organismes vius que van aparèixer a la Terra.Els bacteris són organismes molt simples, però són capaços d'obtenir energia per moltes vies metabòliques diferents i sobreviure en ambients extrems. Tenen una gran capacitat de reciclatge. Per la qual cosa, són fonamentals per al manteniment de la vida a la Terra. El programa ha fet una recerca bacteriana, que es mostrarà a través d'un reportatge de Pere Renom, que ha començat la feina en un racó de la serra de Collserola, un racó secret i vermellós on emana l'àcid sulfúric. Ha seguit pel Delta de l'Ebre, on el microbiòleg Jordi Urmeneta ensenya els tapets microbians, anàlegs als primers ecosistemes que van aparèixer al planeta fa 3.700 milions d'anys. Però sembla que també hi hauria bacteris al planeta Mart, on arribar-hi serà una missió impossible si no s'aconsegueix domesticar els bacteris perquè fabriquin part de l'aliment que necessiten els astronautes i en reciclin els detritus. A més, cadascun dels astronautes s'endurà en el seu digestiu una dotació de 2 kg de bacteris, sense la qual no sobreviuria, com qualsevol humà que no tingui flora intestinal.La flora bacteriana i la malaltia de CrohnEl programa parlarà de la influència dels bacteris en les malalties. Al voltant del 98% del total de bacteris del cos viuen al tub digestiu, són la flora bacteriana. Conté uns mil tipus de bacteris diferents i pesa dos quilos, o sigui, més que el fetge o el cor. El Dr. Francisco Guarner fa notar que el sistema digestiu té una relació de simbiosi amb els bacteris intestinals. Ells hi troben aliment i a canvi ens faciliten l'absorció de nutrients. A més, són bàsics per a la maduració del sistema immune. Quan la flora no és estable es generen problemes digestius crònics com la mal</desc>
-    <length units="minutes">00:28:02</length>
-  </programme>
-  <programme start="20261030183006 +0000" channel="tv3" stop="20261030183845 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">'Antoni Tàpies'</sub-title>
-    <desc lang="ca">Pintor, escultor, escriptor i teòric, Antoni Tàpies va ser un dels artistes catalans més rellevants del segle XX. La seva obra contribuïa a reflexionar amb inventiva i llibertat sobre aspectes com la bellesa, l'espiritualitat o la condició humana. Com ell mateix deia: 'Un quadre s'ha de mirar amb netedat, esperant rebre el que ell et dona, no el que t'han ensenyat que ha de dir la pintura.' La celebració del centenari del seu naixement ens retroba amb el perfil d'aquest creador incansable, exponent de la pintura matèrica i un dels principals noms a nivell internacional de l'informalisme.</desc>
-    <length units="minutes">00:08:39</length>
+  <programme start="20261030224948 +0000" channel="tv3" stop="20261030235717 +0000">
+    <title lang="ca">Teatre</title>
+    <sub-title lang="ca">Terrrífic!</sub-title>
+    <desc lang="ca">Terrrífic!El TricicleUn espectacle d'El Tricicle que, tal com ja ens tenen acostumats, ens ofereix diversió i diversitat, alhora que ens avisa sobre el que ens pot succeir en aquest espectacle, pensat per fer-nos passar, sense malícia, una mica de por.Taquicàrdies, angoixes, atacs d'histèria, tot és possible, però sense perdre aquest to que esl caracteritza com a especials i únics.Autors i actors: Joan Gràcia, Paco Mir, Carles SansProducció: OvídeoRealització TV: X. Manich</desc>
+    <length units="minutes">01:07:29</length>
   </programme>
 </tv>
