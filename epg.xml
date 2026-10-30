@@ -3,70 +3,76 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261029225542 +0000" channel="tvi" stop="20261029231357 +0000">
-    <title lang="ca">Una història de la literatura</title>
-    <sub-title lang="ca">Ausiàs March</sub-title>
-    <desc lang="ca">Sí, Ausiàs March es va jubilar als trenta anys. Quina enveja, eh? Doncs a part d'això, en aquest capítol també aprendreu coses tan bàsiques com els problemes essencials de llegir assegut al vàter, les decepcions i traumes creades per les festes de l'espuma, el nom eròtic d'Elisenda Pineda, el final no escrit de les neules i el cabell d'àngel i el nou ofici pagat per l'estat d'escrutar l'horitzó a l'espera de l'arribada de la primera oreneta. Un programa carregat de saviesa i ignorància a parts iguals. No us fallarà. Tot això amb Oye Sherman de convidada.</desc>
-    <length units="minutes">00:18:15</length>
+  <programme start="20261030040000 +0000" channel="tvi" stop="20261030044609 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Ivan Kovacevic 5 Spots</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:46:09</length>
   </programme>
-  <programme start="20261029220500 +0000" channel="324" stop="20261030000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2189</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
+  <programme start="20261030044609 +0000" channel="tvi" stop="20261030054609 +0000">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Alba Guerrero</sub-title>
+    <desc lang="ca">L'Alba és una de las veus més personals del'cante jondo'resident a casa nostra. Cantant composicions pròpies, ens visita amb Alberto Capelli a la guitarra, Jordi Gaspar al contrabaix i a la guitarra baixa i Ramón Ángel Rey a la bateria, amb la col·laboració del guitarrista Vicenç Solsona en dues de les seves composicions, oferint un repertori en clau flamenca però que es deixa seduir pel Jazz, el Blues o la música llatina.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261030000000 +0000" channel="324" stop="20261030003000 +0000">
+  <programme start="20261030010000 +0000" channel="324" stop="20261030060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11565</sub-title>
+    <sub-title lang="ca">11566</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261029230000 +0000" channel="esport3" stop="20261030003100 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Ancelotti, esprem Raphinha; grada d'animació vetada i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Gemma Mallorca i Jordi Costa discuteixen sobre la inclusió de Raphinha en la propera convocatòria del Brasil. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
-    <length units="minutes">01:31:00</length>
+  <programme start="20261030060000 +0000" channel="324" stop="20261030080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11567</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261030003100 +0000" channel="esport3" stop="20261030005047 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5553</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:19:47</length>
+  <programme start="20261030024010 +0000" channel="esport3" stop="20261030042311 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">AE Prat-Ath. Club / Copa / 1a eliminatoria</sub-title>
+    <desc lang="ca">Jornada històrica per al conjunt pratenc que disputa aquesta eliminatòria, a un sol partit, contra un rival de la Primera Divisió. Els del Baix Llobregat juguen a la Lliga Elit, la sisena categoria del futbol estatal. El partit forma part de la primera ronda a la fase final de la Copa del Rei.</desc>
+    <length units="minutes">01:43:01</length>
   </programme>
-  <programme start="20261029230212 +0000" channel="sx3" stop="20261029232431 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La carrera de l'inspector Megure, en perill</sub-title>
-    <desc lang="ca">L'inspector Megure dirigeix un cas en què el principal sospitós és un antic conegut, en Kyosuke Temukai. En el passat, l'inspector el va acusar d'un crim que no havia comès i ara vol venjança. Tot i la falta de proves, en Megure arrestarà en Kyosuke posant en risc la seva carrera. El que no sabia era que, en secret, en Kyosuke tenia una coartada aparentment perfecta. En Kogoro i en Conan hauran d'ajudar l'inspector a resoldre el cas i salvar la seva reputació.</desc>
-    <length units="minutes">00:22:19</length>
+  <programme start="20261030042311 +0000" channel="esport3" stop="20261030054959 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Aarhus-Barça / EHF Champions / J6</sub-title>
+    <desc lang="ca">El Barça vol tancar la primera fase de grups amb ple de victòries. Els danesos, que van perdre al Palau Blaugrana (39-28) es juguen la continuïtat a la gran competició europea.</desc>
+    <length units="minutes">01:26:48</length>
   </programme>
-  <programme start="20261029232431 +0000" channel="sx3" stop="20261029234616 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A la recerca de la perca</sub-title>
-    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
-    <length units="minutes">00:21:45</length>
+  <programme start="20261030040028 +0000" channel="sx3" stop="20261030042132 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Sublimació</sub-title>
+    <desc lang="ca">La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.</desc>
+    <length units="minutes">00:21:04</length>
   </programme>
-  <programme start="20261029225243 +0000" channel="tv3" stop="20261029233700 +0000">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Estripem els pobles de postal, amb Alba Segarra i Mar Camps</sub-title>
-    <desc lang="ca">Quin impacte ha tingut l'èxode urbà en els pobles catalans? S'estan convertint en pobles aparador fets a mida per a qui només hi va a 'desconnectar'? Què carai és 'el territori'? En parlem amb la periodista de Celrà Mar Camps, autora de l'assaig literari 'No vingueu al poble a reposar' (Ela Geminada, 2026), i amb la humorista de la Fuliola Alba Segarra. Descobrim el projecte de jardineria de Pep Espelt, ànima del centre artístic Konvent, al Berguedà. Carlota Gurt ha fet números i ens explica quantes paraules té el català, fem safareig sobre l'actualitat cultural amb Oriol Puig Taulé i Emma Zafón i posem un peu a ciutat per explorar una joia arquitectònica com l'Hospital de Sant Pau amb Erik Harley.</desc>
-    <length units="minutes">00:44:17</length>
+  <programme start="20261030042132 +0000" channel="sx3" stop="20261030043327 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El papa o la Castina</sub-title>
+    <desc lang="ca">El vent s'ha emportat el dibuix que la Castina li havia fet al seu pare pel seu aniversari. La Guineta s'ofereix a recuperar-lo, però la Castina no creu que tingui temps d'anar-lo a buscar, perquè avui ve en Basile, el pare de la petita guineu. Però la Guineta, que és tossuda com ella sola, està convençuda que ho podrà fer tot. I llavors entren en escena en Gatmoix i en Gatmoll.</desc>
+    <length units="minutes">00:11:55</length>
   </programme>
-  <programme start="20261029233700 +0000" channel="tv3" stop="20261030003544 +0000">
-    <title lang="ca">Savis i sàvies</title>
-    <sub-title lang="ca">Maria del Mar Bonet</sub-title>
-    <desc lang="ca">Nascuda a Palma, als 19 anys va marxar de l'illa per fer ceràmica. Però ben aviat va canviar l'artesania per la seva gran passió: cantar i compondre música. Els setze jutges la van sentir cantar i la van convertir en la catorzena jutgessa. El seu nom conté la Mar, i no podia ser més encertat: la seva música no només arrela a la seva Mallorca natal sinó que pertany al Mediterrani.</desc>
-    <length units="minutes">00:58:44</length>
+  <programme start="20261030040035 +0000" channel="tv3" stop="20261030044438 +0000">
+    <title lang="ca">El llenguado</title>
+    <sub-title lang="ca">Aprendre català i visita a Lleida</sub-title>
+    <desc lang="ca">Guillem Albà torna a classe, canta en xinès i fa castells, tot buscant els motius pels quals algú vol o no vol aprendre català. Per què aprenen català els adults, i com ho fan? Yolanda Sey viatjarà a Lleida, a la recerca del català de ponent...i no, allà no diuen 'Lleide'.</desc>
+    <length units="minutes">00:44:03</length>
+  </programme>
+  <programme start="20261030044438 +0000" channel="tv3" stop="20261030045207 +0000">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Marjane Satrapi: 'Persèpolis'</sub-title>
+    <desc lang="ca">Aquesta novel·la gràfica publicada l'any 2000 és considerada una de les obres cabdals del còmic recent, i una de les millors mostres del gènere autobiogràfic. Sartrapi explica la seva infantesa durant la revolució iraniana, als anys 80. L'èxit rotund de crítica i vendes va ser el detonant de moltíssims més còmics que es basen en les experiències personals d'autors i autores d'arreu del món.</desc>
+    <length units="minutes">00:07:29</length>
   </programme>
 </tv>
