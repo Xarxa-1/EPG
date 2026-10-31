@@ -1,78 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261031025128 +0000" channel="tvi" stop="20261031040000 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261031120000 +0000" channel="tvi" stop="20261031131001 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11575</sub-title>
+    <sub-title lang="ca">11578</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:08:32</length>
+    <length units="minutes">01:10:01</length>
   </programme>
-  <programme start="20261031040000 +0000" channel="tvi" stop="20261031044542 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">JG Acoustic Gang</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:42</length>
+  <programme start="20261031130950 +0000" channel="tvi" stop="20261031133806 +0000">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un ramader dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc lang="ca">Al peu del pic d'Orhi, Larrau és un poble de 200 ànimes molt lligades a la seva terra ancestral. Aquest poble d'alta muntanya, situat al cor de la regió de la Sola, ha sabut conservar les seves tradicions camperoles i el seu art de viure. Aquí encara hi ha nissagues de pastors, que transmeten l'ofici de pares a fills, tot respectant les tradicions ancestrals. En aquest episodi coneixerem una figura emblemàtica del poble, Marcel Accocéberry, que treballa de pagès des de fa més de 50 anys, i també el seu fill Ximun, que continua l'explotació familiar. En Marcel i en Ximun s'ocupen de les vaques i de les eugues que viuen en llibertat a la muntanya. A la regió de la Sola, la transhumància és a la mateixa arrel de l'ofici dels pastors, que cada estiu porten les ovelles a les pastures de les zones més altes. És el cas d'en Sébastien, un pastor que també segueix la tradició de l'explotació familiar. En Sébastien i d'altres pastors de la vall apleguen els seus ramats a les pastures d'estiu i els vigilen seguint un rigorós ordre de tanda.En l'episodi, nosaltres seguirem en Marcel, en Ximun i en Sébastien mentre condueixen els ramats cap a les muntanyes. En plena naturalesa, les tasques quotidianes dels pastors són vigilar les ovelles, munyir-les i, quan cal, curar-les. Parlant amb aquests pastors també descobrirem quines són les seves esperances i les seves pors de cara al futur de la seva feina.</desc>
+    <length units="minutes">00:28:16</length>
   </programme>
-  <programme start="20261031010000 +0000" channel="324" stop="20261031060000 +0000">
+  <programme start="20261031120000 +0000" channel="324" stop="20261031143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11575</sub-title>
+    <sub-title lang="ca">11578</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261031060000 +0000" channel="324" stop="20261031070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11575</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261031143000 +0000" channel="324" stop="20261031163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7375</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261031024311 +0000" channel="esport3" stop="20261031042741 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
-    <desc lang="ca">El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
-    <length units="minutes">01:44:30</length>
+  <programme start="20261031112212 +0000" channel="esport3" stop="20261031125500 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
+    <length units="minutes">01:32:48</length>
   </programme>
-  <programme start="20261031042741 +0000" channel="esport3" stop="20261031044547 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5554</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:18:06</length>
+  <programme start="20261031125500 +0000" channel="esport3" stop="20261031143926 +0000">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Cartagena FS-Catgas Energia / Primera divisió / J7</sub-title>
+    <desc lang="ca">Els colomencs, que encara no han guanyat cap partit i són penúltims a la classificació amb 4 punts, necessiten reaccionar. El conjunt murcià tampoc no ha fet una bona arrencada de campionat i suma 7 punts.</desc>
+    <length units="minutes">01:44:26</length>
   </programme>
-  <programme start="20261031035808 +0000" channel="sx3" stop="20261031042024 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El senyor Agreste</sub-title>
-    <desc lang="ca">L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
-    <length units="minutes">00:22:16</length>
+  <programme start="20261031120858 +0000" channel="sx3" stop="20261031123100 +0000">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">Una gàbia buida a l'estadi de Wimbledon</sub-title>
+    <desc lang="ca">El Flash, un llebrer campió de pura raça, desapareix de la seva gàbia súper segura en unes circumstàncies incomprensibles la nit abans d'una cursa molt important.</desc>
+    <length units="minutes">00:22:02</length>
   </programme>
-  <programme start="20261031042024 +0000" channel="sx3" stop="20261031043218 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">En Martís mana</sub-title>
-    <desc lang="ca">En Pinxo cedeix el seu lloc de cap de la colla a en Martís per anar a buscar nous a una noguera que n'és plena a vessar i evitar que els gats del poble se les quedin totes. Pel camí, en Martís s'haurà de guanyar el respecte de la Guineta i en Timbal, que en un principi se'l prenen a broma.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20261031123100 +0000" channel="sx3" stop="20261031124414 +0000">
+    <title lang="ca">Betapodcast</title>
+    <sub-title lang="ca">Activem el pla Castanycat per salvar la Castanyada</sub-title>
+    <desc lang="ca">El Jan s'atreveix a confessar-nos que la Castanyada ja no l'engresca i ens veiem obligats a activar el pla Castanycat perquè se'n torni a encaterinar. Cacem castanyes i posem a prova la nostra punteria.</desc>
+    <length units="minutes">00:13:14</length>
   </programme>
-  <programme start="20261031034329 +0000" channel="tv3" stop="20261031042632 +0000">
-    <title lang="ca">El llenguado</title>
-    <sub-title lang="ca">El català de totes i viatge a Andorra</sub-title>
-    <desc lang="ca">La Yolanda Sey busca les aportacions del feminisme al català, i es pregunta si un canvi en el llenguatge ens pot ajudar a canviar la societat. L'ajudaran lingüistes com Carme Junyent o Eulàlia Lledó, escriptores com Llucia Ramis o Bel Olid i artistes com Clara Peya, entre altres. Mentrestant, en Guillem Albà visita Andorra, a veure com li escau al català ser llengua oficial d'un país independent.</desc>
-    <length units="minutes">00:43:03</length>
+  <programme start="20261031120736 +0000" channel="tv3" stop="20261031123632 +0000">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Finisterre a la catalana</sub-title>
+    <desc lang="ca">En el tercer programa del 'Gran Recorregut' encetem la primera de les quatre rutes per l'Alt Empordà. Anem des d'Empúries fins al cap de Creus, uns 55 quilòmetres fets a peu, en cotxe i... en paracaigudes! De les ruïnes anirem a Viladamat i a l'Armentera, on descobrirem com s'elabora un embotit dolç i salat molt típic que després cuinarem amb una padrina del poble. Al sortir, pujarem cap a Sant Pere Pescador i pararem als Aiguamolls de l'Empordà per coneixe'n la fauna, la flora i el digiscoping.</desc>
+    <length units="minutes">00:28:56</length>
   </programme>
-  <programme start="20261031042632 +0000" channel="tv3" stop="20261031051331 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La torradora de pa</sub-title>
-    <desc lang="ca">Llevar-se de bon matí i poder-se fer un parell de torrades sempre fa posar de bon humor, si no ets del 60% de persones incapaces de treure-les abans no se li cremin. Dediquem aquest capítol a la torradora de pa. Ens visita en Sicus Carbonell, un dels fundadors i membre del grup de rumba catalana Sabor de Gràcia, que puja al nostre escenari per versionar una de les seves cançons més conegudes amb l'Arnau Tordera i la Laia Glück. I avui passegem la Sara, un pastor alemany d'Alella, per la batalla del Castell Itter.</desc>
-    <length units="minutes">00:46:59</length>
+  <programme start="20261031123632 +0000" channel="tv3" stop="20261031130412 +0000">
+    <title lang="ca">Tocats de l'ala</title>
+    <sub-title lang="ca">Els homes que busquen mussolets</sub-title>
+    <desc lang="ca">Pugem al Pirineu seguint un grup d'homes cepats curtits en mil batalles...són els homes que busquen mussolets: tècnics de fauna del parc natural a la recerca de nius de mussol pirinenc. Ah, el mussol pirinenc! Una joia tan valorada com escassa, una petita meravella que sembla de joguina, un caçador compulsiu de talps i ratolins des de la més tendra infància...amb l'emprenyadora mania de fer niu a les cases dels altres, concretament, als nius de picot negre. Doncs de mussolets pirinencs, en veurem uns quants, però també veurem altres ocells d'alta muntanya, i veurem com treballen aquests experts a qui enamora una merla roquera o fa riure una gralla de bec groc.Com a contrapunt, el que seria slow birding: què pot passar si poses menjadores al jardí de casa. La Matilde va començar amb una paperina de pipes i un parell de mallerengues, i ara serveix els àpats d'una munió d'ocells de bosc que van a casa seva com qui va al restaurant. Pardals, mallerengues, pit-roigs, tallarols, verdums i gafarrons...però també gaigs, picots i de tant en tant un esparver amb males intencions. Ella s'asseu davant la finestra, amb els prismàtics a punt, i gaudeix de l'espectacle.I, entremig, descobrirem el digiscoping: com fotografiar des d'un telescopi, i farem el tallat al Cafè Bar Ni Piu, un local de gran volada.</desc>
+    <length units="minutes">00:27:40</length>
   </programme>
 </tv>
