@@ -1,78 +1,78 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261030222449 +0000" channel="tvi" stop="20261030233538 +0000">
-    <title lang="ca">La Puntual</title>
-    <sub-title lang="ca">La Puntual: Mamma mia</sub-title>
-    <desc lang="ca">Ha arribat el dia de l'estrena de 'L'auca del senyor Esteve'. Catifa vermella, convidats especials, familiars i el retrobament amb els 33 finalistes del 'Laboratori'. Avui per primera vegada s'apujarà el teló de la producció per a la qual la nostra companyia s'ha estat preparant durant dos mesos. Viurem l'emoció de les hores prèvies, dels nervis entre bambolines i les abraçades de celebració finals.</desc>
-    <length units="minutes">01:10:49</length>
-  </programme>
-  <programme start="20261030233538 +0000" channel="tvi" stop="20261030234351 +0000">
-    <title lang="ca">Ets i uts</title>
-    <sub-title lang="ca">Quan vam sobreviure</sub-title>
-    <desc lang="ca">El Roger i la Mònica coneixen el Victor Rojas, un pastor que viu al Cap de Creus seguint les seves pròpies normes. Fascinats per aquest estil de vida, el Roger i la Mònica intenten sobreviure un dia sencer sense l'ajuda del mòbil.</desc>
-    <length units="minutes">00:08:13</length>
-  </programme>
-  <programme start="20261030220500 +0000" channel="324" stop="20261030233000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2190</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:25:00</length>
-  </programme>
-  <programme start="20261030233000 +0000" channel="324" stop="20261031003000 +0000">
+  <programme start="20261031025128 +0000" channel="tvi" stop="20261031040000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11574</sub-title>
+    <sub-title lang="ca">11575</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:08:32</length>
+  </programme>
+  <programme start="20261031040000 +0000" channel="tvi" stop="20261031044542 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">JG Acoustic Gang</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:42</length>
+  </programme>
+  <programme start="20261031010000 +0000" channel="324" stop="20261031060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11575</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261031060000 +0000" channel="324" stop="20261031070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11575</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261030220054 +0000" channel="esport3" stop="20261030230000 +0000">
+  <programme start="20261031024311 +0000" channel="esport3" stop="20261031042741 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
     <desc lang="ca">El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
-    <length units="minutes">00:59:06</length>
+    <length units="minutes">01:44:30</length>
   </programme>
-  <programme start="20261030230000 +0000" channel="esport3" stop="20261031003144 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
-    <length units="minutes">01:31:44</length>
+  <programme start="20261031042741 +0000" channel="esport3" stop="20261031044547 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5554</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:18:06</length>
   </programme>
-  <programme start="20261030224333 +0000" channel="sx3" stop="20261030230403 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La intriga a la mansió dels Morikawa (2a part)</sub-title>
-    <desc lang="ca">En Yuzan Morikawa, un home adinerat a qui li queda poc temps de vida, ha convidat en Conan, la Ran i en Kogoro a la seva mansió en una illa remota perquè l'assessorin en el repartiment de la seva herència. Durant la seva estada, dos dels seus tres fills apareixen morts. Tots els presents a l'illa podrien ser l'assassí, fins i tot la Yuka, la majordoma en cap, o l'Oi, l'advocat.</desc>
-    <length units="minutes">00:20:30</length>
+  <programme start="20261031035808 +0000" channel="sx3" stop="20261031042024 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El senyor Agreste</sub-title>
+    <desc lang="ca">L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
+    <length units="minutes">00:22:16</length>
   </programme>
-  <programme start="20261030230403 +0000" channel="sx3" stop="20261030232623 +0000">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La Lliga de Detectius Júnior posa a prova el seu coratge</sub-title>
-    <desc lang="ca">La Lliga de Detectius Júnior visita un antic hospital encantat per trobar-hi fantasmes. Allà ja hi ha dos famosos buscadors de fantasmes que intentaran espantar en Conan i els seus amics. Al final, resulta que els fantasmes els havia creat un fugitiu de la llei que s'amagava a l'hospital.</desc>
-    <length units="minutes">00:22:20</length>
+  <programme start="20261031042024 +0000" channel="sx3" stop="20261031043218 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">En Martís mana</sub-title>
+    <desc lang="ca">En Pinxo cedeix el seu lloc de cap de la colla a en Martís per anar a buscar nous a una noguera que n'és plena a vessar i evitar que els gats del poble se les quedin totes. Pel camí, en Martís s'haurà de guanyar el respecte de la Guineta i en Timbal, que en un principi se'l prenen a broma.</desc>
+    <length units="minutes">00:11:54</length>
   </programme>
-  <programme start="20261030215849 +0000" channel="tv3" stop="20261030224948 +0000">
+  <programme start="20261031034329 +0000" channel="tv3" stop="20261031042632 +0000">
+    <title lang="ca">El llenguado</title>
+    <sub-title lang="ca">El català de totes i viatge a Andorra</sub-title>
+    <desc lang="ca">La Yolanda Sey busca les aportacions del feminisme al català, i es pregunta si un canvi en el llenguatge ens pot ajudar a canviar la societat. L'ajudaran lingüistes com Carme Junyent o Eulàlia Lledó, escriptores com Llucia Ramis o Bel Olid i artistes com Clara Peya, entre altres. Mentrestant, en Guillem Albà visita Andorra, a veure com li escau al català ser llengua oficial d'un país independent.</desc>
+    <length units="minutes">00:43:03</length>
+  </programme>
+  <programme start="20261031042632 +0000" channel="tv3" stop="20261031051331 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 9</sub-title>
-    <desc lang="ca">Aquesta setmana parlem del marcador fluorescent, que no 'del fosfu'. De la pala de pàdel, que no 'de la raqueta'. De la impremta, que no 'de la màquina d'impressionar'. I de i bossa d'escombraries, que no 'de la bossa de basura'. També rebem la visita d'en Toni Cruanyes, en Damià Bonsfills, en Pep Sala i en Xavier Estrada, és a dir, de periodistes, pilots, músics i àrbitres de futbol. De debò que ens mereixem un monument.</desc>
-    <length units="minutes">00:50:59</length>
-  </programme>
-  <programme start="20261030224948 +0000" channel="tv3" stop="20261030235717 +0000">
-    <title lang="ca">Teatre</title>
-    <sub-title lang="ca">Terrrífic!</sub-title>
-    <desc lang="ca">Terrrífic!El TricicleUn espectacle d'El Tricicle que, tal com ja ens tenen acostumats, ens ofereix diversió i diversitat, alhora que ens avisa sobre el que ens pot succeir en aquest espectacle, pensat per fer-nos passar, sense malícia, una mica de por.Taquicàrdies, angoixes, atacs d'histèria, tot és possible, però sense perdre aquest to que esl caracteritza com a especials i únics.Autors i actors: Joan Gràcia, Paco Mir, Carles SansProducció: OvídeoRealització TV: X. Manich</desc>
-    <length units="minutes">01:07:29</length>
+    <sub-title lang="ca">La torradora de pa</sub-title>
+    <desc lang="ca">Llevar-se de bon matí i poder-se fer un parell de torrades sempre fa posar de bon humor, si no ets del 60% de persones incapaces de treure-les abans no se li cremin. Dediquem aquest capítol a la torradora de pa. Ens visita en Sicus Carbonell, un dels fundadors i membre del grup de rumba catalana Sabor de Gràcia, que puja al nostre escenari per versionar una de les seves cançons més conegudes amb l'Arnau Tordera i la Laia Glück. I avui passegem la Sara, un pastor alemany d'Alella, per la batalla del Castell Itter.</desc>
+    <length units="minutes">00:46:59</length>
   </programme>
 </tv>
