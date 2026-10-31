@@ -1,78 +1,76 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261031154015 +0000" channel="tvi" stop="20261031173306 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Els amors de l'Anaïs</sub-title>
-    <desc lang="ca">ELS AMORS DE L'ANAÏS 'Les amours d'Anaïs'Direcció: Charline Bourgeois-TacquetGuió: Charline Bourgeois-TacquetProducció: Année Zéro, Les Films Pelléas, arte France Cinéma, Canal+, Ciné+, CNCAny: 2021Durada: 97País: FrançaMúsica: Nicola PiovaniFotografia: Noé BachIntèrprets: Anaïs Demoustier, Valeria Bruni Tedeschi, Denis Podalydès, Jean-Charles Clichet, Xavier Guelfi, Christophe Montenez, Anne Canovas, Bruno Todeschini, Annie Mercier, Grégoire OestermannAquesta és la història d'una jove parisenca inquieta i una mica esbojarrada amb un desig profund d'estimar</desc>
-    <length units="minutes">01:52:51</length>
+  <programme start="20261031210000 +0000" channel="tvi" stop="20261031221058 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7374</sub-title>
+    <length units="minutes">01:10:58</length>
   </programme>
-  <programme start="20261031172837 +0000" channel="tvi" stop="20261031182026 +0000">
-    <title lang="ca">Infidels</title>
-    <sub-title lang="ca">14</sub-title>
-    <desc lang="ca">Les amigues comenten amb alegria i esperança la decisió de Paula d'operar-se. El metge, però, li comunica que el temps d'operar-se ja ha passat. El Marc troba a faltar el seu fill. La Lídia ha rebut dues invitacions per anar a la presentació d'una revista i pretén que el Toni l'acompanyi vestit amb una americana. El Rubén i el Toni es coneixen i el Toni no triga a descobrir que entre ell i la Lídia hi va haver alguna cosa. L'Arlet demana a la Dani que vagi amb ella a classe a parlar de la seva feina, ja que s'adona que la noia s'ha pres malament que no li ho demanés. L'Oriol explica a la Joana que hi ha un nen a l'escola que el pega. El Robert impedeix que la Cruz s'encarregui d'un nou client. Després li explica que està al corrent del frau que va cometre.</desc>
-    <length units="minutes">00:51:49</length>
+  <programme start="20261031221058 +0000" channel="tvi" stop="20261101011113 +0000">
+    <title lang="ca">Col·lapse</title>
+    <sub-title lang="ca">159</sub-title>
+    <desc lang="ca">L'escriptora de best-sellers Dolores Redondo ens parlarà de la seva última novel·la, que ja és un èxit de vendes ara mateix.  Mayka Navarro ens actualitza alguns dels casos més mediàtics amb què hem començat la temporada i que encara no s'han resolt o no estan tancats. Conversarem amb Quim Masferrer sobre teatre, sobre la vida, sobre futures estrenes i sobre tot el que pugui donar de si una trobada amb un dels millors presentadors de la cadena. Ara que tot just s'acaba de jubilar, ens visita un dels antropòlegs més estimats de Catalunya, Manuel Delgado. A més, presenta el seu últim llibre, 'Todas las ciudades están poseídas', on parla sense embuts d'urbanisme i excés d'activitats vinculades al turisme a les àrees metropolitanes.  Maria Fernández Vidal posa banda sonora a alguns dels moments que hem viscut aquesta setmana durant els guardons de la Pilota d'Or!  Farem experiments curiosos amb IA amb l'enginyer de software i emprenedor Aniol Vicens. Anna Callís s'enfronta a un nou repte televisiu com a reportera i Miriam Victoria ens porta un nou fenomen paranormal en clau catalana.</desc>
+    <length units="minutes">03:00:15</length>
   </programme>
-  <programme start="20261031163000 +0000" channel="324" stop="20261031183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11579</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261031210000 +0000" channel="324" stop="20261031230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7374</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261031183000 +0000" channel="324" stop="20261031200000 +0000">
+  <programme start="20261031230000 +0000" channel="324" stop="20261101003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11580</sub-title>
+    <sub-title lang="ca">11582</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261031170343 +0000" channel="esport3" stop="20261031175500 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">RCD Espanyol-Logronyo / Lliga F / J9</sub-title>
-    <desc lang="ca">Tots dos equips empaten a la classificació després de 2 victòries, 3 empats i 3 derrotes. Guanyar permetria a les blanc-i-blaves mirar cap a la part alta.</desc>
-    <length units="minutes">00:51:17</length>
+  <programme start="20261031205717 +0000" channel="esport3" stop="20261031225500 +0000">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Barça-Alabès</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">01:57:43</length>
   </programme>
-  <programme start="20261031175500 +0000" channel="esport3" stop="20261031183547 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Lucenec-Barça / Champions League / J3 Main Round</sub-title>
-    <desc lang="ca">Els blaugranes, que ja tenen garantida la primera posició del grup, tanquen la participació a la primera fase de la Champions amb l'objectiu de sumar la tercera victòria en tres partits. El rival és l'equip amfitrió, el Lucenec d'Eslovàquia.</desc>
-    <length units="minutes">00:40:47</length>
+  <programme start="20261031225500 +0000" channel="esport3" stop="20261101003108 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post Barça-Alabès / J11</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:36:08</length>
   </programme>
-  <programme start="20261031165525 +0000" channel="sx3" stop="20261031181559 +0000">
-    <title lang="ca">Mòmies</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">Les mòmies egípcies viuen sota terra, en una ciutat secreta que és un fidel reflex de l'Antic Egipte del temps dels faraons. Tres mòmies, la princesa, un exauriga i el seu germà petit, juntament amb una cria de cocodril de mascota, se submergeixen en una divertida aventura, que els deixa perduts pel Londres actual a la recerca d'un anell antic que va robar l'arqueòleg Lord Carnaby...</desc>
-    <length units="minutes">01:20:34</length>
+  <programme start="20261031214048 +0000" channel="sx3" stop="20261031220218 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Un monstre de Gila a sota casa</sub-title>
+    <desc lang="ca">Els germans Kratt acaben de rebre una trucada d'en Javier, un noi que viu al desert de Sonora i que assegura que se li ha instal·lat un monstre de Gila a sota de casa seva i que té molta por. La missió d'avui és descobrir com són de veritat els monstres de Gila i evitar que en Zach Virusmàtic aprofiti les característiques d'aquest animal per posar a la pràctica el seu pròxim invent!</desc>
+    <length units="minutes">00:21:30</length>
   </programme>
-  <programme start="20261031181559 +0000" channel="sx3" stop="20261031184146 +0000">
-    <title lang="ca">Pat, el gos (especials)</title>
-    <sub-title lang="ca">Una història horripilant</sub-title>
-    <desc lang="ca">Per Halloween, la Lola ha preparat una història de por sobre un amulet màgic. Quan s'adonen que el Caputxet se sent atret per l'amulet, els coloms el roben per desfer-se del gat. Mentre el Pat fa tot el possible per recuperar-lo, una sèrie de coses estranyes comencen a passar a casa de la Lola des que ha desaparegut l'amulet. De fet, la Lucy, l'Hugo i l'Hortènsia també han desaparegut!</desc>
-    <length units="minutes">00:25:47</length>
+  <programme start="20261031220218 +0000" channel="sx3" stop="20261031221313 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">El Nadal sorpresa</sub-title>
+    <desc lang="ca">Aquest any, les noies han de passar les vacances de Nadal amb les seves mares respectives, però una tempesta de neu deixa aïllada la ciutat i les obliga a passar les festes al pis amb el Dad... que, com que havia d'estar sol, no havia previst res. Les noies s'hauran d'afanyar per trobar un regal pel seu pare, i el Dad, per fer un sopar digne d'un dia tan assenyalat.</desc>
+    <length units="minutes">00:10:55</length>
   </programme>
-  <programme start="20261031163958 +0000" channel="tv3" stop="20261031172412 +0000">
-    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
-    <sub-title lang="ca">Sri Lanka</sub-title>
-    <desc lang="ca">En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.</desc>
-    <length units="minutes">00:44:14</length>
+  <programme start="20261031213253 +0000" channel="tv3" stop="20261031215913 +0000">
+    <title lang="ca">Caçadors de bolets</title>
+    <sub-title lang="ca">89</sub-title>
+    <desc lang="ca">Aquesta setmana, 'Caçadors de bolets' busca camagrocs als boscos de Gisclareny, a l'Alt Berguedà. Acompanyem una família de Bagà en què l'amor al bolet es mama des de petit...el Jordi i la Pilar, la seva filla Aida i la seva néta, l'Ona, una nena de 4 anys que ja en sap més que molts adults. Els bolets xerraires de Spora TV parlen sobre la vida al bosc, no tan idíl.lica com sembla, i l'Enric Gràcia, el micòleg del programa, ens explica per què rossinyols, trompetes i camagrocs són dels pocs bolets que no es corquen.</desc>
+    <length units="minutes">00:26:20</length>
   </programme>
-  <programme start="20261031172412 +0000" channel="tv3" stop="20261031181809 +0000">
-    <title lang="ca">Philippe Echaroux, il.luminar el món</title>
-    <sub-title lang="ca">Namíbia</sub-title>
-    <desc lang="ca">Philippe Echaroux és un fotògraf francès que es dedica a visitar poblacions remotes i amenaçades d'arreu del món per fer retrats i projectar-los en gran format sobre arbres o roques, a fi de donar a conèixer la lluita d'aquests pobles per sobreviure i per protegir el seu entorn. En aquesta ocasió viatja al nord de Namíbia per visitar els himbes, que viuen en unes condicions terribles, sobretot a causa d'una sequera que fa anys que dura.</desc>
-    <length units="minutes">00:53:57</length>
+  <programme start="20261031215913 +0000" channel="tv3" stop="20261031222033 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Documentar-se abans de crear</sub-title>
+    <desc lang="ca">Documentar-se és fonamental en la creació de tot tipus d'obres artístiques. Fins que no se senten que han investigat i han fet prou recerca, hi ha moltes autores i autors que són incapaços d'iniciar un projecte nou. Cristina Masanés està enllestint un assaig al qual ha dedicat quatre anys d'estudis exhaustius. Es titula 'Les maletes de Portbou',', i segueix la pista dels intel·lectuals centreeuropeus perseguits pel nazisme, que van fugir durant la II Guerra Mundial per la nostra estació ferroviària fronterera. L'escriptora i periodista es fixa en què van rescatar d'Europa dins de les seves maletes, quines idees, quines obres van salvar de l'aniquilació en un exili cap als Estats Units que va passar per casa nostra. Una d'aquestes exiliades va ser Hannah Arendt, i les seves idees han inspirat el tàndem creatiu teatral que formen Maria Jover i Gerard Franch. La seva filosofia política els ressona en l'actual era de la intel·ligència artificial i d'aquí n'ha sortit el seu nou espectacle, 'Un mal normal', que estrenaran al Festival Temporada Alta. És una peça, en realitat, banyada d'humor i música, però que han creat després de llegir molta filosofia, teoria política i estudis sobre la IA, lectures que han contrastat amb converses amb especialistes com la professora de l'UPF Tatiana Llaguno i l'analista de dades Roger Sanjaume. Són dues maneres de documentar-se per a dues disciplines artístiques com són la literatura i el teatre en el context d'un nou auge de l'extrema dreta a Europa, ara, amb noves eines.</desc>
+    <length units="minutes">00:21:20</length>
   </programme>
 </tv>
