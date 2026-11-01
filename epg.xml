@@ -15,64 +15,57 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261101030742 +0000" channel="tvi" stop="20261101040000 +0000">
+  <programme start="20261101121715 +0000" channel="tvi" stop="20261101143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11583</sub-title>
+    <sub-title lang="ca">11586</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:52:18</length>
+    <length units="minutes">02:12:45</length>
   </programme>
-  <programme start="20261101040000 +0000" channel="tvi" stop="20261101044559 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Johnny Big Stone &amp; The Blues Workers</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:59</length>
-  </programme>
-  <programme start="20261101010000 +0000" channel="324" stop="20261101060000 +0000">
+  <programme start="20261101120000 +0000" channel="324" stop="20261101143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11583</sub-title>
+    <sub-title lang="ca">11586</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261101060000 +0000" channel="324" stop="20261101070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11583</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261101143000 +0000" channel="324" stop="20261101163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7376</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261101025839 +0000" channel="esport3" stop="20261101041939 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Lucenec-Barça / Champions League / J3 Main Round</sub-title>
-    <desc lang="ca">Els blaugranes, que ja tenen garantida la primera posició del grup, tanquen la participació a la primera fase de la Champions amb l'objectiu de sumar la tercera victòria en tres partits. El rival és l'equip amfitrió, el Lucenec d'Eslovàquia.</desc>
-    <length units="minutes">01:21:00</length>
+  <programme start="20261101114507 +0000" channel="esport3" stop="20261101140819 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Surne Bilbao / Lliga / J6</sub-title>
+    <desc lang="ca">Els badalonins (2 victòries i 3 derrotes) millorarien a la classificació si guanyen el conjunt basc (3 victòries i 2 derrotes).</desc>
+    <length units="minutes">02:23:12</length>
   </programme>
-  <programme start="20261101041939 +0000" channel="esport3" stop="20261101061150 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">- Cartagena FS-Catgas Energia / Primera divisió / J7</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">01:52:11</length>
+  <programme start="20261101140819 +0000" channel="esport3" stop="20261101143000 +0000">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">63</sub-title>
+    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
+    <length units="minutes">00:21:41</length>
   </programme>
-  <programme start="20261101035121 +0000" channel="sx3" stop="20261101040121 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">La bossa d'en Bobby Bunny</sub-title>
-    <desc lang="ca">A l'aventura d'avui, la colla d'amics fan una sortida al bosc. El Hooper s'emporta la bossa que té per guardar el pijama, que té forma de conillet i es diu Bobby Bunny. La Phoebe li demana que l'hi deixi i se l'hi emporta el vent. Llavors, tota la colla fan un globus de paper per buscar la bossa. La trobaran?</desc>
-    <length units="minutes">00:10:00</length>
+  <programme start="20261101131223 +0000" channel="sx3" stop="20261101133542 +0000">
+    <title lang="ca">Pat, el gos (especials)</title>
+    <sub-title lang="ca">Una història horripilant</sub-title>
+    <desc lang="ca">Per Halloween, la Lola ha preparat una història de por sobre un amulet màgic. Quan s'adonen que el Caputxet se sent atret per l'amulet, els coloms el roben per desfer-se del gat. Mentre el Pat fa tot el possible per recuperar-lo, una sèrie de coses estranyes comencen a passar a casa de la Lola des que ha desaparegut l'amulet. De fet, la Lucy, l'Hugo i l'Hortènsia també han desaparegut!</desc>
+    <length units="minutes">00:23:19</length>
   </programme>
-  <programme start="20261101040121 +0000" channel="sx3" stop="20261101041121 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Entrebancs amb un tresor</sub-title>
-    <desc lang="ca">A l'aventura d'avui, la Mà Amiga ha organitzat la recerca d'un tresor. La lidera el pirata Plom. La Phoebe li diu al Plom que es prepari per l'aventura, però el Plom, que està molt emocionat, vol marxar de seguida i s'equivoca de camí, i aviat s'adona que no sap on són. Serà capaç el pirata Plom de guiar els seus amics fins al tresor i després tornar cap a casa?</desc>
-    <length units="minutes">00:10:00</length>
+  <programme start="20261101133542 +0000" channel="sx3" stop="20261101140515 +0000">
+    <title lang="ca">Manduka</title>
+    <sub-title lang="ca">Crema de carbassa divertida - Mireia Portas</sub-title>
+    <desc lang="ca">Les cremes de verdures són un autèntic malson per a molts petits. Per això, en aquest programa, juntament amb l'actriu i imitadora Mireia Portas, farem una crema molt divertida. La farem de tres colors i amb 'toppings' (o guarniments) cruixents. A banda de riure molt amb ella, també aprendrem a fer ous ferrats de diferents colors. I convertirem la cuina de Can Cinto en un zoològic amb tortugues i pingüins fets amb aliments com kiwis i raïm.</desc>
+    <length units="minutes">00:29:33</length>
   </programme>
-  <programme start="20261101032715 +0000" channel="tv3" stop="20261101041339 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El simulacre</sub-title>
-    <desc lang="ca">Tal com reclama la Victòria és el moment d'enterrar l'Eduardo. Però abans han de trobar la manera de donar-lo per sense que li facin una autòpsia que reveli que fa dies que està congelat</desc>
-    <length units="minutes">00:46:24</length>
+  <programme start="20261101123930 +0000" channel="tv3" stop="20261101131216 +0000">
+    <title lang="ca">Tocats de l'ala</title>
+    <sub-title lang="ca">Ocells de mar endins</sub-title>
+    <desc lang="ca">Gavines, baldrigues, xatracs...els ocells marins, símbols de llibertat, ens enamoren amb el seu vol poderós sobre les aigües, i arrosseguen ornitòlegs i fotògrafs a embarcar-se com si el mareig no existís. Volem veure ocells de mar endins, i salpem del port de Tarragona en un vaixell carregat de bojos que corren, criden i s'exclamen cada cop que apareix una bèstia nova. O no són tan bojos? Sabeu què és, fer un bimbo? Enteneu l'alegria de veure un ocell nou quan ja en coneixes més de 8000 diferents? Avui, ocells marins... i tocats de l'ala, però molt tocats: en diríem bimberos de mar. I, ja amb els peus a terra, viurem un dia en la feina de la Laura Fortunyo, responsable del centre de recuperació de fauna del Delta de l'Ebre. La Laura cura, cuida i alimenta els ocells i altres animals salvatges ferits o malalts trobats al parc natural, com un poll de falciot caigut del niu a qui cal empapussar amb cucs cada dues hores, nit i dia. Entre els fixes, un voltor, una gavina corsa, , un astor, un mussol, un duc i un flamenc... tot plegat, una estranya família que conviu més o menys plàcidament.I a més, com triar la guia d'ocells que necessites, l'alerta del dia...i el Cafè Bar Ni Piu: vine i fes l'aperitiu.</desc>
+    <length units="minutes">00:32:46</length>
   </programme>
-  <programme start="20261101041339 +0000" channel="tv3" stop="20261101050412 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El funeral</sub-title>
-    <desc lang="ca">Només falta celebrar la cerimònia i la lectura del testament per acabar amb tot aquest malson. Però no serà tan fàcil com sembla; l'arribada del Marcos disposat a supervisar fins l'últim detall posarà en risc tot el que han aconseguit fins ara.</desc>
-    <length units="minutes">00:50:33</length>
+  <programme start="20261101131216 +0000" channel="tv3" stop="20261101135835 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La llanterna</sub-title>
+    <desc lang="ca">Recordeu el dia de l'apagada general? Hi havia dues opcions: tenir una espelma o una llanterna. Quantes vegades heu anat a les fosques perquè us feia mandra canviar les piles de la llanterna? Un dia parlarem de l'espelma, però aquest capítol el dediquem a la llanterna. Ens visita l'Àlex Auger, un savi per conèixer però molt boig, perquè practica 'wingsuit': salt amb vestit d'ales. Un home ocell, per entendre'ns. I boig, molt boig. A 'Històries per passejar el gos' anem al 1770, a la massacre de Boston, amb la Coco, que viu allà mateix.</desc>
+    <length units="minutes">00:46:19</length>
   </programme>
 </tv>
