@@ -1,11 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
@@ -15,57 +9,69 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261101121715 +0000" channel="tvi" stop="20261101143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11586</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:12:45</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261101220835 +0000" channel="tvi" stop="20261101225416 +0000">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">Ruta 66, escoltant els Estats Units</sub-title>
+    <desc lang="ca">Dos anys de Donald Trump a la Casa Blanca, unes eleccions de mig mandat a la vista i un país que ha celebrat el seu 250 aniversari. Aquest és el punt de partida per intentar respondre la pregunta que el món es fa: cap a on van els Estats Units? L'equip de TV3 a Washington ha recorregut de punta a punta la ruta 66, des de Chicago fins a Los Angeles, per prendre el pols a la societat nord-americana en un dels molts punts d'inflexió que el país ha viscut al llarg de la seva història. El resultat és un mosaic de veus i de vides trobades al llarg de 4.000 quilòmetres que s'expliquen i que expliquen el moment actual: des del canvi en les polítiques migratòries fins a la implicació en la guerra de l'Iran passant pel cost de la vida, la polarització al voltant de Donald Trump o el racisme històric. Una família mexicana a Illinois, una mare i un fill al seu porxo de Missouri, unes perruqueres a Oklahoma, un pastor baptista a Texas, un policia navajo a Nou Mèxic, un veterà del Vietnam a Arizona o joves amb un futur incert a Califòrnia. Tots es pregunten què és ser nord-americà avui, i amb les seves respostes i les seves experiències vitals es va teixint un retrat que vol fugir de la caricatura o la simplificació. Sota la gran polarització hi ha matisos. I sota el seu optimisme natural hi ha alguna fractura. 'Ruta 66, escoltant els Estats Units' no pretén ser la veritat definitiva, però tot el que hi surt és veritat i reflecteix per on passa el país la tardor del 2026.</desc>
+    <length units="minutes">00:45:41</length>
   </programme>
-  <programme start="20261101120000 +0000" channel="324" stop="20261101143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11586</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+  <programme start="20261101225416 +0000" channel="tvi" stop="20261102011408 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">5</sub-title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="minutes">02:19:52</length>
   </programme>
-  <programme start="20261101143000 +0000" channel="324" stop="20261101163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7376</sub-title>
+  <programme start="20261101210000 +0000" channel="324" stop="20261101230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7375</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261101114507 +0000" channel="esport3" stop="20261101140819 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Surne Bilbao / Lliga / J6</sub-title>
-    <desc lang="ca">Els badalonins (2 victòries i 3 derrotes) millorarien a la classificació si guanyen el conjunt basc (3 victòries i 2 derrotes).</desc>
-    <length units="minutes">02:23:12</length>
+  <programme start="20261101230000 +0000" channel="324" stop="20261102003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11590</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261101140819 +0000" channel="esport3" stop="20261101143000 +0000">
-    <title lang="ca">Espòiler</title>
-    <sub-title lang="ca">63</sub-title>
-    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
-    <length units="minutes">00:21:41</length>
+  <programme start="20261101214448 +0000" channel="esport3" stop="20261101223914 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Barça-Igualada HC / OK Lliga / J1</sub-title>
+    <desc lang="ca">Un gran partit per començar el campionat. L'Igualada Rigat HC defensa el títol i els blaugranes, que es van imposar recentment als de l'Anoia a la final de la Supercopa, també aspiren a guanyar l'OK Lliga.</desc>
+    <length units="minutes">00:54:26</length>
   </programme>
-  <programme start="20261101131223 +0000" channel="sx3" stop="20261101133542 +0000">
-    <title lang="ca">Pat, el gos (especials)</title>
-    <sub-title lang="ca">Una història horripilant</sub-title>
-    <desc lang="ca">Per Halloween, la Lola ha preparat una història de por sobre un amulet màgic. Quan s'adonen que el Caputxet se sent atret per l'amulet, els coloms el roben per desfer-se del gat. Mentre el Pat fa tot el possible per recuperar-lo, una sèrie de coses estranyes comencen a passar a casa de la Lola des que ha desaparegut l'amulet. De fet, la Lucy, l'Hugo i l'Hortènsia també han desaparegut!</desc>
-    <length units="minutes">00:23:19</length>
+  <programme start="20261101223914 +0000" channel="esport3" stop="20261101230000 +0000">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">GP de Malàisia</sub-title>
+    <desc lang="ca">Dinovena prova del Campionat del Món de motociclisme. Marc Márquez lidera el Mundial després de guanyar la cursa esprint, i la suspensió de la cursa per la pluja. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="minutes">00:20:46</length>
   </programme>
-  <programme start="20261101133542 +0000" channel="sx3" stop="20261101140515 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Crema de carbassa divertida - Mireia Portas</sub-title>
-    <desc lang="ca">Les cremes de verdures són un autèntic malson per a molts petits. Per això, en aquest programa, juntament amb l'actriu i imitadora Mireia Portas, farem una crema molt divertida. La farem de tres colors i amb 'toppings' (o guarniments) cruixents. A banda de riure molt amb ella, també aprendrem a fer ous ferrats de diferents colors. I convertirem la cuina de Can Cinto en un zoològic amb tortugues i pingüins fets amb aliments com kiwis i raïm.</desc>
-    <length units="minutes">00:29:33</length>
+  <programme start="20261101222412 +0000" channel="sx3" stop="20261101223447 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">L'Ondine, la reina del zen</sub-title>
+    <desc lang="ca">L'Ondine ha organitzat una festa de pijames a casa, però l'últim examen queha fet ha estat un desastre. Segur que el Dad li farà anul·lar la festa, sobretotperquè ara està molt atabalat. Per relaxar-lo i convènce'l perquè li signil'examen sense enfadar-se, l'Ondine posa en pràctica un pla de relaxació. Ifunciona! Una mica massa bé, fins i tot... El Dad està tan relaxat que ja nos'ocupa de res i l'equilibri de la casa està sota amenaça.</desc>
+    <length units="minutes">00:10:35</length>
   </programme>
-  <programme start="20261101123930 +0000" channel="tv3" stop="20261101131216 +0000">
-    <title lang="ca">Tocats de l'ala</title>
-    <sub-title lang="ca">Ocells de mar endins</sub-title>
-    <desc lang="ca">Gavines, baldrigues, xatracs...els ocells marins, símbols de llibertat, ens enamoren amb el seu vol poderós sobre les aigües, i arrosseguen ornitòlegs i fotògrafs a embarcar-se com si el mareig no existís. Volem veure ocells de mar endins, i salpem del port de Tarragona en un vaixell carregat de bojos que corren, criden i s'exclamen cada cop que apareix una bèstia nova. O no són tan bojos? Sabeu què és, fer un bimbo? Enteneu l'alegria de veure un ocell nou quan ja en coneixes més de 8000 diferents? Avui, ocells marins... i tocats de l'ala, però molt tocats: en diríem bimberos de mar. I, ja amb els peus a terra, viurem un dia en la feina de la Laura Fortunyo, responsable del centre de recuperació de fauna del Delta de l'Ebre. La Laura cura, cuida i alimenta els ocells i altres animals salvatges ferits o malalts trobats al parc natural, com un poll de falciot caigut del niu a qui cal empapussar amb cucs cada dues hores, nit i dia. Entre els fixes, un voltor, una gavina corsa, , un astor, un mussol, un duc i un flamenc... tot plegat, una estranya família que conviu més o menys plàcidament.I a més, com triar la guia d'ocells que necessites, l'alerta del dia...i el Cafè Bar Ni Piu: vine i fes l'aperitiu.</desc>
-    <length units="minutes">00:32:46</length>
+  <programme start="20261101223447 +0000" channel="sx3" stop="20261101224548 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">DJ Elvis</sub-title>
+    <desc lang="ca">La Tropa intenta ajudar l'Elvis amb l'equip de so per al Mascota Fest, però la Flo acaba fent saltar tota la xarxa elèctrica de Vilanimal quan endolla el Funkatró, una màquina de festa que fa ballar tothom sense parar.</desc>
+    <length units="minutes">00:11:01</length>
   </programme>
-  <programme start="20261101131216 +0000" channel="tv3" stop="20261101135835 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La llanterna</sub-title>
-    <desc lang="ca">Recordeu el dia de l'apagada general? Hi havia dues opcions: tenir una espelma o una llanterna. Quantes vegades heu anat a les fosques perquè us feia mandra canviar les piles de la llanterna? Un dia parlarem de l'espelma, però aquest capítol el dediquem a la llanterna. Ens visita l'Àlex Auger, un savi per conèixer però molt boig, perquè practica 'wingsuit': salt amb vestit d'ales. Un home ocell, per entendre'ns. I boig, molt boig. A 'Històries per passejar el gos' anem al 1770, a la massacre de Boston, amb la Coco, que viu allà mateix.</desc>
-    <length units="minutes">00:46:19</length>
+  <programme start="20261101220516 +0000" channel="tv3" stop="20261101225750 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Les Illes Canàries</sub-title>
+    <desc lang="ca">'Llocs recòndits - Les Canàries' és un especial de televisió d'una hora, produït, presentat i narrat per l'editor de viatges de la CBS News, Peter Greenberg, i que explora les vuit illes espanyoles: El Hierro, Fuerteventura, Gran Canaria, La Gomera, La Graciosa, Lanzarote, La Palma i Tenerife.</desc>
+    <length units="minutes">00:52:34</length>
+  </programme>
+  <programme start="20261101225750 +0000" channel="tv3" stop="20261101235053 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Egeu amagat de Turquia</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre viatja per tota la costa del mar Egeu i explora Bodrum, Esmirna i l'antiga ciutat de Troia.</desc>
+    <length units="minutes">00:53:03</length>
   </programme>
 </tv>
