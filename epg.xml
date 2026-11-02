@@ -3,76 +3,74 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261102040000 +0000" channel="tvi" stop="20261102044547 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Legacaster! The Hillbilly Trio</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:47</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261102143000 +0000" channel="tvi" stop="20261102152950 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7377</sub-title>
+    <length units="minutes">00:59:50</length>
   </programme>
-  <programme start="20261102044547 +0000" channel="tvi" stop="20261102054547 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Joan Monné Trio</sub-title>
-    <desc lang="ca">La trajectòria del pianista Joan Monné és àmplia i plena de fites internacionals tant pròpies com acompanyant a grans solistes. En aquest format de trio acompanyat pels excel.lents músics Marko Lohikari al contrabaix i David Xirgu a la batería, presenta un repertori de nova creació, mostrant la seva versatilitat en un àmpli espectre d'estils.</desc>
+  <programme start="20261102152950 +0000" channel="tvi" stop="20261102154902 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Arròs amb crosta de conill i carxofes</sub-title>
+    <desc lang="ca">Els regals embolicats sempre emocionen perquè darrere d'aquell paper tenim una sorpresa a tocar. El plat d'avui és així: especialment sorprenent, perquè porta embolcall. Marc Ribas ens ensenya a fer un arròs amb crosta... Brutal.</desc>
+    <length units="minutes">00:19:12</length>
+  </programme>
+  <programme start="20261102143000 +0000" channel="324" stop="20261102153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7377</sub-title>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261102010000 +0000" channel="324" stop="20261102060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11591</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261102153000 +0000" channel="324" stop="20261102160000 +0000">
+    <title lang="ca">3CatInfo en aranès</title>
+    <sub-title lang="ca">2581</sub-title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261102060000 +0000" channel="324" stop="20261102080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11592</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261102141647 +0000" channel="esport3" stop="20261102153811 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Anthony Gordon, Hansi Flick i tertúlia</sub-title>
+    <desc lang="ca">Les rodes de premsa d'Anthony Gordon i Hansi Flick en la prèvia del Barça-Aston Villa de demà. I tertúlia amb Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
+    <length units="minutes">01:21:24</length>
   </programme>
-  <programme start="20261102030027 +0000" channel="esport3" stop="20261102044552 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Badalona Women-FC Barcelona / Lliga F / J9</sub-title>
-    <desc lang="ca">El derbi arriba amb el Barça líder, 7 victòries i 1 derrota per a les blaugranes. Les badalonines només han guanyat 1 partit i volen sortir de la zona baixa.</desc>
-    <length units="minutes">01:45:25</length>
+  <programme start="20261102153811 +0000" channel="esport3" stop="20261102162221 +0000">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Colòmbia</sub-title>
+    <desc lang="ca">Acompanyem l'experimentat Ben Fogle en la seva visita a la música Vanessa Forero (39), on esbrinarà què va portar la seva amfitriona a abandonar el seu Yorkshire natal per viure en una remota muntanya a Sud-amèrica. Coneixerà els esdeveniments que vinculen la Vanessa al passat violent de Colòmbia, i descobrirà com la preciosa llar que s'ha construït l'ajuda a guarir-se les ferides. En Ben es troba amb la Vanessa a les profunditats de la Sierra Nevada de Santa Marta, una serralada aïllada al nord del país. Allà descobreix la seva llar màgica, una antiga pastura descuidada convertida en un idíl·lic santuari de muntanya.Junts, s'encarreguen de fer millores a la llar i al vessant escarpat de la muntanya, des d'un telefèric nou fins a la construcció de parets; i també reben la visita d'un líder indígena. En Ben ajuda la Vanessa a compondre música i escolta una de les històries de supervivència més extraordinàries que ha sentit mai.</desc>
+    <length units="minutes">00:44:10</length>
   </programme>
-  <programme start="20261102044552 +0000" channel="esport3" stop="20261102060503 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">BM Granollers-Barça / Lliga Asobal / J8</sub-title>
-    <desc lang="ca">El Fraikin arriba al derbi amb 5 victòries, 1 empat i 1 derrota. Els blaugranes, que han disputat una jornada menys, han guanyat els 6 partits que han jugat.</desc>
-    <length units="minutes">01:19:11</length>
+  <programme start="20261102145758 +0000" channel="sx3" stop="20261102151639 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El secret del monstre Bu. El monstre Bu bo empresonat a dins del dolent</sub-title>
+    <desc lang="ca">Després d'alliberar en Son Gohan, en Trunks, en Son Goten i en Cor Petit, en Son Goku i en Vegeta localitzen el Bu bo a l'interior d'un altre capoll. Mentre decideixen si l'han d'alliberar o no, el monstre s'adona del que està passant i se les manega per entrar a l'interior del seu propi estómac per enfrontar-se a tots els seus enemics.</desc>
+    <length units="minutes">00:18:41</length>
   </programme>
-  <programme start="20261102035814 +0000" channel="sx3" stop="20261102040844 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">La cursa del plàtan</sub-title>
-    <desc lang="ca">A l'aventura poptàstica d'avui, la Mà Amiga ha construït un circuit d'obstacles temàtic dedicat als plàtans! Però, quan la Phoebe es posi competitiva, podran arribar junts a la meta, ella i el seu equip?</desc>
-    <length units="minutes">00:10:30</length>
+  <programme start="20261102151639 +0000" channel="sx3" stop="20261102153714 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">On és la sortida? Una fugida desesperada de l'interior del cos del monstre Bu</sub-title>
+    <desc lang="ca">Després de l'atac inicial del Bu dolent, en Vegeta aconsegueix alliberar el Bu bo i el monstre comença a fer una mutació que sembla ben bé que hagi d'explotar. En Son Goku i en Vegeta agafen tots els seus amics i intenten una fugida desesperada de l'interior del cos del monstre. Si aconsegueixen sortir-ne, falta saber què es trobaran a l'exterior.</desc>
+    <length units="minutes">00:20:35</length>
   </programme>
-  <programme start="20261102040844 +0000" channel="sx3" stop="20261102042039 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La cacera del llimac</sub-title>
-    <desc lang="ca">A la Trufa li ha caigut la primera dent de llet. La Guineta li explica la tradició de les guineus: quan a una cria li cau un ullal de llet, se n'ha d'anar tota sola a buscar un llimac per posar-li la dent sota la panxa. I l'endemà, al lloc on hi havia el llimac, hi apareix un petit regal. La Trufa ho vol intentar, però l'Edmond no vol que surti sola.</desc>
-    <length units="minutes">00:11:55</length>
-  </programme>
-  <programme start="20261102035501 +0000" channel="tv3" stop="20261102044148 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El Manu</sub-title>
-    <desc lang="ca">L'exmarit de l'Àngela torna a casa deu anys després demanant ajuda. Assegura que el persegueix una gent molt perillosa i que l'han d'amagar. La família hi accedeix, però qui arriba és la Teresa, una noia vestida de núvia que diu que el Manu l'ha deixat plantada a l'altar. La família haurà de decidir llavors a qui dels dos creure.</desc>
-    <length units="minutes">00:46:47</length>
-  </programme>
-  <programme start="20261102044148 +0000" channel="tv3" stop="20261102052834 +0000">
+  <programme start="20261102145814 +0000" channel="tv3" stop="20261102154544 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El didal</sub-title>
-    <desc lang="ca">Dedicar un programa als didals ens pot portar problemes, perquè pot convertir-se en una arma amb la qual ens poden atacar les persones que en col·leccionen si no els agrada el resultat. Però ens sembla bé córrer aquest risc. Ve a veure'ns en Pep Plaza acompanyat de molta gent que va sempre amb ell. No és que porti tota una corrua d'acompanyants, sinó que els porta dins, perquè els imita. A 'Històries per passejar el gos', sortim amb la Nyx, una gossa de 12 anys de Viladrau, que portem fins a l'expedició perduda de Franklin.</desc>
-    <length units="minutes">00:46:46</length>
+    <sub-title lang="ca">El diccionari</sub-title>
+    <desc lang="ca">Imagineu-vos una conversa entre Antoni Maria Alcover i Pompeu Fabra mirant-nos des del més enllà. Deuen estar enfadats o contents de com mantenim el seu llegat amb la llengua? Bé, millor no saber-ho. Dediquem aquest capítol de 'La Renaixença' al diccionari, que van començar els sumeris fa més de 4.000 anys. La cantant aranesa Alidé Sans passa pel nostre escó, posa a prova en Peyu i puja al nostre escenari per cantar-nos 'A la ruaa de Rore'. A 'Històries per passejar el gos', anem amb la Pili fins al 1816: l'any sense estiu.</desc>
+    <length units="minutes">00:47:30</length>
+  </programme>
+  <programme start="20261102154544 +0000" channel="tv3" stop="20261102162738 +0000">
+    <title lang="ca">Això no és una cançó</title>
+    <sub-title lang="ca">Boig per l'Empordà</sub-title>
+    <desc lang="ca">Això no és una cançó T2Sinopsi capítol 5: Boig per l'Empordà</desc>
+    <length units="minutes">00:41:54</length>
   </programme>
 </tv>
