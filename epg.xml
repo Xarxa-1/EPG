@@ -1,7 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -9,69 +15,70 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20261103002014 +0000" channel="tvi" stop="20261103020652 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2191</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:46:38</length>
+  <programme start="20261103135503 +0000" channel="tv3" stop="20261103143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7068</sub-title>
+    <length units="minutes">00:34:57</length>
   </programme>
-  <programme start="20261103020652 +0000" channel="tvi" stop="20261103040000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11600</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:53:08</length>
+  <programme start="20261103143000 +0000" channel="tv3" stop="20261103153010 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7378</sub-title>
+    <length units="minutes">01:00:10</length>
   </programme>
-  <programme start="20261103010000 +0000" channel="324" stop="20261103060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11600</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261103133556 +0000" channel="tv3" stop="20261103142841 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">79</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">00:52:45</length>
   </programme>
-  <programme start="20261103060000 +0000" channel="324" stop="20261103080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11601</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261103142841 +0000" channel="tv3" stop="20261103151521 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El globus aerostàtic</sub-title>
+    <desc lang="ca">Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.</desc>
+    <length units="minutes">00:46:40</length>
   </programme>
-  <programme start="20261103005207 +0000" channel="esport3" stop="20261103022538 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Mbappé a la piscina; Mayola Academy i 'El Colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto parlen de la jugada polèmica de la jornada, el penal xiulat sobre Mbappé. En Marc Mayola repassa alguns aspectes tàctics del Barça-Alabès i en Joan Fàbregas analitza la resta de jugades polèmiques.</desc>
-    <length units="minutes">01:33:31</length>
+  <programme start="20261103135503 +0000" channel="tvi" stop="20261103143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7068</sub-title>
+    <length units="minutes">00:34:57</length>
   </programme>
-  <programme start="20261103022538 +0000" channel="esport3" stop="20261103024553 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5557</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:15</length>
+  <programme start="20261103143000 +0000" channel="tvi" stop="20261103153010 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7378</sub-title>
+    <length units="minutes">01:00:10</length>
   </programme>
-  <programme start="20261103004937 +0000" channel="sx3" stop="20261103011107 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Imitadors</sub-title>
-    <desc lang="ca">Després de descobrir que hi ha mosques que imiten abelles i serps que imiten altres serps verinoses, els germans Kratt han vist com la Donita Donata capturava una mare guepard per la seva línia de roba de safari d'hivern. Mentre la rescaten, també hauran de protegir el seu cadell, que aviat els ensenyarà que també és un gran imitador! No t'ho perdis!</desc>
-    <length units="minutes">00:21:30</length>
+  <programme start="20261103135500 +0000" channel="324" stop="20261103143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7068</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261103011107 +0000" channel="sx3" stop="20261103013103 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">L'Ash i el Latios!</sub-title>
-    <desc lang="ca">L'Ash i els seus amics volen ajudar el Latios a fugir d'un caçador Pokémon. La Latias es posa molt nerviosa quan el seu poder de Visió Compartida es desconnecta del Latios, però el Brock i l'Ash la convencen perquè es calmi i descansi bé a la nit. L'endemà al matí, el grup segueix la Latias fins a la cova on s'amaga el Latios. El Latios desconfia dels humans, però abans que l'Ash el pugui convèncer que va amb bones intencions, apareix el caçador!</desc>
-    <length units="minutes">00:19:56</length>
+  <programme start="20261103143000 +0000" channel="324" stop="20261103153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7378</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261103005901 +0000" channel="tv3" stop="20261103014650 +0000">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Uniformes</sub-title>
-    <desc lang="ca">Els uniformes desperten passions. 'Aeroport' s'endinsa en el món de les tripulacions, els cossos de seguretat i el personal de 'handling', viatjant a Lisboa amb un comandant de vol, comptant quants cops saluda el sobrecàrrec amb el clàssic 'adeu, bon dia', i seguint un grup d'operacions especials de la Guàrdia Civil que persegueix jihadistes.</desc>
-    <length units="minutes">00:47:49</length>
+  <programme start="20261103140228 +0000" channel="esport3" stop="20261103163513 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3276</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">02:32:45</length>
   </programme>
-  <programme start="20261103014650 +0000" channel="tv3" stop="20261103022236 +0000">
-    <title lang="ca">Gran Reserva. Còmics</title>
-    <sub-title lang="ca">Terenci Moix</sub-title>
-    <length units="minutes">00:35:46</length>
+  <programme start="20261103163513 +0000" channel="esport3" stop="20261103170129 +0000">
+    <title lang="ca">Catalunya des de l'aire</title>
+    <sub-title lang="ca">- Alta Ribagorça i Vall d'Aran</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:26:16</length>
+  </programme>
+  <programme start="20261103140557 +0000" channel="sx3" stop="20261103142814 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Tots els esforços han estat en va. El monstre Bu acaba destruint la Terra</sub-title>
+    <desc lang="ca">A l'exterior del cos d'en Bu, en Son Goku i en Vegeta s'adonen que el monstre ha tornat a la seva forma original, la que el fa més malvat i més poderós que mai. Aleshores, sense donar temps de reaccionar a ningú, el monstre Bu acaba destruint la Terra. Just abans, però, el déu Neptú aconsegueix endur-se en Son Goku, en Vegeta, en Dende i en Satan al seu planeta.</desc>
+    <length units="minutes">00:22:17</length>
+  </programme>
+  <programme start="20261103142814 +0000" channel="sx3" stop="20261103144717 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El monstre Bu llença atacs a tort i a dret per tot l'univers i mentrestant es pren una decisió important al planeta del déu Neptú</sub-title>
+    <desc lang="ca">Després de destruir la Terra, el monstre Bu comença a buscar en Son Goku i en Vegeta per tot l'univers i arrasa tots els planetes que es va trobant. En Son Goku i en Vegeta, per evitar més destrucció, decideixen emetre molta energia perquè el monstre els pugui localitzar i es dirigeixi cap al planeta del déu Neptú.</desc>
+    <length units="minutes">00:19:03</length>
   </programme>
 </tv>
