@@ -1,76 +1,77 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261102143000 +0000" channel="tvi" stop="20261102152950 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7377</sub-title>
-    <length units="minutes">00:59:50</length>
+  <programme start="20261103002014 +0000" channel="tvi" stop="20261103020652 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2191</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:46:38</length>
   </programme>
-  <programme start="20261102152950 +0000" channel="tvi" stop="20261102154902 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Arròs amb crosta de conill i carxofes</sub-title>
-    <desc lang="ca">Els regals embolicats sempre emocionen perquè darrere d'aquell paper tenim una sorpresa a tocar. El plat d'avui és així: especialment sorprenent, perquè porta embolcall. Marc Ribas ens ensenya a fer un arròs amb crosta... Brutal.</desc>
-    <length units="minutes">00:19:12</length>
+  <programme start="20261103020652 +0000" channel="tvi" stop="20261103040000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11600</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:53:08</length>
   </programme>
-  <programme start="20261102143000 +0000" channel="324" stop="20261102153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7377</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261103010000 +0000" channel="324" stop="20261103060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11600</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261102153000 +0000" channel="324" stop="20261102160000 +0000">
-    <title lang="ca">3CatInfo en aranès</title>
-    <sub-title lang="ca">2581</sub-title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261103060000 +0000" channel="324" stop="20261103080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11601</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261102141647 +0000" channel="esport3" stop="20261102153811 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Anthony Gordon, Hansi Flick i tertúlia</sub-title>
-    <desc lang="ca">Les rodes de premsa d'Anthony Gordon i Hansi Flick en la prèvia del Barça-Aston Villa de demà. I tertúlia amb Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
-    <length units="minutes">01:21:24</length>
+  <programme start="20261103005207 +0000" channel="esport3" stop="20261103022538 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Mbappé a la piscina; Mayola Academy i 'El Colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto parlen de la jugada polèmica de la jornada, el penal xiulat sobre Mbappé. En Marc Mayola repassa alguns aspectes tàctics del Barça-Alabès i en Joan Fàbregas analitza la resta de jugades polèmiques.</desc>
+    <length units="minutes">01:33:31</length>
   </programme>
-  <programme start="20261102153811 +0000" channel="esport3" stop="20261102162221 +0000">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Colòmbia</sub-title>
-    <desc lang="ca">Acompanyem l'experimentat Ben Fogle en la seva visita a la música Vanessa Forero (39), on esbrinarà què va portar la seva amfitriona a abandonar el seu Yorkshire natal per viure en una remota muntanya a Sud-amèrica. Coneixerà els esdeveniments que vinculen la Vanessa al passat violent de Colòmbia, i descobrirà com la preciosa llar que s'ha construït l'ajuda a guarir-se les ferides. En Ben es troba amb la Vanessa a les profunditats de la Sierra Nevada de Santa Marta, una serralada aïllada al nord del país. Allà descobreix la seva llar màgica, una antiga pastura descuidada convertida en un idíl·lic santuari de muntanya.Junts, s'encarreguen de fer millores a la llar i al vessant escarpat de la muntanya, des d'un telefèric nou fins a la construcció de parets; i també reben la visita d'un líder indígena. En Ben ajuda la Vanessa a compondre música i escolta una de les històries de supervivència més extraordinàries que ha sentit mai.</desc>
-    <length units="minutes">00:44:10</length>
+  <programme start="20261103022538 +0000" channel="esport3" stop="20261103024553 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5557</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:15</length>
   </programme>
-  <programme start="20261102145758 +0000" channel="sx3" stop="20261102151639 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El secret del monstre Bu. El monstre Bu bo empresonat a dins del dolent</sub-title>
-    <desc lang="ca">Després d'alliberar en Son Gohan, en Trunks, en Son Goten i en Cor Petit, en Son Goku i en Vegeta localitzen el Bu bo a l'interior d'un altre capoll. Mentre decideixen si l'han d'alliberar o no, el monstre s'adona del que està passant i se les manega per entrar a l'interior del seu propi estómac per enfrontar-se a tots els seus enemics.</desc>
-    <length units="minutes">00:18:41</length>
+  <programme start="20261103004937 +0000" channel="sx3" stop="20261103011107 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Imitadors</sub-title>
+    <desc lang="ca">Després de descobrir que hi ha mosques que imiten abelles i serps que imiten altres serps verinoses, els germans Kratt han vist com la Donita Donata capturava una mare guepard per la seva línia de roba de safari d'hivern. Mentre la rescaten, també hauran de protegir el seu cadell, que aviat els ensenyarà que també és un gran imitador! No t'ho perdis!</desc>
+    <length units="minutes">00:21:30</length>
   </programme>
-  <programme start="20261102151639 +0000" channel="sx3" stop="20261102153714 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">On és la sortida? Una fugida desesperada de l'interior del cos del monstre Bu</sub-title>
-    <desc lang="ca">Després de l'atac inicial del Bu dolent, en Vegeta aconsegueix alliberar el Bu bo i el monstre comença a fer una mutació que sembla ben bé que hagi d'explotar. En Son Goku i en Vegeta agafen tots els seus amics i intenten una fugida desesperada de l'interior del cos del monstre. Si aconsegueixen sortir-ne, falta saber què es trobaran a l'exterior.</desc>
-    <length units="minutes">00:20:35</length>
+  <programme start="20261103011107 +0000" channel="sx3" stop="20261103013103 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">L'Ash i el Latios!</sub-title>
+    <desc lang="ca">L'Ash i els seus amics volen ajudar el Latios a fugir d'un caçador Pokémon. La Latias es posa molt nerviosa quan el seu poder de Visió Compartida es desconnecta del Latios, però el Brock i l'Ash la convencen perquè es calmi i descansi bé a la nit. L'endemà al matí, el grup segueix la Latias fins a la cova on s'amaga el Latios. El Latios desconfia dels humans, però abans que l'Ash el pugui convèncer que va amb bones intencions, apareix el caçador!</desc>
+    <length units="minutes">00:19:56</length>
   </programme>
-  <programme start="20261102145814 +0000" channel="tv3" stop="20261102154544 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El diccionari</sub-title>
-    <desc lang="ca">Imagineu-vos una conversa entre Antoni Maria Alcover i Pompeu Fabra mirant-nos des del més enllà. Deuen estar enfadats o contents de com mantenim el seu llegat amb la llengua? Bé, millor no saber-ho. Dediquem aquest capítol de 'La Renaixença' al diccionari, que van començar els sumeris fa més de 4.000 anys. La cantant aranesa Alidé Sans passa pel nostre escó, posa a prova en Peyu i puja al nostre escenari per cantar-nos 'A la ruaa de Rore'. A 'Històries per passejar el gos', anem amb la Pili fins al 1816: l'any sense estiu.</desc>
-    <length units="minutes">00:47:30</length>
+  <programme start="20261103005901 +0000" channel="tv3" stop="20261103014650 +0000">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Uniformes</sub-title>
+    <desc lang="ca">Els uniformes desperten passions. 'Aeroport' s'endinsa en el món de les tripulacions, els cossos de seguretat i el personal de 'handling', viatjant a Lisboa amb un comandant de vol, comptant quants cops saluda el sobrecàrrec amb el clàssic 'adeu, bon dia', i seguint un grup d'operacions especials de la Guàrdia Civil que persegueix jihadistes.</desc>
+    <length units="minutes">00:47:49</length>
   </programme>
-  <programme start="20261102154544 +0000" channel="tv3" stop="20261102162738 +0000">
-    <title lang="ca">Això no és una cançó</title>
-    <sub-title lang="ca">Boig per l'Empordà</sub-title>
-    <desc lang="ca">Això no és una cançó T2Sinopsi capítol 5: Boig per l'Empordà</desc>
-    <length units="minutes">00:41:54</length>
+  <programme start="20261103014650 +0000" channel="tv3" stop="20261103022236 +0000">
+    <title lang="ca">Gran Reserva. Còmics</title>
+    <sub-title lang="ca">Terenci Moix</sub-title>
+    <length units="minutes">00:35:46</length>
   </programme>
 </tv>
