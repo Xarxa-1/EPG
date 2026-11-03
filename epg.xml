@@ -3,9 +3,6 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
@@ -15,70 +12,79 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261103135503 +0000" channel="tv3" stop="20261103143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7068</sub-title>
-    <length units="minutes">00:34:57</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261103230118 +0000" channel="tv3" stop="20261104003449 +0000">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Post Barça-Aston Villa / J4</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="minutes">01:33:31</length>
   </programme>
-  <programme start="20261103143000 +0000" channel="tv3" stop="20261103153010 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7378</sub-title>
-    <length units="minutes">01:00:10</length>
+  <programme start="20261104003449 +0000" channel="tv3" stop="20261104040605 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2192</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">03:31:16</length>
   </programme>
-  <programme start="20261103133556 +0000" channel="tv3" stop="20261103142841 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">79</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">00:52:45</length>
+  <programme start="20261103225738 +0000" channel="tv3" stop="20261104002228 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Eternament enamorats</sub-title>
+    <desc lang="ca">ETERNAMENT ENAMORATS 'Ordinary Love'Direcció: Lisa Barros D'Sa, Glenn LeyburnGuió: Owen McCaffertyProducció: Out Of Orbit, Canderblinks Film and Music, Head Gear Films, Metrol Technology, Kreo Films FZ, Bleecker StreetAny: 2019Durada: 87País: Reino UnidoMúsica: David Holmes, Brian IrvineFotografia: Piers McGrailIntèrprets: Lesley Manville, Liam Neeson, Esh Alladi, Melanie Clark Pullen, Matthew Sharpe, Geraldine McAlinden, Mary Lindsay, Rosemary Henderson, Stella McCusker, Eoin McCafferty, Maggie Cronin, David Wilmot, Amit Shah, Vivien Monory, Olivia McDermott, Lalor Roddy, Fo Cullen, Chloë Ní Dhúada. Drama que mostra la vida de la Joan i el Tom, un matrimoni que s'enfronta a un gran impacte emocional quan li diagnostiquen un càncer de mama a la Joan.</desc>
+    <length units="minutes">01:24:50</length>
   </programme>
-  <programme start="20261103142841 +0000" channel="tv3" stop="20261103151521 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El globus aerostàtic</sub-title>
-    <desc lang="ca">Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.</desc>
-    <length units="minutes">00:46:40</length>
+  <programme start="20261104002228 +0000" channel="tv3" stop="20261104014233 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">L'últim autobús</sub-title>
+    <desc lang="ca">L'ÚLTIM AUTOBÚS 'The Last Bus'Direcció: Gillies MacKinnonGuió: Joe AinsworthProducció: Hurricane Films, Head Gear Films, Metrol Technology, Kreo Films FZAny: 2021Durada: 86País: Regne UnitMúsica: Alexandre LessertisseurFotografia: George GeddesIntèrprets: Timothy Spall, Phyllis Logan, Natalie Mitson, Ben Ewing, Patricia Panther, Steven Duffy, Saskia Ashdown, Scott Campbell, Anne Kidd, Aila Gavin, Matt Costello, Adam Mitchell, Helen Windsory Quinn, Finn Weatherstone, Colin McCredie, Ronan Doyle, Kirsty Eila McIntyre, Jack Brown, Dee Maxwell, Ayla Sherrif, Marnie Baxter, Sheila Grier, Lynn Kennedy, Patsy Blower, Manjot Sumal, Garry Sweeney, Farron McCormack, Aria McCormack, Joe Fagan. Tom Harper, un jubilat de noranta anys, decideix marxar del poble on ha viscut durant cinquanta anys, al nord de la Gran Bretanya, i viatjar fins a la seva ciutat natal, al sud del país. Durant el viatge, descobrirà el món modern i la diversitat cultural britànica que fins aleshores desconeixia.</desc>
+    <length units="minutes">01:20:05</length>
   </programme>
-  <programme start="20261103135503 +0000" channel="tvi" stop="20261103143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7068</sub-title>
-    <length units="minutes">00:34:57</length>
+  <programme start="20261103231100 +0000" channel="tvi" stop="20261104001507 +0000">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Laietana, 43. El cau de la bèstia.</sub-title>
+    <desc lang="ca">'Laietana,43. El cau de la bèstia' (2023) una producció de Balandra Films en coproducció amb 3Cat i la col·laboració de l'ICEC Memorial Democràtic.La 'Jefatura Superior de policía' de la Via Laietana, creada l'any 1929, ha sigut testimoni durant els quasi 100 anys que han passat des de la seva inauguració, de tota mena de tortures i vexacions a les persones detingudes que han passat per les seves dependències. Anarquistes, opositors franquistes, sindicalistes, moviments estudiantils, col·lectiu LGTBI i romaní, etc. Tot s'hi valia per aconseguir confessions.Direcció i realització: Jaume Domènech BarconsGuió: Clàudia Aranda RieraProductor: Jaume Domènech BarconsProductor executiu TVC: Cristina muñoz ClotetProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Eduard Vilà MoixMuntatge: Clàudia Aranda RieraDirector de producció: Clàudia Aranda RieraMúsica: Roger Gascon SalvadóLingüista: Carme Casals CampGrafisme: Hristina Braykova Braykova</desc>
+    <length units="minutes">01:04:07</length>
   </programme>
-  <programme start="20261103143000 +0000" channel="tvi" stop="20261103153010 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7378</sub-title>
-    <length units="minutes">01:00:10</length>
+  <programme start="20261104001507 +0000" channel="tvi" stop="20261104002711 +0000">
+    <title lang="ca">Talent creatiu</title>
+    <sub-title lang="ca">Pol Dunyó, pagès ecològic</sub-title>
+    <desc lang="ca">Més que explicar la història del Pol, que també, hem volgut crear una història d'amor. L'amor que sent pel que fa, per una manera de viure, pel respecte als animals i al camp.</desc>
+    <length units="minutes">00:12:04</length>
   </programme>
-  <programme start="20261103135500 +0000" channel="324" stop="20261103143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7068</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261103220500 +0000" channel="324" stop="20261104000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2192</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261103143000 +0000" channel="324" stop="20261103153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7378</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261104000000 +0000" channel="324" stop="20261104003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11608</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261103140228 +0000" channel="esport3" stop="20261103163513 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3276</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">02:32:45</length>
+  <programme start="20261103230449 +0000" channel="esport3" stop="20261104003932 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Porto-Asisa Joventut / Champions League / J3</sub-title>
+    <desc lang="ca">Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.</desc>
+    <length units="minutes">01:34:43</length>
   </programme>
-  <programme start="20261103163513 +0000" channel="esport3" stop="20261103170129 +0000">
-    <title lang="ca">Catalunya des de l'aire</title>
-    <sub-title lang="ca">- Alta Ribagorça i Vall d'Aran</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:26:16</length>
+  <programme start="20261104003932 +0000" channel="esport3" stop="20261104005909 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5558</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:19:37</length>
   </programme>
-  <programme start="20261103140557 +0000" channel="sx3" stop="20261103142814 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Tots els esforços han estat en va. El monstre Bu acaba destruint la Terra</sub-title>
-    <desc lang="ca">A l'exterior del cos d'en Bu, en Son Goku i en Vegeta s'adonen que el monstre ha tornat a la seva forma original, la que el fa més malvat i més poderós que mai. Aleshores, sense donar temps de reaccionar a ningú, el monstre Bu acaba destruint la Terra. Just abans, però, el déu Neptú aconsegueix endur-se en Son Goku, en Vegeta, en Dende i en Satan al seu planeta.</desc>
-    <length units="minutes">00:22:17</length>
+  <programme start="20261103232844 +0000" channel="sx3" stop="20261103235029 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Caracals</sub-title>
+    <desc lang="ca">L'Equip Kratt estan jugant a bàdminton a la sabana africana i s'han quedat sense volants. L'Aviva s'ha vist obligada a treure l'últim que els quedava, però resulta que és una relíquia familiar de més de 100 anys que va heretar de la seva besàvia. De sobte, un caracal els el pispa fent un salt de dos metres. Un caracal és un felí que es camufla molt bé entre l'herba! Com el recuperaran?!</desc>
+    <length units="minutes">00:21:45</length>
   </programme>
-  <programme start="20261103142814 +0000" channel="sx3" stop="20261103144717 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El monstre Bu llença atacs a tort i a dret per tot l'univers i mentrestant es pren una decisió important al planeta del déu Neptú</sub-title>
-    <desc lang="ca">Després de destruir la Terra, el monstre Bu comença a buscar en Son Goku i en Vegeta per tot l'univers i arrasa tots els planetes que es va trobant. En Son Goku i en Vegeta, per evitar més destrucció, decideixen emetre molta energia perquè el monstre els pugui localitzar i es dirigeixi cap al planeta del déu Neptú.</desc>
-    <length units="minutes">00:19:03</length>
+  <programme start="20261103235029 +0000" channel="sx3" stop="20261104001129 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Ziga-zaga</sub-title>
+    <desc lang="ca">L'Equip Kratt, decidits a descobrir tots els secrets del camuflatge de les zebres, s'han trobat enmig d'una desbandada i s'han quedat amb una cria de zebra tota sola. Si volen que sobrevisqui l'hauran de tornar amb la manada. Faran servir les tècniques de camuflatge per confondre que han après. Potser fins i tot les incorporaran als Vestits de Poder Animal!</desc>
+    <length units="minutes">00:21:00</length>
   </programme>
 </tv>
