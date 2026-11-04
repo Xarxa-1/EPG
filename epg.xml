@@ -1,84 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261104135453 +0000" channel="tv3" stop="20261104143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7069</sub-title>
-    <length units="minutes">00:35:07</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261104233125 +0000" channel="tv3" stop="20261105002359 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Paisatges de Barcelona</sub-title>
+    <desc lang="ca">La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
+    <length units="minutes">00:52:34</length>
   </programme>
-  <programme start="20261104143000 +0000" channel="tv3" stop="20261104153010 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7379</sub-title>
-    <length units="minutes">01:00:10</length>
+  <programme start="20261105002359 +0000" channel="tv3" stop="20261105032634 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2193</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">03:02:35</length>
   </programme>
-  <programme start="20261104134100 +0000" channel="tv3" stop="20261104143435 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">81</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">00:53:35</length>
+  <programme start="20261104234256 +0000" channel="tv3" stop="20261105003622 +0000">
+    <title lang="ca">La veritat sobre la dictadura de Franco</title>
+    <sub-title lang="ca">L'època grisa</sub-title>
+    <desc lang="ca">A mitjan dels anys 50 els èxits de la política exterior de Franco obren noves perspectives per a Espanya. Després d'anys d'estancament el país comença a avançar i es legitima així el paper del dictador. Però amb l'arribada de nous amics, al país també entren noves influències. Espanya canvia i el règim ha de superar nous reptes. Fins quan s'aferrarà Franco al poder? Podrà el príncep Joan Carles donar un futur a la dictadura?</desc>
+    <length units="minutes">00:53:26</length>
   </programme>
-  <programme start="20261104143435 +0000" channel="tv3" stop="20261104152157 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La butlleta</sub-title>
-    <desc lang="ca">Hi ha objectes que només veure'ls o dir el seu nom et porten a un record. Això passa amb la butlleta i Nadal, la butlleta i la sort, la butlleta i els diners... o la butlleta i la desgràcia. Aquest capítol el dediquem a la butlleta, però no us prometem que porti sort. Rebem la Raquel Sans, la periodista que més telenotícies ha presentat a casa nostra. Ara fa caps de setmana quan la resta treballem. O no. Sortim amb l'Heura pel 2014, quan hi va haver el robatori d'un Stradivarius de sis milions de dòlars.</desc>
-    <length units="minutes">00:47:22</length>
+  <programme start="20261105003622 +0000" channel="tv3" stop="20261105013145 +0000">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal resistir</sub-title>
+    <desc lang="ca">SINOPSI: És Cap d'Any del 1942, un any que s'inicia en un món trasbalsat per una guerra que havia començat a Europa però que ara ja afecta tot el món. Un any que es presenta ple d'incerteses i en què es pot esperar qualsevol cosa, el millor i el pitjor. Hi ha gent al planeta que ja fa anys que està en guerra, uns altres tot just hi entren ara. I sabrem com ho van viure persones dels diferents països implicats a través de les cartes que van escriure.</desc>
+    <length units="minutes">00:55:23</length>
   </programme>
-  <programme start="20261104135453 +0000" channel="tvi" stop="20261104143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7069</sub-title>
-    <length units="minutes">00:35:07</length>
+  <programme start="20261104233125 +0000" channel="tvi" stop="20261105002359 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Paisatges de Barcelona</sub-title>
+    <desc lang="ca">La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
+    <length units="minutes">00:52:34</length>
   </programme>
-  <programme start="20261104143000 +0000" channel="tvi" stop="20261104153010 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7379</sub-title>
-    <length units="minutes">01:00:10</length>
+  <programme start="20261105002359 +0000" channel="tvi" stop="20261105032634 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2193</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">03:02:35</length>
   </programme>
-  <programme start="20261104135500 +0000" channel="324" stop="20261104143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7069</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261104220500 +0000" channel="324" stop="20261105000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2193</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261104143000 +0000" channel="324" stop="20261104153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7379</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261105000000 +0000" channel="324" stop="20261105003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11617</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261104130010 +0000" channel="esport3" stop="20261104142708 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3277</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:26:58</length>
+  <programme start="20261104230000 +0000" channel="esport3" stop="20261105003050 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Rendits a Raphinha; els gols de la Champions i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Sique Rodríguez comenten el partit del Barça contra l'Aston Villa i els gols de la jornada de la Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="minutes">01:30:50</length>
   </programme>
-  <programme start="20261104142708 +0000" channel="esport3" stop="20261104155407 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3277</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">01:26:59</length>
+  <programme start="20261105003050 +0000" channel="esport3" stop="20261105005138 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5559</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:48</length>
   </programme>
-  <programme start="20261104141019 +0000" channel="sx3" stop="20261104143237 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Vegeta rep de valent per fer guanyar temps a en Son Goku i donar-li la possibilitat de salvar l'univers</sub-title>
-    <desc lang="ca">En Son Goku, que veu que no hi ha manera d'eliminar el monstre Bu, diu que necessita un minut per reunir l'energia necessària per deixar-li anar l'atac definitiu que acabaria amb ell. En Vegeta decideix enfrontar-se al monstre mentre en Son Goku es prepara per a l'atac, conscient que si torna a morir ja no podrà ressuscitar mai més.</desc>
-    <length units="minutes">00:22:18</length>
+  <programme start="20261104234847 +0000" channel="sx3" stop="20261105000947 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Bandits emmascarats</sub-title>
+    <desc lang="ca">Mentre en Martin i en Chris estudien els llops per aconseguir-ne una bona disfressa per al ball d'aquesta nit, en Jimmy ha tingut una experiència molt estranya i ha quedat convençut que per la nau Tortuga hi volta un fantasma o un monstre de 8 ulls. Pot ser que hi tinguin alguna cosa a veure els óssos rentadors?! Avui la festa serà animada!</desc>
+    <length units="minutes">00:21:00</length>
   </programme>
-  <programme start="20261104143237 +0000" channel="sx3" stop="20261104145201 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Satan es fica pel mig i reapareix el primer monstre Bu</sub-title>
-    <desc lang="ca">Quan en Bu està a punt de carregar-se en Vegeta, en Satan, de manera sorprenent i convençut que tot plegat només és un somni, apareix en escena i el monstre es veu incapaç de fer-li mal. Aleshores, de l'interior d'en Bu, en surt la seva forma bona i comença a lluitar contra el monstre per defensar en Satan.</desc>
-    <length units="minutes">00:19:24</length>
+  <programme start="20261105000947 +0000" channel="sx3" stop="20261105003046 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">L'efecte dragó</sub-title>
+    <desc lang="ca">Mentre en Martin i en Chris estudien el secret del dragó per caminar damunt d'una superfície tan fina com el vidre, en Zach ha aprofitat per robar-los el miniaturitzador i els ha tancat a tots dins d'un terrari. L'única manera que tenen de sortir-ne és fent servir l'efecte dragó, que fins i tot utilitzen les càrregues elèctriques per aferrar-se!</desc>
+    <length units="minutes">00:20:59</length>
   </programme>
 </tv>
