@@ -1,90 +1,87 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261103230118 +0000" channel="tv3" stop="20261104003449 +0000">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Post Barça-Aston Villa / J4</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="minutes">01:33:31</length>
-  </programme>
-  <programme start="20261104003449 +0000" channel="tv3" stop="20261104040605 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2192</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">03:31:16</length>
-  </programme>
-  <programme start="20261103225738 +0000" channel="tv3" stop="20261104002228 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Eternament enamorats</sub-title>
-    <desc lang="ca">ETERNAMENT ENAMORATS 'Ordinary Love'Direcció: Lisa Barros D'Sa, Glenn LeyburnGuió: Owen McCaffertyProducció: Out Of Orbit, Canderblinks Film and Music, Head Gear Films, Metrol Technology, Kreo Films FZ, Bleecker StreetAny: 2019Durada: 87País: Reino UnidoMúsica: David Holmes, Brian IrvineFotografia: Piers McGrailIntèrprets: Lesley Manville, Liam Neeson, Esh Alladi, Melanie Clark Pullen, Matthew Sharpe, Geraldine McAlinden, Mary Lindsay, Rosemary Henderson, Stella McCusker, Eoin McCafferty, Maggie Cronin, David Wilmot, Amit Shah, Vivien Monory, Olivia McDermott, Lalor Roddy, Fo Cullen, Chloë Ní Dhúada. Drama que mostra la vida de la Joan i el Tom, un matrimoni que s'enfronta a un gran impacte emocional quan li diagnostiquen un càncer de mama a la Joan.</desc>
-    <length units="minutes">01:24:50</length>
-  </programme>
-  <programme start="20261104002228 +0000" channel="tv3" stop="20261104014233 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">L'últim autobús</sub-title>
-    <desc lang="ca">L'ÚLTIM AUTOBÚS 'The Last Bus'Direcció: Gillies MacKinnonGuió: Joe AinsworthProducció: Hurricane Films, Head Gear Films, Metrol Technology, Kreo Films FZAny: 2021Durada: 86País: Regne UnitMúsica: Alexandre LessertisseurFotografia: George GeddesIntèrprets: Timothy Spall, Phyllis Logan, Natalie Mitson, Ben Ewing, Patricia Panther, Steven Duffy, Saskia Ashdown, Scott Campbell, Anne Kidd, Aila Gavin, Matt Costello, Adam Mitchell, Helen Windsory Quinn, Finn Weatherstone, Colin McCredie, Ronan Doyle, Kirsty Eila McIntyre, Jack Brown, Dee Maxwell, Ayla Sherrif, Marnie Baxter, Sheila Grier, Lynn Kennedy, Patsy Blower, Manjot Sumal, Garry Sweeney, Farron McCormack, Aria McCormack, Joe Fagan. Tom Harper, un jubilat de noranta anys, decideix marxar del poble on ha viscut durant cinquanta anys, al nord de la Gran Bretanya, i viatjar fins a la seva ciutat natal, al sud del país. Durant el viatge, descobrirà el món modern i la diversitat cultural britànica que fins aleshores desconeixia.</desc>
-    <length units="minutes">01:20:05</length>
-  </programme>
-  <programme start="20261103231100 +0000" channel="tvi" stop="20261104001507 +0000">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Laietana, 43. El cau de la bèstia.</sub-title>
-    <desc lang="ca">'Laietana,43. El cau de la bèstia' (2023) una producció de Balandra Films en coproducció amb 3Cat i la col·laboració de l'ICEC Memorial Democràtic.La 'Jefatura Superior de policía' de la Via Laietana, creada l'any 1929, ha sigut testimoni durant els quasi 100 anys que han passat des de la seva inauguració, de tota mena de tortures i vexacions a les persones detingudes que han passat per les seves dependències. Anarquistes, opositors franquistes, sindicalistes, moviments estudiantils, col·lectiu LGTBI i romaní, etc. Tot s'hi valia per aconseguir confessions.Direcció i realització: Jaume Domènech BarconsGuió: Clàudia Aranda RieraProductor: Jaume Domènech BarconsProductor executiu TVC: Cristina muñoz ClotetProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Eduard Vilà MoixMuntatge: Clàudia Aranda RieraDirector de producció: Clàudia Aranda RieraMúsica: Roger Gascon SalvadóLingüista: Carme Casals CampGrafisme: Hristina Braykova Braykova</desc>
-    <length units="minutes">01:04:07</length>
-  </programme>
-  <programme start="20261104001507 +0000" channel="tvi" stop="20261104002711 +0000">
-    <title lang="ca">Talent creatiu</title>
-    <sub-title lang="ca">Pol Dunyó, pagès ecològic</sub-title>
-    <desc lang="ca">Més que explicar la història del Pol, que també, hem volgut crear una història d'amor. L'amor que sent pel que fa, per una manera de viure, pel respecte als animals i al camp.</desc>
-    <length units="minutes">00:12:04</length>
-  </programme>
-  <programme start="20261103220500 +0000" channel="324" stop="20261104000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2192</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261104000000 +0000" channel="324" stop="20261104003000 +0000">
+  <programme start="20261104022222 +0000" channel="tv3" stop="20261104055500 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11608</sub-title>
+    <sub-title lang="ca">11609</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">03:32:38</length>
   </programme>
-  <programme start="20261103230449 +0000" channel="esport3" stop="20261104003932 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Porto-Asisa Joventut / Champions League / J3</sub-title>
-    <desc lang="ca">Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.</desc>
-    <length units="minutes">01:34:43</length>
+  <programme start="20261104055500 +0000" channel="tv3" stop="20261104080000 +0000">
+    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
+    <sub-title lang="ca">1</sub-title>
+    <length units="minutes">02:05:00</length>
   </programme>
-  <programme start="20261104003932 +0000" channel="esport3" stop="20261104005909 +0000">
+  <programme start="20261104042421 +0000" channel="tv3" stop="20261104044933 +0000">
+    <title lang="ca">El retorn de les lluernes</title>
+    <sub-title lang="ca">Marta i 'Satèl·lits'</sub-title>
+    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'Satèl·lits' (Males Herbes), d'Elisenda Solsona.Una nit, sense avís previ, la lluna no surt. Sota aquest cel inesperat transcorren vuit històries íntimes sobre separacions i retrobaments, narracions prenyades d'una bellesa estranya en què no hi manca el punt de fuga màgic. Són contes que assenyalen la incomprensió mútua com l'escull amb què topen, una vegada i una altra, les relacions humanes. La Marta Pujols és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels situats al Berguedà.</desc>
+    <length units="minutes">00:25:12</length>
+  </programme>
+  <programme start="20261104044933 +0000" channel="tv3" stop="20261104053630 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La bufanda</sub-title>
+    <desc lang="ca">S'acosta l'hivern, els mals de coll i els refredats, per això ens fa il·lusió dedicar un capítol a la bufanda. Sou dels que la porteu des de finals d'agost o dels que us queixeu quan us refredeu perquè us resistiu a admetre que s'ha acabat l'estiu durant el mes de desembre? Que vingui en Pemi Fortuny a 'La Renaixença' és un honor, i sentir una de les seves cançons més mítiques a l'escenari del programa, encara més. Anem amb en Saki a passejar per Portugal durant la coneguda com a Revolució dels Clavells.</desc>
+    <length units="minutes">00:46:57</length>
+  </programme>
+  <programme start="20261104022222 +0000" channel="tvi" stop="20261104055500 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11609</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">03:32:38</length>
+  </programme>
+  <programme start="20261104055500 +0000" channel="tvi" stop="20261104080000 +0000">
+    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
+    <sub-title lang="ca">1</sub-title>
+    <length units="minutes">02:05:00</length>
+  </programme>
+  <programme start="20261104010000 +0000" channel="324" stop="20261104060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11609</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261104060000 +0000" channel="324" stop="20261104080000 +0000">
+    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
+    <sub-title lang="ca">1</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261104042222 +0000" channel="esport3" stop="20261104044201 +0000">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">5558</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:19:37</length>
+    <length units="minutes">00:19:39</length>
   </programme>
-  <programme start="20261103232844 +0000" channel="sx3" stop="20261103235029 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Caracals</sub-title>
-    <desc lang="ca">L'Equip Kratt estan jugant a bàdminton a la sabana africana i s'han quedat sense volants. L'Aviva s'ha vist obligada a treure l'últim que els quedava, però resulta que és una relíquia familiar de més de 100 anys que va heretar de la seva besàvia. De sobte, un caracal els el pispa fent un salt de dos metres. Un caracal és un felí que es camufla molt bé entre l'herba! Com el recuperaran?!</desc>
-    <length units="minutes">00:21:45</length>
+  <programme start="20261104044201 +0000" channel="esport3" stop="20261104050658 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / Tampa / 7</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <length units="minutes">00:24:57</length>
   </programme>
-  <programme start="20261103235029 +0000" channel="sx3" stop="20261104001129 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Ziga-zaga</sub-title>
-    <desc lang="ca">L'Equip Kratt, decidits a descobrir tots els secrets del camuflatge de les zebres, s'han trobat enmig d'una desbandada i s'han quedat amb una cria de zebra tota sola. Si volen que sobrevisqui l'hauran de tornar amb la manada. Faran servir les tècniques de camuflatge per confondre que han après. Potser fins i tot les incorporaran als Vestits de Poder Animal!</desc>
-    <length units="minutes">00:21:00</length>
+  <programme start="20261104043416 +0000" channel="sx3" stop="20261104044546 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El ball del bosc</sub-title>
+    <desc lang="ca">Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.</desc>
+    <length units="minutes">00:11:30</length>
+  </programme>
+  <programme start="20261104044546 +0000" channel="sx3" stop="20261104045716 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Perdut per perdut</sub-title>
+    <desc lang="ca">Avui, la Guineta ha anat a buscar la prunera de l'altra banda del turó, però no l'ha trobat. A sobre, tornant cap a casa s'ha perdut. L'avi guineu li vol donar lliçons d'orientació, i se la torna a emportar al bosc amb en Timbal per ensenyar-los com s'arriba a la prunera. Però l'Edmond, que sempre pateix, no les té totes, i els segueix a una distància prudencial per assegurar-se que no prenguin mal.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
 </tv>
