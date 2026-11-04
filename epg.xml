@@ -1,87 +1,84 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261104022222 +0000" channel="tv3" stop="20261104055500 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11609</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:32:38</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261104135453 +0000" channel="tv3" stop="20261104143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7069</sub-title>
+    <length units="minutes">00:35:07</length>
   </programme>
-  <programme start="20261104055500 +0000" channel="tv3" stop="20261104080000 +0000">
-    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
-    <sub-title lang="ca">1</sub-title>
-    <length units="minutes">02:05:00</length>
+  <programme start="20261104143000 +0000" channel="tv3" stop="20261104153010 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7379</sub-title>
+    <length units="minutes">01:00:10</length>
   </programme>
-  <programme start="20261104042421 +0000" channel="tv3" stop="20261104044933 +0000">
-    <title lang="ca">El retorn de les lluernes</title>
-    <sub-title lang="ca">Marta i 'Satèl·lits'</sub-title>
-    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'Satèl·lits' (Males Herbes), d'Elisenda Solsona.Una nit, sense avís previ, la lluna no surt. Sota aquest cel inesperat transcorren vuit històries íntimes sobre separacions i retrobaments, narracions prenyades d'una bellesa estranya en què no hi manca el punt de fuga màgic. Són contes que assenyalen la incomprensió mútua com l'escull amb què topen, una vegada i una altra, les relacions humanes. La Marta Pujols és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels situats al Berguedà.</desc>
-    <length units="minutes">00:25:12</length>
+  <programme start="20261104134100 +0000" channel="tv3" stop="20261104143435 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">81</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">00:53:35</length>
   </programme>
-  <programme start="20261104044933 +0000" channel="tv3" stop="20261104053630 +0000">
+  <programme start="20261104143435 +0000" channel="tv3" stop="20261104152157 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La bufanda</sub-title>
-    <desc lang="ca">S'acosta l'hivern, els mals de coll i els refredats, per això ens fa il·lusió dedicar un capítol a la bufanda. Sou dels que la porteu des de finals d'agost o dels que us queixeu quan us refredeu perquè us resistiu a admetre que s'ha acabat l'estiu durant el mes de desembre? Que vingui en Pemi Fortuny a 'La Renaixença' és un honor, i sentir una de les seves cançons més mítiques a l'escenari del programa, encara més. Anem amb en Saki a passejar per Portugal durant la coneguda com a Revolució dels Clavells.</desc>
-    <length units="minutes">00:46:57</length>
+    <sub-title lang="ca">La butlleta</sub-title>
+    <desc lang="ca">Hi ha objectes que només veure'ls o dir el seu nom et porten a un record. Això passa amb la butlleta i Nadal, la butlleta i la sort, la butlleta i els diners... o la butlleta i la desgràcia. Aquest capítol el dediquem a la butlleta, però no us prometem que porti sort. Rebem la Raquel Sans, la periodista que més telenotícies ha presentat a casa nostra. Ara fa caps de setmana quan la resta treballem. O no. Sortim amb l'Heura pel 2014, quan hi va haver el robatori d'un Stradivarius de sis milions de dòlars.</desc>
+    <length units="minutes">00:47:22</length>
   </programme>
-  <programme start="20261104022222 +0000" channel="tvi" stop="20261104055500 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11609</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:32:38</length>
+  <programme start="20261104135453 +0000" channel="tvi" stop="20261104143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7069</sub-title>
+    <length units="minutes">00:35:07</length>
   </programme>
-  <programme start="20261104055500 +0000" channel="tvi" stop="20261104080000 +0000">
-    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
-    <sub-title lang="ca">1</sub-title>
-    <length units="minutes">02:05:00</length>
+  <programme start="20261104143000 +0000" channel="tvi" stop="20261104153010 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7379</sub-title>
+    <length units="minutes">01:00:10</length>
   </programme>
-  <programme start="20261104010000 +0000" channel="324" stop="20261104060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11609</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261104135500 +0000" channel="324" stop="20261104143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7069</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261104060000 +0000" channel="324" stop="20261104080000 +0000">
-    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
-    <sub-title lang="ca">1</sub-title>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261104143000 +0000" channel="324" stop="20261104153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7379</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261104042222 +0000" channel="esport3" stop="20261104044201 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5558</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:19:39</length>
+  <programme start="20261104130010 +0000" channel="esport3" stop="20261104142708 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3277</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:26:58</length>
   </programme>
-  <programme start="20261104044201 +0000" channel="esport3" stop="20261104050658 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / Tampa / 7</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
-    <length units="minutes">00:24:57</length>
+  <programme start="20261104142708 +0000" channel="esport3" stop="20261104155407 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3277</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">01:26:59</length>
   </programme>
-  <programme start="20261104043416 +0000" channel="sx3" stop="20261104044546 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El ball del bosc</sub-title>
-    <desc lang="ca">Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261104141019 +0000" channel="sx3" stop="20261104143237 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Vegeta rep de valent per fer guanyar temps a en Son Goku i donar-li la possibilitat de salvar l'univers</sub-title>
+    <desc lang="ca">En Son Goku, que veu que no hi ha manera d'eliminar el monstre Bu, diu que necessita un minut per reunir l'energia necessària per deixar-li anar l'atac definitiu que acabaria amb ell. En Vegeta decideix enfrontar-se al monstre mentre en Son Goku es prepara per a l'atac, conscient que si torna a morir ja no podrà ressuscitar mai més.</desc>
+    <length units="minutes">00:22:18</length>
   </programme>
-  <programme start="20261104044546 +0000" channel="sx3" stop="20261104045716 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Perdut per perdut</sub-title>
-    <desc lang="ca">Avui, la Guineta ha anat a buscar la prunera de l'altra banda del turó, però no l'ha trobat. A sobre, tornant cap a casa s'ha perdut. L'avi guineu li vol donar lliçons d'orientació, i se la torna a emportar al bosc amb en Timbal per ensenyar-los com s'arriba a la prunera. Però l'Edmond, que sempre pateix, no les té totes, i els segueix a una distància prudencial per assegurar-se que no prenguin mal.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261104143237 +0000" channel="sx3" stop="20261104145201 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Satan es fica pel mig i reapareix el primer monstre Bu</sub-title>
+    <desc lang="ca">Quan en Bu està a punt de carregar-se en Vegeta, en Satan, de manera sorprenent i convençut que tot plegat només és un somni, apareix en escena i el monstre es veu incapaç de fer-li mal. Aleshores, de l'interior d'en Bu, en surt la seva forma bona i comença a lluitar contra el monstre per defensar en Satan.</desc>
+    <length units="minutes">00:19:24</length>
   </programme>
 </tv>
