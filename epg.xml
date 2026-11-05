@@ -1,88 +1,86 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261105044511 +0000" channel="tv3" stop="20261105054511 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Eladio Reinón Quartet</sub-title>
-    <desc lang="ca">El reconegut saxofonista valencià Eladio Reinón s'acompanya en aquest projecte d'uns músics de luxe a la base rítmica: els germans Rossy, Jordi a la bateria i Mario al contrabaix, i del guitarrista Jaume Llombart. Amb ells ens fa una mostra dels seus darrers projectes discogràfics, navegant entre el jazz clàssic, el swing i els aires flamencs. Tot un referent de l'escena nacional.</desc>
-    <length units="minutes">01:00:00</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261105143000 +0000" channel="tv3" stop="20261105153010 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7380</sub-title>
+    <length units="minutes">01:00:10</length>
   </programme>
-  <programme start="20261105054511 +0000" channel="tv3" stop="20261105054847 +0000">
-    <title lang="ca">Videoclips catalans</title>
-    <sub-title lang="ca">Itaca band - Com una bala</sub-title>
-    <length units="minutes">00:03:36</length>
+  <programme start="20261105153010 +0000" channel="tv3" stop="20261105155214 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Steak tàrtar al moll de l'os</sub-title>
+    <desc lang="ca">Un steak tàrtar sempre és una delícia per als sentits. Si, a més, l'unim amb la cremositat del moll de l'os i una maionesa ben gustosa, l'experiència esdevé un somni per al paladar. Gessamí Caramés ens proposa una nova manera d'experimentar l'steak tàrtar que és tota una festa per als sentits!</desc>
+    <length units="minutes">00:22:04</length>
   </programme>
-  <programme start="20261105044120 +0000" channel="tv3" stop="20261105052857 +0000">
+  <programme start="20261105142336 +0000" channel="tv3" stop="20261105151037 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El porró</sub-title>
-    <desc lang="ca">De símbols de Catalunya n'hi ha molts, però un que no falta mai a la llista és el porró. Amb això n'hi ha prou per ser protagonista d'un dels capítols de 'La Renaixença'. Una taula no està ben parada si no hi ha un porró al mig. Hem aprofitat l'avinentesa per convidar la Marta Clot, sommelier i divulgadora del món del vi. A 'Històries per passejar el gos' anirem amb la Nika fins a un dels moments que més han patit els aficionats culers: el segrest d'en Quini.</desc>
-    <length units="minutes">00:47:37</length>
+    <sub-title lang="ca">La uralita</sub-title>
+    <desc lang="ca">La uralita i el fibrociment són el mateix, literalment, però la uralita també és el nom que se li dona a un mineral preciós dels Urals. Òbviament, com que podem triar, hem decidit parlar de la uralita dolenta: del material que durant molts anys (i encara avui) trobem repartit per tot Catalunya. Ens visita en Mazoni, cantautor empordanès que també puja al nostre escenari per poder gaudir d'una de les seves cançons amb els arranjaments de 'La Renaixença'. I sortim a passejar la Tronca, un gos d'atura de Sabadell, per l'atac dels homes morts, a Polònia.</desc>
+    <length units="minutes">00:47:01</length>
   </programme>
-  <programme start="20261105052857 +0000" channel="tv3" stop="20261105053908 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">'Bola de Drac'</sub-title>
-    <desc lang="ca">A partir de la recerca de set boles màgiques que permeten invocar un drac que concedeix desitjos, el dibuixant i guionista Akira Toriyama va concebre l'any 1984 'Bola de drac', un manga i, més endavant, una sèrie d'animació que es va convertir en un fenomen arreu del món. Toriyama, que ja havia sorprès l'any 1980 amb la venerada sèrie 'Dr. Slump', va esquitxar amb el seu sentit de l'humor imaginatiu, absurd i trepidant un relat d'aventures fantasioses. Posteriorment, els personatges van créixer i van adquirir un to més seriós en les següents entregues (com 'Bola de Drac Z' i 'Bola de Drac GT'). Una evolució que van seguir fidelment diferents generacions d'espectadors i lectors que han contribuït a atorgar a 'Bola de Drac' la categoria d'autèntic clàssic.</desc>
-    <length units="minutes">00:10:11</length>
+  <programme start="20261105151037 +0000" channel="tv3" stop="20261105155651 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La llanterna</sub-title>
+    <desc lang="ca">Recordeu el dia de l'apagada general? Hi havia dues opcions: tenir una espelma o una llanterna. Quantes vegades heu anat a les fosques perquè us feia mandra canviar les piles de la llanterna? Un dia parlarem de l'espelma, però aquest capítol el dediquem a la llanterna. Ens visita l'Àlex Auger, un savi per conèixer però molt boig, perquè practica 'wingsuit': salt amb vestit d'ales. Un home ocell, per entendre'ns. I boig, molt boig. A 'Històries per passejar el gos' anem al 1770, a la massacre de Boston, amb la Coco, que viu allà mateix.</desc>
+    <length units="minutes">00:46:14</length>
   </programme>
-  <programme start="20261105044511 +0000" channel="tvi" stop="20261105054511 +0000">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Eladio Reinón Quartet</sub-title>
-    <desc lang="ca">El reconegut saxofonista valencià Eladio Reinón s'acompanya en aquest projecte d'uns músics de luxe a la base rítmica: els germans Rossy, Jordi a la bateria i Mario al contrabaix, i del guitarrista Jaume Llombart. Amb ells ens fa una mostra dels seus darrers projectes discogràfics, navegant entre el jazz clàssic, el swing i els aires flamencs. Tot un referent de l'escena nacional.</desc>
+  <programme start="20261105143000 +0000" channel="tvi" stop="20261105153010 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7380</sub-title>
+    <length units="minutes">01:00:10</length>
+  </programme>
+  <programme start="20261105153010 +0000" channel="tvi" stop="20261105155214 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Steak tàrtar al moll de l'os</sub-title>
+    <desc lang="ca">Un steak tàrtar sempre és una delícia per als sentits. Si, a més, l'unim amb la cremositat del moll de l'os i una maionesa ben gustosa, l'experiència esdevé un somni per al paladar. Gessamí Caramés ens proposa una nova manera d'experimentar l'steak tàrtar que és tota una festa per als sentits!</desc>
+    <length units="minutes">00:22:04</length>
+  </programme>
+  <programme start="20261105143000 +0000" channel="324" stop="20261105153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7380</sub-title>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261105054511 +0000" channel="tvi" stop="20261105054847 +0000">
-    <title lang="ca">Videoclips catalans</title>
-    <sub-title lang="ca">Itaca band - Com una bala</sub-title>
-    <length units="minutes">00:03:36</length>
+  <programme start="20261105153000 +0000" channel="324" stop="20261105163000 +0000">
+    <title lang="ca">Telenotícies migdia (reemissió)</title>
+    <sub-title lang="ca">7380</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261105010000 +0000" channel="324" stop="20261105060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11618</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261105140257 +0000" channel="esport3" stop="20261105163517 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Raphinha 2030, l'NBA, Gemma Romeu i tertúlia</sub-title>
+    <desc lang="ca">Raphinha renova fins l'any 2030. Repassem tota la jornada de la Lliga de Campions. L'NBA amb Jordi de Mas i entrevista a Gemma Romeu, presidenta de la Unió de Consells Esportius de Catalunya. A la tertúlia ens acompanyen Irati Vidal, Nacho Peña i Joanjo Pallàs.</desc>
+    <length units="minutes">02:32:20</length>
   </programme>
-  <programme start="20261105060000 +0000" channel="324" stop="20261105080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11619</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261105163517 +0000" channel="esport3" stop="20261105170159 +0000">
+    <title lang="ca">Catalunya des de l'aire</title>
+    <sub-title lang="ca">CONCA DE BARBERÀ,GARRIGUES,PLA D'URGELL,URGELL</sub-title>
+    <desc lang="ca">Catalunya és màgica. Conté mar i terra, rius i muntanyes. En els seus milers de quilòmetres quadrats hi ha esglésies, castells, parcs... 'Catalunya des de l'aire' és un viatge per indrets que formen el passat, el present i el futur del país i dels seus habitants.'Catalunya des de l'aire' ofereix una visió bella i espectacular de les terres catalanes i dels seus habitants. Es tracta d'una sèrie divulgativa que vol mostrar als telespectadors el patrimoni cultural català. La sèrie, de 18 capítols, parteix del concepte de patrimoni integral, és a dir, de la suma dels vessants artístic, natural i antropològic, amb les corresponents indicacions històriques i literàries.La imatge del país, presa des de l'aire, projecta el conjunt i ofereix la successió de paisatges, monuments de diferents períodes i, com trobades a l'atzar del recorregut, celebracions i tradicions significatives dels diferents indrets. La música i la veu en off, amb pinzellades de l'àmbit històric i literari, acompanyen unes imatges que parlen per si soles.En conjunt, 'Catalunya des de l'aire' mostra la pluralitat d'elements i paisatges que formen la unitat del país, amb tota la riquesa de continguts, a vegades fins i tot contradictoris. Per aconseguir-ho, la sèrie parteix d'un guió elaborat per quatre professors d'universitat especialistes en el patrimoni històric i antropològic. A partir d'aquest guió s'elabora un complet joc d'imatges.'Catalunya des de l'aire' es va gravar durant gairebé un any, des del setembre del 97 fins a l'agost del 98, de manera que les diferents comarques mostren també com hi canvia el paisatge amb el pas de les estacions.El recorregut de 'Catalunya des de l'aire' comença al Barcelonès i, després de sobrevolar tot el país, es tanca amb un resum del més destacat del viatge.Fitxa tècnicaDirecció i realització: Xavier ManichIdea i direcció executiva: Germán RubiesProducció: Elena AlgarHistoriador: Salvador ClaramuntAdministrador gerent: Joan Cruel</desc>
+    <length units="minutes">00:26:42</length>
   </programme>
-  <programme start="20261105041554 +0000" channel="esport3" stop="20261105055505 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Ostrava-Spar Girona / Eurocup / J4</sub-title>
-    <desc lang="ca">L'Uni juga a Txèquia amb la intenció de repetir la victòria que va aconseguir en el precedent de Fontajau (77-49).</desc>
-    <length units="minutes">01:39:11</length>
+  <programme start="20261105143153 +0000" channel="sx3" stop="20261105145116 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bon vent, monstre Bu! L'últim desig de les Boles de Drac!</sub-title>
+    <desc lang="ca">Havent reunit tota l'energia necessària gràcies a la col·laboració de tots els habitants de la Terra, en Son Goku, després de moltes peripècies, aconsegueix llançar la superbola Genki contra en Bu, però el monstre l'atura i l'hi torna. Ara, l'únic que pot salvar en Son Goku i l'univers sencer és l'últim desig que pot concedir en Porunga.</desc>
+    <length units="minutes">00:19:23</length>
   </programme>
-  <programme start="20261105055505 +0000" channel="esport3" stop="20261105061926 +0000">
-    <title lang="ca">Espòiler</title>
-    <sub-title lang="ca">El Ford Kuga BlueCruise, el Nissan Leaf, el Zeekr 9X i les novetats de Denza.</sub-title>
-    <desc lang="ca">En aquest capítol posem a prova la tecnologia BlueCruise de Ford, un sistema de conducció autònoma de nivell 2 que ens permet conduir sense posar les mans al volant. També conduïm la nova generació del Nissan Leaf, el popular model elèctric de la marca japonesa. A més, us ensenyem totes les novetats de la marca xinesa Denza, entre les quals hi destaca el Denza Z, un superesportiu de més 1.600 CV de potència. Finalment, descobrim com és el Zeekr 9X, un SUV de luxe capaç de competir amb marques com Bentley o Rolls-Royce.</desc>
-    <length units="minutes">00:24:21</length>
-  </programme>
-  <programme start="20261105045136 +0000" channel="sx3" stop="20261105050305 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La campaneta de la guineta</sub-title>
-    <desc lang="ca">De camí cap al cau, en Pinxo veu un bastó molt maco, però la Guineta l'agafa primer. En Pinxo s'enfada molt, perquè diu que la Guineta sempre vol les coses que volen els altres. Poc després, els bessons troben una campaneta molt bonica al llit del riu, i la porten al cau per donar-li una sorpresa a la Trufa. Però la Guineta diu que la campaneta és seva! Ja hi tornem a ser.</desc>
-    <length units="minutes">00:11:29</length>
-  </programme>
-  <programme start="20261105050305 +0000" channel="sx3" stop="20261105051435 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La festa dels enamorats</sub-title>
-    <desc lang="ca">Al bosc és la festa dels enamorats. Mentre la Marguerite i l'Edmond rumien i preparen els regals que es faran, en Pinxo i la Guineta estan intrigats pel comportament d'en Timbal, ja que els sembla que amaga un gran secret, un secret, però, que estan disposats a descobrir.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261105145116 +0000" channel="sx3" stop="20261105151032 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La pau ha tornat a l'univers! En Bu ara és un bon jan!</sub-title>
+    <desc lang="ca">El senyor Satan comunica a tot el món que el monstre Bu és mort i torna a quedar com l'heroi que el va matar. Després de curar i de perdonar la vida al Bu bo, en Son Goku i companyia per fi poden tornar a la Terra per retrobar-se amb amics i familiars. La pau torna a tot l'univers i en Bu demostra a tothom que s'ha tornat més bo que mai.</desc>
+    <length units="minutes">00:19:16</length>
   </programme>
 </tv>
