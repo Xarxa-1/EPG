@@ -6,81 +6,85 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261105143000 +0000" channel="tv3" stop="20261105153010 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7380</sub-title>
-    <length units="minutes">01:00:10</length>
+  <programme start="20261105235153 +0000" channel="tv3" stop="20261106004025 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto</sub-title>
+    <desc lang="ca">Voler agradar a tothom i acumular visualitzacions, seguidors i fama. El gest de l'influencer ho està contaminant tot? També la manera d'entendre la cultura? Parlem de l'èxit i el fracàs amb Miguel Ángel Blanca i Berta Prieto, que han estrenat la sèrie 'Segunda temporada'. Amb Jana Jubert analitzem la novel·la 'Famesick', de Lena Dunham, i amb el realitzador Albert Lloreta bussegem fins als orígens de la fama a internet. Fem safareig sobre les novetats culturals amb Oriol Puig Taulé i Begoña Gómez Urzaiz i ens acomiadem amb el directe d'una fera que ha sabut domesticar molt bé la fama i que celebra 20 anys de trajectòria: Maika Makovski.</desc>
+    <length units="minutes">00:48:32</length>
   </programme>
-  <programme start="20261105153010 +0000" channel="tv3" stop="20261105155214 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Steak tàrtar al moll de l'os</sub-title>
-    <desc lang="ca">Un steak tàrtar sempre és una delícia per als sentits. Si, a més, l'unim amb la cremositat del moll de l'os i una maionesa ben gustosa, l'experiència esdevé un somni per al paladar. Gessamí Caramés ens proposa una nova manera d'experimentar l'steak tàrtar que és tota una festa per als sentits!</desc>
-    <length units="minutes">00:22:04</length>
+  <programme start="20261106004025 +0000" channel="tv3" stop="20261106034007 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2194</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">02:59:42</length>
   </programme>
-  <programme start="20261105142336 +0000" channel="tv3" stop="20261105151037 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La uralita</sub-title>
-    <desc lang="ca">La uralita i el fibrociment són el mateix, literalment, però la uralita també és el nom que se li dona a un mineral preciós dels Urals. Òbviament, com que podem triar, hem decidit parlar de la uralita dolenta: del material que durant molts anys (i encara avui) trobem repartit per tot Catalunya. Ens visita en Mazoni, cantautor empordanès que també puja al nostre escenari per poder gaudir d'una de les seves cançons amb els arranjaments de 'La Renaixença'. I sortim a passejar la Tronca, un gos d'atura de Sabadell, per l'atac dels homes morts, a Polònia.</desc>
-    <length units="minutes">00:47:01</length>
+  <programme start="20261105233753 +0000" channel="tv3" stop="20261106003336 +0000">
+    <title lang="ca">Savis i sàvies</title>
+    <sub-title lang="ca">Maria Barbal</sub-title>
+    <desc lang="ca">Nascuda a Tremp l'any 49, la nostra sàvia d'avui mai no va tenir l'objectiu de ser escriptora. Sí d'explicar una història, i aquesta història feta llibre la va convertir en una de les millors escriptores del país. Mig del Pallars, mig de Barcelona, ha fet d'aquests dos escenaris un element clau de la seva literatura.</desc>
+    <length units="minutes">00:55:43</length>
   </programme>
-  <programme start="20261105151037 +0000" channel="tv3" stop="20261105155651 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La llanterna</sub-title>
-    <desc lang="ca">Recordeu el dia de l'apagada general? Hi havia dues opcions: tenir una espelma o una llanterna. Quantes vegades heu anat a les fosques perquè us feia mandra canviar les piles de la llanterna? Un dia parlarem de l'espelma, però aquest capítol el dediquem a la llanterna. Ens visita l'Àlex Auger, un savi per conèixer però molt boig, perquè practica 'wingsuit': salt amb vestit d'ales. Un home ocell, per entendre'ns. I boig, molt boig. A 'Històries per passejar el gos' anem al 1770, a la massacre de Boston, amb la Coco, que viu allà mateix.</desc>
-    <length units="minutes">00:46:14</length>
+  <programme start="20261106003336 +0000" channel="tv3" stop="20261106012721 +0000">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">Russia. L'arbre de la violència</sub-title>
+    <desc lang="ca">Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.</desc>
+    <length units="minutes">00:53:45</length>
   </programme>
-  <programme start="20261105143000 +0000" channel="tvi" stop="20261105153010 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7380</sub-title>
-    <length units="minutes">01:00:10</length>
+  <programme start="20261105235153 +0000" channel="tvi" stop="20261106004025 +0000">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto</sub-title>
+    <desc lang="ca">Voler agradar a tothom i acumular visualitzacions, seguidors i fama. El gest de l'influencer ho està contaminant tot? També la manera d'entendre la cultura? Parlem de l'èxit i el fracàs amb Miguel Ángel Blanca i Berta Prieto, que han estrenat la sèrie 'Segunda temporada'. Amb Jana Jubert analitzem la novel·la 'Famesick', de Lena Dunham, i amb el realitzador Albert Lloreta bussegem fins als orígens de la fama a internet. Fem safareig sobre les novetats culturals amb Oriol Puig Taulé i Begoña Gómez Urzaiz i ens acomiadem amb el directe d'una fera que ha sabut domesticar molt bé la fama i que celebra 20 anys de trajectòria: Maika Makovski.</desc>
+    <length units="minutes">00:48:32</length>
   </programme>
-  <programme start="20261105153010 +0000" channel="tvi" stop="20261105155214 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Steak tàrtar al moll de l'os</sub-title>
-    <desc lang="ca">Un steak tàrtar sempre és una delícia per als sentits. Si, a més, l'unim amb la cremositat del moll de l'os i una maionesa ben gustosa, l'experiència esdevé un somni per al paladar. Gessamí Caramés ens proposa una nova manera d'experimentar l'steak tàrtar que és tota una festa per als sentits!</desc>
-    <length units="minutes">00:22:04</length>
+  <programme start="20261106004025 +0000" channel="tvi" stop="20261106034007 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2194</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">02:59:42</length>
   </programme>
-  <programme start="20261105143000 +0000" channel="324" stop="20261105153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7380</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261105220500 +0000" channel="324" stop="20261106000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2194</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
   </programme>
-  <programme start="20261105153000 +0000" channel="324" stop="20261105163000 +0000">
-    <title lang="ca">Telenotícies migdia (reemissió)</title>
-    <sub-title lang="ca">7380</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261106000000 +0000" channel="324" stop="20261106003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11626</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261105140257 +0000" channel="esport3" stop="20261105163517 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Raphinha 2030, l'NBA, Gemma Romeu i tertúlia</sub-title>
-    <desc lang="ca">Raphinha renova fins l'any 2030. Repassem tota la jornada de la Lliga de Campions. L'NBA amb Jordi de Mas i entrevista a Gemma Romeu, presidenta de la Unió de Consells Esportius de Catalunya. A la tertúlia ens acompanyen Irati Vidal, Nacho Peña i Joanjo Pallàs.</desc>
-    <length units="minutes">02:32:20</length>
+  <programme start="20261105230000 +0000" channel="esport3" stop="20261106003055 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Raphinha 2030; l'hora de Frenkie i 'El consultori'</sub-title>
+    <desc lang="ca">Víctor Lozano, David Bernabeu, Irati Vidal i Juvenal Edjogo comenten la renovació de Raphinha i els dubtes de Flick al mig del camp per jugar al Metropolitano. En Sergi Ferrer respon les preguntes dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:30:55</length>
   </programme>
-  <programme start="20261105163517 +0000" channel="esport3" stop="20261105170159 +0000">
-    <title lang="ca">Catalunya des de l'aire</title>
-    <sub-title lang="ca">CONCA DE BARBERÀ,GARRIGUES,PLA D'URGELL,URGELL</sub-title>
-    <desc lang="ca">Catalunya és màgica. Conté mar i terra, rius i muntanyes. En els seus milers de quilòmetres quadrats hi ha esglésies, castells, parcs... 'Catalunya des de l'aire' és un viatge per indrets que formen el passat, el present i el futur del país i dels seus habitants.'Catalunya des de l'aire' ofereix una visió bella i espectacular de les terres catalanes i dels seus habitants. Es tracta d'una sèrie divulgativa que vol mostrar als telespectadors el patrimoni cultural català. La sèrie, de 18 capítols, parteix del concepte de patrimoni integral, és a dir, de la suma dels vessants artístic, natural i antropològic, amb les corresponents indicacions històriques i literàries.La imatge del país, presa des de l'aire, projecta el conjunt i ofereix la successió de paisatges, monuments de diferents períodes i, com trobades a l'atzar del recorregut, celebracions i tradicions significatives dels diferents indrets. La música i la veu en off, amb pinzellades de l'àmbit històric i literari, acompanyen unes imatges que parlen per si soles.En conjunt, 'Catalunya des de l'aire' mostra la pluralitat d'elements i paisatges que formen la unitat del país, amb tota la riquesa de continguts, a vegades fins i tot contradictoris. Per aconseguir-ho, la sèrie parteix d'un guió elaborat per quatre professors d'universitat especialistes en el patrimoni històric i antropològic. A partir d'aquest guió s'elabora un complet joc d'imatges.'Catalunya des de l'aire' es va gravar durant gairebé un any, des del setembre del 97 fins a l'agost del 98, de manera que les diferents comarques mostren també com hi canvia el paisatge amb el pas de les estacions.El recorregut de 'Catalunya des de l'aire' comença al Barcelonès i, després de sobrevolar tot el país, es tanca amb un resum del més destacat del viatge.Fitxa tècnicaDirecció i realització: Xavier ManichIdea i direcció executiva: Germán RubiesProducció: Elena AlgarHistoriador: Salvador ClaramuntAdministrador gerent: Joan Cruel</desc>
-    <length units="minutes">00:26:42</length>
+  <programme start="20261106003055 +0000" channel="esport3" stop="20261106005056 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5560</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:01</length>
   </programme>
-  <programme start="20261105143153 +0000" channel="sx3" stop="20261105145116 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bon vent, monstre Bu! L'últim desig de les Boles de Drac!</sub-title>
-    <desc lang="ca">Havent reunit tota l'energia necessària gràcies a la col·laboració de tots els habitants de la Terra, en Son Goku, després de moltes peripècies, aconsegueix llançar la superbola Genki contra en Bu, però el monstre l'atura i l'hi torna. Ara, l'únic que pot salvar en Son Goku i l'univers sencer és l'últim desig que pot concedir en Porunga.</desc>
-    <length units="minutes">00:19:23</length>
+  <programme start="20261105235000 +0000" channel="sx3" stop="20261106001100 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Enganxats als taurons</sub-title>
+    <desc lang="ca">En Martin i en Chris estan decidits a descobrir més coses de la vida secreta del misteriós tauró blanc, el tauró més gros del món. Amb el Subrèmora de l'Aviva seguiran una femella i presenciaran el naixement d'una cria de tauró, juntament amb el malvat Gormand, que en vol fer una sopa d'aleta de tauró! Com s'ho faran per parar-li els peus?!</desc>
+    <length units="minutes">00:21:00</length>
   </programme>
-  <programme start="20261105145116 +0000" channel="sx3" stop="20261105151032 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">La pau ha tornat a l'univers! En Bu ara és un bon jan!</sub-title>
-    <desc lang="ca">El senyor Satan comunica a tot el món que el monstre Bu és mort i torna a quedar com l'heroi que el va matar. Després de curar i de perdonar la vida al Bu bo, en Son Goku i companyia per fi poden tornar a la Terra per retrobar-se amb amics i familiars. La pau torna a tot l'univers i en Bu demostra a tothom que s'ha tornat més bo que mai.</desc>
-    <length units="minutes">00:19:16</length>
+  <programme start="20261106001100 +0000" channel="sx3" stop="20261106003159 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Ballarins voladors</sub-title>
+    <desc lang="ca">Després que l'Aviva hagi confessat que ballar no és el seu fort, en Martin i en Chris han decidit anar-se'n a la selva de Nova Guinea a buscar espècies dels increïbles ocells del paradís, els millors ballarins del món. Aviat, però, cauran a la trampa de la Donita, que està preparant la seva nova línia de vestits amb plomes. Ara li toca a l'Aviva entrar en acció!</desc>
+    <length units="minutes">00:20:59</length>
   </programme>
 </tv>
