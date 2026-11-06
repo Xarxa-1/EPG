@@ -1,13 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -15,76 +9,76 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261106043000 +0000" channel="tv3" stop="20261106051419 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Pere Foved &amp; Friends</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:44:19</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261106135455 +0000" channel="tv3" stop="20261106143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7071</sub-title>
+    <length units="minutes">00:35:05</length>
   </programme>
-  <programme start="20261106051419 +0000" channel="tv3" stop="20261106060000 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Jaume Vilaseca Trio</sub-title>
-    <desc lang="ca">Jaume Vilaseca ens mostrarà la seva passió per la bossa, la rumba i l'afro. Les seves influències van del jazz clàssic, al bop, o al post bop. Tot sota la mirada dels grans noms de la fusió com Herbie Hankock o Chick Corea. Avui ens presenten composicions de cada un dels membres del seu trio, on podrem veure la singular i elaborada manera de treballar un so de grup. Dick Them, al contrabaix, Ramón Díaz a la bateria i Jaume Vilaseca al piano.</desc>
-    <length units="minutes">00:45:41</length>
+  <programme start="20261106143000 +0000" channel="tv3" stop="20261106153006 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7381</sub-title>
+    <length units="minutes">01:00:06</length>
   </programme>
-  <programme start="20261106044132 +0000" channel="tv3" stop="20261106050854 +0000">
-    <title lang="ca">El retorn de les lluernes</title>
-    <sub-title lang="ca">Èlia i 'Ignot'</sub-title>
-    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'Ignot' (Edicions del Periscopi), de Manuel Baixauli.Quan Mateu, un pintor en hores baixes, rep l'encàrrec d'il·lustrar els textos d'un escriptor anomenat Crisòstom, accepta sense pensar-s'ho dues vegades. Però qui és, realment, Crisòstom? Per què no ha transcendit, la seva obra? Mateu descobrirà un personatge humil però fascinant, un geni desconegut, i se submergirà en un món insòlit, ple de miralls i poblat per individus solitaris i esquius.L'Èlia mateu és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels a Barcelona.</desc>
-    <length units="minutes">00:27:22</length>
+  <programme start="20261106135738 +0000" channel="tv3" stop="20261106144852 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">85</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">00:51:14</length>
   </programme>
-  <programme start="20261106050854 +0000" channel="tv3" stop="20261106055501 +0000">
+  <programme start="20261106144852 +0000" channel="tv3" stop="20261106153519 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 6</sub-title>
-    <desc lang="ca">El resum dels millors moments sempre és una manera d'acabar la setmana rient. Aquí sempre hi trobareu els moments que més hem rigut, o que més ens han impactat. Si us ha passat el mateix, podeu tornar a veure els capítols d'aquests dies, o veure'ls per primera vegada en l'ordre que us faci més gràcia.</desc>
-    <length units="minutes">00:46:07</length>
+    <sub-title lang="ca">Millors moments - setmana 16</sub-title>
+    <desc lang="ca">Us deixem un resum i repàs del que han sigut els quatre últims capítols de 'La Renaixença'. Hem parlat d'objectes, hem conegut savis per conèixer i reconegut bojos coneguts, i hem sortit a passejar quatre gossos (tot i que a en Fel no li agrada). Si us agrada el resum, mireu els capítols! I si he vist els capítols, mireu el resum, que també és divertit recordar com hem passat la setmana.</desc>
+    <length units="minutes">00:46:27</length>
   </programme>
-  <programme start="20261106043000 +0000" channel="tvi" stop="20261106051419 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Pere Foved &amp; Friends</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:44:19</length>
+  <programme start="20261106135455 +0000" channel="tvi" stop="20261106143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7071</sub-title>
+    <length units="minutes">00:35:05</length>
   </programme>
-  <programme start="20261106051419 +0000" channel="tvi" stop="20261106060000 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Jaume Vilaseca Trio</sub-title>
-    <desc lang="ca">Jaume Vilaseca ens mostrarà la seva passió per la bossa, la rumba i l'afro. Les seves influències van del jazz clàssic, al bop, o al post bop. Tot sota la mirada dels grans noms de la fusió com Herbie Hankock o Chick Corea. Avui ens presenten composicions de cada un dels membres del seu trio, on podrem veure la singular i elaborada manera de treballar un so de grup. Dick Them, al contrabaix, Ramón Díaz a la bateria i Jaume Vilaseca al piano.</desc>
-    <length units="minutes">00:45:41</length>
+  <programme start="20261106143000 +0000" channel="tvi" stop="20261106153006 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7381</sub-title>
+    <length units="minutes">01:00:06</length>
   </programme>
-  <programme start="20261106010000 +0000" channel="324" stop="20261106060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11627</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261106135500 +0000" channel="324" stop="20261106143000 +0000">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">7071</sub-title>
+    <length units="minutes">00:35:00</length>
   </programme>
-  <programme start="20261106060000 +0000" channel="324" stop="20261106080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11628</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261106143000 +0000" channel="324" stop="20261106153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7381</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261106041556 +0000" channel="esport3" stop="20261106060202 +0000">
-    <title lang="ca">Billar a 3 bandes</title>
-    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
-    <length units="minutes">01:46:06</length>
+  <programme start="20261106140154 +0000" channel="esport3" stop="20261106163352 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Atlètic de Madrid-Barça, Piolets d'Or 2026 i tertúlia</sub-title>
+    <desc lang="ca">El Barça a l'assalt del Metropolitano. Diumenge hi haurà el liderat en joc. Ens ho explica Francesc Latorre. Entrevistem Marc Torralles i Bru Bosom, Piolets d'Or 2026. Històries del Futbol amb Marc Mayola i tertúlia. Ens acompanyen Laia Cervelló, Edgar Fornós i David Sánchez.</desc>
+    <length units="minutes">02:31:58</length>
   </programme>
-  <programme start="20261106060202 +0000" channel="esport3" stop="20261106061516 +0000">
-    <title lang="ca">Zona UFEC</title>
-    <sub-title lang="ca">714</sub-title>
-    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
-    <length units="minutes">00:13:14</length>
+  <programme start="20261106163352 +0000" channel="esport3" stop="20261106165928 +0000">
+    <title lang="ca">Catalunya des de l'aire</title>
+    <sub-title lang="ca">PLA DE L'ESTANY, GARROTXA I SELVA</sub-title>
+    <desc lang="ca">Catalunya és màgica. Conté mar i terra, rius i muntanyes. En els seus milers de quilòmetres quadrats hi ha esglésies, castells, parcs... 'Catalunya des de l'aire' és un viatge per indrets que formen el passat, el present i el futur del país i dels seus habitants.'Catalunya des de l'aire' ofereix una visió bella i espectacular de les terres catalanes i dels seus habitants. Es tracta d'una sèrie divulgativa que vol mostrar als telespectadors el patrimoni cultural català. La sèrie, de 18 capítols, parteix del concepte de patrimoni integral, és a dir, de la suma dels vessants artístic, natural i antropològic, amb les corresponents indicacions històriques i literàries.La imatge del país, presa des de l'aire, projecta el conjunt i ofereix la successió de paisatges, monuments de diferents períodes i, com trobades a l'atzar del recorregut, celebracions i tradicions significatives dels diferents indrets. La música i la veu en off, amb pinzellades de l'àmbit històric i literari, acompanyen unes imatges que parlen per si soles.En conjunt, 'Catalunya des de l'aire' mostra la pluralitat d'elements i paisatges que formen la unitat del país, amb tota la riquesa de continguts, a vegades fins i tot contradictoris. Per aconseguir-ho, la sèrie parteix d'un guió elaborat per quatre professors d'universitat especialistes en el patrimoni històric i antropològic. A partir d'aquest guió s'elabora un complet joc d'imatges.'Catalunya des de l'aire' es va gravar durant gairebé un any, des del setembre del 97 fins a l'agost del 98, de manera que les diferents comarques mostren també com hi canvia el paisatge amb el pas de les estacions.El recorregut de 'Catalunya des de l'aire' comença al Barcelonès i, després de sobrevolar tot el país, es tanca amb un resum del més destacat del viatge.Fitxa tècnicaDirecció i realització: Xavier ManichIdea i direcció executiva: Germán RubiesProducció: Elena AlgarHistoriador: Salvador ClaramuntAdministrador gerent: Joan Cruel</desc>
+    <length units="minutes">00:25:36</length>
   </programme>
-  <programme start="20261106045226 +0000" channel="sx3" stop="20261106050356 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La Trufa se'n va de la llengua</sub-title>
-    <desc lang="ca">En Timbal està de pega: en Pinxo li ha agafat les pinyes sense permís i, la Guineta ha perdut el seu estel. Quan la Trufa l'hi xerra, els seus germans li diuen que xivar-se no està bé. Però l'Edmond li diu que sempre ha de dir la veritat, i poc després, la Marguerite li explica que les coses dels altres no s'han de xerrar. I la pobra Trufa no sap què fer.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261106140734 +0000" channel="sx3" stop="20261106142951 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Vet aquí la Pan, la néta d'en Son Goku! Els testos s'assemblen a les olles!</sub-title>
+    <desc lang="ca">Han passat 10 anys des de la mort del monstre Bu i hi ha moltes novetats. En Son Goten i en Trunks s'han fet grans, en Vegeta i la Bulma han tingut una altra filla, en Son Gohan i la Videl s'han casat i també han tingut una filla, la Pan, la néta d'en Son Goku, que ara és avi! A més, aviat començarà un altre campionat d'arts marcials, on s'hi apuntarà tothom, fins i tot la Pan!</desc>
+    <length units="minutes">00:22:17</length>
   </programme>
-  <programme start="20261106050356 +0000" channel="sx3" stop="20261106051526 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Esperit d'equip</sub-title>
-    <desc lang="ca">Cada any la canalla del bosc competeix al campionat entre caus, uns jocs en què han de superar una sèrie de proves. Però només hi pot haver un representant per cada cau, i això crea un conflicte a la família Teixó-Guineu, ja que tant sí com no hi volen participar els dos grans, en Pinxo i la Guineta, un teixó i una guineu.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261106142951 +0000" channel="sx3" stop="20261106144935 +0000">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Vet aquí l'Ub! Té 10 anys i és la reencarnació del monstre Bu!</sub-title>
+    <desc lang="ca">El Campionat Mundial d'Arts Marcials comença amb el combat entre la Pan i un rival molt gros, però la néta d'en Goku de seguida demostra que té molt potencial. Més tard, en Son Goku li demana a en Bu que l'aparelli amb un nen de 10 anys que es diu Ub i que és la reencarnació del monstre Bu en la seva forma dolenta.</desc>
+    <length units="minutes">00:19:44</length>
   </programme>
 </tv>
