@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -15,70 +15,76 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261106135455 +0000" channel="tv3" stop="20261106143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7071</sub-title>
-    <length units="minutes">00:35:05</length>
+  <programme start="20261106220753 +0000" channel="tv3" stop="20261107000539 +0000">
+    <title lang="ca">La gran pel·lícula</title>
+    <sub-title lang="ca">L'última sessió de Freud</sub-title>
+    <desc lang="ca">L'ÚLTIMA SESSIÓ DE FREUD 'Freud's last session'Direcció: Matt BrownGuió: Mark St. GermainProducció: 14 Sunset, LB Entertainment, Last Session Productions, M.Y.R.A. Entertainment, Subotica Entertainment LtdAny: 2023Durada: 122País: Gran BretanyaMúsica: Coby BrownFotografia: Ben SmithardIntèrprets: Matthew Goode, Anthony Hopkins, Jodi Balfour, Stephen Campbell Moore, Liv Lisa Fries, Jeremy Northam, Padraic Delaney, Rhys Mannion, Tarek Bishara, Anna Amalie BlomeyerLa Segona Guerra Mundial és a punt d'esclatar. El pare de la psicoanàlisi, Sigmund Freud, molt malalt a causa d'un càncer al paladar, convida a casa seva el famós autor C.S. Lewis. Aquests dos homes, que fins ara no s'han vist mai, però que coneixen i se segueixen l'obra mútuament, debatran grans qüestions, com ara l'existència de Déu, l'amor, el sexe i el sentit de la vida. Inevitablement, també sorgirà el tema de la naturalesa de les relacions amb altres persones, com ara la relació tan especial que hi ha entre Freud i la seva filla Anna i la relació poc convencional que manté Lewis amb la mare d'un antic company d'armes.</desc>
+    <length units="minutes">01:57:46</length>
   </programme>
-  <programme start="20261106143000 +0000" channel="tv3" stop="20261106153006 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7381</sub-title>
-    <length units="minutes">01:00:06</length>
+  <programme start="20261107000539 +0000" channel="tv3" stop="20261107015647 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">La impaciència del cor</sub-title>
+    <desc lang="ca">LA IMPACIÈNCIA DEL COR 'Kysset'Direcció: Bille AugustGuió: Bille August, Greg Latter.Producció: Cameo Film Fyn, Clausen Group, Danish Film Institute, Hungarian Tax Credit, Nordisk Film, Nordisk Film, Norwegian Film Institute, YouseeAny: 2022Durada: 116País: Dinamarca Música: Henrik SkramFotografia: Sebastian BlenkovIntèrprets: Mads Bjørn, Mathias Bøgelund, Karina Anov Chapman, Henrik Blauner Clausen, Kurt Dreyer, Jarl Forsmann, Nicolai Dahl Hamilton, Mikkel Baden Jensen, Jytte Kvinesdal, Lane Lind, Sara-Marie Maltha, Peter Michaelsen, Lars Mikkelsen, Rosalinde Mynster, Lars Phister, Clara Rosager, Lone Rødbroe, Esben Smed, Klaus Søndergaard, Lukas Toya, Thalita Beltrão Sørensen. Un jove noble té, com a prioritat, completar la seva formació com a oficial de cavalleria. Durant l'entrenament, ordena al seu escamot que ajudi el baró, qui el convida a un ball on coneix la seva filla, que ha patit un accident.</desc>
+    <length units="minutes">01:51:08</length>
   </programme>
-  <programme start="20261106135738 +0000" channel="tv3" stop="20261106144852 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">85</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">00:51:14</length>
+  <programme start="20261106231908 +0000" channel="tv3" stop="20261106234349 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Cap Verd. Els irreductibles del cràter</sub-title>
+    <desc lang="ca">A l'illa de Fogo, a l'arxipèlag de Cap Verd, s'alça el volcà Pico. Des de fa més de dos segles, les persones conviuen amb aquest monstre de foc en una petita comunitat al peu del volcà. L'última gran erupció es va produir l'any 2014 i va ser devastadora. La lava va enterrar pràcticament totes les cases del poble. Tot i això, molts illencs van decidir tornar a instal·lar-s'hi i reconstruir el poble de mica en mica.Página 1 de 1</desc>
+    <length units="minutes">00:24:41</length>
   </programme>
-  <programme start="20261106144852 +0000" channel="tv3" stop="20261106153519 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 16</sub-title>
-    <desc lang="ca">Us deixem un resum i repàs del que han sigut els quatre últims capítols de 'La Renaixença'. Hem parlat d'objectes, hem conegut savis per conèixer i reconegut bojos coneguts, i hem sortit a passejar quatre gossos (tot i que a en Fel no li agrada). Si us agrada el resum, mireu els capítols! I si he vist els capítols, mireu el resum, que també és divertit recordar com hem passat la setmana.</desc>
-    <length units="minutes">00:46:27</length>
+  <programme start="20261106234349 +0000" channel="tv3" stop="20261107000846 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">El mont Fuji. Una tradició japonesa</sub-title>
+    <desc lang="ca">El mont Fuji és molt més que un volcà: és el símbol del Japó, de la religió i de la cultura dels japonesos. Malgrat el perill, els japonesos viuen en harmonia amb aquest gegant. És la il·lustració perfecte de la mentalitat japonesa, sempre conscient de la caducitat d'un món alhora bonic i destructiu. Des de temps immemorials, el mont Fuji i el país del Sol ixent estan lligats per aquest terrible destí.</desc>
+    <length units="minutes">00:24:57</length>
   </programme>
-  <programme start="20261106135455 +0000" channel="tvi" stop="20261106143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7071</sub-title>
-    <length units="minutes">00:35:05</length>
+  <programme start="20261106231359 +0000" channel="tvi" stop="20261107000359 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">'Junts, però lluny d'aquí' Itsaso</sub-title>
+    <desc lang="ca">L'alba del dia 15 d'octubre portarà una ressaca de dubtes i inseguretats per a la gent d'Altsasu. Dia a dia, la bola de neu es va fent grossa i entren en una inesperada i nova realitat. Es començaran a succeir les visites de mitjans de comunicació, els interrogatoris, els viatges als jutjats…</desc>
+    <length units="minutes">00:50:00</length>
   </programme>
-  <programme start="20261106143000 +0000" channel="tvi" stop="20261106153006 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7381</sub-title>
-    <length units="minutes">01:00:06</length>
+  <programme start="20261107000359 +0000" channel="tvi" stop="20261107005401 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">'Abans era abans' Urko</sub-title>
+    <desc lang="ca">7 dels 8 joves encausats seran conduïts a la presó, adduint risc de fuga. Ells, les seves famílies i tot el seu entorn passaran moments difícils en una llarga espera fins a la data del judici, mentre veuen com els seus somnis, les seves relacions i en definitiva el seu futur, fan un gir de 180º tancats a la presó.</desc>
+    <length units="minutes">00:50:02</length>
   </programme>
-  <programme start="20261106135500 +0000" channel="324" stop="20261106143000 +0000">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">7071</sub-title>
-    <length units="minutes">00:35:00</length>
+  <programme start="20261106220500 +0000" channel="324" stop="20261106233000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2195</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:25:00</length>
   </programme>
-  <programme start="20261106143000 +0000" channel="324" stop="20261106153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7381</sub-title>
+  <programme start="20261106233000 +0000" channel="324" stop="20261107003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11635</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261106140154 +0000" channel="esport3" stop="20261106163352 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Atlètic de Madrid-Barça, Piolets d'Or 2026 i tertúlia</sub-title>
-    <desc lang="ca">El Barça a l'assalt del Metropolitano. Diumenge hi haurà el liderat en joc. Ens ho explica Francesc Latorre. Entrevistem Marc Torralles i Bru Bosom, Piolets d'Or 2026. Històries del Futbol amb Marc Mayola i tertúlia. Ens acompanyen Laia Cervelló, Edgar Fornós i David Sánchez.</desc>
-    <length units="minutes">02:31:58</length>
+  <programme start="20261106230023 +0000" channel="esport3" stop="20261107003113 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.</desc>
+    <length units="minutes">01:30:50</length>
   </programme>
-  <programme start="20261106163352 +0000" channel="esport3" stop="20261106165928 +0000">
-    <title lang="ca">Catalunya des de l'aire</title>
-    <sub-title lang="ca">PLA DE L'ESTANY, GARROTXA I SELVA</sub-title>
-    <desc lang="ca">Catalunya és màgica. Conté mar i terra, rius i muntanyes. En els seus milers de quilòmetres quadrats hi ha esglésies, castells, parcs... 'Catalunya des de l'aire' és un viatge per indrets que formen el passat, el present i el futur del país i dels seus habitants.'Catalunya des de l'aire' ofereix una visió bella i espectacular de les terres catalanes i dels seus habitants. Es tracta d'una sèrie divulgativa que vol mostrar als telespectadors el patrimoni cultural català. La sèrie, de 18 capítols, parteix del concepte de patrimoni integral, és a dir, de la suma dels vessants artístic, natural i antropològic, amb les corresponents indicacions històriques i literàries.La imatge del país, presa des de l'aire, projecta el conjunt i ofereix la successió de paisatges, monuments de diferents períodes i, com trobades a l'atzar del recorregut, celebracions i tradicions significatives dels diferents indrets. La música i la veu en off, amb pinzellades de l'àmbit històric i literari, acompanyen unes imatges que parlen per si soles.En conjunt, 'Catalunya des de l'aire' mostra la pluralitat d'elements i paisatges que formen la unitat del país, amb tota la riquesa de continguts, a vegades fins i tot contradictoris. Per aconseguir-ho, la sèrie parteix d'un guió elaborat per quatre professors d'universitat especialistes en el patrimoni històric i antropològic. A partir d'aquest guió s'elabora un complet joc d'imatges.'Catalunya des de l'aire' es va gravar durant gairebé un any, des del setembre del 97 fins a l'agost del 98, de manera que les diferents comarques mostren també com hi canvia el paisatge amb el pas de les estacions.El recorregut de 'Catalunya des de l'aire' comença al Barcelonès i, després de sobrevolar tot el país, es tanca amb un resum del més destacat del viatge.Fitxa tècnicaDirecció i realització: Xavier ManichIdea i direcció executiva: Germán RubiesProducció: Elena AlgarHistoriador: Salvador ClaramuntAdministrador gerent: Joan Cruel</desc>
-    <length units="minutes">00:25:36</length>
+  <programme start="20261107003113 +0000" channel="esport3" stop="20261107005156 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5561</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:43</length>
   </programme>
-  <programme start="20261106140734 +0000" channel="sx3" stop="20261106142951 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Vet aquí la Pan, la néta d'en Son Goku! Els testos s'assemblen a les olles!</sub-title>
-    <desc lang="ca">Han passat 10 anys des de la mort del monstre Bu i hi ha moltes novetats. En Son Goten i en Trunks s'han fet grans, en Vegeta i la Bulma han tingut una altra filla, en Son Gohan i la Videl s'han casat i també han tingut una filla, la Pan, la néta d'en Son Goku, que ara és avi! A més, aviat començarà un altre campionat d'arts marcials, on s'hi apuntarà tothom, fins i tot la Pan!</desc>
-    <length units="minutes">00:22:17</length>
+  <programme start="20261106230906 +0000" channel="sx3" stop="20261106233052 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Un mal dia</sub-title>
+    <desc lang="ca">Avui en Chris i en Martin ajuden un lleó que es diu 'El que respira foc' a superar tot d'obstacles i a recuperar la seguretat per protegir la seva manada. L'arribada de dos lleons mascles enormes al seu territori fa que s'encenguin totes les alarmes i que els germans Kratt hagin de fer servir tot el seu enginy per posar les coses a lloc.</desc>
+    <length units="minutes">00:21:46</length>
   </programme>
-  <programme start="20261106142951 +0000" channel="sx3" stop="20261106144935 +0000">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Vet aquí l'Ub! Té 10 anys i és la reencarnació del monstre Bu!</sub-title>
-    <desc lang="ca">El Campionat Mundial d'Arts Marcials comença amb el combat entre la Pan i un rival molt gros, però la néta d'en Goku de seguida demostra que té molt potencial. Més tard, en Son Goku li demana a en Bu que l'aparelli amb un nen de 10 anys que es diu Ub i que és la reencarnació del monstre Bu en la seva forma dolenta.</desc>
-    <length units="minutes">00:19:44</length>
+  <programme start="20261106233052 +0000" channel="sx3" stop="20261106235152 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la recerca del disc d'hipopòtam</sub-title>
+    <desc lang="ca">Després de perdre un disc de poder animal a la sabana africana, en Chris i en Martin es veuen obligats a fer les mil i una per evitar que caigui a mans de Zach Virusmàtic. T'imagines què seria capaç de fer l'inventor que fabrica robots amb animals, si tingués la tecnologia del poder animal dels germans Kratt?</desc>
+    <length units="minutes">00:21:00</length>
   </programme>
 </tv>
