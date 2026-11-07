@@ -1,90 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261106220753 +0000" channel="tv3" stop="20261107000539 +0000">
-    <title lang="ca">La gran pel·lícula</title>
-    <sub-title lang="ca">L'última sessió de Freud</sub-title>
-    <desc lang="ca">L'ÚLTIMA SESSIÓ DE FREUD 'Freud's last session'Direcció: Matt BrownGuió: Mark St. GermainProducció: 14 Sunset, LB Entertainment, Last Session Productions, M.Y.R.A. Entertainment, Subotica Entertainment LtdAny: 2023Durada: 122País: Gran BretanyaMúsica: Coby BrownFotografia: Ben SmithardIntèrprets: Matthew Goode, Anthony Hopkins, Jodi Balfour, Stephen Campbell Moore, Liv Lisa Fries, Jeremy Northam, Padraic Delaney, Rhys Mannion, Tarek Bishara, Anna Amalie BlomeyerLa Segona Guerra Mundial és a punt d'esclatar. El pare de la psicoanàlisi, Sigmund Freud, molt malalt a causa d'un càncer al paladar, convida a casa seva el famós autor C.S. Lewis. Aquests dos homes, que fins ara no s'han vist mai, però que coneixen i se segueixen l'obra mútuament, debatran grans qüestions, com ara l'existència de Déu, l'amor, el sexe i el sentit de la vida. Inevitablement, també sorgirà el tema de la naturalesa de les relacions amb altres persones, com ara la relació tan especial que hi ha entre Freud i la seva filla Anna i la relació poc convencional que manté Lewis amb la mare d'un antic company d'armes.</desc>
-    <length units="minutes">01:57:46</length>
+  <programme start="20261107043000 +0000" channel="tv3" stop="20261107051441 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Big Hollers</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:44:41</length>
   </programme>
-  <programme start="20261107000539 +0000" channel="tv3" stop="20261107015647 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">La impaciència del cor</sub-title>
-    <desc lang="ca">LA IMPACIÈNCIA DEL COR 'Kysset'Direcció: Bille AugustGuió: Bille August, Greg Latter.Producció: Cameo Film Fyn, Clausen Group, Danish Film Institute, Hungarian Tax Credit, Nordisk Film, Nordisk Film, Norwegian Film Institute, YouseeAny: 2022Durada: 116País: Dinamarca Música: Henrik SkramFotografia: Sebastian BlenkovIntèrprets: Mads Bjørn, Mathias Bøgelund, Karina Anov Chapman, Henrik Blauner Clausen, Kurt Dreyer, Jarl Forsmann, Nicolai Dahl Hamilton, Mikkel Baden Jensen, Jytte Kvinesdal, Lane Lind, Sara-Marie Maltha, Peter Michaelsen, Lars Mikkelsen, Rosalinde Mynster, Lars Phister, Clara Rosager, Lone Rødbroe, Esben Smed, Klaus Søndergaard, Lukas Toya, Thalita Beltrão Sørensen. Un jove noble té, com a prioritat, completar la seva formació com a oficial de cavalleria. Durant l'entrenament, ordena al seu escamot que ajudi el baró, qui el convida a un ball on coneix la seva filla, que ha patit un accident.</desc>
-    <length units="minutes">01:51:08</length>
+  <programme start="20261107051441 +0000" channel="tv3" stop="20261107060000 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Joan Sanmartí 'Quatre Elements'</sub-title>
+    <desc lang="ca">El guitarrista barceloní ens presenta Quatre Elements; formació en què, acompanyat de tres músics magnífics, proposa una col·lecció de composicions originals, amb el nom de 'Cruïlles'. En aquest projecte Sanmarti es concentra gairebé exclusivament en la utilització de la guitarra acústica. Els Quatre Elements són: Oriol Roca al contrabaix, Guillem Arnedo a la bateria, Marc Miralta al vibrafon i Joan Sanmartí a les guitarres.</desc>
+    <length units="minutes">00:45:19</length>
   </programme>
-  <programme start="20261106231908 +0000" channel="tv3" stop="20261106234349 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Cap Verd. Els irreductibles del cràter</sub-title>
-    <desc lang="ca">A l'illa de Fogo, a l'arxipèlag de Cap Verd, s'alça el volcà Pico. Des de fa més de dos segles, les persones conviuen amb aquest monstre de foc en una petita comunitat al peu del volcà. L'última gran erupció es va produir l'any 2014 i va ser devastadora. La lava va enterrar pràcticament totes les cases del poble. Tot i això, molts illencs van decidir tornar a instal·lar-s'hi i reconstruir el poble de mica en mica.Página 1 de 1</desc>
-    <length units="minutes">00:24:41</length>
+  <programme start="20261107041238 +0000" channel="tv3" stop="20261107043828 +0000">
+    <title lang="ca">El retorn de les lluernes</title>
+    <sub-title lang="ca">Cristina i 'El sentit d'un final'</sub-title>
+    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'El sentit d'un final' (Angle Editorial), de Julian BarnesTony Webster és ara un jubilat de vida tranquil·la, aparentment en pau amb la seva vida. Però es veurà abocat a revisar el seu passat, especialment els seus anys adolescents. Ara, passats més de quaranta anys, Tony Webster s'adona que molts fets potser no van passar com els havia recordat. Perquè la memòria és imperfecta i pot fer aflorar sorpreses. I, fins i tot, obligar-te a reinterpretar tota una vida.Cristina Fort és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats al Pallars Sobirà.</desc>
+    <length units="minutes">00:25:50</length>
   </programme>
-  <programme start="20261106234349 +0000" channel="tv3" stop="20261107000846 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">El mont Fuji. Una tradició japonesa</sub-title>
-    <desc lang="ca">El mont Fuji és molt més que un volcà: és el símbol del Japó, de la religió i de la cultura dels japonesos. Malgrat el perill, els japonesos viuen en harmonia amb aquest gegant. És la il·lustració perfecte de la mentalitat japonesa, sempre conscient de la caducitat d'un món alhora bonic i destructiu. Des de temps immemorials, el mont Fuji i el país del Sol ixent estan lligats per aquest terrible destí.</desc>
-    <length units="minutes">00:24:57</length>
+  <programme start="20261107043828 +0000" channel="tv3" stop="20261107045740 +0000">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Flashy Ice Cream</sub-title>
+    <desc lang="ca">Sneaky Flex (Arnau Sabater) i Pol Giancana porten les brides d'un dels grups més populars de l'escena urbana en català. En el seu cas, l'etiqueta del trap s'expandeix cap a altres direccions per abraçar també el dancehall i el rap. Els Flashy Ice Cream defensen ja una discografia creixent, amb dos guardons a millor disc de música urbana per la crítica als Premis Enderrock: 'Don Gelato', l'any 2021, i «Aftersun», dos anys després. Les col·laboracions, habituals en els registres en què es mouen, els han portat a viatjar fins a l'Argentina per preparar directament el disc 'Sempre joves' i treballar amb l'escena urbana local.  Pol Giancana i Sneaky Flex (Arnau Sabater) - veus Carles Turú - dissenyador, dj i 'papamanager' Lluís Lowis Borrell –baix i sinte Ricard Perpinyà -bateria Néstor Pérez -guitarra   'Alba' 'Estic bé sol' 'Glaç' 'Sant Hilari' 'Això és l'estiu' 'Boig x tu'  Localització: Creu Alta de Sabadell Dia: 17 de setembre del 2024</desc>
+    <length units="minutes">00:19:12</length>
   </programme>
-  <programme start="20261106231359 +0000" channel="tvi" stop="20261107000359 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">'Junts, però lluny d'aquí' Itsaso</sub-title>
-    <desc lang="ca">L'alba del dia 15 d'octubre portarà una ressaca de dubtes i inseguretats per a la gent d'Altsasu. Dia a dia, la bola de neu es va fent grossa i entren en una inesperada i nova realitat. Es començaran a succeir les visites de mitjans de comunicació, els interrogatoris, els viatges als jutjats…</desc>
-    <length units="minutes">00:50:00</length>
+  <programme start="20261107043000 +0000" channel="tvi" stop="20261107051441 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Big Hollers</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:44:41</length>
   </programme>
-  <programme start="20261107000359 +0000" channel="tvi" stop="20261107005401 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">'Abans era abans' Urko</sub-title>
-    <desc lang="ca">7 dels 8 joves encausats seran conduïts a la presó, adduint risc de fuga. Ells, les seves famílies i tot el seu entorn passaran moments difícils en una llarga espera fins a la data del judici, mentre veuen com els seus somnis, les seves relacions i en definitiva el seu futur, fan un gir de 180º tancats a la presó.</desc>
-    <length units="minutes">00:50:02</length>
+  <programme start="20261107051441 +0000" channel="tvi" stop="20261107060000 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Joan Sanmartí 'Quatre Elements'</sub-title>
+    <desc lang="ca">El guitarrista barceloní ens presenta Quatre Elements; formació en què, acompanyat de tres músics magnífics, proposa una col·lecció de composicions originals, amb el nom de 'Cruïlles'. En aquest projecte Sanmarti es concentra gairebé exclusivament en la utilització de la guitarra acústica. Els Quatre Elements són: Oriol Roca al contrabaix, Guillem Arnedo a la bateria, Marc Miralta al vibrafon i Joan Sanmartí a les guitarres.</desc>
+    <length units="minutes">00:45:19</length>
   </programme>
-  <programme start="20261106220500 +0000" channel="324" stop="20261106233000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2195</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:25:00</length>
-  </programme>
-  <programme start="20261106233000 +0000" channel="324" stop="20261107003000 +0000">
+  <programme start="20261107010000 +0000" channel="324" stop="20261107060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11635</sub-title>
+    <sub-title lang="ca">11636</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261107060000 +0000" channel="324" stop="20261107070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11636</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261106230023 +0000" channel="esport3" stop="20261107003113 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.</desc>
-    <length units="minutes">01:30:50</length>
+  <programme start="20261107043142 +0000" channel="esport3" stop="20261107045549 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Eder Sarabia / Prèvia Espanyol-Depor / J12</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:24:07</length>
   </programme>
-  <programme start="20261107003113 +0000" channel="esport3" stop="20261107005156 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5561</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:43</length>
+  <programme start="20261107045549 +0000" channel="esport3" stop="20261107052027 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / Seattle / 9</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <length units="minutes">00:24:38</length>
   </programme>
-  <programme start="20261106230906 +0000" channel="sx3" stop="20261106233052 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un mal dia</sub-title>
-    <desc lang="ca">Avui en Chris i en Martin ajuden un lleó que es diu 'El que respira foc' a superar tot d'obstacles i a recuperar la seguretat per protegir la seva manada. L'arribada de dos lleons mascles enormes al seu territori fa que s'encenguin totes les alarmes i que els germans Kratt hagin de fer servir tot el seu enginy per posar les coses a lloc.</desc>
-    <length units="minutes">00:21:46</length>
+  <programme start="20261107042246 +0000" channel="sx3" stop="20261107043416 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El professor Edmond</sub-title>
+    <desc lang="ca">La mare del Pico ha fet una classe a la canalla perquè aprenguin a treure's les puces rebolcant-se al fang. El Timbal no hi ha participat, perquè no li agrada ni la pudor del fang ni les classes de la mare del Pico. Aleshores, el Pico, que s'ha enfadat una mica, els diu que l'Edmund és pitjor, perquè ell no els ha fet mai cap classe. I ja s'ha embolicat la troca!</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261106233052 +0000" channel="sx3" stop="20261106235152 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A la recerca del disc d'hipopòtam</sub-title>
-    <desc lang="ca">Després de perdre un disc de poder animal a la sabana africana, en Chris i en Martin es veuen obligats a fer les mil i una per evitar que caigui a mans de Zach Virusmàtic. T'imagines què seria capaç de fer l'inventor que fabrica robots amb animals, si tingués la tecnologia del poder animal dels germans Kratt?</desc>
-    <length units="minutes">00:21:00</length>
+  <programme start="20261107043416 +0000" channel="sx3" stop="20261107044546 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El dia de la mare</sub-title>
+    <desc lang="ca">És el dia de les mares, i totes, sense excepció, es reuneixen per parlar de la seva vida quotidiana. I mentre les mares xerren, els pares preparen el menjar pel sopar i la canalla un regal per elles. La Guineta decideix fer una figura de fang per a la Marguerite, però en Gatmoll i en Gatmoix li esguerren el regal.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
 </tv>
