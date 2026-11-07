@@ -3,88 +3,99 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261107043000 +0000" channel="tv3" stop="20261107051441 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Big Hollers</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:44:41</length>
+  <programme start="20261107121647 +0000" channel="tv3" stop="20261107130735 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Paisatges de Barcelona</sub-title>
+    <desc lang="ca">La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
+    <length units="minutes">00:50:48</length>
   </programme>
-  <programme start="20261107051441 +0000" channel="tv3" stop="20261107060000 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Joan Sanmartí 'Quatre Elements'</sub-title>
-    <desc lang="ca">El guitarrista barceloní ens presenta Quatre Elements; formació en què, acompanyat de tres músics magnífics, proposa una col·lecció de composicions originals, amb el nom de 'Cruïlles'. En aquest projecte Sanmarti es concentra gairebé exclusivament en la utilització de la guitarra acústica. Els Quatre Elements són: Oriol Roca al contrabaix, Guillem Arnedo a la bateria, Marc Miralta al vibrafon i Joan Sanmartí a les guitarres.</desc>
-    <length units="minutes">00:45:19</length>
+  <programme start="20261107130735 +0000" channel="tv3" stop="20261107134559 +0000">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">El Barça torna a golejar</sub-title>
+    <desc lang="ca">Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar, tant en Lliga com en Champions. L'Alabès i l'Aston Villa han estat les víctimes.Els sabadellencs Flashy Ice Cream acomiaden el programa amb el seu nou tema 'No ho sé'.</desc>
+    <length units="minutes">00:38:24</length>
   </programme>
-  <programme start="20261107041238 +0000" channel="tv3" stop="20261107043828 +0000">
-    <title lang="ca">El retorn de les lluernes</title>
-    <sub-title lang="ca">Cristina i 'El sentit d'un final'</sub-title>
-    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'El sentit d'un final' (Angle Editorial), de Julian BarnesTony Webster és ara un jubilat de vida tranquil·la, aparentment en pau amb la seva vida. Però es veurà abocat a revisar el seu passat, especialment els seus anys adolescents. Ara, passats més de quaranta anys, Tony Webster s'adona que molts fets potser no van passar com els havia recordat. Perquè la memòria és imperfecta i pot fer aflorar sorpreses. I, fins i tot, obligar-te a reinterpretar tota una vida.Cristina Fort és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats al Pallars Sobirà.</desc>
-    <length units="minutes">00:25:50</length>
+  <programme start="20261107122721 +0000" channel="tv3" stop="20261107131348 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 16</sub-title>
+    <desc lang="ca">Us deixem un resum i repàs del que han sigut els quatre últims capítols de 'La Renaixença'. Hem parlat d'objectes, hem conegut savis per conèixer i reconegut bojos coneguts, i hem sortit a passejar quatre gossos (tot i que a en Fel no li agrada). Si us agrada el resum, mireu els capítols! I si he vist els capítols, mireu el resum, que també és divertit recordar com hem passat la setmana.</desc>
+    <length units="minutes">00:46:27</length>
   </programme>
-  <programme start="20261107043828 +0000" channel="tv3" stop="20261107045740 +0000">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Flashy Ice Cream</sub-title>
-    <desc lang="ca">Sneaky Flex (Arnau Sabater) i Pol Giancana porten les brides d'un dels grups més populars de l'escena urbana en català. En el seu cas, l'etiqueta del trap s'expandeix cap a altres direccions per abraçar també el dancehall i el rap. Els Flashy Ice Cream defensen ja una discografia creixent, amb dos guardons a millor disc de música urbana per la crítica als Premis Enderrock: 'Don Gelato', l'any 2021, i «Aftersun», dos anys després. Les col·laboracions, habituals en els registres en què es mouen, els han portat a viatjar fins a l'Argentina per preparar directament el disc 'Sempre joves' i treballar amb l'escena urbana local.  Pol Giancana i Sneaky Flex (Arnau Sabater) - veus Carles Turú - dissenyador, dj i 'papamanager' Lluís Lowis Borrell –baix i sinte Ricard Perpinyà -bateria Néstor Pérez -guitarra   'Alba' 'Estic bé sol' 'Glaç' 'Sant Hilari' 'Això és l'estiu' 'Boig x tu'  Localització: Creu Alta de Sabadell Dia: 17 de setembre del 2024</desc>
-    <length units="minutes">00:19:12</length>
+  <programme start="20261107131348 +0000" channel="tv3" stop="20261107140039 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Les manuelles</sub-title>
+    <desc lang="ca">Pocs saben què són unes manuelles, però tothom n'ha fet servir. Normalment al gimnàs, però també pujant les bosses de la compra, carregant canalla a coll (si és que un en té) o pujant i baixant mobles durant una mudança. Sí, parlem dels pesos, però que en català correcte es diuen manuelles. Ens visita un campió de raids: Nani Roma. S'ha compromès a tornar-nos a visitar si compleix un repte que li hem proposat. L'esperem! I sortim a passejar en Marvin pel primer casino del món, que va obrir les portes el 1638, a Venècia.</desc>
+    <length units="minutes">00:46:51</length>
   </programme>
-  <programme start="20261107043000 +0000" channel="tvi" stop="20261107051441 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Big Hollers</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:44:41</length>
+  <programme start="20261107125500 +0000" channel="tv3" stop="20261107143455 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- CH Mataró-HC Raxoi / OK Lliga / J2</sub-title>
+    <desc lang="ca">Les del Maresme, que es van estrenar amb una victòria al camp del Lleidanet Alpicat (0-2), reben el conjunt de Santiago de Compostel·la.</desc>
+    <length units="minutes">01:39:55</length>
   </programme>
-  <programme start="20261107051441 +0000" channel="tvi" stop="20261107060000 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Joan Sanmartí 'Quatre Elements'</sub-title>
-    <desc lang="ca">El guitarrista barceloní ens presenta Quatre Elements; formació en què, acompanyat de tres músics magnífics, proposa una col·lecció de composicions originals, amb el nom de 'Cruïlles'. En aquest projecte Sanmarti es concentra gairebé exclusivament en la utilització de la guitarra acústica. Els Quatre Elements són: Oriol Roca al contrabaix, Guillem Arnedo a la bateria, Marc Miralta al vibrafon i Joan Sanmartí a les guitarres.</desc>
-    <length units="minutes">00:45:19</length>
-  </programme>
-  <programme start="20261107010000 +0000" channel="324" stop="20261107060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11636</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20261107060000 +0000" channel="324" stop="20261107070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11636</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261107043142 +0000" channel="esport3" stop="20261107045549 +0000">
+  <programme start="20261107125000 +0000" channel="tv3" stop="20261107132955 +0000">
     <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Eder Sarabia / Prèvia Espanyol-Depor / J12</sub-title>
+    <sub-title lang="ca">- Hansi Flick / Prèvia At. Madrid-Barça / J12</sub-title>
     <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="minutes">00:24:07</length>
+    <length units="minutes">00:34:55</length>
   </programme>
-  <programme start="20261107045549 +0000" channel="esport3" stop="20261107052027 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / Seattle / 9</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
-    <length units="minutes">00:24:38</length>
+  <programme start="20261107121648 +0000" channel="tvi" stop="20261107130735 +0000">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Paisatges de Barcelona</sub-title>
+    <desc lang="ca">La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
+    <length units="minutes">00:50:47</length>
   </programme>
-  <programme start="20261107042246 +0000" channel="sx3" stop="20261107043416 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El professor Edmond</sub-title>
-    <desc lang="ca">La mare del Pico ha fet una classe a la canalla perquè aprenguin a treure's les puces rebolcant-se al fang. El Timbal no hi ha participat, perquè no li agrada ni la pudor del fang ni les classes de la mare del Pico. Aleshores, el Pico, que s'ha enfadat una mica, els diu que l'Edmund és pitjor, perquè ell no els ha fet mai cap classe. I ja s'ha embolicat la troca!</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261107130844 +0000" channel="tvi" stop="20261107133532 +0000">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Una cuinera dels Pirineus (Tardor - Hivern)</sub-title>
+    <desc lang="ca">Eva Martínez-Picó s'afanya a la cuina, ja que avui tindrà Can Jordi, el restaurant, ple de gom a gom. Mentrestant, els cavalls baixen cap a la Fira dels Mulats. És el dia que els ramaders d'Espinavell han de vendre els animals que han criat durant l'any, per poder subsistir econòmicament.L'Eva ens presenta el seu company, l'Àngel, que ens parla de la seva l'esperança que en el futur el seu fill, l'Èric, agafi el relleu com a ramader. De moment, sembla que sí, però l'economia actual no ho afavoreix gens, i de jovent que s'hi vulgui dedicar n'hi ha ben poc. A la fira treuen un bon preu dels mulats i guanyen un premi com a ramaders. De moment, l'Èric està satisfet amb el premi mentre que l'Eva pensa que ja porta la ramaderia a la sang.L'Eva veu culminada una altra de les seves propostes amb la marxa dels refugis de la capçalera del Ter destinada a fer conèixer els paisatges de la vall de Camprodon. Muntanyes que ella considera que són com el jardí de casa seva. Quan el fred s'instal·la, l'Eva i el seu pare ho aprofiten per fer turisme cultural intensiu. També fa recerques sobre la història de la Tria dels Mulats als arxius o bé se'n va d'excursió amb la seva germana pel gust de trepitjar la neu de les muntanyes.</desc>
+    <length units="minutes">00:26:48</length>
   </programme>
-  <programme start="20261107043416 +0000" channel="sx3" stop="20261107044546 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El dia de la mare</sub-title>
-    <desc lang="ca">És el dia de les mares, i totes, sense excepció, es reuneixen per parlar de la seva vida quotidiana. I mentre les mares xerren, els pares preparen el menjar pel sopar i la canalla un regal per elles. La Guineta decideix fer una figura de fang per a la Marguerite, però en Gatmoll i en Gatmoix li esguerren el regal.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261107120000 +0000" channel="324" stop="20261107143000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11639</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:30:00</length>
+  </programme>
+  <programme start="20261107143000 +0000" channel="324" stop="20261107163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7382</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261107115500 +0000" channel="esport3" stop="20261107133936 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Granada CF-RCD Espanyol / Lliga F / J10</sub-title>
+    <desc lang="ca">Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.</desc>
+    <length units="minutes">01:44:36</length>
+  </programme>
+  <programme start="20261107133936 +0000" channel="esport3" stop="20261107151142 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">CH Mataró-HC Raxoi / OK Lliga / J2</sub-title>
+    <desc lang="ca">Les del Maresme, que es van estrenar amb una victòria al camp del Lleidanet Alpicat (0-2), reben el conjunt de Santiago de Compostel·la.</desc>
+    <length units="minutes">01:32:06</length>
+  </programme>
+  <programme start="20261107125813 +0000" channel="sx3" stop="20261107132000 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Zum-zumzzzz</sub-title>
+    <desc lang="ca">El Chris i el Martin es miniaturitzen per investigar què hi ha sota el tronc d'un arbre que ha caigut. Allà, troben una salamandra afamada i, per sort, en poden fugir muntats dalt d'un borinot que els porta al seu niu, on coneixen la reina i les femelles obreres, i aprenen moltes coses d'aquest animal que està en perill d'extinció. Mentrestant, la resta del grup, que els busca, descobreix que el Zach està atrapant un munt de borinots.</desc>
+    <length units="minutes">00:21:47</length>
+  </programme>
+  <programme start="20261107132000 +0000" channel="sx3" stop="20261107134210 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Miniherois i boques gegants</sub-title>
+    <desc lang="ca">Els germans Kratt es miniaturitzen i comencen una missió amb l'amfípode per entendre millor els fonaments de la vida marina. Un cop al fons del mar, entren en una floració de plàncton que els arrossega corrent avall. Però llavors, arriba una balena geperuda i separa els germans Kratt. L'Aviva, la Koki i el Jimmy els hauran d'ajudar.</desc>
+    <length units="minutes">00:22:10</length>
   </programme>
 </tv>
