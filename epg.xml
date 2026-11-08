@@ -1,89 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261107220643 +0000" channel="tv3" stop="20261108004220 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">160</sub-title>
-    <desc lang="ca">Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González.</desc>
-    <length units="minutes">02:35:37</length>
-  </programme>
-  <programme start="20261108004220 +0000" channel="tv3" stop="20261108010158 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Oriol Genís, sense edat de jubilació</sub-title>
-    <desc lang="ca">Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.</desc>
-    <length units="minutes">00:19:38</length>
-  </programme>
-  <programme start="20261107220812 +0000" channel="tv3" stop="20261107222604 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Oriol Genís, sense edat de jubilació</sub-title>
-    <desc lang="ca">Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.</desc>
-    <length units="minutes">00:17:52</length>
-  </programme>
-  <programme start="20261107222604 +0000" channel="tv3" stop="20261107233109 +0000">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Nicaragua necessita una cançó</sub-title>
-    <desc lang="ca">'Nicaragua necessita una cançó' 2025, una producció de Contrast i Laszlo Topanich Films en coproducció amb 3Cat i el suport de l'Agència Catalana de Cooperació al Desenvolupament.El músic nicaragüenc Luis Enrique Mejía Godoy evoca des del seu segon exili a Costa Rica, com va esdevenir un dels músics més emblemàtics de la revolució sandinista (1979-1990). A punt de fer els 80 anys, Mejía Godoy prepara un gran concert a San José de Costa Rica per celebrar els seus 60 anys de carrera musical i emprèn una gira per tot l'Estat espanyol per insuflar ànims a la comunitat nicaragüenca exiliada arran de les protestes reprimides amb violència el 2018.Direcció: Miquel Carrillo PonceGuió: Jordi de Miguel Capell i Patricia Carrillo BernuyRealització: Carlos Castro García, Oriol Andrés Gallart, MiquelCarrillo Ponce i Óscar NavarreteDirector fotografia: Carlos Castro GarcíaProducció: Miquel Carrillo Ponce i Jordi de Miguel CapellSo directe: Erik VargasMuntatge: Matías Fernández i Carlos Castro GarcíaPostproducció de so: Jordi Clemente RibasGrafisme: Sergi Esgleas PascualProductor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó VilaCoordinació de continguts 3Cat: Ricard Belis GarciaProductor delegat 3Cat: Daniel Barea DelgadoLingüista: Lurdes Pons Comellas© Copyright: 3Cat, Contrast, Lazlo Topanich Films 2025</desc>
-    <length units="minutes">01:05:05</length>
-  </programme>
-  <programme start="20261107220643 +0000" channel="tvi" stop="20261108004220 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">160</sub-title>
-    <desc lang="ca">Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González.</desc>
-    <length units="minutes">02:35:37</length>
-  </programme>
-  <programme start="20261108004220 +0000" channel="tvi" stop="20261108010158 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Oriol Genís, sense edat de jubilació</sub-title>
-    <desc lang="ca">Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.</desc>
-    <length units="minutes">00:19:38</length>
-  </programme>
-  <programme start="20261107210000 +0000" channel="324" stop="20261107230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7381</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261107230000 +0000" channel="324" stop="20261108003000 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261108023302 +0000" channel="tv3" stop="20261108043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11643</sub-title>
+    <sub-title lang="ca">11644</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">01:56:58</length>
   </programme>
-  <programme start="20261107211657 +0000" channel="esport3" stop="20261107225500 +0000">
-    <title lang="ca">Billar a 3 bandes</title>
-    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
-    <length units="minutes">01:38:03</length>
+  <programme start="20261108043000 +0000" channel="tv3" stop="20261108051520 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Big Mama Montse &amp; Riqui Sabatés</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:20</length>
   </programme>
-  <programme start="20261107225500 +0000" channel="esport3" stop="20261108003119 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J12 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:36:19</length>
+  <programme start="20261108033129 +0000" channel="tv3" stop="20261108041951 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">L'intercanvi</sub-title>
+    <desc lang="ca">Per tal de recuperar el Blue Dream, un anell molt valuós, la família decideix fer xantatge al germà de la Teresa, el Nil. Si vol tornar a veure la seva germana amb vida, haurà d'entregar l'anell a canvi. Fins on serà capaç d'arribar el Manu per no confessar?</desc>
+    <length units="minutes">00:48:22</length>
   </programme>
-  <programme start="20261107220121 +0000" channel="sx3" stop="20261107221216 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Parella a la deriva</sub-title>
-    <desc lang="ca">L'avi Michel ha torna a oblidar-se de la data del seu aniversari de casament amb l'àvia Michelle, que li diu que no vol que torni a casa fins que no li faci més cas. El pare del Dad s'instal·la a casa d'ell a esperar que la situació es calmi, però les noies pensen que l'àvia no el deixarà tornar a casa si no canvia de debò. Sort que hi són elles per ajudar-lo!</desc>
-    <length units="minutes">00:10:55</length>
+  <programme start="20261108041951 +0000" channel="tv3" stop="20261108050552 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Les espardenyes</sub-title>
+    <desc lang="ca">No ets bon català si no has portat unes espardenyes en algun moment de la teva vida. Pot ser que sigui el millor calçat que podem portar? Avui els hi dediquem el capítol. Ens visita un advocat a qui totes les grans empreses deuen tenir por: l'Albert Poch, expert en dret de la competència (i que va marxar sense pagar a la cafeteria del Congrés dels Diputats). I a les 'Històries per passejar el gos' anem fins al primer incendi del Liceu amb en Salsi, un gos que encara no sabem com encara és viu.</desc>
+    <length units="minutes">00:46:01</length>
   </programme>
-  <programme start="20261107221216 +0000" channel="sx3" stop="20261107222246 +0000">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Una cita pel Dad</sub-title>
-    <desc lang="ca">Com que el Dad es deprimeix veient escenes romàntiques a la tele, les filles decideixen inscriure'l a una pàgina de cites per internet perquè pugui trobar una dona amb qui passar estones. Però cap de les candidates escollides els agrada a totes, i encara menys al Dad. I si la bona fos la caixera del supermercat? Sigui com sigui, al Dad li esperen moltes sorpreses. I una cosa és segura: l'amor no s'encarrega.</desc>
-    <length units="minutes">00:10:30</length>
+  <programme start="20261108023302 +0000" channel="tvi" stop="20261108043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11644</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:56:58</length>
+  </programme>
+  <programme start="20261108043000 +0000" channel="tvi" stop="20261108051520 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Big Mama Montse &amp; Riqui Sabatés</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:20</length>
+  </programme>
+  <programme start="20261108010000 +0000" channel="324" stop="20261108060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11644</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261108060000 +0000" channel="324" stop="20261108070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11644</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20261108023404 +0000" channel="esport3" stop="20261108042331 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Cartagena-UE Sant Andreu / Primera Federació / J11</sub-title>
+    <desc lang="ca">Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
+    <length units="minutes">01:49:27</length>
+  </programme>
+  <programme start="20261108042331 +0000" channel="esport3" stop="20261108061323 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Granada CF-RCD Espanyol / Lliga F / J10</sub-title>
+    <desc lang="ca">Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.</desc>
+    <length units="minutes">01:49:52</length>
+  </programme>
+  <programme start="20261108035539 +0000" channel="sx3" stop="20261108040539 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Un amic terrorífic</sub-title>
+    <desc lang="ca">A l'aventura poptàstica d'avui, en Plom prepara una festa de pijames terrorífica pels seus amics! Però, quan en Zip agafa por i decideix quedar-se a casa, en Plom intenta demostrar-li que les coses que fan por de vegades també poden ser divertides. Anirà com estava prevista, la festa de pijames terrorífica?</desc>
+    <length units="minutes">00:10:00</length>
+  </programme>
+  <programme start="20261108040539 +0000" channel="sx3" stop="20261108041539 +0000">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">El gran Hooperini</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, el Hooper farà un espectacle de màgia sensacional. Però ha de preparar moltes coses i té molt poc temps. Serà capaç de fer un espectacle de màgia digne de ser recordat, el Gran Hooperini?</desc>
+    <length units="minutes">00:10:00</length>
   </programme>
 </tv>
