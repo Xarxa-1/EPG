@@ -1,10 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -12,83 +9,81 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261108114520 +0000" channel="tv3" stop="20261108140500 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Barça-Río Breogán / Lliga / J7</sub-title>
-    <desc lang="ca">El conjunt barceloní i el de Lugo afronten el partit empatats a la classificació després de 4 victòries i 2 derrotes.</desc>
-    <length units="minutes">02:19:40</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261108221134 +0000" channel="tv3" stop="20261108225700 +0000">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">La meva amiga IA</sub-title>
+    <desc lang="ca">Quines relacions mantenim amb els xatbots? Quins vincles emocionals establim amb els nous acompanyants digitals, cada cop més semblants als humans? El nostre món està canviant i compartir la nostra intimitat amb la intel·ligència artificial planteja nous perills ètics. Des de relacions virtuals fins a teràpies assistides per IA, els xatbots s'estan integrant profundament en la vida emocional de les persones. En aquest reportatge, descobrim persones que veuen els seus companys digitals com a parelles, confidents o, fins i tot, terapeutes. Darrere d'aquesta sensació de confort, però, s'hi amaga una realitat inquietant. La investigació revela com els usuaris més vulnerables poden quedar exposats a orientacions perilloses, com ara consells nocius sobre la salut mental generats per bots que es fan passar per professionals. Amb les aportacions d'experts destacats, 'La meva amiga IA' explora una de les qüestions tecnològiques i socials més urgents del nostre temps: a mesura que la IA esdevé emocionalment indispensable, qui és el responsable de garantir-ne la seguretat?</desc>
+    <length units="minutes">00:45:26</length>
   </programme>
-  <programme start="20261108140500 +0000" channel="tv3" stop="20261108143000 +0000">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">1089</sub-title>
-    <desc lang="ca">El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
-    <length units="minutes">00:25:00</length>
+  <programme start="20261108225700 +0000" channel="tv3" stop="20261108235308 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">6</sub-title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="minutes">00:56:08</length>
   </programme>
-  <programme start="20261108130422 +0000" channel="tv3" stop="20261108135158 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">L'estetoscopi</sub-title>
-    <desc lang="ca">L'estetoscopi té dos punts de vista: l'estri que porten els metges penjats al coll com qui porta un collaret o aquell aparell que et posen a l'esquena o a la panxa que et fa fotre un salt de tan fred que està. Ens visita Ypnosi, un grup que a les xarxes es descriu com a post eroski psycho funk. No sabem què és, però semblen simpàtics. Interpreten 'La història', amb Arnau Tordera i Laia Glück. A 'Històries per passejar el gos', portem la Lluna a l'incendi del circ de Niterói (el Brasil), el 1961.</desc>
-    <length units="minutes">00:47:36</length>
+  <programme start="20261108220158 +0000" channel="tv3" stop="20261108225405 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Polònia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.</desc>
+    <length units="minutes">00:52:07</length>
   </programme>
-  <programme start="20261108135158 +0000" channel="tv3" stop="20261108141834 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Miners del plom</sub-title>
-    <desc lang="ca">'Quèquicom' estudia els efectes contaminants del plom, el més tou i el més pesant dels metalls comuns i que, per la seva resistència a la corrosió, ha estat molt utilitzat al llarg de la història. El programa oferirà diversos reportatges sobre el metall i entrarà en unes mines del Priorat, on va existir el poblat miner més antic de Catalunya.Miquel Piris baixarà a les mines de Bellmunt del Priorat, on investigarà els efectes contaminants del plom en les persones i en el medi ambient, guiat per Ramon Salaet, antic miner dels que picaven les vetes de galena a mà. El recorregut, el faran per la mina Eugènia, situada al poblat del Puig Roig, al Masroig, i es va trobar gràcies al descobriment casual d'una terrissa a sota d'un pi.</desc>
-    <length units="minutes">00:26:36</length>
+  <programme start="20261108225405 +0000" channel="tv3" stop="20261108234647 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Irlanda</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre viatja per la República d'Irlanda i Irlanda del Nord, tot explorant Dublín, Belfast, Cape Clear, els penya-segats de Moher, el castell d'Ashford i molt més.</desc>
+    <length units="minutes">00:52:42</length>
   </programme>
-  <programme start="20261108114523 +0000" channel="tv3" stop="20261108135839 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Barça-Río Breogán / Lliga / J7</sub-title>
-    <desc lang="ca">El conjunt barceloní i el de Lugo afronten el partit empatats a la classificació després de 4 victòries i 2 derrotes.</desc>
-    <length units="minutes">02:13:16</length>
+  <programme start="20261108220524 +0000" channel="tvi" stop="20261108223732 +0000">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">Ceuta, ciutat ostatge</sub-title>
+    <desc lang="ca">Ceuta s'ha convertit en ostatge d'una guerra híbrida, on els migrants són utilitzats com a peons d'un tauler global. La crisi humanitària, social i política continua sacsejant la ciutat autònoma.</desc>
+    <length units="minutes">00:32:08</length>
   </programme>
-  <programme start="20261108120000 +0000" channel="tvi" stop="20261108143003 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11647</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:03</length>
+  <programme start="20261108223732 +0000" channel="tvi" stop="20261108225700 +0000">
+    <title lang="ca">Una història de la literatura</title>
+    <sub-title lang="ca">Eugeni d'Ors</sub-title>
+    <desc lang="ca">Segurament pocs sabíeu que Eugeni d'Ors es va comparar amb Napoleó. Doncs ja ho sabeu! Ah i a més a més, aprendreu altres coses molt interessants com una posició sexual molt de dretes, el món i el submón de la becada, el naixement d'un nen a Tiana anomenat Leandre i la troballa d'una granja il·legal de clons de Jordi Hurtado. Podem assegurar que Empar Moliner va estar més de 15 minuts sense prendre una copeta de vi.</desc>
+    <length units="minutes">00:19:28</length>
   </programme>
-  <programme start="20261108143003 +0000" channel="tvi" stop="20261108153531 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7383</sub-title>
-    <length units="minutes">01:05:28</length>
-  </programme>
-  <programme start="20261108120000 +0000" channel="324" stop="20261108143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11647</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20261108143000 +0000" channel="324" stop="20261108163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7383</sub-title>
+  <programme start="20261108210000 +0000" channel="324" stop="20261108230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7382</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261108122437 +0000" channel="esport3" stop="20261108141436 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">HC Liceo-Barça / OK Lliga / J2</sub-title>
-    <desc lang="ca">Els gallecs es van estrenar amb una derrota a la pista del CH Caldes Recam Làser (3-1), i els catalans van superar l'Igualada Rigat HC (4-3).</desc>
-    <length units="minutes">01:49:59</length>
+  <programme start="20261108230000 +0000" channel="324" stop="20261109003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11651</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261108141436 +0000" channel="esport3" stop="20261108160000 +0000">
-    <title lang="ca">Billar a 3 bandes</title>
-    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
-    <length units="minutes">01:45:24</length>
+  <programme start="20261108205616 +0000" channel="esport3" stop="20261108225500 +0000">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">At. Madrid-Barça</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">01:58:44</length>
   </programme>
-  <programme start="20261108131412 +0000" channel="sx3" stop="20261108133649 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">La ximpanzé i jo</sub-title>
-    <desc lang="ca">El Chris està molt emocionat perquè han d'anar a fer una aventura amb un grup de ximpanzés. Però just abans de començar, es fa un esquinç al turmell i s'ha de quedar tot sol a la nau Tortuga fent repòs. Però la cosa no li anirà tan malament, perquè vindrà una cria de ximpanzé i l'ajudarà a entendre més coses d'aquests simis.</desc>
-    <length units="minutes">00:22:37</length>
+  <programme start="20261108225500 +0000" channel="esport3" stop="20261109003117 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post At. Madrid-Barça / J12</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:36:17</length>
   </programme>
-  <programme start="20261108133649 +0000" channel="sx3" stop="20261108140344 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Entrepà mediterrani - Guillem Solé</sub-title>
-    <desc lang="ca">La Paula rep la visita de Guillem Solé, cantant del grup Buhos. Com que el Guillem és de Calafell, la Paula ha pensat que pot estar bé agermanar Calafell amb Turquia al llarg del Mediterrani. Com que, a més a més, el Guillem acostuma a esmorzar un entrepà ben curiós, el vol sorprendre amb un que és típic a Turquia, el balik ekmek... un entrepà molt senzill on el verat és el protagonista. Ho acompanyaran d'una llimonada casolana i de l'enganxosa música dels Buhos.</desc>
-    <length units="minutes">00:26:55</length>
+  <programme start="20261108222251 +0000" channel="sx3" stop="20261108223326 +0000">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Veïns okupes</sub-title>
+    <desc lang="ca">Els veïns Lapraline fan obres a casa i demanen al Dad si es poden instal·lar al pis mentre les acaben. Per poder-los fer lloc, la Panda i l'Ondine hauran de compartir habitació, cosa que no els fa cap gràcia. Per mirar de guanyar-se-les, el Jérôme li ofereix a la Panda de fer pràctiques laborals treballant per ell i la Ludivine ensabona l'Ondine perquè l'ajudi a restaurar un moble.</desc>
+    <length units="minutes">00:10:35</length>
+  </programme>
+  <programme start="20261108223326 +0000" channel="sx3" stop="20261108224458 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">El lloc perfecte</sub-title>
+    <desc lang="ca">La Bertha truca la Tropa del Corral quan en Prince li pren el lloc al seu sofà preferit. Mentre part de la Tropa busca la manera de fer-lo fora de casa, la resta va a buscar la seva joguina preferida per mirar d'ajudar-los. La Tropa acaba fent malbé el sofà i la casa sencera!</desc>
+    <length units="minutes">00:11:32</length>
   </programme>
 </tv>
