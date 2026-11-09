@@ -3,88 +3,87 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261109002409 +0000" channel="tv3" stop="20261109043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11652</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">04:05:51</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261109153220 +0000" channel="tv3" stop="20261109155429 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Genoll de Crist amb papada</sub-title>
+    <desc lang="ca">Els plats més senzills surten millor quan fas servir productes de proximitat, com les mongetes genoll de Crist dels Gallecs i la papada de porc Duroc criat a la Garrotxa.</desc>
+    <length units="minutes">00:22:09</length>
   </programme>
-  <programme start="20261109043000 +0000" channel="tv3" stop="20261109051553 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">13th Magic Skull</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:53</length>
+  <programme start="20261109155429 +0000" channel="tv3" stop="20261109160347 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Bastonets de carbassó fregit</sub-title>
+    <desc lang="ca">Cansats de cuinar sempre igual el carbassó? L'Arnau París ens ensenya a fer-lo diferent: tallat en forma de bastons, arrebossat i fregit.</desc>
+    <length units="minutes">00:09:18</length>
   </programme>
-  <programme start="20261109034003 +0000" channel="tv3" stop="20261109042845 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El robatori</sub-title>
-    <desc lang="ca">Com que ni el Manu ni el Nil diuen tenir l'anell, la Mama no dubta que aquest és a la caixa forta del joier. La família planejarà un robatori per recuperar l'anell i així aconseguir el perdó de la Mama.</desc>
-    <length units="minutes">00:48:42</length>
-  </programme>
-  <programme start="20261109042845 +0000" channel="tv3" stop="20261109051626 +0000">
+  <programme start="20261109145601 +0000" channel="tv3" stop="20261109154337 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">L'ortodòncia</sub-title>
-    <desc lang="ca">Sabeu que l'ortodòncia es va inventar fa més de 9.000 anys i que els egipcis ja portaven filferros d'or per mantenir les dents al seu lloc? Doncs per això hem decidit dedicar aquest capítol a l'ortodòncia. Ens visita en Pere Alzina, un biòleg especialitzat en ocells a qui posem a prova per si de veritat en sap tant. Però no només això, sinó que també els imita! I ens en fa una demostració. A 'Històries per passejar el gos' anem amb en Tor fins a un dia tràgic: la mort del mag Wellington.</desc>
-    <length units="minutes">00:47:41</length>
+    <sub-title lang="ca">L'estetoscopi</sub-title>
+    <desc lang="ca">L'estetoscopi té dos punts de vista: l'estri que porten els metges penjats al coll com qui porta un collaret o aquell aparell que et posen a l'esquena o a la panxa que et fa fotre un salt de tan fred que està. Ens visita Ypnosi, un grup que a les xarxes es descriu com a post eroski psycho funk. No sabem què és, però semblen simpàtics. Interpreten 'La història', amb Arnau Tordera i Laia Glück. A 'Històries per passejar el gos', portem la Lluna a l'incendi del circ de Niterói (el Brasil), el 1961.</desc>
+    <length units="minutes">00:47:36</length>
   </programme>
-  <programme start="20261109002409 +0000" channel="tvi" stop="20261109043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11652</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">04:05:51</length>
+  <programme start="20261109154337 +0000" channel="tv3" stop="20261109161454 +0000">
+    <title lang="ca">QuèQui</title>
+    <sub-title lang="ca">La fisíca de la Copa Amèrica</sub-title>
+    <desc lang="ca">L'any 2024 Barcelona és la seu de la Copa Amèrica, la competició nàutica, i de fet la competició en general, més antiga que se celebra, ja que es remunta a fa 150 anys (1870). És, per tant, 30 anys més antiga que els Jocs Olímpics de l'era moderna. Aquesta competició té molt prestigi, se n'hi diu la F1 de la vela, ja que s'hi inverteixen sumes milionàries i es dissenyen prototips innovadors que després s'acaben transferir a la navegació de lleure. Els dissenys d'aquesta edició milloren els foils introduïts en l'edició anterior, una mena d'ales que els permeten 'volar' per damunt de l'aigua a una velocitat fins a 3 vegades superior a la del vent. Com és això possible? En aquest capítol entendrem la aerodinàmica i la hidrodinàmica, dels vaixells de vela més ràpids del món.</desc>
+    <length units="minutes">00:31:17</length>
   </programme>
-  <programme start="20261109043000 +0000" channel="tvi" stop="20261109051553 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">- 13th Magic Skull</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:45:53</length>
+  <programme start="20261109153220 +0000" channel="tvi" stop="20261109155429 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Genoll de Crist amb papada</sub-title>
+    <desc lang="ca">Els plats més senzills surten millor quan fas servir productes de proximitat, com les mongetes genoll de Crist dels Gallecs i la papada de porc Duroc criat a la Garrotxa.</desc>
+    <length units="minutes">00:22:09</length>
   </programme>
-  <programme start="20261109010000 +0000" channel="324" stop="20261109060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11652</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261109155429 +0000" channel="tvi" stop="20261109160347 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Bastonets de carbassó fregit</sub-title>
+    <desc lang="ca">Cansats de cuinar sempre igual el carbassó? L'Arnau París ens ensenya a fer-lo diferent: tallat en forma de bastons, arrebossat i fregit.</desc>
+    <length units="minutes">00:09:18</length>
   </programme>
-  <programme start="20261109060000 +0000" channel="324" stop="20261109080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11653</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261109143000 +0000" channel="324" stop="20261109163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7384</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261109032554 +0000" channel="esport3" stop="20261109051306 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
-    <desc lang="ca">Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
-    <length units="minutes">01:47:12</length>
+  <programme start="20261109163000 +0000" channel="324" stop="20261109170000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11656</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261109051306 +0000" channel="esport3" stop="20261109053308 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5563</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:02</length>
+  <programme start="20261109150616 +0000" channel="esport3" stop="20261109160308 +0000">
+    <title lang="ca">La travessa</title>
+    <sub-title lang="ca">La crida</sub-title>
+    <desc lang="ca">La primera regla de tota aventura és estar preparat per a qualsevol imprevist. I, si és al mig del mar, encara més. De seguida descobriran que el fred pot ser el seu pitjor rival, perquè només els més valents s'atreveixen a nedar i remar en ple hivern. Ells i elles són els escollits per protagonitzar una contrarellotge que els portarà al límit de les seves forces. I, a 'La travessa', qualsevol dubte, qualsevol error, els pot deixar enrere. Deu parelles han començat aquest viatge, però quantes en quedaran, quan acabi el dia?</desc>
+    <length units="minutes">00:56:52</length>
   </programme>
-  <programme start="20261109041626 +0000" channel="sx3" stop="20261109042654 +0000">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Missió poptortuga</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, el Hooper troba una poptortuga a la platja! Hi ha post uns ous que estan a punt d'obrir-se, però la mare no hi és. Podran aconseguir que torni a temps, els nostres amics?</desc>
-    <length units="minutes">00:10:28</length>
+  <programme start="20261109160308 +0000" channel="esport3" stop="20261109170018 +0000">
+    <title lang="ca">La travessa</title>
+    <sub-title lang="ca">El joc</sub-title>
+    <desc lang="ca">Després de les primeres expulsions, tothom té clar quins són els seus rivals directes. Eliminar-los no depèn només de la força, sinó també de l'estratègia. Perquè, a 'La travessa', saber jugar les cartes quan toca i com toca pot marcar la diferència. Alguns ho entendran de seguida; per a d'altres, quan ho entenguin, ja serà massa tard. El que està clar és que ningú està fora de perill.</desc>
+    <length units="minutes">00:57:10</length>
   </programme>
-  <programme start="20261109042654 +0000" channel="sx3" stop="20261109043849 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">En Timbal, l'heroi</sub-title>
-    <desc lang="ca">En Timbal pensa que els seus amics del bosc no acaben de reconèixer la seva valentia, perquè sempre és en Pinxo qui fa les coses extraordinàries i qui s'endú tots els elogis i les felicitacions. Cansat d'aquesta situació, en Timbal decideix fer una gran proesa, perquè finalment els seus amics vegin que ell també pot ser un heroi.</desc>
-    <length units="minutes">00:11:55</length>
+  <programme start="20261109152545 +0000" channel="sx3" stop="20261109154618 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">La primera part del viatge</sub-title>
+    <desc lang="ca">La Bulma i en Son Goku fan quilòmetres fins que es fa fosc. Ella fa una casa amb una altra de les càpsules i en Son Goku es pensa que és una bruixa. Un cop dins, la Bulma banya en Son Goku i s'adona que la cua del nen no és un adorn extravagant, tal com havia cregut, sinó una cua de veritat. En Son Goku entra al lavabo mentre la Bulma es banya i li pregunta per què té un segon darrere al pit. La Bulma li explica que no és un darrere, que, justament, es diuen 'pits' i li clava una escridassada i li llança una ampolla de xampú al cap. En Son Goku constata que la Bulma menja coses molt estranyes i surt a caçar-se el sopar. Topa amb dos dels agents del malvat emperador Pilaf que també busquen les Boles de Drac. En Son Goku caça un llop i se'l fa a l'ast. Ja amb la panxa plena, torna a la casa-càpsula i se'n va a dormir. Es desperta en plena nit i recorda amb enyorança que, de més petit, feia servir el seu avi de coixí. Intenta fer el mateix posant el cap entre les cames de la Bulma i s'adona que hi ha alguna diferència anatòmica. Li treu les calces a la noia per inspeccionar-la detingudament i queda horroritzat en veure que li falta una cosa. La Bulma es desperta alarmada pel crit d'en Son Goku, però de seguida comprova que no falta cap bola de drac. Finalment es fa de dia i en Son Goku surt a fer una mica d'exercici. Troba la tortuga marina Umigame, que ja fa un any que es va perdre i demana a en Son Goku que l'ajudi a tornar a casa. En Son Goku hi accedeix i la Bulma, que sap que, si no vol renunciar a la Bola de Drac d'en Son Goku, no li queda altre remei, els acompanya.</desc>
+    <length units="minutes">00:20:33</length>
+  </programme>
+  <programme start="20261109154618 +0000" channel="sx3" stop="20261109160546 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">Els núvols del Follet Tortuga</sub-title>
+    <desc lang="ca">En Son Goku porta Umigame cap al mar. Topen amb un monstre que els ataca amb una espasa, però en Son Goku el derrota fàcilment. Finalment, en Son Goku i la Bulma arriben al mar, i Umigame els diu que s'esperin, que va a buscar un amic. En Son Goku queda meravellat per la quantitat d'aigua que hi ha en el 'gran riu'. La Bulma s'ho passa molt bé jugant a la sorra. Umigame torna amb un curios ermità a sobre la closca. La tortuga explica al Follet Tortuga que en Son Goku l'ha ajudat a tornar al mar, i aquest, com a premi, dóna a en Son Goku el núvol Kinton, que només transporta persones de cor pur. La Bulma veu que l'ancià té una Bola de Drac i li demana que la hi doni, però el Follet Tortuga vol alguna cosa a canvi. La Bulma s'aixeca les faldilles creient que li ensenyarà les calces però, és clar, en Goku les hi ha tret durant la nit. El Follet Tortuga, molt agraït, li dóna la Bola de Drac.</desc>
+    <length units="minutes">00:19:28</length>
   </programme>
 </tv>
