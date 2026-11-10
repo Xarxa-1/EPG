@@ -1,90 +1,87 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261110013023 +0000" channel="tv3" stop="20261110031258 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2196</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:42:35</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261110143000 +0000" channel="tv3" stop="20261110153011 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7385</sub-title>
+    <length units="minutes">01:00:11</length>
   </programme>
-  <programme start="20261110031258 +0000" channel="tv3" stop="20261110043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11661</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:17:02</length>
+  <programme start="20261110153011 +0000" channel="tv3" stop="20261110155112 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cigrons negres amb musclos</sub-title>
+    <desc lang="ca">Avui fem una recepta amb uns cigrons recuperats, els cigrons negres! Els cigrons sempre ens diuen que sí a tot! I avui Marc Ribas els prepara amb tripa de bacallà i musclos. La terra i el mar s'ajunten per donar-nos un plat exquisit!</desc>
+    <length units="minutes">00:21:01</length>
   </programme>
-  <programme start="20261110013433 +0000" channel="tv3" stop="20261110020012 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Les illes Canàries. Els prodigis de l'enginy</sub-title>
-    <desc lang="ca">A les Canàries s'ha entrellaçat un fèrtil diàleg al llarg dels segles entre els illencs i els volcans. Les muntanyes de foc engendren, canvien i afaiçonen aquest territori en moviment perpetu, però els illencs domestiquen les forces tel·lúriques i en treuen el millor profit. En aquest arxipèlag escombrat pels vents, els illencs i els volcans canten a cor la història que els uneix.</desc>
-    <length units="minutes">00:25:39</length>
+  <programme start="20261110140529 +0000" channel="tv3" stop="20261110145237 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La lligacama</sub-title>
+    <desc lang="ca">Sabeu que la lligacama servia per aguantar les mitges i mitjons de tothom durant l'edat mitjana? Fins al segle XX no eren elàstics i queien. Tot tan sensual com la imatge que en tenim avui dia. Dediquem el capítol a la lligacama. Ve a veure'ns Litus Ballbé, un exjugador professional d'hoquei herba que va decidir deixar-ho tot per ordenar-se capellà. Dels Jocs Olímpics de Londres 2012 a l'església. Sortim a passejar la Guspi fins al sisme de la Candelera. No anem gaire lluny, perquè va passar a Queralbs... però l'any 1428.</desc>
+    <length units="minutes">00:47:08</length>
   </programme>
-  <programme start="20261110020012 +0000" channel="tv3" stop="20261110022453 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Cap Verd. Els irreductibles del cràter</sub-title>
-    <desc lang="ca">A l'illa de Fogo, a l'arxipèlag de Cap Verd, s'alça el volcà Pico. Des de fa més de dos segles, les persones conviuen amb aquest monstre de foc en una petita comunitat al peu del volcà. L'última gran erupció es va produir l'any 2014 i va ser devastadora. La lava va enterrar pràcticament totes les cases del poble. Tot i això, molts illencs van decidir tornar a instal·lar-s'hi i reconstruir el poble de mica en mica.Página 1 de 1</desc>
-    <length units="minutes">00:24:41</length>
+  <programme start="20261110145237 +0000" channel="tv3" stop="20261110153747 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 17</sub-title>
+    <desc lang="ca">En una setmana hem descobert què són les manuelles, per què ens agrada tant anar amb pijama, com és de fred l'estetoscopi i quina era la primera funció de la lligacama. Hem xerrat amb Nani Roma, pilot de raids; Josep Alcover, exsoldador submarí i escriptor; Ypnosi, un grup de música emergent; i Litus Ballbé, un exjugador professional d'hoquei herba que va penjar l'estic per ordenar-se capellà. Aquí trobareu un resum del que han sigut aquests últims programes, que també podeu recuperar sencers.</desc>
+    <length units="minutes">00:45:10</length>
   </programme>
-  <programme start="20261110013023 +0000" channel="tvi" stop="20261110031258 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2196</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:42:35</length>
+  <programme start="20261110143000 +0000" channel="tvi" stop="20261110153011 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7385</sub-title>
+    <length units="minutes">01:00:11</length>
   </programme>
-  <programme start="20261110031258 +0000" channel="tvi" stop="20261110043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11661</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:17:02</length>
+  <programme start="20261110153011 +0000" channel="tvi" stop="20261110155112 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cigrons negres amb musclos</sub-title>
+    <desc lang="ca">Avui fem una recepta amb uns cigrons recuperats, els cigrons negres! Els cigrons sempre ens diuen que sí a tot! I avui Marc Ribas els prepara amb tripa de bacallà i musclos. La terra i el mar s'ajunten per donar-nos un plat exquisit!</desc>
+    <length units="minutes">00:21:01</length>
   </programme>
-  <programme start="20261110010000 +0000" channel="324" stop="20261110060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11661</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20261110060000 +0000" channel="324" stop="20261110080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11662</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261110143000 +0000" channel="324" stop="20261110163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7385</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261110005305 +0000" channel="esport3" stop="20261110022718 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Ferminator; Mayola Academy i 'El colegiado'</sub-title>
-    <desc lang="ca">Xavi Torres, Carles Fité, Aina Cerdà i Jordi Martí comenten el gran partit de Fermín al Metropolitano. En Marc Mayola analitza alguns aspectes tàctics del partit i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">01:34:13</length>
+  <programme start="20261110163000 +0000" channel="324" stop="20261110170000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11665</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261110022718 +0000" channel="esport3" stop="20261110024519 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5564</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:18:01</length>
+  <programme start="20261110140206 +0000" channel="esport3" stop="20261110160450 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">3281</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="minutes">02:02:44</length>
   </programme>
-  <programme start="20261110014520 +0000" channel="sx3" stop="20261110020459 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Recerca a la neu!</sub-title>
-    <desc lang="ca">Les nevades obliguen el Professor Cirerer a tancar temporalment el laboratori per fer-hi reparacions, i demana a l'Ash i al Goh que vagin a passar uns dies a casa seva. El Goh s'alegra de veure l'àvia, però decideix anar a veure els seus pares, que estan ocupats treballant. Mentre travessa el parc, troba uns Mankey que molesten un Cubone i li roben un os. Com que el Goh veu el petit Pokémon tan desesperat, decideix ajudar-lo. Llavors també arriba l'Ash i, amb l'ajuda dels seus Pokémon, els nostres herois aconseguiran recuperar l'os. El Cubone, abans tan solitari, està agraït al Goh i li demana que el capturi perquè pugui formar part del seu equip.</desc>
-    <length units="minutes">00:19:39</length>
+  <programme start="20261110160450 +0000" channel="esport3" stop="20261110170117 +0000">
+    <title lang="ca">La travessa</title>
+    <sub-title lang="ca">La batalla</sub-title>
+    <desc lang="ca">Competir per equips pot ser més difícil del que sembla. Cal coordinació, confiança, assignar bé les tasques… i, sobretot, saber triar els companys de viatge. Què pesarà més: l'amistat o l'estratègia? S'ho hauran de rumiar molt bé, perquè un mal càlcul els pot enviar cap a casa abans d'hora. A vegades, a la vida, no queda més remei que plantar cara i lluitar per guanyar la batalla. Encara que això els posi al límit de les seves forces… i dels seus principis.</desc>
+    <length units="minutes">00:56:27</length>
   </programme>
-  <programme start="20261110020459 +0000" channel="sx3" stop="20261110022606 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Els Sapotis</sub-title>
-    <desc lang="ca">La Marinette i l'Alya es queden de cangurs de les germanetes d'aquesta última, però les bessones tenen moltes ganes de gresca i no se'n volen anar a dormir. Al final l'Alya les ha de renyar, i la ràbia que senten l'aprofita l'Esfinx per convertir-les en una mena de follets burletes que no fan cas de ningú.</desc>
-    <length units="minutes">00:21:07</length>
+  <programme start="20261110144921 +0000" channel="sx3" stop="20261110150908 +0000">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">El Pirata Patrici! En Cavendish!</sub-title>
+    <desc lang="ca">Una jove gladiadora li explica a en Ruffy la història del guerrer més fort que ha lluitat mai al coliseu. Un lluitador emmascarat arrasa literalment amb la competència. I l'Armada fa sentir la seva presència!</desc>
+    <length units="minutes">00:19:47</length>
+  </programme>
+  <programme start="20261110150908 +0000" channel="sx3" stop="20261110153107 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">Oolong, el segrestador</sub-title>
+    <desc lang="ca">La Bulma i en Goku arriben a un poble que sembla desert. Mentre busquen els veïns per preguntar-los si tenen alguna Bola de Drac, en Goku és atacat per un home que li trenca una destral pel cap. De seguida descobreixen per què està desert, el poble. Hi ha un terrible monstre que se n'endú les noies. La Bulma proposa un pacte: si en Goku captura l'Oolong, els veïns del poble li donaran la seva bola de drac. En Goku es disfressa de noia per intentar descobrir on és el cau secret d'Oolong, però la bèstia el sorprèn mentre fa pipí al mig del bosc. Finalment, en Goku redueix Oolong, rescata les noies del poble i aconsegueix la Bola de Drac. En realitat, l'Oolong no tenia les noies empresonades, sinó que les tractava com a reines i les alimentava molt bé. Tampoc era el gran mostre que semblava ser, sinó que és un porquet que té capacitat per a transformar-se en qualsevol cosa.</desc>
+    <length units="minutes">00:21:59</length>
   </programme>
 </tv>
