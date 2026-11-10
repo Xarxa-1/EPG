@@ -1,87 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261110143000 +0000" channel="tv3" stop="20261110153011 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7385</sub-title>
-    <length units="minutes">01:00:11</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261110231347 +0000" channel="tv3" stop="20261110235950 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2197</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:46:03</length>
   </programme>
-  <programme start="20261110153011 +0000" channel="tv3" stop="20261110155112 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cigrons negres amb musclos</sub-title>
-    <desc lang="ca">Avui fem una recepta amb uns cigrons recuperats, els cigrons negres! Els cigrons sempre ens diuen que sí a tot! I avui Marc Ribas els prepara amb tripa de bacallà i musclos. La terra i el mar s'ajunten per donar-nos un plat exquisit!</desc>
-    <length units="minutes">00:21:01</length>
-  </programme>
-  <programme start="20261110140529 +0000" channel="tv3" stop="20261110145237 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La lligacama</sub-title>
-    <desc lang="ca">Sabeu que la lligacama servia per aguantar les mitges i mitjons de tothom durant l'edat mitjana? Fins al segle XX no eren elàstics i queien. Tot tan sensual com la imatge que en tenim avui dia. Dediquem el capítol a la lligacama. Ve a veure'ns Litus Ballbé, un exjugador professional d'hoquei herba que va decidir deixar-ho tot per ordenar-se capellà. Dels Jocs Olímpics de Londres 2012 a l'església. Sortim a passejar la Guspi fins al sisme de la Candelera. No anem gaire lluny, perquè va passar a Queralbs... però l'any 1428.</desc>
-    <length units="minutes">00:47:08</length>
-  </programme>
-  <programme start="20261110145237 +0000" channel="tv3" stop="20261110153747 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 17</sub-title>
-    <desc lang="ca">En una setmana hem descobert què són les manuelles, per què ens agrada tant anar amb pijama, com és de fred l'estetoscopi i quina era la primera funció de la lligacama. Hem xerrat amb Nani Roma, pilot de raids; Josep Alcover, exsoldador submarí i escriptor; Ypnosi, un grup de música emergent; i Litus Ballbé, un exjugador professional d'hoquei herba que va penjar l'estic per ordenar-se capellà. Aquí trobareu un resum del que han sigut aquests últims programes, que també podeu recuperar sencers.</desc>
-    <length units="minutes">00:45:10</length>
-  </programme>
-  <programme start="20261110143000 +0000" channel="tvi" stop="20261110153011 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7385</sub-title>
-    <length units="minutes">01:00:11</length>
-  </programme>
-  <programme start="20261110153011 +0000" channel="tvi" stop="20261110155112 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cigrons negres amb musclos</sub-title>
-    <desc lang="ca">Avui fem una recepta amb uns cigrons recuperats, els cigrons negres! Els cigrons sempre ens diuen que sí a tot! I avui Marc Ribas els prepara amb tripa de bacallà i musclos. La terra i el mar s'ajunten per donar-nos un plat exquisit!</desc>
-    <length units="minutes">00:21:01</length>
-  </programme>
-  <programme start="20261110143000 +0000" channel="324" stop="20261110163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7385</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261110163000 +0000" channel="324" stop="20261110170000 +0000">
+  <programme start="20261110235950 +0000" channel="tv3" stop="20261111060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11665</sub-title>
+    <sub-title lang="ca">11670</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">06:00:10</length>
+  </programme>
+  <programme start="20261110231248 +0000" channel="tv3" stop="20261110234705 +0000">
+    <title lang="ca">EL MÓN DE PEPE RUBIANES</title>
+    <sub-title lang="ca">- ASHÉ MASSAI</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:34:17</length>
+  </programme>
+  <programme start="20261110234705 +0000" channel="tv3" stop="20261110235314 +0000">
+    <title lang="ca">GRAN!</title>
+    <sub-title lang="ca">- Albert Pla: 'Ho sento molt'</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:06:09</length>
+  </programme>
+  <programme start="20261110231346 +0000" channel="tvi" stop="20261110235950 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2197</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">00:46:04</length>
+  </programme>
+  <programme start="20261110235950 +0000" channel="tvi" stop="20261111060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11670</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">06:00:10</length>
+  </programme>
+  <programme start="20261110220500 +0000" channel="324" stop="20261111000000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2197</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:55:00</length>
+  </programme>
+  <programme start="20261111000000 +0000" channel="324" stop="20261111003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11669</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261110140206 +0000" channel="esport3" stop="20261110160450 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">3281</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="minutes">02:02:44</length>
+  <programme start="20261110225951 +0000" channel="esport3" stop="20261110235950 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Pànic al virus FIFA; Julián es devalua i 'Onzeclopèdia'</sub-title>
+    <desc lang="ca">Sique Rodríguez, Fernando Polo, Laia Tudel i Ivan San Antonio tremolen amb la possibilitat que algun jugador del Barça es lesioni a l'aturada de seleccions. En Fran Domènech presenta les portades més curioses de la premsa esportiva.</desc>
+    <length units="minutes">00:59:59</length>
   </programme>
-  <programme start="20261110160450 +0000" channel="esport3" stop="20261110170117 +0000">
-    <title lang="ca">La travessa</title>
-    <sub-title lang="ca">La batalla</sub-title>
-    <desc lang="ca">Competir per equips pot ser més difícil del que sembla. Cal coordinació, confiança, assignar bé les tasques… i, sobretot, saber triar els companys de viatge. Què pesarà més: l'amistat o l'estratègia? S'ho hauran de rumiar molt bé, perquè un mal càlcul els pot enviar cap a casa abans d'hora. A vegades, a la vida, no queda més remei que plantar cara i lluitar per guanyar la batalla. Encara que això els posi al límit de les seves forces… i dels seus principis.</desc>
-    <length units="minutes">00:56:27</length>
+  <programme start="20261110235950 +0000" channel="esport3" stop="20261111060000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2197</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">06:00:10</length>
   </programme>
-  <programme start="20261110144921 +0000" channel="sx3" stop="20261110150908 +0000">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">El Pirata Patrici! En Cavendish!</sub-title>
-    <desc lang="ca">Una jove gladiadora li explica a en Ruffy la història del guerrer més fort que ha lluitat mai al coliseu. Un lluitador emmascarat arrasa literalment amb la competència. I l'Armada fa sentir la seva presència!</desc>
-    <length units="minutes">00:19:47</length>
+  <programme start="20261110233149 +0000" channel="sx3" stop="20261110235250 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">La llengua dels dofins</sub-title>
+    <desc lang="ca">L'Aviva ja té a punt el primer invent que ha fet mai amb el llenguatge dels animals: el Descodificador dels Dofins. Ara només cal desxifrar els sons i les paraules del dolfinès i incorporar-los al vestit de poder dofí. Evidentment, se n'encarregaran en Martin i en Chris, que ja són a l'Amfípode amb ganes d'entendre's amb els dofins mulars.</desc>
+    <length units="minutes">00:21:01</length>
   </programme>
-  <programme start="20261110150908 +0000" channel="sx3" stop="20261110153107 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">Oolong, el segrestador</sub-title>
-    <desc lang="ca">La Bulma i en Goku arriben a un poble que sembla desert. Mentre busquen els veïns per preguntar-los si tenen alguna Bola de Drac, en Goku és atacat per un home que li trenca una destral pel cap. De seguida descobreixen per què està desert, el poble. Hi ha un terrible monstre que se n'endú les noies. La Bulma proposa un pacte: si en Goku captura l'Oolong, els veïns del poble li donaran la seva bola de drac. En Goku es disfressa de noia per intentar descobrir on és el cau secret d'Oolong, però la bèstia el sorprèn mentre fa pipí al mig del bosc. Finalment, en Goku redueix Oolong, rescata les noies del poble i aconsegueix la Bola de Drac. En realitat, l'Oolong no tenia les noies empresonades, sinó que les tractava com a reines i les alimentava molt bé. Tampoc era el gran mostre que semblava ser, sinó que és un porquet que té capacitat per a transformar-se en qualsevol cosa.</desc>
-    <length units="minutes">00:21:59</length>
+  <programme start="20261110235250 +0000" channel="sx3" stop="20261111001350 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Aquagranota</sub-title>
+    <desc lang="ca">Tot estudiant les granotes bramadores, en Martin i en Chris descobreixen que en Zach Virusmàtic ha contaminat el riu i ha posat en perill tot el seu cicle vital. Per salvar tota la fauna dels residus tòxics, els germans Kratt hauran d'activar el poder de granota, però hauran de passar per tot el seu cicle biològic. I això vol dir que començaran sent capgrossos!</desc>
+    <length units="minutes">00:21:00</length>
   </programme>
 </tv>
