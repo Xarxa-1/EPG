@@ -1,90 +1,89 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261110231347 +0000" channel="tv3" stop="20261110235950 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2197</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:46:03</length>
-  </programme>
-  <programme start="20261110235950 +0000" channel="tv3" stop="20261111060000 +0000">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261110235953 +0000" channel="tv3" stop="20261111060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11670</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">06:00:10</length>
+    <length units="minutes">06:00:07</length>
   </programme>
-  <programme start="20261110231248 +0000" channel="tv3" stop="20261110234705 +0000">
-    <title lang="ca">EL MÓN DE PEPE RUBIANES</title>
-    <sub-title lang="ca">- ASHÉ MASSAI</sub-title>
+  <programme start="20261111060000 +0000" channel="tv3" stop="20261111080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11671</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261110235954 +0000" channel="tv3" stop="20261111060000 +0000">
+    <title lang="ca">Emissió de TV3 per C33</title>
+    <sub-title lang="ca">0</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:34:17</length>
+    <length units="minutes">06:00:06</length>
   </programme>
-  <programme start="20261110234705 +0000" channel="tv3" stop="20261110235314 +0000">
-    <title lang="ca">GRAN!</title>
-    <sub-title lang="ca">- Albert Pla: 'Ho sento molt'</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:06:09</length>
+  <programme start="20261111060000 +0000" channel="tv3" stop="20261111060345 +0000">
+    <title lang="ca">Videoclips</title>
+    <sub-title lang="ca">Intana - Què vols de mi</sub-title>
+    <length units="minutes">00:03:45</length>
   </programme>
-  <programme start="20261110231346 +0000" channel="tvi" stop="20261110235950 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2197</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">00:46:04</length>
-  </programme>
-  <programme start="20261110235950 +0000" channel="tvi" stop="20261111060000 +0000">
+  <programme start="20261110235926 +0000" channel="tvi" stop="20261111060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11670</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">06:00:10</length>
+    <length units="minutes">06:00:34</length>
   </programme>
-  <programme start="20261110220500 +0000" channel="324" stop="20261111000000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2197</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:55:00</length>
-  </programme>
-  <programme start="20261111000000 +0000" channel="324" stop="20261111003000 +0000">
+  <programme start="20261111060000 +0000" channel="tvi" stop="20261111080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11669</sub-title>
+    <sub-title lang="ca">11671</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261110225951 +0000" channel="esport3" stop="20261110235950 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Pànic al virus FIFA; Julián es devalua i 'Onzeclopèdia'</sub-title>
-    <desc lang="ca">Sique Rodríguez, Fernando Polo, Laia Tudel i Ivan San Antonio tremolen amb la possibilitat que algun jugador del Barça es lesioni a l'aturada de seleccions. En Fran Domènech presenta les portades més curioses de la premsa esportiva.</desc>
-    <length units="minutes">00:59:59</length>
+  <programme start="20261111010000 +0000" channel="324" stop="20261111060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11670</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261110235950 +0000" channel="esport3" stop="20261111060000 +0000">
-    <title lang="ca">Mésnit</title>
+  <programme start="20261111060000 +0000" channel="324" stop="20261111080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11671</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261110235954 +0000" channel="esport3" stop="20261111060000 +0000">
+    <title lang="ca">Emissió de TV3 per ES3</title>
     <sub-title lang="ca">2197</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">06:00:10</length>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">06:00:06</length>
   </programme>
-  <programme start="20261110233149 +0000" channel="sx3" stop="20261110235250 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">La llengua dels dofins</sub-title>
-    <desc lang="ca">L'Aviva ja té a punt el primer invent que ha fet mai amb el llenguatge dels animals: el Descodificador dels Dofins. Ara només cal desxifrar els sons i les paraules del dolfinès i incorporar-los al vestit de poder dofí. Evidentment, se n'encarregaran en Martin i en Chris, que ja són a l'Amfípode amb ganes d'entendre's amb els dofins mulars.</desc>
-    <length units="minutes">00:21:01</length>
+  <programme start="20261111060000 +0000" channel="esport3" stop="20261112003000 +0000">
+    <title lang="ca">Emissió de TV3 per ES3</title>
+    <sub-title lang="ca">0</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">18:30:00</length>
   </programme>
-  <programme start="20261110235250 +0000" channel="sx3" stop="20261111001350 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Aquagranota</sub-title>
-    <desc lang="ca">Tot estudiant les granotes bramadores, en Martin i en Chris descobreixen que en Zach Virusmàtic ha contaminat el riu i ha posat en perill tot el seu cicle vital. Per salvar tota la fauna dels residus tòxics, els germans Kratt hauran d'activar el poder de granota, però hauran de passar per tot el seu cicle biològic. I això vol dir que començaran sent capgrossos!</desc>
-    <length units="minutes">00:21:00</length>
+  <programme start="20261111042037 +0000" channel="sx3" stop="20261111043231 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Malalt de mentida</sub-title>
+    <desc lang="ca">La família Teixó-Guineu està recollint les provisions per a l'hivern i ha de carretejar un munt de caixes. En Pinxo, quan veu que la Trufa agafa tos i l'Edmond l'envia al llit, decideix fer-se passar per malalt per ficar-se al llit i no haver de treballar. En vista de l'èxit que té, tots els seus germans intenten fer el mateix.</desc>
+    <length units="minutes">00:11:54</length>
+  </programme>
+  <programme start="20261111043231 +0000" channel="sx3" stop="20261111044401 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Un espectacle preciós</sub-title>
+    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
 </tv>
