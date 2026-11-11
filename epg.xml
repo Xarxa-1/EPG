@@ -1,89 +1,87 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261110235953 +0000" channel="tv3" stop="20261111060000 +0000">
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261111120000 +0000" channel="tv3" stop="20261111143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11670</sub-title>
+    <sub-title lang="ca">11674</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">06:00:07</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261111060000 +0000" channel="tv3" stop="20261111080000 +0000">
+  <programme start="20261111143000 +0000" channel="tv3" stop="20261111152000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7386</sub-title>
+    <length units="minutes">00:50:00</length>
+  </programme>
+  <programme start="20261111135451 +0000" channel="tv3" stop="20261111144118 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El flotador</sub-title>
+    <desc lang="ca">El flotador és d'aquells objectes que podem fer servir en totes les etapes: quan aprens a nedar, quan t'han de salvar si et ve una rampa al mig de la piscina, quan ets gran (o no has après mai a nedar)... El flotador ens salva la vida, sempre. Per això li dediquem aquest capítol. Ens visita en Dídac Costa, un expert en patí català que ha fet la volta al món, i que ara se'n va a fer una ruta per la Patagònia xilena. Sortim a passejar amb la Gin per la guerra del Porc, el 1859.</desc>
+    <length units="minutes">00:46:27</length>
+  </programme>
+  <programme start="20261111144118 +0000" channel="tv3" stop="20261111152820 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La clau</sub-title>
+    <desc lang="ca">Hi ha una associació o un sindicat d'afectats per haver-se gastat més de 50?&amp;euro; en serrallers per deixar-se les claus a dins de casa? També hi ha la versió prèmium: els que es deixen la clau posada per dins. Avui dediquem el capítol a la clau. Parlem amb la Maria Jesús Puerta, enginyera de mines i guanyadora d'un concurs de la NASA. El premi era d'un milió de dòlars. Què en deu haver fet? I sortim a passejar en Nus per l'expedició del vaixell Endurance, el 1914, al port de Londres.</desc>
+    <length units="minutes">00:47:02</length>
+  </programme>
+  <programme start="20261111120000 +0000" channel="tvi" stop="20261111143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11671</sub-title>
+    <sub-title lang="ca">11674</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261110235954 +0000" channel="tv3" stop="20261111060000 +0000">
-    <title lang="ca">Emissió de TV3 per C33</title>
-    <sub-title lang="ca">0</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">06:00:06</length>
+  <programme start="20261111143000 +0000" channel="tvi" stop="20261111152000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7386</sub-title>
+    <length units="minutes">00:50:00</length>
   </programme>
-  <programme start="20261111060000 +0000" channel="tv3" stop="20261111060345 +0000">
-    <title lang="ca">Videoclips</title>
-    <sub-title lang="ca">Intana - Què vols de mi</sub-title>
-    <length units="minutes">00:03:45</length>
-  </programme>
-  <programme start="20261110235926 +0000" channel="tvi" stop="20261111060000 +0000">
+  <programme start="20261111120000 +0000" channel="324" stop="20261111143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11670</sub-title>
+    <sub-title lang="ca">11674</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">06:00:34</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261111060000 +0000" channel="tvi" stop="20261111080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11671</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261111143000 +0000" channel="324" stop="20261111152000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7386</sub-title>
+    <length units="minutes">00:50:00</length>
   </programme>
-  <programme start="20261111010000 +0000" channel="324" stop="20261111060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11670</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20261111060000 +0000" channel="324" stop="20261111080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11671</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261110235954 +0000" channel="esport3" stop="20261111060000 +0000">
-    <title lang="ca">Emissió de TV3 per ES3</title>
-    <sub-title lang="ca">2197</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">06:00:06</length>
-  </programme>
-  <programme start="20261111060000 +0000" channel="esport3" stop="20261112003000 +0000">
+  <programme start="20261111060000 +0000" channel="esport3" stop="20261112000000 +0000">
     <title lang="ca">Emissió de TV3 per ES3</title>
     <sub-title lang="ca">0</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">18:30:00</length>
+    <length units="minutes">18:00:00</length>
   </programme>
-  <programme start="20261111042037 +0000" channel="sx3" stop="20261111043231 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Malalt de mentida</sub-title>
-    <desc lang="ca">La família Teixó-Guineu està recollint les provisions per a l'hivern i ha de carretejar un munt de caixes. En Pinxo, quan veu que la Trufa agafa tos i l'Edmond l'envia al llit, decideix fer-se passar per malalt per ficar-se al llit i no haver de treballar. En vista de l'èxit que té, tots els seus germans intenten fer el mateix.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20261112000000 +0000" channel="esport3" stop="20261112005541 +0000">
+    <title lang="ca">Toni Bou</title>
+    <sub-title lang="ca">Els 40 de Toni Bou</sub-title>
+    <desc lang="ca">Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.</desc>
+    <length units="minutes">00:55:41</length>
   </programme>
-  <programme start="20261111043231 +0000" channel="sx3" stop="20261111044401 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Un espectacle preciós</sub-title>
-    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261111140430 +0000" channel="sx3" stop="20261111142717 +0000">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">El destí els torna a reunir! En Bellamy la Hiena!</sub-title>
+    <desc lang="ca">Un enemic del passat reconeix en Ruffy tot i la disfressa, en Zoro per fi aconsegueix atrapar la fada que li ha robat les catanes i l'habilitat d'en Sanji per detectar franctiradors impressiona la seva nova amiga!</desc>
+    <length units="minutes">00:22:47</length>
+  </programme>
+  <programme start="20261111142717 +0000" channel="sx3" stop="20261111144459 +0000">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">Un supernova! En Bartolomeo el Plaga!</sub-title>
+    <desc lang="ca">En Bartolomeo i en Bellamy acaparen tota l'atenció a la batalla del grup B, però un lluitador amb un cop de puny demolidor amenaça treure'ls el protagonisme. Mentrestant, en Ruffy es converteix en el blanc d'un vell furiós!</desc>
+    <length units="minutes">00:17:42</length>
   </programme>
 </tv>
