@@ -1,87 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261112143000 +0000" channel="tv3" stop="20261112153031 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7387</sub-title>
-    <length units="minutes">01:00:31</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261112233915 +0000" channel="tv3" stop="20261113003000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2198</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">00:50:45</length>
   </programme>
-  <programme start="20261112153031 +0000" channel="tv3" stop="20261112155325 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Crema cremada de castanya</sub-title>
-    <desc lang="ca">La forma més estesa de menjar castanyes és torrar-les en una paella foradada o al forn, però la Gessamí Caramés les transforma en una crema cremada, com si fos la de Sant Josep.</desc>
-    <length units="minutes">00:22:54</length>
-  </programme>
-  <programme start="20261112145350 +0000" channel="tv3" stop="20261112154137 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La paella</sub-title>
-    <desc lang="ca">Quina paella és la correcta si cuines amb vitroceràmica? I si tens cuina de foc? I si fas uns ous ferrats o un peix es fa servir la mateixa paella? Teniu una paella destinada únicament a fer truites? Dediquem aquest capítol a la paella. Rebem en David Repullés, cantant del Cirque du Soleil! Va canviar la feina de dissenyador gràfic per viatjar al Canadà en menys de 20 dies. Savi o boig? Sortim a passejar amb la Tempesta, una gossa de Klosterneuburg (Àustria) per la primera defenestració de Praga, el 1419.</desc>
-    <length units="minutes">00:47:47</length>
-  </programme>
-  <programme start="20261112154137 +0000" channel="tv3" stop="20261112161559 +0000">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">Missatge interestel·lar</sub-title>
-    <desc lang="ca">La comunicació amb possibles civilitzacions extraterrestres forma part de l'imaginari col·lectiu des de fa generacions i són molts els exemples que en donen fe tant a la literatura com al cinema. Aquesta inquietud va propiciar l'inici del programa SETI (Search for Extra Terrestrial Intelligence) cap als anys seixanta del segle passat, que des d'aleshores busca activament senyals d'altres civilitzacions a l'univers. Tanmateix, escoltar l'Univers estant callats no és una manera òptima de comunicar-se. Si a l'altra banda els alienígenes fan el mateix, serà impossible establir qualsevol mena de comunicació. Ara, fruit de la col·laboració entre l'OAUV, CESAR (ESA/INTA/ISDEFE), CAB, IEEC i TV3, neix una nova iniciativa per enviar un missatge a l'espai, plantejada per primera vegada, com un concurs als centres d'ensenyament de tota Espanya de 3r d'ESO fins a 2n de Batxillerat. El missatge guanyador s'enviarà a Teegarden b, un planeta potencialment habitable de l'estrella Teegarden (situada a la constel·lació d'Àries, a 12,5 anys llum del nostre sistema solar) a través de les antenes de l'INTA al Centre Europeu d'Astronomia Espacial (ESAC) de l'ESA a Villanueva de la Cañada (Madrid).</desc>
-    <length units="minutes">00:34:22</length>
-  </programme>
-  <programme start="20261112143000 +0000" channel="tvi" stop="20261112153031 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7387</sub-title>
-    <length units="minutes">01:00:31</length>
-  </programme>
-  <programme start="20261112153031 +0000" channel="tvi" stop="20261112155325 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Crema cremada de castanya</sub-title>
-    <desc lang="ca">La forma més estesa de menjar castanyes és torrar-les en una paella foradada o al forn, però la Gessamí Caramés les transforma en una crema cremada, com si fos la de Sant Josep.</desc>
-    <length units="minutes">00:22:54</length>
-  </programme>
-  <programme start="20261112143000 +0000" channel="324" stop="20261112163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7387</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261112163000 +0000" channel="324" stop="20261112170000 +0000">
+  <programme start="20261113003000 +0000" channel="tv3" stop="20261113010000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11683</sub-title>
+    <sub-title lang="ca">11688</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261112150300 +0000" channel="esport3" stop="20261112160048 +0000">
-    <title lang="ca">La travessa</title>
-    <sub-title lang="ca">La tria</sub-title>
-    <desc lang="ca">La prova d'eliminació ha marcat un abans i un després dintre del grup. Cada cop costa més dir adeu a rivals que s'han convertit en amics, i això els passarà factura. Avui, més que mai, prendre la decisió correcta serà fonamental. I només ho aconseguiran els que sàpiguen mantenir el cap fred i els ulls posats en la victòria final..., encara que això suposi deixar a l'estacada als seus aliats.</desc>
-    <length units="minutes">00:57:48</length>
+  <programme start="20261112224950 +0000" channel="tv3" stop="20261113003519 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Competència oficial</sub-title>
+    <desc lang="ca">COMPETÈNCIA OFICIALProducció: The Mediapro StudioDirecció: Gastón Duprat i Mariano CohnGuió: Andrés DupratDirecció fotografia: Arnau Valls Colomer, AECIntèrprets: Penélope Cruz (Lola Cuevas) Antonio Banderas (Félix Rivero) , Oscar Martínez (Iván Torres)Sinopsi:Un empresari multimilionari que va a la recerca de transcendència i prestigi social decideix fer una pel·lícula que deixi empremta. Per això, contracta els millors: un equip estel·lar format per la celebèrrima cineasta Lola Cuevas i dos reconeguts actors amb un talent enorme, però amb un ego encara més gran: l'actor de Hollywood Félix Rivero i l'actor radical de teatre Iván Torres. Tots dos són llegendes, però no exactament els millors amics.</desc>
+    <length units="minutes">01:45:29</length>
   </programme>
-  <programme start="20261112160048 +0000" channel="esport3" stop="20261112165510 +0000">
-    <title lang="ca">La travessa</title>
-    <sub-title lang="ca">L'imprevist</sub-title>
-    <desc lang="ca">Hi ha proves que, per més que les esperis, sempre fan respecte. Sobretot, quan l'èxit o el fracàs només depenen d'un mateix i de la seva capacitat per orientar-se. Arriba una de les etapes més dures d'aquesta aventura, no només en l'aspecte físic, sinó també en el mental, ja que rebran una notícia que no s'esperen. Serà un final d'infart que ho canviarà tot a 'La travessa'.</desc>
-    <length units="minutes">00:54:22</length>
+  <programme start="20261113003519 +0000" channel="tv3" stop="20261113005940 +0000">
+    <title lang="ca">La pell dels murs</title>
+    <sub-title lang="ca">Lilly Brick-Ariadna Relea</sub-title>
+    <desc lang="ca">La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
+    <length units="minutes">00:24:21</length>
   </programme>
-  <programme start="20261112150719 +0000" channel="sx3" stop="20261112152933 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">Han robat les Boles de Drac</sub-title>
-    <desc lang="ca">Bulma, Son Goku i Oolong travessen un desert cobert de bolets gegants a la recerca de l'última Bola de Drac. De sobte, en Shu llança un míssil contra el seu vehicle aeri i els abat. La Mai els roba les Boles de Drac i es refugia al castell de Pilaf sense que en Goku ho pugui evitar. La Bulma està molt disgustada, però en Goku la consola: encara els queda la Bola de Drac del seu avi. En Iamxa i en Puar, per no perdre la possibilitat d'aconseguir les Boles de Drac, els tornen a ajudar. Acompanyen el trio fins al castell, que és ple de llargs túnels foscos amb moltes trampes. En Shu i la Mai fan entrar els cinc aventurers en un cul-de-sac.</desc>
-    <length units="minutes">00:22:14</length>
+  <programme start="20261112233915 +0000" channel="tvi" stop="20261113003417 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2198</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">00:55:02</length>
   </programme>
-  <programme start="20261112152933 +0000" channel="sx3" stop="20261112154953 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">Apareix el drac</sub-title>
-    <desc lang="ca">Amb en Son Goku, la Bulma, l'Oolong, en Iamxa i en Puar a la presó, ningú podrà evitar que el malvat Pilaf ajunti les set boles de drac, invoqui en Sheron, demani el seu desig i continuï escampant el terror per tot el món. L'Oolong i en Puar, transformats en ratpenats, són els únics que podrien fugir de la presó.</desc>
-    <length units="minutes">00:20:20</length>
+  <programme start="20261113003417 +0000" channel="tvi" stop="20261113005900 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11688</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:24:43</length>
+  </programme>
+  <programme start="20261112220500 +0000" channel="324" stop="20261113003000 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2198</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">02:25:00</length>
+  </programme>
+  <programme start="20261113003000 +0000" channel="324" stop="20261113010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11688</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
+  </programme>
+  <programme start="20261112230000 +0000" channel="esport3" stop="20261113003055 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">De la Fuente defensa Lamine; Post Barça-Arsenal i 'El predicador'</sub-title>
+    <desc lang="ca">Víctor Lozano, David Bernabeu, Paula Reverter i Juvenal Edjogo comenten les paraules del seleccionador espanyol sobre l'absència de Lamine Yamal en el partit contra Txèquia. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="minutes">01:30:55</length>
+  </programme>
+  <programme start="20261113003055 +0000" channel="esport3" stop="20261113004937 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5565</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:18:42</length>
+  </programme>
+  <programme start="20261112234455 +0000" channel="sx3" stop="20261113000556 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Viatge a la zona subnival</sub-title>
+    <desc lang="ca">Els germans Kratt han decidit miniaturitzar-se i arribar fins a l'estratosfera amb el Minijet per descobrir com es forma un floc de neu. L'últim que s'esperaven en aquesta missió era descobrir una colònia d'animalons que viuen a sota de la neu a una temperatura constant de zero graus. Avui en Chris i en Martin aprendran un munt de coses de la misteriosa zona subnival!</desc>
+    <length units="minutes">00:21:01</length>
+  </programme>
+  <programme start="20261113000556 +0000" channel="sx3" stop="20261113002605 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">L'intercanvi de closques dels bernats ermitans</sub-title>
+    <desc lang="ca">El Martin i el Chris descobreixen un bernat ermità a la platja i tot l'equip Kratt es dedica a explorar l'increïble món d'aquest animal, que sembla un cranc però sense closca. Com que no té closca, utilitza les d'altres animals i les va canviant a mesura que creix. Igual que el bernat ermità, el Martin i el Chris viuen aventures per trobar la closca que els vagi bé de mida.</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
 </tv>
