@@ -1,61 +1,53 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261112003000 +0000" channel="tv3" stop="20261112043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11679</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">04:00:00</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261112051835 +0000" channel="tv3" stop="20261112055741 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Xavi Maureta Animals Exòtics</sub-title>
+    <desc lang="ca">Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.</desc>
+    <length units="minutes">00:39:06</length>
   </programme>
-  <programme start="20261112043000 +0000" channel="tv3" stop="20261112051834 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">The Big Jamboree</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:48:34</length>
+  <programme start="20261112055741 +0000" channel="tv3" stop="20261112060000 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">Oriol Cors - L'unicorn</sub-title>
+    <length units="minutes">00:02:19</length>
   </programme>
-  <programme start="20261112000000 +0000" channel="tv3" stop="20261112005421 +0000">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal triar</sub-title>
-    <desc lang="ca">A la primavera del 1942, les forces de l'Eix avancen en tots els fronts. Llavors tothom ha de triar quin paper vol tenir a la història. Com l'André, que amb quinze anys s'apunta a la Resistència francesa. O en Ladislav, que s'arrisca per ajudar dos paracaigudistes que han vingut a fer una alta missió a Txecoslovàquia. O la Mary, una americana d'origen japonès obligada a confinar-se en un camp de concentració...</desc>
-    <length units="minutes">00:54:21</length>
+  <programme start="20261112054007 +0000" channel="tv3" stop="20261112055107 +0000">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
+    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band).</desc>
+    <length units="minutes">00:11:00</length>
   </programme>
-  <programme start="20261112005421 +0000" channel="tv3" stop="20261112015419 +0000">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal morir</sub-title>
-    <desc lang="ca">SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...</desc>
-    <length units="minutes">00:59:58</length>
+  <programme start="20261112055107 +0000" channel="tv3" stop="20261112055708 +0000">
+    <title lang="ca">VIDEOCLIPS CATALANS</title>
+    <sub-title lang="ca">- Alidé Sans - Passat deman</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:06:01</length>
   </programme>
-  <programme start="20261112003000 +0000" channel="tvi" stop="20261112043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11679</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">04:00:00</length>
+  <programme start="20261112051834 +0000" channel="tvi" stop="20261112055741 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Xavi Maureta Animals Exòtics</sub-title>
+    <desc lang="ca">Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.</desc>
+    <length units="minutes">00:39:07</length>
   </programme>
-  <programme start="20261112043000 +0000" channel="tvi" stop="20261112051834 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">The Big Jamboree</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:48:34</length>
-  </programme>
-  <programme start="20261112003000 +0000" channel="324" stop="20261112010000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11679</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261112055741 +0000" channel="tvi" stop="20261112060000 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">Oriol Cors - L'unicorn</sub-title>
+    <length units="minutes">00:02:19</length>
   </programme>
   <programme start="20261112010000 +0000" channel="324" stop="20261112060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
@@ -63,28 +55,34 @@
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261112000000 +0000" channel="esport3" stop="20261112005541 +0000">
-    <title lang="ca">Toni Bou</title>
-    <sub-title lang="ca">Els 40 de Toni Bou</sub-title>
-    <desc lang="ca">Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.</desc>
-    <length units="minutes">00:55:41</length>
+  <programme start="20261112060000 +0000" channel="324" stop="20261112080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11680</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261112005541 +0000" channel="esport3" stop="20261112024332 +0000">
+  <programme start="20261112053206 +0000" channel="esport3" stop="20261112060716 +0000">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">El Barça torna a golejar</sub-title>
+    <desc lang="ca">Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar, tant en Lliga com en Champions. L'Alabès i l'Aston Villa han estat les víctimes.Els sabadellencs Flashy Ice Cream acomiaden el programa amb el seu nou tema 'No ho sé'.</desc>
+    <length units="minutes">00:35:10</length>
+  </programme>
+  <programme start="20261112060716 +0000" channel="esport3" stop="20261112075405 +0000">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
     <desc lang="ca">Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
-    <length units="minutes">01:47:51</length>
+    <length units="minutes">01:46:49</length>
   </programme>
-  <programme start="20261112004643 +0000" channel="sx3" stop="20261112010814 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un monstre de Gila a sota casa</sub-title>
-    <desc lang="ca">Els germans Kratt acaben de rebre una trucada d'en Javier, un noi que viu al desert de Sonora i que assegura que se li ha instal·lat un monstre de Gila a sota de casa seva i que té molta por. La missió d'avui és descobrir com són de veritat els monstres de Gila i evitar que en Zach Virusmàtic aprofiti les característiques d'aquest animal per posar a la pràctica el seu pròxim invent!</desc>
-    <length units="minutes">00:21:31</length>
+  <programme start="20261112053619 +0000" channel="sx3" stop="20261112054219 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Quina son!</sub-title>
+    <desc lang="ca">El Pagès i en Bitzer es passen la nit en blanc jugant a maquinetes i l'endemà van tot el dia adormint-se pertot arreu i fent les tasques a l'inrevés. En Shaun i els altres xais aprofiten l'avinentesa per afegir a l'agenda del gos tot de tasques que són atencions per a ells, i d'aquesta manera passen un dia com reis. Però arriba l'última tasca que tenien apuntada i resulta que, si la fan mig adormits, podria ser lleugerament perillosa per a les ovelles.</desc>
+    <length units="minutes">00:06:00</length>
   </programme>
-  <programme start="20261112010814 +0000" channel="sx3" stop="20261112012810 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Un talent per la imitació!</sub-title>
-    <desc lang="ca">L'Ash i el Goh estan molt emocionats per veure com filmen una pel·lícula. Coneixen una de les estrelles, un Ditto que té pànic escènic, fuig del plató i s'ajunta amb el Team Rocket. La Jessie, que es considera actriu, s'estova amb el Ditto i vol ajudar-lo a superar les seves pors. El Ditto aprèn a esquivar els nervis i agafar forces amb una tècnica que consisteix a clavar-se una bufetada a ell mateix. Quan tornen al plató de la pel·lícula, el Ditto ja sap què fer: una bufetada ràpida, i el resultat és un èxit. Mentrestant, la Jessie, melangiosament, li desitja sort al seu nou amic, d'actriu a actor.</desc>
-    <length units="minutes">00:19:56</length>
+  <programme start="20261112054219 +0000" channel="sx3" stop="20261112054839 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Bitzer, l'astronauta</sub-title>
+    <desc lang="ca">El Bitzer fa servir un dron per fer la seva feina la granja mentre jeu tranquil·lament a la seva gandula, però quan el Shaun n'agafa el control, la càrrega del dron és el Bitzer amb gandula inclosa. Cada vegada va més amunt però al dron se li acaba la bateria. Com anirà la reentrada a l'atmosfera i la caiguda?1</desc>
+    <length units="minutes">00:06:20</length>
   </programme>
 </tv>
