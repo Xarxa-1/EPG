@@ -1,90 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261112233915 +0000" channel="tv3" stop="20261113003000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2198</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">00:50:45</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <programme start="20261113043000 +0000" channel="tv3" stop="20261113051749 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Big Dani Pérez Organic Trio</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:47:49</length>
   </programme>
-  <programme start="20261113003000 +0000" channel="tv3" stop="20261113010000 +0000">
+  <programme start="20261113051749 +0000" channel="tv3" stop="20261113060000 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Moya Kalongo</sub-title>
+    <desc lang="ca">Moya Kalongo és un grup de Barcelona amb músics de diferents procedències, com ara Moçambic, Costa d'Ivori, Uruguai i Catalunya. Tots ells uneixen els seus orígens musicals per crear un repertori únic de funk i afrobeat, que els ha convertit en pioners d'aquest estil a casa nostra. Els Moya Kalongo són Marc Thió a la bateria, Noé Escolà al saxo i la flauta, Roqui Alvero a la trompeta, Cesc Pasqual a la guitarra, Pito Rosas al baix i Simonal Bie a la veu.</desc>
+    <length units="minutes">00:42:11</length>
+  </programme>
+  <programme start="20261113043331 +0000" channel="tv3" stop="20261113052012 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El secreter</sub-title>
+    <desc lang="ca">Que existeixi un moble que es diu secreter és desconcertant, bàsicament perquè si hi vols amagar coses, amb el nom ja canta una mica. Però la voluntat és el que compta, per això li dediquem el programa d'avui. Ens visita una campiona d'apnea, la Isabel Sánchez-Arán. Pot estar més de 7 minuts sense respirar dins de l'aigua. Hi ha gent que fa el mateix quan dorm, però creiem que té molt més mèrit això seu. I sortim a passejar en Kirk, un gos del Prat de Llobregat, per la inundació del riu Groc del 1887.</desc>
+    <length units="minutes">00:46:41</length>
+  </programme>
+  <programme start="20261113052012 +0000" channel="tv3" stop="20261113052850 +0000">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">'Antoni Tàpies'</sub-title>
+    <desc lang="ca">Pintor, escultor, escriptor i teòric, Antoni Tàpies va ser un dels artistes catalans més rellevants del segle XX. La seva obra contribuïa a reflexionar amb inventiva i llibertat sobre aspectes com la bellesa, l'espiritualitat o la condició humana. Com ell mateix deia: 'Un quadre s'ha de mirar amb netedat, esperant rebre el que ell et dona, no el que t'han ensenyat que ha de dir la pintura.' La celebració del centenari del seu naixement ens retroba amb el perfil d'aquest creador incansable, exponent de la pintura matèrica i un dels principals noms a nivell internacional de l'informalisme.</desc>
+    <length units="minutes">00:08:38</length>
+  </programme>
+  <programme start="20261113043000 +0000" channel="tvi" stop="20261113051749 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Big Dani Pérez Organic Trio</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:47:49</length>
+  </programme>
+  <programme start="20261113051749 +0000" channel="tvi" stop="20261113060000 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Moya Kalongo</sub-title>
+    <desc lang="ca">Moya Kalongo és un grup de Barcelona amb músics de diferents procedències, com ara Moçambic, Costa d'Ivori, Uruguai i Catalunya. Tots ells uneixen els seus orígens musicals per crear un repertori únic de funk i afrobeat, que els ha convertit en pioners d'aquest estil a casa nostra. Els Moya Kalongo són Marc Thió a la bateria, Noé Escolà al saxo i la flauta, Roqui Alvero a la trompeta, Cesc Pasqual a la guitarra, Pito Rosas al baix i Simonal Bie a la veu.</desc>
+    <length units="minutes">00:42:11</length>
+  </programme>
+  <programme start="20261113010000 +0000" channel="324" stop="20261113060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11688</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261112224950 +0000" channel="tv3" stop="20261113003519 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Competència oficial</sub-title>
-    <desc lang="ca">COMPETÈNCIA OFICIALProducció: The Mediapro StudioDirecció: Gastón Duprat i Mariano CohnGuió: Andrés DupratDirecció fotografia: Arnau Valls Colomer, AECIntèrprets: Penélope Cruz (Lola Cuevas) Antonio Banderas (Félix Rivero) , Oscar Martínez (Iván Torres)Sinopsi:Un empresari multimilionari que va a la recerca de transcendència i prestigi social decideix fer una pel·lícula que deixi empremta. Per això, contracta els millors: un equip estel·lar format per la celebèrrima cineasta Lola Cuevas i dos reconeguts actors amb un talent enorme, però amb un ego encara més gran: l'actor de Hollywood Félix Rivero i l'actor radical de teatre Iván Torres. Tots dos són llegendes, però no exactament els millors amics.</desc>
-    <length units="minutes">01:45:29</length>
-  </programme>
-  <programme start="20261113003519 +0000" channel="tv3" stop="20261113005940 +0000">
-    <title lang="ca">La pell dels murs</title>
-    <sub-title lang="ca">Lilly Brick-Ariadna Relea</sub-title>
-    <desc lang="ca">La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
-    <length units="minutes">00:24:21</length>
-  </programme>
-  <programme start="20261112233915 +0000" channel="tvi" stop="20261113003417 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2198</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">00:55:02</length>
-  </programme>
-  <programme start="20261113003417 +0000" channel="tvi" stop="20261113005900 +0000">
+  <programme start="20261113060000 +0000" channel="324" stop="20261113080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11688</sub-title>
+    <sub-title lang="ca">11689</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:24:43</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261112220500 +0000" channel="324" stop="20261113003000 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2198</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">02:25:00</length>
+  <programme start="20261113045037 +0000" channel="esport3" stop="20261113051537 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / Glendale / 11</sub-title>
+    <desc lang="ca">Aquesta competició de motor compta amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles!</desc>
+    <length units="minutes">00:25:00</length>
   </programme>
-  <programme start="20261113003000 +0000" channel="324" stop="20261113010000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11688</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261113051537 +0000" channel="esport3" stop="20261113053327 +0000">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Jornada 12</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="minutes">00:17:50</length>
   </programme>
-  <programme start="20261112230000 +0000" channel="esport3" stop="20261113003055 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">De la Fuente defensa Lamine; Post Barça-Arsenal i 'El predicador'</sub-title>
-    <desc lang="ca">Víctor Lozano, David Bernabeu, Paula Reverter i Juvenal Edjogo comenten les paraules del seleccionador espanyol sobre l'absència de Lamine Yamal en el partit contra Txèquia. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="minutes">01:30:55</length>
+  <programme start="20261113044513 +0000" channel="sx3" stop="20261113045642 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Cadascú per la seva banda</sub-title>
+    <desc lang="ca">Avui venen els avis Guineu al cau de la família Teixó-Guineu. En Pinxo i en Timbal els han preparat un berenar a fora, però l'avi i l'àvia es fan morros perquè s'han discutit i no tenen cap intenció de passar el dia junts. Però a mesura que passen les hores es van ensopint, perquè en el fons es troben a faltar.</desc>
+    <length units="minutes">00:11:29</length>
   </programme>
-  <programme start="20261113003055 +0000" channel="esport3" stop="20261113004937 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5565</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:18:42</length>
-  </programme>
-  <programme start="20261112234455 +0000" channel="sx3" stop="20261113000556 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Viatge a la zona subnival</sub-title>
-    <desc lang="ca">Els germans Kratt han decidit miniaturitzar-se i arribar fins a l'estratosfera amb el Minijet per descobrir com es forma un floc de neu. L'últim que s'esperaven en aquesta missió era descobrir una colònia d'animalons que viuen a sota de la neu a una temperatura constant de zero graus. Avui en Chris i en Martin aprendran un munt de coses de la misteriosa zona subnival!</desc>
-    <length units="minutes">00:21:01</length>
-  </programme>
-  <programme start="20261113000556 +0000" channel="sx3" stop="20261113002605 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'intercanvi de closques dels bernats ermitans</sub-title>
-    <desc lang="ca">El Martin i el Chris descobreixen un bernat ermità a la platja i tot l'equip Kratt es dedica a explorar l'increïble món d'aquest animal, que sembla un cranc però sense closca. Com que no té closca, utilitza les d'altres animals i les va canviant a mesura que creix. Igual que el bernat ermità, el Martin i el Chris viuen aventures per trobar la closca que els vagi bé de mida.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261113045642 +0000" channel="sx3" stop="20261113050812 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El ball del bosc</sub-title>
+    <desc lang="ca">Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
 </tv>
