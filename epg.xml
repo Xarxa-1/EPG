@@ -1,5 +1,11 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
@@ -9,82 +15,73 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261113043000 +0000" channel="tv3" stop="20261113051749 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Big Dani Pérez Organic Trio</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:47:49</length>
+  <programme start="20261113143000 +0000" channel="tv3" stop="20261113153012 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7388</sub-title>
+    <length units="minutes">01:00:12</length>
   </programme>
-  <programme start="20261113051749 +0000" channel="tv3" stop="20261113060000 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Moya Kalongo</sub-title>
-    <desc lang="ca">Moya Kalongo és un grup de Barcelona amb músics de diferents procedències, com ara Moçambic, Costa d'Ivori, Uruguai i Catalunya. Tots ells uneixen els seus orígens musicals per crear un repertori únic de funk i afrobeat, que els ha convertit en pioners d'aquest estil a casa nostra. Els Moya Kalongo són Marc Thió a la bateria, Noé Escolà al saxo i la flauta, Roqui Alvero a la trompeta, Cesc Pasqual a la guitarra, Pito Rosas al baix i Simonal Bie a la veu.</desc>
-    <length units="minutes">00:42:11</length>
+  <programme start="20261113153012 +0000" channel="tv3" stop="20261113155450 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Pularda amb prunes</sub-title>
+    <desc lang="ca">Si hi ha una vianda que no falta mai als àpats dels dies més assenyalats són les aus. Els grans xefs les serveixen als banquets i, a casa, les aus sempre són el plat central de tota celebració. En Marc Ribas fa un plat per a un dia de festa: una pularda amb prunes.</desc>
+    <length units="minutes">00:24:38</length>
   </programme>
-  <programme start="20261113043331 +0000" channel="tv3" stop="20261113052012 +0000">
+  <programme start="20261113135759 +0000" channel="tv3" stop="20261113144447 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El secreter</sub-title>
-    <desc lang="ca">Que existeixi un moble que es diu secreter és desconcertant, bàsicament perquè si hi vols amagar coses, amb el nom ja canta una mica. Però la voluntat és el que compta, per això li dediquem el programa d'avui. Ens visita una campiona d'apnea, la Isabel Sánchez-Arán. Pot estar més de 7 minuts sense respirar dins de l'aigua. Hi ha gent que fa el mateix quan dorm, però creiem que té molt més mèrit això seu. I sortim a passejar en Kirk, un gos del Prat de Llobregat, per la inundació del riu Groc del 1887.</desc>
-    <length units="minutes">00:46:41</length>
+    <sub-title lang="ca">Millors moments - setmana 18</sub-title>
+    <desc lang="ca">Hem parlat del flotador, de la clau, del pal de golf i de la paella. Quatre objectes que aparentment no tenen cap relació, i és que no la tenen. Per això són 4 capítols separats que us hem deixat aquí juntets perquè els pugueu recordar. També hi trobareu les xerrades amb els qui han vingut a seure al nostre escó: en Dídac Costa, la Maria Jesús Puerta, la Mar Pujol i en David Repullés.</desc>
+    <length units="minutes">00:46:48</length>
   </programme>
-  <programme start="20261113052012 +0000" channel="tv3" stop="20261113052850 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">'Antoni Tàpies'</sub-title>
-    <desc lang="ca">Pintor, escultor, escriptor i teòric, Antoni Tàpies va ser un dels artistes catalans més rellevants del segle XX. La seva obra contribuïa a reflexionar amb inventiva i llibertat sobre aspectes com la bellesa, l'espiritualitat o la condició humana. Com ell mateix deia: 'Un quadre s'ha de mirar amb netedat, esperant rebre el que ell et dona, no el que t'han ensenyat que ha de dir la pintura.' La celebració del centenari del seu naixement ens retroba amb el perfil d'aquest creador incansable, exponent de la pintura matèrica i un dels principals noms a nivell internacional de l'informalisme.</desc>
-    <length units="minutes">00:08:38</length>
+  <programme start="20261113144447 +0000" channel="tv3" stop="20261113153124 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La guardiola</sub-title>
+    <desc lang="ca">Tots hem tingut una guardiola amb forma de porquet i heu de saber que té aquesta forma per una confusió lingüística: a Anglaterra s'anomenava 'pygg' un tipus d'argila i algú va entendre 'pig' (porc en anglès). 'Apreneu idiomes', deien. I així es va confondre tota la humanitat. Ens visita la Maria Nicolau, que esmorza tres tasses de cafè. Potser això té molt a veure amb l'energia que porta a sobre sempre la que veiem. Sortim a passejar en Winter, un gos d'Irlanda, per l'accident de la plataforma Byford Dolphin, el novembre del 1983.</desc>
+    <length units="minutes">00:46:37</length>
   </programme>
-  <programme start="20261113043000 +0000" channel="tvi" stop="20261113051749 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Big Dani Pérez Organic Trio</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:47:49</length>
+  <programme start="20261113143000 +0000" channel="tvi" stop="20261113153012 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7388</sub-title>
+    <length units="minutes">01:00:12</length>
   </programme>
-  <programme start="20261113051749 +0000" channel="tvi" stop="20261113060000 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Moya Kalongo</sub-title>
-    <desc lang="ca">Moya Kalongo és un grup de Barcelona amb músics de diferents procedències, com ara Moçambic, Costa d'Ivori, Uruguai i Catalunya. Tots ells uneixen els seus orígens musicals per crear un repertori únic de funk i afrobeat, que els ha convertit en pioners d'aquest estil a casa nostra. Els Moya Kalongo són Marc Thió a la bateria, Noé Escolà al saxo i la flauta, Roqui Alvero a la trompeta, Cesc Pasqual a la guitarra, Pito Rosas al baix i Simonal Bie a la veu.</desc>
-    <length units="minutes">00:42:11</length>
+  <programme start="20261113153012 +0000" channel="tvi" stop="20261113155450 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Pularda amb prunes</sub-title>
+    <desc lang="ca">Si hi ha una vianda que no falta mai als àpats dels dies més assenyalats són les aus. Els grans xefs les serveixen als banquets i, a casa, les aus sempre són el plat central de tota celebració. En Marc Ribas fa un plat per a un dia de festa: una pularda amb prunes.</desc>
+    <length units="minutes">00:24:38</length>
   </programme>
-  <programme start="20261113010000 +0000" channel="324" stop="20261113060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11688</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20261113060000 +0000" channel="324" stop="20261113080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11689</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261113143000 +0000" channel="324" stop="20261113163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7388</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261113045037 +0000" channel="esport3" stop="20261113051537 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / Glendale / 11</sub-title>
-    <desc lang="ca">Aquesta competició de motor compta amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles!</desc>
-    <length units="minutes">00:25:00</length>
+  <programme start="20261113163000 +0000" channel="324" stop="20261113170000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11692</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261113051537 +0000" channel="esport3" stop="20261113053327 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 12</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:17:50</length>
+  <programme start="20261113140259 +0000" channel="esport3" stop="20261113151013 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Barça-Arsenal, 'Històries del futbol', Joan Salarich i tertúlia</sub-title>
+    <desc lang="ca">El Barça no pot passar de l'empat contra l'Arsenal. En parlem amb Mireia Vera. Joaquín Seys i Ibrahim Maza a 'Històries del futbol', amb Marc Mayola. Entrevistem Joan Salarich, director del Festival de Cinema de Muntanya de Torelló. A la tertúlia ens acompanyen David Sánchez, Raúl Fuentes i Nacho Peña.</desc>
+    <length units="minutes">01:07:14</length>
   </programme>
-  <programme start="20261113044513 +0000" channel="sx3" stop="20261113045642 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Cadascú per la seva banda</sub-title>
-    <desc lang="ca">Avui venen els avis Guineu al cau de la família Teixó-Guineu. En Pinxo i en Timbal els han preparat un berenar a fora, però l'avi i l'àvia es fan morros perquè s'han discutit i no tenen cap intenció de passar el dia junts. Però a mesura que passen les hores es van ensopint, perquè en el fons es troben a faltar.</desc>
-    <length units="minutes">00:11:29</length>
+  <programme start="20261113151013 +0000" channel="esport3" stop="20261113160731 +0000">
+    <title lang="ca">La travessa</title>
+    <sub-title lang="ca">L'impossible</sub-title>
+    <desc lang="ca">La ruta s'endinsa ja en els Pirineus, i ho fa per la porta gran, amb l'etapa més llarga de la història de 'La travessa'. Suposarà un esforç titànic per a uns aventurers que arrosseguen lesions des de fa dies. Els moments difícils són una bona oportunitat per saber com funciona el cervell de cadascú, tant si es coneixen des de fa dies com des de fa anys. Fins on arriba la seva ambició? I sobretot, què estarien disposats a fer per acostar-se a la gran final? Quan el premi és a tocar, no hi ha amics que valguin... O potser sí.</desc>
+    <length units="minutes">00:57:18</length>
   </programme>
-  <programme start="20261113045642 +0000" channel="sx3" stop="20261113050812 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El ball del bosc</sub-title>
-    <desc lang="ca">Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261113142655 +0000" channel="sx3" stop="20261113144413 +0000">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">L'estratègia del segle! En Doflamingo mou fitxa!</sub-title>
+    <desc lang="ca">Malgrat de l'intent d'en Sanji per advertir-lo, en Law es troba en perill de mort per l'emboscada d'en Doflamingo. Mentrestant, en Ruffy no pot ocultar la seva veritable identitat quan comença la batalla al coliseu!</desc>
+    <length units="minutes">00:17:18</length>
+  </programme>
+  <programme start="20261113144413 +0000" channel="sx3" stop="20261113150445 +0000">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">Fa tremolar cel i terra! El poder de l'almirall Fujitora!</sub-title>
+    <desc lang="ca">Quan el seu pla fracassa, en Law ha de lluitar contra dos adversaris poderosos per sobreviure. A la ciutat, en Sanji s'acomiada de la seva estimada nova amiga, i en Ruffy s'enfronta al Brau Despietat!</desc>
+    <length units="minutes">00:20:32</length>
   </programme>
 </tv>
