@@ -3,85 +3,88 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261113143000 +0000" channel="tv3" stop="20261113153012 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7388</sub-title>
-    <length units="minutes">01:00:12</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261113221137 +0000" channel="tv3" stop="20261114004007 +0000">
+    <title lang="ca">La gran pel·lícula</title>
+    <sub-title lang="ca">Fugida cap a Berlin</sub-title>
+    <desc lang="ca">FUGIDA CAP A BERLIN 'Bratri'Direcció: Tomás MasínGuió: Marek EpsteinProducció: FilmBrigade, PubRes, Eurimages, Czech Film Fund, CinemArt, Yellow Affair, ?eská televizeAny: 2023Durada: 135País: República TxecaMúsica: Karel HavlicekFotografia: Friede ClauszIntèrprets: Oskar Hes, Jan Nedbal, Adam Ernest, Tatiana Vilhelmová, Stefan Konarske, Antonín Masek, Karolina Lea Novakova, Matyáš ?ezní?ek, Václav Neuzil, Matoj Hádek, Karel Dobrý, Alzbeta Malá, Petr Uhlík, Daniela Kolárová, Marian Mitas, Pavel ReznícekEls germans Josef i Ctirad Mašín, amb el seu amic Milan Paumer, proven de fugir de la Txecoslovàquia comunista l'octubre de 1953 per unir-se a l'exèrcit dels Estats Units al Berlín Occidental. Els descobreixen a l'Alemanya Oriental després de creuar la frontera vigilada i això dona lloc a la major maniobra armada des de la Segona Guerra Mundial. Vint mil membres de la policia alemanya i de l'exèrcit soviètic són mobilitzats per capturar-los. Basada en una història real.</desc>
+    <length units="minutes">02:28:30</length>
   </programme>
-  <programme start="20261113153012 +0000" channel="tv3" stop="20261113155450 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Pularda amb prunes</sub-title>
-    <desc lang="ca">Si hi ha una vianda que no falta mai als àpats dels dies més assenyalats són les aus. Els grans xefs les serveixen als banquets i, a casa, les aus sempre són el plat central de tota celebració. En Marc Ribas fa un plat per a un dia de festa: una pularda amb prunes.</desc>
-    <length units="minutes">00:24:38</length>
+  <programme start="20261114004007 +0000" channel="tv3" stop="20261114020127 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Alice, tresor</sub-title>
+    <desc lang="ca">ALICE, TRESOR 'Alice, Darling'Direcció: Mary NighyGuió: Alanna FrancisProducció: Babe Nation Films, Elevation Pictures, Téléfilm Canada, Ontario CreatesAny: 2022Durada: 89País: CanadàMúsica: Owen PallettFotografia: Mike McLaughlinIntèrprets: Anna Kendrick, Kaniehtiio Horn, Wunmi Mosaku, Charlie Carrick, Markjan Winnick, Ethan Mitchell, Gordon Harper, Daniel Stolfi, Elena KhanUna dona al límit, als trenta anys, viu una situació de maltractament psicològic per part de la seva parella, i està atrapada en un estat de paràlisi. Durant unes vacances amb les dues millors amigues, redescobrirà la seva essència i adquirirà la perspectiva que tant necessita. Això no obstant, la venjança de la seva parella serà inevitable i demolidora.</desc>
+    <length units="minutes">01:21:20</length>
   </programme>
-  <programme start="20261113135759 +0000" channel="tv3" stop="20261113144447 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 18</sub-title>
-    <desc lang="ca">Hem parlat del flotador, de la clau, del pal de golf i de la paella. Quatre objectes que aparentment no tenen cap relació, i és que no la tenen. Per això són 4 capítols separats que us hem deixat aquí juntets perquè els pugueu recordar. També hi trobareu les xerrades amb els qui han vingut a seure al nostre escó: en Dídac Costa, la Maria Jesús Puerta, la Mar Pujol i en David Repullés.</desc>
-    <length units="minutes">00:46:48</length>
+  <programme start="20261113234232 +0000" channel="tv3" stop="20261114000708 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Els llacs volcànics en terra maori</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.</desc>
+    <length units="minutes">00:24:36</length>
   </programme>
-  <programme start="20261113144447 +0000" channel="tv3" stop="20261113153124 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La guardiola</sub-title>
-    <desc lang="ca">Tots hem tingut una guardiola amb forma de porquet i heu de saber que té aquesta forma per una confusió lingüística: a Anglaterra s'anomenava 'pygg' un tipus d'argila i algú va entendre 'pig' (porc en anglès). 'Apreneu idiomes', deien. I així es va confondre tota la humanitat. Ens visita la Maria Nicolau, que esmorza tres tasses de cafè. Potser això té molt a veure amb l'energia que porta a sobre sempre la que veiem. Sortim a passejar en Winter, un gos d'Irlanda, per l'accident de la plataforma Byford Dolphin, el novembre del 1983.</desc>
-    <length units="minutes">00:46:37</length>
+  <programme start="20261114000708 +0000" channel="tv3" stop="20261114003159 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Tresors per als homes</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra.</desc>
+    <length units="minutes">00:24:51</length>
   </programme>
-  <programme start="20261113143000 +0000" channel="tvi" stop="20261113153012 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7388</sub-title>
-    <length units="minutes">01:00:12</length>
+  <programme start="20261113235538 +0000" channel="tvi" stop="20261114011709 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Maria i Assou</sub-title>
+    <desc lang="ca">MARIA I ASSOUProducció: Televisió de Catalunya; Massa d'Or Produccions; Canal 9 RTVV; Malvarrosa Media; Canal Sur Televisión, S.A.; La Zanfoña Producciones; Imago Video; 2M Télévision Marocaine amb la col·laboració de l'Institut Català de les Indústries Culturals (ICIC) i la Generalitat Valenciana, 2005Direcció: Sílvia Quer/ Durada: 84 minutsGuió: Teresa Vilardell, Miquel CasamayorFotografia: Federico RibesMúsica: Pablo CervantesIntèrprets: Mariola Ruíz (Maria); Younes Bachir (Assou); Ivanna Baquero (Nicole); Cristian Carrasco (Abraham); Juli Mira (Pare de la Maria); Miguel Angel Romo (Antonio)L'Assou és assassinat per l'Antonio, líder d'un grup de joves radicals, al mig del carrer, només per la seva condició de marroquí. La Maria, la seva dona, es disposa a lluitar per denunciar el fet, perquè es faci justícia. Però sembla que condemnar un noi d'assassinat per motius racistes faria disparar l'alarma social. Amb la impotència que sent, la Maria fa tot el que hi ha a les seves mans: organitza una manifestació amb poc èxit de congregació... Al judici condemnen a l'assassí per homicidi, sense que consti que els motius van ser purament racistes. La Maria s'enfonsa. No entén la justícia, no accepta la mort del seu marit i es tanca en sí mateixa. La seva relació amb l'Assou ja va ser complexa des d'un inici: la seva mare no va acceptar-la i molt menys que se n'anessin a viure a Europa. La Maria enterra l'Assou al Marroc. Es troba sola, amb dos fills petits, sense feina ni ganes de viure.... Però cal recuperar forces per continuar lluitant. I ho fa!</desc>
+    <length units="minutes">01:21:31</length>
   </programme>
-  <programme start="20261113153012 +0000" channel="tvi" stop="20261113155450 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Pularda amb prunes</sub-title>
-    <desc lang="ca">Si hi ha una vianda que no falta mai als àpats dels dies més assenyalats són les aus. Els grans xefs les serveixen als banquets i, a casa, les aus sempre són el plat central de tota celebració. En Marc Ribas fa un plat per a un dia de festa: una pularda amb prunes.</desc>
-    <length units="minutes">00:24:38</length>
+  <programme start="20261114011709 +0000" channel="tvi" stop="20261114020128 +0000">
+    <title lang="ca">Replicants</title>
+    <sub-title lang="ca">Dune, l'essència d'un clàssic</sub-title>
+    <desc lang="ca">Anàlisi a fons d'una de les obres més emblemàtiques de la ciència-ficció moderna: 'Dune'. Un univers de llibres, pel·lícules, còmics, jocs i videojocs que contenen tots aquells elements dels quals han begut molts universos posteriors. I 'Dune', gairebé 60 anys després, també funciona com a metàfora del món actual. Mariona Borrull condueix aquest videopòdcast, amb la participació de Xavi Sánchez Pons, crític de cinema especialitzat en Fantasia i Terror i Laura Huerga, responsable de Duna Llibres, editorial de Dune en català.</desc>
+    <length units="minutes">00:44:19</length>
   </programme>
-  <programme start="20261113143000 +0000" channel="324" stop="20261113163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7388</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261113163000 +0000" channel="324" stop="20261113170000 +0000">
+  <programme start="20261113233000 +0000" channel="324" stop="20261114003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11692</sub-title>
+    <sub-title lang="ca">11696</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
+  </programme>
+  <programme start="20261114003000 +0000" channel="324" stop="20261114010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11697</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261113140259 +0000" channel="esport3" stop="20261113151013 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Barça-Arsenal, 'Històries del futbol', Joan Salarich i tertúlia</sub-title>
-    <desc lang="ca">El Barça no pot passar de l'empat contra l'Arsenal. En parlem amb Mireia Vera. Joaquín Seys i Ibrahim Maza a 'Històries del futbol', amb Marc Mayola. Entrevistem Joan Salarich, director del Festival de Cinema de Muntanya de Torelló. A la tertúlia ens acompanyen David Sánchez, Raúl Fuentes i Nacho Peña.</desc>
-    <length units="minutes">01:07:14</length>
+  <programme start="20261113230001 +0000" channel="esport3" stop="20261114003102 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.</desc>
+    <length units="minutes">01:31:01</length>
   </programme>
-  <programme start="20261113151013 +0000" channel="esport3" stop="20261113160731 +0000">
-    <title lang="ca">La travessa</title>
-    <sub-title lang="ca">L'impossible</sub-title>
-    <desc lang="ca">La ruta s'endinsa ja en els Pirineus, i ho fa per la porta gran, amb l'etapa més llarga de la història de 'La travessa'. Suposarà un esforç titànic per a uns aventurers que arrosseguen lesions des de fa dies. Els moments difícils són una bona oportunitat per saber com funciona el cervell de cadascú, tant si es coneixen des de fa dies com des de fa anys. Fins on arriba la seva ambició? I sobretot, què estarien disposats a fer per acostar-se a la gran final? Quan el premi és a tocar, no hi ha amics que valguin... O potser sí.</desc>
-    <length units="minutes">00:57:18</length>
+  <programme start="20261114003102 +0000" channel="esport3" stop="20261114005002 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5566</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:19:00</length>
   </programme>
-  <programme start="20261113142655 +0000" channel="sx3" stop="20261113144413 +0000">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">L'estratègia del segle! En Doflamingo mou fitxa!</sub-title>
-    <desc lang="ca">Malgrat de l'intent d'en Sanji per advertir-lo, en Law es troba en perill de mort per l'emboscada d'en Doflamingo. Mentrestant, en Ruffy no pot ocultar la seva veritable identitat quan comença la batalla al coliseu!</desc>
-    <length units="minutes">00:17:18</length>
+  <programme start="20261113234054 +0000" channel="sx3" stop="20261114000104 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la recerca del puma de Florida</sub-title>
+    <desc lang="ca">L'equip dels germans Kratt busca un puma de Florida i el primer exemplar que troben és una femella que està ferida. La primera feina que tenen és curar-la, però després descobreixen que té cadells i llavors els han d'anar a protegir i a alimentar mentre la seva mare no ho pot fer. El Chris i el Martin es disposen a fer de cangurs de dues cries de puma.</desc>
+    <length units="minutes">00:20:10</length>
   </programme>
-  <programme start="20261113144413 +0000" channel="sx3" stop="20261113150445 +0000">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">Fa tremolar cel i terra! El poder de l'almirall Fujitora!</sub-title>
-    <desc lang="ca">Quan el seu pla fracassa, en Law ha de lluitar contra dos adversaris poderosos per sobreviure. A la ciutat, en Sanji s'acomiada de la seva estimada nova amiga, i en Ruffy s'enfronta al Brau Despietat!</desc>
-    <length units="minutes">00:20:32</length>
+  <programme start="20261114000104 +0000" channel="sx3" stop="20261114002113 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">L'àliga pescadora</sub-title>
+    <desc lang="ca">A en Jimmy li cauen les claus de la Nau Tortuga al mar. El Chris, el Martin i l'Aviva s'afanyen a crear poders d'àliga pescadora per trobar les claus abans que desapareguin per sempre.</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
 </tv>
