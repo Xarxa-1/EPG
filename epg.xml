@@ -3,88 +3,88 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261113221137 +0000" channel="tv3" stop="20261114004007 +0000">
-    <title lang="ca">La gran pel·lícula</title>
-    <sub-title lang="ca">Fugida cap a Berlin</sub-title>
-    <desc lang="ca">FUGIDA CAP A BERLIN 'Bratri'Direcció: Tomás MasínGuió: Marek EpsteinProducció: FilmBrigade, PubRes, Eurimages, Czech Film Fund, CinemArt, Yellow Affair, ?eská televizeAny: 2023Durada: 135País: República TxecaMúsica: Karel HavlicekFotografia: Friede ClauszIntèrprets: Oskar Hes, Jan Nedbal, Adam Ernest, Tatiana Vilhelmová, Stefan Konarske, Antonín Masek, Karolina Lea Novakova, Matyáš ?ezní?ek, Václav Neuzil, Matoj Hádek, Karel Dobrý, Alzbeta Malá, Petr Uhlík, Daniela Kolárová, Marian Mitas, Pavel ReznícekEls germans Josef i Ctirad Mašín, amb el seu amic Milan Paumer, proven de fugir de la Txecoslovàquia comunista l'octubre de 1953 per unir-se a l'exèrcit dels Estats Units al Berlín Occidental. Els descobreixen a l'Alemanya Oriental després de creuar la frontera vigilada i això dona lloc a la major maniobra armada des de la Segona Guerra Mundial. Vint mil membres de la policia alemanya i de l'exèrcit soviètic són mobilitzats per capturar-los. Basada en una història real.</desc>
-    <length units="minutes">02:28:30</length>
+  <programme start="20261114043000 +0000" channel="tv3" stop="20261114051547 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Biel's Lower &amp; East Combo</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:47</length>
   </programme>
-  <programme start="20261114004007 +0000" channel="tv3" stop="20261114020127 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Alice, tresor</sub-title>
-    <desc lang="ca">ALICE, TRESOR 'Alice, Darling'Direcció: Mary NighyGuió: Alanna FrancisProducció: Babe Nation Films, Elevation Pictures, Téléfilm Canada, Ontario CreatesAny: 2022Durada: 89País: CanadàMúsica: Owen PallettFotografia: Mike McLaughlinIntèrprets: Anna Kendrick, Kaniehtiio Horn, Wunmi Mosaku, Charlie Carrick, Markjan Winnick, Ethan Mitchell, Gordon Harper, Daniel Stolfi, Elena KhanUna dona al límit, als trenta anys, viu una situació de maltractament psicològic per part de la seva parella, i està atrapada en un estat de paràlisi. Durant unes vacances amb les dues millors amigues, redescobrirà la seva essència i adquirirà la perspectiva que tant necessita. Això no obstant, la venjança de la seva parella serà inevitable i demolidora.</desc>
-    <length units="minutes">01:21:20</length>
+  <programme start="20261114051547 +0000" channel="tv3" stop="20261114055657 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Clara Luna</sub-title>
+    <desc lang="ca">Clara Luna presenta 'Viajes', el primer disc de composicions originals. En aquesta nova proposta Luna ens mostra el seu vessant més de cantautora, en un repertori inspirat en els seus viatges arreu del món.Podrem sentir-la cantant rumbes, tanguillos, chacareras, tangos i un jazz que es barreja amb el rock i el pop sense complexos. L'acompanyen Matías Miguez al baix, Gustavo Rocha a la guitarra, Salvador Toscano a la bateria, i Fernando Tejero, al piano.</desc>
+    <length units="minutes">00:41:10</length>
   </programme>
-  <programme start="20261113234232 +0000" channel="tv3" stop="20261114000708 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Els llacs volcànics en terra maori</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.</desc>
-    <length units="minutes">00:24:36</length>
+  <programme start="20261114044854 +0000" channel="tv3" stop="20261114053505 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La samarreta imperi</sub-title>
+    <desc lang="ca">Portar samarreta imperi és tot un art, o un senyal que la vida t'ha anat molt malament. Elegància o deixadesa? Orgull o vergonya? En portaven a la Renaixença o els humans del segle XXI? Sigui com sigui, és la protagonista del programa d'avui. Ens visiten El Pony Pisador, que estrenen al nostre escenari un tema inèdit: 'L'havanera del raier'. I a 'Històries per passejar el gos' anem amb la Rita, una gossa de Calldetenes, a un dia tràgic: el 20 de gener del 1948, concretament a Nova Delhi, on hi va haver l'assassinat de Gandhi.</desc>
+    <length units="minutes">00:46:11</length>
   </programme>
-  <programme start="20261114000708 +0000" channel="tv3" stop="20261114003159 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Tresors per als homes</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra.</desc>
-    <length units="minutes">00:24:51</length>
+  <programme start="20261114053505 +0000" channel="tv3" stop="20261114054010 +0000">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Cap de Creus</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="minutes">00:05:05</length>
   </programme>
-  <programme start="20261113235538 +0000" channel="tvi" stop="20261114011709 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Maria i Assou</sub-title>
-    <desc lang="ca">MARIA I ASSOUProducció: Televisió de Catalunya; Massa d'Or Produccions; Canal 9 RTVV; Malvarrosa Media; Canal Sur Televisión, S.A.; La Zanfoña Producciones; Imago Video; 2M Télévision Marocaine amb la col·laboració de l'Institut Català de les Indústries Culturals (ICIC) i la Generalitat Valenciana, 2005Direcció: Sílvia Quer/ Durada: 84 minutsGuió: Teresa Vilardell, Miquel CasamayorFotografia: Federico RibesMúsica: Pablo CervantesIntèrprets: Mariola Ruíz (Maria); Younes Bachir (Assou); Ivanna Baquero (Nicole); Cristian Carrasco (Abraham); Juli Mira (Pare de la Maria); Miguel Angel Romo (Antonio)L'Assou és assassinat per l'Antonio, líder d'un grup de joves radicals, al mig del carrer, només per la seva condició de marroquí. La Maria, la seva dona, es disposa a lluitar per denunciar el fet, perquè es faci justícia. Però sembla que condemnar un noi d'assassinat per motius racistes faria disparar l'alarma social. Amb la impotència que sent, la Maria fa tot el que hi ha a les seves mans: organitza una manifestació amb poc èxit de congregació... Al judici condemnen a l'assassí per homicidi, sense que consti que els motius van ser purament racistes. La Maria s'enfonsa. No entén la justícia, no accepta la mort del seu marit i es tanca en sí mateixa. La seva relació amb l'Assou ja va ser complexa des d'un inici: la seva mare no va acceptar-la i molt menys que se n'anessin a viure a Europa. La Maria enterra l'Assou al Marroc. Es troba sola, amb dos fills petits, sense feina ni ganes de viure.... Però cal recuperar forces per continuar lluitant. I ho fa!</desc>
-    <length units="minutes">01:21:31</length>
+  <programme start="20261114043000 +0000" channel="tvi" stop="20261114051547 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">- Biel's Lower &amp; East Combo</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:45:47</length>
   </programme>
-  <programme start="20261114011709 +0000" channel="tvi" stop="20261114020128 +0000">
-    <title lang="ca">Replicants</title>
-    <sub-title lang="ca">Dune, l'essència d'un clàssic</sub-title>
-    <desc lang="ca">Anàlisi a fons d'una de les obres més emblemàtiques de la ciència-ficció moderna: 'Dune'. Un univers de llibres, pel·lícules, còmics, jocs i videojocs que contenen tots aquells elements dels quals han begut molts universos posteriors. I 'Dune', gairebé 60 anys després, també funciona com a metàfora del món actual. Mariona Borrull condueix aquest videopòdcast, amb la participació de Xavi Sánchez Pons, crític de cinema especialitzat en Fantasia i Terror i Laura Huerga, responsable de Duna Llibres, editorial de Dune en català.</desc>
-    <length units="minutes">00:44:19</length>
+  <programme start="20261114051547 +0000" channel="tvi" stop="20261114055657 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">- CLARA LUNA</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:41:10</length>
   </programme>
-  <programme start="20261113233000 +0000" channel="324" stop="20261114003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11696</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261114003000 +0000" channel="324" stop="20261114010000 +0000">
+  <programme start="20261114010000 +0000" channel="324" stop="20261114060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11697</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261113230001 +0000" channel="esport3" stop="20261114003102 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.</desc>
-    <length units="minutes">01:31:01</length>
+  <programme start="20261114060000 +0000" channel="324" stop="20261114070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11697</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261114003102 +0000" channel="esport3" stop="20261114005002 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5566</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:19:00</length>
+  <programme start="20261114043148 +0000" channel="esport3" stop="20261114053017 +0000">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Empat amb regust amarg</sub-title>
+    <desc lang="ca">El Barça va empatar a un amb l'Arsenal al Camp Nou amb xiulada per a Ona Batlle. En parlem amb Bernat Soler, Gemma Herrero i Ferran Correas. També analitzem el partit amb Mireia Vera. Sentirem les explicacions de Raphinha al Brasil i les declaracions de Koeman sobre Frenkie de Jong. Entrevistarem el capità de l'Espanyol, Javi Puado, i farem la prèvia del derbi barceloní Europa-Sant Andreu</desc>
+    <length units="minutes">00:58:29</length>
   </programme>
-  <programme start="20261113234054 +0000" channel="sx3" stop="20261114000104 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A la recerca del puma de Florida</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt busca un puma de Florida i el primer exemplar que troben és una femella que està ferida. La primera feina que tenen és curar-la, però després descobreixen que té cadells i llavors els han d'anar a protegir i a alimentar mentre la seva mare no ho pot fer. El Chris i el Martin es disposen a fer de cangurs de dues cries de puma.</desc>
-    <length units="minutes">00:20:10</length>
+  <programme start="20261114053017 +0000" channel="esport3" stop="20261114060006 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Matchday Champions Women J4</sub-title>
+    <desc lang="ca">Les escenes més destacades a la 4a jornada de la fase de lliga d'aquesta Champions 2026-2027.</desc>
+    <length units="minutes">00:29:49</length>
   </programme>
-  <programme start="20261114000104 +0000" channel="sx3" stop="20261114002113 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'àliga pescadora</sub-title>
-    <desc lang="ca">A en Jimmy li cauen les claus de la Nau Tortuga al mar. El Chris, el Martin i l'Aviva s'afanyen a crear poders d'àliga pescadora per trobar les claus abans que desapareguin per sempre.</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261114044027 +0000" channel="sx3" stop="20261114045156 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El cangueli</sub-title>
+    <desc lang="ca">La Guineta li explica a en Timbal que si molesta les abelles mentre treballen, s'enfaden i et poden atacar. Però en Timbal, com que té gana, no li fa cas i els pren una mica de mel. Com era d'esperar, les abelles s'enfaden i el persegueixen. L'ensurt és tan gros que en Timbal diu que no sortirà del cau mai més. Aleshores, els seus germans pensen un pla perquè venci les seves pors.</desc>
+    <length units="minutes">00:11:29</length>
+  </programme>
+  <programme start="20261114045156 +0000" channel="sx3" stop="20261114050326 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La campaneta de la guineta</sub-title>
+    <desc lang="ca">De camí cap al cau, en Pinxo veu un bastó molt maco, però la Guineta l'agafa primer. En Pinxo s'enfada molt, perquè diu que la Guineta sempre vol les coses que volen els altres. Poc després, els bessons troben una campaneta molt bonica al llit del riu, i la porten al cau per donar-li una sorpresa a la Trufa. Però la Guineta diu que la campaneta és seva! Ja hi tornem a ser.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
 </tv>
