@@ -1,5 +1,11 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
@@ -9,93 +15,74 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261114130124 +0000" channel="tv3" stop="20261114134338 +0000">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Fermí manté el liderat</sub-title>
-    <desc lang="ca">Fermín López, el davanter del Barça, va aconseguir amb els seus dos gols a l'Atlètico de Madrid, que el club blaugrana conservés el liderat de Primera Divisió.Lau Gibert, exconcursant d'Eufòria, acomiada el programa amb el seu nou tema 'BBY'.</desc>
-    <length units="minutes">00:42:14</length>
+  <programme start="20261114220703 +0000" channel="tv3" stop="20261115003754 +0000">
+    <title lang="ca">Col·lapse</title>
+    <sub-title lang="ca">161</sub-title>
+    <desc lang="ca">La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
+    <length units="minutes">02:30:51</length>
   </programme>
-  <programme start="20261114134338 +0000" channel="tv3" stop="20261114142632 +0000">
-    <title lang="ca">Gent de Primera</title>
-    <sub-title lang="ca">La natura marca el camí</sub-title>
-    <desc lang="ca">Respectar els tempos de l'entorn és un factor clau. En Sergi i la Laura guien les abelles durant la transhumància; l'Albert espera dos anys que les ostres madurin; la Gemma i en Pedro cuinen a foc lent plantes aromàtiques; en Rafel els segueix el pas als cavalls i n'aprofita la carn, i en Rafel domina el calendari agrícola.</desc>
-    <length units="minutes">00:42:54</length>
+  <programme start="20261115003754 +0000" channel="tv3" stop="20261115010117 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Flamenc d'aquí i d'ara</sub-title>
+    <desc lang="ca">El flamenc és modern i és català. I té molts altres trets distintius, fins i tot alguns de contradictoris. En aquest reportatge, però, ens centrarem principalment en aquests, a partir de diverses propostes artístiques que hi reflexionen. Hem reunit una bona colla flamenca al 'tablao' marcià per celebrar el Dia del Flamenc, que és el 16 de novembre. La cantant i compositora Ana Brenes ha publicat el primer disc en solitari, 'Mi camino', que reflecteix el respecte per una tradició canònica del flamenc des d'una sensibilitat totalment contemporània. La cantant de Santa Coloma de Gramenet hi posa la banda sonora amb el tema '¡Vendo, vendo!', inclòs en el disc, amb l'acompanyament de Jero Férec a la guitarra. A més, Brenes participa en l'espectacle 'Guacamayo', creat i interpretat per José Maldonado, el ballarí i coreògraf de Barcelona que incorpora el seu vessant d'artista plàstic sobre l'escenari. Maldonado s'ha inspirat en les aus de l'Amazònia peruana per oferir una proposta flamenca allunyada de tòpics. També ens acompanyen tres creadors que s'han acostat al flamenc fent-ne retrats singulars. Al documental 'Jaleos', el cineasta Isaki Lacuesta proposa un viatge tan rigorós com juganer a través d'aspectes i històries poc divulgats de l'art flamenc i en reivindica el lligam indissociable amb la modernitat. Una altra cineasta, Carla Simón, posa l'èmfasi en l'emoció que emana del flamenc i trenca les seves barreres temporals i estilístiques al curtmetratge musical 'Flamenco'. I l'escriptor i periodista Rafael Vallbona ha publicat 'Catalunya flamenca', una reflexió sobre l'arrelament del gènere a casa nostra, des d'una perspectiva històrica i personal.</desc>
+    <length units="minutes">00:23:23</length>
   </programme>
-  <programme start="20261114130758 +0000" channel="tv3" stop="20261114135506 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La lligacama</sub-title>
-    <desc lang="ca">Sabeu que la lligacama servia per aguantar les mitges i mitjons de tothom durant l'edat mitjana? Fins al segle XX no eren elàstics i queien. Tot tan sensual com la imatge que en tenim avui dia. Dediquem el capítol a la lligacama. Ve a veure'ns Litus Ballbé, un exjugador professional d'hoquei herba que va decidir deixar-ho tot per ordenar-se capellà. Dels Jocs Olímpics de Londres 2012 a l'església. Sortim a passejar la Guspi fins al sisme de la Candelera. No anem gaire lluny, perquè va passar a Queralbs... però l'any 1428.</desc>
-    <length units="minutes">00:47:08</length>
+  <programme start="20261114223112 +0000" channel="tv3" stop="20261114230200 +0000">
+    <title lang="ca">El documental</title>
+    <sub-title lang="ca">El somni de Secret Myers</sub-title>
+    <desc lang="ca">'Per als pobres, somiar no és fàcil.' Aquesta reflexió ens obre les portes a una història de lluita i resistència. Durant vint anys, hem seguit la vida de la Secret, una jove nascuda a la Libèria postbèl·lica que lluita per fer realitat un somni que sembla inabastable: convertir-se en metgessa.La Secret va néixer en una família sense recursos econòmics i va ser educada per convertir-se en una bona mestressa de casa. Des de ben petita s'ha hagut de fer càrrec dels quatre germans petits i el seu entorn mai no va contemplar la possibilitat que un dia volgués ser metgessa.Malgrat la seva tenacitat, el camí ha estat ple d'obstacles. En més d'una ocasió ha hagut d'abandonar l'escola, però no ha deixat mai de lluitar. Ara, amb vint anys, viu un moment clau: ha tornat a estudiar i lluita per recuperar els anys perduts, convençuda que encara és a temps de fer realitat el seu somni.El documental és una mirada íntima sobre les desigualtats globals que posa rostre a una veritat incòmoda: el lloc on naixem determina profundament les oportunitats que tindrem a la vida.</desc>
+    <length units="minutes">00:30:48</length>
   </programme>
-  <programme start="20261114135506 +0000" channel="tv3" stop="20261114141805 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Fumar, matar a distància</sub-title>
-    <desc lang="ca">Els efectes sobre la salut del fum del tabac seran analitzats demà a 'Quèquicom'. El fum del tabac conté més de vuit mil productes tòxics, entre els quals l'arsènic i la nicotina. I el programa científic del 33 descobrirà, a partir de les 21.30 i amb el títol genèric de 'Tabac: matar a distància', les amenaces per a la salut del tabaquisme, una addicció que causa prop de nou mil morts cada any a Catalunya. 'Quèquicom' es preocupa també pels fumadors passius, que són les persones que inhalen les substàncies tòxiques del fum del tabac generat per altres. És el cas de la Mari Luz Navarro, que només fa tres anys que treballa en un bar de Barcelona, on es passa tota la jornada laboral envoltada de fum. Ella es mostra optimista i no es vol preocupar per la manera com pot afectar la seva salut, però el reporter Miquel Piris es desplaça al bar amb un equip d'investigadors del CSIC per analitzar-ne l'aire i comparar-ne els nivells de contaminació amb els dels carrers de Barcelona. El resultat és que al bar hi ha deu vegades més pol·lució que a la ciutat.Un altre cas de fumadora passiva és el de l'Esther Roquer, que no ha fumat mai, però que va inhalar fum del tabac durant els 30 anys treballats en un bar. La conseqüència és que va agafar una malaltia pulmonar molt greu, que la va obligar a abandonar la feina. I ara, des de fa poc temps, es parla d'un nou grup, el dels 'fumadors de tercera mà'. El fum del tabac ho impregna tot i els tòxics que conté persisteixen en l'atmosfera, tot i haver apagat el cigarret. Aquestes substàncies nocives reaccionen amb els compostos nitrogenats de l'aire i produeixen un nou tipus de producte químic molt cancerigen, les nitrosamines.</desc>
-    <length units="minutes">00:22:59</length>
+  <programme start="20261114230200 +0000" channel="tv3" stop="20261114233153 +0000">
+    <title lang="ca">El documental</title>
+    <sub-title lang="ca">Imade</sub-title>
+    <length units="minutes">00:29:53</length>
   </programme>
-  <programme start="20261114125000 +0000" channel="tv3" stop="20261114144455 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">- ElPozo Múrcia-Barça / Primera divisió / J8</sub-title>
-    <desc lang="ca">Els blaugranes, que estan invictes i només han cedit 2 punts dels 18 que han disputat, tenen un sortida exigent a la pista de la capital murciana. El Pozo, però, està per sota a la classificació. Ha jugat un partit més i suma 13 punts (4 victòries, 1 empat i 2 derrotes).</desc>
-    <length units="minutes">01:49:55</length>
+  <programme start="20261114220703 +0000" channel="tvi" stop="20261115003754 +0000">
+    <title lang="ca">Col·lapse</title>
+    <sub-title lang="ca">161</sub-title>
+    <desc lang="ca">La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
+    <length units="minutes">02:30:51</length>
   </programme>
-  <programme start="20261114115500 +0000" channel="tv3" stop="20261114135455 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">- RCD Espanyol-CD Tenerife / Lliga F / J11</sub-title>
-    <desc lang="ca">Les blanc-i-blaves s'han situat sisenes amb 15 punts. El conjunt tinerfeny té només 1 punt menys i és un rival directe en la lluita per seguir a la part alta de la classificació.</desc>
-    <length units="minutes">01:59:55</length>
+  <programme start="20261115003754 +0000" channel="tvi" stop="20261115005836 +0000">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Flamenc d'aquí i d'ara</sub-title>
+    <desc lang="ca">El flamenc és modern i és català. I té molts altres trets distintius, fins i tot alguns de contradictoris. En aquest reportatge, però, ens centrarem principalment en aquests, a partir de diverses propostes artístiques que hi reflexionen. Hem reunit una bona colla flamenca al 'tablao' marcià per celebrar el Dia del Flamenc, que és el 16 de novembre. La cantant i compositora Ana Brenes ha publicat el primer disc en solitari, 'Mi camino', que reflecteix el respecte per una tradició canònica del flamenc des d'una sensibilitat totalment contemporània. La cantant de Santa Coloma de Gramenet hi posa la banda sonora amb el tema '¡Vendo, vendo!', inclòs en el disc, amb l'acompanyament de Jero Férec a la guitarra. A més, Brenes participa en l'espectacle 'Guacamayo', creat i interpretat per José Maldonado, el ballarí i coreògraf de Barcelona que incorpora el seu vessant d'artista plàstic sobre l'escenari. Maldonado s'ha inspirat en les aus de l'Amazònia peruana per oferir una proposta flamenca allunyada de tòpics. També ens acompanyen tres creadors que s'han acostat al flamenc fent-ne retrats singulars. Al documental 'Jaleos', el cineasta Isaki Lacuesta proposa un viatge tan rigorós com juganer a través d'aspectes i històries poc divulgats de l'art flamenc i en reivindica el lligam indissociable amb la modernitat. Una altra cineasta, Carla Simón, posa l'èmfasi en l'emoció que emana del flamenc i trenca les seves barreres temporals i estilístiques al curtmetratge musical 'Flamenco'. I l'escriptor i periodista Rafael Vallbona ha publicat 'Catalunya flamenca', una reflexió sobre l'arrelament del gènere a casa nostra, des d'una perspectiva històrica i personal.</desc>
+    <length units="minutes">00:20:42</length>
   </programme>
-  <programme start="20261114132500 +0000" channel="tv3" stop="20261114150955 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- Sanjoanense-Benfica / Continental Cup Women / 2a semifinal</sub-title>
-    <desc lang="ca">La segona semifinal femenina, la disputen dos equips portuguesos. L'AD Sanjoanense és el campió vigent de la Copa WSE i l'SL Benfica, el subcampió de la Champions.</desc>
-    <length units="minutes">01:44:55</length>
-  </programme>
-  <programme start="20261114133628 +0000" channel="tvi" stop="20261114134339 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Gavarres</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:07:11</length>
-  </programme>
-  <programme start="20261114120000 +0000" channel="324" stop="20261114143000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11700</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20261114143000 +0000" channel="324" stop="20261114163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7389</sub-title>
+  <programme start="20261114210000 +0000" channel="324" stop="20261114230000 +0000">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">7388</sub-title>
     <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261114125500 +0000" channel="esport3" stop="20261114143820 +0000">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">ElPozo Múrcia-Barça / Primera divisió / J8</sub-title>
-    <desc lang="ca">Els blaugranes, que estan invictes i només han cedit 2 punts dels 18 que han disputat, tenen un sortida exigent a la pista de la capital murciana. El Pozo, però, està per sota a la classificació. Ha jugat un partit més i suma 13 punts (4 victòries, 1 empat i 2 derrotes).</desc>
-    <length units="minutes">01:43:20</length>
+  <programme start="20261114230000 +0000" channel="324" stop="20261115003000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11704</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261114143820 +0000" channel="esport3" stop="20261114155500 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">RCD Espanyol-CD Tenerife / Lliga F / J11</sub-title>
-    <desc lang="ca">Les blanc-i-blaves s'han situat sisenes amb 15 punts. El conjunt tinerfeny té només 1 punt menys i és un rival directe en la lluita per seguir a la part alta de la classificació.</desc>
-    <length units="minutes">01:16:40</length>
+  <programme start="20261114223553 +0000" channel="esport3" stop="20261114230000 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Porto-CP Calafell / Continental Cup Men / 2a semifinal</sub-title>
+    <desc lang="ca">El conjunt portuguès, últim guanyador de la Champions, s'enfronta amb l'amfitrió d'aquesta Continental Cup. El CP Calafell La Menorquina la disputa com a subcampió de la Copa WSE.</desc>
+    <length units="minutes">00:24:07</length>
   </programme>
-  <programme start="20261114132447 +0000" channel="sx3" stop="20261114134658 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Activem el poder dels nens. 1a part</sub-title>
-    <desc lang="ca">Mentre el Chris i el Martin es dediquen a salvar un ou de colibrí que ha caigut del niu, l'Aviva dona els últims tocs a una actualització per augmentar la capacitat d'activació dels vestits de poder animal. Però, llavors, comencen a rebre un munt de trucades dels amics que els germans Kratt tenen per tot el món demanant ajuda per salvar animals.</desc>
-    <length units="minutes">00:22:11</length>
+  <programme start="20261114230000 +0000" channel="esport3" stop="20261115000123 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">01:01:23</length>
   </programme>
-  <programme start="20261114134658 +0000" channel="sx3" stop="20261114141442 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Quin pollastre!!! - Twin Melody</sub-title>
-    <desc lang="ca">Amb aquest títol, el Cinto ja es posa les mans al cap. I és que avui ens visiten les Twin Melody, unes artistes basques bessones amb 16 milions de seguidors a TikTok i 1,3 milions a Instagram. I com que elles s'alimenten principalment de pollastre, la Paula els farà preparar unes divertides broquetes de pollastre i verdures. La Paula té el repte que aprenguin una mica de cuina i català i, a canvi, la Paula vol que elles li ensenyin una mica d'euskera. Les coreografies, les respostes al mateix temps i els riures estan assegurats amb aquest parell de germanes. Podrà distingir la Paula qui és l'Aitana i qui és la Paula?</desc>
-    <length units="minutes">00:27:44</length>
+  <programme start="20261114224521 +0000" channel="sx3" stop="20261114225610 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Perduda a Correus</sub-title>
+    <desc lang="ca">L'Agnes truca molt nerviosa. Els seus amos han confós la closca d'en Reggie amb un bol i l'han enviat com a regal de noces. La Flo, la Maggie i en Jo passen a l'acció i decideixen buscar el carter per canviar la closca per un altre paquet. Mentrestant, en Clive i en Billy vigilen en Reggie, que vol recuperar la closca tot sol com sigui.</desc>
+    <length units="minutes">00:10:49</length>
+  </programme>
+  <programme start="20261114225610 +0000" channel="sx3" stop="20261114230708 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Amor innocent</sub-title>
+    <desc lang="ca">La Bertha truca la Tropa del Corral: vol que preguntin a en Sam si li ve de gust sopar amb ella, tot i que li fa por que digui que no. Quan parlen amb en Sam, ell pensa que és la Flo qui vol sopar amb ell, i decideix mudar-se a la granja amb els cadells.</desc>
+    <length units="minutes">00:10:58</length>
   </programme>
 </tv>
