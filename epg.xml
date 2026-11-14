@@ -1,90 +1,101 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261114043000 +0000" channel="tv3" stop="20261114051547 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Biel's Lower &amp; East Combo</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:47</length>
+  <programme start="20261114130124 +0000" channel="tv3" stop="20261114134338 +0000">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">Fermí manté el liderat</sub-title>
+    <desc lang="ca">Fermín López, el davanter del Barça, va aconseguir amb els seus dos gols a l'Atlètico de Madrid, que el club blaugrana conservés el liderat de Primera Divisió.Lau Gibert, exconcursant d'Eufòria, acomiada el programa amb el seu nou tema 'BBY'.</desc>
+    <length units="minutes">00:42:14</length>
   </programme>
-  <programme start="20261114051547 +0000" channel="tv3" stop="20261114055657 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Clara Luna</sub-title>
-    <desc lang="ca">Clara Luna presenta 'Viajes', el primer disc de composicions originals. En aquesta nova proposta Luna ens mostra el seu vessant més de cantautora, en un repertori inspirat en els seus viatges arreu del món.Podrem sentir-la cantant rumbes, tanguillos, chacareras, tangos i un jazz que es barreja amb el rock i el pop sense complexos. L'acompanyen Matías Miguez al baix, Gustavo Rocha a la guitarra, Salvador Toscano a la bateria, i Fernando Tejero, al piano.</desc>
-    <length units="minutes">00:41:10</length>
+  <programme start="20261114134338 +0000" channel="tv3" stop="20261114142632 +0000">
+    <title lang="ca">Gent de Primera</title>
+    <sub-title lang="ca">La natura marca el camí</sub-title>
+    <desc lang="ca">Respectar els tempos de l'entorn és un factor clau. En Sergi i la Laura guien les abelles durant la transhumància; l'Albert espera dos anys que les ostres madurin; la Gemma i en Pedro cuinen a foc lent plantes aromàtiques; en Rafel els segueix el pas als cavalls i n'aprofita la carn, i en Rafel domina el calendari agrícola.</desc>
+    <length units="minutes">00:42:54</length>
   </programme>
-  <programme start="20261114044854 +0000" channel="tv3" stop="20261114053505 +0000">
+  <programme start="20261114130758 +0000" channel="tv3" stop="20261114135506 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La samarreta imperi</sub-title>
-    <desc lang="ca">Portar samarreta imperi és tot un art, o un senyal que la vida t'ha anat molt malament. Elegància o deixadesa? Orgull o vergonya? En portaven a la Renaixença o els humans del segle XXI? Sigui com sigui, és la protagonista del programa d'avui. Ens visiten El Pony Pisador, que estrenen al nostre escenari un tema inèdit: 'L'havanera del raier'. I a 'Històries per passejar el gos' anem amb la Rita, una gossa de Calldetenes, a un dia tràgic: el 20 de gener del 1948, concretament a Nova Delhi, on hi va haver l'assassinat de Gandhi.</desc>
-    <length units="minutes">00:46:11</length>
+    <sub-title lang="ca">La lligacama</sub-title>
+    <desc lang="ca">Sabeu que la lligacama servia per aguantar les mitges i mitjons de tothom durant l'edat mitjana? Fins al segle XX no eren elàstics i queien. Tot tan sensual com la imatge que en tenim avui dia. Dediquem el capítol a la lligacama. Ve a veure'ns Litus Ballbé, un exjugador professional d'hoquei herba que va decidir deixar-ho tot per ordenar-se capellà. Dels Jocs Olímpics de Londres 2012 a l'església. Sortim a passejar la Guspi fins al sisme de la Candelera. No anem gaire lluny, perquè va passar a Queralbs... però l'any 1428.</desc>
+    <length units="minutes">00:47:08</length>
   </programme>
-  <programme start="20261114053505 +0000" channel="tv3" stop="20261114054010 +0000">
+  <programme start="20261114135506 +0000" channel="tv3" stop="20261114141805 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Fumar, matar a distància</sub-title>
+    <desc lang="ca">Els efectes sobre la salut del fum del tabac seran analitzats demà a 'Quèquicom'. El fum del tabac conté més de vuit mil productes tòxics, entre els quals l'arsènic i la nicotina. I el programa científic del 33 descobrirà, a partir de les 21.30 i amb el títol genèric de 'Tabac: matar a distància', les amenaces per a la salut del tabaquisme, una addicció que causa prop de nou mil morts cada any a Catalunya. 'Quèquicom' es preocupa també pels fumadors passius, que són les persones que inhalen les substàncies tòxiques del fum del tabac generat per altres. És el cas de la Mari Luz Navarro, que només fa tres anys que treballa en un bar de Barcelona, on es passa tota la jornada laboral envoltada de fum. Ella es mostra optimista i no es vol preocupar per la manera com pot afectar la seva salut, però el reporter Miquel Piris es desplaça al bar amb un equip d'investigadors del CSIC per analitzar-ne l'aire i comparar-ne els nivells de contaminació amb els dels carrers de Barcelona. El resultat és que al bar hi ha deu vegades més pol·lució que a la ciutat.Un altre cas de fumadora passiva és el de l'Esther Roquer, que no ha fumat mai, però que va inhalar fum del tabac durant els 30 anys treballats en un bar. La conseqüència és que va agafar una malaltia pulmonar molt greu, que la va obligar a abandonar la feina. I ara, des de fa poc temps, es parla d'un nou grup, el dels 'fumadors de tercera mà'. El fum del tabac ho impregna tot i els tòxics que conté persisteixen en l'atmosfera, tot i haver apagat el cigarret. Aquestes substàncies nocives reaccionen amb els compostos nitrogenats de l'aire i produeixen un nou tipus de producte químic molt cancerigen, les nitrosamines.</desc>
+    <length units="minutes">00:22:59</length>
+  </programme>
+  <programme start="20261114125000 +0000" channel="tv3" stop="20261114144455 +0000">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">- ElPozo Múrcia-Barça / Primera divisió / J8</sub-title>
+    <desc lang="ca">Els blaugranes, que estan invictes i només han cedit 2 punts dels 18 que han disputat, tenen un sortida exigent a la pista de la capital murciana. El Pozo, però, està per sota a la classificació. Ha jugat un partit més i suma 13 punts (4 victòries, 1 empat i 2 derrotes).</desc>
+    <length units="minutes">01:49:55</length>
+  </programme>
+  <programme start="20261114115500 +0000" channel="tv3" stop="20261114135455 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">- RCD Espanyol-CD Tenerife / Lliga F / J11</sub-title>
+    <desc lang="ca">Les blanc-i-blaves s'han situat sisenes amb 15 punts. El conjunt tinerfeny té només 1 punt menys i és un rival directe en la lluita per seguir a la part alta de la classificació.</desc>
+    <length units="minutes">01:59:55</length>
+  </programme>
+  <programme start="20261114132500 +0000" channel="tv3" stop="20261114150955 +0000">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- Sanjoanense-Benfica / Continental Cup Women / 2a semifinal</sub-title>
+    <desc lang="ca">La segona semifinal femenina, la disputen dos equips portuguesos. L'AD Sanjoanense és el campió vigent de la Copa WSE i l'SL Benfica, el subcampió de la Champions.</desc>
+    <length units="minutes">01:44:55</length>
+  </programme>
+  <programme start="20261114133628 +0000" channel="tvi" stop="20261114134339 +0000">
     <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Cap de Creus</sub-title>
+    <sub-title lang="ca">Gavarres</sub-title>
     <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:05:05</length>
+    <length units="minutes">00:07:11</length>
   </programme>
-  <programme start="20261114043000 +0000" channel="tvi" stop="20261114051547 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">- Biel's Lower &amp; East Combo</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:45:47</length>
-  </programme>
-  <programme start="20261114051547 +0000" channel="tvi" stop="20261114055657 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">- CLARA LUNA</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:41:10</length>
-  </programme>
-  <programme start="20261114010000 +0000" channel="324" stop="20261114060000 +0000">
+  <programme start="20261114120000 +0000" channel="324" stop="20261114143000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11697</sub-title>
+    <sub-title lang="ca">11700</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261114060000 +0000" channel="324" stop="20261114070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11697</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261114143000 +0000" channel="324" stop="20261114163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7389</sub-title>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261114043148 +0000" channel="esport3" stop="20261114053017 +0000">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Empat amb regust amarg</sub-title>
-    <desc lang="ca">El Barça va empatar a un amb l'Arsenal al Camp Nou amb xiulada per a Ona Batlle. En parlem amb Bernat Soler, Gemma Herrero i Ferran Correas. També analitzem el partit amb Mireia Vera. Sentirem les explicacions de Raphinha al Brasil i les declaracions de Koeman sobre Frenkie de Jong. Entrevistarem el capità de l'Espanyol, Javi Puado, i farem la prèvia del derbi barceloní Europa-Sant Andreu</desc>
-    <length units="minutes">00:58:29</length>
+  <programme start="20261114125500 +0000" channel="esport3" stop="20261114143820 +0000">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">ElPozo Múrcia-Barça / Primera divisió / J8</sub-title>
+    <desc lang="ca">Els blaugranes, que estan invictes i només han cedit 2 punts dels 18 que han disputat, tenen un sortida exigent a la pista de la capital murciana. El Pozo, però, està per sota a la classificació. Ha jugat un partit més i suma 13 punts (4 victòries, 1 empat i 2 derrotes).</desc>
+    <length units="minutes">01:43:20</length>
   </programme>
-  <programme start="20261114053017 +0000" channel="esport3" stop="20261114060006 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Matchday Champions Women J4</sub-title>
-    <desc lang="ca">Les escenes més destacades a la 4a jornada de la fase de lliga d'aquesta Champions 2026-2027.</desc>
-    <length units="minutes">00:29:49</length>
+  <programme start="20261114143820 +0000" channel="esport3" stop="20261114155500 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">RCD Espanyol-CD Tenerife / Lliga F / J11</sub-title>
+    <desc lang="ca">Les blanc-i-blaves s'han situat sisenes amb 15 punts. El conjunt tinerfeny té només 1 punt menys i és un rival directe en la lluita per seguir a la part alta de la classificació.</desc>
+    <length units="minutes">01:16:40</length>
   </programme>
-  <programme start="20261114044027 +0000" channel="sx3" stop="20261114045156 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El cangueli</sub-title>
-    <desc lang="ca">La Guineta li explica a en Timbal que si molesta les abelles mentre treballen, s'enfaden i et poden atacar. Però en Timbal, com que té gana, no li fa cas i els pren una mica de mel. Com era d'esperar, les abelles s'enfaden i el persegueixen. L'ensurt és tan gros que en Timbal diu que no sortirà del cau mai més. Aleshores, els seus germans pensen un pla perquè venci les seves pors.</desc>
-    <length units="minutes">00:11:29</length>
+  <programme start="20261114132447 +0000" channel="sx3" stop="20261114134658 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Activem el poder dels nens. 1a part</sub-title>
+    <desc lang="ca">Mentre el Chris i el Martin es dediquen a salvar un ou de colibrí que ha caigut del niu, l'Aviva dona els últims tocs a una actualització per augmentar la capacitat d'activació dels vestits de poder animal. Però, llavors, comencen a rebre un munt de trucades dels amics que els germans Kratt tenen per tot el món demanant ajuda per salvar animals.</desc>
+    <length units="minutes">00:22:11</length>
   </programme>
-  <programme start="20261114045156 +0000" channel="sx3" stop="20261114050326 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La campaneta de la guineta</sub-title>
-    <desc lang="ca">De camí cap al cau, en Pinxo veu un bastó molt maco, però la Guineta l'agafa primer. En Pinxo s'enfada molt, perquè diu que la Guineta sempre vol les coses que volen els altres. Poc després, els bessons troben una campaneta molt bonica al llit del riu, i la porten al cau per donar-li una sorpresa a la Trufa. Però la Guineta diu que la campaneta és seva! Ja hi tornem a ser.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261114134658 +0000" channel="sx3" stop="20261114141442 +0000">
+    <title lang="ca">Manduka</title>
+    <sub-title lang="ca">Quin pollastre!!! - Twin Melody</sub-title>
+    <desc lang="ca">Amb aquest títol, el Cinto ja es posa les mans al cap. I és que avui ens visiten les Twin Melody, unes artistes basques bessones amb 16 milions de seguidors a TikTok i 1,3 milions a Instagram. I com que elles s'alimenten principalment de pollastre, la Paula els farà preparar unes divertides broquetes de pollastre i verdures. La Paula té el repte que aprenguin una mica de cuina i català i, a canvi, la Paula vol que elles li ensenyin una mica d'euskera. Les coreografies, les respostes al mateix temps i els riures estan assegurats amb aquest parell de germanes. Podrà distingir la Paula qui és l'Aitana i qui és la Paula?</desc>
+    <length units="minutes">00:27:44</length>
   </programme>
 </tv>
