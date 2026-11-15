@@ -1,100 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <programme start="20261115114500 +0000" channel="tv3" stop="20261115141356 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
-    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit.</desc>
-    <length units="minutes">02:28:56</length>
+  <programme start="20261115225317 +0000" channel="tv3" stop="20261115235913 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">7</sub-title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="minutes">01:05:56</length>
   </programme>
-  <programme start="20261115141356 +0000" channel="tv3" stop="20261115143000 +0000">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">1089</sub-title>
-    <desc lang="ca">El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
-    <length units="minutes">00:16:04</length>
+  <programme start="20261115235913 +0000" channel="tv3" stop="20261116003824 +0000">
+    <title lang="ca">Gent amb DO</title>
+    <sub-title lang="ca">DO Pla de Bages. 'Tota pedra fa paret':</sub-title>
+    <desc lang="ca">Entre barraques de pedra seca, tines amagades al bosc i la mirada imponent de Montserrat, l'Empar descobreix una denominació que ha sabut convertir la memòria en futur. Acompanyada de viticultors, sumillers i persones que estimen profundament aquest territori, segueix el fil conductor del picapoll, una varietat que explica la recuperació d'un paisatge i d'una identitat vitivinícola única.</desc>
+    <length units="minutes">00:39:11</length>
   </programme>
-  <programme start="20261115133120 +0000" channel="tv3" stop="20261115141630 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 17</sub-title>
-    <desc lang="ca">En una setmana hem descobert què són les manuelles, per què ens agrada tant anar amb pijama, com és de fred l'estetoscopi i quina era la primera funció de la lligacama. Hem xerrat amb Nani Roma, pilot de raids; Josep Alcover, exsoldador submarí i escriptor; Ypnosi, un grup de música emergent; i Litus Ballbé, un exjugador professional d'hoquei herba que va penjar l'estic per ordenar-se capellà. Aquí trobareu un resum del que han sigut aquests últims programes, que també podeu recuperar sencers.</desc>
-    <length units="minutes">00:45:10</length>
+  <programme start="20261115230314 +0000" channel="tv3" stop="20261115235603 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Turquia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
+    <length units="minutes">00:52:49</length>
   </programme>
-  <programme start="20261115141630 +0000" channel="tv3" stop="20261115144204 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Dominar la veu</sub-title>
-    <desc lang="ca">Qui no ha volgut mai dominar la veu? 'Quèquicom' fa un recorregut per les entranyes de les cordes vocals amb una càmera que entra per la boca i també assisteix a una classe de logopèdia per treure el màxim profit de l'aparell fonador. La reportera Samantha Vall vol cantar en un temps rècord, tot i no saber res de música. La seva professora, l'Anna Valldeneu, explica que tothom pot aprendre a cantar amb més o menys eficàcia. Però qui realment domina la veu són els cantants de lírica. 'Quèquicom' demana a alguns intèrprets del Cor del Gran Teatre del Liceu que cantin per saber diferenciar els diferents tipus de registres de veu que existeixen. Els mestres són els que tenen més problemes de veu. 'Quèquicom' segueix la veu de la Cristina, una professora amb problemes a les cordes vocals. La foniatra s'endinsa amb una càmera a l'interior de l'aparell fonador de la professora per comprovar com es mouen les cordes vocals. Després, amb l'ajuda de la logopeda, la Cristina reaprèn a parlar sense fer-se mal a la gola.</desc>
-    <length units="minutes">00:25:34</length>
+  <programme start="20261115235603 +0000" channel="tv3" stop="20261116002131 +0000">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Qasr Al Sarab d'Anantara - Emirats Àrabs Units</sub-title>
+    <desc lang="ca">Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.</desc>
+    <length units="minutes">00:25:28</length>
   </programme>
-  <programme start="20261115114455 +0000" channel="tv3" stop="20261115141218 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
-    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit.</desc>
-    <length units="minutes">02:27:23</length>
+  <programme start="20261115225317 +0000" channel="tvi" stop="20261115235913 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">7</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">01:05:56</length>
   </programme>
-  <programme start="20261115125500 +0000" channel="tv3" stop="20261115145455 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- CP Esneca Fraga-SL Benfica / Continental Cup Women / Final</sub-title>
-    <desc lang="ca">Des del Pavelló Joan Ortoll de Calafell, final de la Continental Cup que es disputa en categoria femenina per primera vegada en la història.</desc>
-    <length units="minutes">01:59:55</length>
+  <programme start="20261115235913 +0000" channel="tvi" stop="20261116003824 +0000">
+    <title lang="ca">Gent amb DO</title>
+    <sub-title lang="ca">- DO Pla de Bages. 'Tota pedra fa paret':</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:39:11</length>
   </programme>
-  <programme start="20261115113925 +0000" channel="tvi" stop="20261115142926 +0000">
+  <programme start="20261115230000 +0000" channel="324" stop="20261116003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11707</sub-title>
+    <sub-title lang="ca">11712</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:50:01</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261115142926 +0000" channel="tvi" stop="20261115143000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7390</sub-title>
-    <length units="minutes">00:00:34</length>
-  </programme>
-  <programme start="20261115120000 +0000" channel="324" stop="20261115143000 +0000">
+  <programme start="20261116003000 +0000" channel="324" stop="20261116010000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11708</sub-title>
+    <sub-title lang="ca">11713</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:30:00</length>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261115143000 +0000" channel="324" stop="20261115163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7390</sub-title>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261115230003 +0000" channel="esport3" stop="20261116000059 +0000">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="minutes">01:00:56</length>
   </programme>
-  <programme start="20261115140239 +0000" channel="esport3" stop="20261115143503 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">CP Esneca Fraga-SL Benfica / Continental Cup Women / Final</sub-title>
-    <desc lang="ca">Des del Pavelló Joan Ortoll de Calafell, final de la Continental Cup que es disputa en categoria femenina per primera vegada en la història.</desc>
-    <length units="minutes">00:32:24</length>
+  <programme start="20261116000059 +0000" channel="esport3" stop="20261116001822 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5568</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:17:23</length>
   </programme>
-  <programme start="20261115143503 +0000" channel="esport3" stop="20261115152000 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 12</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:44:57</length>
+  <programme start="20261115230650 +0000" channel="sx3" stop="20261115231741 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Fa massa calor</sub-title>
+    <desc lang="ca">En Prince truca la Tropa perquè té fred. Els seus amos han marxat de cap de setmana i han apagat la calefacció. La Flo hi instal·la un dels seus invents per escalfar la casa, però funciona tan bé que l'aigua de la peixera d'en Fred i la Frida es comença a evaporar. El problema? Que el granger no deixa sortir la Tropa de la granja perquè es pensa que tenen gana i no els para de posar menjar.</desc>
+    <length units="minutes">00:10:51</length>
   </programme>
-  <programme start="20261115134146 +0000" channel="sx3" stop="20261115140802 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Sopa cruixent - Guillem Viladoms i Alba</sub-title>
-    <desc lang="ca">La Paula rebrà la visita d'un divertit influencer, Guillem Viladoms. I no vindrà sol, sinó que ho farà amb la seva xicota Alba que l'acompanya en molts dels vídeos. Com que sap que el Guillem i l'Alba això de la cuina no és el seu fort, els ha preparat una recepta molt senzilla: un batut de maduixots amb fruita. Però en aquesta curiosa sopa hi afegirà un punt cruixent... doncs el primer que faran serà un crumble. I com que aquest parell als seus vídeos sempre tenen reptes de qui fa una cosa o no, o qui en sap més o qui és més ràpid... la Paula farcirà tot el cuinat amb reptes i preguntes divertides per a ells.</desc>
-    <length units="minutes">00:26:16</length>
-  </programme>
-  <programme start="20261115140802 +0000" channel="sx3" stop="20261115143625 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Duet de Mac&amp;Cheese. LÍídia Rauet i Andre Mengual</sub-title>
-    <desc lang="ca">Avui la Paula rep dues tiktokers que no deixen de ballar i de riure: la Lidia Rauet i l'Andrea Mengual. De ballar en saben molt, però la cuina no és el seu fort. Per això la Paula ha pensat que els ensenyarà a preparar una recepta típicament americana i que farà les delícies de molts mandúkers: el famós Mac &amp;Cheese. I ho faran de dues formes: de la forma clàssica i en una versió més fàcil i assequible per a la Lidia i l'Andrea: al microones. Fa pinta que les 3 juntes no deixaran de fer coreografies i de riure mentre cuinen. Podrà el Cinto suportar tanta bogeria a la seva cuina???</desc>
-    <length units="minutes">00:28:23</length>
+  <programme start="20261115231741 +0000" channel="sx3" stop="20261115232825 +0000">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">En Mac se'n va d'excursió</sub-title>
+    <desc lang="ca">En Sam està amoïnat perquè en Mac se'n vol anar tot sol al parc i la Tropa el convenç perquè li ho permeti, ja que ells el vigilaran durant tot el camí. Quan en Mac descobreix que el segueixen, arrenca a córrer i la passejadeta es converteix en una fugida en tota regla.</desc>
+    <length units="minutes">00:10:44</length>
   </programme>
 </tv>
