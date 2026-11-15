@@ -1,88 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261114220703 +0000" channel="tv3" stop="20261115003754 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">161</sub-title>
-    <desc lang="ca">La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
-    <length units="minutes">02:30:51</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261115043000 +0000" channel="tv3" stop="20261115051528 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">A-Phonics</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:28</length>
   </programme>
-  <programme start="20261115003754 +0000" channel="tv3" stop="20261115010117 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Flamenc d'aquí i d'ara</sub-title>
-    <desc lang="ca">El flamenc és modern i és català. I té molts altres trets distintius, fins i tot alguns de contradictoris. En aquest reportatge, però, ens centrarem principalment en aquests, a partir de diverses propostes artístiques que hi reflexionen. Hem reunit una bona colla flamenca al 'tablao' marcià per celebrar el Dia del Flamenc, que és el 16 de novembre. La cantant i compositora Ana Brenes ha publicat el primer disc en solitari, 'Mi camino', que reflecteix el respecte per una tradició canònica del flamenc des d'una sensibilitat totalment contemporània. La cantant de Santa Coloma de Gramenet hi posa la banda sonora amb el tema '¡Vendo, vendo!', inclòs en el disc, amb l'acompanyament de Jero Férec a la guitarra. A més, Brenes participa en l'espectacle 'Guacamayo', creat i interpretat per José Maldonado, el ballarí i coreògraf de Barcelona que incorpora el seu vessant d'artista plàstic sobre l'escenari. Maldonado s'ha inspirat en les aus de l'Amazònia peruana per oferir una proposta flamenca allunyada de tòpics. També ens acompanyen tres creadors que s'han acostat al flamenc fent-ne retrats singulars. Al documental 'Jaleos', el cineasta Isaki Lacuesta proposa un viatge tan rigorós com juganer a través d'aspectes i històries poc divulgats de l'art flamenc i en reivindica el lligam indissociable amb la modernitat. Una altra cineasta, Carla Simón, posa l'èmfasi en l'emoció que emana del flamenc i trenca les seves barreres temporals i estilístiques al curtmetratge musical 'Flamenco'. I l'escriptor i periodista Rafael Vallbona ha publicat 'Catalunya flamenca', una reflexió sobre l'arrelament del gènere a casa nostra, des d'una perspectiva històrica i personal.</desc>
-    <length units="minutes">00:23:23</length>
+  <programme start="20261115051528 +0000" channel="tv3" stop="20261115060000 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Matías Míguez</sub-title>
+    <desc lang="ca">Matías Miguez ens presenta el seu nou repertori, on explora la diversitat. La malenconia del tango amb la llibertat del jazz. El ritme d'anada i tornada entre el Mediterrani i la música afroamericana. Amb aquesta formació, en la veu del bandoneó ens explica històries urbanes en el marc escaient d'un so contemporàni. L'acompanyen Xavier Tribolet, als teclats; Gustavo Rocha, a la guitarra; Marcelo Mercadante, al bandoneó, i Alberto Pérez, a la percussió.</desc>
+    <length units="minutes">00:44:32</length>
   </programme>
-  <programme start="20261114223112 +0000" channel="tv3" stop="20261114230200 +0000">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">El somni de Secret Myers</sub-title>
-    <desc lang="ca">'Per als pobres, somiar no és fàcil.' Aquesta reflexió ens obre les portes a una història de lluita i resistència. Durant vint anys, hem seguit la vida de la Secret, una jove nascuda a la Libèria postbèl·lica que lluita per fer realitat un somni que sembla inabastable: convertir-se en metgessa.La Secret va néixer en una família sense recursos econòmics i va ser educada per convertir-se en una bona mestressa de casa. Des de ben petita s'ha hagut de fer càrrec dels quatre germans petits i el seu entorn mai no va contemplar la possibilitat que un dia volgués ser metgessa.Malgrat la seva tenacitat, el camí ha estat ple d'obstacles. En més d'una ocasió ha hagut d'abandonar l'escola, però no ha deixat mai de lluitar. Ara, amb vint anys, viu un moment clau: ha tornat a estudiar i lluita per recuperar els anys perduts, convençuda que encara és a temps de fer realitat el seu somni.El documental és una mirada íntima sobre les desigualtats globals que posa rostre a una veritat incòmoda: el lloc on naixem determina profundament les oportunitats que tindrem a la vida.</desc>
-    <length units="minutes">00:30:48</length>
+  <programme start="20261115041952 +0000" channel="tv3" stop="20261115050125 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">La traïció</sub-title>
+    <desc lang="ca">El Manu ha quedat amb la Teresa en una botiga de cotxes de segona mà amb la promesa que s'escaparan junts. L'ex de l'Àngela, però, assegura que tot forma part d'un pla per atrapar-la, però... a qui enganya realment el Manu? Mentrestant, a la casa, el Raül intentarà justificar els seu intent de fugida de cara a la Victòria.</desc>
+    <length units="minutes">00:41:33</length>
   </programme>
-  <programme start="20261114230200 +0000" channel="tv3" stop="20261114233153 +0000">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Imade</sub-title>
-    <length units="minutes">00:29:53</length>
+  <programme start="20261115050125 +0000" channel="tv3" stop="20261115054817 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El bastó</sub-title>
+    <desc lang="ca">El bastó ens ha acompanyat des de la prehistòria. Sempre ens ha ajudat a caminar, però també ha sigut sinònim de poder i classes socials. Nosaltres li dediquem aquest programa perquè d'aquí uns anys segur que l'acabarem fent servir. Rebem l'Albert Elfa, que ens presenta 'Oh, humanitat!', un llibre on explica coses tan normals com que va confondre George Clooney i Matt Damon amb dos agents de la CIA. Sortim a passejar el gos pel gran incendi de Roma del 1964. Hi anem amb la Pastora, una gossa de 12 anys que va fent, pobreta.</desc>
+    <length units="minutes">00:46:52</length>
   </programme>
-  <programme start="20261114220703 +0000" channel="tvi" stop="20261115003754 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">161</sub-title>
-    <desc lang="ca">La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
-    <length units="minutes">02:30:51</length>
+  <programme start="20261115043000 +0000" channel="tvi" stop="20261115051528 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">- A-Phonics</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:45:28</length>
   </programme>
-  <programme start="20261115003754 +0000" channel="tvi" stop="20261115005836 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Flamenc d'aquí i d'ara</sub-title>
-    <desc lang="ca">El flamenc és modern i és català. I té molts altres trets distintius, fins i tot alguns de contradictoris. En aquest reportatge, però, ens centrarem principalment en aquests, a partir de diverses propostes artístiques que hi reflexionen. Hem reunit una bona colla flamenca al 'tablao' marcià per celebrar el Dia del Flamenc, que és el 16 de novembre. La cantant i compositora Ana Brenes ha publicat el primer disc en solitari, 'Mi camino', que reflecteix el respecte per una tradició canònica del flamenc des d'una sensibilitat totalment contemporània. La cantant de Santa Coloma de Gramenet hi posa la banda sonora amb el tema '¡Vendo, vendo!', inclòs en el disc, amb l'acompanyament de Jero Férec a la guitarra. A més, Brenes participa en l'espectacle 'Guacamayo', creat i interpretat per José Maldonado, el ballarí i coreògraf de Barcelona que incorpora el seu vessant d'artista plàstic sobre l'escenari. Maldonado s'ha inspirat en les aus de l'Amazònia peruana per oferir una proposta flamenca allunyada de tòpics. També ens acompanyen tres creadors que s'han acostat al flamenc fent-ne retrats singulars. Al documental 'Jaleos', el cineasta Isaki Lacuesta proposa un viatge tan rigorós com juganer a través d'aspectes i històries poc divulgats de l'art flamenc i en reivindica el lligam indissociable amb la modernitat. Una altra cineasta, Carla Simón, posa l'èmfasi en l'emoció que emana del flamenc i trenca les seves barreres temporals i estilístiques al curtmetratge musical 'Flamenco'. I l'escriptor i periodista Rafael Vallbona ha publicat 'Catalunya flamenca', una reflexió sobre l'arrelament del gènere a casa nostra, des d'una perspectiva històrica i personal.</desc>
-    <length units="minutes">00:20:42</length>
+  <programme start="20261115051528 +0000" channel="tvi" stop="20261115060001 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">- MATÍAS MÍGUEZ</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:44:33</length>
   </programme>
-  <programme start="20261114210000 +0000" channel="324" stop="20261114230000 +0000">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">7388</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261114230000 +0000" channel="324" stop="20261115003000 +0000">
+  <programme start="20261115010000 +0000" channel="324" stop="20261115060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11704</sub-title>
+    <sub-title lang="ca">11705</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261114223553 +0000" channel="esport3" stop="20261114230000 +0000">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Porto-CP Calafell / Continental Cup Men / 2a semifinal</sub-title>
-    <desc lang="ca">El conjunt portuguès, últim guanyador de la Champions, s'enfronta amb l'amfitrió d'aquesta Continental Cup. El CP Calafell La Menorquina la disputa com a subcampió de la Copa WSE.</desc>
-    <length units="minutes">00:24:07</length>
+  <programme start="20261115060000 +0000" channel="324" stop="20261115070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11705</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261114230000 +0000" channel="esport3" stop="20261115000123 +0000">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">01:01:23</length>
+  <programme start="20261115025819 +0000" channel="esport3" stop="20261115044409 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Europa-UE Sant Andreu / Primera Federació / J12</sub-title>
+    <desc lang="ca">L'RCDE Stadium acull el derbi barceloní de màxima rivalitat. L'objectiu dels dos equips és sortir de la part baixa de la taula. El conjunt de Gràcia suma 10 punts, i els quadribarrats en tenen 13.</desc>
+    <length units="minutes">01:45:50</length>
   </programme>
-  <programme start="20261114224521 +0000" channel="sx3" stop="20261114225610 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Perduda a Correus</sub-title>
-    <desc lang="ca">L'Agnes truca molt nerviosa. Els seus amos han confós la closca d'en Reggie amb un bol i l'han enviat com a regal de noces. La Flo, la Maggie i en Jo passen a l'acció i decideixen buscar el carter per canviar la closca per un altre paquet. Mentrestant, en Clive i en Billy vigilen en Reggie, que vol recuperar la closca tot sol com sigui.</desc>
-    <length units="minutes">00:10:49</length>
+  <programme start="20261115044409 +0000" channel="esport3" stop="20261115064753 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Reial Madrid-FC Badalona Women / Lliga F / J11</sub-title>
+    <desc lang="ca">Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.</desc>
+    <length units="minutes">02:03:44</length>
   </programme>
-  <programme start="20261114225610 +0000" channel="sx3" stop="20261114230708 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Amor innocent</sub-title>
-    <desc lang="ca">La Bertha truca la Tropa del Corral: vol que preguntin a en Sam si li ve de gust sopar amb ella, tot i que li fa por que digui que no. Quan parlen amb en Sam, ell pensa que és la Flo qui vol sopar amb ell, i decideix mudar-se a la granja amb els cadells.</desc>
-    <length units="minutes">00:10:58</length>
+  <programme start="20261115042834 +0000" channel="sx3" stop="20261115044029 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El Cracaüt</sub-title>
+    <desc lang="ca">L'avi guineu s'inventa un conte de por per la canalla. Tots, en Pinxo inclòs, se'l creuen i agafen tanta por que decideixen parar una trampa al cau abandonat per caçar el monstre del conte. L'endemà al matí descobreixen molt sorpresos que el monstre, que en teoria no existeix, ha caigut a la trampa.</desc>
+    <length units="minutes">00:11:55</length>
+  </programme>
+  <programme start="20261115044029 +0000" channel="sx3" stop="20261115045158 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Els amics secrets</sub-title>
+    <desc lang="ca">En Pinxo s'empipa amb en Martís, perquè el troba jugant a cartes amb en Lludó, i no suporta els jocs de cartes. A més considera que en Martís, com que és el seu millor amic, ha de jugar amb ell i no amb en Lludó. Però no tothom està d'acord amb ell.</desc>
+    <length units="minutes">00:11:29</length>
   </programme>
 </tv>
