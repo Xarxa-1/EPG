@@ -15,76 +15,76 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261115225317 +0000" channel="tv3" stop="20261115235913 +0000">
-    <title lang="ca">Vèrtex</title>
-    <sub-title lang="ca">7</sub-title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="minutes">01:05:56</length>
-  </programme>
-  <programme start="20261115235913 +0000" channel="tv3" stop="20261116003824 +0000">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">DO Pla de Bages. 'Tota pedra fa paret':</sub-title>
-    <desc lang="ca">Entre barraques de pedra seca, tines amagades al bosc i la mirada imponent de Montserrat, l'Empar descobreix una denominació que ha sabut convertir la memòria en futur. Acompanyada de viticultors, sumillers i persones que estimen profundament aquest territori, segueix el fil conductor del picapoll, una varietat que explica la recuperació d'un paisatge i d'una identitat vitivinícola única.</desc>
-    <length units="minutes">00:39:11</length>
-  </programme>
-  <programme start="20261115230314 +0000" channel="tv3" stop="20261115235603 +0000">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Turquia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
-    <length units="minutes">00:52:49</length>
-  </programme>
-  <programme start="20261115235603 +0000" channel="tv3" stop="20261116002131 +0000">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Qasr Al Sarab d'Anantara - Emirats Àrabs Units</sub-title>
-    <desc lang="ca">Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.</desc>
-    <length units="minutes">00:25:28</length>
-  </programme>
-  <programme start="20261115225317 +0000" channel="tvi" stop="20261115235913 +0000">
-    <title lang="ca">Vèrtex</title>
-    <sub-title lang="ca">7</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">01:05:56</length>
-  </programme>
-  <programme start="20261115235913 +0000" channel="tvi" stop="20261116003824 +0000">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">- DO Pla de Bages. 'Tota pedra fa paret':</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:39:11</length>
-  </programme>
-  <programme start="20261115230000 +0000" channel="324" stop="20261116003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11712</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20261116003000 +0000" channel="324" stop="20261116010000 +0000">
+  <programme start="20261116004016 +0000" channel="tv3" stop="20261116043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11713</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">03:49:44</length>
   </programme>
-  <programme start="20261115230003 +0000" channel="esport3" stop="20261116000059 +0000">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="minutes">01:00:56</length>
+  <programme start="20261116043000 +0000" channel="tv3" stop="20261116051506 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Riqui Sabatés y Los Obstinados</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="minutes">00:45:06</length>
   </programme>
-  <programme start="20261116000059 +0000" channel="esport3" stop="20261116001822 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5568</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:17:23</length>
+  <programme start="20261116041437 +0000" channel="tv3" stop="20261116045842 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">Estiu del 92</sub-title>
+    <desc lang="ca">El Nando, convençut que el Manu té l'anell, es dirigeix a Krakòzia per intentar negociar amb el seu germà i fer-lo entrar en raó. Juntament amb tots dos reviurem l'estiu de 1992, estiu en què el Manu va conèixer l'Àngela i va haver de decidir, per primer cop, entre els diners o ella.</desc>
+    <length units="minutes">00:44:05</length>
   </programme>
-  <programme start="20261115230650 +0000" channel="sx3" stop="20261115231741 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Fa massa calor</sub-title>
-    <desc lang="ca">En Prince truca la Tropa perquè té fred. Els seus amos han marxat de cap de setmana i han apagat la calefacció. La Flo hi instal·la un dels seus invents per escalfar la casa, però funciona tan bé que l'aigua de la peixera d'en Fred i la Frida es comença a evaporar. El problema? Que el granger no deixa sortir la Tropa de la granja perquè es pensa que tenen gana i no els para de posar menjar.</desc>
-    <length units="minutes">00:10:51</length>
+  <programme start="20261116045842 +0000" channel="tv3" stop="20261116054520 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 8</sub-title>
+    <desc lang="ca">Resumir quatre programes sempre és difícil, però té la seva gràcia veure tot el que ens ha passat aquests últims dies. Podeu mirar-vos-ho per recordar el que hem fet, o mirar-ho per primera vegada i decidir per quin programa comenceu a fer la marató d'aquesta setmana si no heu tingut temps de veure'n cap.</desc>
+    <length units="minutes">00:46:38</length>
   </programme>
-  <programme start="20261115231741 +0000" channel="sx3" stop="20261115232825 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">En Mac se'n va d'excursió</sub-title>
-    <desc lang="ca">En Sam està amoïnat perquè en Mac se'n vol anar tot sol al parc i la Tropa el convenç perquè li ho permeti, ja que ells el vigilaran durant tot el camí. Quan en Mac descobreix que el segueixen, arrenca a córrer i la passejadeta es converteix en una fugida en tota regla.</desc>
-    <length units="minutes">00:10:44</length>
+  <programme start="20261116003812 +0000" channel="tvi" stop="20261116043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11713</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">03:51:48</length>
+  </programme>
+  <programme start="20261116043000 +0000" channel="tvi" stop="20261116051506 +0000">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">- Riqui Sabatés y Los Obstinados</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:45:06</length>
+  </programme>
+  <programme start="20261116010000 +0000" channel="324" stop="20261116060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11713</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261116060000 +0000" channel="324" stop="20261116080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11714</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261116034952 +0000" channel="esport3" stop="20261116054058 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
+    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit.</desc>
+    <length units="minutes">01:51:06</length>
+  </programme>
+  <programme start="20261116054058 +0000" channel="esport3" stop="20261116060459 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Mallorca by UTMB</sub-title>
+    <desc lang="ca">La tercera edició de la Mallorca by UTMB recorre la Serra de Tramuntana, declarada Patrimoni Mundial per la UNESCO, amb quatre curses de diferents categories i distàncies, pensades per a corredors amb diferents nivells d'experiència en el trail running. Les quatre modalitats són la 100M (138 km), la 100K (104 km), la 50K (56 km) i la 20K (26 km), que ofereixen una aventura extraordinària en un entorn natural únic i privilegiat.</desc>
+    <length units="minutes">00:24:01</length>
+  </programme>
+  <programme start="20261116042805 +0000" channel="sx3" stop="20261116043959 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La medalla</sub-title>
+    <desc lang="ca">En Lludó no pot jugar a bitlles amb els bessons fins que acabi de reparar uns cistells per al seu pare. En Timbal s'ofereix a ajudar-lo, mentre que en Pinxo només vol jugar. Quan en Timbal torna al cau i explica que ha ajudat en Lludó, l'Edmond, orgullós del seu fill, li dona una medalla a la generositat. Però en Pinxo també vol una medalla, i es posa mans a l'obra per aconseguir-la.</desc>
+    <length units="minutes">00:11:54</length>
+  </programme>
+  <programme start="20261116043959 +0000" channel="sx3" stop="20261116045134 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La Trufa se'n va de la llengua</sub-title>
+    <desc lang="ca">En Timbal està de pega: en Pinxo li ha agafat les pinyes sense permís i, la Guineta ha perdut el seu estel. Quan la Trufa l'hi xerra, els seus germans li diuen que xivar-se no està bé. Però l'Edmond li diu que sempre ha de dir la veritat, i poc després, la Marguerite li explica que les coses dels altres no s'han de xerrar. I la pobra Trufa no sap què fer.</desc>
+    <length units="minutes">00:11:35</length>
   </programme>
 </tv>
