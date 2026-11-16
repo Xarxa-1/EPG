@@ -1,90 +1,87 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261116004016 +0000" channel="tv3" stop="20261116043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11713</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">03:49:44</length>
+  <programme start="20261116143000 +0000" channel="tv3" stop="20261116153008 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7391</sub-title>
+    <length units="minutes">01:00:08</length>
   </programme>
-  <programme start="20261116043000 +0000" channel="tv3" stop="20261116051506 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Riqui Sabatés y Los Obstinados</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="minutes">00:45:06</length>
+  <programme start="20261116153008 +0000" channel="tv3" stop="20261116155311 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Albergínies en escabetx</sub-title>
+    <desc lang="ca">Marc Ribas ha fet escabetxos de tota mena de peixos, com la tonyina, les sardines o el verat. També de carn, com el conill, i de verdures, com les carxofes. Però encara no havia fet mai albergínies en escabetx.</desc>
+    <length units="minutes">00:23:03</length>
   </programme>
-  <programme start="20261116041437 +0000" channel="tv3" stop="20261116045842 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">Estiu del 92</sub-title>
-    <desc lang="ca">El Nando, convençut que el Manu té l'anell, es dirigeix a Krakòzia per intentar negociar amb el seu germà i fer-lo entrar en raó. Juntament amb tots dos reviurem l'estiu de 1992, estiu en què el Manu va conèixer l'Àngela i va haver de decidir, per primer cop, entre els diners o ella.</desc>
-    <length units="minutes">00:44:05</length>
-  </programme>
-  <programme start="20261116045842 +0000" channel="tv3" stop="20261116054520 +0000">
+  <programme start="20261116144721 +0000" channel="tv3" stop="20261116153336 +0000">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 8</sub-title>
-    <desc lang="ca">Resumir quatre programes sempre és difícil, però té la seva gràcia veure tot el que ens ha passat aquests últims dies. Podeu mirar-vos-ho per recordar el que hem fet, o mirar-ho per primera vegada i decidir per quin programa comenceu a fer la marató d'aquesta setmana si no heu tingut temps de veure'n cap.</desc>
-    <length units="minutes">00:46:38</length>
+    <sub-title lang="ca">El bastonet de les orelles</sub-title>
+    <desc lang="ca">Creieu que els metges han dit prou vegades que els bastonets de les orelles no s'han de fer servir mai? Per què es continuen comercialitzant si són tan dolents? Us sentiu rebels quan en feu servir? Feu-ho bé, que acabareu sense poder escoltar 'La Renaixença'. Avui els hi dediquem aquest capítol. Passa per l'escó en Víctor Amat, que s'autodefineix com a 'psicòleg punk'. Posem a prova la seva paciència amb frases motivacionals. A 'Històries per passejar el gos', anem amb la Mia fins a l'operació Gatet Acústic, que va tenir lloc a Washington el 1965.</desc>
+    <length units="minutes">00:46:15</length>
   </programme>
-  <programme start="20261116003812 +0000" channel="tvi" stop="20261116043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11713</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">03:51:48</length>
+  <programme start="20261116153336 +0000" channel="tv3" stop="20261116162105 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El radar</sub-title>
+    <desc lang="ca">En un rànquing d''objectes més odiats del món', el radar segurament estaria dins del TOP5, clarament. Seguretat? Sí. Emprenyada quan t'arriba la multa? De les més grosses. Avui dediquem el capítol al radar. Necessitem desfogar-nos. Pugen a l'escenari de 'La Renaixença' i xerrem des de l'escó amb la P.A.W.N. Gang. Es feia trap al segle XIX? Segurament, no, però al nostre escenari, sí. Sortim a passejar amb en Chök, un brac alemany de Gurb, pel duel de Carabanchel, el 1870.</desc>
+    <length units="minutes">00:47:29</length>
   </programme>
-  <programme start="20261116043000 +0000" channel="tvi" stop="20261116051506 +0000">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">- Riqui Sabatés y Los Obstinados</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:45:06</length>
+  <programme start="20261116143000 +0000" channel="tvi" stop="20261116153008 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7391</sub-title>
+    <length units="minutes">01:00:08</length>
   </programme>
-  <programme start="20261116010000 +0000" channel="324" stop="20261116060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11713</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261116153008 +0000" channel="tvi" stop="20261116155311 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Albergínies en escabetx</sub-title>
+    <desc lang="ca">Marc Ribas ha fet escabetxos de tota mena de peixos, com la tonyina, les sardines o el verat. També de carn, com el conill, i de verdures, com les carxofes. Però encara no havia fet mai albergínies en escabetx.</desc>
+    <length units="minutes">00:23:03</length>
   </programme>
-  <programme start="20261116060000 +0000" channel="324" stop="20261116080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11714</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261116143000 +0000" channel="324" stop="20261116153000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7391</sub-title>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261116034952 +0000" channel="esport3" stop="20261116054058 +0000">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
-    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit.</desc>
-    <length units="minutes">01:51:06</length>
+  <programme start="20261116153000 +0000" channel="324" stop="20261116160000 +0000">
+    <title lang="ca">3CatInfo en aranès</title>
+    <sub-title lang="ca">2584</sub-title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261116054058 +0000" channel="esport3" stop="20261116060459 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Mallorca by UTMB</sub-title>
-    <desc lang="ca">La tercera edició de la Mallorca by UTMB recorre la Serra de Tramuntana, declarada Patrimoni Mundial per la UNESCO, amb quatre curses de diferents categories i distàncies, pensades per a corredors amb diferents nivells d'experiència en el trail running. Les quatre modalitats són la 100M (138 km), la 100K (104 km), la 50K (56 km) i la 20K (26 km), que ofereixen una aventura extraordinària en un entorn natural únic i privilegiat.</desc>
-    <length units="minutes">00:24:01</length>
+  <programme start="20261116150451 +0000" channel="esport3" stop="20261116160311 +0000">
+    <title lang="ca">La travessa</title>
+    <sub-title lang="ca">L'ànsia</sub-title>
+    <desc lang="ca">Les tensions exploten després de tants dies caminant junts. Només ha calgut una petita espurna per fer-ho saltar tot pels aires. Tenen la victòria a tocar i ningú vol abaixar els braços. Però hi ha vegades que les coses no depenen d'un mateix, sinó de la sort. I, quan et gira l'esquena, no hi ha res a fer. Un terratrèmol ho pot revolucionar tot a les portes de la gran final.</desc>
+    <length units="minutes">00:58:20</length>
   </programme>
-  <programme start="20261116042805 +0000" channel="sx3" stop="20261116043959 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La medalla</sub-title>
-    <desc lang="ca">En Lludó no pot jugar a bitlles amb els bessons fins que acabi de reparar uns cistells per al seu pare. En Timbal s'ofereix a ajudar-lo, mentre que en Pinxo només vol jugar. Quan en Timbal torna al cau i explica que ha ajudat en Lludó, l'Edmond, orgullós del seu fill, li dona una medalla a la generositat. Però en Pinxo també vol una medalla, i es posa mans a l'obra per aconseguir-la.</desc>
-    <length units="minutes">00:11:54</length>
+  <programme start="20261116160311 +0000" channel="esport3" stop="20261116165628 +0000">
+    <title lang="ca">La travessa</title>
+    <sub-title lang="ca">El cim</sub-title>
+    <desc lang="ca">La glòria i el fracàs són dues cares de la mateixa moneda. De quin costat caigui depèn només d'ells. Després d'un periple de més de 300 quilòmetres, els cims de la Vall d'Aran estan a tocar. Tan sols una parella es coronarà campiona d'aquesta aventura, però abans hauran de demostrar que estan preparats per fer front a una de les finals més dures de 'La travessa', perquè pujar cims de més de 2.500 metres d'altura a ple hivern no és cap broma. I, a més, tindran uns rivals d'excepció: el Tafalla i el Cirera. Fins que no hi hagi nous guanyadors, ells encara posseeixen el trofeu de campions.</desc>
+    <length units="minutes">00:53:17</length>
   </programme>
-  <programme start="20261116043959 +0000" channel="sx3" stop="20261116045134 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La Trufa se'n va de la llengua</sub-title>
-    <desc lang="ca">En Timbal està de pega: en Pinxo li ha agafat les pinyes sense permís i, la Guineta ha perdut el seu estel. Quan la Trufa l'hi xerra, els seus germans li diuen que xivar-se no està bé. Però l'Edmond li diu que sempre ha de dir la veritat, i poc després, la Marguerite li explica que les coses dels altres no s'han de xerrar. I la pobra Trufa no sap què fer.</desc>
-    <length units="minutes">00:11:35</length>
+  <programme start="20261116145522 +0000" channel="sx3" stop="20261116151648 +0000">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">El pirata llegendari! Don Chinjao!</sub-title>
+    <desc lang="ca">Mentre la Nami, en Chooper i en Brook proven de recuperar el Sunny, en Ruffy i el seu rival Don Chinjao tenen un combat llegendari al coliseu!</desc>
+    <length units="minutes">00:21:26</length>
+  </programme>
+  <programme start="20261116151648 +0000" channel="sx3" stop="20261116153838 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">Buscant pedres</sub-title>
+    <desc lang="ca">Per començar l'entrenament, el Follet Tortuga ha enviat en Son Goku i en Krilin a una illa selvàtica. El primer repte serà trobar una pedra marcada que està amagada enmig de la selva. La rivalitat entre els dos alumnes comença a ser evident i en Krilin decideix fer trampes per derrotar en Son Goku. El preu que li tocarà pagar serà molt elevat.</desc>
+    <length units="minutes">00:21:50</length>
   </programme>
 </tv>
