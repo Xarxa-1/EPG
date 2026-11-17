@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -9,79 +9,82 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <programme start="20261116143000 +0000" channel="tv3" stop="20261116153008 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7391</sub-title>
-    <length units="minutes">01:00:08</length>
+  <programme start="20261117011109 +0000" channel="tv3" stop="20261117030343 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2200</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:52:34</length>
   </programme>
-  <programme start="20261116153008 +0000" channel="tv3" stop="20261116155311 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Albergínies en escabetx</sub-title>
-    <desc lang="ca">Marc Ribas ha fet escabetxos de tota mena de peixos, com la tonyina, les sardines o el verat. També de carn, com el conill, i de verdures, com les carxofes. Però encara no havia fet mai albergínies en escabetx.</desc>
-    <length units="minutes">00:23:03</length>
+  <programme start="20261117030343 +0000" channel="tv3" stop="20261117043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11722</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:26:17</length>
   </programme>
-  <programme start="20261116144721 +0000" channel="tv3" stop="20261116153336 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El bastonet de les orelles</sub-title>
-    <desc lang="ca">Creieu que els metges han dit prou vegades que els bastonets de les orelles no s'han de fer servir mai? Per què es continuen comercialitzant si són tan dolents? Us sentiu rebels quan en feu servir? Feu-ho bé, que acabareu sense poder escoltar 'La Renaixença'. Avui els hi dediquem aquest capítol. Passa per l'escó en Víctor Amat, que s'autodefineix com a 'psicòleg punk'. Posem a prova la seva paciència amb frases motivacionals. A 'Històries per passejar el gos', anem amb la Mia fins a l'operació Gatet Acústic, que va tenir lloc a Washington el 1965.</desc>
-    <length units="minutes">00:46:15</length>
+  <programme start="20261117013807 +0000" channel="tv3" stop="20261117022708 +0000">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Arribada</sub-title>
+    <desc lang="ca">Després de tres anys sense anar-los a veure, la Mai torna a casa dels seus pares perquè no té enlloc més on anar. Ells accepten que es quedi amb la condició que faci de monitora a les colònies. La Mai accepta a contracor, i la primera nit ja veu que la Rita li portarà problemes. I no serà l'única.</desc>
+    <length units="minutes">00:49:01</length>
   </programme>
-  <programme start="20261116153336 +0000" channel="tv3" stop="20261116162105 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El radar</sub-title>
-    <desc lang="ca">En un rànquing d''objectes més odiats del món', el radar segurament estaria dins del TOP5, clarament. Seguretat? Sí. Emprenyada quan t'arriba la multa? De les més grosses. Avui dediquem el capítol al radar. Necessitem desfogar-nos. Pugen a l'escenari de 'La Renaixença' i xerrem des de l'escó amb la P.A.W.N. Gang. Es feia trap al segle XIX? Segurament, no, però al nostre escenari, sí. Sortim a passejar amb en Chök, un brac alemany de Gurb, pel duel de Carabanchel, el 1870.</desc>
-    <length units="minutes">00:47:29</length>
+  <programme start="20261117022708 +0000" channel="tv3" stop="20261117030843 +0000">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Rara</sub-title>
+    <desc lang="ca">La Rita es comença a sentir discriminada per la resta del grup. L'Eva retreu a la Mai que es salti les normes. I en Pere descobreix que l'Eva té una nova parella més jove que ella. L'Èric amaga un secret.</desc>
+    <length units="minutes">00:41:35</length>
   </programme>
-  <programme start="20261116143000 +0000" channel="tvi" stop="20261116153008 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7391</sub-title>
-    <length units="minutes">01:00:08</length>
+  <programme start="20261117011109 +0000" channel="tvi" stop="20261117030343 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2200</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:52:34</length>
   </programme>
-  <programme start="20261116153008 +0000" channel="tvi" stop="20261116155311 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Albergínies en escabetx</sub-title>
-    <desc lang="ca">Marc Ribas ha fet escabetxos de tota mena de peixos, com la tonyina, les sardines o el verat. També de carn, com el conill, i de verdures, com les carxofes. Però encara no havia fet mai albergínies en escabetx.</desc>
-    <length units="minutes">00:23:03</length>
+  <programme start="20261117030343 +0000" channel="tvi" stop="20261117043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11722</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:26:17</length>
   </programme>
-  <programme start="20261116143000 +0000" channel="324" stop="20261116153000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7391</sub-title>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261117010000 +0000" channel="324" stop="20261117060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11722</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261116153000 +0000" channel="324" stop="20261116160000 +0000">
-    <title lang="ca">3CatInfo en aranès</title>
-    <sub-title lang="ca">2584</sub-title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261117060000 +0000" channel="324" stop="20261117080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11723</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261116150451 +0000" channel="esport3" stop="20261116160311 +0000">
-    <title lang="ca">La travessa</title>
-    <sub-title lang="ca">L'ànsia</sub-title>
-    <desc lang="ca">Les tensions exploten després de tants dies caminant junts. Només ha calgut una petita espurna per fer-ho saltar tot pels aires. Tenen la victòria a tocar i ningú vol abaixar els braços. Però hi ha vegades que les coses no depenen d'un mateix, sinó de la sort. I, quan et gira l'esquena, no hi ha res a fer. Un terratrèmol ho pot revolucionar tot a les portes de la gran final.</desc>
-    <length units="minutes">00:58:20</length>
+  <programme start="20261117004552 +0000" channel="esport3" stop="20261117021749 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Raphinha, sota pressió; Vinicius es confessa i 'El colegiado'</sub-title>
+    <desc lang="ca">Xavi Torres, Carles Fité, Aina Cerdà, Jordi Martí i Joaquín Maroto opinen sobre la situació de Raphinha al Brasil i la confessió de Vinicius en relació al seu estat de forma. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <length units="minutes">01:31:57</length>
   </programme>
-  <programme start="20261116160311 +0000" channel="esport3" stop="20261116165628 +0000">
-    <title lang="ca">La travessa</title>
-    <sub-title lang="ca">El cim</sub-title>
-    <desc lang="ca">La glòria i el fracàs són dues cares de la mateixa moneda. De quin costat caigui depèn només d'ells. Després d'un periple de més de 300 quilòmetres, els cims de la Vall d'Aran estan a tocar. Tan sols una parella es coronarà campiona d'aquesta aventura, però abans hauran de demostrar que estan preparats per fer front a una de les finals més dures de 'La travessa', perquè pujar cims de més de 2.500 metres d'altura a ple hivern no és cap broma. I, a més, tindran uns rivals d'excepció: el Tafalla i el Cirera. Fins que no hi hagi nous guanyadors, ells encara posseeixen el trofeu de campions.</desc>
-    <length units="minutes">00:53:17</length>
+  <programme start="20261117021749 +0000" channel="esport3" stop="20261117022822 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5569</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:10:33</length>
   </programme>
-  <programme start="20261116145522 +0000" channel="sx3" stop="20261116151648 +0000">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">El pirata llegendari! Don Chinjao!</sub-title>
-    <desc lang="ca">Mentre la Nami, en Chooper i en Brook proven de recuperar el Sunny, en Ruffy i el seu rival Don Chinjao tenen un combat llegendari al coliseu!</desc>
-    <length units="minutes">00:21:26</length>
+  <programme start="20261117020252 +0000" channel="sx3" stop="20261117022401 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Mentida</sub-title>
+    <desc lang="ca">Des que l'Adrien ha conegut la Kagami, ha descobert una nova forma d'independència sense el seu vestit de superheroi. La Kagami té una vida programada al minut, com l'Adrien, i ella sap crear moments màgics en què s'escapen junts, en secret. Però quan l'Adrien s'ha de transformar en el Gat Noir, no pot dir la veritat a la Kagami. I ella s'adona que l'enganya. Amb el cor trencat, es transforma en Mentida, una implacable supermalvada que vol fer desaparèixer les mentides del món i tots els mentiders, inclosos els superherois!</desc>
+    <length units="minutes">00:21:09</length>
   </programme>
-  <programme start="20261116151648 +0000" channel="sx3" stop="20261116153838 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">Buscant pedres</sub-title>
-    <desc lang="ca">Per començar l'entrenament, el Follet Tortuga ha enviat en Son Goku i en Krilin a una illa selvàtica. El primer repte serà trobar una pedra marcada que està amagada enmig de la selva. La rivalitat entre els dos alumnes comença a ser evident i en Krilin decideix fer trampes per derrotar en Son Goku. El preu que li tocarà pagar serà molt elevat.</desc>
-    <length units="minutes">00:21:50</length>
+  <programme start="20261117022401 +0000" channel="sx3" stop="20261117024438 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La banda dels secrets</sub-title>
+    <desc lang="ca">La Marinette pensa que no podrà trobar mai l'amor de veritat mentre enganyi tothom per protegir la seva identitat secreta. Incapaç de confiar en ningú, es tanca i s'allunya dels que l'estimen. Les seves amigues Alya, Rose, Juleka, Alix i Mylène, preocupades, decideixen salvar la seva amiga fent que els hi expliqui tots els seus secrets. Però per culpa d'un malentès, la Marinette es baralla amb elles i les noies són akumatitzades. Transformades en la Banda dels Secrets, estan decidides a salvar la Marinette, tant si vol com si no vol. Serà capaç de continuar amagant-los el seu secret?</desc>
+    <length units="minutes">00:20:37</length>
   </programme>
 </tv>
