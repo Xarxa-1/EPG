@@ -1,90 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261117011109 +0000" channel="tv3" stop="20261117030343 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2200</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:52:34</length>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261117155735 +0000" channel="tv3" stop="20261117160604 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Espaguetis amb salsa de pebrot</sub-title>
+    <desc lang="ca">La cuinera Rais Esteve ens proposa un truc de màgia: convertir la típica torrada amb pebrot i anxoves en un plat de pasta espectacular. Només cal una mica d'imaginació, bons ingredients i tindreu un plat a taula amb tota l'essència de la torrada.</desc>
+    <length units="minutes">00:08:29</length>
   </programme>
-  <programme start="20261117030343 +0000" channel="tv3" stop="20261117043000 +0000">
+  <programme start="20261117160604 +0000" channel="tv3" stop="20261117164533 +0000">
+    <title lang="ca">Com si fos ahir</title>
+    <sub-title lang="ca">1850</sub-title>
+    <desc lang="ca">El viatge a l'Argentina força l'Andreu a deixar de fugir i escollir finalment entre la Raquel i la Neus. Convertit en protagonista involuntari d'un vídeo viral, l'Agustí reivindica el dret a viure amb normalitat el temps que li queda. L'Ismael manté d'amagat el vincle amb els Limón fins que la Marta posa la seva doble vida al descobert davant d'en Litus.</desc>
+    <length units="minutes">00:39:29</length>
+  </programme>
+  <programme start="20261117155813 +0000" channel="tv3" stop="20261117163546 +0000">
+    <title lang="ca">QuèQui</title>
+    <sub-title lang="ca">Plou i fa sol</sub-title>
+    <desc lang="ca">Els catalans es deleixen pel temps. Coneixerem el passat, el present i el futur de la meteorologia i entrevistarem el meteoròleg de 3Cat Eloi Cordomí.</desc>
+    <length units="minutes">00:37:33</length>
+  </programme>
+  <programme start="20261117163546 +0000" channel="tv3" stop="20261117170527 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Castellers, pinya, força i manilles.</sub-title>
+    <desc lang="ca">'Castellers: pinya força i manilles''Quèquicom', 5 d'octubre del 2011Un reportatge de Pere Renom, Cari Pardo i Dani VallvéEls castellers fan servir la força amb saviesa per aixecar construccions humanes que poden arribar a ser de 800 participants i de 10 metres d'alçada. Han passat de guiar-se intuïtivament a aplicar una tècnica depurada que inclou coneixements de física, arquitectura, biomecànica, fisiologia i psicologia, que ara s'apliquen per millorar el rendiment i la seguretat del món casteller. 'Quèquicom' analitza molts d'aquests principis ajudat per Jaume Rosset, director mèdic de la coordinadora de colles castelleres i membre dels Minyons de Terrassa.A més, el reporter Pere Renom s'estrena com a casteller amb els Micacos de Badalona per poder entendre els castells també des de dins.Durant dos mesos d'assajos als Micacos de Badalona, Pere Renom aprèn que és importantíssim saber analitzar la postura i les tensions del cos, que l'esforç és molt puntual i agut, i que es fonamenta en la força d'abdominals, cames i en l'equilibri. Finalment, el reporter debuta a la diada de la Candela de Valls, una diada que se celebra cada 10 anys i que aplega més de 50 colles castelleres d'arreu dels Països Catalans. La colla dels Micacos aixeca un 4d6 amb agulla i Pere Renom hi participa de segon. Al plató, el presentador Jaume Vilalta explica que, gràcies a la faixa, el tronc del casteller es converteix en una columna hidropneumàtica que reforça la columna vertebral i contribueix a fer més suportable el pes. Posteriorment, al plató es demostra per què és fonamental mantenir els pesos equilibrats, tant per fer castells com per carregar pesos a casa.Els músculs dorsals estan separats de la columna de tal manera que fan palanca. Allunyar un pes de la columna pot multiplicar l'esforç a fer per 10, de manera que els 25 quilos d'una bombona de gas, per posar un exemple, poden convertir-se, per a la nostra columna, en 250 kg.Arquitectura del cas</desc>
+    <length units="minutes">00:29:41</length>
+  </programme>
+  <programme start="20261117155735 +0000" channel="tvi" stop="20261117160604 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Espaguetis amb salsa de pebrot</sub-title>
+    <desc lang="ca">La cuinera Rais Esteve ens proposa un truc de màgia: convertir la típica torrada amb pebrot i anxoves en un plat de pasta espectacular. Només cal una mica d'imaginació, bons ingredients i tindreu un plat a taula amb tota l'essència de la torrada.</desc>
+    <length units="minutes">00:08:29</length>
+  </programme>
+  <programme start="20261117160604 +0000" channel="tvi" stop="20261117164533 +0000">
+    <title lang="ca">Com si fos ahir</title>
+    <sub-title lang="ca">1850</sub-title>
+    <desc lang="ca">El viatge a l'Argentina força l'Andreu a deixar de fugir i escollir finalment entre la Raquel i la Neus. Convertit en protagonista involuntari d'un vídeo viral, l'Agustí reivindica el dret a viure amb normalitat el temps que li queda. L'Ismael manté d'amagat el vincle amb els Limón fins que la Marta posa la seva doble vida al descobert davant d'en Litus.</desc>
+    <length units="minutes">00:39:29</length>
+  </programme>
+  <programme start="20261117160000 +0000" channel="324" stop="20261117170000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11722</sub-title>
+    <sub-title lang="ca">11726</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:26:17</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261117013807 +0000" channel="tv3" stop="20261117022708 +0000">
-    <title lang="ca">Jo mai mai</title>
-    <sub-title lang="ca">Arribada</sub-title>
-    <desc lang="ca">Després de tres anys sense anar-los a veure, la Mai torna a casa dels seus pares perquè no té enlloc més on anar. Ells accepten que es quedi amb la condició que faci de monitora a les colònies. La Mai accepta a contracor, i la primera nit ja veu que la Rita li portarà problemes. I no serà l'única.</desc>
-    <length units="minutes">00:49:01</length>
-  </programme>
-  <programme start="20261117022708 +0000" channel="tv3" stop="20261117030843 +0000">
-    <title lang="ca">Jo mai mai</title>
-    <sub-title lang="ca">Rara</sub-title>
-    <desc lang="ca">La Rita es comença a sentir discriminada per la resta del grup. L'Eva retreu a la Mai que es salti les normes. I en Pere descobreix que l'Eva té una nova parella més jove que ella. L'Èric amaga un secret.</desc>
-    <length units="minutes">00:41:35</length>
-  </programme>
-  <programme start="20261117011109 +0000" channel="tvi" stop="20261117030343 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2200</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:52:34</length>
-  </programme>
-  <programme start="20261117030343 +0000" channel="tvi" stop="20261117043000 +0000">
+  <programme start="20261117170000 +0000" channel="324" stop="20261117183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11722</sub-title>
+    <sub-title lang="ca">11727</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:26:17</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261117010000 +0000" channel="324" stop="20261117060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11722</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261117153327 +0000" channel="esport3" stop="20261117163332 +0000">
+    <title lang="ca">Gàdor i els taurons</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics.</desc>
+    <length units="minutes">01:00:05</length>
   </programme>
-  <programme start="20261117060000 +0000" channel="324" stop="20261117080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11723</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+  <programme start="20261117163332 +0000" channel="esport3" stop="20261117171837 +0000">
+    <title lang="ca">La travessa</title>
+    <sub-title lang="ca">L'altre costat</sub-title>
+    <desc lang="ca">'La travessa' és una gran aventura davant… i darrere les càmeres. És un repte de logística, disseny, producció i gravació que comença molts mesos abans. Ara tenim l'oportunitat de mirar pel forat del pany i descobrir la feina dels professionals que ho fan possible. Han estat més de 1.000 hores de gravacions, entrevistes i, sobretot, molta cintura per fer front a tots els imprevistos. Així és el nostre dia a dia.</desc>
+    <length units="minutes">00:45:05</length>
   </programme>
-  <programme start="20261117004552 +0000" channel="esport3" stop="20261117021749 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Raphinha, sota pressió; Vinicius es confessa i 'El colegiado'</sub-title>
-    <desc lang="ca">Xavi Torres, Carles Fité, Aina Cerdà, Jordi Martí i Joaquín Maroto opinen sobre la situació de Raphinha al Brasil i la confessió de Vinicius en relació al seu estat de forma. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="minutes">01:31:57</length>
+  <programme start="20261117155316 +0000" channel="sx3" stop="20261117161448 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">Atenció, Krilin!</sub-title>
+    <desc lang="ca">Després de fer el sorteig per decidir contra qui s'enfrontaran els vuit finalistes, en Krilin ha quedat aparellat amb en Bacteri, un rival fastigós i repulsiu que derrota els seus adversaris a base d'asfixiar-los. En Krilin està a punt de perdre el combat, quan en Son Goku li recorda que no té nas. Li servirà d'alguna cosa?</desc>
+    <length units="minutes">00:21:32</length>
   </programme>
-  <programme start="20261117021749 +0000" channel="esport3" stop="20261117022822 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5569</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:10:33</length>
-  </programme>
-  <programme start="20261117020252 +0000" channel="sx3" stop="20261117022401 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Mentida</sub-title>
-    <desc lang="ca">Des que l'Adrien ha conegut la Kagami, ha descobert una nova forma d'independència sense el seu vestit de superheroi. La Kagami té una vida programada al minut, com l'Adrien, i ella sap crear moments màgics en què s'escapen junts, en secret. Però quan l'Adrien s'ha de transformar en el Gat Noir, no pot dir la veritat a la Kagami. I ella s'adona que l'enganya. Amb el cor trencat, es transforma en Mentida, una implacable supermalvada que vol fer desaparèixer les mentides del món i tots els mentiders, inclosos els superherois!</desc>
-    <length units="minutes">00:21:09</length>
-  </programme>
-  <programme start="20261117022401 +0000" channel="sx3" stop="20261117024438 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">La banda dels secrets</sub-title>
-    <desc lang="ca">La Marinette pensa que no podrà trobar mai l'amor de veritat mentre enganyi tothom per protegir la seva identitat secreta. Incapaç de confiar en ningú, es tanca i s'allunya dels que l'estimen. Les seves amigues Alya, Rose, Juleka, Alix i Mylène, preocupades, decideixen salvar la seva amiga fent que els hi expliqui tots els seus secrets. Però per culpa d'un malentès, la Marinette es baralla amb elles i les noies són akumatitzades. Transformades en la Banda dels Secrets, estan decidides a salvar la Marinette, tant si vol com si no vol. Serà capaç de continuar amagant-los el seu secret?</desc>
-    <length units="minutes">00:20:37</length>
+  <programme start="20261117161448 +0000" channel="sx3" stop="20261117162143 +0000">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Batalla de bambú</sub-title>
+    <desc lang="ca">En Grizzy desmunta el tobogan que han construït els Lèmmings per tota la cabana i reutilitza les canyes de bambú per construir-se un jacuzzi. Quan els Lèmmings descobreixen l'obra de l'os, imaginen un parc aquàtic gegantí amb un tobogan ben gran. Com que en Grizzy preveu les intencions dels Lèmmings, prova d'atrinxerar-se dins la cabana, però els rosegadors aconsegueixen fer-lo fora. L'os torna per enfrontar-s'hi protegit amb una superarmadura de bambú...</desc>
+    <length units="minutes">00:06:55</length>
   </programme>
 </tv>
