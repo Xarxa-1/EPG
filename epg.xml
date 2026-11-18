@@ -3,88 +3,88 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20261118153238 +0000" channel="tv3" stop="20261118155341 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Arròs a la cassola amb pollastre</sub-title>
-    <desc lang="ca">Hi ha dies que no saps ben bé què fer per dinar, però obres el rebost o la nevera a veure que hi ha i t'inspires. I amb les quatre coses que tens a casa t'acaba sortint un plat brutal.</desc>
-    <length units="minutes">00:21:03</length>
+  <programme start="20261119003508 +0000" channel="tv3" stop="20261119022248 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2202</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:47:40</length>
   </programme>
-  <programme start="20261118155341 +0000" channel="tv3" stop="20261118160229 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Crema de castanyes i xocolata</sub-title>
-    <desc lang="ca">Podem tenir castanyes tot l'any. Comprades a la castanyera, fetes al foc de casa o de pot. Ho demostrem amb una crema dolça, saborosa i elegant.</desc>
-    <length units="minutes">00:08:48</length>
+  <programme start="20261119022248 +0000" channel="tv3" stop="20261119043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11740</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:07:12</length>
   </programme>
-  <programme start="20261118153242 +0000" channel="tv3" stop="20261118161922 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El xumet</sub-title>
-    <desc lang="ca">A quina edat s'ha de treure el xumet a la canalla? Quina és la millor manera de fer-ho? En anglès es coneix com a 'pacifier', que significa 'pacificador'. Si no fos perquè la paraula 'xumet' és de les més boniques en català, 'pacificador' seria la millor alternativa. Ens visita la Duna Ametller, modista especialitzada en roba d'època catalana. La moda no para de canviar i la millor sempre és la que deixem enrere. Sortim a passejar amb la Coco per la mort del Gran Lafayette, el 1911 a Escòcia.</desc>
-    <length units="minutes">00:46:40</length>
+  <programme start="20261119002128 +0000" channel="tv3" stop="20261119011139 +0000">
+    <title lang="ca">El llop contra l'os</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">La neu que cobreix un pantà remot a Finlàndia es fon i deixa al descobert una gran quantitat d'animals congelats. Som al territori de l'os bru, que cada primavera s'afarta gràcies a aquest botí. Però ara, en una batalla per la supervivència, una mare de llop gris s'endinsa al regne de l'os. Ha de saquejar el pantà per alimentar els seus cadells, i això vol dir enfrontar-se cara a cara amb els ossos mortals.</desc>
+    <length units="minutes">00:50:11</length>
   </programme>
-  <programme start="20261118161922 +0000" channel="tv3" stop="20261118165623 +0000">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">Tinc gana o m'ho sembla?</sub-title>
-    <desc lang="ca">L'obesitat és una malaltia crònica que ha esdevingut epidèmia. Descobrirem un nou medicament per combatre-la i parlarem de gana i sacietat amb el cuiner Arnau París.</desc>
-    <length units="minutes">00:37:01</length>
+  <programme start="20261119011139 +0000" channel="tv3" stop="20261119020350 +0000">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal matar</sub-title>
+    <desc lang="ca">SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.</desc>
+    <length units="minutes">00:52:11</length>
   </programme>
-  <programme start="20261118153238 +0000" channel="tvi" stop="20261118155430 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Arròs a la cassola amb pollastre</sub-title>
-    <desc lang="ca">Hi ha dies que no saps ben bé què fer per dinar, però obres el rebost o la nevera a veure que hi ha i t'inspires. I amb les quatre coses que tens a casa t'acaba sortint un plat brutal.</desc>
-    <length units="minutes">00:21:52</length>
+  <programme start="20261119003508 +0000" channel="tvi" stop="20261119022248 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2202</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:47:40</length>
   </programme>
-  <programme start="20261118155430 +0000" channel="tvi" stop="20261118160318 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Crema de castanyes i xocolata</sub-title>
-    <desc lang="ca">Podem tenir castanyes tot l'any. Comprades a la castanyera, fetes al foc de casa o de pot. Ho demostrem amb una crema dolça, saborosa i elegant.</desc>
-    <length units="minutes">00:08:48</length>
+  <programme start="20261119022248 +0000" channel="tvi" stop="20261119043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11740</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:07:12</length>
   </programme>
-  <programme start="20261118153000 +0000" channel="324" stop="20261118160000 +0000">
-    <title lang="ca">3CatInfo en aranès</title>
-    <sub-title lang="ca">2586</sub-title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20261119003000 +0000" channel="324" stop="20261119010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11740</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261118160000 +0000" channel="324" stop="20261118170000 +0000">
+  <programme start="20261119010000 +0000" channel="324" stop="20261119060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11735</sub-title>
+    <sub-title lang="ca">11740</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261118153047 +0000" channel="esport3" stop="20261118162318 +0000">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">L'Egeu amagat de Turquia</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre viatja per tota la costa del mar Egeu i explora Bodrum, Esmirna i l'antiga ciutat de Troia.</desc>
-    <length units="minutes">00:52:31</length>
+  <programme start="20261119003110 +0000" channel="esport3" stop="20261119005732 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5571</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:26:22</length>
   </programme>
-  <programme start="20261118162318 +0000" channel="esport3" stop="20261118171710 +0000">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Les Illes Canàries</sub-title>
-    <desc lang="ca">'Llocs recòndits - Les Canàries' és un especial de televisió d'una hora, produït, presentat i narrat per l'editor de viatges de la CBS News, Peter Greenberg, i que explora les vuit illes espanyoles: El Hierro, Fuerteventura, Gran Canaria, La Gomera, La Graciosa, Lanzarote, La Palma i Tenerife.</desc>
-    <length units="minutes">00:53:52</length>
+  <programme start="20261119005732 +0000" channel="esport3" stop="20261119023233 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">1290</sub-title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="minutes">01:35:01</length>
   </programme>
-  <programme start="20261118153214 +0000" channel="sx3" stop="20261118155245 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">Giran, el lladregot</sub-title>
-    <desc lang="ca">En els quarts de final, en Son Goku ha quedat aparellat amb en Giran, un guerrer molt ferotge i amb uns mètodes que no són gaire legals. El combat es presenta molt complicat, sobretot quan en Giran agafa en Son Goku per sorpresa i el deixa totalment indefens. En Son Goku necessita urgentment una manera de recuperar les forces.</desc>
-    <length units="minutes">00:20:31</length>
+  <programme start="20261119002432 +0000" channel="sx3" stop="20261119004441 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Animals del passat: el llop marsupial</sub-title>
+    <desc lang="ca">Després d'haver vist els dodos els germans Kratt decideixen tornar a provar el saltatemps de l'Aviva per viatjar al passat. Aquesta vegada veuran el llop marsupial de Tasmània. Però el seu viatge no serà tan tranquil com es pensaven. No només trobaran els avantpassats de la Donita i el Dabio, que pretenen eliminar tots els llops marsupials de l'illa, sinó que hauran de derrotar el Zach, que ha ordit un pla per deixar-los atrapats en el passat per sempre!</desc>
+    <length units="minutes">00:20:09</length>
   </programme>
-  <programme start="20261118155245 +0000" channel="sx3" stop="20261118161452 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">El gran combat de Krilin</sub-title>
-    <desc lang="ca">El torneig ha arribat a les semifinals i només queden quatre participants. En Krilin s'haurà d'enfrontar al temible Jackie Xun. S'espera un combat d'una rapidesa i una tècnica espectaculars per part dels dos rivals. En tindrà prou amb la seva astúcia, en Krilin, per derrotar un adversari que el supera en tècnica i en força bruta?</desc>
-    <length units="minutes">00:22:07</length>
+  <programme start="20261119004441 +0000" channel="sx3" stop="20261119010520 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Liturgusa Krattorium</sub-title>
+    <desc lang="ca">L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.</desc>
+    <length units="minutes">00:20:39</length>
   </programme>
 </tv>
