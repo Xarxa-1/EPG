@@ -1,7 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -9,82 +15,76 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261118002558 +0000" channel="tv3" stop="20261118021558 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2201</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:50:00</length>
+  <programme start="20261118153238 +0000" channel="tv3" stop="20261118155341 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Arròs a la cassola amb pollastre</sub-title>
+    <desc lang="ca">Hi ha dies que no saps ben bé què fer per dinar, però obres el rebost o la nevera a veure que hi ha i t'inspires. I amb les quatre coses que tens a casa t'acaba sortint un plat brutal.</desc>
+    <length units="minutes">00:21:03</length>
   </programme>
-  <programme start="20261118021558 +0000" channel="tv3" stop="20261118043000 +0000">
+  <programme start="20261118155341 +0000" channel="tv3" stop="20261118160229 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Crema de castanyes i xocolata</sub-title>
+    <desc lang="ca">Podem tenir castanyes tot l'any. Comprades a la castanyera, fetes al foc de casa o de pot. Ho demostrem amb una crema dolça, saborosa i elegant.</desc>
+    <length units="minutes">00:08:48</length>
+  </programme>
+  <programme start="20261118153242 +0000" channel="tv3" stop="20261118161922 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El xumet</sub-title>
+    <desc lang="ca">A quina edat s'ha de treure el xumet a la canalla? Quina és la millor manera de fer-ho? En anglès es coneix com a 'pacifier', que significa 'pacificador'. Si no fos perquè la paraula 'xumet' és de les més boniques en català, 'pacificador' seria la millor alternativa. Ens visita la Duna Ametller, modista especialitzada en roba d'època catalana. La moda no para de canviar i la millor sempre és la que deixem enrere. Sortim a passejar amb la Coco per la mort del Gran Lafayette, el 1911 a Escòcia.</desc>
+    <length units="minutes">00:46:40</length>
+  </programme>
+  <programme start="20261118161922 +0000" channel="tv3" stop="20261118165623 +0000">
+    <title lang="ca">QuèQui</title>
+    <sub-title lang="ca">Tinc gana o m'ho sembla?</sub-title>
+    <desc lang="ca">L'obesitat és una malaltia crònica que ha esdevingut epidèmia. Descobrirem un nou medicament per combatre-la i parlarem de gana i sacietat amb el cuiner Arnau París.</desc>
+    <length units="minutes">00:37:01</length>
+  </programme>
+  <programme start="20261118153238 +0000" channel="tvi" stop="20261118155430 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Arròs a la cassola amb pollastre</sub-title>
+    <desc lang="ca">Hi ha dies que no saps ben bé què fer per dinar, però obres el rebost o la nevera a veure que hi ha i t'inspires. I amb les quatre coses que tens a casa t'acaba sortint un plat brutal.</desc>
+    <length units="minutes">00:21:52</length>
+  </programme>
+  <programme start="20261118155430 +0000" channel="tvi" stop="20261118160318 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Crema de castanyes i xocolata</sub-title>
+    <desc lang="ca">Podem tenir castanyes tot l'any. Comprades a la castanyera, fetes al foc de casa o de pot. Ho demostrem amb una crema dolça, saborosa i elegant.</desc>
+    <length units="minutes">00:08:48</length>
+  </programme>
+  <programme start="20261118153000 +0000" channel="324" stop="20261118160000 +0000">
+    <title lang="ca">3CatInfo en aranès</title>
+    <sub-title lang="ca">2586</sub-title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="minutes">00:30:00</length>
+  </programme>
+  <programme start="20261118160000 +0000" channel="324" stop="20261118170000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11731</sub-title>
+    <sub-title lang="ca">11735</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:14:02</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261118004929 +0000" channel="tv3" stop="20261118013230 +0000">
-    <title lang="ca">Jo mai mai</title>
-    <sub-title lang="ca">Calor</sub-title>
-    <desc lang="ca">L'Èlia descobreix la relació secreta que mantenen l'Oriol i l'Èric. La Sofia i el Yab es comencen a apropar, però la Noor també s'ha fixat en el noi. El Pere, que es veu gran i deixat, decideix començar a fer esport, però el primer dia ja es lesiona.</desc>
-    <length units="minutes">00:43:01</length>
+  <programme start="20261118153047 +0000" channel="esport3" stop="20261118162318 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Egeu amagat de Turquia</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre viatja per tota la costa del mar Egeu i explora Bodrum, Esmirna i l'antiga ciutat de Troia.</desc>
+    <length units="minutes">00:52:31</length>
   </programme>
-  <programme start="20261118013230 +0000" channel="tv3" stop="20261118021523 +0000">
-    <title lang="ca">Jo mai mai</title>
-    <sub-title lang="ca">Por</sub-title>
-    <desc lang="ca">Tot està a punt per celebrar la Nit de Terror a Les Guilles, que enguany coincideix amb l'aniversari del Pere. La Sofia es fa il·lusions amb el Yab, però s'acaba assabentant que s'ho ha fet amb la Noor. La Rita s'encarrega de tibar encara més la corda entre totes dues noies.</desc>
-    <length units="minutes">00:42:53</length>
+  <programme start="20261118162318 +0000" channel="esport3" stop="20261118171710 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Les Illes Canàries</sub-title>
+    <desc lang="ca">'Llocs recòndits - Les Canàries' és un especial de televisió d'una hora, produït, presentat i narrat per l'editor de viatges de la CBS News, Peter Greenberg, i que explora les vuit illes espanyoles: El Hierro, Fuerteventura, Gran Canaria, La Gomera, La Graciosa, Lanzarote, La Palma i Tenerife.</desc>
+    <length units="minutes">00:53:52</length>
   </programme>
-  <programme start="20261118002558 +0000" channel="tvi" stop="20261118021558 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2201</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:50:00</length>
+  <programme start="20261118153214 +0000" channel="sx3" stop="20261118155245 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">Giran, el lladregot</sub-title>
+    <desc lang="ca">En els quarts de final, en Son Goku ha quedat aparellat amb en Giran, un guerrer molt ferotge i amb uns mètodes que no són gaire legals. El combat es presenta molt complicat, sobretot quan en Giran agafa en Son Goku per sorpresa i el deixa totalment indefens. En Son Goku necessita urgentment una manera de recuperar les forces.</desc>
+    <length units="minutes">00:20:31</length>
   </programme>
-  <programme start="20261118021558 +0000" channel="tvi" stop="20261118043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11731</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:14:02</length>
-  </programme>
-  <programme start="20261118010000 +0000" channel="324" stop="20261118060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11731</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20261118060000 +0000" channel="324" stop="20261118080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11732</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261118005353 +0000" channel="esport3" stop="20261118022514 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Expedient Balde; Mayola Academy i 'Onzeclopèdia'</sub-title>
-    <desc lang="ca">Sique Rodríguez, Fernando Polo, Irati Vidal i Ivan San Antonio analitzen la situació de Balde al Barça. En Marc Mayola posa la lupa en el rendiment de Cubarsí. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
-    <length units="minutes">01:31:21</length>
-  </programme>
-  <programme start="20261118022514 +0000" channel="esport3" stop="20261118024736 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5570</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:22:22</length>
-  </programme>
-  <programme start="20261118010141 +0000" channel="sx3" stop="20261118012137 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">El quocient de bellesa!</sub-title>
-    <desc lang="ca">El Parker explica a la Chloe que la seva amiga Jinny té un problema: té uns amics que es burlen del seu Feebas i diuen que és lleig. Els nostres herois porten la Jinny i el Feebas a visitar el Laboratori Cirerer, i la Chrysa proposa que ells dos es presentin a un torneig especial per a nens i Pokémon de tipus aigua. El problema és que la Jinny no sap nedar, però després d'entrenar-se molt, la Jinny i el Feebas fan una actuació brillant. Mentrestant, els del Team Rocket es dediquen a robar tants Pokémon com poden, però el Feebas evoluciona just a temps en un preciós Milotic que expulsa el trio volant. La Jinny i el Milotic reben un premi especial, i la Chloe valora els Pokémon cada cop més.</desc>
-    <length units="minutes">00:19:56</length>
-  </programme>
-  <programme start="20261118012137 +0000" channel="sx3" stop="20261118014104 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">D’un temps a un altre!</sub-title>
-    <desc lang="ca">El Goh va amb els seus pares a passar unes vacances curtes a Poble Azalea, on no anaven des de feia tres anys! Quan el Goh pensa en l'últim cop que hi van ser recorda un nen que es deia Horace. El dia que es van conèixer, en Goh i el Horace es van fer molt amics i van compartir el que sabien sobre els Pokémon mentre buscaven un santuari on deien que algú havia vist un Celebi. Es van prometre que es tornarien a trobar l'endemà, però el Horace no es va presentar. En aquest segon viatge, el Goh troba el santuari i una nota del Horace, en què es disculpa i explica que no va poder tornar a trobar-se amb el Goh perquè es va posar malalt. Quan acaba de llegir la nota, el Goh sent una veu: és el Horace! Mentre tots dos amics es posen al dia, un parell de Celebi passen volant damunt seu.</desc>
-    <length units="minutes">00:19:27</length>
+  <programme start="20261118155245 +0000" channel="sx3" stop="20261118161452 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">El gran combat de Krilin</sub-title>
+    <desc lang="ca">El torneig ha arribat a les semifinals i només queden quatre participants. En Krilin s'haurà d'enfrontar al temible Jackie Xun. S'espera un combat d'una rapidesa i una tècnica espectaculars per part dels dos rivals. En tindrà prou amb la seva astúcia, en Krilin, per derrotar un adversari que el supera en tècnica i en força bruta?</desc>
+    <length units="minutes">00:22:07</length>
   </programme>
 </tv>
