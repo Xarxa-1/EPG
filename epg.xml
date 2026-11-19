@@ -1,90 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261119152928 +0000" channel="tv3" stop="20261119155146 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Crema de moniato blanc amb rossinyols</sub-title>
-    <desc lang="ca">El moniato blanc és molt menys dolç que el taronja i de textura més farinosa. Per això és ideal per a preparacions salades, com una crema que acompanyem amb rossinyols i ou escaldat.</desc>
-    <length units="minutes">00:22:18</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261120004104 +0000" channel="tv3" stop="20261120021445 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2203</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:33:41</length>
   </programme>
-  <programme start="20261119155146 +0000" channel="tv3" stop="20261119155928 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Bacallà amb tomàquet confitat</sub-title>
-    <desc lang="ca">La Rais Esteve us proposa una recepta que, de fet, en són dues. Fa un bacallà que submergirà en llet per coure'l i que ens quedi ben melós, i amb aquesta llet després en podreu fer beixamel per a unes croquetes.</desc>
-    <length units="minutes">00:07:42</length>
+  <programme start="20261120021445 +0000" channel="tv3" stop="20261120043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11749</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:15:15</length>
   </programme>
-  <programme start="20261119154330 +0000" channel="tv3" stop="20261119162932 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El segell postal</sub-title>
-    <desc lang="ca">La gent ja no envia cartes. Obres la bústia i només hi ha publicitat i multes. Qui continua fent servir segells postals a part dels col·leccionistes? No trobeu a faltar aquell moment de triar el segell i enganxar-lo al sobre? Som uns nostàlgics, i dediquem aquest capítol al segell postal. Ve a veure'ns l'Oriol Antolí. Ha vingut en cotxe, però es dedica a córrer. I córrer molt: 690?km sense parar, per exemple. A 'Històries per passejar el gos' anem amb en Kuroro fins a la revolta romanesa del 1907.</desc>
-    <length units="minutes">00:46:02</length>
+  <programme start="20261119233715 +0000" channel="tv3" stop="20261120011817 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Libertad</sub-title>
+    <desc lang="ca">LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent.</desc>
+    <length units="minutes">01:41:02</length>
   </programme>
-  <programme start="20261119162932 +0000" channel="tv3" stop="20261119170650 +0000">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">Caçadors de meteorits</sub-title>
-    <desc lang="ca">Els meteorits són una amenaça per a la nostra civilització, però alhora contenen molècules essencials per a la vida. En buscarem al cel, al desert i a les teulades de les masies.</desc>
-    <length units="minutes">00:37:18</length>
+  <programme start="20261120011817 +0000" channel="tv3" stop="20261120014205 +0000">
+    <title lang="ca">La pell dels murs</title>
+    <sub-title lang="ca">Núria Toll-Patricia Sánchez</sub-title>
+    <desc lang="ca">Aquest episodi de La Pell dels Murs està dedicat a la Núria Toll, dissenyadora gràfica i muralista igualadina. Toll és una de les veus més sòlides i significades a l'hora de reivindicar el paper de la dona en l'art urbà. El seu estil, clarament reconeixible, combina formes geomètriques, colors plans i línies simples per el·laborar missatges que busquen incitar a la reflexió sobre problemes socials relacionats amb el feminisme, la injustícia i l'estigma.Durant diverses jornades, la realitzadora Patricia Sánchez va seguir el procés d'execució d'un mural als Jardins de Maria Baldó, de Barcelona. L'obra va ser creada conjuntament entre Núria Toll i un grup de dones vinculades al Grup ATRA, una entitat sense ànim de lucre que ofereix atenció i tractament a persones en situació de vulnerabilitat i risc d'exclusió social. El resultat és una història molt coral, tendra i, alhora, punyent sobre l'estigma que pateixen les dones amb problemes de salut mental. 'Tothom té les seves potencialitats, però quan alguna persona té un desequilibri, es considera que és diferent. Justament, volem trencar amb l'exclusió social que aquesta diferència genera', comenta una de les participants en el documental. El mural forma part del projecte 'Parets amb ànima' que impulsa el Grup ATRA i que es duu a terme a diferents espais públics del barri de Gràcia de Barcelona, amb l'objectiu d'educar i sensibilitzar en matèria d'igualtat, inclusió social, feminismes i sostenibilitat, i ha comptat amb la col·laboració de Pintures Montó i de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
+    <length units="minutes">00:23:48</length>
   </programme>
-  <programme start="20261119152928 +0000" channel="tvi" stop="20261119155146 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Crema de moniato blanc amb rossinyols</sub-title>
-    <desc lang="ca">El moniato blanc és molt menys dolç que el taronja i de textura més farinosa. Per això és ideal per a preparacions salades, com una crema que acompanyem amb rossinyols i ou escaldat.</desc>
-    <length units="minutes">00:22:18</length>
+  <programme start="20261120004103 +0000" channel="tvi" stop="20261120021445 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2203</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:33:42</length>
   </programme>
-  <programme start="20261119155146 +0000" channel="tvi" stop="20261119155928 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Bacallà amb tomàquet confitat</sub-title>
-    <desc lang="ca">La Rais Esteve us proposa una recepta que, de fet, en són dues. Fa un bacallà que submergirà en llet per coure'l i que ens quedi ben melós, i amb aquesta llet després en podreu fer beixamel per a unes croquetes.</desc>
-    <length units="minutes">00:07:42</length>
+  <programme start="20261120021445 +0000" channel="tvi" stop="20261120043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11749</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:15:15</length>
   </programme>
-  <programme start="20261119153000 +0000" channel="324" stop="20261119160000 +0000">
-    <title lang="ca">3CatInfo en aranès</title>
-    <sub-title lang="ca">2587</sub-title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20261120003000 +0000" channel="324" stop="20261120010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11749</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261119160000 +0000" channel="324" stop="20261119170000 +0000">
+  <programme start="20261120010000 +0000" channel="324" stop="20261120060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11744</sub-title>
+    <sub-title lang="ca">11749</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261119152950 +0000" channel="esport3" stop="20261119162207 +0000">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Irlanda</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre viatja per la República d'Irlanda i Irlanda del Nord, tot explorant Dublín, Belfast, Cape Clear, els penya-segats de Moher, el castell d'Ashford i molt més.</desc>
-    <length units="minutes">00:52:17</length>
+  <programme start="20261120005241 +0000" channel="esport3" stop="20261120022540 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Els deures de Deco; post Barça-Servette i 'El consultori'</sub-title>
+    <desc lang="ca">Víctor Lozano, David Bernabeu, Gemma Mallorca i Jordi Costa comenten les carpetes pendents de Deco per aquest mercat d'hivern i el partit de la Champions femenina del Barça. En Sergi Ferrer respon a els dubtes dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:32:59</length>
   </programme>
-  <programme start="20261119162207 +0000" channel="esport3" stop="20261119171544 +0000">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Polònia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.</desc>
-    <length units="minutes">00:53:37</length>
+  <programme start="20261120022540 +0000" channel="esport3" stop="20261120024516 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5572</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:19:36</length>
   </programme>
-  <programme start="20261119153202 +0000" channel="sx3" stop="20261119155233 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">La gran final</sub-title>
-    <desc lang="ca">Per fi ha arribat el dia de la gran final, que disputaran en Son Goku i en Jackie Xun, que és el Follet Tortuga disfressat. El mestre volia evitar que en Son Goku o en Krilin, que encara són molt joves, guanyessin el torneig abans d'acabar la seva formació. Comença el combat entre mestre i alumne, una final plena d'emoció i d'atacs sorprenents.</desc>
-    <length units="minutes">00:20:31</length>
+  <programme start="20261120004241 +0000" channel="sx3" stop="20261120010320 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El fraret rescatador</sub-title>
+    <desc lang="ca">Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?</desc>
+    <length units="minutes">00:20:39</length>
   </programme>
-  <programme start="20261119155233 +0000" channel="sx3" stop="20261119161530 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">Son Goku en plena crisi</sub-title>
-    <desc lang="ca">El combat de la gran final entre en Son Goku i en Jackie Xun fa hores que dura i el sol es comença a amagar. Finalment el mestre ha deixat anar el seu kamehame i quan en Son Goku estava a punt de caure derrotat, els rajos de la lluna plena l'han transformat en una bèstia enorme. Ara, amb la força brutal d'en Son Goku, pot passar qualsevol cosa...</desc>
-    <length units="minutes">00:22:57</length>
+  <programme start="20261120010320 +0000" channel="sx3" stop="20261120012316 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">La meva colla nova de sempre!</sub-title>
+    <desc lang="ca">Quan el Goh fa evolucionar el seu Exeggcute en l'Exeggutor, l'Ash li explica que els Exeggutor d'Alola són molt alts. El professor Cirerer proposa que tots dos facin una visita a la regió d'Alola, i ells hi van. El Goh està nerviós perquè ha de conèixer el professor Kukui i els amics de l'Ash, i la tensió augmenta quan el Kiawe el desafia a un combat. La situació pinta malament quan el Kiawe fa un moviment Z, però ell mateix fa que el Marowak salvi el Goh i el Raboot del perill. Abans de tornar a casa, el Goh compleix l'objectiu que tenia: capturar un Exeggutor d'Alola.</desc>
+    <length units="minutes">00:19:56</length>
   </programme>
 </tv>
