@@ -15,47 +15,36 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261119003508 +0000" channel="tv3" stop="20261119022248 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2202</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:47:40</length>
+  <programme start="20261119054748 +0000" channel="tv3" stop="20261119055036 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">P.A.W.N. Gang - No maspliquis</sub-title>
+    <length units="minutes">00:02:48</length>
   </programme>
-  <programme start="20261119022248 +0000" channel="tv3" stop="20261119043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11740</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:07:12</length>
+  <programme start="20261119055036 +0000" channel="tv3" stop="20261119055323 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">Elena Gadel - Et confesso</sub-title>
+    <length units="minutes">00:02:47</length>
   </programme>
-  <programme start="20261119002128 +0000" channel="tv3" stop="20261119011139 +0000">
-    <title lang="ca">El llop contra l'os</title>
-    <sub-title lang="ca">1</sub-title>
-    <desc lang="ca">La neu que cobreix un pantà remot a Finlàndia es fon i deixa al descobert una gran quantitat d'animals congelats. Som al territori de l'os bru, que cada primavera s'afarta gràcies a aquest botí. Però ara, en una batalla per la supervivència, una mare de llop gris s'endinsa al regne de l'os. Ha de saquejar el pantà per alimentar els seus cadells, i això vol dir enfrontar-se cara a cara amb els ossos mortals.</desc>
-    <length units="minutes">00:50:11</length>
+  <programme start="20261119054717 +0000" channel="tv3" stop="20261119055253 +0000">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">7</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:05:36</length>
   </programme>
-  <programme start="20261119011139 +0000" channel="tv3" stop="20261119020350 +0000">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal matar</sub-title>
-    <desc lang="ca">SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.</desc>
-    <length units="minutes">00:52:11</length>
+  <programme start="20261119055253 +0000" channel="tv3" stop="20261119055656 +0000">
+    <title lang="ca">Videoclips</title>
+    <sub-title lang="ca">0</sub-title>
+    <length units="minutes">00:04:03</length>
   </programme>
-  <programme start="20261119003508 +0000" channel="tvi" stop="20261119022248 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2202</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:47:40</length>
+  <programme start="20261119054748 +0000" channel="tvi" stop="20261119055036 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">P.A.W.N. Gang - No maspliquis</sub-title>
+    <length units="minutes">00:02:48</length>
   </programme>
-  <programme start="20261119022248 +0000" channel="tvi" stop="20261119043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11740</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:07:12</length>
-  </programme>
-  <programme start="20261119003000 +0000" channel="324" stop="20261119010000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11740</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261119055036 +0000" channel="tvi" stop="20261119055323 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">Elena Gadel - Et confesso</sub-title>
+    <length units="minutes">00:02:47</length>
   </programme>
   <programme start="20261119010000 +0000" channel="324" stop="20261119060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
@@ -63,28 +52,34 @@
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261119003110 +0000" channel="esport3" stop="20261119005732 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5571</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:26:22</length>
+  <programme start="20261119060000 +0000" channel="324" stop="20261119080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11741</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261119005732 +0000" channel="esport3" stop="20261119023233 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">1290</sub-title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="minutes">01:35:01</length>
+  <programme start="20261119040330 +0000" channel="esport3" stop="20261119062349 +0000">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Kids&amp;Us Manresa-PAOK / Eurocup / J8</sub-title>
+    <desc lang="ca">Els dos equips empaten a la zona alta de la classificació, després de 5 victòries i 2 derrotes en aquesta fase de grups. En la visita a Grècia, els bagencs van perdre per 93 a 78.</desc>
+    <length units="minutes">02:20:19</length>
   </programme>
-  <programme start="20261119002432 +0000" channel="sx3" stop="20261119004441 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Animals del passat: el llop marsupial</sub-title>
-    <desc lang="ca">Després d'haver vist els dodos els germans Kratt decideixen tornar a provar el saltatemps de l'Aviva per viatjar al passat. Aquesta vegada veuran el llop marsupial de Tasmània. Però el seu viatge no serà tan tranquil com es pensaven. No només trobaran els avantpassats de la Donita i el Dabio, que pretenen eliminar tots els llops marsupials de l'illa, sinó que hauran de derrotar el Zach, que ha ordit un pla per deixar-los atrapats en el passat per sempre!</desc>
-    <length units="minutes">00:20:09</length>
+  <programme start="20261119062349 +0000" channel="esport3" stop="20261119063942 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">TrailCat The Race</sub-title>
+    <desc lang="ca">Cinquena edició d'aquest cursa de 300 milles que uneix Andorra la Vella amb Tarragona. Consolidada com una de les proves més exigents d'Europa, porta al límit la resistència física i mental dels corredors tot travessant paisatges icònics. Els participants afronten 16.000 metres de desnivell positiu i tants metres de desnivell negatiu, amb temps de tall estrictes: quilòmetre 90 (24 hores), quilòmetre 330 (120 hores) i arribada (142 hores), fet que exigeix mantenir un ritme mitjà de 3 km/h.</desc>
+    <length units="minutes">00:15:53</length>
   </programme>
-  <programme start="20261119004441 +0000" channel="sx3" stop="20261119010520 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Liturgusa Krattorium</sub-title>
-    <desc lang="ca">L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.</desc>
-    <length units="minutes">00:20:39</length>
+  <programme start="20261119054930 +0000" channel="sx3" stop="20261119055114 +0000">
+    <title lang="ca">Looloo Kids (cançons)</title>
+    <sub-title lang="ca">La bugadera</sub-title>
+    <desc lang="ca">Una jove bugadera fa la bugada i ensenya a fer passos de ball a en Jaume.</desc>
+    <length units="minutes">00:01:44</length>
+  </programme>
+  <programme start="20261119055114 +0000" channel="sx3" stop="20261119055235 +0000">
+    <title lang="ca">Looloo Kids (cançons)</title>
+    <sub-title lang="ca">El meu trineu</sub-title>
+    <desc lang="ca">Som a l'hivern, i la cosa més divertida del món és baixar per la neu amb trineu, com fan els nostres amics.</desc>
+    <length units="minutes">00:01:21</length>
   </programme>
 </tv>
