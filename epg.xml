@@ -1,90 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261120004104 +0000" channel="tv3" stop="20261120021445 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2203</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:33:41</length>
-  </programme>
-  <programme start="20261120021445 +0000" channel="tv3" stop="20261120043000 +0000">
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261120060000 +0000" channel="tv3" stop="20261120080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11749</sub-title>
+    <sub-title lang="ca">11750</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:15:15</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261119233715 +0000" channel="tv3" stop="20261120011817 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Libertad</sub-title>
-    <desc lang="ca">LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent.</desc>
-    <length units="minutes">01:41:02</length>
+  <programme start="20261120080000 +0000" channel="tv3" stop="20261120103000 +0000">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">4717</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261120011817 +0000" channel="tv3" stop="20261120014205 +0000">
-    <title lang="ca">La pell dels murs</title>
-    <sub-title lang="ca">Núria Toll-Patricia Sánchez</sub-title>
-    <desc lang="ca">Aquest episodi de La Pell dels Murs està dedicat a la Núria Toll, dissenyadora gràfica i muralista igualadina. Toll és una de les veus més sòlides i significades a l'hora de reivindicar el paper de la dona en l'art urbà. El seu estil, clarament reconeixible, combina formes geomètriques, colors plans i línies simples per el·laborar missatges que busquen incitar a la reflexió sobre problemes socials relacionats amb el feminisme, la injustícia i l'estigma.Durant diverses jornades, la realitzadora Patricia Sánchez va seguir el procés d'execució d'un mural als Jardins de Maria Baldó, de Barcelona. L'obra va ser creada conjuntament entre Núria Toll i un grup de dones vinculades al Grup ATRA, una entitat sense ànim de lucre que ofereix atenció i tractament a persones en situació de vulnerabilitat i risc d'exclusió social. El resultat és una història molt coral, tendra i, alhora, punyent sobre l'estigma que pateixen les dones amb problemes de salut mental. 'Tothom té les seves potencialitats, però quan alguna persona té un desequilibri, es considera que és diferent. Justament, volem trencar amb l'exclusió social que aquesta diferència genera', comenta una de les participants en el documental. El mural forma part del projecte 'Parets amb ànima' que impulsa el Grup ATRA i que es duu a terme a diferents espais públics del barri de Gràcia de Barcelona, amb l'objectiu d'educar i sensibilitzar en matèria d'igualtat, inclusió social, feminismes i sostenibilitat, i ha comptat amb la col·laboració de Pintures Montó i de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
-    <length units="minutes">00:23:48</length>
+  <programme start="20261120062234 +0000" channel="tv3" stop="20261120064053 +0000">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Ricky Gil &amp; Biscuit</sub-title>
+    <desc lang="ca">L'associació musical entre Ricky Gil (Brighton 64, Brigatones, Matamala, Top Models) i la banda de Vilanova i la Geltrú Biscuit ha generat obres discogràfiques com el debut 'Infinites rutes invisibles' o 'Artefactes sonors de l'underground català', una segona entrega que els ha permès versionar i reivindicar amb llibertat creativa cançons d'artistes com Gato Pérez, Sisa, Melodrama, Toti Soler, Ia &amp; Batiste, Pau Riba, Maria del Mar Bonet i Guillermina Motta.  Ricky Gil – veu, guitarra, teclat i harmònica Xavi Cardona – veu i guitarra David Charro – teclat, guitarra i veus Àngel Zambudio – baix Armand Cardona – guitarra Fermí Roca – bateria i veus 'Hi ha gent' 'La curva del Morrot' 'Anna' 'Quan baixis de l'avió'  Localització: Enregistrat al local d'assaig dels Biscuit, a Sant Pere Molanta, Alt Penedès Dia: Diumenge, 19 de maig del 2024</desc>
+    <length units="minutes">00:18:19</length>
   </programme>
-  <programme start="20261120004103 +0000" channel="tvi" stop="20261120021445 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2203</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:33:42</length>
+  <programme start="20261120064053 +0000" channel="tv3" stop="20261120070620 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Correbous, toros i toreros</sub-title>
+    <desc lang="ca">Toros i correbous, espectacle per a uns, patiment per a altres.Coincidint amb la discussió a la Mesa del Parlament de Catalunya de la Iniciativa Legislativa Popular (ILP) per prohibir les curses de braus, Quèquicom s'apropa al món dels toros des d'una perspectiva científica. ¿Es pot afirmar, per exemple, que els braus no pateixen perquè segreguen endorfines? ¿Quins òrgans queden afectats per les banderilles i altres eines de matar? ¿Cal distingir entre les corrides i festes populars com els correbous?¿És veritat que el color vermell els provoca? El correbou més antic del qual es té constància històrica data de principis del segle XV a Tortosa. Ara, a Catalunya hi ha 26 poblacions on se celebren festes com el bou capllaçat o embolat. A les Terres de l'Ebre molts pobles tenen correbous fins a tres cops cada dia durant les festes d'estiu. Un grup de veterinaris que hi està a favor fa una revisió de la salut dels animals abans i després de cada acte, en el qual no es pot ferir l'animal. El veterinari Jordi Vendrell assegura que físicament l'animal no pateix i que l'estrès que passa és tolerable. Miquel Piris visita la ramaderia de Pedro Fumadó, una de les tres dedicades a la cria de toros que hi ha a Catalunya. És al bell mig del Parc Natural del Delta de l'Ebre. Allà li expliquen que els toros que es dediquen a correbous viuen en llibertat de sis a vuit anys. Si hi algun exemplar indultat pel seu coratge se li permet morir de vell. Si té aquest privilegi, pot arribar a viure 30 anys. La resta d'animals són sacrificats per menjar. Piris entra a un corral vestit de color vermell per veure si l'ataquen els toros. Es demostra que és un mite, es van apartant cap a un racó. Un toro envesteix quan es troba sense escapatòria o quan alguna cosa o persona que es mou, sigui del color que sigui, envaeix el seu espai.Marc Boada, des del plató, explica que en les corrides el picador i el banderiller tenen la funció de ferir i cansar el toro sense deixar-</desc>
+    <length units="minutes">00:25:27</length>
   </programme>
-  <programme start="20261120021445 +0000" channel="tvi" stop="20261120043000 +0000">
+  <programme start="20261120060000 +0000" channel="tvi" stop="20261120080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11749</sub-title>
+    <sub-title lang="ca">11750</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:15:15</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261120003000 +0000" channel="324" stop="20261120010000 +0000">
+  <programme start="20261120080000 +0000" channel="tvi" stop="20261120103000 +0000">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">4717</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="minutes">02:30:00</length>
+  </programme>
+  <programme start="20261120060000 +0000" channel="324" stop="20261120080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11749</sub-title>
+    <sub-title lang="ca">11750</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261120010000 +0000" channel="324" stop="20261120060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11749</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+  <programme start="20261120080000 +0000" channel="324" stop="20261120103000 +0000">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">4717</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="minutes">02:30:00</length>
   </programme>
-  <programme start="20261120005241 +0000" channel="esport3" stop="20261120022540 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Els deures de Deco; post Barça-Servette i 'El consultori'</sub-title>
-    <desc lang="ca">Víctor Lozano, David Bernabeu, Gemma Mallorca i Jordi Costa comenten les carpetes pendents de Deco per aquest mercat d'hivern i el partit de la Champions femenina del Barça. En Sergi Ferrer respon a els dubtes dels espectadors de l'Onze.</desc>
-    <length units="minutes">01:32:59</length>
+  <programme start="20261120061349 +0000" channel="esport3" stop="20261120064457 +0000">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">El renaixement del CEF Aitona i el Lleida CF</sub-title>
+    <desc lang="ca">Després d'un període sense competir, el CF Aitona ha recuperat l'activitat federada aquesta temporada 2026-2027, amb un equip que participa a la Quarta Catalana i que representa la il·lusió de tot un poble. A més, també posem el focus en el Lleida CF, el club històric que viu una nova etapa amb el nom i el Camp d'Esports com a escenari amb la voluntat de construir un projecte de futur ambiciós. Dos clubs amb dues històries ben diferents que s'enfronten en un partit del grup 28 de la Quarta Catalana. Carles Fité entrevista el president del CEF Aitona, Eduard Martín; l'expresident del club, Octavi Benaiges; i el president del Lleida CF, Andreu Ratés. I a més a més, els resums dels partits de la Primera, Segona i Tercera Federació, masculina i femenina, la Lliga Elit i la Primera Catalana.</desc>
+    <length units="minutes">00:31:08</length>
   </programme>
-  <programme start="20261120022540 +0000" channel="esport3" stop="20261120024516 +0000">
+  <programme start="20261120064457 +0000" channel="esport3" stop="20261120070442 +0000">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">5572</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:19:36</length>
+    <length units="minutes">00:19:45</length>
   </programme>
-  <programme start="20261120004241 +0000" channel="sx3" stop="20261120010320 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El fraret rescatador</sub-title>
-    <desc lang="ca">Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?</desc>
-    <length units="minutes">00:20:39</length>
+  <programme start="20261120063439 +0000" channel="sx3" stop="20261120064602 +0000">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">La gran pilota</sub-title>
+    <desc lang="ca">Mentre preparen un treball per l'escola, la Maia descobreix que no hi ha hagut mai cap escarabat piloter famós. Quan en Kurt se n'assabenta, es proposa fer-se famós fent la pilota de fems més grossa de la història. Però aquesta pilota ben aviat supera en Kurt i tots els animals del prat, que no aguanten la pudor tan insuportable que fa. La Maia mirarà convèncer en Kurt perquè es desfaci de la pilota.</desc>
+    <length units="minutes">00:11:23</length>
   </programme>
-  <programme start="20261120010320 +0000" channel="sx3" stop="20261120012316 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">La meva colla nova de sempre!</sub-title>
-    <desc lang="ca">Quan el Goh fa evolucionar el seu Exeggcute en l'Exeggutor, l'Ash li explica que els Exeggutor d'Alola són molt alts. El professor Cirerer proposa que tots dos facin una visita a la regió d'Alola, i ells hi van. El Goh està nerviós perquè ha de conèixer el professor Kukui i els amics de l'Ash, i la tensió augmenta quan el Kiawe el desafia a un combat. La situació pinta malament quan el Kiawe fa un moviment Z, però ell mateix fa que el Marowak salvi el Goh i el Raboot del perill. Abans de tornar a casa, el Goh compleix l'objectiu que tenia: capturar un Exeggutor d'Alola.</desc>
-    <length units="minutes">00:19:56</length>
+  <programme start="20261120064602 +0000" channel="sx3" stop="20261120065801 +0000">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">El certificat</sub-title>
+    <desc lang="ca">La senyoreta Kassandra està malalta, i en Beeswax decideix substituir-la i fer de mestre a la classe de les abelles petites. Però el primer ministre, que té uns mètodes d'ensenyament molt rígids i molt antiquats, considera que els alumnes no estan ben preparats i els obliga a treure's el certificat del rusc amb un examen. Els que el suspenguin s'hauran de passar les vacances estudiant. La Maia busca ajuda per mirar de solucionar el problema.</desc>
+    <length units="minutes">00:11:59</length>
   </programme>
 </tv>
