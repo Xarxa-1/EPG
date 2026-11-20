@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
@@ -15,76 +15,74 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261120060000 +0000" channel="tv3" stop="20261120080000 +0000">
+  <programme start="20261120143000 +0000" channel="tv3" stop="20261120153010 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7395</sub-title>
+    <length units="minutes">01:00:10</length>
+  </programme>
+  <programme start="20261120153010 +0000" channel="tv3" stop="20261120155226 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Olla barrejada amb peus de porc</sub-title>
+    <desc lang="ca">L'olla barrejada no demana pressa, sinó temps. No demana feina, sinó paciència. I el resultat final és de festa grossa de diumenge.</desc>
+    <length units="minutes">00:22:16</length>
+  </programme>
+  <programme start="20261120144419 +0000" channel="tv3" stop="20261120153046 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El tap d'ampolla</sub-title>
+    <desc lang="ca">Quants dies vau estar discutint sobre si el tap havia d'anar enganxat o no a l'ampolla? Sou dels que aneu a buscar el cava a la nevera per poder-lo obrir com qui guanya una cursa d'F1? Avui dediquem el capítol al tap d'ampolla, que sempre ens porta alegries però mai li donem prou importància. Xerrem amb Txabi Franquesa, humorista i col·laborador. I xerrem molt, perquè això de parlar li agrada molt. A 'Històries per passejar el gos' sortim amb la Shiva pel motí del te de Boston, el 1773.</desc>
+    <length units="minutes">00:46:27</length>
+  </programme>
+  <programme start="20261120153046 +0000" channel="tv3" stop="20261120160639 +0000">
+    <title lang="ca">QuèQui</title>
+    <sub-title lang="ca">Els camins de l'evolució</sub-title>
+    <desc lang="ca">L'evolució no és completament aleatòria i sovint troba solucions semblants per als mateixos problemes. La intel·ligència és inevitable?</desc>
+    <length units="minutes">00:35:53</length>
+  </programme>
+  <programme start="20261120143000 +0000" channel="tvi" stop="20261120153010 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7395</sub-title>
+    <length units="minutes">01:00:10</length>
+  </programme>
+  <programme start="20261120153010 +0000" channel="tvi" stop="20261120155226 +0000">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Olla barrejada amb peus de porc</sub-title>
+    <desc lang="ca">L'olla barrejada no demana pressa, sinó temps. No demana feina, sinó paciència. I el resultat final és de festa grossa de diumenge.</desc>
+    <length units="minutes">00:22:16</length>
+  </programme>
+  <programme start="20261120153000 +0000" channel="324" stop="20261120160000 +0000">
+    <title lang="ca">3CatInfo en aranès</title>
+    <sub-title lang="ca">2588</sub-title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="minutes">00:30:00</length>
+  </programme>
+  <programme start="20261120160000 +0000" channel="324" stop="20261120170000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11750</sub-title>
+    <sub-title lang="ca">11753</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261120080000 +0000" channel="tv3" stop="20261120103000 +0000">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">4717</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="minutes">02:30:00</length>
+  <programme start="20261120150518 +0000" channel="esport3" stop="20261120153124 +0000">
+    <title lang="ca">Catalunya des de l'aire</title>
+    <sub-title lang="ca">Alt i Baix camp, Priorat</sub-title>
+    <desc lang="ca">Catalunya és màgica. Conté mar i terra, rius i muntanyes. En els seus milers de quilòmetres quadrats hi ha esglésies, castells, parcs... 'Catalunya des de l'aire' és un viatge per indrets que formen el passat, el present i el futur del país i dels seus habitants.'Catalunya des de l'aire' ofereix una visió bella i espectacular de les terres catalanes i dels seus habitants. Es tracta d'una sèrie divulgativa que vol mostrar als telespectadors el patrimoni cultural català. La sèrie, de 18 capítols, parteix del concepte de patrimoni integral, és a dir, de la suma dels vessants artístic, natural i antropològic, amb les corresponents indicacions històriques i literàries.La imatge del país, presa des de l'aire, projecta el conjunt i ofereix la successió de paisatges, monuments de diferents períodes i, com trobades a l'atzar del recorregut, celebracions i tradicions significatives dels diferents indrets. La música i la veu en off, amb pinzellades de l'àmbit històric i literari, acompanyen unes imatges que parlen per si soles.En conjunt, 'Catalunya des de l'aire' mostra la pluralitat d'elements i paisatges que formen la unitat del país, amb tota la riquesa de continguts, a vegades fins i tot contradictoris. Per aconseguir-ho, la sèrie parteix d'un guió elaborat per quatre professors d'universitat especialistes en el patrimoni històric i antropològic. A partir d'aquest guió s'elabora un complet joc d'imatges.'Catalunya des de l'aire' es va gravar durant gairebé un any, des del setembre del 97 fins a l'agost del 98, de manera que les diferents comarques mostren també com hi canvia el paisatge amb el pas de les estacions.El recorregut de 'Catalunya des de l'aire' comença al Barcelonès i, després de sobrevolar tot el país, es tanca amb un resum del més destacat del viatge.Fitxa tècnicaDirecció i realització: Xavier ManichIdea i direcció executiva: Germán RubiesProducció: Elena AlgarHistoriador: Salvador ClaramuntAdministrador gerent: Joan Cruel</desc>
+    <length units="minutes">00:26:06</length>
   </programme>
-  <programme start="20261120062234 +0000" channel="tv3" stop="20261120064053 +0000">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Ricky Gil &amp; Biscuit</sub-title>
-    <desc lang="ca">L'associació musical entre Ricky Gil (Brighton 64, Brigatones, Matamala, Top Models) i la banda de Vilanova i la Geltrú Biscuit ha generat obres discogràfiques com el debut 'Infinites rutes invisibles' o 'Artefactes sonors de l'underground català', una segona entrega que els ha permès versionar i reivindicar amb llibertat creativa cançons d'artistes com Gato Pérez, Sisa, Melodrama, Toti Soler, Ia &amp; Batiste, Pau Riba, Maria del Mar Bonet i Guillermina Motta.  Ricky Gil – veu, guitarra, teclat i harmònica Xavi Cardona – veu i guitarra David Charro – teclat, guitarra i veus Àngel Zambudio – baix Armand Cardona – guitarra Fermí Roca – bateria i veus 'Hi ha gent' 'La curva del Morrot' 'Anna' 'Quan baixis de l'avió'  Localització: Enregistrat al local d'assaig dels Biscuit, a Sant Pere Molanta, Alt Penedès Dia: Diumenge, 19 de maig del 2024</desc>
-    <length units="minutes">00:18:19</length>
+  <programme start="20261120153124 +0000" channel="esport3" stop="20261120162350 +0000">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
+    <length units="minutes">00:52:26</length>
   </programme>
-  <programme start="20261120064053 +0000" channel="tv3" stop="20261120070620 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Correbous, toros i toreros</sub-title>
-    <desc lang="ca">Toros i correbous, espectacle per a uns, patiment per a altres.Coincidint amb la discussió a la Mesa del Parlament de Catalunya de la Iniciativa Legislativa Popular (ILP) per prohibir les curses de braus, Quèquicom s'apropa al món dels toros des d'una perspectiva científica. ¿Es pot afirmar, per exemple, que els braus no pateixen perquè segreguen endorfines? ¿Quins òrgans queden afectats per les banderilles i altres eines de matar? ¿Cal distingir entre les corrides i festes populars com els correbous?¿És veritat que el color vermell els provoca? El correbou més antic del qual es té constància històrica data de principis del segle XV a Tortosa. Ara, a Catalunya hi ha 26 poblacions on se celebren festes com el bou capllaçat o embolat. A les Terres de l'Ebre molts pobles tenen correbous fins a tres cops cada dia durant les festes d'estiu. Un grup de veterinaris que hi està a favor fa una revisió de la salut dels animals abans i després de cada acte, en el qual no es pot ferir l'animal. El veterinari Jordi Vendrell assegura que físicament l'animal no pateix i que l'estrès que passa és tolerable. Miquel Piris visita la ramaderia de Pedro Fumadó, una de les tres dedicades a la cria de toros que hi ha a Catalunya. És al bell mig del Parc Natural del Delta de l'Ebre. Allà li expliquen que els toros que es dediquen a correbous viuen en llibertat de sis a vuit anys. Si hi algun exemplar indultat pel seu coratge se li permet morir de vell. Si té aquest privilegi, pot arribar a viure 30 anys. La resta d'animals són sacrificats per menjar. Piris entra a un corral vestit de color vermell per veure si l'ataquen els toros. Es demostra que és un mite, es van apartant cap a un racó. Un toro envesteix quan es troba sense escapatòria o quan alguna cosa o persona que es mou, sigui del color que sigui, envaeix el seu espai.Marc Boada, des del plató, explica que en les corrides el picador i el banderiller tenen la funció de ferir i cansar el toro sense deixar-</desc>
-    <length units="minutes">00:25:27</length>
+  <programme start="20261120153017 +0000" channel="sx3" stop="20261120155049 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">El llac màgic</sub-title>
+    <desc lang="ca">En Son Goku s'acomiada dels seus amics i comença una nova aventura a la recerca de la Bola de Drac de Quatre Estrelles del seu avi. Pel camí es trobarà amb en Nam, el granger pobre que va derrotar a les semifinals, i l'ajudarà a investigar per què s'ha assecat el riu que portava aigua al seu poble. Aviat descobriran que uns monstres hi han construït una presa.</desc>
+    <length units="minutes">00:20:32</length>
   </programme>
-  <programme start="20261120060000 +0000" channel="tvi" stop="20261120080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11750</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261120080000 +0000" channel="tvi" stop="20261120103000 +0000">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">4717</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20261120060000 +0000" channel="324" stop="20261120080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11750</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261120080000 +0000" channel="324" stop="20261120103000 +0000">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">4717</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="minutes">02:30:00</length>
-  </programme>
-  <programme start="20261120061349 +0000" channel="esport3" stop="20261120064457 +0000">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">El renaixement del CEF Aitona i el Lleida CF</sub-title>
-    <desc lang="ca">Després d'un període sense competir, el CF Aitona ha recuperat l'activitat federada aquesta temporada 2026-2027, amb un equip que participa a la Quarta Catalana i que representa la il·lusió de tot un poble. A més, també posem el focus en el Lleida CF, el club històric que viu una nova etapa amb el nom i el Camp d'Esports com a escenari amb la voluntat de construir un projecte de futur ambiciós. Dos clubs amb dues històries ben diferents que s'enfronten en un partit del grup 28 de la Quarta Catalana. Carles Fité entrevista el president del CEF Aitona, Eduard Martín; l'expresident del club, Octavi Benaiges; i el president del Lleida CF, Andreu Ratés. I a més a més, els resums dels partits de la Primera, Segona i Tercera Federació, masculina i femenina, la Lliga Elit i la Primera Catalana.</desc>
-    <length units="minutes">00:31:08</length>
-  </programme>
-  <programme start="20261120064457 +0000" channel="esport3" stop="20261120070442 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5572</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:19:45</length>
-  </programme>
-  <programme start="20261120063439 +0000" channel="sx3" stop="20261120064602 +0000">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">La gran pilota</sub-title>
-    <desc lang="ca">Mentre preparen un treball per l'escola, la Maia descobreix que no hi ha hagut mai cap escarabat piloter famós. Quan en Kurt se n'assabenta, es proposa fer-se famós fent la pilota de fems més grossa de la història. Però aquesta pilota ben aviat supera en Kurt i tots els animals del prat, que no aguanten la pudor tan insuportable que fa. La Maia mirarà convèncer en Kurt perquè es desfaci de la pilota.</desc>
-    <length units="minutes">00:11:23</length>
-  </programme>
-  <programme start="20261120064602 +0000" channel="sx3" stop="20261120065801 +0000">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">El certificat</sub-title>
-    <desc lang="ca">La senyoreta Kassandra està malalta, i en Beeswax decideix substituir-la i fer de mestre a la classe de les abelles petites. Però el primer ministre, que té uns mètodes d'ensenyament molt rígids i molt antiquats, considera que els alumnes no estan ben preparats i els obliga a treure's el certificat del rusc amb un examen. Els que el suspenguin s'hauran de passar les vacances estudiant. La Maia busca ajuda per mirar de solucionar el problema.</desc>
-    <length units="minutes">00:11:59</length>
+  <programme start="20261120155049 +0000" channel="sx3" stop="20261120161258 +0000">
+    <title lang="ca">Bola de drac</title>
+    <sub-title lang="ca">La bola de quatre estrelles</sub-title>
+    <desc lang="ca">Continua la cursa per trobar l'autèntica Bola de Drac de Quatre Estrelles. Ara s'hi han afegit l'emperador Pilaf amb els seus sequaços i el misteriós exèrcit del coronel Silver. La bola ha aparegut en una botiga, però sembla que el propietari en podria estar fent falsificacions. La clau podria estar al niu d'uns ocells que hi ha damunt de la botiga.</desc>
+    <length units="minutes">00:22:09</length>
   </programme>
 </tv>
