@@ -1,88 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261120143000 +0000" channel="tv3" stop="20261120153010 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7395</sub-title>
-    <length units="minutes">01:00:10</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261121000440 +0000" channel="tv3" stop="20261121014656 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">13 minuts</sub-title>
+    <desc lang="ca">13 MINUTS '13 Minutes'Direcció: Lindsay GosslingGuió: Lindsay GosslingProducció: Elevated Films, Involving Pictures. Quiver DistributionAny: 2021Durada: 108País: Canadà Música: Ariel MarxFotografia: Steve MasonIntèrprets: Trace Adkins, Yancey Arias, Thora Birch, Tokala Black Elk, Darryl Cox, Allyson Cristofaro, Naomi Duarte, Peter Facinelli, Sidney Flack, Ginger Gilmartin, Anne Heche, Gabriel Jarret, James Austin Kerr, Shaylee Mansfield. Un tornado, que colpeja un petit poble, posa a prova quatre famílies i les obliga a redefinir la supervivència.</desc>
+    <length units="minutes">01:42:16</length>
   </programme>
-  <programme start="20261120153010 +0000" channel="tv3" stop="20261120155226 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Olla barrejada amb peus de porc</sub-title>
-    <desc lang="ca">L'olla barrejada no demana pressa, sinó temps. No demana feina, sinó paciència. I el resultat final és de festa grossa de diumenge.</desc>
-    <length units="minutes">00:22:16</length>
+  <programme start="20261121014656 +0000" channel="tv3" stop="20261121030531 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2204</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:18:35</length>
   </programme>
-  <programme start="20261120144419 +0000" channel="tv3" stop="20261120153046 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El tap d'ampolla</sub-title>
-    <desc lang="ca">Quants dies vau estar discutint sobre si el tap havia d'anar enganxat o no a l'ampolla? Sou dels que aneu a buscar el cava a la nevera per poder-lo obrir com qui guanya una cursa d'F1? Avui dediquem el capítol al tap d'ampolla, que sempre ens porta alegries però mai li donem prou importància. Xerrem amb Txabi Franquesa, humorista i col·laborador. I xerrem molt, perquè això de parlar li agrada molt. A 'Històries per passejar el gos' sortim amb la Shiva pel motí del te de Boston, el 1773.</desc>
-    <length units="minutes">00:46:27</length>
+  <programme start="20261121000643 +0000" channel="tv3" stop="20261121003142 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">El Bromo, el volcà sagrat de Java</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.</desc>
+    <length units="minutes">00:24:59</length>
   </programme>
-  <programme start="20261120153046 +0000" channel="tv3" stop="20261120160639 +0000">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">Els camins de l'evolució</sub-title>
-    <desc lang="ca">L'evolució no és completament aleatòria i sovint troba solucions semblants per als mateixos problemes. La intel·ligència és inevitable?</desc>
-    <length units="minutes">00:35:53</length>
+  <programme start="20261121003142 +0000" channel="tv3" stop="20261121005653 +0000">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">El Kawah Ijen. L'infern del sofre</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java, on hi ha el volcà Kawah Ijen. Entre d'altres coses, l'acompanyarem en la seva visita al volcà, on hi ha el llac de cràter més àcid del món, veurem de prop la duríssima feina dels treballadors que arrenquen el sofre del cràter del volcà i també els problemes ecològics que causa al medi ambient la toxicitat de l'aigua del llac del Kawah Ijen. En un aspecte positiu, però, gaudirem de la bellesa de les flames blaves nocturnes del volcà, un fenomen que no es veu enlloc més del món.</desc>
+    <length units="minutes">00:25:11</length>
   </programme>
-  <programme start="20261120143000 +0000" channel="tvi" stop="20261120153010 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7395</sub-title>
-    <length units="minutes">01:00:10</length>
+  <programme start="20261120233341 +0000" channel="tvi" stop="20261121005021 +0000">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Jordi Mir. Pompeufabrant Catalunya</sub-title>
+    <desc lang="ca">Jordi Mir. Pompeufabrant Catalunya (2024) una producció de Clementina en coproducció amb Josep Alcover i Quílez, la participación de 3cat i l' Institut d'Estudis Ilerdencs, i el suport de la Fundació CIC, Institut d'Estudis Catalans, Federació d'Entitats Excursionistes de Catalunya i Govern d'Andorra.Jordi Mir és un home de facetes variades: excursionisme, futbol, televisió, classes clandestines … Totes les ha exercit amb màxima excel·lència i discreció. Perquè ell no busca mèrits. Ell ho fa per la llengua que, afirma, és la nació. I, sota aquesta bandera, Jordi Mir porta tota la vida 'pompeufabrant' Catalunya.Direcció i guió: Josep Alcover i Quílez Realització i producció: Josep Alcover i QuilezProductor executiu 3Cat: David Bassa Cabana i Sílvia Pairó VilaCoordinació de continguts 3Cat: Ricard Belis GarcíaProductor delegat 3Cat: Daniel Barea DelgadoFotografia: Josep Alcover i Pau Recasens Muntatge: Josep Alcover Música: Josep Maria Costa Grafisme: Moligraphic Studio</desc>
+    <length units="minutes">01:16:40</length>
   </programme>
-  <programme start="20261120153010 +0000" channel="tvi" stop="20261120155226 +0000">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Olla barrejada amb peus de porc</sub-title>
-    <desc lang="ca">L'olla barrejada no demana pressa, sinó temps. No demana feina, sinó paciència. I el resultat final és de festa grossa de diumenge.</desc>
-    <length units="minutes">00:22:16</length>
+  <programme start="20261121005021 +0000" channel="tvi" stop="20261121013454 +0000">
+    <title lang="ca">Replicants</title>
+    <sub-title lang="ca">El planeta dels simis i les faules modernes</sub-title>
+    <desc lang="ca">El professor de comunicació Ivan Pintor, l'autora especialista en gèneres fantàstics Loredana Volpe i l'escriptor Max Besora, autor de 'La veu del seu amo', parlen de si la saga d''El planeta dels simis' es pot considerar una faula moderna que ens adverteix dels perills de la civilització humana. És aquest gènere, la faula, un gènere en desús? O ens pot servir per reivindicar la mirada animal del món?</desc>
+    <length units="minutes">00:44:33</length>
   </programme>
-  <programme start="20261120153000 +0000" channel="324" stop="20261120160000 +0000">
-    <title lang="ca">3CatInfo en aranès</title>
-    <sub-title lang="ca">2588</sub-title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="minutes">00:30:00</length>
-  </programme>
-  <programme start="20261120160000 +0000" channel="324" stop="20261120170000 +0000">
+  <programme start="20261120233000 +0000" channel="324" stop="20261121003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11753</sub-title>
+    <sub-title lang="ca">11757</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261120150518 +0000" channel="esport3" stop="20261120153124 +0000">
-    <title lang="ca">Catalunya des de l'aire</title>
-    <sub-title lang="ca">Alt i Baix camp, Priorat</sub-title>
-    <desc lang="ca">Catalunya és màgica. Conté mar i terra, rius i muntanyes. En els seus milers de quilòmetres quadrats hi ha esglésies, castells, parcs... 'Catalunya des de l'aire' és un viatge per indrets que formen el passat, el present i el futur del país i dels seus habitants.'Catalunya des de l'aire' ofereix una visió bella i espectacular de les terres catalanes i dels seus habitants. Es tracta d'una sèrie divulgativa que vol mostrar als telespectadors el patrimoni cultural català. La sèrie, de 18 capítols, parteix del concepte de patrimoni integral, és a dir, de la suma dels vessants artístic, natural i antropològic, amb les corresponents indicacions històriques i literàries.La imatge del país, presa des de l'aire, projecta el conjunt i ofereix la successió de paisatges, monuments de diferents períodes i, com trobades a l'atzar del recorregut, celebracions i tradicions significatives dels diferents indrets. La música i la veu en off, amb pinzellades de l'àmbit històric i literari, acompanyen unes imatges que parlen per si soles.En conjunt, 'Catalunya des de l'aire' mostra la pluralitat d'elements i paisatges que formen la unitat del país, amb tota la riquesa de continguts, a vegades fins i tot contradictoris. Per aconseguir-ho, la sèrie parteix d'un guió elaborat per quatre professors d'universitat especialistes en el patrimoni històric i antropològic. A partir d'aquest guió s'elabora un complet joc d'imatges.'Catalunya des de l'aire' es va gravar durant gairebé un any, des del setembre del 97 fins a l'agost del 98, de manera que les diferents comarques mostren també com hi canvia el paisatge amb el pas de les estacions.El recorregut de 'Catalunya des de l'aire' comença al Barcelonès i, després de sobrevolar tot el país, es tanca amb un resum del més destacat del viatge.Fitxa tècnicaDirecció i realització: Xavier ManichIdea i direcció executiva: Germán RubiesProducció: Elena AlgarHistoriador: Salvador ClaramuntAdministrador gerent: Joan Cruel</desc>
-    <length units="minutes">00:26:06</length>
+  <programme start="20261121003000 +0000" channel="324" stop="20261121010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11758</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261120153124 +0000" channel="esport3" stop="20261120162350 +0000">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
-    <length units="minutes">00:52:26</length>
+  <programme start="20261120230112 +0000" channel="esport3" stop="20261121003207 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Xavi Espart 2030 + Post Athletic Club - Espanyol</sub-title>
+    <desc lang="ca">A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.</desc>
+    <length units="minutes">01:30:55</length>
   </programme>
-  <programme start="20261120153017 +0000" channel="sx3" stop="20261120155049 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">El llac màgic</sub-title>
-    <desc lang="ca">En Son Goku s'acomiada dels seus amics i comença una nova aventura a la recerca de la Bola de Drac de Quatre Estrelles del seu avi. Pel camí es trobarà amb en Nam, el granger pobre que va derrotar a les semifinals, i l'ajudarà a investigar per què s'ha assecat el riu que portava aigua al seu poble. Aviat descobriran que uns monstres hi han construït una presa.</desc>
-    <length units="minutes">00:20:32</length>
+  <programme start="20261121003207 +0000" channel="esport3" stop="20261121005251 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5573</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:20:44</length>
   </programme>
-  <programme start="20261120155049 +0000" channel="sx3" stop="20261120161258 +0000">
-    <title lang="ca">Bola de drac</title>
-    <sub-title lang="ca">La bola de quatre estrelles</sub-title>
-    <desc lang="ca">Continua la cursa per trobar l'autèntica Bola de Drac de Quatre Estrelles. Ara s'hi han afegit l'emperador Pilaf amb els seus sequaços i el misteriós exèrcit del coronel Silver. La bola ha aparegut en una botiga, però sembla que el propietari en podria estar fent falsificacions. La clau podria estar al niu d'uns ocells que hi ha damunt de la botiga.</desc>
-    <length units="minutes">00:22:09</length>
+  <programme start="20261121002359 +0000" channel="sx3" stop="20261121004409 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Anguilèctrica!</sub-title>
+    <desc lang="ca">La nau Tortuga cau en plena selva amazònica. El sistema elèctric de la nau pateix un curtcircuit i, mentre la Koki mira de reparar-lo, els germans Kratt aprofiten per anar a explorar la fauna de la selva. En un riu descobreixen un animal molt curiós, l'anguila elèctrica, capaç de generar descàrregues elèctriques d'alt voltatge. Aquest descobriment els acabarà resultant més útil del que es pensaven, però també posarà en perill el més important per una anguila elèctrica: el seu niu.</desc>
+    <length units="minutes">00:20:10</length>
+  </programme>
+  <programme start="20261121004409 +0000" channel="sx3" stop="20261121010447 +0000">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El misteri del narval de dues banyes</sub-title>
+    <desc lang="ca">Mentre discuteixen què és millor, si unes banyes d'ant o unes banyes de bisó, el Martin i el Chris decideixen que la pròxima aventura animal serà conèixer millor el narval banyut de l'Àrtic. Però quan arriben allà, descobreixen que de vegades una banya no és una banya, i es posen a investigar per solucionar el misteri d'aquest animal.</desc>
+    <length units="minutes">00:20:38</length>
   </programme>
 </tv>
