@@ -1,88 +1,87 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
-  </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261121050000 +0000" channel="tv3" stop="20261121054502 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Edu Tancredi Sextet</sub-title>
-    <desc lang="ca">Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
-    <length units="minutes">00:45:02</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261121143000 +0000" channel="tv3" stop="20261121154015 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7396</sub-title>
+    <length units="minutes">01:10:15</length>
   </programme>
-  <programme start="20261121054502 +0000" channel="tv3" stop="20261121054750 +0000">
-    <title lang="ca">Videoclips catalans</title>
-    <sub-title lang="ca">The Tyets - De l'1 al què</sub-title>
-    <length units="minutes">00:02:48</length>
+  <programme start="20261121154015 +0000" channel="tv3" stop="20261121171443 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Norbert(a)</sub-title>
+    <desc lang="ca">El Norberto porta tota una vida amb la Maria. Són gent humil, de barri, i de tant en tant atracadors. Però el Norberto necessita fer un gir per sentir-se viva, lliure, per sentir-se ELLA mateixa. Una confessió inesperada que farà trontollar tota la seva vida.Direcció: Sonia Escolano i Belen López AlbertGuió: Sonia EscolanoDirecció de fotografia: David ValldepérezMúsica: Arnau BatallerIntèrprets: Luis Bermejo (Norberta), Adriana Ozores (María), Mariona Terés (Natalia), María Romanillos (Paula) i Carme Balagué (Tere)Productores: NorbertaFilm, AIE i Imposible Films, S.L.</desc>
+    <length units="minutes">01:34:28</length>
   </programme>
-  <programme start="20261121045419 +0000" channel="tv3" stop="20261121054053 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 9</sub-title>
-    <desc lang="ca">Què millor que acabar la setmana mirant un resum de tot el que ens ha passat aquests dies? Reviure visites com les d'en Màrius Serra, la Glòria Maurel, Remei de Ca la Fresca, i la Mercè i en Ferran Albiol acompanyats d'en Mic i en Tomàtic... Recordar com apareixen objectes com el gat del cotxe, el tornavís, la pila de 4,5V i la claqueta. I passejar 4 gossos, que sempre fa il·lusió per recordar moments històrics. Feu-hi un cop d'ull i torneu a mirar els capítols sencers, que sempre s'hi descobreixen coses noves!</desc>
-    <length units="minutes">00:46:34</length>
+  <programme start="20261121142530 +0000" channel="tv3" stop="20261121144709 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">TDAH:Nen para quiet</sub-title>
+    <desc lang="ca">Quèquicom dedicarà dos capítols al TDAH, Trastorn per Dèficit d'Atenció i Hiperactivitat, un dedicat als nens i un altre als adults, que se s'emetran en dues setmanes seguides. Samantha Vall coneix l'Aitor, un nen hiperactiu, i la seva metge, Susana Carmona. L'Aitor participa en un estudi de l'Hospital del Mar de Barcelona per comprendre millor el cervell dels nens amb TDAH. Li fan una ressonància magnètica funcional per comprovar quin grau d'afectació pot tenir l'àrea del cervell relacionada amb la motivació que fa que per aquest nen sigui impossible relaxar-se i centrar-se en una cosa.Però el TDAH no és només hiperactivitat, també és falta d'atenció. De fet, els nens hiperactius no passen desapercebuts; en canvi, l'Ainoa, de 10 anys, és una nena molt tranquil·la, però té un dèficit d'atenció important. Li costa molt concentrar-se i, per tant, aprendre. Necessita ajuda específica de pares, mestres i metges. El coordinador del Programa Integral del Dèficit d'Atenció de la Vall d'Hebron, Josep Antoni Ramos-Quiroga, assegura que en casos greus cal una medicació perquè, si no, el nen no pot fer una vida normal.El TDAH és una malaltia neuropsiquiàtrica que ha de diagnosticar un expert. Els símptomes que dóna solen ser apreciables i els primers de detectar-ho són pares i mestres, però és fàcil confondre's i cal anar amb compte a l'hora d'etiquetar les persones. Alguns dels símptomes del TDAH -com la falta de concentració o petits oblits- es poden donar de forma aïllada en qualsevol persona, sense que això signifiqui tenir un trastorn. Ara bé, en alguns casos, certs mecanismes neuronals funcionen malament i això provoca dèficits d'atenció continuats. Només els especialistes poden determinar si un nen té TDAH i quin tipus de tractament ha de seguir.</desc>
+    <length units="minutes">00:21:39</length>
   </programme>
-  <programme start="20261121054053 +0000" channel="tv3" stop="20261121054619 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Guilleries</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:05:26</length>
+  <programme start="20261121144709 +0000" channel="tv3" stop="20261121150906 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">TDAH: Transtorn d'oportunitats</sub-title>
+    <desc lang="ca">La Fina sempre havia pensat que era despistada i desorganitzada i sempre li havia costat més que als altres estudiar. Va arribar a pensar que era tonta. Als 40 anys va saber que tenia el trastorn per dèficit d'atenció, el TDAH, una malaltia neuropsiquiàtrica que s'inicia en la infantesa i sol ser crònica. El mateix li passa al Xavier Vela, esportista d'elit i hiperactiu. Tant en el seu cas com en el de la Fina, la medicació ha estat la clau per poder fer una vida normal.'Quèquicom' segueix aquestes dues històries amb el Josep Antoni Ramos-Quiroga, coordinador del Programa Integral de Dèficit d'Atenció de la Vall d'Hebron, que diu que les persones que no s'arriben a tractar 'perden oportunitats en la vida'. Al cervell de les persones amb TDAH, hi falten una sèrie de neurotransmissors, de missatgers, que fan que les ordres no arribin bé.</desc>
+    <length units="minutes">00:21:57</length>
   </programme>
-  <programme start="20261121050000 +0000" channel="tvi" stop="20261121054502 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Edu Tancredi Sextet</sub-title>
-    <desc lang="ca">Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
-    <length units="minutes">00:45:02</length>
+  <programme start="20261121143000 +0000" channel="tvi" stop="20261121154015 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7396</sub-title>
+    <length units="minutes">01:10:15</length>
   </programme>
-  <programme start="20261121054502 +0000" channel="tvi" stop="20261121054750 +0000">
-    <title lang="ca">Videoclips catalans</title>
-    <sub-title lang="ca">The Tyets - De l'1 al què</sub-title>
-    <length units="minutes">00:02:48</length>
+  <programme start="20261121153628 +0000" channel="tvi" stop="20261121165127 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Per a tota la mort</sub-title>
+    <desc lang="ca">PER A TOTA LA MORTProductora: Setmàgic Audiovisual, S.L., 2019Direcció: Alfonso SánchezGuió: Ana GracianiDirector de fotografia: Fran Fernández-PardoMúsica: Pablo Cervantes Intèrprets: Alberto López (José Vicente), Estefanía de los Santos (Pepa), Joaquín Ortega (Hugo), Marta Tomasa (Sonia), Alfonso Sánchez (Antonio) i María Fernanda Orazi (Andrea)José Vicente, un noi tímid de més de trenta anys, és opositor des de en fa dotze. Viu a casa els pares de la seva xicota, i ella i la seva família el mantenen. Es passa els dies estudiant, amb un sol objectiu a la vida: convertir-se en funcionari d'Hisenda. Després de l'examen, un error administratiu fa que cregui que ha aconseguit la plaça, la seva alegria màxima, indescriptible, ara sí que té la vida solucionada, finalment podran comprar-se un pis i ser una persona respectada per tothom, el seu futur laboral està garantit. Però l'alegria dura poc, descobreix l'error mentre ho celebrava amb la seva família, ha quedat el primer de la llista de suplents. José Vicente, alienat per les infinites hores d'estudi i la situació econòmica i familiar que viu, decideix que l'única manera d'aconseguir la plaça a què aspirava i que ningú sàpiga que hi ha hagut un error és matar a l'Hugo, la persona que ha aconseguit realment la plaça. Serà realment capaç? de fer-ho?</desc>
+    <length units="minutes">01:14:59</length>
   </programme>
-  <programme start="20261121010000 +0000" channel="324" stop="20261121060000 +0000">
+  <programme start="20261121143000 +0000" channel="324" stop="20261121163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7396</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261121163000 +0000" channel="324" stop="20261121183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11758</sub-title>
+    <sub-title lang="ca">11762</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261121060000 +0000" channel="324" stop="20261121070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11758</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261121141400 +0000" channel="esport3" stop="20261121150858 +0000">
+    <title lang="ca">Més enllà de les muntanyes</title>
+    <sub-title lang="ca">1</sub-title>
+    <desc lang="ca">Més enllà de les muntanyes és un documental coproduït per TV3 i el Centre Excursionista de Catalunya per commemorar els 150 anys de la fundació d'una de les entitats excursionistes més antigues del món. Al llarg de 55 minuts, el documental ens convida a fer un viatge per la història d'una institució que ha anat molt més enllà de l'excursionisme i l'alpinisme. Durant aquest segle i mig, el Centre Excursionista de Catalunya ha estat testimoni i protagonista de grans fites esportives, científiques i culturals, contribuint decisivament al coneixement del territori. Però la seva petjada va molt més enllà dels cims conquerits i dels camins recorreguts. El Centre ha estat també un espai de trobada, de pensament i de divulgació cultural, estretament vinculat a la història contemporània de Catalunya i a la voluntat de preservar-ne la llengua, la identitat i el patrimoni. Més enllà de les muntanyes és, en definitiva, un recorregut per 150 anys d'esport, coneixement i compromís amb el país. El documental ha estat dirigit pel periodista de TV3 Antoni Real, i realitzat per Àlex Gonzalo amb col·laboració d'Abacusidea.</desc>
+    <length units="minutes">00:54:58</length>
   </programme>
-  <programme start="20261121052404 +0000" channel="esport3" stop="20261121054358 +0000">
+  <programme start="20261121150858 +0000" channel="esport3" stop="20261121152852 +0000">
     <title lang="ca">Espòiler</title>
     <sub-title lang="ca">El Ford Mustang Dark Horse, l'Skoda Epiq, la gamma Mercedes-AMG i les novetats de Leapmotor</sub-title>
     <desc lang="ca">En aquest capítol ens posem al volant de l'impressionant Ford Mustang Dark Horse, un dels darrers esportius autèntics del mercat. A més, assistim a la presentació del nou Skoda Epiq, un SUV elèctric de poc més de quatre metres, posem a prova la gamma esportiva de Mercedes-AMG al circuit de Castellolí i coneixem les darreres novetats de Leapmotor.</desc>
     <length units="minutes">00:19:54</length>
   </programme>
-  <programme start="20261121054358 +0000" channel="esport3" stop="20261121060758 +0000">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / San Luis / 5</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
-    <length units="minutes">00:24:00</length>
+  <programme start="20261121144536 +0000" channel="sx3" stop="20261121145722 +0000">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Quin papa més enrotllat!</sub-title>
+    <desc lang="ca">El pare de la Wendy i la Marine ha de fer un còmic sobre els adolescents d'avui dia, però no se li acut cap idea. Segons la Marine és fàcil: només cal que s'inspiri en el seu entorn. Per exemple, en la Wendy, la seva filla adolescent. Al pare li encanta la idea i, ajudat per la seva filla petita, es dedica a espiar la Wendy per observar de prop una adolescent al seu medi natural.</desc>
+    <length units="minutes">00:11:46</length>
   </programme>
-  <programme start="20261121053200 +0000" channel="sx3" stop="20261121053840 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Unes bales que belen</sub-title>
-    <desc lang="ca">En Bitzer rep l'encàrrec de fer i apilar bales de palla però, com sempre, la colla d'ovelles i xais decideixen fer-li la vida impossible. S'amaguen dins les bales i els donen vida pròpia, amunt i avall, fent parar boig el gos, que acaba tirant a terra totes les piles per trobar les ovelles, just quan arriba el Pagès, que s'enfurisma davant l'embolic de bales. Però potser al final les nostres protagonistes veuran que n'han fet un gra massa i l'ajudaran.</desc>
-    <length units="minutes">00:06:40</length>
-  </programme>
-  <programme start="20261121053840 +0000" channel="sx3" stop="20261121054440 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">A toc de xiulet</sub-title>
-    <desc lang="ca">En Bitzer ensinistra les ovelles a fer cas de les instruccions a toc de xiulet, però quan en Shaun li pren els xiulets, comencen els embolics. Les ovelles es diverteixen muntant coreografies a ritme de xiulet, però quan els troba el Pagès, que es posa a tocar-los com si fos la seva harmònica, els animals no tenen altre remei que seguir els passos que han après a toc de xiulet i acaben esgotats. Però en Bitzer hi posarà remei.</desc>
-    <length units="minutes">00:06:00</length>
+  <programme start="20261121145722 +0000" channel="sx3" stop="20261121150844 +0000">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">El meu tresor</sub-title>
+    <desc lang="ca">Remenant pel garatge les germanes troben un vell mapa d'un tresor en una capsa. La Wendy creu que no és autèntic, però la Marine surt disparada a buscar el tresor pels carrers de Pom-les-Bains. Però la Wendy té els seus dubtes i no es pot estar de seguir la seva germana a distància.</desc>
+    <length units="minutes">00:11:22</length>
   </programme>
 </tv>
