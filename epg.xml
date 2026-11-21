@@ -1,90 +1,88 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261121000440 +0000" channel="tv3" stop="20261121014656 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">13 minuts</sub-title>
-    <desc lang="ca">13 MINUTS '13 Minutes'Direcció: Lindsay GosslingGuió: Lindsay GosslingProducció: Elevated Films, Involving Pictures. Quiver DistributionAny: 2021Durada: 108País: Canadà Música: Ariel MarxFotografia: Steve MasonIntèrprets: Trace Adkins, Yancey Arias, Thora Birch, Tokala Black Elk, Darryl Cox, Allyson Cristofaro, Naomi Duarte, Peter Facinelli, Sidney Flack, Ginger Gilmartin, Anne Heche, Gabriel Jarret, James Austin Kerr, Shaylee Mansfield. Un tornado, que colpeja un petit poble, posa a prova quatre famílies i les obliga a redefinir la supervivència.</desc>
-    <length units="minutes">01:42:16</length>
+  <programme start="20261121050000 +0000" channel="tv3" stop="20261121054502 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Edu Tancredi Sextet</sub-title>
+    <desc lang="ca">Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
+    <length units="minutes">00:45:02</length>
   </programme>
-  <programme start="20261121014656 +0000" channel="tv3" stop="20261121030531 +0000">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">2204</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="minutes">01:18:35</length>
+  <programme start="20261121054502 +0000" channel="tv3" stop="20261121054750 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">The Tyets - De l'1 al què</sub-title>
+    <length units="minutes">00:02:48</length>
   </programme>
-  <programme start="20261121000643 +0000" channel="tv3" stop="20261121003142 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">El Bromo, el volcà sagrat de Java</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.</desc>
-    <length units="minutes">00:24:59</length>
+  <programme start="20261121045419 +0000" channel="tv3" stop="20261121054053 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 9</sub-title>
+    <desc lang="ca">Què millor que acabar la setmana mirant un resum de tot el que ens ha passat aquests dies? Reviure visites com les d'en Màrius Serra, la Glòria Maurel, Remei de Ca la Fresca, i la Mercè i en Ferran Albiol acompanyats d'en Mic i en Tomàtic... Recordar com apareixen objectes com el gat del cotxe, el tornavís, la pila de 4,5V i la claqueta. I passejar 4 gossos, que sempre fa il·lusió per recordar moments històrics. Feu-hi un cop d'ull i torneu a mirar els capítols sencers, que sempre s'hi descobreixen coses noves!</desc>
+    <length units="minutes">00:46:34</length>
   </programme>
-  <programme start="20261121003142 +0000" channel="tv3" stop="20261121005653 +0000">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">El Kawah Ijen. L'infern del sofre</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java, on hi ha el volcà Kawah Ijen. Entre d'altres coses, l'acompanyarem en la seva visita al volcà, on hi ha el llac de cràter més àcid del món, veurem de prop la duríssima feina dels treballadors que arrenquen el sofre del cràter del volcà i també els problemes ecològics que causa al medi ambient la toxicitat de l'aigua del llac del Kawah Ijen. En un aspecte positiu, però, gaudirem de la bellesa de les flames blaves nocturnes del volcà, un fenomen que no es veu enlloc més del món.</desc>
-    <length units="minutes">00:25:11</length>
+  <programme start="20261121054053 +0000" channel="tv3" stop="20261121054619 +0000">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Guilleries</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="minutes">00:05:26</length>
   </programme>
-  <programme start="20261120233341 +0000" channel="tvi" stop="20261121005021 +0000">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Jordi Mir. Pompeufabrant Catalunya</sub-title>
-    <desc lang="ca">Jordi Mir. Pompeufabrant Catalunya (2024) una producció de Clementina en coproducció amb Josep Alcover i Quílez, la participación de 3cat i l' Institut d'Estudis Ilerdencs, i el suport de la Fundació CIC, Institut d'Estudis Catalans, Federació d'Entitats Excursionistes de Catalunya i Govern d'Andorra.Jordi Mir és un home de facetes variades: excursionisme, futbol, televisió, classes clandestines … Totes les ha exercit amb màxima excel·lència i discreció. Perquè ell no busca mèrits. Ell ho fa per la llengua que, afirma, és la nació. I, sota aquesta bandera, Jordi Mir porta tota la vida 'pompeufabrant' Catalunya.Direcció i guió: Josep Alcover i Quílez Realització i producció: Josep Alcover i QuilezProductor executiu 3Cat: David Bassa Cabana i Sílvia Pairó VilaCoordinació de continguts 3Cat: Ricard Belis GarcíaProductor delegat 3Cat: Daniel Barea DelgadoFotografia: Josep Alcover i Pau Recasens Muntatge: Josep Alcover Música: Josep Maria Costa Grafisme: Moligraphic Studio</desc>
-    <length units="minutes">01:16:40</length>
+  <programme start="20261121050000 +0000" channel="tvi" stop="20261121054502 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Edu Tancredi Sextet</sub-title>
+    <desc lang="ca">Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
+    <length units="minutes">00:45:02</length>
   </programme>
-  <programme start="20261121005021 +0000" channel="tvi" stop="20261121013454 +0000">
-    <title lang="ca">Replicants</title>
-    <sub-title lang="ca">El planeta dels simis i les faules modernes</sub-title>
-    <desc lang="ca">El professor de comunicació Ivan Pintor, l'autora especialista en gèneres fantàstics Loredana Volpe i l'escriptor Max Besora, autor de 'La veu del seu amo', parlen de si la saga d''El planeta dels simis' es pot considerar una faula moderna que ens adverteix dels perills de la civilització humana. És aquest gènere, la faula, un gènere en desús? O ens pot servir per reivindicar la mirada animal del món?</desc>
-    <length units="minutes">00:44:33</length>
+  <programme start="20261121054502 +0000" channel="tvi" stop="20261121054750 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">The Tyets - De l'1 al què</sub-title>
+    <length units="minutes">00:02:48</length>
   </programme>
-  <programme start="20261120233000 +0000" channel="324" stop="20261121003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11757</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
-  </programme>
-  <programme start="20261121003000 +0000" channel="324" stop="20261121010000 +0000">
+  <programme start="20261121010000 +0000" channel="324" stop="20261121060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11758</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261120230112 +0000" channel="esport3" stop="20261121003207 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Xavi Espart 2030 + Post Athletic Club - Espanyol</sub-title>
-    <desc lang="ca">A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.</desc>
-    <length units="minutes">01:30:55</length>
+  <programme start="20261121060000 +0000" channel="324" stop="20261121070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11758</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261121003207 +0000" channel="esport3" stop="20261121005251 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5573</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:44</length>
+  <programme start="20261121052404 +0000" channel="esport3" stop="20261121054358 +0000">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">El Ford Mustang Dark Horse, l'Skoda Epiq, la gamma Mercedes-AMG i les novetats de Leapmotor</sub-title>
+    <desc lang="ca">En aquest capítol ens posem al volant de l'impressionant Ford Mustang Dark Horse, un dels darrers esportius autèntics del mercat. A més, assistim a la presentació del nou Skoda Epiq, un SUV elèctric de poc més de quatre metres, posem a prova la gamma esportiva de Mercedes-AMG al circuit de Castellolí i coneixem les darreres novetats de Leapmotor.</desc>
+    <length units="minutes">00:19:54</length>
   </programme>
-  <programme start="20261121002359 +0000" channel="sx3" stop="20261121004409 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Anguilèctrica!</sub-title>
-    <desc lang="ca">La nau Tortuga cau en plena selva amazònica. El sistema elèctric de la nau pateix un curtcircuit i, mentre la Koki mira de reparar-lo, els germans Kratt aprofiten per anar a explorar la fauna de la selva. En un riu descobreixen un animal molt curiós, l'anguila elèctrica, capaç de generar descàrregues elèctriques d'alt voltatge. Aquest descobriment els acabarà resultant més útil del que es pensaven, però també posarà en perill el més important per una anguila elèctrica: el seu niu.</desc>
-    <length units="minutes">00:20:10</length>
+  <programme start="20261121054358 +0000" channel="esport3" stop="20261121060758 +0000">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / San Luis / 5</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <length units="minutes">00:24:00</length>
   </programme>
-  <programme start="20261121004409 +0000" channel="sx3" stop="20261121010447 +0000">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El misteri del narval de dues banyes</sub-title>
-    <desc lang="ca">Mentre discuteixen què és millor, si unes banyes d'ant o unes banyes de bisó, el Martin i el Chris decideixen que la pròxima aventura animal serà conèixer millor el narval banyut de l'Àrtic. Però quan arriben allà, descobreixen que de vegades una banya no és una banya, i es posen a investigar per solucionar el misteri d'aquest animal.</desc>
-    <length units="minutes">00:20:38</length>
+  <programme start="20261121053200 +0000" channel="sx3" stop="20261121053840 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Unes bales que belen</sub-title>
+    <desc lang="ca">En Bitzer rep l'encàrrec de fer i apilar bales de palla però, com sempre, la colla d'ovelles i xais decideixen fer-li la vida impossible. S'amaguen dins les bales i els donen vida pròpia, amunt i avall, fent parar boig el gos, que acaba tirant a terra totes les piles per trobar les ovelles, just quan arriba el Pagès, que s'enfurisma davant l'embolic de bales. Però potser al final les nostres protagonistes veuran que n'han fet un gra massa i l'ajudaran.</desc>
+    <length units="minutes">00:06:40</length>
+  </programme>
+  <programme start="20261121053840 +0000" channel="sx3" stop="20261121054440 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">A toc de xiulet</sub-title>
+    <desc lang="ca">En Bitzer ensinistra les ovelles a fer cas de les instruccions a toc de xiulet, però quan en Shaun li pren els xiulets, comencen els embolics. Les ovelles es diverteixen muntant coreografies a ritme de xiulet, però quan els troba el Pagès, que es posa a tocar-los com si fos la seva harmònica, els animals no tenen altre remei que seguir els passos que han après a toc de xiulet i acaben esgotats. Però en Bitzer hi posarà remei.</desc>
+    <length units="minutes">00:06:00</length>
   </programme>
 </tv>
