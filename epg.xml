@@ -6,83 +6,82 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
-  <programme start="20261122043000 +0000" channel="tv3" stop="20261122050000 +0000">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Dácil</sub-title>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261122143000 +0000" channel="tv3" stop="20261122153424 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7397</sub-title>
+    <length units="minutes">01:04:24</length>
   </programme>
-  <programme start="20261122050000 +0000" channel="tv3" stop="20261122054457 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Djangologie</sub-title>
-    <desc lang="ca">Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
-    <length units="minutes">00:44:57</length>
+  <programme start="20261122153424 +0000" channel="tv3" stop="20261122172908 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Assassinats a les illes Marqueses</sub-title>
+    <desc lang="ca">ASSASSINATS A LES ILLES MARQUESES 'Meurtres aux Marquises'Direcció: François VelleGuió: Eric Delafosse, Isabelle PolinProducció: Save Ferris Entertainment, 13 Prods, BE-FILMS, France TV, RTBFAny: 2025Durada: 94País: FrançaMúsica: Franck LascombesFotografia: Olivier GuerboisIntèrprets: Medi Sadoun, Sara Mortensen, Kahu Kaiha, Tepa Teuru, Vincent Terorotua, Tensia Manzanal, Françoise Ah-Scha, Pascal Ortega, Françoise Durand, Yves-Édouard Malakai, Théo BertrandMarcada per una tragèdia que la va portar a fer un pas enrere en la seva feina com a agent de policia, l'Alba Debrucker va deixar París per venir a recarregar piles a l'altra banda del món, a les Illes Marqueses, on viu la seva millor amiga Heiani, que s'ha de casar amb el guapo Kohu.</desc>
+    <length units="minutes">01:54:44</length>
   </programme>
-  <programme start="20261122040826 +0000" channel="tv3" stop="20261122045509 +0000">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El nou testament</sub-title>
-    <desc lang="ca">Amb l'ajuda del Nil, la família aconsegueix robar al notari l'autèntic testament de l'Eduardo abans de la lectura. El que descobriran, però, és que en el nou testament hi diu que tots els diners seran per a l'Àngela si es compleixen una sèrie de condicions... entre les quals hi ha la de casar-se amb el Manu.</desc>
-    <length units="minutes">00:46:43</length>
+  <programme start="20261122143943 +0000" channel="tv3" stop="20261122150612 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Citrics: exprémer fins a la pell</sub-title>
+    <desc lang="ca">Cada cop que el consumidor tria taronges sense pinyols perjudica les abelles, ja que aquests insectes fecunden les varietats estèrils dels cítrics i, en conseqüència, els agricultors les foragiten. Obtenir mel de tarongina és cada cop més difícil. 'Quèquicom' va al País Valencià per veure quines en són les principals espècies i varietats, com se'n fa el suc i com se n'aprofita fins i tot la pell i la polpa per produir energia. També explica com la vitamina C combat els radicals lliures.De manera espontània, molts cítrics desenvolupen el fruit així que el pol·len toca a les portes de seva part femenina, sense donar temps que es produeixi la fecundació. Com que no hi ha hagut fecundació, no hi ha embrió, és a dir, no hi ha llavor o pinyol, però el fruit madura igualment. Aquest fenomen es diu partenogènesi.Els agricultors han anat seleccionant varietats de taronges i de mandarines que espontàniament no tenien pinyols. Ara bé, succeeix que les abelles pol·linitzen amb pol·len procedent d'una varietat fèrtil conreada en un camp veí. Aleshores es pot produir una veritable fecundació i apareixen inesperadament taronges o sobretot mandarines amb pinyols. Aquest fenomen s'anomena pinyolada i té conseqüències desastroses pel productor de cítrics, ja que els consumidors refusen els cítrics amb pinyols. La solució adoptada per l'Administració ha estat obligar a instal·lar els ruscos d'abelles a 5 km de distància dels camps de cítrics durant la primavera. A més, permet fumigar els arbres en flor per tal d'eliminar qualsevol insecte. Perjudicar les abelles va comportar una disminució de la pol·linització, que es va haver de resoldre amb l'addició artificial d'hormones vegetals que induïssin el desenvolupament partenogenètic dels fruits. Actualment, però, es tendeix a planificar amb molta cura el conreu de varietats compatibles de cítrics en camps adjacents, però les abelles continuen proscrites i la mel de taronger costa de trobar.</desc>
+    <length units="minutes">00:26:29</length>
   </programme>
-  <programme start="20261122045509 +0000" channel="tv3" stop="20261122054320 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El dòmino</sub-title>
-    <desc lang="ca">El dòmino és capaç d'unir grups de gent gran per passar hores i hores d'alegries... però sobretot de discussions. Qui no ha anat a fer un cafè al bar i l'ha trobat en hora punta ple d'avis discutint? És possible morir d'un atac de cor perquè no han tirat la fitxa que tocava per poder guanyar? Ens visita en Joel Joan, i les converses amb ell són impossibles de definir. Val més que la mireu. I sortim a passejar el gos pel descobriment de les pintures d'Altamira amb en Jambo, un gos del Vendrell.</desc>
-    <length units="minutes">00:48:11</length>
+  <programme start="20261122150612 +0000" channel="tv3" stop="20261122153506 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Energia solar</sub-title>
+    <desc lang="ca">'Quèquicom' dedica el programa a explicar el funcionament de l'energia solar tèrmica i fotovoltaica. El programa de divulgació científica del 33 visita la Solar Decathlon, la competició més prestigiosa del món de cases solars i descobreix com les cuines solars redueixen la desforestació a l'Àfrica. 'Quèquicom' també col·labora amb 130 nens d'un escola de Valls en una rèplica d'una central termosolar. El model energètic actual, basat en els hidrocarburs, té un termini cada vegada més proper. L'esgotament dels recursos i la creixent contaminació ens obligaran a adoptar nous models energètics; en plural, ja que cap font alternativa d'energia no pot fer front, per separat, a l'actual demanda energètica. El futur és, doncs, ben clar: canviar de model energètic i reduir el consum d'energia. Un d'aquests models energètics alternatius és l'energia solar, en els seus dos vessants: fotovoltaic i tèrmic.Les plaques solars continuen sent relativament cares. En les grans instal·lacions fotovoltaiques s'assagen altres tecnologies per rebaixar costos, com les anomenades plaques solars de concentració. Joan Ignasi Rosell, de la Universitat de Lleida, explica en què consisteixen.</desc>
+    <length units="minutes">00:28:54</length>
   </programme>
-  <programme start="20261122043000 +0000" channel="tvi" stop="20261122050000 +0000">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Dácil</sub-title>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261122143002 +0000" channel="tvi" stop="20261122153424 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7397</sub-title>
+    <length units="minutes">01:04:22</length>
   </programme>
-  <programme start="20261122050000 +0000" channel="tvi" stop="20261122054457 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Djangologie</sub-title>
-    <desc lang="ca">Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
-    <length units="minutes">00:44:57</length>
+  <programme start="20261122153047 +0000" channel="tvi" stop="20261122165834 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Lluna plena</sub-title>
+    <desc lang="ca">LLUNA PLENAProducció: Televisió de Catalunya, Dream Team Concept, Canal Sur Televisión i Euskal Telebista, 2011Director i guió: Luis MaríasDirector de fotografia: Pau MonràsMúsica: Aritz VillodasIntèrprets: Nacho Fresneda (David), Andrea Montero (Arancha), Gary Piquer (Germán) i Susana Soleto (abogada)En David és un home normal i corrent, d'uns quaranta anys, amb feina estable i parella, l'Arancha. Tenen una vida raonablement feliç i tranquil·la. No obstant això, un dia, el ve a buscar la Policia. Algú l'acusa de ser un assassí de dones, un assassí que sempre actua les nits de lluna plena, per això se'l coneix com l''home llop'.</desc>
+    <length units="minutes">01:27:47</length>
   </programme>
-  <programme start="20261122010000 +0000" channel="324" stop="20261122060000 +0000">
+  <programme start="20261122143000 +0000" channel="324" stop="20261122163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7397</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261122163000 +0000" channel="324" stop="20261122183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11766</sub-title>
+    <sub-title lang="ca">11770</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261122060000 +0000" channel="324" stop="20261122070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11766</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261122135636 +0000" channel="esport3" stop="20261122155542 +0000">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Barça - Vila-real</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="minutes">01:59:06</length>
   </programme>
-  <programme start="20261122030419 +0000" channel="esport3" stop="20261122045152 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">RCD Espanyol B-Barça Atlètic / Segona Federació / J12</sub-title>
-    <desc lang="ca">Els dos filials afronten aquest derbi lluitant per les primeres posicions. Els blaugranes lideren la classificació amb 25 punts, 4 més que els blanc-i-blaus.</desc>
-    <length units="minutes">01:47:33</length>
+  <programme start="20261122155542 +0000" channel="esport3" stop="20261122170042 +0000">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post Barça-Vila-real / J13</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="minutes">01:05:00</length>
   </programme>
-  <programme start="20261122045152 +0000" channel="esport3" stop="20261122061949 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Bidasoa-Barça / Lliga Asobal / J10</sub-title>
-    <desc lang="ca">Duel decisiu, a Irun, amb el liderat en joc. Els dos conjunts estan empatats al capdavant de la classificació després d'haver guanyat els 9 partits disputats.</desc>
-    <length units="minutes">01:27:57</length>
+  <programme start="20261122141907 +0000" channel="sx3" stop="20261122144658 +0000">
+    <title lang="ca">Manduka</title>
+    <sub-title lang="ca">Pan de queijo per postres. Gessamí Caramés</sub-title>
+    <desc lang="ca">Per primera vegada a la història del 'Manduka' ens visita una cuinera o cuiner professional. Es tracta de la Gessamí Caramés, coneguda per ser la cuinera que fa les postres al programa 'Cuines' de TV3. Amb la Gessa i la Paula tenim assegurada una competició de trucs i bona cuina. Però la Paula intentarà sorprendre la Gessa i li farà fer una recepta salada, ella que acostuma a fer sempre postres: el pa de queijo. Un pa de formatge típic del Brasil i que la Paula vol prendre amb algunes salsetes per postres, així la Gessa estarà contenta. Dues bones i simpàtiques cuineres fent un plat salat per postres... què pot anar malament???</desc>
+    <length units="minutes">00:27:51</length>
   </programme>
-  <programme start="20261122044544 +0000" channel="sx3" stop="20261122045224 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">La Beeergarita</sub-title>
-    <desc lang="ca">Quan el granger es descuida de donar menjar a les ovelles, el Shaun i el ramat veuen que tenen la gran oportunitat de regalar-se amb una pizza. Però quan corre la veu que les millors pizzes les fan a la granja, el Shaun i el ramat es veuen obligats a augmentar el volum i muntar un sistema per començar la producció en sèrie.1</desc>
-    <length units="minutes">00:06:40</length>
-  </programme>
-  <programme start="20261122045224 +0000" channel="sx3" stop="20261122045824 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Investigació a la granja</sub-title>
-    <desc lang="ca">L'empipador xiulet del Bitzer està posant les nervis de punta als residents de la granja. Però quan desapareix, el 'detectiu Shaun' sospita que ha sigut un robatori. Per tant decideix perseguir el culpable, però durant la investigació no para de trobar pistes falses que no el porten enlloc.</desc>
-    <length units="minutes">00:06:00</length>
+  <programme start="20261122144658 +0000" channel="sx3" stop="20261122145845 +0000">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Ha tornat la Wendy!</sub-title>
+    <desc lang="ca">La Wendy ha estat de colònies quinze dies. A la Marine se li han fet una eternitat! Quan torna la seva germana, la Marine la rep supercontenta i se li enganxa com una paparra. Però la Wendy també es mor de ganes de veure el Maxence, que li ha preparat una petita sortida romàntica per celebrar la seva arribada.</desc>
+    <length units="minutes">00:11:47</length>
   </programme>
 </tv>
