@@ -1,89 +1,88 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261121220850 +0000" channel="tv3" stop="20261122005007 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">162</sub-title>
-    <desc lang="ca">Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
-    <length units="minutes">02:41:17</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261122043000 +0000" channel="tv3" stop="20261122050000 +0000">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Dácil</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261122005007 +0000" channel="tv3" stop="20261122011531 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Viatjar a una altra llengua</sub-title>
-    <desc lang="ca">Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
-    <length units="minutes">00:25:24</length>
+  <programme start="20261122050000 +0000" channel="tv3" stop="20261122054457 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Djangologie</sub-title>
+    <desc lang="ca">Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
+    <length units="minutes">00:44:57</length>
   </programme>
-  <programme start="20261121222708 +0000" channel="tv3" stop="20261121235501 +0000">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Diari d'un pacifista</sub-title>
-    <length units="minutes">01:27:53</length>
+  <programme start="20261122040826 +0000" channel="tv3" stop="20261122045509 +0000">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">El nou testament</sub-title>
+    <desc lang="ca">Amb l'ajuda del Nil, la família aconsegueix robar al notari l'autèntic testament de l'Eduardo abans de la lectura. El que descobriran, però, és que en el nou testament hi diu que tots els diners seran per a l'Àngela si es compleixen una sèrie de condicions... entre les quals hi ha la de casar-se amb el Manu.</desc>
+    <length units="minutes">00:46:43</length>
   </programme>
-  <programme start="20261121235501 +0000" channel="tv3" stop="20261122005021 +0000">
-    <title lang="ca">60 minuts</title>
-    <sub-title lang="ca">El rei del Sudan del Nord</sub-title>
-    <desc lang="ca">Quan la seva filla li diu que voldria ser princesa, Jeremiah Heaton, un granger dels Estats Units, busca un territori que no formi part de cap estat per instaurar-hi un regne del qual ell serà el rei i la seva filla, la princesa. Navegant per internet troba Bir Tawil, una petita franja de terreny entre Egipte i el Sudan que, per un embolic de la descolonització, no volen ni un estat ni l'altre. El Jeremiah planta la bandera del seu regne en ple desert, però amb això no en té prou i comença a buscar la manera de treure partit de l'estat que acaba de crear. Així és com entra en contacte amb tota mena d'espavilats que veuen en el regne del Sudan del Nord una oportunitat d'enriquir-se.</desc>
-    <length units="minutes">00:55:20</length>
+  <programme start="20261122045509 +0000" channel="tv3" stop="20261122054320 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El dòmino</sub-title>
+    <desc lang="ca">El dòmino és capaç d'unir grups de gent gran per passar hores i hores d'alegries... però sobretot de discussions. Qui no ha anat a fer un cafè al bar i l'ha trobat en hora punta ple d'avis discutint? És possible morir d'un atac de cor perquè no han tirat la fitxa que tocava per poder guanyar? Ens visita en Joel Joan, i les converses amb ell són impossibles de definir. Val més que la mireu. I sortim a passejar el gos pel descobriment de les pintures d'Altamira amb en Jambo, un gos del Vendrell.</desc>
+    <length units="minutes">00:48:11</length>
   </programme>
-  <programme start="20261121220850 +0000" channel="tvi" stop="20261122005007 +0000">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">162</sub-title>
-    <desc lang="ca">Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
-    <length units="minutes">02:41:17</length>
+  <programme start="20261122043000 +0000" channel="tvi" stop="20261122050000 +0000">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Dácil</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261122005007 +0000" channel="tvi" stop="20261122011531 +0000">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Viatjar a una altra llengua</sub-title>
-    <desc lang="ca">Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
-    <length units="minutes">00:25:24</length>
+  <programme start="20261122050000 +0000" channel="tvi" stop="20261122054457 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Djangologie</sub-title>
+    <desc lang="ca">Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
+    <length units="minutes">00:44:57</length>
   </programme>
-  <programme start="20261121230000 +0000" channel="324" stop="20261122003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11765</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20261122003000 +0000" channel="324" stop="20261122010000 +0000">
+  <programme start="20261122010000 +0000" channel="324" stop="20261122060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11766</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261121230012 +0000" channel="esport3" stop="20261122003631 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J13 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:36:19</length>
+  <programme start="20261122060000 +0000" channel="324" stop="20261122070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11766</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261122003631 +0000" channel="esport3" stop="20261122005714 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5574</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:20:43</length>
+  <programme start="20261122030419 +0000" channel="esport3" stop="20261122045152 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">RCD Espanyol B-Barça Atlètic / Segona Federació / J12</sub-title>
+    <desc lang="ca">Els dos filials afronten aquest derbi lluitant per les primeres posicions. Els blaugranes lideren la classificació amb 25 punts, 4 més que els blanc-i-blaus.</desc>
+    <length units="minutes">01:47:33</length>
   </programme>
-  <programme start="20261121232820 +0000" channel="sx3" stop="20261121233917 +0000">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">En Prince i l'ocupant</sub-title>
-    <desc lang="ca">Un gat de carrer ocupa el lloc d'en Prince a casa i el fa fora. Ara, la Tropa haurà d'endevinar qui és en Prince de veritat i qui és el farsant, que ha fet un tracte amb en Frankie perquè l'ajudi a canvi de bon menjar.</desc>
-    <length units="minutes">00:10:57</length>
+  <programme start="20261122045152 +0000" channel="esport3" stop="20261122061949 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Bidasoa-Barça / Lliga Asobal / J10</sub-title>
+    <desc lang="ca">Duel decisiu, a Irun, amb el liderat en joc. Els dos conjunts estan empatats al capdavant de la classificació després d'haver guanyat els 9 partits disputats.</desc>
+    <length units="minutes">01:27:57</length>
   </programme>
-  <programme start="20261121233917 +0000" channel="sx3" stop="20261121235006 +0000">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">La galeta intel.ligent</sub-title>
-    <desc lang="ca">La Yana està moixa perquè creu que no té cap característica que la faci especial, com els seus amics. Però un pastisser li fa tastar una galeta màgica que li dona una gran intel·ligència i es converteix en una crac en tot allò que fa.</desc>
-    <length units="minutes">00:10:49</length>
+  <programme start="20261122044544 +0000" channel="sx3" stop="20261122045224 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">La Beeergarita</sub-title>
+    <desc lang="ca">Quan el granger es descuida de donar menjar a les ovelles, el Shaun i el ramat veuen que tenen la gran oportunitat de regalar-se amb una pizza. Però quan corre la veu que les millors pizzes les fan a la granja, el Shaun i el ramat es veuen obligats a augmentar el volum i muntar un sistema per començar la producció en sèrie.1</desc>
+    <length units="minutes">00:06:40</length>
+  </programme>
+  <programme start="20261122045224 +0000" channel="sx3" stop="20261122045824 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Investigació a la granja</sub-title>
+    <desc lang="ca">L'empipador xiulet del Bitzer està posant les nervis de punta als residents de la granja. Però quan desapareix, el 'detectiu Shaun' sospita que ha sigut un robatori. Per tant decideix perseguir el culpable, però durant la investigació no para de trobar pistes falses que no el porten enlloc.</desc>
+    <length units="minutes">00:06:00</length>
   </programme>
 </tv>
