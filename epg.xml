@@ -1,87 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <programme start="20261122143000 +0000" channel="tv3" stop="20261122153424 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7397</sub-title>
-    <length units="minutes">01:04:24</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261122225439 +0000" channel="tv3" stop="20261122235704 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">8</sub-title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="minutes">01:02:25</length>
   </programme>
-  <programme start="20261122153424 +0000" channel="tv3" stop="20261122172908 +0000">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Assassinats a les illes Marqueses</sub-title>
-    <desc lang="ca">ASSASSINATS A LES ILLES MARQUESES 'Meurtres aux Marquises'Direcció: François VelleGuió: Eric Delafosse, Isabelle PolinProducció: Save Ferris Entertainment, 13 Prods, BE-FILMS, France TV, RTBFAny: 2025Durada: 94País: FrançaMúsica: Franck LascombesFotografia: Olivier GuerboisIntèrprets: Medi Sadoun, Sara Mortensen, Kahu Kaiha, Tepa Teuru, Vincent Terorotua, Tensia Manzanal, Françoise Ah-Scha, Pascal Ortega, Françoise Durand, Yves-Édouard Malakai, Théo BertrandMarcada per una tragèdia que la va portar a fer un pas enrere en la seva feina com a agent de policia, l'Alba Debrucker va deixar París per venir a recarregar piles a l'altra banda del món, a les Illes Marqueses, on viu la seva millor amiga Heiani, que s'ha de casar amb el guapo Kohu.</desc>
-    <length units="minutes">01:54:44</length>
+  <programme start="20261122235704 +0000" channel="tv3" stop="20261123005050 +0000">
+    <title lang="ca">Diades castelleres especials</title>
+    <sub-title lang="ca">Diada castellera dels Minyons de Terrassa</sub-title>
+    <desc lang="ca">La plaça Vella de Terrassa acull aquest diumenge la 48a diada dels Minyons de Terrassa, que posa punt final a la temporada. Els Minyons compartiran plaça amb els Castellers de Sants i els Castellers de Sant Cugat. La colla malva afronta la jornada amb un programa de màxims, que inclou el 3 de 10 amb folre i manilles, el 5 de 9 amb folre i el 2 de 9 amb folre i manilles. La diada arriba després d'un any de grans reptes i d'una intensa feina als assajos. Més enllà dels castells que s'hi puguin veure, la cita representa el gran aparador del treball col·lectiu de les colles. La jornada, un any més, convertirà Terrassa en el centre del món casteller i abaixarà el teló de la temporada.</desc>
+    <length units="minutes">00:53:46</length>
   </programme>
-  <programme start="20261122143943 +0000" channel="tv3" stop="20261122150612 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Citrics: exprémer fins a la pell</sub-title>
-    <desc lang="ca">Cada cop que el consumidor tria taronges sense pinyols perjudica les abelles, ja que aquests insectes fecunden les varietats estèrils dels cítrics i, en conseqüència, els agricultors les foragiten. Obtenir mel de tarongina és cada cop més difícil. 'Quèquicom' va al País Valencià per veure quines en són les principals espècies i varietats, com se'n fa el suc i com se n'aprofita fins i tot la pell i la polpa per produir energia. També explica com la vitamina C combat els radicals lliures.De manera espontània, molts cítrics desenvolupen el fruit així que el pol·len toca a les portes de seva part femenina, sense donar temps que es produeixi la fecundació. Com que no hi ha hagut fecundació, no hi ha embrió, és a dir, no hi ha llavor o pinyol, però el fruit madura igualment. Aquest fenomen es diu partenogènesi.Els agricultors han anat seleccionant varietats de taronges i de mandarines que espontàniament no tenien pinyols. Ara bé, succeeix que les abelles pol·linitzen amb pol·len procedent d'una varietat fèrtil conreada en un camp veí. Aleshores es pot produir una veritable fecundació i apareixen inesperadament taronges o sobretot mandarines amb pinyols. Aquest fenomen s'anomena pinyolada i té conseqüències desastroses pel productor de cítrics, ja que els consumidors refusen els cítrics amb pinyols. La solució adoptada per l'Administració ha estat obligar a instal·lar els ruscos d'abelles a 5 km de distància dels camps de cítrics durant la primavera. A més, permet fumigar els arbres en flor per tal d'eliminar qualsevol insecte. Perjudicar les abelles va comportar una disminució de la pol·linització, que es va haver de resoldre amb l'addició artificial d'hormones vegetals que induïssin el desenvolupament partenogenètic dels fruits. Actualment, però, es tendeix a planificar amb molta cura el conreu de varietats compatibles de cítrics en camps adjacents, però les abelles continuen proscrites i la mel de taronger costa de trobar.</desc>
-    <length units="minutes">00:26:29</length>
+  <programme start="20261122230646 +0000" channel="tv3" stop="20261123000527 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Lisboa</sub-title>
+    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
+    <length units="minutes">00:58:41</length>
   </programme>
-  <programme start="20261122150612 +0000" channel="tv3" stop="20261122153506 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Energia solar</sub-title>
-    <desc lang="ca">'Quèquicom' dedica el programa a explicar el funcionament de l'energia solar tèrmica i fotovoltaica. El programa de divulgació científica del 33 visita la Solar Decathlon, la competició més prestigiosa del món de cases solars i descobreix com les cuines solars redueixen la desforestació a l'Àfrica. 'Quèquicom' també col·labora amb 130 nens d'un escola de Valls en una rèplica d'una central termosolar. El model energètic actual, basat en els hidrocarburs, té un termini cada vegada més proper. L'esgotament dels recursos i la creixent contaminació ens obligaran a adoptar nous models energètics; en plural, ja que cap font alternativa d'energia no pot fer front, per separat, a l'actual demanda energètica. El futur és, doncs, ben clar: canviar de model energètic i reduir el consum d'energia. Un d'aquests models energètics alternatius és l'energia solar, en els seus dos vessants: fotovoltaic i tèrmic.Les plaques solars continuen sent relativament cares. En les grans instal·lacions fotovoltaiques s'assagen altres tecnologies per rebaixar costos, com les anomenades plaques solars de concentració. Joan Ignasi Rosell, de la Universitat de Lleida, explica en què consisteixen.</desc>
-    <length units="minutes">00:28:54</length>
+  <programme start="20261123000527 +0000" channel="tv3" stop="20261123005607 +0000">
+    <title lang="ca">El gran camí</title>
+    <sub-title lang="ca">El Camí de Carena del Pacífic</sub-title>
+    <desc lang="ca">Ens desplacem fins a Califòrnia per començar una de les travessies més llargues i impressionants del món: el Camí de Carena del Pacífic. Una ruta que travessa els Estats Units pels cims de la costa occidental, des del Canadà fins a Mèxic. Un repte en majúscules, només apte per a caminants experts.</desc>
+    <length units="minutes">00:50:40</length>
   </programme>
-  <programme start="20261122143002 +0000" channel="tvi" stop="20261122153424 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7397</sub-title>
-    <length units="minutes">01:04:22</length>
+  <programme start="20261122225439 +0000" channel="tvi" stop="20261122235704 +0000">
+    <title lang="ca">Vèrtex</title>
+    <sub-title lang="ca">8</sub-title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="minutes">01:02:25</length>
   </programme>
-  <programme start="20261122153047 +0000" channel="tvi" stop="20261122165834 +0000">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Lluna plena</sub-title>
-    <desc lang="ca">LLUNA PLENAProducció: Televisió de Catalunya, Dream Team Concept, Canal Sur Televisión i Euskal Telebista, 2011Director i guió: Luis MaríasDirector de fotografia: Pau MonràsMúsica: Aritz VillodasIntèrprets: Nacho Fresneda (David), Andrea Montero (Arancha), Gary Piquer (Germán) i Susana Soleto (abogada)En David és un home normal i corrent, d'uns quaranta anys, amb feina estable i parella, l'Arancha. Tenen una vida raonablement feliç i tranquil·la. No obstant això, un dia, el ve a buscar la Policia. Algú l'acusa de ser un assassí de dones, un assassí que sempre actua les nits de lluna plena, per això se'l coneix com l''home llop'.</desc>
-    <length units="minutes">01:27:47</length>
+  <programme start="20261122235704 +0000" channel="tvi" stop="20261123005050 +0000">
+    <title lang="ca">Diades castelleres especials</title>
+    <sub-title lang="ca">Diada castellera dels Minyons de Terrassa</sub-title>
+    <desc lang="ca">La plaça Vella de Terrassa acull aquest diumenge la 48a diada dels Minyons de Terrassa, que posa punt final a la temporada. Els Minyons compartiran plaça amb els Castellers de Sants i els Castellers de Sant Cugat. La colla malva afronta la jornada amb un programa de màxims, que inclou el 3 de 10 amb folre i manilles, el 5 de 9 amb folre i el 2 de 9 amb folre i manilles. La diada arriba després d'un any de grans reptes i d'una intensa feina als assajos. Més enllà dels castells que s'hi puguin veure, la cita representa el gran aparador del treball col·lectiu de les colles. La jornada, un any més, convertirà Terrassa en el centre del món casteller i abaixarà el teló de la temporada.</desc>
+    <length units="minutes">00:53:46</length>
   </programme>
-  <programme start="20261122143000 +0000" channel="324" stop="20261122163000 +0000">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">7397</sub-title>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261122163000 +0000" channel="324" stop="20261122183000 +0000">
+  <programme start="20261122230000 +0000" channel="324" stop="20261123003000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11770</sub-title>
+    <sub-title lang="ca">11773</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261122135636 +0000" channel="esport3" stop="20261122155542 +0000">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Barça - Vila-real</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="minutes">01:59:06</length>
+  <programme start="20261123003000 +0000" channel="324" stop="20261123010000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11774</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261122155542 +0000" channel="esport3" stop="20261122170042 +0000">
+  <programme start="20261122230059 +0000" channel="esport3" stop="20261123003211 +0000">
     <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Barça-Vila-real / J13</sub-title>
+    <sub-title lang="ca">Anàlisi de la jornada / J13 / Diumenge</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:05:00</length>
+    <length units="minutes">01:31:12</length>
   </programme>
-  <programme start="20261122141907 +0000" channel="sx3" stop="20261122144658 +0000">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Pan de queijo per postres. Gessamí Caramés</sub-title>
-    <desc lang="ca">Per primera vegada a la història del 'Manduka' ens visita una cuinera o cuiner professional. Es tracta de la Gessamí Caramés, coneguda per ser la cuinera que fa les postres al programa 'Cuines' de TV3. Amb la Gessa i la Paula tenim assegurada una competició de trucs i bona cuina. Però la Paula intentarà sorprendre la Gessa i li farà fer una recepta salada, ella que acostuma a fer sempre postres: el pa de queijo. Un pa de formatge típic del Brasil i que la Paula vol prendre amb algunes salsetes per postres, així la Gessa estarà contenta. Dues bones i simpàtiques cuineres fent un plat salat per postres... què pot anar malament???</desc>
-    <length units="minutes">00:27:51</length>
+  <programme start="20261123003211 +0000" channel="esport3" stop="20261123004908 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5575</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:16:57</length>
   </programme>
-  <programme start="20261122144658 +0000" channel="sx3" stop="20261122145845 +0000">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Ha tornat la Wendy!</sub-title>
-    <desc lang="ca">La Wendy ha estat de colònies quinze dies. A la Marine se li han fet una eternitat! Quan torna la seva germana, la Marine la rep supercontenta i se li enganxa com una paparra. Però la Wendy també es mor de ganes de veure el Maxence, que li ha preparat una petita sortida romàntica per celebrar la seva arribada.</desc>
-    <length units="minutes">00:11:47</length>
+  <programme start="20261122234900 +0000" channel="sx3" stop="20261122235919 +0000">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">La gran gimcana mítica</sub-title>
+    <desc lang="ca">Tot Mitelàndia participa en una gran gimcana. El guanyador aconseguirà un superpoder extraordinari i podrà governar el país durant un dia. La Felicity i el Miguel formen equip i s'enfronten al kraken Timmy, que vol el superpoder per sotmetre Mitelàndia i els seus habitants.</desc>
+    <length units="minutes">00:10:19</length>
+  </programme>
+  <programme start="20261122235919 +0000" channel="sx3" stop="20261123000938 +0000">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">La festa purrfecta</sub-title>
+    <desc lang="ca">La Felicity se sent molt insegura a l'hora de fer servir els seus poders i, tot i que el seu amic Miguel li fa uns ninots perquè hi practiqui, la gateta no té clar que es mereixi assistir a la festa que celebren al Palau del Perfecte, on estan convidats tots els habitants de Mitelàndia que tenen poders.</desc>
+    <length units="minutes">00:10:19</length>
   </programme>
 </tv>
