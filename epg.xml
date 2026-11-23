@@ -3,9 +3,6 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
@@ -15,76 +12,77 @@
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261122225439 +0000" channel="tv3" stop="20261122235704 +0000">
-    <title lang="ca">Vèrtex</title>
-    <sub-title lang="ca">8</sub-title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="minutes">01:02:25</length>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
+  </channel>
+  <programme start="20261123050000 +0000" channel="tv3" stop="20261123054456 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Òscar Font &amp; The Swingones</sub-title>
+    <desc lang="ca">Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
+    <length units="minutes">00:44:56</length>
   </programme>
-  <programme start="20261122235704 +0000" channel="tv3" stop="20261123005050 +0000">
-    <title lang="ca">Diades castelleres especials</title>
-    <sub-title lang="ca">Diada castellera dels Minyons de Terrassa</sub-title>
-    <desc lang="ca">La plaça Vella de Terrassa acull aquest diumenge la 48a diada dels Minyons de Terrassa, que posa punt final a la temporada. Els Minyons compartiran plaça amb els Castellers de Sants i els Castellers de Sant Cugat. La colla malva afronta la jornada amb un programa de màxims, que inclou el 3 de 10 amb folre i manilles, el 5 de 9 amb folre i el 2 de 9 amb folre i manilles. La diada arriba després d'un any de grans reptes i d'una intensa feina als assajos. Més enllà dels castells que s'hi puguin veure, la cita representa el gran aparador del treball col·lectiu de les colles. La jornada, un any més, convertirà Terrassa en el centre del món casteller i abaixarà el teló de la temporada.</desc>
-    <length units="minutes">00:53:46</length>
+  <programme start="20261123054456 +0000" channel="tv3" stop="20261123054713 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">Magalí Sare - Inframon</sub-title>
+    <length units="minutes">00:02:17</length>
   </programme>
-  <programme start="20261122230646 +0000" channel="tv3" stop="20261123000527 +0000">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Lisboa</sub-title>
-    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
-    <length units="minutes">00:58:41</length>
+  <programme start="20261123051801 +0000" channel="tv3" stop="20261123053744 +0000">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Gossos</sub-title>
+    <desc lang="ca">Amb la gira 'A reviure', la formació manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components, amb un repertori en què aborden les relacions sentimentals, les reflexions personals i, també, la crítica social. I amb cançons tan emblemàtiques com el senzill 'Corren', enregistrada originalment amb la col·laboració del músic barceloní Dani Macaco.  Juanjo Muñoz, guitarra i cors Roger Farré, baix i cors Santi Serratosa, bateria Natxo Tarrés, veu i guitarra Oriol Farré, guitarra i cors  'Tot és foc' 'Deixa't portar' 'Corren' 'Zenit'  Localització: Enregistrat a Manresa Dia: Dimecres, 15 de maig del 2024</desc>
+    <length units="minutes">00:19:43</length>
   </programme>
-  <programme start="20261123000527 +0000" channel="tv3" stop="20261123005607 +0000">
-    <title lang="ca">El gran camí</title>
-    <sub-title lang="ca">El Camí de Carena del Pacífic</sub-title>
-    <desc lang="ca">Ens desplacem fins a Califòrnia per començar una de les travessies més llargues i impressionants del món: el Camí de Carena del Pacífic. Una ruta que travessa els Estats Units pels cims de la costa occidental, des del Canadà fins a Mèxic. Un repte en majúscules, només apte per a caminants experts.</desc>
-    <length units="minutes">00:50:40</length>
+  <programme start="20261123053744 +0000" channel="tv3" stop="20261123054801 +0000">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">'Bola de Drac'</sub-title>
+    <desc lang="ca">A partir de la recerca de set boles màgiques que permeten invocar un drac que concedeix desitjos, el dibuixant i guionista Akira Toriyama va concebre l'any 1984 'Bola de drac', un manga i, més endavant, una sèrie d'animació que es va convertir en un fenomen arreu del món. Toriyama, que ja havia sorprès l'any 1980 amb la venerada sèrie 'Dr. Slump', va esquitxar amb el seu sentit de l'humor imaginatiu, absurd i trepidant un relat d'aventures fantasioses. Posteriorment, els personatges van créixer i van adquirir un to més seriós en les següents entregues (com 'Bola de Drac Z' i 'Bola de Drac GT'). Una evolució que van seguir fidelment diferents generacions d'espectadors i lectors que han contribuït a atorgar a 'Bola de Drac' la categoria d'autèntic clàssic.</desc>
+    <length units="minutes">00:10:17</length>
   </programme>
-  <programme start="20261122225439 +0000" channel="tvi" stop="20261122235704 +0000">
-    <title lang="ca">Vèrtex</title>
-    <sub-title lang="ca">8</sub-title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="minutes">01:02:25</length>
+  <programme start="20261123050000 +0000" channel="tvi" stop="20261123054456 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Òscar Font &amp; The Swingones</sub-title>
+    <desc lang="ca">Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
+    <length units="minutes">00:44:56</length>
   </programme>
-  <programme start="20261122235704 +0000" channel="tvi" stop="20261123005050 +0000">
-    <title lang="ca">Diades castelleres especials</title>
-    <sub-title lang="ca">Diada castellera dels Minyons de Terrassa</sub-title>
-    <desc lang="ca">La plaça Vella de Terrassa acull aquest diumenge la 48a diada dels Minyons de Terrassa, que posa punt final a la temporada. Els Minyons compartiran plaça amb els Castellers de Sants i els Castellers de Sant Cugat. La colla malva afronta la jornada amb un programa de màxims, que inclou el 3 de 10 amb folre i manilles, el 5 de 9 amb folre i el 2 de 9 amb folre i manilles. La diada arriba després d'un any de grans reptes i d'una intensa feina als assajos. Més enllà dels castells que s'hi puguin veure, la cita representa el gran aparador del treball col·lectiu de les colles. La jornada, un any més, convertirà Terrassa en el centre del món casteller i abaixarà el teló de la temporada.</desc>
-    <length units="minutes">00:53:46</length>
+  <programme start="20261123054456 +0000" channel="tvi" stop="20261123054713 +0000">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">Magalí Sare - Inframon</sub-title>
+    <length units="minutes">00:02:17</length>
   </programme>
-  <programme start="20261122230000 +0000" channel="324" stop="20261123003000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11773</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
-  </programme>
-  <programme start="20261123003000 +0000" channel="324" stop="20261123010000 +0000">
+  <programme start="20261123010000 +0000" channel="324" stop="20261123060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">11774</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">00:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261122230059 +0000" channel="esport3" stop="20261123003211 +0000">
+  <programme start="20261123060000 +0000" channel="324" stop="20261123080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11775</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261123041601 +0000" channel="esport3" stop="20261123062044 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Barcelona-Athletic Club / Lliga F / J12</sub-title>
+    <desc lang="ca">Les blaugranes lideren la classificació amb 9 victòries, 1 empat i 1 derrota. El conjunt de Bilbao també vol seguir a la zona alta. El balanç de les basques és de 5 victòries, 4 empats i 2 derrotes.</desc>
+    <length units="minutes">02:04:43</length>
+  </programme>
+  <programme start="20261123062044 +0000" channel="esport3" stop="20261123075059 +0000">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Anàlisi de la jornada / J13 / Diumenge</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:31:12</length>
+    <length units="minutes">01:30:15</length>
   </programme>
-  <programme start="20261123003211 +0000" channel="esport3" stop="20261123004908 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5575</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:16:57</length>
+  <programme start="20261123052703 +0000" channel="sx3" stop="20261123053303 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Pel·lícula d'època</sub-title>
+    <desc lang="ca">Un equip de filmació ha triat la granja per rodar-hi una pel·lícula d'època. Quan la Segaboca es menja la cinta, el Shaun i el ramat hi han d'intervenir per assegurar-se que la pel·lícula s'acaba i arriba als cinemes de tot arreu.</desc>
+    <length units="minutes">00:06:00</length>
   </programme>
-  <programme start="20261122234900 +0000" channel="sx3" stop="20261122235919 +0000">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">La gran gimcana mítica</sub-title>
-    <desc lang="ca">Tot Mitelàndia participa en una gran gimcana. El guanyador aconseguirà un superpoder extraordinari i podrà governar el país durant un dia. La Felicity i el Miguel formen equip i s'enfronten al kraken Timmy, que vol el superpoder per sotmetre Mitelàndia i els seus habitants.</desc>
-    <length units="minutes">00:10:19</length>
-  </programme>
-  <programme start="20261122235919 +0000" channel="sx3" stop="20261123000938 +0000">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">La festa purrfecta</sub-title>
-    <desc lang="ca">La Felicity se sent molt insegura a l'hora de fer servir els seus poders i, tot i que el seu amic Miguel li fa uns ninots perquè hi practiqui, la gateta no té clar que es mereixi assistir a la festa que celebren al Palau del Perfecte, on estan convidats tots els habitants de Mitelàndia que tenen poders.</desc>
-    <length units="minutes">00:10:19</length>
+  <programme start="20261123053303 +0000" channel="sx3" stop="20261123053902 +0000">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">El zoo infantil</sub-title>
+    <desc lang="ca">Com que s'adona que els animals de la granja susciten més interès que no pas els productes que vol vendre, el granger decideix obrir un zoo infantil. Però quan perd el control de la situació per culpa dels eufòrics visitants, el Shaun ha d'entrar en acció per tornar a posar les coses al seu lloc.</desc>
+    <length units="minutes">00:05:59</length>
   </programme>
 </tv>
