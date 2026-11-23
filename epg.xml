@@ -1,88 +1,90 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
   <channel id="324">
     <display-name>3/24</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
-  <programme start="20261123050000 +0000" channel="tv3" stop="20261123054456 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Òscar Font &amp; The Swingones</sub-title>
-    <desc lang="ca">Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
-    <length units="minutes">00:44:56</length>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20261123174223 +0000" channel="tv3" stop="20261123190855 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">456</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:26:32</length>
   </programme>
-  <programme start="20261123054456 +0000" channel="tv3" stop="20261123054713 +0000">
-    <title lang="ca">Videoclips catalans</title>
-    <sub-title lang="ca">Magalí Sare - Inframon</sub-title>
-    <length units="minutes">00:02:17</length>
+  <programme start="20261123190855 +0000" channel="tv3" stop="20261123201500 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">1003</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:06:05</length>
   </programme>
-  <programme start="20261123051801 +0000" channel="tv3" stop="20261123053744 +0000">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Gossos</sub-title>
-    <desc lang="ca">Amb la gira 'A reviure', la formació manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components, amb un repertori en què aborden les relacions sentimentals, les reflexions personals i, també, la crítica social. I amb cançons tan emblemàtiques com el senzill 'Corren', enregistrada originalment amb la col·laboració del músic barceloní Dani Macaco.  Juanjo Muñoz, guitarra i cors Roger Farré, baix i cors Santi Serratosa, bateria Natxo Tarrés, veu i guitarra Oriol Farré, guitarra i cors  'Tot és foc' 'Deixa't portar' 'Corren' 'Zenit'  Localització: Enregistrat a Manresa Dia: Dimecres, 15 de maig del 2024</desc>
-    <length units="minutes">00:19:43</length>
+  <programme start="20261123174002 +0000" channel="tv3" stop="20261123182626 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="minutes">00:46:24</length>
   </programme>
-  <programme start="20261123053744 +0000" channel="tv3" stop="20261123054801 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">'Bola de Drac'</sub-title>
-    <desc lang="ca">A partir de la recerca de set boles màgiques que permeten invocar un drac que concedeix desitjos, el dibuixant i guionista Akira Toriyama va concebre l'any 1984 'Bola de drac', un manga i, més endavant, una sèrie d'animació que es va convertir en un fenomen arreu del món. Toriyama, que ja havia sorprès l'any 1980 amb la venerada sèrie 'Dr. Slump', va esquitxar amb el seu sentit de l'humor imaginatiu, absurd i trepidant un relat d'aventures fantasioses. Posteriorment, els personatges van créixer i van adquirir un to més seriós en les següents entregues (com 'Bola de Drac Z' i 'Bola de Drac GT'). Una evolució que van seguir fidelment diferents generacions d'espectadors i lectors que han contribuït a atorgar a 'Bola de Drac' la categoria d'autèntic clàssic.</desc>
-    <length units="minutes">00:10:17</length>
+  <programme start="20261123182626 +0000" channel="tv3" stop="20261123190852 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
+    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
+    <length units="minutes">00:42:26</length>
   </programme>
-  <programme start="20261123050000 +0000" channel="tvi" stop="20261123054456 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Òscar Font &amp; The Swingones</sub-title>
-    <desc lang="ca">Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
-    <length units="minutes">00:44:56</length>
+  <programme start="20261123174223 +0000" channel="tvi" stop="20261123190855 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">456</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:26:32</length>
   </programme>
-  <programme start="20261123054456 +0000" channel="tvi" stop="20261123054713 +0000">
-    <title lang="ca">Videoclips catalans</title>
-    <sub-title lang="ca">Magalí Sare - Inframon</sub-title>
-    <length units="minutes">00:02:17</length>
+  <programme start="20261123190855 +0000" channel="tvi" stop="20261123201500 +0000">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">1003</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="minutes">01:06:05</length>
   </programme>
-  <programme start="20261123010000 +0000" channel="324" stop="20261123060000 +0000">
+  <programme start="20261123170000 +0000" channel="324" stop="20261123183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11774</sub-title>
+    <sub-title lang="ca">11779</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261123060000 +0000" channel="324" stop="20261123080000 +0000">
+  <programme start="20261123183000 +0000" channel="324" stop="20261123200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11775</sub-title>
+    <sub-title lang="ca">11780</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261123041601 +0000" channel="esport3" stop="20261123062044 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Barcelona-Athletic Club / Lliga F / J12</sub-title>
-    <desc lang="ca">Les blaugranes lideren la classificació amb 9 victòries, 1 empat i 1 derrota. El conjunt de Bilbao també vol seguir a la zona alta. El balanç de les basques és de 5 victòries, 4 empats i 2 derrotes.</desc>
-    <length units="minutes">02:04:43</length>
+  <programme start="20261123172632 +0000" channel="esport3" stop="20261123182629 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">La baixa de Lamine, sorteig de Copa i Marc Márquez</sub-title>
+    <desc lang="ca">Lamine, baixa per a la Champions. Remuntada de líder. En parlem amb l'Albert Blaya. Sorteig de la segona eliminatòria de la Copa del Rei. Històric Marc Márquez. Ja acumula deu Mundials. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.</desc>
+    <length units="minutes">00:59:57</length>
   </programme>
-  <programme start="20261123062044 +0000" channel="esport3" stop="20261123075059 +0000">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J13 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="minutes">01:30:15</length>
+  <programme start="20261123182629 +0000" channel="esport3" stop="20261123190000 +0000">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">El CF la Sénia, referent a les Terres de l'Ebre</sub-title>
+    <desc lang="ca">Fundat el 1958, el club del Montsià gaudeix d'un gran estat de salut amb 7 equips i al voltant de 125 llicències sense comptar l'escoleta, els més petits de la casa. En aquests gairebé 100 anys, l'equip ha viscut des d'ascensos i fites històriques com l'ascens a Primera Catalana del 2024, els brots dels petits equips de futbol base, la desaparició durant 4 anys a principis dels vuitanta fins als anys de la crisi del moble de la primera dècada dels 2000. Avui dia però aguanta fermament i continua sent un dels clubs referents de la zona, fins i tot per a les comarques de Castelló. Durant el programa, Carles Fité entrevista el president del CF la Sénia, Hèctor Navarro 'Voro'; l'exjugador, exdirectiu i fill del president d'honor, Guillermo Pamplona 'Koken'; i el jugador més veterà del primer equip i un dels herois de l'ascens a Primera Catalana, Roberto Márquez. I a més a més, els resums dels partits del cap de setmana.</desc>
+    <length units="minutes">00:33:31</length>
   </programme>
-  <programme start="20261123052703 +0000" channel="sx3" stop="20261123053303 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Pel·lícula d'època</sub-title>
-    <desc lang="ca">Un equip de filmació ha triat la granja per rodar-hi una pel·lícula d'època. Quan la Segaboca es menja la cinta, el Shaun i el ramat hi han d'intervenir per assegurar-se que la pel·lícula s'acaba i arriba als cinemes de tot arreu.</desc>
-    <length units="minutes">00:06:00</length>
+  <programme start="20261123173158 +0000" channel="sx3" stop="20261123174310 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva una gallina subterrània</sub-title>
+    <desc lang="ca">L'alcalde Humdinger ha robat l'estàtua de la Chickaletta i s'escapa per la xarxa de túnels subterranis de Badia Aventures.</desc>
+    <length units="minutes">00:11:12</length>
   </programme>
-  <programme start="20261123053303 +0000" channel="sx3" stop="20261123053902 +0000">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El zoo infantil</sub-title>
-    <desc lang="ca">Com que s'adona que els animals de la granja susciten més interès que no pas els productes que vol vendre, el granger decideix obrir un zoo infantil. Però quan perd el control de la situació per culpa dels eufòrics visitants, el Shaun ha d'entrar en acció per tornar a posar les coses al seu lloc.</desc>
-    <length units="minutes">00:05:59</length>
+  <programme start="20261123174310 +0000" channel="sx3" stop="20261123175343 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva el llibremòbil</sub-title>
+    <desc lang="ca">En Maynard provoca que el Llibremòbil de la senyora Marjorie perdi el control per la carretera. La Patrulla Peluda necessita l'ajuda de l'Everest per solucionar-ho.</desc>
+    <length units="minutes">00:10:33</length>
   </programme>
 </tv>
