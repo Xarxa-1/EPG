@@ -3,6 +3,9 @@
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
@@ -12,77 +15,76 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <programme start="20261124043000 +0000" channel="tv3" stop="20261124050000 +0000">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Elio</sub-title>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261124164812 +0000" channel="tv3" stop="20261124173837 +0000">
+    <title lang="ca">El paradís de les senyores</title>
+    <sub-title lang="ca">971</sub-title>
+    <desc lang="ca">En aquest episodi, entre altres coses, la Marta ha superat la crisi creativa i, mentre organitza la pròxima sessió fotogràfica, li comenta a la Matilde que ha recuperat la confiança en si mateixa gràcies a en Vittorio. I això torna a alimentar els temors de la Matilde pel que fa a la relació d'en Vittorio i la Marta. Avui és el dia que l'Armando ha de veure la senyora amb qui, teòricament, es va citar a la cafeteria. La Maria està tan ensorrada que s'ha quedat treballant a casa però en Vittorio, que no sap res del que passa entre ells dos, li demana a en Vito que faci una gestió...</desc>
+    <length units="minutes">00:50:25</length>
   </programme>
-  <programme start="20261124050000 +0000" channel="tv3" stop="20261124054536 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Gerard Nieto Quartet</sub-title>
-    <desc lang="ca">Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.</desc>
-    <length units="minutes">00:45:36</length>
+  <programme start="20261124173837 +0000" channel="tv3" stop="20261124191259 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">457</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:34:22</length>
   </programme>
-  <programme start="20261124042037 +0000" channel="tv3" stop="20261124044734 +0000">
-    <title lang="ca">Òpera en texans</title>
-    <sub-title lang="ca">El caçador furtiu</sub-title>
-    <desc lang="ca">Res de princeses, cavallers o reis. Aquí el protagonista és el bosc. 'El caçador furtiu', de Carl Maria von Weber, és la primera òpera romàntica alemanya, una obra meravellosa sense la qual no hauria existit Wagner. Poc coneguda, però encantadora. I per demostrar-ho, el programa ha demanat a l'actor Edu Soto que es deixi fer una ressonància del cervell mentre escolta una de les àries de l'òpera. Com reaccionarà? Se li activaran les emocions?</desc>
-    <length units="minutes">00:26:57</length>
+  <programme start="20261124172221 +0000" channel="tv3" stop="20261124174937 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">QQC i la masia part 1</sub-title>
+    <desc lang="ca">'Quèquicom' començarà demà uns programes monogràfics que, amb periodicitat mensual, permetran aprofundir més en els temes de què tracta el programa. Al llarg de sis temporades i 170 capítols, el programa científic del 33 ha acumulat una gran quantitat de saviesa proporcionada per les aportacions de centenars d'experts. Com que molts conceptes relacionats apareixen en diferents reportatges, i per fer més fàcil la comprensió de temes complexos, es reuniran per temes en els nous monogràfics, fet que satisfarà també les demandes de molts ensenyants que fan servir els continguts del programa com a material didàctic.Cada primer dimecres de mes els espectadors podran aprofundir en un tema específic, a partir dels fragments de programes que s'hi refereixin i que s'hagin emès en diversos capítols, en un programa que portarà el títol genèric de 'Quèquicom i...'. I per començar, els dos primers capítols d'aquest nou format mensual es dedicaran a conèixer a fons el funcionament de la masia, la casa rural catalana. Aquests dos capítols, titulats 'Quèquicom i la masia 1' i 'Quèquicom i la masia 2', explicaran, per exemple, que amb la domesticació l'home ha creat un ecosistema únic que permet que hi convisquin espècies antagòniques com el gat, el gos i les gallines. Demà, a partir de les 21.45, s'emetrà el primer dels dos capítols, en què Cristian Ruiz i Altaba descriu la ciència que envolta una casa de pagès. Les seqüències a l'exterior es combinen amb diferents platós on s'amplien coneixements. S'hi explica, per exemple, com és que les plantes saben que han de florir a la primavera; com funcionen els tres estómacs dels remugants; la domesticació d'animals fers com el toro; per què els ous són ovalats; com és que els cadells de totes les espècies desperten sentit de protecció, per a què serveixen les diferents plomes dels ocells o en què s'assemblen la fotosíntesi i una placa solar.Seguiran altres 'Quèquicom i...' sobre temes tan diversos com els desco</desc>
+    <length units="minutes">00:27:16</length>
   </programme>
-  <programme start="20261124044734 +0000" channel="tv3" stop="20261124053423 +0000">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La pastilla</sub-title>
-    <desc lang="ca">La pastilla com la coneixem avui en dia arriba al mateix temps que 'La Renaixença': durant el segle XIX, tot i que ja hi ha referències a alguna pastilla en papirs de l'antic Egipte. La pastilla sí que ha marcat un abans i un després a la humanitat. Ens visita el grup Fetus per parlar-nos del seu folk-punk. A més, pugen a l'escenari amb l'Arnau Tordera i la Laia Glück per interpretar-nos: 'Durruti, Macià i Verdaguer'. A 'Històries per passejar el gos' sortim amb la Mini i en Maxi per la tragèdia de Jodynka.</desc>
-    <length units="minutes">00:46:49</length>
+  <programme start="20261124174937 +0000" channel="tv3" stop="20261124175353 +0000">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Joan Miró, un món de colors i formes</sub-title>
+    <desc lang="ca">Coincidint amb el 50è aniversari de la Fundació Joan Miró, aquest capítol de 'Gran!' repassa la figura d'un creador excepcional que no va deixar mai de buscar i provar noves tècniques i expressions dins del seu art. De fet, Joan Miró, artista d'esperit sensible i combatiu, va experimentar, per exemple, amb el collage, els gravats, la ceràmica, l'escultura o els tapissos. La pintura, el centre del seu art, es va veure influenciada pel fauvisme, l'expressionisme i el cubisme en els seus inicis. Però, després, va volar lliure amb una personalitat única i un món original i molt propi de colors i formes.</desc>
+    <length units="minutes">00:04:16</length>
   </programme>
-  <programme start="20261124043000 +0000" channel="tvi" stop="20261124050000 +0000">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Elio</sub-title>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261124164811 +0000" channel="tvi" stop="20261124173836 +0000">
+    <title lang="ca">El paradís de les senyores</title>
+    <sub-title lang="ca">971</sub-title>
+    <desc lang="ca">En aquest episodi, entre altres coses, la Marta ha superat la crisi creativa i, mentre organitza la pròxima sessió fotogràfica, li comenta a la Matilde que ha recuperat la confiança en si mateixa gràcies a en Vittorio. I això torna a alimentar els temors de la Matilde pel que fa a la relació d'en Vittorio i la Marta. Avui és el dia que l'Armando ha de veure la senyora amb qui, teòricament, es va citar a la cafeteria. La Maria està tan ensorrada que s'ha quedat treballant a casa però en Vittorio, que no sap res del que passa entre ells dos, li demana a en Vito que faci una gestió...</desc>
+    <length units="minutes">00:50:25</length>
   </programme>
-  <programme start="20261124050000 +0000" channel="tvi" stop="20261124054536 +0000">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Gerard Nieto Quartet</sub-title>
-    <desc lang="ca">Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.</desc>
-    <length units="minutes">00:45:36</length>
+  <programme start="20261124173836 +0000" channel="tvi" stop="20261124191259 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">457</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:34:23</length>
   </programme>
-  <programme start="20261124010000 +0000" channel="324" stop="20261124060000 +0000">
+  <programme start="20261124170000 +0000" channel="324" stop="20261124183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11783</sub-title>
+    <sub-title lang="ca">11788</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261124060000 +0000" channel="324" stop="20261124080000 +0000">
+  <programme start="20261124183000 +0000" channel="324" stop="20261124200000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11784</sub-title>
+    <sub-title lang="ca">11789</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
+    <length units="minutes">01:30:00</length>
   </programme>
-  <programme start="20261124041740 +0000" channel="esport3" stop="20261124062914 +0000">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">RCD Espanyol-València CF / Lliga F / J12</sub-title>
-    <desc lang="ca">Les blanc-i-blaves volen la 5a victòria en el campionat, en la visita de les últimes classificades. Les valencianes, però, han sumat 7 punts dels 9 últims i aspiren a mantenir la bona ratxa.</desc>
-    <length units="minutes">02:11:34</length>
+  <programme start="20261124173315 +0000" channel="esport3" stop="20261124174120 +0000">
+    <title lang="ca">Capacitats</title>
+    <sub-title lang="ca">- Els jocs més 'special' del món</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:08:05</length>
   </programme>
-  <programme start="20261124062914 +0000" channel="esport3" stop="20261124070147 +0000">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">El CF la Sénia, referent a les Terres de l'Ebre</sub-title>
-    <desc lang="ca">Fundat el 1958, el club del Montsià gaudeix d'un gran estat de salut amb 7 equips i al voltant de 125 llicències sense comptar l'escoleta, els més petits de la casa. En aquests gairebé 100 anys, l'equip ha viscut des d'ascensos i fites històriques com l'ascens a Primera Catalana del 2024, els brots dels petits equips de futbol base, la desaparició durant 4 anys a principis dels vuitanta fins als anys de la crisi del moble de la primera dècada dels 2000. Avui dia però aguanta fermament i continua sent un dels clubs referents de la zona, fins i tot per a les comarques de Castelló. Durant el programa, Carles Fité entrevista el president del CF la Sénia, Hèctor Navarro 'Voro'; l'exjugador, exdirectiu i fill del president d'honor, Guillermo Pamplona 'Koken'; i el jugador més veterà del primer equip i un dels herois de l'ascens a Primera Catalana, Roberto Márquez. I a més a més, els resums dels partits del cap de setmana.</desc>
-    <length units="minutes">00:32:33</length>
+  <programme start="20261124174120 +0000" channel="esport3" stop="20261124184140 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Sabah-Barça, 'Un dia inesperat' i l'Espanyol de Sarabia</sub-title>
+    <desc lang="ca">Última hora del Sabah-Barça amb Francesc Latorre. Avui, Reial Madrid-PSV al Santiago Bernabéu. Presentem el 'Sense ficció' 'Un dia inesperat', amb Jordi Bentanachs. L'Espanyol canvia de cara amb Eder Sarabia. Ens ho explica Juli Garcia. A la tertúlia, ens acompanyen Raúl Fuentes, Irati Vidal i Joan Poquí.</desc>
+    <length units="minutes">01:00:20</length>
   </programme>
-  <programme start="20261124042710 +0000" channel="sx3" stop="20261124043840 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El tresor de l'avi</sub-title>
-    <desc lang="ca">Quan era petit, l'avi guineu i el seu millor amic van amagar una capseta amb un tresor en un lloc secret del bosc. Per recordar-se'n, es van inventar un enigma amb tot de pistes molt ben pensades. L'avi ja no recorda què hi havia dins la capsa, però l'enigma, encara el pot recitar sencer. Aleshores, els nens se l'aprenen de memòria i surten a buscar el tresor de l'avi.</desc>
-    <length units="minutes">00:11:30</length>
+  <programme start="20261124173148 +0000" channel="sx3" stop="20261124174843 +0000">
+    <title lang="ca">El món del pot petit</title>
+    <sub-title lang="ca">El Tren de la Música</sub-title>
+    <desc lang="ca">El Cuc cada vegada té menys por i avui farà el seu primer viatge amb el Tren de la Música, un tren molt especial. La Jana i en Pau l'acompanyen per diferents indrets mentre canten i viatgen pel Pot Petit.</desc>
+    <length units="minutes">00:16:55</length>
   </programme>
-  <programme start="20261124043840 +0000" channel="sx3" stop="20261124045009 +0000">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Un papa nou</sub-title>
-    <desc lang="ca">La Trufa està molesta amb el seu pare perquè no vol jugar mai amb ella i sempre està enfeinat. Per això se li fica al cap canviar de pare. Acompanyada de la Guineta, va a veure els pares de tots els seus amics, pensant-se que seran molt més divertits que el seu.</desc>
-    <length units="minutes">00:11:29</length>
+  <programme start="20261124174843 +0000" channel="sx3" stop="20261124175954 +0000">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva les papaies</sub-title>
+    <desc lang="ca">En Carlos i en Tracker fan suc de papaia amb la Patrulla Peluda, però llavors veuen que l'alcaldessa Goodway i la Chickaletta estan en perill.</desc>
+    <length units="minutes">00:11:11</length>
   </programme>
 </tv>
