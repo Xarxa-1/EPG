@@ -1,90 +1,88 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <channel id="esport3">
-    <display-name>Esport3</display-name>
-  </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261123174223 +0000" channel="tv3" stop="20261123190855 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">456</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:26:32</length>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <channel id="esport3">
+    <display-name>Esport3</display-name>
+  </channel>
+  <programme start="20261124043000 +0000" channel="tv3" stop="20261124050000 +0000">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Elio</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261123190855 +0000" channel="tv3" stop="20261123201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">1003</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:06:05</length>
+  <programme start="20261124050000 +0000" channel="tv3" stop="20261124054536 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Gerard Nieto Quartet</sub-title>
+    <desc lang="ca">Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.</desc>
+    <length units="minutes">00:45:36</length>
   </programme>
-  <programme start="20261123174002 +0000" channel="tv3" stop="20261123182626 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="minutes">00:46:24</length>
+  <programme start="20261124042037 +0000" channel="tv3" stop="20261124044734 +0000">
+    <title lang="ca">Òpera en texans</title>
+    <sub-title lang="ca">El caçador furtiu</sub-title>
+    <desc lang="ca">Res de princeses, cavallers o reis. Aquí el protagonista és el bosc. 'El caçador furtiu', de Carl Maria von Weber, és la primera òpera romàntica alemanya, una obra meravellosa sense la qual no hauria existit Wagner. Poc coneguda, però encantadora. I per demostrar-ho, el programa ha demanat a l'actor Edu Soto que es deixi fer una ressonància del cervell mentre escolta una de les àries de l'òpera. Com reaccionarà? Se li activaran les emocions?</desc>
+    <length units="minutes">00:26:57</length>
   </programme>
-  <programme start="20261123182626 +0000" channel="tv3" stop="20261123190852 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
-    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
-    <length units="minutes">00:42:26</length>
+  <programme start="20261124044734 +0000" channel="tv3" stop="20261124053423 +0000">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La pastilla</sub-title>
+    <desc lang="ca">La pastilla com la coneixem avui en dia arriba al mateix temps que 'La Renaixença': durant el segle XIX, tot i que ja hi ha referències a alguna pastilla en papirs de l'antic Egipte. La pastilla sí que ha marcat un abans i un després a la humanitat. Ens visita el grup Fetus per parlar-nos del seu folk-punk. A més, pugen a l'escenari amb l'Arnau Tordera i la Laia Glück per interpretar-nos: 'Durruti, Macià i Verdaguer'. A 'Històries per passejar el gos' sortim amb la Mini i en Maxi per la tragèdia de Jodynka.</desc>
+    <length units="minutes">00:46:49</length>
   </programme>
-  <programme start="20261123174223 +0000" channel="tvi" stop="20261123190855 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">456</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:26:32</length>
+  <programme start="20261124043000 +0000" channel="tvi" stop="20261124050000 +0000">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Elio</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261123190855 +0000" channel="tvi" stop="20261123201500 +0000">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">1003</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="minutes">01:06:05</length>
+  <programme start="20261124050000 +0000" channel="tvi" stop="20261124054536 +0000">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Gerard Nieto Quartet</sub-title>
+    <desc lang="ca">Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.</desc>
+    <length units="minutes">00:45:36</length>
   </programme>
-  <programme start="20261123170000 +0000" channel="324" stop="20261123183000 +0000">
+  <programme start="20261124010000 +0000" channel="324" stop="20261124060000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11779</sub-title>
+    <sub-title lang="ca">11783</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261123183000 +0000" channel="324" stop="20261123200000 +0000">
+  <programme start="20261124060000 +0000" channel="324" stop="20261124080000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11780</sub-title>
+    <sub-title lang="ca">11784</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261123172632 +0000" channel="esport3" stop="20261123182629 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">La baixa de Lamine, sorteig de Copa i Marc Márquez</sub-title>
-    <desc lang="ca">Lamine, baixa per a la Champions. Remuntada de líder. En parlem amb l'Albert Blaya. Sorteig de la segona eliminatòria de la Copa del Rei. Històric Marc Márquez. Ja acumula deu Mundials. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.</desc>
-    <length units="minutes">00:59:57</length>
+  <programme start="20261124041740 +0000" channel="esport3" stop="20261124062914 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">RCD Espanyol-València CF / Lliga F / J12</sub-title>
+    <desc lang="ca">Les blanc-i-blaves volen la 5a victòria en el campionat, en la visita de les últimes classificades. Les valencianes, però, han sumat 7 punts dels 9 últims i aspiren a mantenir la bona ratxa.</desc>
+    <length units="minutes">02:11:34</length>
   </programme>
-  <programme start="20261123182629 +0000" channel="esport3" stop="20261123190000 +0000">
+  <programme start="20261124062914 +0000" channel="esport3" stop="20261124070147 +0000">
     <title lang="ca">La frontal</title>
     <sub-title lang="ca">El CF la Sénia, referent a les Terres de l'Ebre</sub-title>
     <desc lang="ca">Fundat el 1958, el club del Montsià gaudeix d'un gran estat de salut amb 7 equips i al voltant de 125 llicències sense comptar l'escoleta, els més petits de la casa. En aquests gairebé 100 anys, l'equip ha viscut des d'ascensos i fites històriques com l'ascens a Primera Catalana del 2024, els brots dels petits equips de futbol base, la desaparició durant 4 anys a principis dels vuitanta fins als anys de la crisi del moble de la primera dècada dels 2000. Avui dia però aguanta fermament i continua sent un dels clubs referents de la zona, fins i tot per a les comarques de Castelló. Durant el programa, Carles Fité entrevista el president del CF la Sénia, Hèctor Navarro 'Voro'; l'exjugador, exdirectiu i fill del president d'honor, Guillermo Pamplona 'Koken'; i el jugador més veterà del primer equip i un dels herois de l'ascens a Primera Catalana, Roberto Márquez. I a més a més, els resums dels partits del cap de setmana.</desc>
-    <length units="minutes">00:33:31</length>
+    <length units="minutes">00:32:33</length>
   </programme>
-  <programme start="20261123173158 +0000" channel="sx3" stop="20261123174310 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva una gallina subterrània</sub-title>
-    <desc lang="ca">L'alcalde Humdinger ha robat l'estàtua de la Chickaletta i s'escapa per la xarxa de túnels subterranis de Badia Aventures.</desc>
-    <length units="minutes">00:11:12</length>
+  <programme start="20261124042710 +0000" channel="sx3" stop="20261124043840 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El tresor de l'avi</sub-title>
+    <desc lang="ca">Quan era petit, l'avi guineu i el seu millor amic van amagar una capseta amb un tresor en un lloc secret del bosc. Per recordar-se'n, es van inventar un enigma amb tot de pistes molt ben pensades. L'avi ja no recorda què hi havia dins la capsa, però l'enigma, encara el pot recitar sencer. Aleshores, els nens se l'aprenen de memòria i surten a buscar el tresor de l'avi.</desc>
+    <length units="minutes">00:11:30</length>
   </programme>
-  <programme start="20261123174310 +0000" channel="sx3" stop="20261123175343 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva el llibremòbil</sub-title>
-    <desc lang="ca">En Maynard provoca que el Llibremòbil de la senyora Marjorie perdi el control per la carretera. La Patrulla Peluda necessita l'ajuda de l'Everest per solucionar-ho.</desc>
-    <length units="minutes">00:10:33</length>
+  <programme start="20261124043840 +0000" channel="sx3" stop="20261124045009 +0000">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Un papa nou</sub-title>
+    <desc lang="ca">La Trufa està molesta amb el seu pare perquè no vol jugar mai amb ella i sempre està enfeinat. Per això se li fica al cap canviar de pare. Acompanyada de la Guineta, va a veure els pares de tots els seus amics, pensant-se que seran molt més divertits que el seu.</desc>
+    <length units="minutes">00:11:29</length>
   </programme>
 </tv>
