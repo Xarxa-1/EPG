@@ -1,90 +1,88 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261124164812 +0000" channel="tv3" stop="20261124173837 +0000">
-    <title lang="ca">El paradís de les senyores</title>
-    <sub-title lang="ca">971</sub-title>
-    <desc lang="ca">En aquest episodi, entre altres coses, la Marta ha superat la crisi creativa i, mentre organitza la pròxima sessió fotogràfica, li comenta a la Matilde que ha recuperat la confiança en si mateixa gràcies a en Vittorio. I això torna a alimentar els temors de la Matilde pel que fa a la relació d'en Vittorio i la Marta. Avui és el dia que l'Armando ha de veure la senyora amb qui, teòricament, es va citar a la cafeteria. La Maria està tan ensorrada que s'ha quedat treballant a casa però en Vittorio, que no sap res del que passa entre ells dos, li demana a en Vito que faci una gestió...</desc>
-    <length units="minutes">00:50:25</length>
-  </programme>
-  <programme start="20261124173837 +0000" channel="tv3" stop="20261124191259 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">457</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:34:22</length>
-  </programme>
-  <programme start="20261124172221 +0000" channel="tv3" stop="20261124174937 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">QQC i la masia part 1</sub-title>
-    <desc lang="ca">'Quèquicom' començarà demà uns programes monogràfics que, amb periodicitat mensual, permetran aprofundir més en els temes de què tracta el programa. Al llarg de sis temporades i 170 capítols, el programa científic del 33 ha acumulat una gran quantitat de saviesa proporcionada per les aportacions de centenars d'experts. Com que molts conceptes relacionats apareixen en diferents reportatges, i per fer més fàcil la comprensió de temes complexos, es reuniran per temes en els nous monogràfics, fet que satisfarà també les demandes de molts ensenyants que fan servir els continguts del programa com a material didàctic.Cada primer dimecres de mes els espectadors podran aprofundir en un tema específic, a partir dels fragments de programes que s'hi refereixin i que s'hagin emès en diversos capítols, en un programa que portarà el títol genèric de 'Quèquicom i...'. I per començar, els dos primers capítols d'aquest nou format mensual es dedicaran a conèixer a fons el funcionament de la masia, la casa rural catalana. Aquests dos capítols, titulats 'Quèquicom i la masia 1' i 'Quèquicom i la masia 2', explicaran, per exemple, que amb la domesticació l'home ha creat un ecosistema únic que permet que hi convisquin espècies antagòniques com el gat, el gos i les gallines. Demà, a partir de les 21.45, s'emetrà el primer dels dos capítols, en què Cristian Ruiz i Altaba descriu la ciència que envolta una casa de pagès. Les seqüències a l'exterior es combinen amb diferents platós on s'amplien coneixements. S'hi explica, per exemple, com és que les plantes saben que han de florir a la primavera; com funcionen els tres estómacs dels remugants; la domesticació d'animals fers com el toro; per què els ous són ovalats; com és que els cadells de totes les espècies desperten sentit de protecció, per a què serveixen les diferents plomes dels ocells o en què s'assemblen la fotosíntesi i una placa solar.Seguiran altres 'Quèquicom i...' sobre temes tan diversos com els desco</desc>
-    <length units="minutes">00:27:16</length>
-  </programme>
-  <programme start="20261124174937 +0000" channel="tv3" stop="20261124175353 +0000">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Joan Miró, un món de colors i formes</sub-title>
-    <desc lang="ca">Coincidint amb el 50è aniversari de la Fundació Joan Miró, aquest capítol de 'Gran!' repassa la figura d'un creador excepcional que no va deixar mai de buscar i provar noves tècniques i expressions dins del seu art. De fet, Joan Miró, artista d'esperit sensible i combatiu, va experimentar, per exemple, amb el collage, els gravats, la ceràmica, l'escultura o els tapissos. La pintura, el centre del seu art, es va veure influenciada pel fauvisme, l'expressionisme i el cubisme en els seus inicis. Però, després, va volar lliure amb una personalitat única i un món original i molt propi de colors i formes.</desc>
-    <length units="minutes">00:04:16</length>
-  </programme>
-  <programme start="20261124164811 +0000" channel="tvi" stop="20261124173836 +0000">
-    <title lang="ca">El paradís de les senyores</title>
-    <sub-title lang="ca">971</sub-title>
-    <desc lang="ca">En aquest episodi, entre altres coses, la Marta ha superat la crisi creativa i, mentre organitza la pròxima sessió fotogràfica, li comenta a la Matilde que ha recuperat la confiança en si mateixa gràcies a en Vittorio. I això torna a alimentar els temors de la Matilde pel que fa a la relació d'en Vittorio i la Marta. Avui és el dia que l'Armando ha de veure la senyora amb qui, teòricament, es va citar a la cafeteria. La Maria està tan ensorrada que s'ha quedat treballant a casa però en Vittorio, que no sap res del que passa entre ells dos, li demana a en Vito que faci una gestió...</desc>
-    <length units="minutes">00:50:25</length>
-  </programme>
-  <programme start="20261124173836 +0000" channel="tvi" stop="20261124191259 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">457</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:34:23</length>
-  </programme>
-  <programme start="20261124170000 +0000" channel="324" stop="20261124183000 +0000">
+  <programme start="20261125023737 +0000" channel="tv3" stop="20261125043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11788</sub-title>
+    <sub-title lang="ca">11792</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">01:52:23</length>
   </programme>
-  <programme start="20261124183000 +0000" channel="324" stop="20261124200000 +0000">
+  <programme start="20261125043000 +0000" channel="tv3" stop="20261125050000 +0000">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Jaume Llombart Sextet</sub-title>
+    <length units="minutes">00:30:00</length>
+  </programme>
+  <programme start="20261125023640 +0000" channel="tv3" stop="20261125030515 +0000">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Fràgil</sub-title>
+    <desc lang="ca">L'Èlia va a un càsting i la pressió li juga una mala passada. La Mai, al límit, comet un greu error amb la seva fisioterapeuta. La Noor organitza una festa de nit per cridar l'atenció del Manu i ella i el Guim acabaran sols als lavabos. L'Eva explica a tots els monitors que vol vendre Les Guilles i… els anuncia el seu estat de salut, davant la sorpresa de la Mai.</desc>
+    <length units="minutes">00:28:35</length>
+  </programme>
+  <programme start="20261125030515 +0000" channel="tv3" stop="20261125033302 +0000">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Resistència</sub-title>
+    <desc lang="ca">Les Guilles són molt més que una casa de colònies i la Mai i el Samir li demanen a l'Eva una oportunitat per salvar-les. La Rita comença a veure el Billy d'una altra manera, vol que siguin més que amics. La Martina descobreix què va passar entre la Noor i el Guim a la festa i li demana explicacions. El Guim, acorralat, reacciona violentament.</desc>
+    <length units="minutes">00:27:47</length>
+  </programme>
+  <programme start="20261125023737 +0000" channel="tvi" stop="20261125043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11789</sub-title>
+    <sub-title lang="ca">11792</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">01:52:23</length>
   </programme>
-  <programme start="20261124173315 +0000" channel="esport3" stop="20261124174120 +0000">
-    <title lang="ca">Capacitats</title>
-    <sub-title lang="ca">- Els jocs més 'special' del món</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:08:05</length>
+  <programme start="20261125043000 +0000" channel="tvi" stop="20261125050000 +0000">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Jaume Llombart Sextet</sub-title>
+    <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261124174120 +0000" channel="esport3" stop="20261124184140 +0000">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Sabah-Barça, 'Un dia inesperat' i l'Espanyol de Sarabia</sub-title>
-    <desc lang="ca">Última hora del Sabah-Barça amb Francesc Latorre. Avui, Reial Madrid-PSV al Santiago Bernabéu. Presentem el 'Sense ficció' 'Un dia inesperat', amb Jordi Bentanachs. L'Espanyol canvia de cara amb Eder Sarabia. Ens ho explica Juli Garcia. A la tertúlia, ens acompanyen Raúl Fuentes, Irati Vidal i Joan Poquí.</desc>
-    <length units="minutes">01:00:20</length>
+  <programme start="20261125010000 +0000" channel="324" stop="20261125060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11792</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261124173148 +0000" channel="sx3" stop="20261124174843 +0000">
-    <title lang="ca">El món del pot petit</title>
-    <sub-title lang="ca">El Tren de la Música</sub-title>
-    <desc lang="ca">El Cuc cada vegada té menys por i avui farà el seu primer viatge amb el Tren de la Música, un tren molt especial. La Jana i en Pau l'acompanyen per diferents indrets mentre canten i viatgen pel Pot Petit.</desc>
-    <length units="minutes">00:16:55</length>
+  <programme start="20261125060000 +0000" channel="324" stop="20261125080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11793</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261124174843 +0000" channel="sx3" stop="20261124175954 +0000">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva les papaies</sub-title>
-    <desc lang="ca">En Carlos i en Tracker fan suc de papaia amb la Patrulla Peluda, però llavors veuen que l'alcaldessa Goodway i la Chickaletta estan en perill.</desc>
-    <length units="minutes">00:11:11</length>
+  <programme start="20261125022713 +0000" channel="esport3" stop="20261125025053 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5577</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:23:40</length>
+  </programme>
+  <programme start="20261125025053 +0000" channel="esport3" stop="20261125041444 +0000">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Buzau-BM Granollers / EHF European League / J5</sub-title>
+    <desc lang="ca">Penúltima jornada d'aquesta fase de grups. El Fraikin juga a Rumania amb l'objectiu de sumar la 4a victòria en 5 partits. En el precedent, disputat a la capital del Vallès Oriental, el Granollers es va imposar per 37 a 31.</desc>
+    <length units="minutes">01:23:51</length>
+  </programme>
+  <programme start="20261125022524 +0000" channel="sx3" stop="20261125024803 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">L'últim dia (1a part): Configuració</sub-title>
+    <desc lang="ca">El Monarca acaba de col·locar les últimes peces del seu pla maquiavèl·lic al seu escaquer del mal. No té res a perdre, perquè avui és el seu últim dia. El seu pla és més ambiciós que mai. Global, implacable, radical. Si no aconsegueix els prodigis de Ladybug i el Gat Noir, el món viurà sumit en el caos per sempre. La Marinette i l'Adrien ja han caigut víctimes d'aquest pla. Estan condemnats Ladybug i el Gat Noir? Aconseguirà el Monarca la victòria final?</desc>
+    <length units="minutes">00:22:39</length>
+  </programme>
+  <programme start="20261125024803 +0000" channel="sx3" stop="20261125031144 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">L'últim dia (2a p): Re-creació</sub-title>
+    <desc lang="ca">El pla definitiu del Monarca ja està en marxa i sembla que no hi ha res que el pugui aturar. Sobretot tenint en compte que, mentre el món està sumit en el caos, el supermalvat acaba de capturar Ladybug en persona.</desc>
+    <length units="minutes">00:23:41</length>
   </programme>
 </tv>
