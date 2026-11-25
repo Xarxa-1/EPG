@@ -3,86 +3,88 @@
   <channel id="324">
     <display-name>3/24</display-name>
   </channel>
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
   </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
+  </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <programme start="20261125023737 +0000" channel="tv3" stop="20261125043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11792</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:52:23</length>
+  <programme start="20261125165326 +0000" channel="tv3" stop="20261125174435 +0000">
+    <title lang="ca">El paradís de les senyores</title>
+    <sub-title lang="ca">972</sub-title>
+    <desc lang="ca">En aquest episodi, entre altres coses, la Maria s'ho va fer venir bé per fer tornar avui en Vito a casa seva, i li vol preparar un sopar deliciós perquè està decidida a arreglar la seva relació. L'Armando ha acceptat de tornar a veure la senyora Alba, i les Venus l'obliguen a anar a la segona cita molt elegant, amb un vestit d'en Botteri i tot, però de vegades les coses no surten exactament com s'havien previst. A l'Alfredo li van fallar les gestions amb els bancs on va anar a demanar diners per al seu projecte però avui l'han citat per anar a parlar amb l'últim banc que li queda.</desc>
+    <length units="minutes">00:51:09</length>
   </programme>
-  <programme start="20261125043000 +0000" channel="tv3" stop="20261125050000 +0000">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Jaume Llombart Sextet</sub-title>
+  <programme start="20261125174435 +0000" channel="tv3" stop="20261125190632 +0000">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">458</sub-title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="minutes">01:21:57</length>
+  </programme>
+  <programme start="20261125170846 +0000" channel="tv3" stop="20261125173521 +0000">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">El suro, un plàstic natural</sub-title>
+    <desc lang="ca">L'alzina surera només creix en algunes àrees molt concretes de bosc mediterrani, les que tenen la terra àcida, no calcària. Això fa que el Baix Empordà sigui un dels pocs llocs al món on prospera aquest arbre.L'alzina surera té una escorça molt gruixuda, flexible i aïllant: tant, que protegeix l'arbre de les flames. El suro només s'extreu a la primavera i l'estiu, quan l'arbre està creixent i és més fàcil separar l'escorça del tronc. La reportera Samantha Vall aprofita que els germans Pagès estan escorxant l'alzina surera per conèixer l'ofici. El més important és no clavar la destral fins a l'escorça interna, perquè es pot ferir l'arbre.Un cop extreta, la pela es bull dues vegades perquè, primer, perdi la forma de tronc i, després, sigui més flexible. Després de les dues bullides ja pot passar a la indústria. Tot i que la major part es destina a taps, hi ha altres aplicacions: se'n fan jaquetes, paraigües i fins i tot pilotes de futbol.Un matalàs de pilotes microscòpiquesVist al microscopi, el suro és, de fet, un matalàs de pilotes plenes d'aire i hermèticament embolicades per suberina. Jaume Vilalta, a plató, explica que la suberina és un polièster natural, un material molt elàstic i resistent que generen les cèl·lules de l'escorça de tots els arbres, però en el cas de l'alzina surera la seva producció és excepcional. Aquestes pilotes d'aire tenen la capacitat de deformar-se i absorbir energia, però es recuperen ràpidament. Aquesta és una propietat important perquè un tap s'adapti al recipient i no deixi passar el líquid. Però la gràcia és que, com que és un producte que prové de la natura, té una certa porositat i deixa passar l'oxigen. Així, el vi pot evolucionar sense fer-se malbé. Però quant oxigen ha de passar? A Vitec, Parc Tecnològic del Vi, a Falset, tenen l'única màquina a Espanya capaç de mesurar quant oxigen passa a través del tap. El responsable d'enologia de VITEC, Jordi Roselló, ens demostra com massa oxigen acaba rovellan</desc>
+    <length units="minutes">00:26:35</length>
+  </programme>
+  <programme start="20261125173521 +0000" channel="tv3" stop="20261125181952 +0000">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Mar pelágica</sub-title>
+    <desc lang="ca">Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
+    <length units="minutes">00:44:31</length>
+  </programme>
+  <programme start="20261125165344 +0000" channel="tvi" stop="20261125173309 +0000">
+    <title lang="ca">La Riera</title>
+    <sub-title lang="ca">169</sub-title>
+    <desc lang="ca">L'Albert sospita seriosament de l'Oriol i vol saber com va el matrimoni de la Mireia. La Mercè i l'Esteve reaccionen a les acusacions de la Núria. Cadascú a la seva manera. En Daniel intervé quan veu que en Quique es troba amb el camell. No serà l'únic. L'Anna vol convèncer l'Ernest perquè torni a la teràpia, però ell està del tot desorientat i pot fer qualsevol bestiesa.</desc>
+    <length units="minutes">00:39:25</length>
+  </programme>
+  <programme start="20261125173309 +0000" channel="tvi" stop="20261125174434 +0000">
+    <title lang="ca">CUINES CATALUNYA</title>
+    <sub-title lang="ca">Torrada de bacallà</sub-title>
+    <desc lang="ca">L'Arnau París arriba disposat a tallar el bacallà amb una recepta tan senzilla com gustosa: una torrada de bacallà, ideal per començar el dia amb molta energia.</desc>
+    <length units="minutes">00:11:25</length>
+  </programme>
+  <programme start="20261125170000 +0000" channel="324" stop="20261125183000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11797</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">01:30:00</length>
+  </programme>
+  <programme start="20261125183000 +0000" channel="324" stop="20261125190000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11798</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">00:30:00</length>
   </programme>
-  <programme start="20261125023640 +0000" channel="tv3" stop="20261125030515 +0000">
-    <title lang="ca">Jo mai mai</title>
-    <sub-title lang="ca">Fràgil</sub-title>
-    <desc lang="ca">L'Èlia va a un càsting i la pressió li juga una mala passada. La Mai, al límit, comet un greu error amb la seva fisioterapeuta. La Noor organitza una festa de nit per cridar l'atenció del Manu i ella i el Guim acabaran sols als lavabos. L'Eva explica a tots els monitors que vol vendre Les Guilles i… els anuncia el seu estat de salut, davant la sorpresa de la Mai.</desc>
-    <length units="minutes">00:28:35</length>
+  <programme start="20261125162739 +0000" channel="esport3" stop="20261125172639 +0000">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
+    <length units="minutes">00:59:00</length>
   </programme>
-  <programme start="20261125030515 +0000" channel="tv3" stop="20261125033302 +0000">
-    <title lang="ca">Jo mai mai</title>
-    <sub-title lang="ca">Resistència</sub-title>
-    <desc lang="ca">Les Guilles són molt més que una casa de colònies i la Mai i el Samir li demanen a l'Eva una oportunitat per salvar-les. La Rita comença a veure el Billy d'una altra manera, vol que siguin més que amics. La Martina descobreix què va passar entre la Noor i el Guim a la festa i li demana explicacions. El Guim, acorralat, reacciona violentament.</desc>
-    <length units="minutes">00:27:47</length>
+  <programme start="20261125172639 +0000" channel="esport3" stop="20261125180005 +0000">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Prèvia Sabah-Barça, tota la Champions i tertúlia</sub-title>
+    <desc lang="ca">El Barça vol fer-se fort al top 8 de la Champions. Última hora del partit al camp del Sabah, amb Francesc Latorre. De l'equip de l'Azerbaidjan en parlem amb Marc Mayola a 'Històries del futbol'. Joan Fàbregas ens analitza l'àrbitre de l'enfrontament. La resta de la jornada de Champions i tertúlia. Ens acompanyen Pere Mas, Dani Senabre i Màrius Carol.</desc>
+    <length units="minutes">00:33:26</length>
   </programme>
-  <programme start="20261125023737 +0000" channel="tvi" stop="20261125043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11792</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:52:23</length>
+  <programme start="20261125171338 +0000" channel="sx3" stop="20261125172308 +0000">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb Miró</sub-title>
+    <desc lang="ca">A l'excursió d'avui descobrirem l'artista Joan Miró. Voleu que mirem els seus quadres? Voleu saber amb quins colors pintava? Com s'inspirava?</desc>
+    <length units="minutes">00:09:30</length>
   </programme>
-  <programme start="20261125043000 +0000" channel="tvi" stop="20261125050000 +0000">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Jaume Llombart Sextet</sub-title>
-    <length units="minutes">00:30:00</length>
-  </programme>
-  <programme start="20261125010000 +0000" channel="324" stop="20261125060000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11792</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
-  </programme>
-  <programme start="20261125060000 +0000" channel="324" stop="20261125080000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11793</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:00:00</length>
-  </programme>
-  <programme start="20261125022713 +0000" channel="esport3" stop="20261125025053 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5577</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:23:40</length>
-  </programme>
-  <programme start="20261125025053 +0000" channel="esport3" stop="20261125041444 +0000">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Buzau-BM Granollers / EHF European League / J5</sub-title>
-    <desc lang="ca">Penúltima jornada d'aquesta fase de grups. El Fraikin juga a Rumania amb l'objectiu de sumar la 4a victòria en 5 partits. En el precedent, disputat a la capital del Vallès Oriental, el Granollers es va imposar per 37 a 31.</desc>
-    <length units="minutes">01:23:51</length>
-  </programme>
-  <programme start="20261125022524 +0000" channel="sx3" stop="20261125024803 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">L'últim dia (1a part): Configuració</sub-title>
-    <desc lang="ca">El Monarca acaba de col·locar les últimes peces del seu pla maquiavèl·lic al seu escaquer del mal. No té res a perdre, perquè avui és el seu últim dia. El seu pla és més ambiciós que mai. Global, implacable, radical. Si no aconsegueix els prodigis de Ladybug i el Gat Noir, el món viurà sumit en el caos per sempre. La Marinette i l'Adrien ja han caigut víctimes d'aquest pla. Estan condemnats Ladybug i el Gat Noir? Aconseguirà el Monarca la victòria final?</desc>
-    <length units="minutes">00:22:39</length>
-  </programme>
-  <programme start="20261125024803 +0000" channel="sx3" stop="20261125031144 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">L'últim dia (2a p): Re-creació</sub-title>
-    <desc lang="ca">El pla definitiu del Monarca ja està en marxa i sembla que no hi ha res que el pugui aturar. Sobretot tenint en compte que, mentre el món està sumit en el caos, el supermalvat acaba de capturar Ladybug en persona.</desc>
-    <length units="minutes">00:23:41</length>
+  <programme start="20261125172308 +0000" channel="sx3" stop="20261125173529 +0000">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb la convidada sorpresa</sub-title>
+    <desc lang="ca">L'escola sempre és divertida, però encara ho és més quan la mestra és... la Tat! Avui la mestra Tat ens porta una convidada molt especial. En Titó i els Fa La La hauran de descobrir qui és superant unes proves molt especials.</desc>
+    <length units="minutes">00:12:21</length>
   </programme>
 </tv>
