@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
-  </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
+  </channel>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
@@ -15,76 +15,76 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261126165116 +0000" channel="tv3" stop="20261126174106 +0000">
-    <title lang="ca">El paradís de les senyores</title>
-    <sub-title lang="ca">973</sub-title>
-    <desc lang="ca">En aquest episodi, entre altres coses, a la Irene se li acut que en Leonardo Crespi podria finançar el projecte del canvi per a bicicletes de l'Alfredo i ell mostra disposat a parlar-ne amb el noi. La Marta ha de rebre les fotografies de la segona sessió i espera que aquesta vegada en pugui quedar contenta de veritat. Avui és el dia que la Maria presenta la seva col·lecció primavera-estiu a en Vittorio i en Roberto. En Vito també assisteix a la presentació. I, mentre hi són, en Marcello els fa saber que l'operació de la Silvana ha anat bé i que en Matteo tornarà aviat a Milà.</desc>
-    <length units="minutes">00:49:50</length>
+  <programme start="20261127004409 +0000" channel="tv3" stop="20261127021748 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2207</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:33:39</length>
   </programme>
-  <programme start="20261126174106 +0000" channel="tv3" stop="20261126190752 +0000">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">459</sub-title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="minutes">01:26:46</length>
-  </programme>
-  <programme start="20261126164558 +0000" channel="tv3" stop="20261126171223 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">No t'ho creguis a la primera</sub-title>
-    <desc lang="ca">La màgia dels efectes visuals serà mostrada a 'Quèquicom'. Amb el reportatge de Samantha Vall i Lluís de Baldomero, titulat 'No t'ho creguis a la primera', el programa científic del 33 explicarà els resultats de l'aplicació d'efectes visuals, molt de moda sobretot per internet.En una part del reportatge es veu com la reportera Samantha Vall és atropellada per un cotxe mentre està parlant a càmera. És un accident molt impactant perquè el cotxe l'arrossega carrer avall.... o potser no. Finalment, es veu que tot és mentida. A partir d'aquestes imatges, l'equip del programa ha recreat una situació per demostrar que no t'ho pots creure tot a la primera. Una empresa capdavantera en tractament d'imatge, Glassworks, ajuda l'equip de reporters a fer que tot sembli real.Cada vegada més, amb les noves tecnologies, és més fàcil crear històries, i fins i tot fer-les passar per reals. A 'Quèquicom' s'ensenyen alguns trucs per canviar la realitat que ens envolta i enganyar l'espectador.També donen una classe de llenguatge audiovisual a uns nens de l'escola Sant Ignasi de Barcelona. Un personatge que fa d'explorador actua davant dels nens mentre la Samantha el grava i les imatges també es reprodueixen en una televisió. El grup ha de comparar el que fa el personatge amb el que veuen per la tele. I s'adonen que escalar una paret és simplement arrossegar-se per terra i inclinar la càmera.Els efectes també poden ajudar a explicar millor una història sense tergiversar-la. És el cas del chroma que s'utilitza als informatius. La Samantha xerra amb el corresponsal a París de TV3, Toni Cruanyes, i explica per què es pot incrustar la imatge que es vulgui damunt un color predeterminat. Habitualment, aquest color predeterminat és un to de verd que costa de trobar a la natura. Per exemple, la pell humana no el té, aquest to. Electrònicament, es diu a la càmera que tot el que tingui aquest to de verd el faci transparent. A partir de llavors ja es pot incrustar la imat</desc>
-    <length units="minutes">00:26:25</length>
-  </programme>
-  <programme start="20261126171223 +0000" channel="tv3" stop="20261126175746 +0000">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Costa rocosa</sub-title>
-    <desc lang="ca">En aquest capítol d''Arxipèlag blau' recorrerem les costes rocoses, des de la part emergida on crien corbs marins i virots, fins als fons coral·lígens. Miquel Salamanca ens presentarà aquest món acolorit i divers. Als primers metres hi trobem les criatures adaptades al moviment continu de l'aigua a la vorera, com els peixos de la família dels blènnids, pegellides, crancs, anemones i gambetes. Als fons de roca les espècies i comunitats van canviant a mesura que ens endisem i varia la llum i la temperatura. Coneixerem com es reprodueixen peixos com els tords, els fadrins, les tutes o els anfosos. Unes imatges úniques ens mostraran les diverses estratègies que tenen els depredadors, com els déntols, anfosos, sirvioles, palomides, espets, tonyines, virots..., per capturar els bancs de peixos petits com els gerrets, les bogues o les sardines. Per finalitzar, ens endinsarem a les aigües de la reserva marina i parc natural de Llevant amb Gàdor Muntaner, guiada pel fotògraf i documentalista Agustí Torres, gran coneixedor d'aquest espai i membre de l'equip d''Arxipèlag blau'.</desc>
-    <length units="minutes">00:45:23</length>
-  </programme>
-  <programme start="20261126165134 +0000" channel="tvi" stop="20261126172853 +0000">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">170</sub-title>
-    <desc lang="ca">En Lluís creu que hi ha una manera de fer reaccionar l'Ernest i convoca els germans. Reapareix en Guillem Almeda i torna a assetjar l'Estel. En Balló és conscient de les sospites de l'Albert i avisa l'Oriol. Finalment, tothom, a la cuina, s'assabenta de les mentides de la Nora. I l'Ona no està disposada a afluixar amb la Marina.</desc>
-    <length units="minutes">00:37:19</length>
-  </programme>
-  <programme start="20261126172853 +0000" channel="tvi" stop="20261126173732 +0000">
-    <title lang="ca">CUINES CATALUNYA</title>
-    <sub-title lang="ca">Dolç d'ametlla</sub-title>
-    <desc lang="ca">Sabeu aquell torró que és dur i va cobert amb pa d'àngel? Doncs Arnau París en fa una versió per compartir, més tova, però tan bona com la recepta tradicional.</desc>
-    <length units="minutes">00:08:39</length>
-  </programme>
-  <programme start="20261126160000 +0000" channel="324" stop="20261126170000 +0000">
+  <programme start="20261127021748 +0000" channel="tv3" stop="20261127043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11806</sub-title>
+    <sub-title lang="ca">11811</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+    <length units="minutes">02:12:12</length>
   </programme>
-  <programme start="20261126170000 +0000" channel="324" stop="20261126183000 +0000">
+  <programme start="20261127014307 +0000" channel="tv3" stop="20261127022008 +0000">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Nous horitzons</sub-title>
+    <desc lang="ca">La Mai expulsa el Guim de la casa mentre la Rita i el Billy viuen la seva particular història d'amor. L'Eva i el Pere estan convençuts de vendre Les Guilles. Abans de la festa final de les colònies totes les peces acabaran trobant el seu lloc.</desc>
+    <length units="minutes">00:37:01</length>
+  </programme>
+  <programme start="20261127022008 +0000" channel="tv3" stop="20261127025926 +0000">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Nervis</sub-title>
+    <desc lang="ca">La Mai arriba a l'estiu en un moment vital molt intens. Gairebé sense adonar-se'n, s'ha promès amb la Su i torna a Les Guilles per fer de monitora del grup dels grans, amb un ajudant inesperat: el Billy. Però cap dels dos té el cap posat del tot en les colònies. Mentre la Mai s'ofega entre els preparatius d'un casament que ha acceptat de forma precipitada, el Billy arrossega les seves pròpies inseguretats dins de la relació a distància que té amb la Rita.L'arribada d'un nou grup, on sembla que tothom també amaga alguna cosa, ho farà saltar tot pels aires.</desc>
+    <length units="minutes">00:39:18</length>
+  </programme>
+  <programme start="20261127004409 +0000" channel="tvi" stop="20261127021748 +0000">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">2207</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="minutes">01:33:39</length>
+  </programme>
+  <programme start="20261127021748 +0000" channel="tvi" stop="20261127043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11807</sub-title>
+    <sub-title lang="ca">11811</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+    <length units="minutes">02:12:12</length>
   </programme>
-  <programme start="20261126162846 +0000" channel="esport3" stop="20261126172037 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">L'Alta Viena</sub-title>
-    <desc lang="ca">En aquest episodi, la Julie visita Llemotges i l'Alta Viena, on visita un antic molí paperer, una fàbrica de porcellana i un taller de guanteria. Amb en Jean-Marie, que és mestre tripaire, prepara un tradicional cap de vedella. Després, amb en Frédéric, prepara uns massapans. Finalment, la Cécile, que és criadora de porcs de la raça de cul negre llemosina, li ensenya una recepta de rostit d'aquesta carn molt apreciada.</desc>
-    <length units="minutes">00:51:51</length>
+  <programme start="20261127010000 +0000" channel="324" stop="20261127060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11811</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
   </programme>
-  <programme start="20261126172037 +0000" channel="esport3" stop="20261126172656 +0000">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Prades</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="minutes">00:06:19</length>
+  <programme start="20261127060000 +0000" channel="324" stop="20261127080000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11812</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261126165019 +0000" channel="sx3" stop="20261126170125 +0000">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Surt la lluna i és de dia</sub-title>
-    <desc lang="ca">El Mic veu que surt la lluna, però encara és de dia. Com pot ser?</desc>
-    <length units="minutes">00:11:06</length>
+  <programme start="20261127004748 +0000" channel="esport3" stop="20261127022007 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Quo vadis, Balde? La querella contra el Madrid i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Paula Reverter i Jordi Martí comenten la situació de Balde i la querella del Barça contra el Madrid per les paraules de Florentino. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <length units="minutes">01:32:19</length>
   </programme>
-  <programme start="20261126170125 +0000" channel="sx3" stop="20261126171059 +0000">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió a la policia</sub-title>
-    <desc lang="ca">A l'excursió d'avui pujarem a un cotxe i a una moto de policia. Li encendrem els llums i les sirenes. I la sorpresa final d'en JohnC serà moníssima: un gos policia!</desc>
-    <length units="minutes">00:09:34</length>
+  <programme start="20261127022007 +0000" channel="esport3" stop="20261127023542 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5579</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:15:35</length>
+  </programme>
+  <programme start="20261127020156 +0000" channel="sx3" stop="20261127022427 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El senyor Agreste</sub-title>
+    <desc lang="ca">L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
+    <length units="minutes">00:22:31</length>
+  </programme>
+  <programme start="20261127022427 +0000" channel="sx3" stop="20261127024537 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Castell Negre</sub-title>
+    <desc lang="ca">Per celebrar l'aniversari de l'Alix, la Marinette organitza un pla perquè pugui passar el dia amb els amics i la família. Per fer-ho recupera el prodigi del conill i es converteix en guardiana del temps per unes quantes hores. Però un supermalvat trastocarà els seus plans i amenaçarà d'esguerrar-los la festa.</desc>
+    <length units="minutes">00:21:10</length>
   </programme>
 </tv>
