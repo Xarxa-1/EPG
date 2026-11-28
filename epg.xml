@@ -1,89 +1,89 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tv3">
-    <display-name>TV3</display-name>
-  </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
+  <channel id="sx3">
+    <display-name>SX3 / 33</display-name>
   </channel>
   <channel id="tvi">
     <display-name>TV3Cat</display-name>
   </channel>
-  <channel id="sx3">
-    <display-name>SX3 / 33</display-name>
+  <channel id="324">
+    <display-name>3/24</display-name>
   </channel>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261128014619 +0000" channel="tv3" stop="20261128043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11820</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">02:43:41</length>
+  <channel id="tv3">
+    <display-name>TV3</display-name>
+  </channel>
+  <programme start="20261128154147 +0000" channel="tv3" stop="20261128175946 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Till</sub-title>
+    <desc lang="ca">TILL 'Till'Direcció: Chinonye ChukwuGuió: Keith Beauchamp, Chinonye Chukwu, Michael ReillyProducció: Metro-Goldwyn-Mayer (MGM), Frederick Zollo Productions, Whoop/One Ho Productions/Lil' Whoop Productions, Orion Pictures, United Artists ReleasingAny: 2022Durada: 131País: Estats UnitsMúsica: Abel KorzeniowskiFotografia: Bobby BukowskiIntèrprets: Danielle Deadwyler, Jalyn Hall, Frankie Faison, Haley Bennett, Whoopi Goldberg, John Douglas Thompson, Sean Patrick Thomas, Jamie Renell, Kevin Carroll, Roger Guenveur Smith, Tosin Cole, Jayme Lawson, David Caprita, Njema Williams, Gail Everett-Smith, Josh Ventura, Marc Collins, Diallo Thompson, Tyrik Johnson, Enoch KingAquesta pel·lícula, dramàtica i emotiva, es basa en la història real de Mamie Till-Mobley i el seu fill de 14 anys, Emmett Till, víctima d'un assassinat racista al Mississipi dels anys 1950 pel simple fet d'haver fet broma amb un dona blanca d'un poble petit. Ens explica el desenvolupament del judici als assassins -de desenllaç injust- i com la lluita de Mamie va ser un dels detonants del moviment pels drets civils dels negres a Amèrica, una lluita que té dos moments clau: la decisió de mostrar al funeral el cos del seu fill destrossat pels assassins i publicar-ne les fotos a la premsa, i el cru i valent testimoni que aporta al judici davant l'ambient hostil dels blancs de l'època.</desc>
+    <length units="minutes">02:17:59</length>
   </programme>
-  <programme start="20261128043000 +0000" channel="tv3" stop="20261128050000 +0000">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Tazuff</sub-title>
-    <length units="minutes">00:30:00</length>
-  </programme>
-  <programme start="20261128010115 +0000" channel="tv3" stop="20261128015216 +0000">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Volcans sagrats</sub-title>
-    <desc lang="ca">En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.</desc>
-    <length units="minutes">00:51:01</length>
-  </programme>
-  <programme start="20261128015216 +0000" channel="tv3" stop="20261128024432 +0000">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Volcans beneficiosos</sub-title>
-    <desc lang="ca">Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.</desc>
-    <length units="minutes">00:52:16</length>
-  </programme>
-  <programme start="20261128014619 +0000" channel="tvi" stop="20261128043000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11820</sub-title>
+  <programme start="20261128175946 +0000" channel="tv3" stop="20261128200632 +0000">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">- Remant com un sol home</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">02:43:41</length>
+    <length units="minutes">02:06:46</length>
   </programme>
-  <programme start="20261128043000 +0000" channel="tvi" stop="20261128050000 +0000">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">- Tazuff</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:30:00</length>
+  <programme start="20261128151653 +0000" channel="tv3" stop="20261128161556 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Berlín</sub-title>
+    <desc lang="ca">En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.</desc>
+    <length units="minutes">00:59:03</length>
   </programme>
-  <programme start="20261128010000 +0000" channel="324" stop="20261128060000 +0000">
+  <programme start="20261128161556 +0000" channel="tv3" stop="20261128171459 +0000">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Lisboa</sub-title>
+    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
+    <length units="minutes">00:59:03</length>
+  </programme>
+  <programme start="20261128153632 +0000" channel="tvi" stop="20261128170535 +0000">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Com papallones sota la llum</sub-title>
+    <desc lang="ca">COM PAPALLONES SOTA LA LLUMProducció: Televisió de Catalunya, Benecé Produccions i José A. Ciancaglini Direcció i guió: Diego YakerDirecció de fotografia: Lucas SchiaffiMúsica: Xavier TorrasIntèrprets: Lucas Ferraro (Diego), Cristina Brondo (Laia), Pepe Novoa (Enrique), Josefina Viton (Vanesa), Lidia Catalano (Teresa), Atilio Pozzobon ( Felipe), Lui Ziembrowski ( Manotas), Lluís Soler (capataç), Manuel Vignau (Mato), Maximiliano Lernher (Mugre) i Eliana Pereira (Mili)Convençut que al seu país ja no té futur, en Diego, un jove argentí d'orígen català, viu obsessionat amb rebre la partida de naixement del seu avi per aconseguir el passaport que li obrirà les portes d'Europa. Malgrat les dificultats econòmiques de la seva família, aconsegueix reunir els diners i finalment viatja a Barcelona on descobrirà l'amor però també la vida de l'emigrant amb totes les dificultats que implica. Tot i això, lluitarà per forjar-se un futur tal i com va fer el seu avi temps endarrera.</desc>
+    <length units="minutes">01:29:03</length>
+  </programme>
+  <programme start="20261128170535 +0000" channel="tvi" stop="20261128180446 +0000">
+    <title lang="ca">Infidels</title>
+    <sub-title lang="ca">18</sub-title>
+    <desc lang="ca">Amb la Dani i l'Arlet de lluna de mel, les amigues preparen el primer aniversari de la filla de la Cruz. El Jesús, amb motiu d'una data tant assenyalada, voldrà acostar-se a la seva filla, però la Cruz ho intentarà evitar amb totes les seves forces. La Paula trenca la relació amb el seu soci al bar, adquirint un deute que no pot pagar. Recorre a la Cruz perquè l'ajudi, però les friccions entre les dues amigues són constants... Finalment, recorre al Marc, el seu ex-marit. La Joana, desesperada, va a veure la Lídia i es troba amb el seu nou soci, el Salva, que després d'una peculiar teràpia li ofereix feina al despatx. A la universitat, la Joana coneix el Pep, un noi de 20 anys. La Lídia continua esperant amb il·lusió poder acollir un nen, mentre al Toni se li multipliquen els mals de cap amb els seus negoci il·legals. Tot plegat amenaça de contaminar la vida de la parella.</desc>
+    <length units="minutes">00:59:11</length>
+  </programme>
+  <programme start="20261128143000 +0000" channel="324" stop="20261128163000 +0000">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">7403</sub-title>
+    <length units="minutes">02:00:00</length>
+  </programme>
+  <programme start="20261128163000 +0000" channel="324" stop="20261128183000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11820</sub-title>
+    <sub-title lang="ca">11824</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">05:00:00</length>
+    <length units="minutes">02:00:00</length>
   </programme>
-  <programme start="20261128060000 +0000" channel="324" stop="20261128070000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11820</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:00:00</length>
+  <programme start="20261128151323 +0000" channel="esport3" stop="20261128170857 +0000">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Catalunya-Corea del Sud / Partit internacional amistós</sub-title>
+    <desc lang="ca">La selecció catalana femenina de futbol té una bona oportunitat per demostrar el seu nivell competitiu. Les sud-coreanes ocupen la 17a posició al rànquing i s'han classificat per al Mundial de l'any que ve.</desc>
+    <length units="minutes">01:55:34</length>
   </programme>
-  <programme start="20261128005729 +0000" channel="esport3" stop="20261128022957 +0000">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Marc Márquez, el comiat del G.O.A.T.; Delmàs i Nin</sub-title>
-    <desc lang="ca">Viatgem fins a Xest per a repassar amb Xavi Guillén l'històric comiat de Marc Márquez de MotoGP. Repassem la seva trajectòria i escoltem protagonistes. A la segona part del programa fem tertúlia amb Santi Ovalle, Carme Lluveras, Juli Garcia i Francesc Garriga. Àlex Delmàs ens porta la clau del Depor-Barça i acabem amb les golfes d'Òscar Nin.</desc>
-    <length units="minutes">01:32:28</length>
+  <programme start="20261128170857 +0000" channel="esport3" stop="20261128172500 +0000">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia Depor-Barça / J14</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="minutes">00:16:03</length>
   </programme>
-  <programme start="20261128022957 +0000" channel="esport3" stop="20261128025536 +0000">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">5580</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="minutes">00:25:39</length>
+  <programme start="20261128153116 +0000" channel="sx3" stop="20261128154238 +0000">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">La meva estimada consola</sub-title>
+    <desc lang="ca">La Wendy està deprimida: el Maxence no li fa cas perquè s'ha comprat una consola nova i no deixa de jugar-hi ni un instant. Per aixecar la moral a la seva germana, la Marine dona un ultimàtum al Maxence: 'O la consola o la nòvia, tu tries!'. Naturalment el Maxence tria la Wendy... però al cine, quan passegen o quan són junts a casa, no es pot estar de treure la consola discretament...</desc>
+    <length units="minutes">00:11:22</length>
   </programme>
-  <programme start="20261128014242 +0000" channel="sx3" stop="20261128020221 +0000">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Records d’una càlida amabilitat!</sub-title>
-    <desc lang="ca">És un dia fred i ple d'activitat a Ciutat Carmí. El Parker s'emporta el Yamper a una festa de pijames. El Goh vol capturar algun Pokémon de tipus gel, i la Chrysa i la Chloe acaben fent un sopar de noies. Quan la Chloe veu que la Chrysa té molts objectes de Psyduck, la Chrysa li explica que, en una època que estava molt desanimada, un noi i el seu Psyduck, que anava amb bufanda, la van animar, i per això no els ha oblidat. L'endemà, l'Ash i el Goh expliquen a la Chloe que van conèixer el mateix noi i el Psyduck, i la Chloe insisteix que surtin tots a buscar-los. Al final els troben i la Chloe proporciona el retrobament entre la Chrysa, plena de felicitat, i el Psyduck que significa tant per ella.</desc>
-    <length units="minutes">00:19:39</length>
-  </programme>
-  <programme start="20261128020221 +0000" channel="sx3" stop="20261128022443 +0000">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">La Redreçadora</sub-title>
-    <desc lang="ca">Mentre intenta amagar el refredat que té a l'Adrien, la Marinette intenta ajudar el Nathaniel a tenir més seguretat en ell mateix per poder dibuixar el còmic que el Marc ha escrit per ell. Però les aspiracions artístiques del Nathaniel no són del gust de tothom i aviat apareixerà una supermalvada decidida a redreçar Ladybug i el seu equip i fer-los anar pel bon camí.</desc>
-    <length units="minutes">00:22:22</length>
+  <programme start="20261128154238 +0000" channel="sx3" stop="20261128155400 +0000">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les germanes ventafocs</sub-title>
+    <desc lang="ca">La Wendy i la Marine descobreixen que els seus pares van a un concert del Joy D. sense elles. S'adonen llavors que no ajuden gens ni mica en les feines de casa. Amb l'esperança de rebre una recompensa, decideixen fer dissabte. Però a força de netejar i endreçar, s'acaben tornant maniàtiques de la neteja i es converteixen en les germanes Ventafocs!</desc>
+    <length units="minutes">00:11:22</length>
   </programme>
 </tv>
