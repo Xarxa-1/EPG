@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator_info_name="3Cat Multi-Channel EPG Generator">
-  <channel id="tvi">
-    <display-name>TV3Cat</display-name>
-  </channel>
   <channel id="tv3">
     <display-name>TV3</display-name>
+  </channel>
+  <channel id="324">
+    <display-name>3/24</display-name>
+  </channel>
+  <channel id="tvi">
+    <display-name>TV3Cat</display-name>
   </channel>
   <channel id="sx3">
     <display-name>SX3 / 33</display-name>
@@ -12,85 +15,75 @@
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <channel id="324">
-    <display-name>3/24</display-name>
-  </channel>
-  <programme start="20261127160539 +0000" channel="tv3" stop="20261127164926 +0000">
-    <title lang="ca">Com si fos ahir</title>
-    <sub-title lang="ca">1858</sub-title>
-    <desc lang="ca">Abandonat per la Neus i enfrontat amb la Raquel, l'Andreu busca refugi en la seva amistat amb la Gemma. L'ascens de la Noe provoca un nou conflicte amb en Miquel i la converteix en l'objectiu de la ràbia d'en Maurici. La Gemma i en Fede amaguen la relació a la Cinta, fins que els problemes dels seus amics comencen a envair la seva intimitat.</desc>
-    <length units="minutes">00:43:47</length>
-  </programme>
-  <programme start="20261127164926 +0000" channel="tv3" stop="20261127173954 +0000">
-    <title lang="ca">El paradís de les senyores</title>
-    <sub-title lang="ca">974</sub-title>
-    <desc lang="ca">En aquest episodi, entre altres coses, la Maria està ensorrada per la decisió que va prendre en Vito, però la Concetta l'anima a seguir endavant perquè creu que encara no està tot perdut. A en Leonardo li ha fallat una col·laboradora i li demana a la Irene si voldria fer-li d'ajudant en una fira de vins. La Rosa veu que la Delia està trista perquè aviat serà el seu aniversari però l'haurà de passar sola perquè els seus pares no hi seran, i se li acut d'organitzar una festeta amb les Venus però amagant que és l'aniversari de la Delia, que no vol que se sentin obligades a fer-li un regal.</desc>
-    <length units="minutes">00:50:28</length>
-  </programme>
-  <programme start="20261127162510 +0000" channel="tv3" stop="20261127165425 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Pirena: gossos, trineus i iglús</sub-title>
-    <desc lang="ca">La reportera Georgina Pujol aprèn a conduir un trineu de gossos, construeix un iglú i dorm en ell en una de les etapes de la Pirena. La nit hivernal al pla de Beret és gèlida, però a l'interior de l'iglú no baixa de zero graus. Jaume Vilalta explica a plató les raons científiques d'aquest fenomen.Un equip d'investigadors d'una universitat de Tòquio ha descobert que els gossos tenen un sistema de circulació sanguínia molt específic. Les artèries que subministren sang tenen unes xarxes amb moltes venes petites interconnectades, que funcionen com un intercanviador d'escalfor. Aquest mecanisme ajuda a regular la temperatura corporal del gos, a pesar de les condicions de fred. És el mateix sistema que tenen d'altres animals adaptats a les baixes temperatures, com els pingüins de l'Antàrtida o els dofins. En canvi, quan les persones estem exposades a un clima fred es produeix una vasoconstricció en les extremitats que disminueix el flux sanguini i la pèrdua d'escalfor. És la manera que té el nostre cos de sacrificar-ne una part per evitar que la resta es refredi massa. En Jaume Martínez, veterinari en cap de la Pirena, ens ajudarà a conèixer més bé els huskies siberians. És una de les races de gossos que més s'assembla al llop, i prové de l'oest de Sibèria. Tradicionalment, els feien servir com a mitjà de transport amb els trineus. Descobrirem que aquests gossos corren perquè conserven l'instint primari dels llops de caçar en manada, a banda que són veritables atletes. I a través de Lázaro Martínez, un dels millors múixers del món en la categoria de gossos nòrdics, entenem per què enganxa tant, aquest esport, fins al punt que en Pep Parés, fa 20 anys, va crear la carrera de trineus Pirena. S'hi va apassionar gràcies a la lectura de 'La crida salvatge', de Jack London. Ell serà qui li fa unes classes particulars de conducció de trineu a la nostra reportera. Una nit a l'iglúI finalment, amb l'ajuda de David Bartra, que pertany a l'Associació de C</desc>
-    <length units="minutes">00:29:15</length>
-  </programme>
-  <programme start="20261127165425 +0000" channel="tv3" stop="20261127172520 +0000">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Torna la tuberculosi?</sub-title>
-    <desc lang="ca">La tuberculosi no és una malaltia del passat. Encara avui, és una de les malalties més infeccioses del món. Cada any s'infecten 100 milions de persones de tuberculosi a tot el planeta. I al barri del Raval de Barcelona la prevalença és altíssima. A Badalona s'està desenvolupant la primera vacuna terapèutica contra aquesta malaltia. L'ha concebut el Dr. Pere-Joan Cardona.</desc>
-    <length units="minutes">00:30:55</length>
-  </programme>
-  <programme start="20261127121427 +0000" channel="tv3" stop="20261127121432 +0000">
-    <title lang="ca">#SORTIDA#</title>
-    <sub-title lang="ca">0</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="minutes">00:00:05</length>
-  </programme>
-  <programme start="20261127160539 +0000" channel="tvi" stop="20261127164926 +0000">
-    <title lang="ca">Com si fos ahir</title>
-    <sub-title lang="ca">1858</sub-title>
-    <desc lang="ca">Abandonat per la Neus i enfrontat amb la Raquel, l'Andreu busca refugi en la seva amistat amb la Gemma. L'ascens de la Noe provoca un nou conflicte amb en Miquel i la converteix en l'objectiu de la ràbia d'en Maurici. La Gemma i en Fede amaguen la relació a la Cinta, fins que els problemes dels seus amics comencen a envair la seva intimitat.</desc>
-    <length units="minutes">00:43:47</length>
-  </programme>
-  <programme start="20261127165120 +0000" channel="tvi" stop="20261127173100 +0000">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">La Nora, rebutjada per tots</sub-title>
-    <desc lang="ca">A la cuina, la Nora no aconsegueix que ningú l'entengui ni la perdoni. Els socis de l'hotel volen anar per feina i necessiten un home de palla a l'equip. En Guillem, que no avança gens amb l'Estel, que el rebutja, té una idea recargolada: recuperar el xantatge a l'Arnau Mas. L'Albert no acaba d'estar-ne convençut, perquè veu coses estranyes. Mentrestant, la Sònia i l'Estel es pregunten si val la pena continuar investigant, i en Daniel s'està enamorant de l'Íngrid, l'amiga de la Marina.</desc>
-    <length units="minutes">00:39:40</length>
-  </programme>
-  <programme start="20261127160000 +0000" channel="324" stop="20261127170000 +0000">
+  <programme start="20261128014619 +0000" channel="tv3" stop="20261128043000 +0000">
     <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11815</sub-title>
+    <sub-title lang="ca">11820</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">02:43:41</length>
+  </programme>
+  <programme start="20261128043000 +0000" channel="tv3" stop="20261128050000 +0000">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Tazuff</sub-title>
+    <length units="minutes">00:30:00</length>
+  </programme>
+  <programme start="20261128010115 +0000" channel="tv3" stop="20261128015216 +0000">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Volcans sagrats</sub-title>
+    <desc lang="ca">En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.</desc>
+    <length units="minutes">00:51:01</length>
+  </programme>
+  <programme start="20261128015216 +0000" channel="tv3" stop="20261128024432 +0000">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Volcans beneficiosos</sub-title>
+    <desc lang="ca">Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.</desc>
+    <length units="minutes">00:52:16</length>
+  </programme>
+  <programme start="20261128014619 +0000" channel="tvi" stop="20261128043000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11820</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">02:43:41</length>
+  </programme>
+  <programme start="20261128043000 +0000" channel="tvi" stop="20261128050000 +0000">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">- Tazuff</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="minutes">00:30:00</length>
+  </programme>
+  <programme start="20261128010000 +0000" channel="324" stop="20261128060000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11820</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="minutes">05:00:00</length>
+  </programme>
+  <programme start="20261128060000 +0000" channel="324" stop="20261128070000 +0000">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">11820</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="minutes">01:00:00</length>
   </programme>
-  <programme start="20261127170000 +0000" channel="324" stop="20261127183000 +0000">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">11816</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="minutes">01:30:00</length>
+  <programme start="20261128005729 +0000" channel="esport3" stop="20261128022957 +0000">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Marc Márquez, el comiat del G.O.A.T.; Delmàs i Nin</sub-title>
+    <desc lang="ca">Viatgem fins a Xest per a repassar amb Xavi Guillén l'històric comiat de Marc Márquez de MotoGP. Repassem la seva trajectòria i escoltem protagonistes. A la segona part del programa fem tertúlia amb Santi Ovalle, Carme Lluveras, Juli Garcia i Francesc Garriga. Àlex Delmàs ens porta la clau del Depor-Barça i acabem amb les golfes d'Òscar Nin.</desc>
+    <length units="minutes">01:32:28</length>
   </programme>
-  <programme start="20261127155854 +0000" channel="esport3" stop="20261127165023 +0000">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">L'estació d'hivern de Val Thorens</sub-title>
-    <desc lang="ca">El cuiner Jean Sulpice fa uns ronyons de vedella, amb salsa de cafè i altimira, acompanyats de bunyols de patata, i per postres, poma merengada amb perfum d'anís i de regalèssia i mel de muntanya. La Kathy fa uns panets farcits de xocolata. Els germans Bruno i Thierry fan formatges savoians, tant de vaca com de cabra. En Jean-Pierre ha descobert la cultura lapona i la fusiona als fogons amb la cultura savoiana, fent un estofat de carn de ren amb rossinyols i vi blanc, acompanyat d'un pastís de creps amb tres formatges de les muntanyes savoianes.</desc>
-    <length units="minutes">00:51:29</length>
+  <programme start="20261128022957 +0000" channel="esport3" stop="20261128025536 +0000">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">5580</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="minutes">00:25:39</length>
   </programme>
-  <programme start="20261127165023 +0000" channel="esport3" stop="20261127171237 +0000">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 13</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="minutes">00:22:14</length>
+  <programme start="20261128014242 +0000" channel="sx3" stop="20261128020221 +0000">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Records d’una càlida amabilitat!</sub-title>
+    <desc lang="ca">És un dia fred i ple d'activitat a Ciutat Carmí. El Parker s'emporta el Yamper a una festa de pijames. El Goh vol capturar algun Pokémon de tipus gel, i la Chrysa i la Chloe acaben fent un sopar de noies. Quan la Chloe veu que la Chrysa té molts objectes de Psyduck, la Chrysa li explica que, en una època que estava molt desanimada, un noi i el seu Psyduck, que anava amb bufanda, la van animar, i per això no els ha oblidat. L'endemà, l'Ash i el Goh expliquen a la Chloe que van conèixer el mateix noi i el Psyduck, i la Chloe insisteix que surtin tots a buscar-los. Al final els troben i la Chloe proporciona el retrobament entre la Chrysa, plena de felicitat, i el Psyduck que significa tant per ella.</desc>
+    <length units="minutes">00:19:39</length>
   </programme>
-  <programme start="20261127163852 +0000" channel="sx3" stop="20261127164932 +0000">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Cantem per fer sortir el sol</sub-title>
-    <desc lang="ca">Quan fa fred, hi ha una cançó molt bonica que fa sortir el sol. És un tema tradicional hongarès que s'ha popularitzat a casa nostra.</desc>
-    <length units="minutes">00:10:40</length>
-  </programme>
-  <programme start="20261127164932 +0000" channel="sx3" stop="20261127170029 +0000">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">La Mosca juga amb la llana</sub-title>
-    <desc lang="ca">Els rodets de fil i els cabdells de llana són objectes quotidians molt atractius per als més petits. De seguida se'ls acuden idees per jugar amb aquests materials.</desc>
-    <length units="minutes">00:10:57</length>
+  <programme start="20261128020221 +0000" channel="sx3" stop="20261128022443 +0000">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La Redreçadora</sub-title>
+    <desc lang="ca">Mentre intenta amagar el refredat que té a l'Adrien, la Marinette intenta ajudar el Nathaniel a tenir més seguretat en ell mateix per poder dibuixar el còmic que el Marc ha escrit per ell. Però les aspiracions artístiques del Nathaniel no són del gust de tothom i aviat apareixerà una supermalvada decidida a redreçar Ladybug i el seu equip i fer-los anar pel bon camí.</desc>
+    <length units="minutes">00:22:22</length>
   </programme>
 </tv>
